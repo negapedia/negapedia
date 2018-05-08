@@ -1,0 +1,7 @@
+spec:
+  - name: vfile
+    local: true
+    import: github.com/ebonetti/itermerge
+    typeMap:
+      Type:
+        expr: vFile

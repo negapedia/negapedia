@@ -1,0 +1,32 @@
+<!DOCTYPE html>
+<html lang="{{.Lang}}">
+<head id="topten" data-type="{{.Index}}" data-period="{{.Span}}" data-topic="{{.Topic}}">
+<meta charset="UTF-8"/>
+<meta name="viewport" content="width=device-width, initial-scale=1.0, minimum-scale=1.0"/>
+<meta property="og:image" content="http://{{.Lang}}.negapedia.org/images/logo.png"/>
+
+<title>{{.Title}} - Negapedia</title>
+
+<link rel="stylesheet prefetch" type="text/css" href="../../../css/core.css">
+<link rel="canonical" href="{{.CanonicalURL}}">
+
+<body>
+
+<div id="menu"></div>
+
+<div id="content">
+
+<h1>{{.Title}}</h1>
+
+<div id="intro"></div>
+{{template "pagelist.html" .Ranking}}
+
+<footer id="footer"></footer>
+
+</div>
+
+<div id="resolver">
+<script type="text/javascript" src="../../../js/resolver_en.js"></script>
+</div>
+
+</body></html>

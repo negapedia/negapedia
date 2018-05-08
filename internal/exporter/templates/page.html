@@ -1,0 +1,47 @@
+<!DOCTYPE html>
+<html lang="{{.Lang}}">
+<head id="{{.Type}}" data-topic="{{.Topic}}">
+<meta charset="UTF-8"/>
+<meta name="viewport" content="width=device-width, initial-scale=1.0, minimum-scale=1.0"/>
+<meta property="og:image" content="http://{{.Lang}}.negapedia.org/images/logo.png"/>
+
+<title>{{if .IsTopic}}Category: {{end}}{{.Title}} - Negapedia</title>
+
+<link rel="stylesheet prefetch" type="text/css" href="../css/core.css">
+<link rel="canonical" href="{{.CanonicalURL}}">
+
+{{template "charts.html" .}}
+
+<script type="text/javascript">
+var NEGARANKS = [{{range .Rankings}}
+    [{{.Rank}},{{.Percentile}},{{.DensePercentile}},{{.Index}},{{.Among}},{{.Span}}],{{end}}
+  ];
+</script>
+
+<body>
+
+<div id="menu"></div>
+
+<div id="content">
+
+<h1 {{if not .IsTopic}} data-name="{{.UnderscoredTitle}}"{{end}}>{{.Title}}</h1>
+
+<div id="intro"></div>
+
+{{if not .IsTopic}}
+<div id="wikipedia-from">{{.Abstract}}</div>
+
+<div id="negawards"></div>
+
+{{if .Links}}
+<div id="social-jumps">
+{{template "pagelist.html" .Links}}
+</div>{{end}}{{end}}
+
+</div>
+
+<div id="resolver">
+<script type="text/javascript" src="../js/resolver_en.js"></script>
+</div>
+
+</body></html>

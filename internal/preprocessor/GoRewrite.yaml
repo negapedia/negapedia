@@ -1,0 +1,9 @@
+spec:
+  - name: edge
+    local: true
+    import: github.com/ebonetti/itermerge
+    typeMap:
+      Type:
+        expr: similgraph.Edge
+        import:
+          - github.com/ebonetti/similgraph
