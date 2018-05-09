@@ -183,7 +183,7 @@ func (p *preprocessor) ArticleAssignments(ctx context.Context) (err error) {
 		if err != nil {
 			return
 		}
-		r = readClose{wikidump.SQL2CSV(r), rawReader.Close}
+		r = readClose{wikidump.SQL2CSV(rawReader), rawReader.Close}
 		return
 	}
 
