@@ -21,7 +21,7 @@ WITH years AS (
         WHERE year = years.year AND topic_id = topics.topic_id AND type = types.type AND page_depth = 2
         ORDER BY weight DESC
         LIMIT 10
-    ) _ JOIN topicpages tp USING (page_id)
+    ) _ JOIN w2o.topicpages tp USING (page_id)
     GROUP BY _.year, _.type
 ), yearjson AS (
     SELECT year, row_to_json(CAST((year, array_agg(CAST((type, pages) AS w2o.indexranking) ORDER BY type)) AS w2o.annualindexesranking)) AS json
