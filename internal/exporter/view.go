@@ -58,7 +58,7 @@ func (v View) Transform(i interface{}) (info vFile, err error) {
 	i.(interface{ SetCanonicalLink(string) }).SetCanonicalLink("http://" + path.Join(v.data.Lang+".negapedia.org", "articles", reldir, file))
 
 	err = templates.ExecuteTemplate(&b, templateName, i)
-	info = newVFile(filepath.Join("overpedia.com", "articles", pagePath), b.Bytes())
+	info = newVFile(filepath.Join("html", "articles", pagePath), b.Bytes())
 	return
 }
 

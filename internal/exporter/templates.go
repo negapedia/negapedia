@@ -20,7 +20,7 @@ func init() {
 	}
 }
 
-const pattern = "<script type=\"text/javascript\" src=\"https://www.gstatic.com/charts/loader.js\"></script>^(</script>)</script>"
+const pattern = "(?s:<script type=\"text/javascript\" src=\"https://www.gstatic.com/charts/loader.js\"></script>.*?</script>)"
 
 func addHomepages(t *template.Template, baseDomain string) (err error) {
 	r := regexp.MustCompile(pattern)
