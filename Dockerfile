@@ -1,4 +1,6 @@
-FROM postgres:10.3
+FROM postgres:latest
+
+SHELL ["/bin/bash", "-c"]
 
 # gcc for cgo and petsc, python for petsc, 7z for overpedia
 RUN set -eux; \
@@ -37,14 +39,22 @@ RUN set -eux; \
     rm -rf /tmp/* /var/tmp/*;
 
 #install golang
-ENV GO_VERSION 1.10
-ENV GO_ARCH linux-amd64
-ENV GO_DOWNLOAD_URL https://golang.org/dl/go$GO_VERSION.$GO_ARCH.tar.gz
 ENV GO_DIR /usr/local/go
 ENV GOPATH /go
 ENV PATH $GOPATH/bin:$GO_DIR/bin:$PATH
 RUN set -eux; \
 	cd $GO_DIR/..; \
+    let V=10; \
+    while curl --output /dev/null --silent --head --fail "https://dl.google.com/go/go1.$V.linux-amd64.tar.gz"; do \
+        GO_DOWNLOAD_URL="https://dl.google.com/go/go1.$V.linux-amd64.tar.gz"; \
+        let V+=1; \
+    done; \
+    let V-=1; \
+    let v=1; \
+    while curl --output /dev/null --silent --head --fail "https://dl.google.com/go/go1.$V.$v.linux-amd64.tar.gz"; do \
+        GO_DOWNLOAD_URL="https://dl.google.com/go/go1.$V.$v.linux-amd64.tar.gz"; \
+        let v+=1; \
+    done; \
     curl -fsSL "$GO_DOWNLOAD_URL" -o go.tar.gz; \
 	tar -xzf go.tar.gz; \
 	rm go.tar.gz; \
