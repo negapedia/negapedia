@@ -1,7 +1,5 @@
 FROM postgres:latest
 
-SHELL ["/bin/bash", "-c"]
-
 # gcc for cgo and petsc, python for petsc, 7z for overpedia
 RUN set -eux; \
 	apt-get update && apt-get install -y --no-install-recommends \
@@ -18,7 +16,7 @@ RUN set -eux; \
 	apt-get clean; \
 	rm -rf /var/lib/apt/lists/*;
 
-#install petsc
+#install latest petsc
 ENV PETSC_DOWNLOAD_URL http://ftp.mcs.anl.gov/pub/petsc/petsc-lite.tar.gz
 ENV PETSC_ARCH arch-linux2-c-opt
 ENV PETSC_DIR /usr/local/petsc
@@ -38,22 +36,22 @@ RUN set -eux; \
     make all test; \
     rm -rf /tmp/* /var/tmp/*;
 
-#install golang
+#install latest golang
 ENV GO_DIR /usr/local/go
 ENV GOPATH /go
 ENV PATH $GOPATH/bin:$GO_DIR/bin:$PATH
 RUN set -eux; \
 	cd $GO_DIR/..; \
-    let V=10; \
+    V=10; \
     while curl --output /dev/null --silent --head --fail "https://dl.google.com/go/go1.$V.linux-amd64.tar.gz"; do \
         GO_DOWNLOAD_URL="https://dl.google.com/go/go1.$V.linux-amd64.tar.gz"; \
-        let V+=1; \
+        V=$V+1; \
     done; \
-    let V-=1; \
-    let v=1; \
+    V=1; \
+    v=1; \
     while curl --output /dev/null --silent --head --fail "https://dl.google.com/go/go1.$V.$v.linux-amd64.tar.gz"; do \
         GO_DOWNLOAD_URL="https://dl.google.com/go/go1.$V.$v.linux-amd64.tar.gz"; \
-        let v+=1; \
+        v=$v+1; \
     done; \
     curl -fsSL "$GO_DOWNLOAD_URL" -o go.tar.gz; \
 	tar -xzf go.tar.gz; \
