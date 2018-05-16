@@ -51,6 +51,7 @@ type ranking struct {
 	Rank                        int
 	percentile, densePercentile float64
 	Index, Among, Span          string
+	Value                       float64
 }
 
 func (r ranking) Percentile() int {
@@ -63,12 +64,12 @@ func (r ranking) DensePercentile() int {
 
 func (p viewInfo) Rankings() (rankings []ranking) {
 	for index, amm := range p.Index2Measurement {
-		rankings = append(rankings, ranking{amm.Rank, amm.Percentile, amm.DensePercentile, index, "all", "all"})
+		rankings = append(rankings, ranking{amm.Rank, amm.Percentile, amm.DensePercentile, index, "all", "all", amm.Value})
 	}
 	for index, ymm := range p.Index2YearMeasurements {
 		for _, ym := range ymm {
 			year := fmt.Sprint(ym.Year)
-			rankings = append(rankings, ranking{ym.Rank, ym.Percentile, ym.DensePercentile, index, "all", year})
+			rankings = append(rankings, ranking{ym.Rank, ym.Percentile, ym.DensePercentile, index, "all", year, ym.Value})
 		}
 	}
 
@@ -77,12 +78,12 @@ func (p viewInfo) Rankings() (rankings []ranking) {
 	}
 
 	for index, amm := range p.Index2Measurement {
-		rankings = append(rankings, ranking{amm.TopicRank, amm.TopicPercentile, amm.TopicDensePercentile, index, p.Page.Topic, "all"})
+		rankings = append(rankings, ranking{amm.TopicRank, amm.TopicPercentile, amm.TopicDensePercentile, index, p.Page.Topic, "all", amm.Value})
 	}
 	for index, ymm := range p.Index2YearMeasurements {
 		for _, ym := range ymm {
 			year := fmt.Sprint(ym.Year)
-			rankings = append(rankings, ranking{ym.TopicRank, ym.TopicPercentile, ym.TopicDensePercentile, index, p.Page.Topic, year})
+			rankings = append(rankings, ranking{ym.TopicRank, ym.TopicPercentile, ym.TopicDensePercentile, index, p.Page.Topic, year, ym.Value})
 		}
 	}
 	return

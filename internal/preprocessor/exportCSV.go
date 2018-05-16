@@ -80,7 +80,7 @@ func (p preprocessor) exportCSV(ctx context.Context, articles <-chan article, bo
 
 			csvPageChan := csvPageChan
 			articleMultiEdgeChan := articleMultiEdgeChan
-			url := "https://en.wikipedia.org/wiki/" + strings.Replace(a.Title, " ", "_", -1)
+			url := "https://" + p.Language + ".wikipedia.org/wiki/" + strings.Replace(a.Title, " ", "_", -1)
 			for i := 0; i < 2; i++ {
 				select {
 				case csvPageChan <- &csvPage{a.ID, a.Title, a.Abstract, url, a.TopicID, socialJumps{nil}}:

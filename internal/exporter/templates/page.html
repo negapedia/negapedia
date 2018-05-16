@@ -13,8 +13,9 @@
 {{template "charts.html" .}}
 
 <script type="text/javascript">
+// Rank,Percentile,DensePercentile,Index,Among,Span,Value
 var NEGARANKS = [{{range .Rankings}}
-    [{{.Rank}},{{.Percentile}},{{.DensePercentile}},{{.Index}},{{.Among}},{{.Span}}],{{end}}
+    [{{.Rank}},{{.Percentile}},{{.DensePercentile}},{{.Index}},{{.Among}},{{.Span}},{{.Value}}],{{end}}
   ];
 </script>
 
