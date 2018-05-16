@@ -24,15 +24,16 @@ import (
 
 var lang, dataSource, dbopts string
 var keepSavepoints bool
+var filterBots bool
 
 func init() {
 	flag.StringVar(&lang, "lang", "it", "Wikipedia nationalization to parse (en,it).")
 	flag.StringVar(&dataSource, "source", "net", "Source of data (net,csv,db).")
 	flag.StringVar(&dbopts, "db", "user=postgres dbname=postgres sslmode=disable", "Options for connecting to the db.")
 	flag.BoolVar(&keepSavepoints, "keep", false, "Keep every savepoint - csv and db - after the execution (true or false).")
+	flag.BoolVar(&filterBots, "nobots", false, "Filter every edit done by a Bot before CSV exporting.")
 }
 
-//calling example: refresh it postgresql://postgres:postgres@postgres/postgres?sslmode=disable
 func main() {
 	flag.Parse()
 	log.Println("Called with the command: ", strings.Join(os.Args, " "))
@@ -81,7 +82,7 @@ func main() {
 	switch dataSource {
 	case "net":
 		log.Print("Started data preprocessing and CSV export")
-		err = preprocessor.Run(context.Background(), csvDir, nazionalization)
+		err = preprocessor.Run(context.Background(), csvDir, filterBots, nazionalization)
 		if err != nil {
 			break
 		}

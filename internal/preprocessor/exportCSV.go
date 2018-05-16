@@ -51,6 +51,7 @@ func (p preprocessor) exportCSV(ctx context.Context, articles <-chan article, bo
 
 			InterestedUsers := []*roaring.Bitmap{roaring.NewBitmap(), roaring.NewBitmap(), roaring.NewBitmap()}
 			oldWeight := float64(0)
+		LOOP:
 			for _, r := range a.Revisions {
 				ID := r.UserID
 				userID := &ID
@@ -65,7 +66,9 @@ func (p preprocessor) exportCSV(ctx context.Context, articles <-chan article, bo
 					userID = nil
 					isBot = false
 				case isBot:
-					//do nothing
+					if p.FilterBots {
+						continue LOOP //do not export to csv
+					}
 				case r.IsRevert > 0 && diff <= 120:
 					InterestedUsers[0].Add(r.UserID)
 				case r.IsRevert > 0 || diff <= 120:

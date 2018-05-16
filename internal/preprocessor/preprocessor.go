@@ -33,7 +33,7 @@ type Topic struct {
 	Categories   []uint32
 }
 
-func Run(ctx context.Context, CSVDir string, ntl Nationalization) (err error) {
+func Run(ctx context.Context, CSVDir string, filterBots bool, ntl Nationalization) (err error) {
 	ctx, fail := ctxutils.WithFail(ctx)
 	defer func() {
 		if fe := fail(err); fe != nil {
@@ -52,7 +52,7 @@ func Run(ctx context.Context, CSVDir string, ntl Nationalization) (err error) {
 		return
 	}
 
-	p := preprocessor{ntl, latestDump, CSVDir, tmpDir, fail}
+	p := preprocessor{ntl, latestDump, CSVDir, tmpDir, filterBots, fail}
 
 	if err = p.ArticleAssignments(ctx); err != nil {
 		return
@@ -74,6 +74,7 @@ type preprocessor struct {
 	Nationalization
 	Dump           wikidump.Wikidump
 	CSVDir, TmpDir string
+	FilterBots     bool
 	Fail           func(error) error
 }
 
@@ -142,7 +143,6 @@ func (p preprocessor) summaries(ctx context.Context, isArticle func(e uint32) (o
 						p.Fail(err)
 					}
 				}()
-				const groupedByUser = false
 				it := wikibrief.New(r, isArticle, func(text string) float64 { return float64(len(text)) })
 				s, err := it()
 				for ; err == nil; s, err = it() {
