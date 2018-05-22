@@ -37,7 +37,7 @@ func init() {
 func main() {
 	flag.Parse()
 	log.Println("Called with the command: ", strings.Join(os.Args, " "))
-	log.Printf("Interpreted as: refresh lang = %s source = %s db = '%s' keep = %t\n", lang, dataSource, dbopts, keepSavepoints)
+	log.Printf("Interpreted as: refresh lang = %s source = %s db = '%s' keep = %t nobots = %t\n", lang, dataSource, dbopts, keepSavepoints, filterBots)
 
 	start := time.Now()
 	defer func() {
