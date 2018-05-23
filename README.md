@@ -29,6 +29,6 @@ This image take in input the nationalization - as of now only english and italia
 For further explanations please refer to [docker run reference](https://docs.docker.com/engine/reference/run)
 
 ### Useful commands
-1. `docker pull ebonetti/overpedia` Updating the image to the last revision.
-2. `docker logs -f $(docker ps -lq)` Remove all unused images not just dangling ones.
-3. `docker system prune -a` Remove all unused images not just dangling ones.
+1. `docker pull ebonetti/overpedia` Update the image to the last revision.
+2. `docker logs -f $(docker ps -lq)` Fetch the logs of the last container.
+3. `docker system prune -fa --volumes` Remove all unused images and volume without asking for confirmation.
