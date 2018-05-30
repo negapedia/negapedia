@@ -45,13 +45,13 @@ RUN set -eux; \
     V=10; \
     while curl --output /dev/null --silent --head --fail "https://dl.google.com/go/go1.$V.linux-amd64.tar.gz"; do \
         GO_DOWNLOAD_URL="https://dl.google.com/go/go1.$V.linux-amd64.tar.gz"; \
-        V=$V+1; \
+        V=$((V+1)); \
     done; \
-    V=1; \
+    V=$((V-1)); \
     v=1; \
     while curl --output /dev/null --silent --head --fail "https://dl.google.com/go/go1.$V.$v.linux-amd64.tar.gz"; do \
         GO_DOWNLOAD_URL="https://dl.google.com/go/go1.$V.$v.linux-amd64.tar.gz"; \
-        v=$v+1; \
+        v=$((v+1)); \
     done; \
     curl -fsSL "$GO_DOWNLOAD_URL" -o go.tar.gz; \
 	tar -xzf go.tar.gz; \
