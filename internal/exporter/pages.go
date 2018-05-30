@@ -2,8 +2,6 @@ package exporter
 
 import (
 	"fmt"
-	"html/template"
-	"time"
 )
 
 func (v View) transformPage(i Info) interface{} {
@@ -18,7 +16,6 @@ func (v View) transformPage(i Info) interface{} {
 		CanonicalLink
 		ExtendedPage
 		Type     string
-		Charts   []chart
 		Rankings []ranking
 		Links    []page
 	}{
@@ -26,7 +23,6 @@ func (v View) transformPage(i Info) interface{} {
 		CanonicalLink{},
 		p.Page,
 		pageType(p.Page.Page),
-		p.Charts(),
 		p.Rankings(),
 		pageList(p.Links...),
 	}
@@ -37,11 +33,11 @@ func (v View) transformHomePage(i Info) interface{} {
 	return &struct {
 		mData
 		CanonicalLink
-		Charts []chart
+		Rankings []ranking
 	}{
 		v.data,
 		CanonicalLink{},
-		p.Charts()[1:],
+		p.Rankings(),
 	}
 }
 
@@ -89,127 +85,8 @@ func (p viewInfo) Rankings() (rankings []ranking) {
 	return
 }
 
-func (p viewInfo) Charts() []chart {
-	return []chart{{"summary", p.AllCharts()}, {"history", p.YearCharts()}}
-}
-
-type chart struct {
-	Span    string
-	Indexes []chartIndex
-}
-
-type chartIndex struct {
-	Index string
-	Rows  [][]cell
-}
-
-type chartsData struct {
-	Title   string
-	Indexes []string
-}
-
-var cData = []chartsData{
-	{"conflict", []string{"conflict"}},
-	{"polemic", []string{"polemic"}},
-}
-
-func (p viewInfo) AllCharts() []chartIndex {
-	charts := make([]chartIndex, len(cData))
-	for i, c := range cData {
-		mm := make([][]Measurement, len(c.Indexes))
-		for i, index := range c.Indexes {
-			i2mm := p.Index2YearMeasurements[index]
-			mm[i] = []Measurement{i2mm[len(i2mm)-1].Measurement}
-			//		    mm[i] = []Measurement{p.Index2Measurement[index]}
-		}
-		charts[i] = chartIndex{
-			c.Title,
-			measurements2Cells(allChartFormatter, mm...),
-		}
-	}
-	return charts
-}
-
-func (p viewInfo) YearCharts() []chartIndex {
-	lineChartFormatterBuilder := lineChartFormatterBuilder
-	if pageType(p.Page.Page) == "homepage" {
-		lineChartFormatterBuilder = homepageLineChartFormatterBuilder
-	}
-
-	charts := make([]chartIndex, len(cData))
-	for i, c := range cData {
-		mm := make([][]YearMeasurement, len(c.Indexes))
-		for i, index := range c.Indexes {
-			mm[i] = p.Index2YearMeasurements[index]
-		}
-		charts[i] = chartIndex{
-			c.Title,
-			yearMeasurements2Cells(lineChartFormatterBuilder, mm...),
-		}
-	}
-	return charts
-}
-
-type cell struct {
-	Value, FormattedValue, Percentile, Rank interface{}
-}
-
-func yearMeasurements2Cells(formatter func(m Measurement) cell, mm ...[]YearMeasurement) (rows [][]cell) {
-	rows = make([][]cell, len(mm[0]))
-	for j := range rows {
-		rows[j] = make([]cell, len(mm)+1)
-		year := mm[0][j].Year
-		rows[j][0] = cell{Value: time2JS(time.Date(year, time.January, 1, 0, 0, 0, 0, time.UTC)), FormattedValue: fmt.Sprint(year)}
-
-		cells := rows[j][1:]
-		for i := range cells {
-			m := mm[i][j]
-			cells[i] = formatter(m.Measurement)
-		}
-	}
-	return
-}
-
-func time2JS(t time.Time) template.JS {
-	return template.JS(fmt.Sprint("new Date(", t.Unix()*1000, ")"))
-}
-
-func measurements2Cells(formatter func(m Measurement) cell, mm ...[]Measurement) (rows [][]cell) {
-	rows = make([][]cell, len(mm[0]))
-	for j := range rows {
-		cells := make([]cell, len(mm))
-		rows[j] = cells
-		for i := range cells {
-			m := mm[i][j]
-			cells[i] = formatter(m)
-		}
-	}
-	return
-}
-
-func allChartFormatter(m Measurement) cell {
-	v := myPercentage(m)
-	return cell{Value: v, FormattedValue: fmt.Sprint(v)}
-}
-
-func lineChartFormatterBuilder(m Measurement) cell {
-	return cell{m.Value, fmt.Sprint(int(m.Value + 0.5)), myPercentage(m), m.Rank}
-}
-
-func homepageLineChartFormatterBuilder(m Measurement) cell {
-	return cell{Value: m.Value, FormattedValue: fmt.Sprint(int(m.Value + 0.5))}
-}
-
-func myPercentile(m Measurement) float64 {
-	return m.DensePercentile
-}
-
 func percentage(percentile float64) int {
 	return int(percentile*100 + 0.5)
-}
-
-func myPercentage(m Measurement) int {
-	return percentage(myPercentile(m))
 }
 
 type CanonicalLink struct {

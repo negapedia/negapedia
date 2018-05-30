@@ -10,14 +10,9 @@
 <link rel="stylesheet prefetch" type="text/css" href="../css/core.css">
 <link rel="canonical" href="{{.CanonicalURL}}">
 
-{{template "charts.html" .}}
+<script type="text/javascript" src="https://www.gstatic.com/charts/loader.js"></script>
 
-<script type="text/javascript">
-// Rank,Percentile,DensePercentile,Index,Among,Span,Value
-var NEGARANKS = [{{range .Rankings}}
-    [{{.Rank}},{{.Percentile}},{{.DensePercentile}},{{.Index}},{{.Among}},{{.Span}},{{.Value}}],{{end}}
-  ];
-</script>
+{{template "data.html" .}}
 
 <body>
 

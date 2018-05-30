@@ -20,7 +20,8 @@ func init() {
 	}
 }
 
-const pattern = "(?s:<script type=\"text/javascript\" src=\"https://www.gstatic.com/charts/loader.js\"></script>.*?</script>)"
+const gchartImport = "<script type=\"text/javascript\" src=\"https://www.gstatic.com/charts/loader.js\"></script>"
+const pattern = "(?s:" + gchartImport + ".*?</script>)"
 
 func addHomepages(t *template.Template, baseDomain string) (err error) {
 	r := regexp.MustCompile(pattern)
@@ -31,8 +32,8 @@ func addHomepages(t *template.Template, baseDomain string) (err error) {
 			err = nil
 			continue
 		}
-		//replace old charts data with template
-		homepageTemplate := r.ReplaceAllString(string(webpage), "{{template \"charts.html\" .}}")
+		//replace old data with template
+		homepageTemplate := r.ReplaceAllString(string(webpage), gchartImport+"\n\n{{template \"data.html\" .}}")
 		if _, err = t.New(nameHomepage(lang)).Parse(homepageTemplate); err != nil {
 			return
 		}
