@@ -9,26 +9,29 @@ FROM w2o.revisions;
 
 /*Index must defined in a way that a missing entry correctly default to 0.0*/
 CREATE MATERIALIZED VIEW w2o.indicesbyyear AS
-WITH articleusersocialindices AS (
-    SELECT DISTINCT NULL::w2o.myindex /*ex S. Popularity*/ AS type, page_id, year, user_id
+WITH incompletearticleusersocialindices AS (
+    SELECT NULL::w2o.myindex /*ex S. Popularity*/ AS type, page_id, year, COALESCE(user_id,0) AS user_id, COUNT(*) AS count
     FROM w2o.revisions
-    WHERE user_id IS NOT NULL
+    GROUP BY page_id, year, user_id
     UNION ALL
-    SELECT DISTINCT 'conflict'::w2o.myindex AS type, page_id, year, user_id
+    SELECT 'conflict'::w2o.myindex AS type, page_id, year, COALESCE(user_id,0) AS user_id, COUNT(*) AS count
     FROM w2o.revisions
-    WHERE user_id IS NOT NULL AND rev_isrevert > 0
-), incompletepageusersocialindices AS (
-    SELECT DISTINCT type, parent_id AS page_id, year, user_id
+    WHERE rev_isrevert > 0
+    GROUP BY page_id, year, user_id
+), articleusersocialindices AS (
+    SELECT type, page_id, 0 AS year, user_id, SUM(count) AS count
+    FROM incompletearticleusersocialindices
+    GROUP BY type, page_id, user_id
+    UNION ALL
+    SELECT *
+    FROM incompletearticleusersocialindices
+), pageusersocialindices AS (
+    SELECT type, parent_id AS page_id, year, user_id, SUM(count) AS count
     FROM articleusersocialindices JOIN w2o.pagetree USING (page_id)
+    GROUP BY type, parent_id, year, user_id
     UNION ALL
     SELECT *
     FROM articleusersocialindices
-), pageusersocialindices AS (/*0*/
-    SELECT DISTINCT type, page_id, 0 AS year, user_id
-    FROM incompletepageusersocialindices
-    UNION ALL
-    SELECT *
-    FROM incompletepageusersocialindices
 ),
 articlescreationyear AS (
     SELECT page_id, MIN(year) AS year
@@ -41,73 +44,52 @@ articlescreationyear AS (
     UNION ALL
     SELECT articlescreationyear.*, parent_id, page_depth
     FROM articlescreationyear JOIN w2o.pages USING (page_id)
-), pagecountyears AS (/*0*/
-    SELECT page_depth, _.year, COUNT(*)::float AS totalpagecount
-    FROM w2o.timebounds, pagecreationyears, generate_series(year,maxyear) _(year)
-    GROUP BY page_depth, _.year
-    UNION ALL
-    SELECT page_depth, 0 AS year, COUNT(*)::float AS totalpagecount
-    FROM pagecreationyears
-    GROUP BY page_depth
 ),
-pageusersocialindicescount AS (/*0*/
+articlecountyears AS (
+    SELECT _.year, COUNT(*)::float AS totalcount
+    FROM w2o.timebounds, articlescreationyear, generate_series(year,maxyear) _(year)
+    GROUP BY _.year
+    UNION ALL
+    SELECT page_depth, 0 AS year, COUNT(*)::float AS totalcount
+    FROM articlescreationyear
+), incompleteuserrevertedpagescount AS (
+    SELECT year, user_id, COUNT(*)::float AS count
+    FROM articleusersocialindices
+    WHERE type IS NOT NULL AND user_id != 0 AND 
+    GROUP BY year, user_id
+), userrevertedpagescount AS (
+    SELECT year, 0 AS user_id, AVG(*) AS count /*since anonymous edits don't have an user_id we fill in missing data with a reasonable choice*/
+    FROM incompleteuserrevertedpagescount
+    GROUP BY year
+    UNION ALL
+    SELECT *
+    FROM incompleteuserrevertedpagescount
+), idf AS (
+    SELECT year, user_id, log(pc.totalcount/ur.count) AS idf
+    FROM articlecountyears pc JOIN userrevertedpagescount ur USING (year)
+    GROUP BY year, user_id
+), 
+pageeditscount AS (
+    SELECT page_id, year, SUM(count)::float AS editscount
+    FROM pageusersocialindices
+    WHERE type IS NULL
+    GROUP BY page_id, year
+), indices AS (
+    SELECT 'polemic'::w2o.myindex AS type, page_id, year, SUM(count*idf)/editscount AS weight /*tfidf based on users instead of terms*/
+    FROM pageusersocialindices JOIN idf USING (year, user_id)
+    JOIN pageeditscount USING (page_id, year)
+    WHERE type IS NOT NULL
+    GROUP BY page_id, year, editscount
+    UNION ALL
     SELECT type, page_id, year, COUNT(*)::float AS weight
     FROM pageusersocialindices
+    WHERE type IS NOT NULL AND user_id != 0
     GROUP BY type, page_id, year
-), pairedpageusersocialindicescount AS (/*0*/
-    SELECT page_id, year, p1.weight AS popularity, p2.weight AS conflict
-    FROM pageusersocialindicescount p1 JOIN pageusersocialindicescount p2 USING (page_id, year)
-    WHERE p1.type IS NULL AND p2.type = 'conflict'::w2o.myindex
-), SparseEQPopularityEQConflict AS (/*0*/
-    SELECT page_depth, year, popularity, conflict, COUNT(*) as count
-    FROM w2o.pages p JOIN pairedpageusersocialindicescount p1 USING (page_id)
-    GROUP BY page_depth, year, popularity, conflict
-), Popularity AS (/*0*/
-    SELECT DISTINCT page_depth, year, popularity
-    FROM SparseEQPopularityEQConflict
-), Conflict AS (/*0*/
-    SELECT DISTINCT page_depth, year, conflict
-    FROM SparseEQPopularityEQConflict
-), Years AS (/*0*/
-    SELECT year
-    FROM w2o.timebounds, generate_series(minyear,maxyear) _(year)
-    UNION ALL
-    SELECT 0 AS year
-), EQPopularityEQConflict AS (/*0*/
-    SELECT page_depth, year, popularity, conflict, COALESCE(count,0) AS count
-    FROM Years CROSS JOIN generate_series(0,2) __(page_depth)
-    JOIN Popularity USING (page_depth, year)
-    JOIN Conflict USING (page_depth, year)
-    LEFT JOIN SparseEQPopularityEQConflict USING (page_depth, year, popularity, conflict)
-), EQPopularityGEConflict AS (/*0*/
-    SELECT page_depth, year, popularity, conflict, 
-    SUM(count) OVER (PARTITION BY popularity, page_depth, year ORDER BY conflict DESC) as count
-    FROM EQPopularityEQConflict
-), LEPopularityGEConflict AS (/*0*/
-    SELECT page_depth, year, popularity, conflict, 
-    SUM(count) OVER (PARTITION BY conflict, page_depth, year ORDER BY popularity) as count
-    FROM EQPopularityGEConflict
-), articlespolemic AS (/*0*/
-    SELECT 'polemic'::w2o.myindex AS type, page_id, year, 100*(conflict/popularity)*log(totalpagecount/count) AS weight
-    FROM pairedpageusersocialindicescount
-    JOIN LEPopularityGEConflict USING (year, popularity, conflict)
-    JOIN pagecountyears USING (page_depth, year)
-    WHERE page_depth = 2
-), indices AS (/*0*/
-    SELECT *
-    FROM pageusersocialindicescount
-    WHERE type IS NOT NULL
-    UNION ALL
-    SELECT * FROM articlespolemic
-    UNION ALL
-    SELECT 'polemic'::w2o.myindex AS type, parent_id AS page_id, year, SUM(weight) AS weight
-    FROM articlespolemic JOIN w2o.pagetree USING (page_id)
-    GROUP BY parent_id, year
 ),
 types AS (
     SELECT DISTINCT type, page_depth
     FROM indices JOIN w2o.pages USING (page_id)
-), typepageyear AS (/*0*/
+), typepageyear AS (
     SELECT type, page_id, parent_id, page_depth, _.year
     FROM pagecreationyears JOIN types USING (page_depth),
     w2o.timebounds, generate_series(year,maxyear) _(year)
