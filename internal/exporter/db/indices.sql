@@ -50,15 +50,15 @@ articlecountyears AS (
     FROM w2o.timebounds, articlescreationyear, generate_series(year,maxyear) _(year)
     GROUP BY _.year
     UNION ALL
-    SELECT page_depth, 0 AS year, COUNT(*)::float AS totalcount
+    SELECT 0 AS year, COUNT(*)::float AS totalcount
     FROM articlescreationyear
 ), incompleteuserrevertedpagescount AS (
     SELECT year, user_id, COUNT(*)::float AS count
     FROM articleusersocialindices
-    WHERE type IS NOT NULL AND user_id != 0 AND 
+    WHERE type IS NOT NULL AND user_id != 0
     GROUP BY year, user_id
 ), userrevertedpagescount AS (
-    SELECT year, 0 AS user_id, AVG(*) AS count /*since anonymous edits don't have an user_id we fill in missing data with a reasonable choice*/
+    SELECT year, 0 AS user_id, AVG(count) AS count /*since anonymous edits don't have an user_id we fill in missing data with a reasonable choice*/
     FROM incompleteuserrevertedpagescount
     GROUP BY year
     UNION ALL
@@ -67,7 +67,6 @@ articlecountyears AS (
 ), idf AS (
     SELECT year, user_id, log(pc.totalcount/ur.count) AS idf
     FROM articlecountyears pc JOIN userrevertedpagescount ur USING (year)
-    GROUP BY year, user_id
 ), 
 pageeditscount AS (
     SELECT page_id, year, SUM(count)::float AS editscount
@@ -75,7 +74,7 @@ pageeditscount AS (
     WHERE type IS NULL
     GROUP BY page_id, year
 ), indices AS (
-    SELECT 'polemic'::w2o.myindex AS type, page_id, year, SUM(count*idf)/editscount AS weight /*tfidf based on users instead of terms*/
+    SELECT 'polemic'::w2o.myindex AS type, page_id, year, 1000*SUM(count*idf)/editscount AS weight /*tfidf based on users instead of terms*/
     FROM pageusersocialindices JOIN idf USING (year, user_id)
     JOIN pageeditscount USING (page_id, year)
     WHERE type IS NOT NULL
@@ -105,5 +104,3 @@ CREATE INDEX ON w2o.indicesbyyear (page_id);
 /*Used by LATERAL JOIN in queries*/
 CREATE INDEX ON w2o.indicesbyyear (weight DESC, year, topic_id, type, page_depth);
 ANALYZE w2o.indicesbyyear;
-
-
