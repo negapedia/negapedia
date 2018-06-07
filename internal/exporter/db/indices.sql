@@ -25,33 +25,6 @@ WITH incompletearticleusersocialindices AS (
     UNION ALL
     SELECT *
     FROM incompletearticleusersocialindices
-), pageusersocialindices AS (
-    SELECT type, parent_id AS page_id, year, user_id, SUM(count) AS count
-    FROM articleusersocialindices JOIN w2o.pagetree USING (page_id)
-    GROUP BY type, parent_id, year, user_id
-    UNION ALL
-    SELECT *
-    FROM articleusersocialindices
-),
-articlescreationyear AS (
-    SELECT page_id, MIN(year) AS year
-    FROM w2o.revisions
-    GROUP BY page_id
-), pagecreationyears AS (
-    SELECT page_id, minyear AS year, page_id AS parent_id, page_depth
-    FROM w2o.timebounds, w2o.pages
-    WHERE page_depth < 2 
-    UNION ALL
-    SELECT articlescreationyear.*, parent_id, page_depth
-    FROM articlescreationyear JOIN w2o.pages USING (page_id)
-),
-articlecountyears AS (
-    SELECT _.year, COUNT(*)::float AS totalcount
-    FROM w2o.timebounds, articlescreationyear, generate_series(year,maxyear) _(year)
-    GROUP BY _.year
-    UNION ALL
-    SELECT 0 AS year, COUNT(*)::float AS totalcount
-    FROM articlescreationyear
 ), incompleteuserrevertedpagescount AS (
     SELECT year, user_id, COUNT(*)::float AS count
     FROM articleusersocialindices
@@ -64,11 +37,30 @@ articlecountyears AS (
     UNION ALL
     SELECT *
     FROM incompleteuserrevertedpagescount
+), 
+articlescreationyear AS (
+    SELECT page_id, MIN(year) AS year
+    FROM w2o.revisions
+    GROUP BY page_id
+), articlecountyears AS (
+    SELECT _.year, COUNT(*)::float AS totalcount
+    FROM w2o.timebounds, articlescreationyear, generate_series(year,maxyear) _(year)
+    GROUP BY _.year
+    UNION ALL
+    SELECT 0 AS year, COUNT(*)::float AS totalcount
+    FROM articlescreationyear
 ), idf AS (
     SELECT year, user_id, log(pc.totalcount/ur.count) AS idf
     FROM articlecountyears pc JOIN userrevertedpagescount ur USING (year)
-), 
-pageeditscount AS (
+),
+pageusersocialindices AS (
+    SELECT type, parent_id AS page_id, year, user_id, SUM(count) AS count
+    FROM articleusersocialindices JOIN w2o.pagetree USING (page_id)
+    GROUP BY type, parent_id, year, user_id
+    UNION ALL
+    SELECT *
+    FROM articleusersocialindices
+), pageeditscount AS (
     SELECT page_id, year, SUM(count)::float AS editscount
     FROM pageusersocialindices
     WHERE type IS NULL
@@ -88,6 +80,13 @@ pageeditscount AS (
 types AS (
     SELECT DISTINCT type, page_depth
     FROM indices JOIN w2o.pages USING (page_id)
+), pagecreationyears AS (
+    SELECT page_id, minyear AS year, page_id AS parent_id, page_depth
+    FROM w2o.timebounds, w2o.pages
+    WHERE page_depth < 2 
+    UNION ALL
+    SELECT articlescreationyear.*, parent_id, page_depth
+    FROM articlescreationyear JOIN w2o.pages USING (page_id)
 ), typepageyear AS (
     SELECT type, page_id, parent_id, page_depth, _.year
     FROM pagecreationyears JOIN types USING (page_depth),
