@@ -9,27 +9,35 @@ FROM w2o.revisions;
 
 /*Index must defined in a way that a missing entry correctly default to 0.0*/
 CREATE MATERIALIZED VIEW w2o.indicesbyyear AS
-WITH incompletearticleusersocialindices AS (
-    SELECT NULL::w2o.myindex /*ex S. Popularity*/ AS type, page_id, year, COALESCE(user_id,0) AS user_id, COUNT(*) AS count
+WITH incompletearticleeditscount AS (
+    SELECT page_id, year, COUNT(*) AS editscount
     FROM w2o.revisions
-    GROUP BY page_id, year, user_id
-    UNION ALL
-    SELECT 'conflict'::w2o.myindex AS type, page_id, year, COALESCE(user_id,0) AS user_id, COUNT(*) AS count
-    FROM w2o.revisions
-    WHERE rev_isrevert > 0
-    GROUP BY page_id, year, user_id
-), articleusersocialindices AS (
-    SELECT type, page_id, 0 AS year, user_id, SUM(count) AS count
-    FROM incompletearticleusersocialindices
-    GROUP BY type, page_id, user_id
+    GROUP BY page_id, year
+), articleeditscount AS (
+    SELECT page_id, 0 AS year, SUM(editscount) AS editscount
+    FROM incompletearticleeditscount
+    GROUP BY page_id
     UNION ALL
     SELECT *
-    FROM incompletearticleusersocialindices
-), incompleteuserrevertedpagescount AS (
-    SELECT year, user_id, COUNT(*)::float AS count
-    FROM articleusersocialindices
-    WHERE type IS NOT NULL AND user_id != 0
+    FROM incompletearticleeditscount
+), pageeditscount AS (
+    SELECT parent_id AS page_id, year, SUM(editscount) AS editscount
+    FROM articleeditscount JOIN w2o.pagetree USING (page_id)
+    GROUP BY parent_id, year
+    UNION ALL
+    SELECT *
+    FROM articleeditscount
+),
+incompleteuserrevertedpagescount AS (
+    SELECT year, user_id, COUNT(DISTINCT page_id)::float AS count
+    FROM w2o.revisions
+    WHERE rev_isrevert > 0 AND user_id IS NOT NULL
     GROUP BY year, user_id
+    UNION ALL
+    SELECT 0 AS year, user_id, COUNT(DISTINCT page_id)::float AS count
+    FROM w2o.revisions
+    WHERE rev_isrevert > 0 AND user_id IS NOT NULL
+    GROUP BY user_id
 ), userrevertedpagescount AS (
     SELECT year, 0 AS user_id, AVG(count) AS count /*since anonymous edits don't have an user_id we fill in missing data with a reasonable choice*/
     FROM incompleteuserrevertedpagescount
@@ -53,28 +61,34 @@ articlescreationyear AS (
     SELECT year, user_id, log(pc.totalcount/ur.count) AS idf
     FROM articlecountyears pc JOIN userrevertedpagescount ur USING (year)
 ),
-pageusersocialindices AS (
+incompletearticleconflict AS (
+    SELECT 'conflict'::w2o.myindex AS type, page_id, year, COALESCE(user_id,0) AS user_id, COUNT(*) AS count
+    FROM w2o.revisions
+    WHERE rev_isrevert > 0
+    GROUP BY page_id, year, user_id
+), articleconflict AS (
+    SELECT type, page_id, 0 AS year, user_id, SUM(count) AS count
+    FROM incompletearticleconflict
+    GROUP BY type, page_id, user_id
+    UNION ALL
+    SELECT *
+    FROM incompletearticleconflict
+), pageconflict AS (
     SELECT type, parent_id AS page_id, year, user_id, SUM(count) AS count
-    FROM articleusersocialindices JOIN w2o.pagetree USING (page_id)
+    FROM articleconflict JOIN w2o.pagetree USING (page_id)
     GROUP BY type, parent_id, year, user_id
     UNION ALL
     SELECT *
-    FROM articleusersocialindices
-), pageeditscount AS (
-    SELECT page_id, year, SUM(count)::float AS editscount
-    FROM pageusersocialindices
-    WHERE type IS NULL
-    GROUP BY page_id, year
+    FROM articleconflict
 ), indices AS (
     SELECT 'polemic'::w2o.myindex AS type, page_id, year, 1000*SUM(count*idf)/editscount AS weight /*tfidf based on users instead of terms*/
-    FROM pageusersocialindices JOIN idf USING (year, user_id)
+    FROM pageconflict JOIN idf USING (year, user_id)
     JOIN pageeditscount USING (page_id, year)
-    WHERE type IS NOT NULL
     GROUP BY page_id, year, editscount
     UNION ALL
     SELECT type, page_id, year, COUNT(*)::float AS weight
-    FROM pageusersocialindices
-    WHERE type IS NOT NULL AND user_id != 0
+    FROM pageconflict
+    WHERE user_id != 0
     GROUP BY type, page_id, year
 ),
 types AS (

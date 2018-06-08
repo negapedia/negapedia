@@ -86,9 +86,7 @@ ALTER TABLE w2o.revisions
     ADD FOREIGN KEY (page_id) REFERENCES w2o.pages (page_id),
     ALTER COLUMN year SET NOT NULL;
 
-CREATE INDEX ON w2o.revisions (page_id, year, user_id);
+CREATE INDEX ON w2o.revisions (user_id);
 CREATE INDEX ON w2o.revisions (rev_isrevert);
-CREATE INDEX ON w2o.revisions (rev_chardiff);
-CREATE INDEX ON w2o.revisions (user_isbot);
 
 ANALYZE w2o.revisions;
