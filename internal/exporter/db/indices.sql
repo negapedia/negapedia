@@ -28,7 +28,17 @@ WITH incompletearticleeditscount AS (
     SELECT *
     FROM articleeditscount
 ),
-incompleteuserrevertedpagescount AS (
+userpagescount AS (
+    SELECT year, user_id, COUNT(DISTINCT page_id)::float AS count
+    FROM w2o.revisions
+    WHERE user_id IS NOT NULL
+    GROUP BY year, user_id
+    UNION ALL
+    SELECT 0 AS year, user_id, COUNT(DISTINCT page_id)::float AS count
+    FROM w2o.revisions
+    WHERE user_id IS NOT NULL
+    GROUP BY user_id
+), userrevertedpagescount AS (
     SELECT year, user_id, COUNT(DISTINCT page_id)::float AS count
     FROM w2o.revisions
     WHERE rev_isrevert > 0 AND user_id IS NOT NULL
@@ -38,29 +48,17 @@ incompleteuserrevertedpagescount AS (
     FROM w2o.revisions
     WHERE rev_isrevert > 0 AND user_id IS NOT NULL
     GROUP BY user_id
-), userrevertedpagescount AS (
-    SELECT year, 0 AS user_id, AVG(count) AS count /*since anonymous edits don't have an user_id we fill in missing data with a reasonable choice*/
-    FROM incompleteuserrevertedpagescount
+), incompleteidf AS (
+    SELECT year, user_id, log(up.count/ur.count) AS idf
+    FROM userpagescount up JOIN userrevertedpagescount ur USING (year)
+), idf AS (
+    SELECT year, 0 AS user_id, AVG(idf) AS idf /*we fill in missing data with a reasonable choice for anonymous edits*/
+    FROM incompleteidf
     GROUP BY year
     UNION ALL
     SELECT *
-    FROM incompleteuserrevertedpagescount
+    FROM incompleteidf
 ), 
-articlescreationyear AS (
-    SELECT page_id, MIN(year) AS year
-    FROM w2o.revisions
-    GROUP BY page_id
-), articlecountyears AS (
-    SELECT _.year, COUNT(*)::float AS totalcount
-    FROM w2o.timebounds, articlescreationyear, generate_series(year,maxyear) _(year)
-    GROUP BY _.year
-    UNION ALL
-    SELECT 0 AS year, COUNT(*)::float AS totalcount
-    FROM articlescreationyear
-), idf AS (
-    SELECT year, user_id, log(pc.totalcount/ur.count) AS idf
-    FROM articlecountyears pc JOIN userrevertedpagescount ur USING (year)
-),
 incompletearticleconflict AS (
     SELECT 'conflict'::w2o.myindex AS type, page_id, year, COALESCE(user_id,0) AS user_id, COUNT(*) AS count
     FROM w2o.revisions
@@ -94,6 +92,10 @@ incompletearticleconflict AS (
 types AS (
     SELECT DISTINCT type, page_depth
     FROM indices JOIN w2o.pages USING (page_id)
+), articlescreationyear AS (
+    SELECT page_id, MIN(year) AS year
+    FROM w2o.revisions
+    GROUP BY page_id
 ), pagecreationyears AS (
     SELECT page_id, minyear AS year, page_id AS parent_id, page_depth
     FROM w2o.timebounds, w2o.pages
