@@ -50,7 +50,7 @@ userpagescount AS (
     GROUP BY user_id
 ), incompleteidf AS (
     SELECT year, user_id, log(up.count/ur.count) AS idf
-    FROM userpagescount up JOIN userrevertedpagescount ur USING (year)
+    FROM userpagescount up JOIN userrevertedpagescount ur USING (year, user_id)
 ), idf AS (
     SELECT year, 0 AS user_id, AVG(idf) AS idf /*we fill in missing data with a reasonable choice for anonymous edits*/
     FROM incompleteidf
