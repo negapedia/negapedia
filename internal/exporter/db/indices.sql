@@ -10,84 +10,48 @@ FROM w2o.revisions;
 /*Index must defined in a way that a missing entry correctly default to 0.0*/
 CREATE MATERIALIZED VIEW w2o.indicesbyyear AS
 WITH incompletearticleeditscount AS (
-    SELECT page_id, year, COUNT(*) AS editscount
+    SELECT page_id, year, COUNT(*) AS editscount, COUNT(*) FILTER (WHERE rev_isrevert > 0) AS revertcount
     FROM w2o.revisions
     GROUP BY page_id, year
 ), articleeditscount AS (
-    SELECT page_id, 0 AS year, SUM(editscount) AS editscount
+    SELECT page_id, 0 AS year, SUM(editscount) AS editscount, SUM(revertcount) AS revertcount
     FROM incompletearticleeditscount
     GROUP BY page_id
     UNION ALL
     SELECT *
     FROM incompletearticleeditscount
 ), pageeditscount AS (
-    SELECT parent_id AS page_id, year, SUM(editscount) AS editscount
+    SELECT parent_id AS page_id, year, SUM(editscount)::float AS editscount, SUM(revertcount)::float AS revertcount
     FROM articleeditscount JOIN w2o.pagetree USING (page_id)
     GROUP BY parent_id, year
     UNION ALL
-    SELECT *
+    SELECT page_id, year, editscount::float AS editscount, revertcount::float AS revertcount
     FROM articleeditscount
 ),
-userpagescount AS (
-    SELECT year, user_id, COUNT(DISTINCT page_id)::float AS count
-    FROM w2o.revisions
-    WHERE user_id IS NOT NULL
-    GROUP BY year, user_id
-    UNION ALL
-    SELECT 0 AS year, user_id, COUNT(DISTINCT page_id)::float AS count
-    FROM w2o.revisions
-    WHERE user_id IS NOT NULL
-    GROUP BY user_id
-), userrevertedpagescount AS (
-    SELECT year, user_id, COUNT(DISTINCT page_id)::float AS count
-    FROM w2o.revisions
-    WHERE rev_isrevert > 0 AND user_id IS NOT NULL
-    GROUP BY year, user_id
-    UNION ALL
-    SELECT 0 AS year, user_id, COUNT(DISTINCT page_id)::float AS count
-    FROM w2o.revisions
-    WHERE rev_isrevert > 0 AND user_id IS NOT NULL
-    GROUP BY user_id
-), incompleteidf AS (
-    SELECT year, user_id, log(up.count/ur.count) AS idf
-    FROM userpagescount up JOIN userrevertedpagescount ur USING (year, user_id)
-), idf AS (
-    SELECT year, 0 AS user_id, AVG(idf) AS idf /*we fill in missing data with a reasonable choice for anonymous edits*/
-    FROM incompleteidf
-    GROUP BY year
-    UNION ALL
-    SELECT *
-    FROM incompleteidf
-), 
 incompletearticleconflict AS (
-    SELECT 'conflict'::w2o.myindex AS type, page_id, year, COALESCE(user_id,0) AS user_id, COUNT(*) AS count
+    SELECT DISTINCT 'conflict'::w2o.myindex AS type, page_id, year, user_id
     FROM w2o.revisions
-    WHERE rev_isrevert > 0
-    GROUP BY page_id, year, user_id
+    WHERE rev_isrevert > 0 AND user_id IS NOT NULL
 ), articleconflict AS (
-    SELECT type, page_id, 0 AS year, user_id, SUM(count) AS count
+    SELECT DISTINCT type, page_id, 0 AS year, user_id
     FROM incompletearticleconflict
-    GROUP BY type, page_id, user_id
     UNION ALL
     SELECT *
     FROM incompletearticleconflict
 ), pageconflict AS (
-    SELECT type, parent_id AS page_id, year, user_id, SUM(count) AS count
+    SELECT type, parent_id AS page_id, year, COUNT(DISTINCT user_id)::float AS weight
     FROM articleconflict JOIN w2o.pagetree USING (page_id)
-    GROUP BY type, parent_id, year, user_id
+    GROUP BY type, parent_id, year
     UNION ALL
-    SELECT *
+    SELECT type, page_id, year, COUNT(user_id)::float AS weight
     FROM articleconflict
-), indices AS (
-    SELECT 'polemic'::w2o.myindex AS type, page_id, year, 1000*SUM(count*idf)/editscount AS weight /*tfidf based on users instead of terms*/
-    FROM pageconflict JOIN idf USING (year, user_id)
-    JOIN pageeditscount USING (page_id, year)
-    GROUP BY page_id, year, editscount
-    UNION ALL
-    SELECT type, page_id, year, COUNT(*)::float AS weight
-    FROM pageconflict
-    WHERE user_id != 0
     GROUP BY type, page_id, year
+), indices AS (
+    SELECT *
+    FROM pageconflict
+    UNION ALL    
+    SELECT 'polemic'::w2o.myindex AS type, page_id, year, 1000*revertcount*LOG(1+weight)/editscount AS weight
+    FROM pageeditscount JOIN pageconflict USING (page_id, year)
 ),
 types AS (
     SELECT DISTINCT type, page_depth
