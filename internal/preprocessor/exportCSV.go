@@ -51,6 +51,8 @@ func (p preprocessor) exportCSV(ctx context.Context, articles <-chan article, bo
 
 			InterestedUsers := []*roaring.Bitmap{roaring.NewBitmap(), roaring.NewBitmap(), roaring.NewBitmap()}
 			oldWeight := float64(0)
+			//SHA12SerialID maps sha1 to the last revision serial number in which it appears
+			SHA12SerialID, currentSerialID := make(map[string]uint32, len(a.Revisions)), uint32(0)
 		LOOP:
 			for _, r := range a.Revisions {
 				ID := r.UserID
@@ -61,6 +63,21 @@ func (p preprocessor) exportCSV(ctx context.Context, articles <-chan article, bo
 				diff := r.Weight - oldWeight
 				oldWeight = r.Weight
 
+				//Count revisions reverted
+				var isRevert uint32
+				previousID, ok := SHA12SerialID[r.SHA1]
+				switch {
+				case ok:
+					isRevert = currentSerialID - previousID - 1
+					fallthrough
+				case len(r.SHA1) == 31:
+					SHA12SerialID[r.SHA1] = currentSerialID
+					fallthrough
+				default:
+					currentSerialID++
+				}
+
+				//Convert data for socialjumps
 				switch {
 				case r.UserID == wikibrief.AnonimousUserID:
 					userID = nil
@@ -69,14 +86,16 @@ func (p preprocessor) exportCSV(ctx context.Context, articles <-chan article, bo
 					if p.FilterBots {
 						continue LOOP //do not export to csv
 					}
-				case r.IsRevert > 0 && diff <= 120:
+				case isRevert > 0 && diff <= 120:
 					InterestedUsers[0].Add(r.UserID)
-				case r.IsRevert > 0 || diff <= 120:
+				case isRevert > 0 || diff <= 120:
 					InterestedUsers[1].Add(r.UserID)
 				default:
 					InterestedUsers[2].Add(r.UserID)
 				}
-				csvArticleRevisionChan <- &csvArticleEg{r.ID, userID, isBot, a.ID, r.IsRevert, r.Weight, diff, r.Timestamp.Format(time.RFC3339Nano)}
+
+				//export to csv
+				csvArticleRevisionChan <- &csvArticleEg{r.ID, userID, isBot, a.ID, isRevert, r.Weight, diff, r.Timestamp.Format(time.RFC3339Nano)}
 			}
 			nullItersections(InterestedUsers)
 			ame := multiEdge{a.ID, InterestedUsers}
