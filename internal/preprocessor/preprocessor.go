@@ -134,6 +134,7 @@ func (p preprocessor) summaries(ctx context.Context, isArticle func(e uint32) (o
 		it := p.Dump.Open("metahistory7zdump")
 		wg := sync.WaitGroup{}
 		r, err := it(ctx)
+		//for ; err == nil; err = io.EOF {//Use just one metahistory7zdump file for testing purposes
 		for ; err == nil; r, err = it(ctx) {
 			wg.Add(1)
 			go func(r io.ReadCloser) {

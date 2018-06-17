@@ -2,17 +2,12 @@
 
 CREATE TYPE w2o.myindex AS ENUM ('conflict', 'polemic');
 
-CREATE MATERIALIZED VIEW w2o.timebounds AS
-SELECT MIN(year) AS minyear, MAX(year) AS maxyear,
-MIN(rev_timestamp) AS mintimestamp, MAX(rev_timestamp) AS maxtimestamp
-FROM w2o.revisions;
-
 /*Index must defined in a way that a missing entry correctly default to 0.0*/
-CREATE MATERIALIZED VIEW w2o.indicesbyyear AS
+CREATE TABLE w2o.indicesbyyear AS
 WITH incompletearticleeditscount AS (
-    SELECT page_id, year, COUNT(*) AS editscount, COUNT(*) FILTER (WHERE rev_isrevert > 0) AS revertcount
+    SELECT page_id, rev_year AS year, COUNT(*) AS editscount, COUNT(*) FILTER (WHERE rev_revert2serialid IS NOT NULL) AS revertcount
     FROM w2o.revisions
-    GROUP BY page_id, year
+    GROUP BY page_id, rev_year
 ), articleeditscount AS (
     SELECT page_id, 0 AS year, SUM(editscount) AS editscount, SUM(revertcount) AS revertcount
     FROM incompletearticleeditscount
@@ -29,9 +24,9 @@ WITH incompletearticleeditscount AS (
     FROM articleeditscount
 ),
 incompletearticleconflict AS (
-    SELECT DISTINCT 'conflict'::w2o.myindex AS type, page_id, year, user_id
+    SELECT DISTINCT 'conflict'::w2o.myindex AS type, page_id, rev_year AS year, user_id
     FROM w2o.revisions
-    WHERE rev_isrevert > 0 AND user_id IS NOT NULL
+    WHERE rev_revert2serialid IS NOT NULL AND user_id IS NOT NULL
 ), articleconflict AS (
     SELECT DISTINCT type, page_id, 0 AS year, user_id
     FROM incompletearticleconflict
@@ -56,27 +51,18 @@ incompletearticleconflict AS (
 types AS (
     SELECT DISTINCT type, page_depth
     FROM indices JOIN w2o.pages USING (page_id)
-), articlescreationyear AS (
-    SELECT page_id, MIN(year) AS year
-    FROM w2o.revisions
-    GROUP BY page_id
-), pagecreationyears AS (
-    SELECT page_id, minyear AS year, page_id AS parent_id, page_depth
-    FROM w2o.timebounds, w2o.pages
-    WHERE page_depth < 2 
-    UNION ALL
-    SELECT articlescreationyear.*, parent_id, page_depth
-    FROM articlescreationyear JOIN w2o.pages USING (page_id)
 ), typepageyear AS (
     SELECT type, page_id, parent_id, page_depth, _.year
-    FROM pagecreationyears JOIN types USING (page_depth),
-    w2o.timebounds, generate_series(year,maxyear) _(year)
+    FROM w2o.pages JOIN types USING (page_depth),
+    w2o.timebounds, generate_series(page_creationyear,maxyear) _(year)
     UNION ALL
     SELECT type, page_id, parent_id, page_depth, 0 AS year
-    FROM pagecreationyears JOIN types USING (page_depth)
+    FROM w2o.pages JOIN types USING (page_depth)
 )
 SELECT type, page_id, parent_id AS topic_id, page_depth, year, COALESCE(weight,0) AS weight
 FROM indices RIGHT JOIN typepageyear USING (type, page_id, year);
+
+DROP TABLE w2o.revisions;
 
 CREATE INDEX ON w2o.indicesbyyear (page_id);
 

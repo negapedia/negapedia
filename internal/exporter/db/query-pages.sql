@@ -24,16 +24,8 @@ WITH topics AS (
     SELECT page_id, array_agg(CAST((type, measurements) AS w2o.indextype2measurements) ORDER BY type ASC) AS stats
     FROM percentiledindicesagg
     GROUP BY page_id
-), pagecreationyears AS (
-    SELECT page_id, minyear
-    FROM w2o.timebounds, w2o.pages
-    WHERE page_depth < 2 
-    UNION ALL
-    SELECT page_id, MIN(year) AS minyear
-    FROM w2o.revisions
-    GROUP BY page_id
 ) SELECT row_to_json(CAST((
-    CAST((page_title, page_abstract, topic_title, istopic, topic_fulltitle, page_url, minyear,page_depth) AS w2o.myextendedpage),
+    CAST((page_title, page_abstract, topic_title, istopic, topic_fulltitle, page_creationyear,page_depth) AS w2o.myextendedpage),
     COALESCE(stats,array[]::w2o.indextype2measurements[]),
     COALESCE(socialjumps,array[]::w2o.mypage[])
 ) AS w2o.pageinfo))
@@ -42,5 +34,4 @@ FROM w2o.topicpages tp LEFT JOIN LATERAL (
     FROM unnest(tp.page_socialjumps) WITH ORDINALITY _(page_id, nr) JOIN w2o.topicpages USING (page_id)
 ) _ ON TRUE
 LEFT JOIN percentiledindicesaggagg USING (page_id)
-JOIN pagecreationyears USING (page_id)
 ORDER BY tp.page_depth,tp.page_title;

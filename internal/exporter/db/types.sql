@@ -27,7 +27,6 @@ CREATE TYPE w2o.myextendedpage AS (
     Topic    VARCHAR(512),
     IsTopic BOOLEAN,
     FullTopic    VARCHAR(512),
-    WikipediaUrl VARCHAR(512),
     CreationYear  INTEGER,
     PageDepth     INTEGER
 );

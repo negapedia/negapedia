@@ -32,6 +32,7 @@ type Model struct {
 func NewModel(ctx context.Context, db *sqlx.DB, lang, sourcePath string) (m Model, destructor func(), err error) {
 	sourcePath, err = filepath.Abs(sourcePath)
 	if err != nil {
+		err = errors.Wrap(err, "Error while converting source path to absolute")
 		return
 	}
 	fail := func(e error) (Model, func(), error) {
@@ -44,7 +45,7 @@ func NewModel(ctx context.Context, db *sqlx.DB, lang, sourcePath string) (m Mode
 	for _, dbfile := range []string{"db/base.sql", "db/indices.sql", "db/types.sql"} {
 		var b []byte
 		if b, err = Asset(dbfile); err != nil {
-			return fail(err)
+			return fail(errors.Wrap(err, err.Error()+" while opening "+dbfile))
 		}
 		query += string(b)
 	}
@@ -77,11 +78,11 @@ func OpenModel(db *sqlx.DB, lang string) (m Model, destructor func(), err error)
 
 	err = db.Select(&m.data.Topics, "SELECT page_title AS title, page_abstract AS abstract, topic_title AS topic, istopic AS istopic FROM w2o.topicpages WHERE page_depth = 1 ORDER BY page_title;")
 	if err != nil {
-		return fail(err)
+		return fail(errors.Wrap(err, "Error while retrieving Topics"))
 	}
 	err = db.Select(&m.data.Indexes, "SELECT type::name as name FROM unnest(enum_range(NULL::w2o.myindex)) AS _(type) ORDER BY name;")
 	if err != nil {
-		return fail(err)
+		return fail(errors.Wrap(err, "Error while retrieving Indexes"))
 	}
 	if len(m.data.Indexes) == 0 {
 		return fail(errors.New("Error: there are no indexes defined over data"))
@@ -90,11 +91,11 @@ func OpenModel(db *sqlx.DB, lang string) (m Model, destructor func(), err error)
 
 	err = db.Get(&m.data.BoundingYears, "SELECT minyear AS Min, maxyear AS Max, mintimestamp AS MinTimestamp, maxtimestamp AS MaxTimestamp FROM w2o.timebounds;")
 	if err != nil {
-		return fail(err)
+		return fail(errors.Wrap(err, "Error while retrieving Timebounds"))
 	}
 	err = db.Select(&m.data.PageDepth2Count, "SELECT count FROM (SELECT page_depth,COUNT(*) as count FROM w2o.pages GROUP BY page_depth) AS _ ORDER BY page_depth;")
 	if err != nil {
-		return fail(err)
+		return fail(errors.Wrap(err, "Error while retrieving PageDepth2Count"))
 	}
 
 	destructor = getDestructor(db)
@@ -148,7 +149,6 @@ func (p Page) UnderscoredTitle() string {
 type ExtendedPage struct {
 	Page
 	FullTopic    string
-	WikipediaUrl string
 	CreationYear int
 	PageDepth    int
 }

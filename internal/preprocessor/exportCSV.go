@@ -34,7 +34,7 @@ func (p preprocessor) exportCSV(ctx context.Context, articles <-chan article, bo
 
 		for _, t := range p.Topics { //dump topics
 			select {
-			case csvPageChan <- &csvPage{t.ID, t.Title, t.Abstract, t.WikipediaURL, t.ID, socialJumps{}}:
+			case csvPageChan <- &csvPage{ID: t.ID, Title: t.Title, Abstract: t.Abstract}:
 			//proceed
 			case <-ctx.Done():
 				return
@@ -52,60 +52,57 @@ func (p preprocessor) exportCSV(ctx context.Context, articles <-chan article, bo
 			InterestedUsers := []*roaring.Bitmap{roaring.NewBitmap(), roaring.NewBitmap(), roaring.NewBitmap()}
 			oldWeight := float64(0)
 			//SHA12SerialID maps sha1 to the last revision serial number in which it appears
-			SHA12SerialID, currentSerialID := make(map[string]uint32, len(a.Revisions)), uint32(0)
-		LOOP:
+			SHA12SerialID, serialID := make(map[string]uint32, len(a.Revisions)), ^uint32(0)
 			for _, r := range a.Revisions {
-				ID := r.UserID
-				userID := &ID
+				serialID++
 
+				//User data
+				var userID *uint32
+				if ID := r.UserID; ID != wikibrief.AnonimousUserID {
+					userID = &ID
+				}
 				_, isBot := botBlacklist[r.UserID]
 
+				//Revision metric data
 				diff := r.Weight - oldWeight
 				oldWeight = r.Weight
 
-				//Count revisions reverted
-				var isRevert uint32
-				previousID, ok := SHA12SerialID[r.SHA1]
+				//Revert data
+				var revert2ID *uint32
+				_Revert2ID, isRevert := SHA12SerialID[r.SHA1]
 				switch {
-				case ok:
-					isRevert = currentSerialID - previousID - 1
+				case isRevert:
+					revert2ID = &_Revert2ID
 					fallthrough
 				case len(r.SHA1) == 31:
-					SHA12SerialID[r.SHA1] = currentSerialID
-					fallthrough
-				default:
-					currentSerialID++
+					SHA12SerialID[r.SHA1] = serialID
+				}
+
+				//Export to csv
+				if !isBot || !p.FilterBots {
+					csvArticleRevisionChan <- &csvArticleEg{a.ID, serialID, userID, isBot, r.Weight, diff, revert2ID, r.Timestamp.Format(time.RFC3339Nano)}
 				}
 
 				//Convert data for socialjumps
 				switch {
-				case r.UserID == wikibrief.AnonimousUserID:
-					userID = nil
-					isBot = false
 				case isBot:
-					if p.FilterBots {
-						continue LOOP //do not export to csv
-					}
-				case isRevert > 0 && diff <= 120:
+					//do nothing
+				case isRevert && diff <= 120:
 					InterestedUsers[0].Add(r.UserID)
-				case isRevert > 0 || diff <= 120:
+				case isRevert || diff <= 120:
 					InterestedUsers[1].Add(r.UserID)
 				default:
 					InterestedUsers[2].Add(r.UserID)
 				}
-
-				//export to csv
-				csvArticleRevisionChan <- &csvArticleEg{r.ID, userID, isBot, a.ID, isRevert, r.Weight, diff, r.Timestamp.Format(time.RFC3339Nano)}
 			}
 			nullItersections(InterestedUsers)
 			ame := multiEdge{a.ID, InterestedUsers}
 
 			csvPageChan := csvPageChan
 			articleMultiEdgeChan := articleMultiEdgeChan
-			url := "https://" + p.Language + ".wikipedia.org/wiki/" + strings.Replace(a.Title, " ", "_", -1)
 			for i := 0; i < 2; i++ {
 				select {
-				case csvPageChan <- &csvPage{a.ID, a.Title, a.Abstract, url, a.TopicID, socialJumps{nil}}:
+				case csvPageChan <- &csvPage{a.ID, a.Title, a.Abstract, a.TopicID}:
 					csvPageChan = nil
 				case articleMultiEdgeChan <- ame:
 					articleMultiEdgeChan = nil
@@ -207,23 +204,21 @@ func groupByVertexA(ctx context.Context, in chan multiEdge, vertexACount, vertex
 }
 
 type csvArticleEg struct {
-	ID        uint32  `csv:"id"`
+	PageID    uint32  `csv:"pageid"`
+	SerialID  uint32  `csv:"serialid"`
 	UserID    *uint32 `csv:"userid"`
 	IsBot     bool    `csv:"isbot"`
-	PageID    uint32  `csv:"pageid"`
-	IsRevert  uint32  `csv:"isrevert"`
 	Weight    float64 `csv:"weight"`
 	Diff      float64 `csv:"diff"`
+	Revert2ID *uint32 `csv:"revert2id"`
 	Timestamp string  `csv:"timestamp"`
 }
 
 type csvPage struct {
-	ID          uint32      `csv:"id"`
-	Title       string      `csv:"title"`
-	Abstract    string      `csv:"abstract"`
-	URL         string      `csv:"url"`
-	TopicID     uint32      `csv:"topicid"`
-	SocialJumps socialJumps `csv:"socialjumps"`
+	ID       uint32 `csv:"id"`
+	Title    string `csv:"title"`
+	Abstract string `csv:"abstract"`
+	TopicID  uint32 `csv:"topicid"`
 }
 
 type csvSocialJumps struct {
