@@ -72,8 +72,7 @@ func (p preprocessor) exportCSV(ctx context.Context, articles <-chan article, bo
 				_Revert2ID, isRevert := SHA12SerialID[r.SHA1]
 				switch {
 				case isRevert:
-					revert2ID = &_Revert2ID
-					fallthrough
+					revert2ID = &_Revert2ID //setted to the first serial ID having the same SHA1 sum
 				case len(r.SHA1) == 31:
 					SHA12SerialID[r.SHA1] = serialID
 				}
