@@ -257,7 +257,7 @@ func conflictualData(revisions []wikibrief.Revision) (SHA12ID map[string]uint32,
 
 	//add to positiveChange edits that weren't reverted
 	positiveChange = roaring.NewBitmap()
-	for ID := uint32(len(revisions) - 1); ID > 0; ID-- {
+	for ID := uint32(len(revisions) - 1); ID >= 0; ID-- {
 		newID, isRevert := SHA12ID[revisions[ID].SHA1]
 		switch {
 		case isRevert && ID == newID:
