@@ -49,17 +49,16 @@ func (p preprocessor) exportCSV(ctx context.Context, articles <-chan article, bo
 			}
 			pageIds.Add(a.ID)
 
+			SHA12ID, positiveChange := conflictualData(a.Revisions)
+
 			InterestedUsers := []*roaring.Bitmap{roaring.NewBitmap(), roaring.NewBitmap(), roaring.NewBitmap()}
 			oldWeight := float64(0)
-			//SHA12SerialID maps sha1 to the last revision serial number in which it appears
-			SHA12SerialID, serialID := make(map[string]uint32, len(a.Revisions)), ^uint32(0)
-			for _, r := range a.Revisions {
-				serialID++
-
+			for ID, r := range a.Revisions {
+				ID := uint32(ID)
 				//User data
 				var userID *uint32
-				if ID := r.UserID; ID != wikibrief.AnonimousUserID {
-					userID = &ID
+				if uID := r.UserID; uID != wikibrief.AnonimousUserID {
+					userID = &uID
 				}
 				_, isBot := botBlacklist[r.UserID]
 
@@ -69,26 +68,22 @@ func (p preprocessor) exportCSV(ctx context.Context, articles <-chan article, bo
 
 				//Revert data
 				var revert2ID *uint32
-				_Revert2ID, isRevert := SHA12SerialID[r.SHA1]
-				switch {
-				case isRevert:
+				if _Revert2ID, isRevert := SHA12ID[r.SHA1]; isRevert {
 					revert2ID = &_Revert2ID //setted to the first serial ID having the same SHA1 sum
-				case len(r.SHA1) == 31:
-					SHA12SerialID[r.SHA1] = serialID
 				}
 
 				//Export to csv
 				if !isBot || !p.FilterBots {
-					csvArticleRevisionChan <- &csvArticleEg{a.ID, serialID, userID, isBot, r.Weight, diff, revert2ID, r.Timestamp.Format(time.RFC3339Nano)}
+					csvArticleRevisionChan <- &csvArticleEg{a.ID, ID, userID, isBot, r.Weight, diff, revert2ID, positiveChange.Contains(ID), r.Timestamp.Format(time.RFC3339Nano)}
 				}
 
 				//Convert data for socialjumps
 				switch {
 				case isBot:
 					//do nothing
-				case isRevert && diff <= 120:
+				case revert2ID != nil && diff <= 120:
 					InterestedUsers[0].Add(r.UserID)
-				case isRevert || diff <= 120:
+				case revert2ID != nil || diff <= 120:
 					InterestedUsers[1].Add(r.UserID)
 				default:
 					InterestedUsers[2].Add(r.UserID)
@@ -203,14 +198,15 @@ func groupByVertexA(ctx context.Context, in chan multiEdge, vertexACount, vertex
 }
 
 type csvArticleEg struct {
-	PageID    uint32  `csv:"pageid"`
-	SerialID  uint32  `csv:"serialid"`
-	UserID    *uint32 `csv:"userid"`
-	IsBot     bool    `csv:"isbot"`
-	Weight    float64 `csv:"weight"`
-	Diff      float64 `csv:"diff"`
-	Revert2ID *uint32 `csv:"revert2id"`
-	Timestamp string  `csv:"timestamp"`
+	PageID       uint32  `csv:"pageid"`
+	ID           uint32  `csv:"ID"`
+	UserID       *uint32 `csv:"userid"`
+	IsBot        bool    `csv:"isbot"`
+	Weight       float64 `csv:"weight"`
+	Diff         float64 `csv:"diff"`
+	Revert2ID    *uint32 `csv:"revert2id"`
+	Constructive bool    `csv:"constructive"`
+	Timestamp    string  `csv:"timestamp"`
 }
 
 type csvPage struct {
@@ -246,10 +242,32 @@ func nullItersections(ss []*roaring.Bitmap) {
 	}
 }
 
-func clone(ss []*roaring.Bitmap) (ssc []*roaring.Bitmap) {
-	ssc = make([]*roaring.Bitmap, len(ss))
-	for i, s := range ss {
-		ssc[i] = s.Clone()
+func conflictualData(revisions []wikibrief.Revision) (SHA12ID map[string]uint32, positiveChange *roaring.Bitmap) {
+	//SHA12ID maps sha1 to the last revision serial number in which it appears
+	SHA12ID = make(map[string]uint32, len(revisions))
+	for ID, r := range revisions {
+		_, isRevert := SHA12ID[r.SHA1]
+		switch {
+		case isRevert:
+			//do nothing
+		case len(r.SHA1) == 31:
+			SHA12ID[r.SHA1] = uint32(ID)
+		}
 	}
+
+	//add to positiveChange edits that weren't reverted
+	positiveChange = roaring.New()
+	for ID := uint32(len(revisions) - 1); ID > 0; ID-- {
+		newID, isRevert := SHA12ID[revisions[ID].SHA1]
+		switch {
+		case isRevert && ID == newID:
+			positiveChange.Add(ID)
+		case isRevert: // && ID != newID:
+			ID = newID
+		default:
+			positiveChange.Add(ID)
+		}
+	}
+
 	return
 }

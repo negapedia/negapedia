@@ -23,6 +23,7 @@ CREATE TABLE w2o.revisions (
     rev_charweight FLOAT NOT NULL,
     rev_chardiff FLOAT NOT NULL,
     rev_revert2serialid INTEGER,
+    rev_constructive BOOLEAN NOT NULL,
     rev_timestamp TIMESTAMP NOT NULL,
     rev_year INTEGER
 );
@@ -35,7 +36,7 @@ CREATE TABLE w2o.socialjumps (
 /*Loading data...*/
 INSERT INTO w2o.pages(page_id, parent_id, page_depth) VALUES (0, 0, 0);/*Dummy page used for global statistics*/
 COPY w2o.pages(page_id,page_title,page_abstract,parent_id) FROM :'pagesfilepath' WITH CSV HEADER;
-COPY w2o.revisions(page_id,rev_serialid,user_id,user_isbot,rev_charweight,rev_chardiff, rev_revert2serialid,rev_timestamp) FROM :'revisionsfilepath' WITH CSV HEADER;
+COPY w2o.revisions(page_id,rev_serialid,user_id,user_isbot,rev_charweight,rev_chardiff, rev_revert2serialid, rev_constructive, rev_timestamp) FROM :'revisionsfilepath' WITH CSV HEADER;
 UPDATE w2o.revisions SET rev_year = CAST (EXTRACT(YEAR FROM date_trunc('year', rev_timestamp)) AS INTEGER);
 
 ALTER TABLE w2o.pages

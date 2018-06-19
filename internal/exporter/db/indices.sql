@@ -1,26 +1,28 @@
 /*Represents index types that statistics on pages (articles and topics)*/
 
-CREATE TYPE w2o.myindex AS ENUM ('conflict', 'polemic');
+CREATE TYPE w2o.myindex AS ENUM ('conflict', 'polemic','polemic1');
 
 /*Index must defined in a way that a missing entry correctly default to 0.0*/
 CREATE TABLE w2o.indicesbyyear AS
 WITH incompletearticleeditscount AS (
-    SELECT page_id, rev_year AS year, COUNT(*) AS editscount, COUNT(*) FILTER (WHERE rev_revert2serialid IS NOT NULL) AS revertcount
+    SELECT page_id, rev_year AS year, COUNT(*) AS editscount,
+    COUNT(*) FILTER (WHERE rev_revert2serialid IS NOT NULL) AS revertcount,
+    COUNT(*) FILTER (WHERE NOT rev_constructive) AS notconstructivecount
     FROM w2o.revisions
     GROUP BY page_id, rev_year
 ), articleeditscount AS (
-    SELECT page_id, 0 AS year, SUM(editscount) AS editscount, SUM(revertcount) AS revertcount
+    SELECT page_id, 0 AS year, SUM(editscount) AS editscount, SUM(revertcount) AS revertcount, SUM(notconstructivecount) AS notconstructivecount
     FROM incompletearticleeditscount
     GROUP BY page_id
     UNION ALL
     SELECT *
     FROM incompletearticleeditscount
 ), pageeditscount AS (
-    SELECT parent_id AS page_id, year, SUM(editscount)::float AS editscount, SUM(revertcount)::float AS revertcount
+    SELECT parent_id AS page_id, year, SUM(editscount)::float AS editscount, SUM(revertcount)::float AS revertcount, SUM(notconstructivecount)::float AS notconstructivecount
     FROM articleeditscount JOIN w2o.pagetree USING (page_id)
     GROUP BY parent_id, year
     UNION ALL
-    SELECT page_id, year, editscount::float AS editscount, revertcount::float AS revertcount
+    SELECT page_id, year, editscount::float AS editscount, revertcount::float AS revertcount, notconstructivecount::float AS notconstructivecount
     FROM articleeditscount
 ),
 incompletearticleconflict AS (
@@ -47,6 +49,9 @@ incompletearticleconflict AS (
     UNION ALL    
     SELECT 'polemic'::w2o.myindex AS type, page_id, year, 1000*revertcount*LOG(1+weight)/editscount AS weight
     FROM pageeditscount JOIN pageconflict USING (page_id, year)
+    UNION ALL    
+    SELECT 'polemic1'::w2o.myindex AS type, page_id, year, 1000*(notconstructivecount/editscount) AS weight
+    FROM pageeditscount
 ),
 types AS (
     SELECT DISTINCT type, page_depth
