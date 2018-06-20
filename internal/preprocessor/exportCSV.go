@@ -44,7 +44,7 @@ func (p preprocessor) exportCSV(ctx context.Context, articles <-chan article, bo
 		pageIds := roaring.NewBitmap()
 		for a := range articles {
 			//dumps may contains spurious duplicate of the same page, that must be removed
-			if pageIds.Contains(a.ID) {
+			if pageIds.Contains(a.ID) || len(a.Revisions) == 0 {
 				continue
 			}
 			pageIds.Add(a.ID)
@@ -257,6 +257,10 @@ func conflictualData(revisions []wikibrief.Revision) (SHA12ID map[string]uint32,
 
 	//add to positiveChange edits that weren't reverted
 	positiveChange = roaring.NewBitmap()
+	if len(revisions) == 0 {
+		return
+	}
+
 	for ID := uint32(len(revisions) - 1); ID >= 0; ID-- {
 		newID, isRevert := SHA12ID[revisions[ID].SHA1]
 		switch {
