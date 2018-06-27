@@ -13,8 +13,9 @@ This image take in input the nationalization - as of now only english and italia
 ### Refresh options
 1. `lang`: wikipedia nationalization to parse (`en` or `it`), default `it`.
 2. `source`: source of data (`net`,`csv` or `db`), default `net`.
-3. `keep`: keep every savepoint - `csv` and `db` - after the execution (`true` or `false`), default `false`.
-4. `nobots`: filter every edit done by a Bot before `csv` exporting (`true` or `false`), default `false`.
+3. `indices`: indices to use in graphs (`default` or `alternate`), default `default`.
+4. `keep`: keep every savepoint - `csv` and `db` - after the execution (`true` or `false`), default `false`.
+5. `nobots`: filter every edit done by a Bot before `csv` exporting (`true` or `false`), default `false`.
 
 ### Examples
 1. `docker run ebonetti/overpedia refresh -lang en`: basic usage, run the image on the english nationalization and store the result in the in-containter `/data` folder.

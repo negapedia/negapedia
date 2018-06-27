@@ -22,7 +22,7 @@ import (
 
 //go:generate go-bindata -pkg $GOPACKAGE -prefix "nationalizations/" nationalizations/...
 
-var lang, dataSource, dbopts string
+var lang, dataSource, dbopts, indices string
 var keepSavepoints bool
 var filterBots bool
 
@@ -30,6 +30,7 @@ func init() {
 	flag.StringVar(&lang, "lang", "it", "Wikipedia nationalization to parse (en,it).")
 	flag.StringVar(&dataSource, "source", "net", "Source of data (net,csv,db).")
 	flag.StringVar(&dbopts, "db", "user=postgres dbname=postgres sslmode=disable", "Options for connecting to the db.")
+	flag.StringVar(&indices, "indices", "default", "Indices to use in graphs (default,alternate).")
 	flag.BoolVar(&keepSavepoints, "keep", false, "Keep every savepoint - csv and db - after the execution (true or false).")
 	flag.BoolVar(&filterBots, "nobots", false, "Filter every edit done by a Bot before CSV exporting.")
 }
@@ -37,7 +38,7 @@ func init() {
 func main() {
 	flag.Parse()
 	log.Println("Called with the command: ", strings.Join(os.Args, " "))
-	log.Printf("Interpreted as: refresh lang = %s source = %s db = '%s' keep = %t nobots = %t\n", lang, dataSource, dbopts, keepSavepoints, filterBots)
+	log.Printf("Interpreted as: refresh lang = %s source = %s db = '%s' indices = %s keep = %t nobots = %t\n", lang, dataSource, dbopts, indices, keepSavepoints, filterBots)
 
 	start := time.Now()
 	defer func() {
@@ -89,7 +90,7 @@ func main() {
 		fallthrough
 	case "csv":
 		log.Print("Started CSV importing into DB")
-		m, dbDestructor, err = exporter.NewModel(context.Background(), db, lang, csvDir)
+		m, dbDestructor, err = exporter.NewModel(context.Background(), db, indices, lang, csvDir)
 	case "db":
 		//Do nothing, already opened
 	default:

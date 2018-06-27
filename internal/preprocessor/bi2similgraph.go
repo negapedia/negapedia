@@ -6,7 +6,6 @@ import (
 
 	"container/heap"
 
-	"github.com/RoaringBitmap/roaring"
 	"github.com/ebonetti/similgraph"
 )
 
@@ -14,7 +13,7 @@ import (
 
 type multiEdge struct {
 	VertexA   uint32
-	VerticesB []*roaring.Bitmap
+	VerticesB map[uint32]float64
 }
 
 type vertexLinks struct {
@@ -94,21 +93,29 @@ func newBi2Similgraph(ctx context.Context, in chan multiEdge, vertexACount, vert
 }
 
 func iteratorFromMultiEdge(me multiEdge) func() (similgraph.Edge, bool) {
-	nexts := make([]func() (e similgraph.Edge, ok bool), len(me.VerticesB))
-	w := float32(1)
-	for i, vb := range me.VerticesB {
-		it := vb.Iterator()
-		w *= 10
-		w := w
-		nexts[i] = func() (e similgraph.Edge, ok bool) {
-			if !it.HasNext() {
-				return
-			}
-			return similgraph.Edge{VertexA: me.VertexA, VertexB: it.Next(), Weight: w}, true
-		}
+	edges := make([]similgraph.Edge, 0, len(me.VerticesB))
+	for v, w := range me.VerticesB {
+		edges = append(edges, similgraph.Edge{VertexA: me.VertexA, VertexB: v, Weight: float32(w)})
 	}
-	return edgeIterMergeFrom(nexts...).Next
+	h := sEdgeHeap{weighedEdgeHeap(edges)}
+	heap.Init(&h)
+
+	return func() (e similgraph.Edge, ok bool) {
+		if len(h.weighedEdgeHeap) == 0 {
+			return
+		}
+
+		e, ok = heap.Pop(&h).(similgraph.Edge), true
+
+		return
+	}
 }
+
+type sEdgeHeap struct {
+	weighedEdgeHeap
+}
+
+func (h sEdgeHeap) Less(i, j int) bool { return h.weighedEdgeHeap[i].Less(h.weighedEdgeHeap[j]) }
 
 func concat(i ...func() (similgraph.Edge, bool)) func() (similgraph.Edge, bool) {
 	return func() (e similgraph.Edge, ok bool) {

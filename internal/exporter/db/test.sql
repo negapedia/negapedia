@@ -9,7 +9,7 @@ psql -v datafilepath='abs/path/2/CSV' -c '\i test.sql';
 \set socialjumpsfilepath :datafilepath 'socialjumps.csv';
 
 \i base.sql;
-\i indices.sql;
+\i indices/default.sql;
 \i types.sql;
 \i query-toptenbyyear.sql;
 \i query-pages.sql;

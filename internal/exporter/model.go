@@ -29,7 +29,7 @@ type Model struct {
 	data mData
 }
 
-func NewModel(ctx context.Context, db *sqlx.DB, lang, sourcePath string) (m Model, destructor func(), err error) {
+func NewModel(ctx context.Context, db *sqlx.DB, indices, lang, sourcePath string) (m Model, destructor func(), err error) {
 	sourcePath, err = filepath.Abs(sourcePath)
 	if err != nil {
 		err = errors.Wrap(err, "Error while converting source path to absolute")
@@ -42,7 +42,7 @@ func NewModel(ctx context.Context, db *sqlx.DB, lang, sourcePath string) (m Mode
 	}
 
 	query := ""
-	for _, dbfile := range []string{"db/base.sql", "db/indices.sql", "db/types.sql"} {
+	for _, dbfile := range []string{"db/base.sql", "db/indices/" + indices + ".sql", "db/types.sql"} {
 		var b []byte
 		if b, err = Asset(dbfile); err != nil {
 			return fail(errors.Wrap(err, err.Error()+" while opening "+dbfile))

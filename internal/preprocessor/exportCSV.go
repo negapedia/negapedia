@@ -5,6 +5,7 @@ import (
 	"context"
 	"encoding/csv"
 	"fmt"
+	"math"
 	"os"
 	"path/filepath"
 	"strings"
@@ -43,54 +44,34 @@ func (p preprocessor) exportCSV(ctx context.Context, articles <-chan article, bo
 
 		pageIds := roaring.NewBitmap()
 		for a := range articles {
-			//dumps may contains spurious duplicate of the same page, that must be removed
+			//dumps may contains spurious duplicate of the same page and empty pages, that must be removed
 			if pageIds.Contains(a.ID) || len(a.Revisions) == 0 {
 				continue
 			}
 			pageIds.Add(a.ID)
 
-			SHA12ID, positiveChange := conflictualData(a.Revisions)
-
-			InterestedUsers := []*roaring.Bitmap{roaring.NewBitmap(), roaring.NewBitmap(), roaring.NewBitmap()}
-			oldWeight := float64(0)
-			for ID, r := range a.Revisions {
+			users2weight := make(map[uint32]float64, len(a.Revisions))
+			revisions := transform(a, botBlacklist)
+			for ID, r := range revisions {
 				ID := uint32(ID)
-				//User data
-				var userID *uint32
-				if uID := r.UserID; uID != wikibrief.AnonimousUserID {
-					userID = &uID
-				}
-				_, isBot := botBlacklist[r.UserID]
-
-				//Revision metric data
-				diff := r.Weight - oldWeight
-				oldWeight = r.Weight
-
-				//Revert data
-				var revert2ID *uint32
-				if _Revert2ID, isRevert := SHA12ID[r.SHA1]; isRevert {
-					revert2ID = &_Revert2ID //setted to the first serial ID having the same SHA1 sum
-				}
 
 				//Export to csv
-				if !isBot || !p.FilterBots {
-					csvArticleRevisionChan <- &csvArticleEg{a.ID, ID, userID, isBot, r.Weight, diff, revert2ID, positiveChange.Contains(ID), r.Timestamp.Format(time.RFC3339Nano)}
+				if !r.IsBot || !p.FilterBots {
+					csvArticleRevisionChan <- &revisions[ID]
 				}
 
 				//Convert data for socialjumps
 				switch {
-				case isBot:
+				case r.IsBot || r.UserID == nil:
 					//do nothing
-				case revert2ID != nil && diff <= 120:
-					InterestedUsers[0].Add(r.UserID)
-				case revert2ID != nil || diff <= 120:
-					InterestedUsers[1].Add(r.UserID)
+				case r.IsRevert > 0 || r.IsReverted:
+					users2weight[ID] += 0.1
+				case r.Diff <= 10.0: //&& isPositive
+					users2weight[ID] += 1.0
 				default:
-					InterestedUsers[2].Add(r.UserID)
+					users2weight[ID] += math.Log10(r.Weight)
 				}
 			}
-			nullItersections(InterestedUsers)
-			ame := multiEdge{a.ID, InterestedUsers}
 
 			csvPageChan := csvPageChan
 			articleMultiEdgeChan := articleMultiEdgeChan
@@ -98,7 +79,7 @@ func (p preprocessor) exportCSV(ctx context.Context, articles <-chan article, bo
 				select {
 				case csvPageChan <- &csvPage{a.ID, a.Title, a.Abstract, a.TopicID}:
 					csvPageChan = nil
-				case articleMultiEdgeChan <- ame:
+				case articleMultiEdgeChan <- multiEdge{a.ID, users2weight}:
 					articleMultiEdgeChan = nil
 				case <-ctx.Done():
 					return
@@ -142,6 +123,47 @@ func (p preprocessor) exportCSV(ctx context.Context, articles <-chan article, bo
 	return
 }
 
+func transform(article article, botBlacklist map[uint32]string) (revisions []csvRevision) {
+	revisions = make([]csvRevision, len(article.Revisions))
+
+	oldWeight := float64(0)
+	SHA12ID := make(map[string]uint32, len(article.Revisions))
+	for ID, r := range article.Revisions {
+		ID := uint32(ID)
+
+		//User data
+		var userID *uint32
+		if uID := r.UserID; uID != wikibrief.AnonimousUserID {
+			userID = &uID
+		}
+		_, isBot := botBlacklist[r.UserID]
+
+		//Revision metric data
+		diff := r.Weight - oldWeight
+		oldWeight = r.Weight
+
+		//revert count data
+		IsRevert := uint32(0)
+		oldID, isRevert := SHA12ID[r.SHA1]
+		switch {
+		case isRevert:
+			IsRevert = ID - (oldID + 1)
+			fallthrough
+		case len(r.SHA1) == 31:
+			SHA12ID[r.SHA1] = ID
+		}
+
+		revisions[ID] = csvRevision{article.ID, ID, userID, isBot, r.Weight, diff, IsRevert, true, r.Timestamp.Format(time.RFC3339Nano)}
+	}
+
+	//Add reverted data
+	for ID := len(revisions) - 1; ID >= 0; ID -= 1 + int(revisions[ID].IsRevert) {
+		revisions[ID].IsReverted = false
+	}
+
+	return
+}
+
 func chan2csv(c <-chan interface{}, filePath string) (err error) {
 	var csvFile *os.File
 	if csvFile, err = os.Create(filePath); err != nil {
@@ -162,51 +184,16 @@ func chan2csv(c <-chan interface{}, filePath string) (err error) {
 	return gocsv.MarshalChan(c, gocsv.NewSafeCSVWriter(csvw))
 }
 
-func groupByVertexA(ctx context.Context, in chan multiEdge, vertexACount, vertexBCount, edgeCount int, fail func(err error) error) <-chan vertexLinks {
-	groupedCh := make(chan multiEdge, vertexACount)
-	go func() {
-		defer close(groupedCh)
-
-		VertexA2VerticesB := make(map[uint32][]*roaring.Bitmap, vertexACount)
-		for me := range in {
-			newGroup := me.VerticesB
-			if len(newGroup) == 0 { //no empty array are inserted
-				continue
-			}
-			group, ok := VertexA2VerticesB[me.VertexA]
-
-			if len(newGroup) > len(group) {
-				newGroup, group = group, newGroup
-			}
-			VertexA2VerticesB[me.VertexA] = group
-
-			if !ok {
-				continue
-			}
-			for i, s := range newGroup {
-				group[i].Or(s)
-			}
-			nullItersections(group)
-		}
-
-		for vertexA, verticesB := range VertexA2VerticesB {
-			groupedCh <- multiEdge{vertexA, verticesB}
-		}
-	}()
-
-	return newBi2Similgraph(ctx, groupedCh, vertexACount, vertexBCount, edgeCount, fail)
-}
-
-type csvArticleEg struct {
-	PageID       uint32  `csv:"pageid"`
-	ID           uint32  `csv:"ID"`
-	UserID       *uint32 `csv:"userid"`
-	IsBot        bool    `csv:"isbot"`
-	Weight       float64 `csv:"weight"`
-	Diff         float64 `csv:"diff"`
-	Revert2ID    *uint32 `csv:"revert2id"`
-	Constructive bool    `csv:"constructive"`
-	Timestamp    string  `csv:"timestamp"`
+type csvRevision struct {
+	PageID     uint32  `csv:"pageid"`
+	ID         uint32  `csv:"ID"`
+	UserID     *uint32 `csv:"userid"`
+	IsBot      bool    `csv:"isbot"`
+	Weight     float64 `csv:"weight"`
+	Diff       float64 `csv:"diff"`
+	IsRevert   uint32  `csv:"isrevert"`
+	IsReverted bool    `csv:"isreverted"`
+	Timestamp  string  `csv:"timestamp"`
 }
 
 type csvPage struct {
@@ -231,47 +218,4 @@ func (sj socialJumps) String() string {
 		pps[i] = fmt.Sprint(p)
 	}
 	return "{" + strings.Join(pps, ", ") + "}"
-}
-
-func nullItersections(ss []*roaring.Bitmap) {
-	sc := roaring.NewBitmap()
-	for i := len(ss) - 1; i >= 0; i-- {
-		si := ss[i]
-		si.AndNot(sc)
-		sc.Or(si)
-	}
-}
-
-func conflictualData(revisions []wikibrief.Revision) (SHA12ID map[string]uint32, positiveChange *roaring.Bitmap) {
-	//SHA12ID maps sha1 to the last revision serial number in which it appears
-	SHA12ID = make(map[string]uint32, len(revisions))
-	for ID, r := range revisions {
-		_, isRevert := SHA12ID[r.SHA1]
-		switch {
-		case isRevert:
-			//do nothing
-		case len(r.SHA1) == 31:
-			SHA12ID[r.SHA1] = uint32(ID)
-		}
-	}
-
-	//add to positiveChange edits that weren't reverted
-	positiveChange = roaring.NewBitmap()
-	if len(revisions) == 0 {
-		return
-	}
-
-	for ID := uint32(len(revisions) - 1); ID >= 0; ID-- {
-		newID, isRevert := SHA12ID[revisions[ID].SHA1]
-		switch {
-		case isRevert && ID == newID:
-			positiveChange.Add(ID)
-		case isRevert: // && ID != newID:
-			ID = newID
-		default:
-			positiveChange.Add(ID)
-		}
-	}
-
-	return
 }

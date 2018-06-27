@@ -22,8 +22,8 @@ CREATE TABLE w2o.revisions (
     user_isbot BOOLEAN NOT NULL,
     rev_charweight FLOAT NOT NULL,
     rev_chardiff FLOAT NOT NULL,
-    rev_revert2serialid INTEGER,
-    rev_constructive BOOLEAN NOT NULL,
+    rev_isrevert INTEGER NOT NULL,
+    rev_isreverted BOOLEAN NOT NULL,
     rev_timestamp TIMESTAMP NOT NULL,
     rev_year INTEGER
 );
@@ -33,10 +33,11 @@ CREATE TABLE w2o.socialjumps (
     page_socialjumps INTEGER[10]
 );
     
+/*Dummy page used for global statistics*/
+INSERT INTO w2o.pages(page_id, parent_id, page_depth) VALUES (0, 0, 0);
 /*Loading data...*/
-INSERT INTO w2o.pages(page_id, parent_id, page_depth) VALUES (0, 0, 0);/*Dummy page used for global statistics*/
 COPY w2o.pages(page_id,page_title,page_abstract,parent_id) FROM :'pagesfilepath' WITH CSV HEADER;
-COPY w2o.revisions(page_id,rev_serialid,user_id,user_isbot,rev_charweight,rev_chardiff, rev_revert2serialid, rev_constructive, rev_timestamp) FROM :'revisionsfilepath' WITH CSV HEADER;
+COPY w2o.revisions(page_id,rev_serialid,user_id,user_isbot,rev_charweight,rev_chardiff, rev_isrevert, rev_isreverted, rev_timestamp) FROM :'revisionsfilepath' WITH CSV HEADER;
 UPDATE w2o.revisions SET rev_year = CAST (EXTRACT(YEAR FROM date_trunc('year', rev_timestamp)) AS INTEGER);
 
 ALTER TABLE w2o.pages
@@ -52,7 +53,6 @@ ANALYZE w2o.pages;
 ALTER TABLE w2o.revisions
     ADD PRIMARY KEY (page_id,rev_serialid),
     ADD FOREIGN KEY (page_id) REFERENCES w2o.pages (page_id),
-    ADD FOREIGN KEY (page_id, rev_revert2serialid) REFERENCES w2o.revisions (page_id, rev_serialid),
     ALTER COLUMN rev_year SET NOT NULL;
 
 CREATE INDEX ON w2o.revisions (user_id);
@@ -67,7 +67,7 @@ FROM w2o.revisions;
 COPY w2o.socialjumps FROM :'socialjumpsfilepath' WITH CSV HEADER;
 UPDATE w2o.pages SET (page_socialjumps,page_creationyear) = (_.page_socialjumps, _.page_creationyear)
   FROM (
-    WITH pagecreationyears AS (
+    WITH pagecreation AS (
     SELECT page_id, minyear AS page_creationyear
     FROM w2o.timebounds, w2o.pages
     WHERE page_depth < 2 
@@ -76,7 +76,7 @@ UPDATE w2o.pages SET (page_socialjumps,page_creationyear) = (_.page_socialjumps,
     FROM w2o.revisions
     GROUP BY page_id)
     SELECT page_id, COALESCE(sj.page_socialjumps,'{}') AS page_socialjumps, page_creationyear
-    FROM pagecreationyears LEFT JOIN w2o.socialjumps sj USING (page_id)
+    FROM pagecreation LEFT JOIN w2o.socialjumps sj USING (page_id)
   ) _ WHERE _.page_id = pages.page_id;
 DROP TABLE w2o.socialjumps;
 ALTER TABLE w2o.pages
