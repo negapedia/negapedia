@@ -34,11 +34,10 @@ func (v View) Transform(i interface{}) (info vFile, err error) {
 	switch t := i.(type) {
 	case Info:
 		pagePath = pageUrl(t.Page.Page)
+		i = v.transformPage(t)
 		if len(t.Page.Title) == 0 {
-			i = v.transformHomePage(t)
 			templateName = nameHomepage(v.data.Lang)
 		} else {
-			i = v.transformPage(t)
 			templateName = "page.html"
 		}
 	case SplittedAnnualIndexRanking: //topten

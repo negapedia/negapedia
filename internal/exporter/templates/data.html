@@ -1,9 +1,4 @@
-<script type="text/javascript">
-
 ["Rank","Percentile","DensePercentile","Index","Among","Span","Value"]
 var NEGARANKS = [{{range .Rankings}}
     [{{.Rank}},{{.Percentile}},{{.DensePercentile}},{{.Index}},{{.Among}},{{.Span}},{{.Value}}],{{end}}
-  ];
-
-var minGlobalTimestamp = new Date({{.BoundingYears.MinTimestamp.Unix}}*1000), maxGlobalTimestamp = new Date({{.BoundingYears.MaxTimestamp.Unix}}*1000);
-</script>
+];

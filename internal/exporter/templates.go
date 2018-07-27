@@ -33,7 +33,7 @@ func addHomepages(t *template.Template, baseDomain string) (err error) {
 			continue
 		}
 		//replace old data with template
-		homepageTemplate := r.ReplaceAllString(string(webpage), gchartImport+"\n\n{{template \"data.html\" .}}")
+		homepageTemplate := r.ReplaceAllString(string(webpage), gchartImport+"\n\n{{template \"homepage.html\" .}}")
 		if _, err = t.New(nameHomepage(lang)).Parse(homepageTemplate); err != nil {
 			return
 		}

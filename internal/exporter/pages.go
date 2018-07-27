@@ -7,9 +7,6 @@ import (
 func (v View) transformPage(i Info) interface{} {
 	p := viewInfo(i)
 	p.Page.Abstract = smartTruncate(p.Page.Abstract, 512)
-	if p.Page.IsTopic && len(p.Links) > 3 {
-		p.Links = p.Links[:3]
-	}
 
 	return &struct {
 		mData
@@ -25,19 +22,6 @@ func (v View) transformPage(i Info) interface{} {
 		pageType(p.Page.Page),
 		p.Rankings(),
 		pageList(p.Links...),
-	}
-}
-
-func (v View) transformHomePage(i Info) interface{} {
-	p := viewInfo(i)
-	return &struct {
-		mData
-		CanonicalLink
-		Rankings []ranking
-	}{
-		v.data,
-		CanonicalLink{},
-		p.Rankings(),
 	}
 }
 
