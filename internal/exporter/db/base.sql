@@ -38,26 +38,23 @@ INSERT INTO w2o.pages(page_id, parent_id, page_depth) VALUES (0, 0, 0);
 /*Loading data...*/
 COPY w2o.pages(page_id,page_title,page_abstract,parent_id) FROM :'pagesfilepath' WITH CSV HEADER;
 COPY w2o.revisions(page_id,rev_serialid,user_id,user_isbot,rev_charweight,rev_chardiff, rev_isrevert, rev_isreverted, rev_timestamp) FROM :'revisionsfilepath' WITH CSV HEADER;
-UPDATE w2o.revisions SET rev_year = CAST (EXTRACT(YEAR FROM date_trunc('year', rev_timestamp)) AS INTEGER);
 
 ALTER TABLE w2o.pages
     ADD PRIMARY KEY (page_id),
     ADD FOREIGN KEY (parent_id) REFERENCES w2o.pages (page_id);
 UPDATE w2o.pages SET page_depth = 1 WHERE parent_id=0 AND page_id!=0;
-
-CREATE INDEX ON w2o.pages (page_depth, page_title);
-
 CLUSTER w2o.pages USING pages_pkey;
 ANALYZE w2o.pages;
+CREATE INDEX ON w2o.pages (page_depth, page_title);
 
+UPDATE w2o.revisions SET rev_year = CAST (EXTRACT(YEAR FROM date_trunc('year', rev_timestamp)) AS INTEGER);
 ALTER TABLE w2o.revisions
     ADD PRIMARY KEY (page_id,rev_serialid),
     ADD FOREIGN KEY (page_id) REFERENCES w2o.pages (page_id),
     ALTER COLUMN rev_year SET NOT NULL;
-
-CREATE INDEX ON w2o.revisions (user_id);
-
+CLUSTER w2o.revisions USING revisions_pkey;
 ANALYZE w2o.revisions;
+CREATE INDEX ON w2o.revisions (user_id);
 
 CREATE TABLE w2o.timebounds AS
 SELECT MIN(rev_year) AS minyear, MAX(rev_year) AS maxyear,

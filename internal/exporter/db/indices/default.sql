@@ -25,49 +25,34 @@ WITH articleusersocialindices AS (
     SELECT *
     FROM incompletepageusersocialindices
 ),
-pagecountyears AS (
-    SELECT page_depth, _.year, COUNT(*)::FLOAT AS totalpagecount
+articlecountyears AS (
+    SELECT _.year, COUNT(*)::FLOAT AS totalpagecount
     FROM w2o.timebounds, w2o.pages, generate_series(page_creationyear,maxyear) _(year)
-    GROUP BY page_depth, _.year
+    WHERE page_depth = 2
+    GROUP BY _.year
     UNION ALL
-    SELECT page_depth, 0 AS year, COUNT(*)::FLOAT AS totalpagecount
+    SELECT 0 AS year, COUNT(*)::FLOAT AS totalpagecount
     FROM w2o.pages
-    GROUP BY page_depth
-),
-minmaxtimestamp AS (
-    SELECT page_id, minyear,maxyear,mintimestamp,maxtimestamp
-    FROM w2o.timebounds, w2o.pages
-    WHERE page_depth < 2 
-    UNION ALL
-    SELECT page_id, MIN(rev_year) AS minyear, MAX(rev_year) AS maxyear,
-    MIN(rev_timestamp) AS mintimestamp, MAX(rev_timestamp) AS maxtimestamp
-    FROM w2o.revisions
-    GROUP BY page_id),
-timeweights AS (
-    SELECT page_id, year,
-    EXTRACT(epoch FROM (LEAST(maxtimestamp,make_date(year+1,1,1))-GREATEST(mintimestamp,make_date(year,1,1))))/86400.0 AS weight
-    FROM minmaxtimestamp, generate_series(minyear,maxyear) _(year)
-    UNION ALL
-    SELECT page_id, 0 AS year, EXTRACT(epoch FROM (maxtimestamp-mintimestamp))/86400.0 AS weight
-    FROM minmaxtimestamp
+    WHERE page_depth = 2
 ),
 pageusersocialindicescount AS (
     SELECT type, page_id, year, COUNT(*)::FLOAT AS weight
     FROM pageusersocialindices
     GROUP BY type, page_id, year
-), pairedpageusersocialindicescount AS (
+), pairedarticlesocialindicescount AS (
     SELECT page_id, year, p1.weight AS popularity, p2.weight AS conflict
-    FROM pageusersocialindicescount p1 JOIN pageusersocialindicescount p2 USING (page_id, year)
-    WHERE p1.type IS NULL AND p2.type = 'conflict'::w2o.myindex
+    FROM w2o.pages JOIN pageusersocialindicescount p1 USING (page_id)
+    JOIN pageusersocialindicescount p2 USING (page_id, year)
+    WHERE p1.type IS NULL AND p2.type = 'conflict'::w2o.myindex AND page_depth = 2
 ), SparseEQPopularityEQConflict AS (
-    SELECT page_depth, year, popularity, conflict, COUNT(*) as count
-    FROM w2o.pages p JOIN pairedpageusersocialindicescount p1 USING (page_id)
-    GROUP BY page_depth, year, popularity, conflict
+    SELECT year, popularity, conflict, COUNT(*) as count
+    FROM w2o.pages p JOIN pairedarticlesocialindicescount p1 USING (page_id)
+    GROUP BY year, popularity, conflict
 ), Popularity AS (
-    SELECT DISTINCT page_depth, year, popularity
+    SELECT DISTINCT year, popularity
     FROM SparseEQPopularityEQConflict
 ), Conflict AS (
-    SELECT DISTINCT page_depth, year, conflict
+    SELECT DISTINCT year, conflict
     FROM SparseEQPopularityEQConflict
 ), Years AS (
     SELECT year
@@ -75,28 +60,41 @@ pageusersocialindicescount AS (
     UNION ALL
     SELECT 0 AS year
 ), EQPopularityEQConflict AS (
-    SELECT page_depth, year, popularity, conflict, COALESCE(count,0) AS count
-    FROM Years CROSS JOIN generate_series(0,2) __(page_depth)
-    JOIN Popularity USING (page_depth, year)
-    JOIN Conflict USING (page_depth, year)
-    LEFT JOIN SparseEQPopularityEQConflict USING (page_depth, year, popularity, conflict)
+    SELECT year, popularity, conflict, COALESCE(count,0) AS count
+    FROM Years JOIN Popularity USING (year)
+    JOIN Conflict USING (year)
+    LEFT JOIN SparseEQPopularityEQConflict USING (year, popularity, conflict)
 ), EQPopularityGEConflict AS (
-    SELECT page_depth, year, popularity, conflict, 
-    SUM(count) OVER (PARTITION BY popularity, page_depth, year ORDER BY conflict DESC) as count
+    SELECT year, popularity, conflict, 
+    SUM(count) OVER (PARTITION BY popularity, year ORDER BY conflict DESC) as count
     FROM EQPopularityEQConflict
 ), LEPopularityGEConflict AS (
-    SELECT page_depth, year, popularity, conflict, 
-    SUM(count) OVER (PARTITION BY conflict, page_depth, year ORDER BY popularity) as count
+    SELECT year, popularity, conflict, 
+    SUM(count) OVER (PARTITION BY conflict, year ORDER BY popularity) as count
     FROM EQPopularityGEConflict
-), articlespolemic AS (
-    SELECT 'polemic'::w2o.myindex AS type, page_id, year,
-    weight*(conflict/popularity)*log(totalpagecount/count) AS weight
-    FROM pairedpageusersocialindicescount
+), untimedarticlespolemic AS (
+    SELECT page_id, year, (conflict/popularity)*log(totalpagecount/count) AS weight
+    FROM pairedarticlesocialindicescount
     JOIN LEPopularityGEConflict USING (year, popularity, conflict)
-    JOIN pagecountyears USING (page_depth, year)
-    JOIN timeweights USING (page_id, year)
-    WHERE page_depth = 2
-), indices AS (
+    JOIN articlecountyears USING (year)
+), 
+minmaxarticletimestamp AS (
+    SELECT page_id, MIN(rev_year) AS minyear, MAX(rev_year) AS maxyear,
+    MIN(rev_timestamp) AS mintimestamp, MAX(rev_timestamp) AS maxtimestamp
+    FROM w2o.revisions
+    GROUP BY page_id
+), timeweights AS (
+    SELECT page_id, year,
+    EXTRACT(epoch FROM (LEAST(maxtimestamp,make_date(year+1,1,1))-GREATEST(mintimestamp,make_date(year,1,1))))/86400.0 AS weight
+    FROM minmaxarticletimestamp, generate_series(minyear,maxyear) _(year)
+    UNION ALL
+    SELECT page_id, 0 AS year, EXTRACT(epoch FROM (maxtimestamp-mintimestamp))/86400.0 AS weight
+    FROM minmaxarticletimestamp
+), articlespolemic AS (
+    SELECT 'polemic'::w2o.myindex AS type, page_id, year, ap.weight*tw.weight AS weight
+    FROM untimedarticlespolemic ap JOIN timeweights tw USING (page_id, year)
+),
+indices AS (
     SELECT *
     FROM pageusersocialindicescount
     WHERE type IS NOT NULL
