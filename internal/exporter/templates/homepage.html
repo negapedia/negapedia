@@ -1,0 +1,5 @@
+<script>
+{{template "data.html" .}}
+
+var minGlobalTimestamp = new Date({{.BoundingYears.MinTimestamp.Unix}}*1000), maxGlobalTimestamp = new Date({{.BoundingYears.MaxTimestamp.Unix}}*1000);
+</script>

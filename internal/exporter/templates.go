@@ -20,20 +20,21 @@ func init() {
 	}
 }
 
-const gchartImport = "<script type=\"text/javascript\" src=\"https://www.gstatic.com/charts/loader.js\"></script>"
-const pattern = "(?s:" + gchartImport + ".*?</script>)"
+const (
+	gchartImport         = "<script type=\"text/javascript\" src=\"https://www.gstatic.com/charts/loader.js\"></script>"
+	baseHomepageTemplate = gchartImport + "\n{{template \"homepage.html\" .}}"
+	pattern              = "(?s:" + gchartImport + ".*?</script>)"
+)
 
 func addHomepages(t *template.Template, baseDomain string) (err error) {
 	r := regexp.MustCompile(pattern)
 	for _, lang := range []string{"aa", "ab", "ae", "af", "ak", "am", "an", "ar", "as", "av", "ay", "az", "ba", "be", "bg", "bh", "bi", "bm", "bn", "bo", "br", "bs", "ca", "ce", "ch", "co", "cr", "cs", "cu", "cv", "cy", "da", "de", "dv", "dz", "ee", "el", "en", "eo", "es", "et", "eu", "fa", "ff", "fi", "fj", "fl", "fo", "fr", "fy", "ga", "gd", "gl", "gn", "gu", "gv", "ha", "he", "hi", "ho", "hr", "ht", "hu", "hy", "hz", "ia", "id", "ie", "ig", "ii", "ik", "io", "is", "it", "iu", "ja", "jv", "ka", "kg", "ki", "kj", "kk", "kl", "km", "kn", "ko", "kr", "ks", "ku", "kv", "kw", "ky", "la", "lb", "lg", "li", "ln", "lo", "lt", "lu", "lv", "mg", "mh", "mi", "mk", "ml", "mn", "mr", "ms", "mt", "my", "na", "nb", "nd", "ne", "ng", "nl", "nn", "no", "nr", "nv", "ny", "oc", "oj", "om", "or", "os", "pa", "pi", "pl", "ps", "pt", "qu", "rm", "rn", "ro", "ru", "rw", "sa", "sc", "sd", "se", "sg", "si", "sk", "sl", "sm", "sn", "so", "sq", "sr", "ss", "st", "su", "sv", "sw", "ta", "te", "tg", "th", "ti", "tk", "tl", "tn", "to", "tr", "ts", "tt", "tw", "ty", "ug", "uk", "ur", "uz", "ve", "vi", "vo", "wa", "wo", "xh", "yi", "yo", "za", "zh", "zu"} {
-		var webpage []byte
-		webpage, err = get("http://" + lang + "." + baseDomain)
-		if err != nil {
-			err = nil
-			continue
+		homepageTemplate := baseHomepageTemplate
+		if webpage, err := get("http://" + lang + "." + baseDomain); err == nil {
+			//replace old data with template
+			homepageTemplate = r.ReplaceAllString(string(webpage), baseHomepageTemplate)
 		}
-		//replace old data with template
-		homepageTemplate := r.ReplaceAllString(string(webpage), gchartImport+"\n\n{{template \"homepage.html\" .}}")
+
 		if _, err = t.New(nameHomepage(lang)).Parse(homepageTemplate); err != nil {
 			return
 		}
