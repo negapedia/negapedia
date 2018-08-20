@@ -33,5 +33,5 @@ FROM w2o.topicpages tp LEFT JOIN LATERAL (
     SELECT array_agg(CAST((page_title, page_abstract, topic_title, istopic) AS w2o.mypage) ORDER BY nr) AS socialjumps
     FROM unnest(tp.page_socialjumps) WITH ORDINALITY _(page_id, nr) JOIN w2o.topicpages USING (page_id)
 ) _ ON TRUE
-LEFT JOIN percentiledindicesaggagg USING (page_id)
+JOIN percentiledindicesaggagg USING (page_id)
 ORDER BY tp.page_depth,tp.page_title;
