@@ -31,5 +31,6 @@ For further explanations please refer to [docker run reference](https://docs.doc
 
 ### Useful commands
 1. `docker pull ebonetti/overpedia` Update the image to the last revision.
-2. `docker logs -f $(docker ps -lq)` Fetch the logs of the last container.
-3. `docker system prune -fa --volumes` Remove all unused images and volume without asking for confirmation.
+2. `docker kill --signal=SIGQUIT  $(docker ps -ql)` Quit the last container and log trace dump.
+3. `docker logs -f $(docker ps -lq)` Fetch the logs of the last container.
+4. `docker system prune -fa --volumes` Remove all unused images and volume without asking for confirmation.
