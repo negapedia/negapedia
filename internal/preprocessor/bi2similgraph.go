@@ -2,6 +2,7 @@ package preprocessor
 
 import (
 	"context"
+	"runtime"
 	"sync"
 
 	"container/heap"
@@ -56,16 +57,22 @@ func newBi2Similgraph(ctx context.Context, in chan multiEdge, vertexACount, vert
 		new2OldID = nnew2newID
 		nnew2newID = nil
 
-		workers := uint32(20)
-		VC := g.VertexCount()
+		pageIDsChan := make(chan uint32, 10*runtime.NumCPU())
+		go func() { //Page ID producer
+			defer close(pageIDsChan)
+			for pageID := uint32(0); pageID < g.VertexCount(); pageID++ {
+				pageIDsChan <- pageID
+			}
+		}()
+
 		wg := sync.WaitGroup{}
-		for v := uint32(0); v < workers; v++ {
+		for workers := 0; workers < cap(pageIDsChan); workers++ {
 			wg.Add(1)
-			go func(v uint32) {
+			go func() { //Page ID consumers
 				defer wg.Done()
 
 				buffer := make([]similgraph.Edge, 10)
-				for ; v < VC; v += workers {
+				for v := range pageIDsChan {
 					itsm, itbg, err := g.EdgeIterator(v)
 					if err != nil {
 						fail(err)
@@ -83,7 +90,7 @@ func newBi2Similgraph(ctx context.Context, in chan multiEdge, vertexACount, vert
 						return
 					}
 				}
-			}(v)
+			}()
 		}
 		wg.Wait()
 	}()
