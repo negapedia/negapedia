@@ -9,8 +9,6 @@ import (
 	"github.com/ebonetti/similgraph"
 )
 
-//go:generate gorewrite
-
 type multiEdge struct {
 	VertexA   uint32
 	VerticesB map[uint32]float64
