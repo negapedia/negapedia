@@ -8,10 +8,15 @@ import (
 	"context"
 	"encoding/json"
 	"flag"
+	"fmt"
 	"io"
+	"io/ioutil"
 	"log"
 	"os"
+	"os/signal"
+	"runtime"
 	"strings"
+	"syscall"
 	"time"
 
 	"github.com/ebonetti/overpedia/internal/exporter"
@@ -36,6 +41,7 @@ func init() {
 }
 
 func main() {
+	stackTraceOn(syscall.SIGUSR1) //enable logging to a file the current stack trace upon receiving the signal SIGUSR1
 	flag.Parse()
 	log.Println("Called with the command: ", strings.Join(os.Args, " "))
 	log.Printf("Interpreted as: refresh lang = %s source = %s db = '%s' indices = %s keep = %t nobots = %t\n", lang, dataSource, dbopts, indices, keepSavepoints, filterBots)
@@ -175,4 +181,21 @@ func nationalization(lang string) (data preprocessor.Nationalization, err error)
 	}
 
 	return
+}
+
+func stackTraceOn(sig ...os.Signal) {
+	sigChan := make(chan os.Signal)
+	go func() {
+		stacktrace := make([]byte, 8192)
+		for range sigChan {
+			stacktrace := stacktrace[:runtime.Stack(stacktrace, true)]
+			filename := fmt.Sprint("stacktrace ", time.Now().Format("2006-01-02 15:04:05"))
+			err := ioutil.WriteFile(filename, stacktrace, os.ModePerm)
+			if err != nil {
+				log.Print("While writing stack trace on file encountered the following error ", err)
+				log.Print("Stack trace follows: ", string(stacktrace))
+			}
+		}
+	}()
+	signal.Notify(sigChan, sig...)
 }
