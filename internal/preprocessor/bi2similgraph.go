@@ -3,6 +3,7 @@ package preprocessor
 import (
 	"context"
 	"runtime"
+	"sort"
 	"sync"
 
 	"container/heap"
@@ -24,38 +25,16 @@ func newBi2Similgraph(ctx context.Context, in chan multiEdge, vertexACount, vert
 	vertexLinksChan := make(chan vertexLinks, 1000)
 	go func() {
 		defer close(vertexLinksChan)
-		weighedEdgeChan := make(chan similgraph.Edge, 10000)
-		new2OldID := make([]uint32, 0, vertexACount)
-		go func() {
-			defer close(weighedEdgeChan)
-			for me := range in {
-				if len(me.VerticesB) == 0 {
-					continue
-				}
-				newID := uint32(len(new2OldID))
-				new2OldID = append(new2OldID, me.VertexA)
-				me.VertexA = newID
-				next := iteratorFromMultiEdge(me)
-				for e, ok := next(); ok; e, ok = next() {
-					weighedEdgeChan <- e
-				}
-			}
-		}()
+		bigraphChan := multi2Edge(ctx, in, vertexACount, vertexBCount)
 
-		g, nnew2newID, err := similgraph.New(func() (e similgraph.Edge, ok bool) {
-			e, ok = <-weighedEdgeChan
+		g, new2OldID, err := similgraph.New(func() (e similgraph.Edge, ok bool) {
+			e, ok = <-bigraphChan
 			return
 		}, vertexACount, vertexBCount, edgeCount)
 		if err != nil {
 			fail(err)
 			return
 		}
-		for nnew, new := range nnew2newID {
-			old := new2OldID[new]
-			nnew2newID[nnew] = old
-		}
-		new2OldID = nnew2newID
-		nnew2newID = nil
 
 		pageIDsChan := make(chan uint32, 10*runtime.NumCPU())
 		go func() { //Page ID producer
@@ -95,6 +74,57 @@ func newBi2Similgraph(ctx context.Context, in chan multiEdge, vertexACount, vert
 		wg.Wait()
 	}()
 	return vertexLinksChan
+}
+
+func multi2Edge(ctx context.Context, in <-chan multiEdge, vertexACount, vertexBCount int) <-chan similgraph.Edge {
+	bigraphChan := make(chan similgraph.Edge, 10000)
+	go func() {
+		defer close(bigraphChan)
+		users2PageCount := make(map[uint32]float64, vertexBCount)
+		bigraph := make([]multiEdge, 0, vertexACount)
+		for me := range in {
+			if len(me.VerticesB) == 0 {
+				continue
+			}
+			for UserID := range me.VerticesB {
+				users2PageCount[UserID]++
+			}
+			bigraph = append(bigraph, me)
+		}
+
+		if ctx.Err() != nil {
+			return
+		}
+
+		//filtering users with too many pages, as they slow down computation beyond repair :(
+		weights := make([]float64, 0, 8000000)
+		for _, w := range users2PageCount {
+			weights = append(weights, w)
+		}
+		sort.Float64s(weights)
+		cut := weights[int(0.997*float64(len(weights)))]
+		for u, w := range users2PageCount {
+			if w < 2 || cut < w {
+				delete(users2PageCount, u)
+			}
+		}
+
+		//output final bigraph
+		sort.Slice(bigraph, func(i, j int) bool { return bigraph[i].VertexA < bigraph[j].VertexA })
+		for i, me := range bigraph {
+			next := iteratorFromMultiEdge(me)
+			for e, ok := next(); ok; e, ok = next() {
+				select {
+				case bigraphChan <- e:
+					//proceed
+				case <-ctx.Done():
+					return
+				}
+			}
+			bigraph[i] = multiEdge{} //enable Garbage Collection
+		}
+	}()
+	return bigraphChan
 }
 
 func iteratorFromMultiEdge(me multiEdge) func() (similgraph.Edge, bool) {
