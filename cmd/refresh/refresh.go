@@ -186,7 +186,7 @@ func nationalization(lang string) (data preprocessor.Nationalization, err error)
 func stackTraceOn(sig ...os.Signal) {
 	sigChan := make(chan os.Signal)
 	go func() {
-		stacktrace := make([]byte, 8192)
+		stacktrace := make([]byte, 8388608)
 		for range sigChan {
 			stacktrace := stacktrace[:runtime.Stack(stacktrace, true)]
 			filename := fmt.Sprint("stacktrace ", time.Now().Format("2006-01-02 15:04:05"))
