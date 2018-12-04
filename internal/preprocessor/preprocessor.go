@@ -6,6 +6,7 @@ import (
 	"io/ioutil"
 	"os"
 	"sync"
+	"time"
 
 	"github.com/RoaringBitmap/roaring"
 
@@ -47,7 +48,9 @@ func Run(ctx context.Context, CSVDir string, filterBots bool, ntl Nationalizatio
 	}
 	defer os.RemoveAll(tmpDir)
 
-	latestDump, err := wikidump.Latest(tmpDir, ntl.Language, "metahistory7zdump", "pagetable", "categorylinkstable", "pagelinkstable")
+	//latestDump, err := wikidump.Latest(tmpDir, ntl.Language, "metahistory7zdump", "pagetable", "categorylinkstable", "pagelinkstable")
+	dumpTime, _ := time.Parse("20060102", "20181001")//Fixing to a specified dump in time, while upgrading for supporting the new one
+	latestDump, err := wikidump.From(tmpDir, ntl.Language,dumpTime)
 	if err != nil {
 		return
 	}
