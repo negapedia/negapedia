@@ -42,7 +42,7 @@ ENV GOPATH /go
 ENV PATH $GOPATH/bin:$GO_DIR/bin:$PATH
 RUN set -eux; \
     cd $GO_DIR/..; \
-    GO_DOWNLOAD_URL="https://dl.google.com/go/go1.7.6.linux-amd64.tar.gz"; \
+    GO_DOWNLOAD_URL="https://dl.google.com/go/go1.10.3.linux-amd64.tar.gz"; \
     curl -fsSL "$GO_DOWNLOAD_URL" -o go.tar.gz; \
 	tar -xzf go.tar.gz; \
 	rm go.tar.gz; \
