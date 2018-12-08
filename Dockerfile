@@ -41,8 +41,18 @@ ENV GO_DIR /usr/local/go
 ENV GOPATH /go
 ENV PATH $GOPATH/bin:$GO_DIR/bin:$PATH
 RUN set -eux; \
-    cd $GO_DIR/..; \
-    GO_DOWNLOAD_URL="https://dl.google.com/go/go1.10.3.linux-amd64.tar.gz"; \
+	cd $GO_DIR/..; \
+    V=10; \
+    while curl --output /dev/null --silent --head --fail "https://dl.google.com/go/go1.$V.linux-amd64.tar.gz"; do \
+        GO_DOWNLOAD_URL="https://dl.google.com/go/go1.$V.linux-amd64.tar.gz"; \
+        V=$((V+1)); \
+    done; \
+    V=$((V-1)); \
+    v=1; \
+    while curl --output /dev/null --silent --head --fail "https://dl.google.com/go/go1.$V.$v.linux-amd64.tar.gz"; do \
+        GO_DOWNLOAD_URL="https://dl.google.com/go/go1.$V.$v.linux-amd64.tar.gz"; \
+        v=$((v+1)); \
+    done; \
     curl -fsSL "$GO_DOWNLOAD_URL" -o go.tar.gz; \
 	tar -xzf go.tar.gz; \
 	rm go.tar.gz; \
