@@ -132,37 +132,32 @@ func (p preprocessor) summaries(ctx context.Context, isArticle func(e uint32) (o
 	go func() {
 		defer close(results)
 		it := p.Dump.Open("metahistory7zdump")
-		wg := sync.WaitGroup{}
 		r, err := it(ctx)
-		//for ; err == nil; err = io.EOF { //Use just one metahistory7zdump file for testing purposes
 		for ; err == nil; r, err = it(ctx) {
-			wg.Add(1)
-			go func(r io.ReadCloser) {
-				defer wg.Done()
-				defer func() {
-					if err := r.Close(); err != nil {
-						p.Fail(err)
-					}
-				}()
-				it := wikibrief.New(r, isArticle, func(text string) float64 { return float64(len(text)) })
-				s, err := it()
-				for ; err == nil; s, err = it() {
-					select {
-					case results <- s:
-						//proceed
-					case <-ctx.Done():
-						return
-					}
-				}
-				switch err {
-				case nil:
-					//Do nothing
-				case io.EOF:
-					//Do nothing
-				default:
+			defer func() {
+				if err := r.Close(); err != nil {
 					p.Fail(err)
 				}
-			}(r)
+			}()
+			it := wikibrief.New(r, isArticle, func(text string) float64 { return float64(len(text)) })
+			s, err := it()
+			for ; err == nil; s, err = it() {
+				select {
+				case results <- s:
+					//proceed
+				case <-ctx.Done():
+					return
+				}
+			}
+			switch err {
+			case nil:
+				//Do nothing
+			case io.EOF:
+				//Do nothing
+			default:
+				p.Fail(err)
+				return
+			}
 		}
 		switch err {
 		case nil:
@@ -172,7 +167,6 @@ func (p preprocessor) summaries(ctx context.Context, isArticle func(e uint32) (o
 		default:
 			p.Fail(err)
 		}
-		wg.Wait()
 	}()
 
 	return results
