@@ -9,7 +9,6 @@ RUN set -eux; \
 		python \
 		make \
 		p7zip-full \
-		sort \
 		curl \
 		ca-certificates \
 		git \
