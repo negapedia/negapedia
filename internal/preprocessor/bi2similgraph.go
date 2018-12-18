@@ -1,12 +1,18 @@
 package preprocessor
 
 import (
+	"container/heap"
 	"context"
+	"fmt"
+	"io"
+	"io/ioutil"
+	"os"
+	"os/exec"
 	"runtime"
 	"sort"
 	"sync"
 
-	"container/heap"
+	"github.com/pkg/errors"
 
 	"github.com/ebonetti/similgraph"
 )
@@ -21,22 +27,19 @@ type vertexLinks struct {
 	To   []uint32
 }
 
-func newBi2Similgraph(ctx context.Context, in chan multiEdge, vertexACount, vertexBCount, edgeCount int, fail func(err error) error) <-chan vertexLinks {
-	vertexLinksChan := make(chan vertexLinks, 1000)
+var _BufferSize = 10 * runtime.NumCPU()
+
+func bi2Similgraph(ctx context.Context, in <-chan multiEdge, fail func(err error) error) <-chan vertexLinks {
+	vertexLinksChan := make(chan vertexLinks, _BufferSize)
 	go func() {
 		defer close(vertexLinksChan)
-		bigraphChan := multi2Edge(ctx, in, vertexACount, vertexBCount)
-
-		g, new2OldID, err := similgraph.New(func() (e similgraph.Edge, ok bool) {
-			e, ok = <-bigraphChan
-			return
-		}, vertexACount, vertexBCount, edgeCount)
+		g, new2OldID, err := newSimilgraph(ctx, in, fail)
 		if err != nil {
 			fail(err)
 			return
 		}
 
-		pageIDsChan := make(chan uint32, 10*runtime.NumCPU())
+		pageIDsChan := make(chan uint32, _BufferSize)
 		go func() { //Page ID producer
 			defer close(pageIDsChan)
 			for pageID := uint32(0); pageID < g.VertexCount(); pageID++ {
@@ -76,92 +79,121 @@ func newBi2Similgraph(ctx context.Context, in chan multiEdge, vertexACount, vert
 	return vertexLinksChan
 }
 
-func multi2Edge(ctx context.Context, in <-chan multiEdge, vertexACount, vertexBCount int) <-chan similgraph.Edge {
-	bigraphChan := make(chan similgraph.Edge, 10000)
-	go func() {
-		defer close(bigraphChan)
-		users2PageCount := make(map[uint32]float64, vertexBCount)
-		bigraph := make([]multiEdge, 0, vertexACount)
-		for me := range in {
-			if len(me.VerticesB) == 0 {
-				continue
-			}
-			for UserID := range me.VerticesB {
-				users2PageCount[UserID]++
-			}
-			bigraph = append(bigraph, me)
-		}
+func newSimilgraph(ctx context.Context, in <-chan multiEdge, fail func(err error) error) (g *similgraph.SimilGraph, newoldVertexA []uint32, err error) {
+	pageCount, users2PageCount := 0, map[uint32]int{}
+	bigraphChan := make(chan similgraph.Edge, _BufferSize)
+	sortedBigraphChan := sortEdges(ctx, bigraphChan, fail)
 
-		if ctx.Err() != nil {
+	for me := range in {
+		for UserID, Weight := range me.VerticesB {
+			select {
+			case bigraphChan <- similgraph.Edge{me.VertexA, UserID, float32(Weight)}:
+				//proceed
+			case <-ctx.Done():
+				err = ctx.Err() //no need to close bigraphChan, it will sense ctx.Done itself
+				return
+			}
+			users2PageCount[UserID]++
+		}
+		pageCount++
+	}
+	close(bigraphChan)
+
+	if len(users2PageCount) == 0 {
+		err = fail(errors.New("Empty input graph"))
+		return
+	}
+
+	//filtering users with too many pages, as they slow down computation beyond repair :(
+	percentileFilter(users2PageCount, 0.997)
+
+	//count unique edges
+	edgeCount := 0
+	for _, w := range users2PageCount {
+		edgeCount += w
+	}
+
+	return similgraph.New(func() (e similgraph.Edge, ok bool) {
+		for e = range sortedBigraphChan {
+			if _, ok = users2PageCount[e.VertexB]; ok {
+				break
+			}
+		}
+		return
+	}, pageCount, len(users2PageCount), edgeCount)
+}
+
+func sortEdges(ctx context.Context, edges <-chan similgraph.Edge, fail func(err error) error) <-chan similgraph.Edge {
+	result := make(chan similgraph.Edge, _BufferSize)
+	go func() {
+		defer close(result)
+		dir, err := ioutil.TempDir(".", ".bigraphsort")
+		if err != nil {
+			fail(errors.Wrap(err, "Error creating folder in current directory"))
+			return
+		}
+		defer os.RemoveAll(dir) // clean up
+
+		cmd := exec.CommandContext(ctx, "sort", "-n", "-S", "10%", "-T", dir)
+
+		stdin, errin := cmd.StdinPipe()
+		stdout, err := cmd.StdoutPipe()
+		switch {
+		case errin != nil:
+			err = errin
+			fallthrough
+		case err != nil:
+			fail(errors.Wrap(err, "Error opening sort pipe"))
 			return
 		}
 
-		//filtering users with too many pages, as they slow down computation beyond repair :(
-		weights := make([]float64, 0, 8000000)
-		for _, w := range users2PageCount {
-			weights = append(weights, w)
-		}
-		sort.Float64s(weights)
-		cut := weights[int(0.997*float64(len(weights)))]
-		for u, w := range users2PageCount {
-			if w < 2 || cut < w {
-				delete(users2PageCount, u)
+		go func() {
+			defer stdin.Close()
+			for e := range edges {
+				_, err := fmt.Fprintln(stdin, e.VertexA, e.VertexB, e.Weight)
+				if err != nil {
+					fail(errors.Wrap(err, "Error while inputting bigraph to sort"))
+					return
+				}
 			}
-		}
+		}()
 
-		//output final bigraph
-		sort.Slice(bigraph, func(i, j int) bool { return bigraph[i].VertexA < bigraph[j].VertexA })
-		for i, me := range bigraph {
-			next := iteratorFromMultiEdge(me)
-			for e, ok := next(); ok; e, ok = next() {
+		go func() {
+			e := similgraph.Edge{}
+			_, err := fmt.Fscanln(stdout, &e.VertexA, &e.VertexB, &e.Weight)
+			for ; err != nil; _, err = fmt.Fscanln(stdout, &e.VertexA, &e.VertexB, &e.Weight) {
 				select {
-				case bigraphChan <- e:
+				case result <- e:
 					//proceed
 				case <-ctx.Done():
 					return
 				}
 			}
-			bigraph[i] = multiEdge{} //enable Garbage Collection
-		}
-	}()
-	return bigraphChan
-}
-
-func iteratorFromMultiEdge(me multiEdge) func() (similgraph.Edge, bool) {
-	edges := make([]similgraph.Edge, 0, len(me.VerticesB))
-	for v, w := range me.VerticesB {
-		edges = append(edges, similgraph.Edge{VertexA: me.VertexA, VertexB: v, Weight: float32(w)})
-	}
-	h := sEdgeHeap{weighedEdgeHeap(edges)}
-	heap.Init(&h)
-
-	return func() (e similgraph.Edge, ok bool) {
-		if len(h.weighedEdgeHeap) == 0 {
-			return
-		}
-
-		e, ok = heap.Pop(&h).(similgraph.Edge), true
-
-		return
-	}
-}
-
-type sEdgeHeap struct {
-	weighedEdgeHeap
-}
-
-func (h sEdgeHeap) Less(i, j int) bool { return h.weighedEdgeHeap[i].Less(h.weighedEdgeHeap[j]) }
-
-func concat(i ...func() (similgraph.Edge, bool)) func() (similgraph.Edge, bool) {
-	return func() (e similgraph.Edge, ok bool) {
-		for len(i) > 0 {
-			e, ok = i[0]()
-			if ok {
+			if err != io.EOF {
+				fail(errors.Wrap(err, "Error while outputting bigraph from sort"))
 				return
 			}
-			i = i[1:]
+		}()
+
+		if err := cmd.Run(); err != nil {
+			fail(errors.Wrap(err, "Error while running sort"))
+			return
 		}
-		return
+	}()
+	return result
+}
+
+func percentileFilter(users2PageCount map[uint32]int, percentile float64) {
+	usersWeights := make([]int, 0, len(users2PageCount))
+	for _, w := range users2PageCount {
+		usersWeights = append(usersWeights, w)
+	}
+	sort.Ints(usersWeights)
+	percentileCut := usersWeights[int(percentile*float64(len(usersWeights)))]
+	for u, w := range users2PageCount {
+		if w < 2 || percentileCut < w {
+			delete(users2PageCount, u)
+		}
 	}
 }
 
@@ -205,4 +237,17 @@ func (h *weighedEdgeHeap) Pop() interface{} {
 	x := old[n-1]
 	*h = old[0 : n-1]
 	return x
+}
+
+func concat(i ...func() (similgraph.Edge, bool)) func() (similgraph.Edge, bool) {
+	return func() (e similgraph.Edge, ok bool) {
+		for len(i) > 0 {
+			e, ok = i[0]()
+			if ok {
+				return
+			}
+			i = i[1:]
+		}
+		return
+	}
 }

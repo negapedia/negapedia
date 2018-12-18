@@ -26,7 +26,7 @@ func (p preprocessor) exportCSV(ctx context.Context, articles <-chan article, bo
 	articleMultiEdgeChan := make(chan multiEdge, 10000)
 
 	//social jumps output
-	articleSocialJumpsChan := newBi2Similgraph(ctx, articleMultiEdgeChan, p.EstPages, p.EstUsers, p.EstEdits, p.Fail)
+	articleSocialJumpsChan := bi2Similgraph(ctx, articleMultiEdgeChan, p.Fail)
 
 	go func() {
 		defer close(csvArticleRevisionChan)
@@ -106,7 +106,7 @@ func (p preprocessor) exportCSV(ctx context.Context, articles <-chan article, bo
 		defer close(csvSocialJumpsChan)
 		for sj := range articleSocialJumpsChan {
 			select {
-			case csvSocialJumpsChan <- &csvSocialJumps{sj.From, socialJumps{sj.To}}:
+			case csvSocialJumpsChan <- &csvSocialJumps{sj.From, uint32s(sj.To)}:
 				//proceed
 			case <-ctx.Done():
 				return
@@ -204,17 +204,15 @@ type csvPage struct {
 }
 
 type csvSocialJumps struct {
-	ID          uint32      `csv:"id"`
-	SocialJumps socialJumps `csv:"socialjumps"`
+	ID          uint32  `csv:"id"`
+	SocialJumps uint32s `csv:"socialjumps"`
 }
 
-type socialJumps struct {
-	pages []uint32
-}
+type uint32s []uint32
 
-func (sj socialJumps) String() string {
-	pps := make([]string, len(sj.pages))
-	for i, p := range sj.pages {
+func (s uint32s) String() string {
+	pps := make([]string, len(s))
+	for i, p := range s {
 		pps[i] = fmt.Sprint(p)
 	}
 	return "{" + strings.Join(pps, ", ") + "}"
