@@ -49,7 +49,7 @@ func Run(ctx context.Context, CSVDir string, filterBots bool, ntl Nationalizatio
 	}
 	defer os.RemoveAll(tmpDir)
 
-	latestDump, err := wikidump.Latest(tmpDir, ntl.Language, "metahistory7zdump", "pagetable", "categorylinkstable", "pagelinkstable")
+	latestDump, err := wikidump.Latest(tmpDir, ntl.Language, "metahistorybz2dump", "pagetable", "categorylinkstable", "pagelinkstable")
 	if err != nil {
 		return
 	}
@@ -133,12 +133,12 @@ func (p preprocessor) summaries(ctx context.Context, isArticle func(e uint32) (o
 	results := make(chan wikibrief.Summary, 2*nN)
 	go func() {
 		defer close(results)
-		it := p.Dump.Open("metahistory7zdump")
+		it := p.Dump.Open("metahistorybz2dump")
 
 		//limit the number of workers to prevent system from killing 7zip instances
 		wg := sizedwaitgroup.New(runtime.NumCPU())
 		r, err := it(ctx)
-		//for ; err == nil; err = io.EOF { //Use just one metahistory7zdump file for testing purposes
+		//for ; err == nil; err = io.EOF { //Use just one dump file for testing purposes
 		for ; err == nil; r, err = it(ctx) {
 			if err = wg.AddWithContext(ctx); err != nil {
 				return //AddWithContext only fail if ctx is Done
