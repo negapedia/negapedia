@@ -20,19 +20,17 @@ import (
 )
 
 type Nationalization struct {
-	Language                     string
-	Topics                       []Topic
-	Filter                       []wikiassignment.Filter
-	Article2Topic                map[uint32]uint32
-	EstUsers, EstPages, EstEdits int
+	Language      string
+	Topics        []Topic
+	Filter        []wikiassignment.Filter
+	Article2Topic map[uint32]uint32
 }
 
 type Topic struct {
-	ID           uint32
-	Title        string
-	WikipediaURL string
-	Abstract     string
-	Categories   []uint32
+	ID         uint32
+	Title      string
+	Abstract   string
+	Categories []uint32
 }
 
 func Run(ctx context.Context, CSVDir string, filterBots bool, ntl Nationalization) (err error) {

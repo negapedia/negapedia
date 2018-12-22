@@ -6,7 +6,6 @@ import (
 	"bytes"
 	"compress/gzip"
 	"context"
-	"encoding/json"
 	"flag"
 	"fmt"
 	"io"
@@ -21,11 +20,10 @@ import (
 
 	"github.com/ebonetti/overpedia/internal/exporter"
 	"github.com/ebonetti/overpedia/internal/preprocessor"
+	"github.com/ebonetti/overpedia/nationalization"
 	"github.com/jmoiron/sqlx"
 	"github.com/pkg/errors"
 )
-
-//go:generate go-bindata -pkg $GOPACKAGE -prefix "nationalizations/" nationalizations/...
 
 var lang, dataSource, dbopts, indices string
 var keepSavepoints bool
@@ -69,7 +67,7 @@ func main() {
 		defer tarball.Close()
 	}
 
-	nazionalization, err := nationalization(lang)
+	nazionalization, err := nationalization.New(lang)
 	if err != nil {
 		log.Panicf("%+v", err)
 	}
@@ -165,21 +163,6 @@ func getDB() (db *sqlx.DB, err error) {
 		}
 		time.Sleep(t)
 	}
-	return
-}
-
-func nationalization(lang string) (data preprocessor.Nationalization, err error) {
-	bytes, err := Asset(lang + ".json")
-	if err != nil {
-		return
-	}
-
-	data.Article2Topic = map[uint32]uint32{}
-
-	if err = json.Unmarshal(bytes, &data); err != nil {
-		data = preprocessor.Nationalization{}
-	}
-
 	return
 }
 
