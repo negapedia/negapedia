@@ -27,7 +27,7 @@ func (p preprocessor) exportCSV(ctx context.Context, articles <-chan article, bo
 	articleMultiEdgeChan := make(chan multiEdge, 10000)
 
 	//social jumps output
-	articleSocialJumpsChan := bi2Similgraph(ctx, articleMultiEdgeChan, p.Fail)
+	articleSocialJumpsChan := p.bi2Similgraph(ctx, articleMultiEdgeChan)
 
 	go func() {
 		defer close(csvArticleRevisionChan)

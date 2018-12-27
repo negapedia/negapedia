@@ -5,8 +5,6 @@ import (
 	"context"
 	"fmt"
 	"io"
-	"io/ioutil"
-	"os"
 	"os/exec"
 	"runtime"
 	"sort"
@@ -29,13 +27,13 @@ type vertexLinks struct {
 
 var _BufferSize = 10 * runtime.NumCPU()
 
-func bi2Similgraph(ctx context.Context, in <-chan multiEdge, fail func(err error) error) <-chan vertexLinks {
+func (p preprocessor) bi2Similgraph(ctx context.Context, in <-chan multiEdge) <-chan vertexLinks {
 	vertexLinksChan := make(chan vertexLinks, _BufferSize)
 	go func() {
 		defer close(vertexLinksChan)
-		g, new2OldID, err := newSimilgraph(ctx, in, fail)
+		g, new2OldID, err := p.newSimilgraph(ctx, in)
 		if err != nil {
-			fail(err)
+			p.Fail(err)
 			return
 		}
 
@@ -57,7 +55,7 @@ func bi2Similgraph(ctx context.Context, in <-chan multiEdge, fail func(err error
 				for v := range pageIDsChan {
 					itsm, itbg, err := g.EdgeIterator(v)
 					if err != nil {
-						fail(err)
+						p.Fail(err)
 						return
 					}
 					n := topN(buffer, concat(itsm, itbg))
@@ -79,10 +77,10 @@ func bi2Similgraph(ctx context.Context, in <-chan multiEdge, fail func(err error
 	return vertexLinksChan
 }
 
-func newSimilgraph(ctx context.Context, in <-chan multiEdge, fail func(err error) error) (g *similgraph.SimilGraph, newoldVertexA []uint32, err error) {
+func (p preprocessor) newSimilgraph(ctx context.Context, in <-chan multiEdge) (g *similgraph.SimilGraph, newoldVertexA []uint32, err error) {
 	pageCount, users2PageCount := 0, map[uint32]int{}
 	bigraphChan := make(chan similgraph.Edge, _BufferSize)
-	sortedBigraphChan := sortEdges(ctx, bigraphChan, fail)
+	sortedBigraphChan := sortEdges(ctx, bigraphChan)
 
 	for me := range in {
 		for UserID, Weight := range me.VerticesB {
@@ -100,7 +98,7 @@ func newSimilgraph(ctx context.Context, in <-chan multiEdge, fail func(err error
 	close(bigraphChan)
 
 	if len(users2PageCount) == 0 {
-		err = fail(errors.New("Empty input graph"))
+		err = p.Fail(errors.New("Empty input graph"))
 		return
 	}
 
@@ -123,18 +121,12 @@ func newSimilgraph(ctx context.Context, in <-chan multiEdge, fail func(err error
 	}, pageCount, len(users2PageCount), edgeCount)
 }
 
-func sortEdges(ctx context.Context, edges <-chan similgraph.Edge, fail func(err error) error) <-chan similgraph.Edge {
+func (p preprocessor) sortEdges(ctx context.Context, edges <-chan similgraph.Edge) <-chan similgraph.Edge {
 	result := make(chan similgraph.Edge, _BufferSize)
 	go func() {
 		defer close(result)
-		dir, err := ioutil.TempDir(".", ".bigraphsort")
-		if err != nil {
-			fail(errors.Wrap(err, "Error creating folder in current directory"))
-			return
-		}
-		defer os.RemoveAll(dir) // clean up
-
-		cmd := exec.CommandContext(ctx, "sort", "-n", "-S", "10%", "-T", dir)
+		cmd := exec.CommandContext(ctx, "sort", "-n", "-S", "10%", "-T", p.TmpDir)
+		cmd.Dir = p.TmpDir
 
 		stdin, errin := cmd.StdinPipe()
 		stdout, err := cmd.StdoutPipe()
@@ -143,7 +135,7 @@ func sortEdges(ctx context.Context, edges <-chan similgraph.Edge, fail func(err 
 			err = errin
 			fallthrough
 		case err != nil:
-			fail(errors.Wrap(err, "Error opening sort pipe"))
+			p.Fail(errors.Wrap(err, "Error opening sort pipe"))
 			return
 		}
 
@@ -152,14 +144,14 @@ func sortEdges(ctx context.Context, edges <-chan similgraph.Edge, fail func(err 
 			for e := range edges {
 				_, err := fmt.Fprintln(stdin, e.VertexA, e.VertexB, e.Weight)
 				if err != nil {
-					fail(errors.Wrap(err, "Error while inputting bigraph to sort"))
+					p.Fail(errors.Wrap(err, "Error while inputting bigraph to sort"))
 					return
 				}
 			}
 		}()
 
 		if err := cmd.Start(); err != nil {
-			fail(errors.Wrap(err, "Error while starting sort"))
+			p.Fail(errors.Wrap(err, "Error while starting sort"))
 			return
 		}
 
@@ -171,7 +163,7 @@ func sortEdges(ctx context.Context, edges <-chan similgraph.Edge, fail func(err 
 			case io.EOF:
 				err = nil
 			default:
-				fail(errors.Wrap(err, "Error while fetching next edge after sort"))
+				p.Fail(errors.Wrap(err, "Error while fetching next edge after sort"))
 			}
 			return
 		}
@@ -186,7 +178,7 @@ func sortEdges(ctx context.Context, edges <-chan similgraph.Edge, fail func(err 
 		}
 
 		if err1 := cmd.Wait(); err == nil && err1 != nil {
-			fail(errors.Wrap(err1, "Error while waiting for sort end"))
+			p.Fail(errors.Wrap(err1, "Error while waiting for sort end"))
 		}
 	}()
 	return result
