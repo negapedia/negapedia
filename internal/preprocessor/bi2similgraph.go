@@ -158,26 +158,35 @@ func sortEdges(ctx context.Context, edges <-chan similgraph.Edge, fail func(err 
 			}
 		}()
 
-		go func() {
-			e := similgraph.Edge{}
-			_, err := fmt.Fscanln(stdout, &e.VertexA, &e.VertexB, &e.Weight)
-			for ; err != nil; _, err = fmt.Fscanln(stdout, &e.VertexA, &e.VertexB, &e.Weight) {
-				select {
-				case result <- e:
-					//proceed
-				case <-ctx.Done():
-					return
-				}
-			}
-			if err != io.EOF {
-				fail(errors.Wrap(err, "Error while outputting bigraph from sort"))
-				return
-			}
-		}()
-
-		if err := cmd.Run(); err != nil {
-			fail(errors.Wrap(err, "Error while running sort"))
+		if err := cmd.Start(); err != nil {
+			fail(errors.Wrap(err, "Error while starting sort"))
 			return
+		}
+
+		next := func() (e similgraph.Edge, ok bool) {
+			_, err = fmt.Fscanln(stdout, &e.VertexA, &e.VertexB, &e.Weight)
+			switch err {
+			case nil:
+				ok = true
+			case io.EOF:
+				err = nil
+			default:
+				fail(errors.Wrap(err, "Error while fetching next edge after sort"))
+			}
+			return
+		}
+
+		for e, ok := next(); ok; e, ok = next() {
+			select {
+			case result <- e:
+				//proceed
+			case <-ctx.Done():
+				break
+			}
+		}
+
+		if err1 := cmd.Wait(); err == nil && err1 != nil {
+			fail(errors.Wrap(err1, "Error while waiting for sort end"))
 		}
 	}()
 	return result
