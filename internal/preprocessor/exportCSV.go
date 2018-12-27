@@ -14,6 +14,7 @@ import (
 	"github.com/RoaringBitmap/roaring"
 	"github.com/ebonetti/wikibrief"
 	"github.com/gocarina/gocsv"
+	"github.com/pkg/errors"
 )
 
 func (p preprocessor) exportCSV(ctx context.Context, articles <-chan article, botBlacklist map[uint32]string) (err error) {
@@ -167,11 +168,12 @@ func transform(article article, botBlacklist map[uint32]string) (revisions []csv
 func chan2csv(c <-chan interface{}, filePath string) (err error) {
 	var csvFile *os.File
 	if csvFile, err = os.Create(filePath); err != nil {
+		err = errors.Wrapf(err, "Error while creating file at %v", filePath)
 		return
 	}
 	defer func() {
 		if e := csvFile.Close(); e != nil && err == nil {
-			err = e
+			err = errors.Wrapf(e, "Error while closing file %v", filePath)
 		}
 	}()
 
@@ -181,7 +183,10 @@ func chan2csv(c <-chan interface{}, filePath string) (err error) {
 	csvw := csv.NewWriter(bw)
 	defer csvw.Flush()
 
-	return gocsv.MarshalChan(c, gocsv.NewSafeCSVWriter(csvw))
+	if err = gocsv.MarshalChan(c, gocsv.NewSafeCSVWriter(csvw)); err != nil {
+		err = errors.Wrapf(err, "Error while marshaling to file %v", filePath)
+	}
+	return err
 }
 
 type csvRevision struct {
