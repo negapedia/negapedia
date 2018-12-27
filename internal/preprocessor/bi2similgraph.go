@@ -80,7 +80,7 @@ func (p preprocessor) bi2Similgraph(ctx context.Context, in <-chan multiEdge) <-
 func (p preprocessor) newSimilgraph(ctx context.Context, in <-chan multiEdge) (g *similgraph.SimilGraph, newoldVertexA []uint32, err error) {
 	pageCount, users2PageCount := 0, map[uint32]int{}
 	bigraphChan := make(chan similgraph.Edge, _BufferSize)
-	sortedBigraphChan := sortEdges(ctx, bigraphChan)
+	sortedBigraphChan := p.sortEdges(ctx, bigraphChan)
 
 	for me := range in {
 		for UserID, Weight := range me.VerticesB {
@@ -125,7 +125,7 @@ func (p preprocessor) sortEdges(ctx context.Context, edges <-chan similgraph.Edg
 	result := make(chan similgraph.Edge, _BufferSize)
 	go func() {
 		defer close(result)
-		cmd := exec.CommandContext(ctx, "sort", "-n", "-S", "10%", "-T", p.TmpDir)
+		cmd := exec.CommandContext(ctx, "sort", "-n", "-k", "1,1", "-k", "2,2", "-S", "10%", "-T", p.TmpDir)
 		cmd.Dir = p.TmpDir
 
 		stdin, errin := cmd.StdinPipe()
