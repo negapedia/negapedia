@@ -1,6 +1,7 @@
 package preprocessor
 
 import (
+	"bytes"
 	"container/heap"
 	"context"
 	"fmt"
@@ -127,6 +128,8 @@ func (p preprocessor) sortEdges(ctx context.Context, edges <-chan similgraph.Edg
 		defer close(result)
 		cmd := exec.CommandContext(ctx, "sort", "-n", "-k", "1,1", "-k", "2,2", "-S", "10%", "-T", p.TmpDir)
 		cmd.Dir = p.TmpDir
+		var cmdStderr bytes.Buffer
+		cmd.Stderr = &cmdStderr
 
 		stdin, errin := cmd.StdinPipe()
 		stdout, err := cmd.StdoutPipe()
@@ -163,7 +166,7 @@ func (p preprocessor) sortEdges(ctx context.Context, edges <-chan similgraph.Edg
 			case io.EOF:
 				err = nil
 			default:
-				p.Fail(errors.Wrap(err, "Error while fetching next edge after sort"))
+				p.Fail(errors.Wrap(err, "Error while fetching next edge after sort, with the following error stream:\n"+cmdStderr.String()))
 			}
 			return
 		}
@@ -178,7 +181,7 @@ func (p preprocessor) sortEdges(ctx context.Context, edges <-chan similgraph.Edg
 		}
 
 		if err1 := cmd.Wait(); err == nil && err1 != nil {
-			p.Fail(errors.Wrap(err1, "Error while waiting for sort end"))
+			p.Fail(errors.Wrap(err1, "Error while waiting for sort end, with the following error stream:\n"+cmdStderr.String()))
 		}
 	}()
 	return result
