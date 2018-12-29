@@ -127,7 +127,6 @@ func (p preprocessor) sortEdges(ctx context.Context, edges <-chan similgraph.Edg
 	go func() {
 		defer close(result)
 		cmd := exec.CommandContext(ctx, "sort", "-n", "-k", "1,1", "-k", "2,2", "-S", "10%", "-T", p.TmpDir)
-		cmd.Dir = p.TmpDir
 		var cmdStderr bytes.Buffer
 		cmd.Stderr = &cmdStderr
 
