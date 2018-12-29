@@ -131,7 +131,7 @@ func (p preprocessor) summaries(ctx context.Context, isArticle func(e uint32) (o
 	results := make(chan wikibrief.Summary, 2*nN)
 	go func() {
 		defer close(results)
-		it := p.Dump.Open("metahistorybz2dump")
+		it := p.Dump.Open("metahistory7zdump")
 
 		//limit the number of workers to prevent system from killing 7zip instances
 		wg := sizedwaitgroup.New(10 * runtime.NumCPU())
