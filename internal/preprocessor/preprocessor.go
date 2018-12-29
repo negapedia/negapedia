@@ -5,9 +5,11 @@ import (
 	"io"
 	"io/ioutil"
 	"os"
+	"runtime"
 	"sync"
 
 	"github.com/RoaringBitmap/roaring"
+	"github.com/remeh/sizedwaitgroup"
 
 	"github.com/ebonetti/ctxutils"
 	"github.com/ebonetti/wikiassignment"
@@ -131,11 +133,14 @@ func (p preprocessor) summaries(ctx context.Context, isArticle func(e uint32) (o
 		defer close(results)
 		it := p.Dump.Open("metahistorybz2dump")
 
-		var wg sync.WaitGroup
+		//limit the number of workers to prevent system from killing 7zip instances
+		wg := sizedwaitgroup.New(10 * runtime.NumCPU())
 		r, err := it(ctx)
 		//for ; err == nil; err = io.EOF { //Use just one dump file for testing purposes
 		for ; err == nil; r, err = it(ctx) {
-			wg.Add(1)
+			if err = wg.AddWithContext(ctx); err != nil {
+				return //AddWithContext only fail if ctx is Done
+			}
 			go func(r io.ReadCloser) {
 				defer wg.Done()
 				defer func() {
