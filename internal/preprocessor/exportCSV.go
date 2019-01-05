@@ -57,7 +57,7 @@ func (p preprocessor) exportCSV(ctx context.Context, articles <-chan article, bo
 				ID := uint32(ID)
 
 				//Export to csv
-				if !r.IsBot || !p.FilterBots {
+				if !p.FilterBots || !r.IsBot {
 					csvArticleRevisionChan <- &revisions[ID]
 				}
 
@@ -66,11 +66,11 @@ func (p preprocessor) exportCSV(ctx context.Context, articles <-chan article, bo
 				case r.IsBot || r.UserID == nil:
 					//do nothing
 				case r.IsRevert > 0 || r.IsReverted:
-					users2weight[ID] += 0.1
-				case r.Diff <= 10.0: //&& isPositive
-					users2weight[ID] += 1.0
+					users2weight[ID] = math.Max(users2weight[ID], 1.0)
+				case r.Diff <= 100.0: //&& isPositive
+					users2weight[ID] = math.Max(users2weight[ID], 10.0)
 				default:
-					users2weight[ID] += math.Log10(r.Weight)
+					users2weight[ID] = math.Min(users2weight[ID]+r.Diff/10, 100)
 				}
 			}
 
