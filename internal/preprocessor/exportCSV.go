@@ -69,6 +69,9 @@ func (p preprocessor) exportCSV(ctx context.Context, articles <-chan article, bo
 					users2weight[ID] = math.Max(users2weight[ID], 1.0)
 				case r.Diff <= 100.0: //&& isPositive
 					users2weight[ID] = math.Max(users2weight[ID], 10.0)
+				case users2weight[ID] <= 10:
+					users2weight[ID] = 0 //Resetting weight for different scheme.
+					fallthrough
 				default:
 					users2weight[ID] = math.Min(users2weight[ID]+r.Diff/10, 100)
 				}
