@@ -1,4 +1,4 @@
-/*article top ten by year query*/
+/*Define the query used for exporting articles yealy top tens*/
 WITH years AS (
     SELECT year
     FROM w2o.timebounds, generate_series(minyear,maxyear) _(year)

@@ -1,6 +1,9 @@
 DROP SCHEMA IF EXISTS w2o CASCADE;
 CREATE SCHEMA w2o;
 
+/*Myindex represents index types of statistics*/
+CREATE TYPE w2o.myindex AS ENUM ('conflict', 'polemic');
+
 CREATE COLLATION w2o.mycollate (LOCALE = 'en_US.UTF-8');
 
 /*Pages represents wikipedia articles and overpedia topics*/
@@ -28,14 +31,18 @@ CREATE TABLE w2o.revisions (
     rev_year INTEGER
 );
 
+/*Socialjumps is a temporary table used for loading socialjumps, later data is merged into pages table*/
 CREATE TABLE w2o.socialjumps (
     page_id INTEGER NOT NULL,
     page_socialjumps INTEGER[10]
 );
-    
+
+
+/*Load data and define table indexes*/
+
 /*Dummy page used for global statistics*/
 INSERT INTO w2o.pages(page_id, parent_id, page_depth) VALUES (0, 0, 0);
-/*Loading data...*/
+
 COPY w2o.pages(page_id,page_title,page_abstract,parent_id) FROM :'pagesfilepath' WITH CSV HEADER;
 COPY w2o.revisions(page_id,rev_serialid,user_id,user_isbot,rev_charweight,rev_chardiff, rev_isrevert, rev_isreverted, rev_timestamp) FROM :'revisionsfilepath' WITH CSV HEADER;
 
@@ -79,6 +86,8 @@ DROP TABLE w2o.socialjumps;
 ALTER TABLE w2o.pages
     ALTER COLUMN page_creationyear SET NOT NULL;
 
+
+/*Pagetree contains the complete graph of parent relations*/
 CREATE MATERIALIZED VIEW w2o.pagetree AS
 SELECT page_id, parent_id
 FROM w2o.pages
@@ -90,6 +99,8 @@ CREATE INDEX pagetree_cluster_index ON w2o.pagetree (page_id, parent_id);
 CLUSTER w2o.pagetree USING pagetree_cluster_index;
 ANALYZE w2o.pagetree;
 
+
+/*topicpages is a utility view for simplifing queries by joining article and its topic information*/
 CREATE VIEW w2o.topicpages AS
 SELECT p2.*, p2.page_depth<2 AS istopic, COALESCE(p1.page_title, p2.page_title) AS topic_fulltitle,
 lower(split_part(COALESCE(p1.page_title, p2.page_title),' ',1)) AS topic_title

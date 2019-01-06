@@ -1,4 +1,4 @@
-/*informations for articles, topics and global*/
+/*Define the query used for exporting informations for articles, topics and global*/
 WITH topics AS (
     SELECT page_id AS topic_id
     FROM w2o.pages

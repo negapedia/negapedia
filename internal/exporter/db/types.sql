@@ -1,3 +1,15 @@
+/*Free space since revisions table will not be anymore useful and indexes will take a lot of space*/
+DROP TABLE w2o.revisions;
+
+/*Define indexes over indicesbyyear*/
+CREATE INDEX ON w2o.indicesbyyear (page_id);
+/*Used by LATERAL JOIN in queries*/
+CREATE INDEX ON w2o.indicesbyyear (weight DESC, year, topic_id, type, page_depth);
+ANALYZE w2o.indicesbyyear;
+
+
+/*The following types are used by the pages and toptenbyyear queries*/
+
 CREATE TYPE w2o.yearmeasurement AS (
 	Value            FLOAT,
 	Percentile       FLOAT,

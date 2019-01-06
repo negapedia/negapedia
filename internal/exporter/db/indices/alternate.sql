@@ -1,7 +1,4 @@
-/*Represents index types that statistics on pages (articles and topics)*/
-
-CREATE TYPE w2o.myindex AS ENUM ('conflict', 'polemic');
-
+/*Define indicesbyyear table that for each page contains yearly conflict and polemic statistic*/
 /*Indices must defined in a way that missing entries correctly default to 0.0*/
 CREATE TABLE w2o.indicesbyyear AS
 WITH incompletearticleconflict AS (
@@ -67,11 +64,3 @@ types AS (
 )
 SELECT type, page_id, parent_id AS topic_id, page_depth, year, COALESCE(weight,0) AS weight
 FROM indices RIGHT JOIN typepageyear USING (type, page_id, year);
-
-DROP TABLE w2o.revisions;
-
-CREATE INDEX ON w2o.indicesbyyear (page_id);
-
-/*Used by LATERAL JOIN in queries*/
-CREATE INDEX ON w2o.indicesbyyear (weight DESC, year, topic_id, type, page_depth);
-ANALYZE w2o.indicesbyyear;
