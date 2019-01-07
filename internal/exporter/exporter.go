@@ -8,7 +8,7 @@ import (
 	"github.com/ebonetti/ctxutils"
 )
 
-//go:generate go-bindata -pkg $GOPACKAGE db/... templates/...
+//go:generate go-bindata -pkg $GOPACKAGE -prefix ".*/wiki2overpediadb/"  ../../../wiki2overpediadb/db/... templates/...
 //go:generate gorewrite
 
 func Walk(ctx context.Context, m Model, walkFn filepath.WalkFunc) (err error) {
