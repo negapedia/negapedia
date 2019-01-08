@@ -47,7 +47,7 @@ func Run(ctx context.Context, CSVDir string, filterBots bool, ntl Nationalizatio
 	}
 	defer os.RemoveAll(tmpDir)
 
-	latestDump, err := wikidump.Latest(tmpDir, ntl.Language, "metahistorybz2dump", "pagetable", "categorylinkstable", "pagelinkstable")
+	latestDump, err := wikidump.Latest(tmpDir, ntl.Language, "metahistorybz2dump", "pagetable", "redirecttable", "categorylinkstable", "pagelinkstable")
 	if err != nil {
 		return
 	}
