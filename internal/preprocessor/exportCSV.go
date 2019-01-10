@@ -53,12 +53,10 @@ func (p preprocessor) exportCSV(ctx context.Context, articles <-chan article, bo
 
 			users2weight := make(map[uint32]float64, len(a.Revisions))
 			revisions := transform(a, botBlacklist)
-			for ID, r := range revisions {
-				ID := uint32(ID)
-
+			for serialRevisionID, r := range revisions {
 				//Export to csv
 				if !p.FilterBots || !r.IsBot {
-					csvArticleRevisionChan <- &revisions[ID]
+					csvArticleRevisionChan <- &revisions[uint32(serialRevisionID)]
 				}
 
 				//Convert data for socialjumps
@@ -66,14 +64,14 @@ func (p preprocessor) exportCSV(ctx context.Context, articles <-chan article, bo
 				case r.IsBot || r.UserID == nil:
 					//do nothing
 				case r.IsRevert > 0 || r.IsReverted:
-					users2weight[ID] = math.Max(users2weight[ID], 1.0)
+					users2weight[*r.UserID] = math.Max(users2weight[*r.UserID], 1.0)
 				case r.Diff <= 100.0: //&& isPositive
-					users2weight[ID] = math.Max(users2weight[ID], 10.0)
-				case users2weight[ID] <= 10:
-					users2weight[ID] = 0 //Resetting weight for different scheme.
+					users2weight[*r.UserID] = math.Max(users2weight[*r.UserID], 10.0)
+				case users2weight[*r.UserID] <= 10:
+					users2weight[*r.UserID] = 0 //Resetting weight for different scheme.
 					fallthrough
 				default:
-					users2weight[ID] = math.Min(users2weight[ID]+r.Diff/10, 100)
+					users2weight[*r.UserID] = math.Min(users2weight[*r.UserID]+r.Diff/10, 100)
 				}
 			}
 
