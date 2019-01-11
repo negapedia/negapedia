@@ -60,18 +60,22 @@ func (p preprocessor) exportCSV(ctx context.Context, articles <-chan article, bo
 				}
 
 				//Convert data for socialjumps
+				if r.IsBot || r.UserID == nil {
+					continue //do not use for social jumps calculations
+				}
+
+				userID := *r.UserID
+				userWeight := users2weight[userID]
 				switch {
-				case r.IsBot || r.UserID == nil:
-					//do nothing
 				case r.IsRevert > 0 || r.IsReverted:
-					users2weight[*r.UserID] = math.Max(users2weight[*r.UserID], 1.0)
+					users2weight[userID] = math.Max(userWeight, 1.0)
 				case r.Diff <= 100.0: //&& isPositive
-					users2weight[*r.UserID] = math.Max(users2weight[*r.UserID], 10.0)
-				case users2weight[*r.UserID] <= 10:
-					users2weight[*r.UserID] = 0 //Resetting weight for different scheme.
+					users2weight[userID] = math.Max(userWeight, 10.0)
+				case userWeight <= 10:
+					userWeight = 0 //Resetting weight for different scheme.
 					fallthrough
 				default:
-					users2weight[*r.UserID] = math.Min(users2weight[*r.UserID]+r.Diff/10, 100)
+					users2weight[userID] = math.Min(userWeight+r.Diff/10, 100)
 				}
 			}
 
