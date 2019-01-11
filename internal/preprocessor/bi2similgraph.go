@@ -8,7 +8,6 @@ import (
 	"io"
 	"os/exec"
 	"runtime"
-	"sort"
 	"sync"
 
 	"github.com/pkg/errors"
@@ -98,14 +97,6 @@ func (p preprocessor) newSimilgraph(ctx context.Context, in <-chan multiEdge) (g
 	}
 	close(bigraphChan)
 
-	if len(users2PageCount) == 0 {
-		err = p.Fail(errors.New("Empty input graph"))
-		return
-	}
-
-	//filtering users with too many pages, as they slow down computation beyond repair :(
-	percentileFilter(users2PageCount, 0.997)
-
 	//count unique edges
 	edgeCount := 0
 	for _, w := range users2PageCount {
@@ -113,11 +104,7 @@ func (p preprocessor) newSimilgraph(ctx context.Context, in <-chan multiEdge) (g
 	}
 
 	return similgraph.New(func() (e similgraph.Edge, ok bool) {
-		for e = range sortedBigraphChan {
-			if _, ok = users2PageCount[e.VertexB]; ok {
-				break
-			}
-		}
+		e, ok = <-sortedBigraphChan
 		return
 	}, pageCount, len(users2PageCount), edgeCount)
 }
@@ -184,20 +171,6 @@ func (p preprocessor) sortEdges(ctx context.Context, edges <-chan similgraph.Edg
 		}
 	}()
 	return result
-}
-
-func percentileFilter(users2PageCount map[uint32]int, percentile float64) {
-	usersWeights := make([]int, 0, len(users2PageCount))
-	for _, w := range users2PageCount {
-		usersWeights = append(usersWeights, w)
-	}
-	sort.Ints(usersWeights)
-	percentileCut := usersWeights[int(percentile*float64(len(usersWeights)))]
-	for u, w := range users2PageCount {
-		if w < 2 || percentileCut < w {
-			delete(users2PageCount, u)
-		}
-	}
 }
 
 //topN is topN filter (based on a min-heap of WeighedEdge with limited capacity).
