@@ -5,13 +5,13 @@ Overpedia refresh generator and development environment: this package and docker
 You will need a machine with internet connection, 16GB of RAM, 300GB of storage and [docker storage base directory properly setted](https://forums.docker.com/t/how-do-i-change-the-docker-image-installation-directory/1169).
 
 ### Description of operations flow
-This image take in input the nationalization - as of now only english and italian are supported - and store the result of the operations in `/data` (in-container folder). All the operation of data fetching are totally automatized and the result is [negapedia website](http://negapedia.org) in the form of a gzipped tarball of gzipped webpages. The operations flow is composed of thee phases:
+This image take in input the nationalization and store the result of the operations in `/data` (in-container folder). All the operation of data fetching are totally automatized and the result is [negapedia website](http://negapedia.org) in the form of a gzipped tarball of gzipped webpages. The operations flow is composed of thee phases:
 1. preprocessing of data and exporting to csv - CPU intensive, it requires a good internet connection and 16GB of RAM.
 2. construction of in-container database - IO intensive, requires 300GB of storage, best if SSD.
 3. exporting and compressing the static website from quering the database.
 
 ### Refresh options
-1. `lang`: wikipedia nationalization to parse (`en` or `it`), default `it`.
+1. `lang`: [wikipedia nationalization to parse](https://github.com/ebonetti/overpedia/tree/master/nationalization/internal/languages), default `it`.
 2. `source`: source of data (`net`,`csv` or `db`), default `net`.
 3. `indices`: indices to use in graphs (`default` or `alternate`), default `default`.
 4. `keep`: keep every savepoint - `csv` and `db` - after the execution (`true` or `false`), default `false`.

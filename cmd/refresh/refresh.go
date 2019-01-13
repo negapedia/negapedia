@@ -30,7 +30,7 @@ var keepSavepoints bool
 var filterBots bool
 
 func init() {
-	flag.StringVar(&lang, "lang", "it", "Wikipedia nationalization to parse (en,it).")
+	flag.StringVar(&lang, "lang", "it", "Wikipedia nationalization to parse.")
 	flag.StringVar(&dataSource, "source", "net", "Source of data (net,csv,db).")
 	flag.StringVar(&dbopts, "db", "user=postgres dbname=postgres sslmode=disable", "Options for connecting to the db.")
 	flag.StringVar(&indices, "indices", "default", "Indices to use in graphs (default,alternate).")
