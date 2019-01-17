@@ -30,8 +30,15 @@ const (
 
 func addHomepages(t *template.Template, baseDomain string) (err error) {
 	r := regexp.MustCompile(pattern)
+
+	defaultHomepageTemplate := baseHomepageTemplate
+	//Default to English homepage template if exist
+	if webpage, err := get("http://en." + baseDomain); err == nil {
+		defaultHomepageTemplate = r.ReplaceAllString(string(webpage), baseHomepageTemplate)
+	}
+
 	for _, lang := range nationalization.List() {
-		homepageTemplate := baseHomepageTemplate
+		homepageTemplate := defaultHomepageTemplate
 		if webpage, err := get("http://" + lang + "." + baseDomain); err == nil {
 			//replace old data with template
 			homepageTemplate = r.ReplaceAllString(string(webpage), baseHomepageTemplate)
