@@ -11,32 +11,21 @@ import (
 )
 
 func newView(m Model) (v View, err error) {
-	v.model = m
-	v.data = m.Data()
-
-	v.topics = make(map[string]Page, len(v.data.Topics))
-	for _, t := range v.data.Topics {
-		v.topics[t.Topic] = t
-	}
-
-	return
+	return View{m}, nil
 }
 
 type View struct {
 	model Model
-	data  mData
-
-	topics map[string]Page
 }
 
 func (v View) Transform(i interface{}) (info vFile, err error) {
 	templateName, pagePath := "", ""
 	switch t := i.(type) {
 	case Info:
-		pagePath = pageUrl(t.Page.Page)
+		pagePath = pageUrl(t.Page)
 		i = v.transformPage(t)
 		if len(t.Page.Title) == 0 {
-			templateName = nameHomepage(v.data.Lang)
+			templateName = nameHomepage(v.model.Lang())
 		} else {
 			templateName = "page.html"
 		}
@@ -54,7 +43,7 @@ func (v View) Transform(i interface{}) (info vFile, err error) {
 
 	reldir, file := path.Split(pagePath)
 	file = url.PathEscape(strings.TrimSuffix(file, ".html"))
-	i.(interface{ SetCanonicalLink(string) }).SetCanonicalLink("http://" + path.Join(v.data.Lang+".negapedia.org", "articles", reldir, file))
+	i.(interface{ SetCanonicalLink(string) }).SetCanonicalLink("http://" + path.Join(v.model.Lang()+".negapedia.org", "articles", reldir, file))
 
 	err = templates.ExecuteTemplate(&b, templateName, i)
 	info = newVFile(filepath.Join("html", "articles", pagePath), b.Bytes())
@@ -76,18 +65,18 @@ func (v View) FileIterator(ctx context.Context, fail func(error) error) func() (
 	return vfileIterMergeFrom(nexts...).Next
 }
 
-func (v View) pageFiles(ctx context.Context, fail func(error) error) []<-chan vFile {
-	pageDepth2Count := v.data.PageDepth2Count[:len(v.data.PageDepth2Count)-1]
-	ffiles := make([]chan vFile, len(pageDepth2Count))
-	for depth, count := range pageDepth2Count {
-		ffiles[depth] = make(chan vFile, count)
+func (v View) pageFiles(ctx context.Context, fail func(error) error) (outffiles []<-chan vFile) {
+	ffiles := []chan vFile{}
+	for i := 0; i < 4; i++ {
+		fchan := make(chan vFile, 128)
+		ffiles = append(ffiles, fchan)
+		outffiles = append(outffiles, fchan)
 	}
-	ffiles = append(ffiles, make(chan vFile, 128)) //cap the capacity of the last channel
 
 	go func() {
-		depth := 0
+		var lastPageType string
 		defer func() {
-			for _, files := range ffiles[depth:] {
+			for _, files := range ffiles {
 				close(files)
 			}
 		}()
@@ -97,13 +86,14 @@ func (v View) pageFiles(ctx context.Context, fail func(error) error) []<-chan vF
 				return
 			}
 
-			if p.Page.PageDepth > depth {
-				close(ffiles[depth])
-				depth = p.Page.PageDepth
+			if p.Page.Type != lastPageType {
+				close(ffiles[0])
+				ffiles = ffiles[1:]
+				lastPageType = p.Page.Type
 			}
 
 			select {
-			case ffiles[depth] <- info:
+			case ffiles[0] <- info:
 				return nil //go on
 			case <-ctx.Done():
 				return ctx.Err()
@@ -114,10 +104,6 @@ func (v View) pageFiles(ctx context.Context, fail func(error) error) []<-chan vF
 		}
 	}()
 
-	outffiles := make([]<-chan vFile, len(ffiles))
-	for i, files := range ffiles {
-		outffiles[i] = files
-	}
 	return outffiles
 }
 

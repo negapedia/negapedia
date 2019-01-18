@@ -11,15 +11,13 @@ func (v View) transformPage(i Info) interface{} {
 	return &struct {
 		mData
 		CanonicalLink
-		ExtendedPage
-		Type     string
+		Page
 		Rankings []ranking
-		Links    []page
+		Links    []Page
 	}{
-		v.data,
+		v.model.Data(),
 		CanonicalLink{},
 		p.Page,
-		pageType(p.Page.Page),
 		p.Rankings(),
 		pageList(p.Links...),
 	}
@@ -53,17 +51,17 @@ func (p viewInfo) Rankings() (rankings []ranking) {
 		}
 	}
 
-	if p.Page.IsTopic {
+	if p.Page.Type != "article" {
 		return
 	}
 
 	for index, amm := range p.Index2Measurement {
-		rankings = append(rankings, ranking{amm.TopicRank, amm.TopicPercentile, amm.TopicDensePercentile, index, p.Page.Topic, "all", amm.Value})
+		rankings = append(rankings, ranking{amm.TopicRank, amm.TopicPercentile, amm.TopicDensePercentile, index, p.Page.Topic(), "all", amm.Value})
 	}
 	for index, ymm := range p.Index2YearMeasurements {
 		for _, ym := range ymm {
 			year := fmt.Sprint(ym.Year)
-			rankings = append(rankings, ranking{ym.TopicRank, ym.TopicPercentile, ym.TopicDensePercentile, index, p.Page.Topic, year, ym.Value})
+			rankings = append(rankings, ranking{ym.TopicRank, ym.TopicPercentile, ym.TopicDensePercentile, index, p.Page.Topic(), year, ym.Value})
 		}
 	}
 	return

@@ -14,14 +14,10 @@ import (
 
 type mData struct {
 	Lang          string
-	Topics        []Page
-	Indexes       []string
-	DefaultIndex  string
 	BoundingYears struct {
 		Min, Max                   int
 		MinTimestamp, MaxTimestamp time.Time
 	}
-	PageDepth2Count []int
 }
 
 type Model struct {
@@ -76,26 +72,9 @@ func OpenModel(db *sqlx.DB, lang string) (m Model, destructor func(), err error)
 	m.db = db
 	m.data.Lang = lang
 
-	err = db.Select(&m.data.Topics, "SELECT page_title AS title, page_abstract AS abstract, topic_title AS topic, istopic AS istopic FROM w2o.topicpages WHERE page_depth = 1 ORDER BY page_title;")
-	if err != nil {
-		return fail(errors.Wrap(err, "Error while retrieving Topics"))
-	}
-	err = db.Select(&m.data.Indexes, "SELECT type::name as name FROM unnest(enum_range(NULL::w2o.myindex)) AS _(type) ORDER BY name;")
-	if err != nil {
-		return fail(errors.Wrap(err, "Error while retrieving Indexes"))
-	}
-	if len(m.data.Indexes) == 0 {
-		return fail(errors.New("Error: there are no indexes defined over data"))
-	}
-	m.data.DefaultIndex = m.data.Indexes[0]
-
 	err = db.Get(&m.data.BoundingYears, "SELECT minyear AS Min, maxyear AS Max, mintimestamp AS MinTimestamp, maxtimestamp AS MaxTimestamp FROM w2o.timebounds;")
 	if err != nil {
 		return fail(errors.Wrap(err, "Error while retrieving Timebounds"))
-	}
-	err = db.Select(&m.data.PageDepth2Count, "SELECT count FROM (SELECT page_depth,COUNT(*) as count FROM w2o.pages GROUP BY page_depth) AS _ ORDER BY page_depth;")
-	if err != nil {
-		return fail(errors.Wrap(err, "Error while retrieving PageDepth2Count"))
 	}
 
 	destructor = getDestructor(db)
@@ -110,47 +89,38 @@ func getDestructor(db *sqlx.DB) func() {
 }
 
 func (m Model) Data() mData {
-	return mData{m.data.Lang, m.Topics(), m.Indexes(), m.DefaultIndex(), m.data.BoundingYears, m.PageDepth2Count()}
+	return mData{m.data.Lang, m.data.BoundingYears}
 }
 
 func (m Model) Lang() string {
 	return m.data.Lang
 }
 
-func (m Model) Topics() []Page {
-	return append([]Page{}, m.data.Topics...)
-}
-
-func (m Model) Indexes() []string {
-	return append([]string{}, m.data.Indexes...)
-}
-
-func (m Model) DefaultIndex() string {
-	return m.data.DefaultIndex
-}
-
 func (m Model) BoundingYears() (minYear, maxYear int) {
 	return m.data.BoundingYears.Min, m.data.BoundingYears.Max
 }
 
-func (m Model) PageDepth2Count() []int {
-	return append([]int{}, m.data.PageDepth2Count...)
+type Page struct {
+	ID              uint32
+	Title, Abstract string
+	ParentID        uint32
+	Type            string
+	CreationYear    int
 }
 
-type Page struct {
-	Title, Abstract, Topic string
-	IsTopic                bool
+func (p Page) Topic() string {
+	switch p.Type {
+	case "article":
+		return Topic.UniversalFrom(p.ParentID)
+	case "topic":
+		return Topic.UniversalFrom(p.ID)
+	default: //global
+		return ""
+	}
 }
 
 func (p Page) UnderscoredTitle() string {
 	return strings.Replace(p.Title, " ", "_", -1)
-}
-
-type ExtendedPage struct {
-	Page
-	FullTopic    string
-	CreationYear int
-	PageDepth    int
 }
 
 type Measurement struct {
@@ -166,10 +136,10 @@ type YearMeasurement struct {
 }
 
 type Info struct {
-	Page                   ExtendedPage
+	Page                   Page
 	Index2Measurement      map[string]Measurement
 	Index2YearMeasurements map[string][]YearMeasurement
-	Links, HotArticles     []Page
+	Links                  []Page
 }
 
 func (m Model) Pages(ctx context.Context, process func(Info) error) (err error) {
@@ -217,7 +187,7 @@ func (m Model) Pages(ctx context.Context, process func(Info) error) (err error) 
 }
 
 type AnnualIndexesRanking struct {
-	Year          int
+	Year          uint32
 	Index2Ranking map[string][]Page
 }
 
@@ -238,7 +208,7 @@ func (m Model) TopTen(ctx context.Context, process func(AnnualIndexesRanking) er
 			return err
 		}
 		res := struct {
-			Year           int
+			Year           uint32
 			Indexesranking []struct {
 				Index   string
 				Ranking []Page

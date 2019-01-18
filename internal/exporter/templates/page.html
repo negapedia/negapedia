@@ -5,7 +5,7 @@
 <meta name="viewport" content="width=device-width, initial-scale=1.0, minimum-scale=1.0"/>
 <meta property="og:image" content="http://{{.Lang}}.negapedia.org/images/logo.png"/>
 
-<title>{{if .IsTopic}}Category: {{end}}{{.Title}} - Negapedia</title>
+<title>{{if eq .Type "topic"}}Category: {{end}}{{.Title}} - Negapedia</title>
 
 <link rel="stylesheet prefetch" type="text/css" href="../css/core.css">
 <link rel="canonical" href="{{.CanonicalURL}}">
@@ -22,11 +22,11 @@
 
 <div id="content">
 
-<h1 {{if not .IsTopic}} data-name="{{.UnderscoredTitle}}"{{end}}>{{.Title}}</h1>
+<h1 {{if eq .Type "article"}} data-name="{{.UnderscoredTitle}}"{{end}}>{{.Title}}</h1>
 
 <div id="intro"></div>
 
-{{if not .IsTopic}}
+{{if eq .Type "article"}}
 <div id="wikipedia-from">{{.Abstract}}</div>
 
 <div id="negawards"></div>
