@@ -22,7 +22,7 @@ func init() {
 			panic(err)
 		}
 		for _, topic := range data.Topics {
-			ID2Title[langID{lang, topic.ID}] = title{strings.Split(topic.Title, " ")[0], topic.Title}
+			ID2Title[langID{lang, topic.ID}] = title{strings.ToLower(strings.Split(topic.Title, " ")[0]), topic.Title}
 		}
 	}
 
