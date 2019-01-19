@@ -1,6 +1,7 @@
 package main
 
 import (
+	"context"
 	"encoding/json"
 	"fmt"
 	"io/ioutil"
@@ -11,25 +12,31 @@ import (
 	"strings"
 	"time"
 
+	"github.com/ebonetti/wikipage"
+
 	"github.com/ebonetti/overpedia/nationalization"
 	"github.com/pkg/errors"
 )
 
+const (
+	categoryNamespace = 14
+	articleNamespace  = 0
+)
+
 func main() {
-	//for _, baseLang := range []string{"en", "it"} {
 	for _, baseLang := range nationalization.List() {
 		baseI18n := mynationalization(baseLang)
 		for ti, t := range baseI18n.Topics {
 			baseI18n.Topics[ti].Categories = nil
 			for _, baseCategory := range t.Categories {
-				for lang, category := range langlinks(baseLang, baseCategory) {
+				for lang, category := range langlinks(baseLang, baseCategory, categoryNamespace) {
 					i18n := mynationalization(lang)
 					i18n.Topics[ti].Categories = add(i18n.Topics[ti].Categories, category)
 				}
 			}
 			baseI18n.Topics[ti].Articles = nil
 			for _, baseArticle := range t.Articles {
-				for lang, article := range langlinks(baseLang, baseArticle) {
+				for lang, article := range langlinks(baseLang, baseArticle, articleNamespace) {
 					i18n := mynationalization(lang)
 					i18n.Topics[ti].Articles = add(i18n.Topics[ti].Articles, article)
 				}
@@ -38,7 +45,7 @@ func main() {
 		filters := baseI18n.Filters
 		baseI18n.Filters = nil
 		for _, baseFilter := range filters {
-			for lang, filter := range langlinks(baseLang, baseFilter) {
+			for lang, filter := range langlinks(baseLang, baseFilter, categoryNamespace) {
 				i18n := mynationalization(lang)
 				i18n.Filters = add(i18n.Filters, filter)
 			}
@@ -68,7 +75,7 @@ LOOP:
 	}
 }
 
-func langlinks(lang string, from nationalization.Page) (lang2Page map[string]nationalization.Page) {
+func langlinks(lang string, from nationalization.Page, namespace int) (lang2Page map[string]nationalization.Page) {
 	lang2Page = map[string]nationalization.Page{}
 
 	const langLinksBase = "https://%v.wikipedia.org/w/api.php?action=query&prop=langlinks&lllimit=500&redirects&format=json&formatversion=2&titles=%v"
@@ -76,6 +83,9 @@ func langlinks(lang string, from nationalization.Page) (lang2Page map[string]nat
 	switch {
 	case page.Missing:
 		fmt.Printf("Discarded missing %v in %v\n", from.Title, lang)
+		return
+	case page.Namespace != namespace:
+		fmt.Printf("Discarded page %v from %v namespace - expected %v - in %v \n", from.Title, page.Namespace, namespace, lang)
 		return
 	case page.ID != from.ID:
 		fmt.Printf("Changed ID of %v in %v\n", from.Title, lang)
@@ -85,7 +95,7 @@ func langlinks(lang string, from nationalization.Page) (lang2Page map[string]nat
 
 	for _, langLink := range page.LangLinks {
 		p := get(queryFrom(langLinksBase, langLink.Lang, []interface{}{langLink.Title}))
-		if p.Missing || p.Namespace != page.Namespace {
+		if p.Missing || p.Namespace != namespace {
 			continue
 		}
 		lang2Page[langLink.Lang] = nationalization.Page{ID: p.ID, Title: p.Title}
@@ -112,16 +122,32 @@ func mynationalization(lang string) (result *nationalization.Nationalization) {
 			sort.Slice(t.Articles, func(i, j int) bool { return t.Articles[i].ID < t.Articles[j].ID })
 		}
 		sort.Slice(n.Filters, func(i, j int) bool { return n.Filters[i].ID < n.Filters[j].ID })
-		return
+	} else {
+		n, _ = nationalization.New("en")
+		n.Language = lang
+		for i := range n.Topics {
+			n.Topics[i].Abstract = ""
+			n.Topics[i].Categories = nil
+			n.Topics[i].Articles = nil
+		}
+		n.Filters = nil
 	}
 
-	n, _ = nationalization.New("en")
-	n.Language = lang
-	for i := range n.Topics {
-		n.Topics[i].Categories = nil
-		n.Topics[i].Articles = nil
+	//Check if topic ID is already taken
+	rh := wikipage.New(lang)
+	for _, t := range n.Topics {
+		p, err := rh.From(context.Background(), t.ID)
+		_, ok := wikipage.NotFound(err)
+		switch {
+		case err == nil:
+			panic(fmt.Errorf("In %v already exist a page with ID %v: %v", lang, t.ID, p))
+		case !ok:
+			panic(err)
+			//default: //ok -> page do not exist
+			//Do nothing
+		}
 	}
-	n.Filters = nil
+
 	return
 }
 
