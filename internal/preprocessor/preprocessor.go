@@ -12,6 +12,7 @@ import (
 	"github.com/remeh/sizedwaitgroup"
 
 	"github.com/ebonetti/ctxutils"
+	"github.com/ebonetti/overpedia/nationalization"
 	"github.com/ebonetti/wikiassignment"
 	"github.com/ebonetti/wikibots"
 	"github.com/ebonetti/wikibrief"
@@ -19,21 +20,7 @@ import (
 	"github.com/ebonetti/wikipage"
 )
 
-type Nationalization struct {
-	Language      string
-	Topics        []Topic
-	Filter        []wikiassignment.Filter
-	Article2Topic map[uint32]uint32
-}
-
-type Topic struct {
-	ID         uint32
-	Title      string
-	Abstract   string
-	Categories []uint32
-}
-
-func Run(ctx context.Context, CSVDir string, filterBots bool, ntl Nationalization) (err error) {
+func Run(ctx context.Context, CSVDir, lang string, filterBots bool) (err error) {
 	ctx, fail := ctxutils.WithFail(ctx)
 	defer func() {
 		if fe := fail(err); fe != nil {
@@ -47,16 +34,30 @@ func Run(ctx context.Context, CSVDir string, filterBots bool, ntl Nationalizatio
 	}
 	defer os.RemoveAll(tmpDir)
 
-	latestDump, err := wikidump.Latest(tmpDir, ntl.Language, "metahistorybz2dump", "pagetable", "redirecttable", "categorylinkstable", "pagelinkstable")
+	latestDump, err := wikidump.Latest(tmpDir, lang, "metahistory7zdump", "pagetable", "redirecttable", "categorylinkstable", "pagelinkstable")
 	if err != nil {
 		return
 	}
 
-	p := preprocessor{ntl, latestDump, CSVDir, tmpDir, filterBots, fail}
-
-	if err = p.ArticleAssignments(ctx); err != nil {
+	article2Topic, namespaces, err := wikiassignment.From(ctx, tmpDir, lang)
+	if err != nil {
 		return
 	}
+
+	//Filter out non articles
+	articlesIDS := roaring.BitmapOf(namespaces.Articles...)
+	for pageID := range article2Topic {
+		if !articlesIDS.Contains(pageID) {
+			delete(article2Topic, pageID)
+		}
+	}
+
+	nationalization, err := nationalization.New(lang)
+	if err != nil {
+		return
+	}
+
+	p := preprocessor{nationalization, article2Topic, latestDump, CSVDir, tmpDir, filterBots, fail}
 
 	botIDs2Name, err := wikibots.New(ctx, p.Language)
 	if err != nil {
@@ -71,7 +72,8 @@ func Run(ctx context.Context, CSVDir string, filterBots bool, ntl Nationalizatio
 }
 
 type preprocessor struct {
-	Nationalization
+	nationalization.Nationalization
+	Article2Topic  map[uint32]uint32
 	Dump           wikidump.Wikidump
 	CSVDir, TmpDir string
 	FilterBots     bool
@@ -136,8 +138,8 @@ func (p preprocessor) summaries(ctx context.Context, isArticle func(e uint32) (o
 		//limit the number of workers to prevent system from killing 7zip instances
 		wg := sizedwaitgroup.New(10 * runtime.NumCPU())
 		r, err := it(ctx)
-		//for ; err == nil; err = io.EOF { //Use just one dump file for testing purposes
-		for ; err == nil; r, err = it(ctx) {
+		for ; err == nil; err = io.EOF { //Use just one dump file for testing purposes
+			//for ; err == nil; r, err = it(ctx) {
 			if err = wg.AddWithContext(ctx); err != nil {
 				return //AddWithContext only fail if ctx is Done
 			}
@@ -180,52 +182,4 @@ func (p preprocessor) summaries(ctx context.Context, isArticle func(e uint32) (o
 	}()
 
 	return results
-}
-
-func (p *preprocessor) ArticleAssignments(ctx context.Context) (err error) {
-	dumps := func(name string) (r io.ReadCloser, err error) {
-		rawReader, err := p.Dump.Open(name)(ctx)
-		if err != nil {
-			return
-		}
-		r = readClose{wikidump.SQL2CSV(rawReader), rawReader.Close}
-		return
-	}
-
-	topic2Categories := map[uint32][]uint32{}
-	for _, t := range p.Topics {
-		topic2Categories[t.ID] = t.Categories
-	}
-	for pageID, TopicID := range p.Article2Topic {
-		topic2Categories[TopicID] = append(topic2Categories[TopicID], pageID)
-	}
-
-	page2Topic, namespaces, err := wikiassignment.From(ctx, p.TmpDir, dumps, topic2Categories, p.Filter)
-	if err != nil {
-		return
-	}
-
-	articles := roaring.BitmapOf(namespaces.Articles...)
-	for pageID, TopicID := range page2Topic {
-		_, ok := p.Article2Topic[pageID]
-		switch {
-		case ok:
-			//Page already assigned by custom assignment, do nothing
-		case !articles.Contains(pageID):
-			//Page is not an article, do nothing
-		default:
-			p.Article2Topic[pageID] = TopicID
-		}
-	}
-
-	return
-}
-
-type readClose struct {
-	io.Reader
-	Closer func() error
-}
-
-func (r readClose) Close() error {
-	return r.Closer()
 }

@@ -67,7 +67,7 @@ func main() {
 		defer tarball.Close()
 	}
 
-	nazionalization, err := nationalization.New(lang)
+	_, err := nationalization.New(lang)
 	if err != nil {
 		log.Panicf("%+v", err)
 	}
@@ -87,7 +87,7 @@ func main() {
 	switch dataSource {
 	case "net":
 		log.Print("Started data preprocessing and CSV export")
-		err = preprocessor.Run(context.Background(), csvDir, filterBots, nazionalization)
+		err = preprocessor.Run(context.Background(), csvDir, lang, filterBots)
 		if err != nil {
 			break
 		}
