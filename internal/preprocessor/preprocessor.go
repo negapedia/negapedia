@@ -20,7 +20,7 @@ import (
 	"github.com/ebonetti/wikipage"
 )
 
-func Run(ctx context.Context, CSVDir, lang string, filterBots bool) (err error) {
+func Run(ctx context.Context, CSVDir, lang string, filterBots bool, test bool) (err error) {
 	ctx, fail := ctxutils.WithFail(ctx)
 	defer func() {
 		if fe := fail(err); fe != nil {
@@ -57,7 +57,7 @@ func Run(ctx context.Context, CSVDir, lang string, filterBots bool) (err error) 
 		return
 	}
 
-	p := preprocessor{nationalization, article2Topic, latestDump, CSVDir, tmpDir, filterBots, fail}
+	p := preprocessor{nationalization, article2Topic, latestDump, CSVDir, tmpDir, filterBots, test, fail}
 
 	botIDs2Name, err := wikibots.New(ctx, p.Language)
 	if err != nil {
@@ -73,11 +73,11 @@ func Run(ctx context.Context, CSVDir, lang string, filterBots bool) (err error) 
 
 type preprocessor struct {
 	nationalization.Nationalization
-	Article2Topic  map[uint32]uint32
-	Dump           wikidump.Wikidump
-	CSVDir, TmpDir string
-	FilterBots     bool
-	Fail           func(error) error
+	Article2Topic         map[uint32]uint32
+	Dump                  wikidump.Wikidump
+	CSVDir, TmpDir        string
+	FilterBots, RunAsTest bool
+	Fail                  func(error) error
 }
 
 type article struct {
@@ -134,12 +134,17 @@ func (p preprocessor) summaries(ctx context.Context, isArticle func(e uint32) (o
 	go func() {
 		defer close(results)
 		it := p.Dump.Open("metahistory7zdump")
+		r, err := it(ctx)
+		if p.RunAsTest { //Use just one dump file for testing purposes
+			it = func(_ context.Context) (io.ReadCloser, error) {
+				return nil, io.EOF
+			}
+		}
 
 		//limit the number of workers to prevent system from killing 7zip instances
 		wg := sizedwaitgroup.New(10 * runtime.NumCPU())
-		r, err := it(ctx)
-		for ; err == nil; err = io.EOF { //Use just one dump file for testing purposes
-			//for ; err == nil; r, err = it(ctx) {
+
+		for ; err == nil; r, err = it(ctx) {
 			if err = wg.AddWithContext(ctx); err != nil {
 				return //AddWithContext only fail if ctx is Done
 			}

@@ -27,7 +27,7 @@ import (
 
 var lang, dataSource, dbopts, indices string
 var keepSavepoints bool
-var filterBots bool
+var filterBots, test bool
 
 func init() {
 	flag.StringVar(&lang, "lang", "it", "Wikipedia nationalization to parse.")
@@ -36,13 +36,14 @@ func init() {
 	flag.StringVar(&indices, "indices", "default", "Indices to use in graphs (default,alternate).")
 	flag.BoolVar(&keepSavepoints, "keep", false, "Keep every savepoint - csv and db - after the execution (true or false).")
 	flag.BoolVar(&filterBots, "nobots", false, "Filter every edit done by a Bot before CSV exporting.")
+	flag.BoolVar(&test, "test", false, "Run as test on a fraction of the articles before CSV exporting.")
 }
 
 func main() {
 	stackTraceOn(syscall.SIGUSR1) //enable logging to a file the current stack trace upon receiving the signal SIGUSR1
 	flag.Parse()
 	log.Println("Called with the command: ", strings.Join(os.Args, " "))
-	log.Printf("Interpreted as: refresh lang = %s source = %s db = '%s' indices = %s keep = %t nobots = %t\n", lang, dataSource, dbopts, indices, keepSavepoints, filterBots)
+	log.Printf("Interpreted as: refresh -lang = %s -source = %s -db = '%s' -indices = %s -keep = %t -nobots = %t -test = %t\n", lang, dataSource, dbopts, indices, keepSavepoints, filterBots, test)
 
 	start := time.Now()
 	defer func() {
@@ -87,7 +88,7 @@ func main() {
 	switch dataSource {
 	case "net":
 		log.Print("Started data preprocessing and CSV export")
-		err = preprocessor.Run(context.Background(), csvDir, lang, filterBots)
+		err = preprocessor.Run(context.Background(), csvDir, lang, filterBots, test)
 		if err != nil {
 			break
 		}

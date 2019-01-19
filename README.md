@@ -16,6 +16,7 @@ This image take in input the nationalization and store the result of the operati
 3. `indices`: indices to use in graphs (`default` or `alternate`), default `default`.
 4. `keep`: keep every savepoint - `csv` and `db` - after the execution (`true` or `false`), default `false`.
 5. `nobots`: filter every edit done by a Bot before `csv` exporting (`true` or `false`), default `false`.
+6. `test`: Run as test on a fraction of the articles before `csv` exporting (`true` or `false`), default `false`.
 
 ### Examples
 1. `docker run ebonetti/overpedia refresh -lang en`: basic usage, run the image on the english nationalization and store the result in the in-containter `/data` folder.
