@@ -58,10 +58,10 @@ var urlsRules = strings.NewReplacer(" ", "_", "/", "∕" /*<-- http://www.filefo
 
 func pageUrl(p Page) string {
 	switch p.Type {
-	case "global": //homepage
+	case _homepage:
 		return "../index.html"
-	case "topic":
-		return "../categories/" + urlsRules.Replace(Topic.UniversalFullFrom(p.ParentID)) + ".html"
+	case _topic:
+		return "../categories/" + urlsRules.Replace(Topic.UniversalFullFrom(p.ID)) + ".html"
 	default:
 		return "../articles/" + urlsRules.Replace(p.Title) + ".html"
 	}

@@ -108,13 +108,19 @@ type Page struct {
 	CreationYear    int
 }
 
+const (
+	_article  = "article"
+	_topic    = "topic"
+	_homepage = "global"
+)
+
 func (p Page) Topic() string {
 	switch p.Type {
-	case "article":
+	case _article:
 		return Topic.UniversalFrom(p.ParentID)
-	case "topic":
+	case _topic:
 		return Topic.UniversalFrom(p.ID)
-	default: //global
+	default: //homepage
 		return ""
 	}
 }

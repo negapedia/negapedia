@@ -12,8 +12,8 @@ func (v View) transformTopTen(r SplittedAnnualIndexRanking) interface{} {
 	title := fmt.Sprint("Top Ten - ", strings.Title(r.Index))
 	topic := "all"
 	if r.TopicID != 0 {
-		topic = Topic.FullFrom(v.model.Lang(), r.TopicID)
-		title += " - " + topic
+		topic = Topic.UniversalFrom(r.TopicID)
+		title += " - " + Topic.FullFrom(v.model.Lang(), r.TopicID)
 	}
 	span := fmt.Sprint(r.Year)
 	if r.Year == 0 {

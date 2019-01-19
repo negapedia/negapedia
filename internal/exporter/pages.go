@@ -51,7 +51,7 @@ func (p viewInfo) Rankings() (rankings []ranking) {
 		}
 	}
 
-	if p.Page.Type != "article" {
+	if p.Page.Type != _article {
 		return
 	}
 
