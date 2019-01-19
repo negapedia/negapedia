@@ -6,17 +6,1668 @@
       "Title": "Culture and the arts",
       "Abstract": "The word culture is derived from the Latin root cultura or cultus meaning to \"inhabit, cultivate, or honour\". In general, culture refers to human activity; different definitions of culture reflect different theories for understanding, or criteria for valuing human activity. Present day Anthropologists use the term to refer to the universal human capacity to classify experiences and to encode and communicate them symbolically. They regard this capacity as a defining feature of the genus Homo. Since culture is learned, people living in different places have different cultures. There can be different cultures in different countries, and there can also be shared cultures among continents.\n\nThe arts are a vast subdivision of culture, composed of many creative endeavors and disciplines. It is a broader term than \"art,\" which as a description of a field usually means only the visual arts. The arts encompasses visual arts, literary arts and the performing arts - music, theatre, dance, spoken word and film, among others.\n\nArt, in its broadest meaning, is the expression of creativity or imagination. The word art comes from the Latin word ars, which, loosely translated, means \"arrangement\". Art is commonly understood as the act of making works (or artworks) which use the human creative impulse and which have meaning beyond simple description. Art is often distinguished from crafts and recreational hobby activities. The term creative arts denotes a collection of disciplines whose principal purpose is the output of material for the viewer or audience to interpret. As such, art may be taken to include forms as diverse as prose writing, poetry, dance, acting or drama, film, music, sculpture, photography, illustration, architecture, collage, painting, craft and fashion. Art may also be understood as relating to creativity, æsthetics and the generation of emotion",
       "Categories": [
-        693016,
-        693708,
-        694861,
-        698271,
-        699821,
-        713870,
-        723096,
-        1077074,
-        4610114,
-        4892515,
-        7357900
+        {
+          "ID": 693016,
+          "Title": "Category:Entertainment"
+        },
+        {
+          "ID": 693708,
+          "Title": "Category:Sports"
+        },
+        {
+          "ID": 694861,
+          "Title": "Category:Culture"
+        },
+        {
+          "ID": 698271,
+          "Title": "Category:Hobbies"
+        },
+        {
+          "ID": 699821,
+          "Title": "Category:Musical groups"
+        },
+        {
+          "ID": 713870,
+          "Title": "Category:Cuisine"
+        },
+        {
+          "ID": 723096,
+          "Title": "Category:Recreation"
+        },
+        {
+          "ID": 4610114,
+          "Title": "Category:Films"
+        },
+        {
+          "ID": 4892515,
+          "Title": "Category:Arts"
+        },
+        {
+          "ID": 7357900,
+          "Title": "Category:Performances"
+        }
+      ],
+      "Articles": [
+        {
+          "ID": 3363,
+          "Title": "Beer"
+        },
+        {
+          "ID": 3969,
+          "Title": "Buckingham Palace"
+        },
+        {
+          "ID": 5163,
+          "Title": "The World Factbook"
+        },
+        {
+          "ID": 6035,
+          "Title": "Celibacy"
+        },
+        {
+          "ID": 7089,
+          "Title": "Chocolate"
+        },
+        {
+          "ID": 7218,
+          "Title": "Cookie"
+        },
+        {
+          "ID": 7366,
+          "Title": "Chastity"
+        },
+        {
+          "ID": 8387,
+          "Title": "Draught beer"
+        },
+        {
+          "ID": 9253,
+          "Title": "Encyclopedia"
+        },
+        {
+          "ID": 9929,
+          "Title": "Espagnole sauce"
+        },
+        {
+          "ID": 11258,
+          "Title": "Fellatio"
+        },
+        {
+          "ID": 11415,
+          "Title": "Forcemeat"
+        },
+        {
+          "ID": 12514,
+          "Title": "Ghost"
+        },
+        {
+          "ID": 14299,
+          "Title": "Ham"
+        },
+        {
+          "ID": 17877,
+          "Title": "Loch Ness Monster"
+        },
+        {
+          "ID": 17909,
+          "Title": "Led Zeppelin"
+        },
+        {
+          "ID": 19842,
+          "Title": "Mild ale"
+        },
+        {
+          "ID": 21640,
+          "Title": "Low-alcohol beer"
+        },
+        {
+          "ID": 23871,
+          "Title": "Pasta"
+        },
+        {
+          "ID": 23884,
+          "Title": "Pilsner"
+        },
+        {
+          "ID": 24768,
+          "Title": "Pizza"
+        },
+        {
+          "ID": 29985,
+          "Title": "Taco"
+        },
+        {
+          "ID": 30916,
+          "Title": "Tomato sauce"
+        },
+        {
+          "ID": 36969,
+          "Title": "Bread"
+        },
+        {
+          "ID": 45324,
+          "Title": "Hogwarts"
+        },
+        {
+          "ID": 46484,
+          "Title": "Apple sauce"
+        },
+        {
+          "ID": 49592,
+          "Title": "Fortune cookie"
+        },
+        {
+          "ID": 52726,
+          "Title": "Green Day"
+        },
+        {
+          "ID": 57572,
+          "Title": "Cake"
+        },
+        {
+          "ID": 63394,
+          "Title": "Bacon"
+        },
+        {
+          "ID": 65450,
+          "Title": "Sgt. Pepper's Lonely Hearts Club Band"
+        },
+        {
+          "ID": 76723,
+          "Title": "Chocolate chip cookie"
+        },
+        {
+          "ID": 90064,
+          "Title": "Castlemaine XXXX"
+        },
+        {
+          "ID": 100710,
+          "Title": "Chocolate bar"
+        },
+        {
+          "ID": 149225,
+          "Title": "AC/DC"
+        },
+        {
+          "ID": 157973,
+          "Title": "Knäck"
+        },
+        {
+          "ID": 159438,
+          "Title": "Mordred"
+        },
+        {
+          "ID": 160221,
+          "Title": "Plum in madeira"
+        },
+        {
+          "ID": 167891,
+          "Title": "Chocolate milk"
+        },
+        {
+          "ID": 192368,
+          "Title": "Hot dog"
+        },
+        {
+          "ID": 220709,
+          "Title": "Coddled egg"
+        },
+        {
+          "ID": 220980,
+          "Title": "Akashiyaki"
+        },
+        {
+          "ID": 238715,
+          "Title": "Dinosaur Jr."
+        },
+        {
+          "ID": 251320,
+          "Title": "Sliced bread"
+        },
+        {
+          "ID": 251423,
+          "Title": "Breakthrough (board game)"
+        },
+        {
+          "ID": 289786,
+          "Title": "Peanut butter"
+        },
+        {
+          "ID": 294800,
+          "Title": "Fried egg"
+        },
+        {
+          "ID": 340496,
+          "Title": "Cooties"
+        },
+        {
+          "ID": 360677,
+          "Title": "Purée Mongole"
+        },
+        {
+          "ID": 370599,
+          "Title": "Culture of Alberta"
+        },
+        {
+          "ID": 370716,
+          "Title": "Street dance"
+        },
+        {
+          "ID": 386117,
+          "Title": "Scotch egg"
+        },
+        {
+          "ID": 390827,
+          "Title": "Wedding cake"
+        },
+        {
+          "ID": 426522,
+          "Title": "Carbonara"
+        },
+        {
+          "ID": 429272,
+          "Title": "Chicken tikka masala"
+        },
+        {
+          "ID": 455243,
+          "Title": "Ash Ketchum"
+        },
+        {
+          "ID": 463558,
+          "Title": "Conpoy"
+        },
+        {
+          "ID": 483473,
+          "Title": "Gelato"
+        },
+        {
+          "ID": 485487,
+          "Title": "M\u0026M's"
+        },
+        {
+          "ID": 493990,
+          "Title": "Bejeweled"
+        },
+        {
+          "ID": 497057,
+          "Title": "Tea sandwich"
+        },
+        {
+          "ID": 509025,
+          "Title": "Soda bread"
+        },
+        {
+          "ID": 509468,
+          "Title": "Fried rice"
+        },
+        {
+          "ID": 509495,
+          "Title": "Chicago-style pizza"
+        },
+        {
+          "ID": 531849,
+          "Title": "Giuditta Pasta"
+        },
+        {
+          "ID": 538419,
+          "Title": "Hawaiian pizza"
+        },
+        {
+          "ID": 540333,
+          "Title": "Hot chocolate"
+        },
+        {
+          "ID": 572436,
+          "Title": "Bosnian Pot"
+        },
+        {
+          "ID": 595121,
+          "Title": "Dutch process chocolate"
+        },
+        {
+          "ID": 604727,
+          "Title": "Coffee"
+        },
+        {
+          "ID": 630463,
+          "Title": "WWE Championship"
+        },
+        {
+          "ID": 691782,
+          "Title": "Ginger beer"
+        },
+        {
+          "ID": 838020,
+          "Title": "Bitter (beer)"
+        },
+        {
+          "ID": 876849,
+          "Title": "Rocket Festival"
+        },
+        {
+          "ID": 901325,
+          "Title": "Winnipeg Folk Festival"
+        },
+        {
+          "ID": 915309,
+          "Title": "Panera Bread"
+        },
+        {
+          "ID": 959670,
+          "Title": "Fresh 92.7"
+        },
+        {
+          "ID": 1048571,
+          "Title": "Back bacon"
+        },
+        {
+          "ID": 1088927,
+          "Title": "Salmond College"
+        },
+        {
+          "ID": 1112013,
+          "Title": "Terence the Tractor"
+        },
+        {
+          "ID": 1167404,
+          "Title": "Banana bread"
+        },
+        {
+          "ID": 1217251,
+          "Title": "Chocolate liquor"
+        },
+        {
+          "ID": 1245639,
+          "Title": "Pinus cembroides"
+        },
+        {
+          "ID": 1296540,
+          "Title": "Pasta al pomodoro"
+        },
+        {
+          "ID": 1471058,
+          "Title": "White chocolate"
+        },
+        {
+          "ID": 1533059,
+          "Title": "Parker House roll"
+        },
+        {
+          "ID": 1547197,
+          "Title": "List of Italian DOP cheeses"
+        },
+        {
+          "ID": 1578118,
+          "Title": "Drawing Hands"
+        },
+        {
+          "ID": 1611556,
+          "Title": "Coyotas"
+        },
+        {
+          "ID": 1617619,
+          "Title": "Attack of the Show!"
+        },
+        {
+          "ID": 1632110,
+          "Title": "Pot pie"
+        },
+        {
+          "ID": 1659792,
+          "Title": "Kottenbutter"
+        },
+        {
+          "ID": 1720902,
+          "Title": "Layer cake"
+        },
+        {
+          "ID": 1730071,
+          "Title": "Chocolate chip"
+        },
+        {
+          "ID": 1744617,
+          "Title": "Beer in England"
+        },
+        {
+          "ID": 1759645,
+          "Title": "Culture of South America"
+        },
+        {
+          "ID": 1770825,
+          "Title": "Raw chocolate"
+        },
+        {
+          "ID": 1883761,
+          "Title": "Jenny Lind Soup"
+        },
+        {
+          "ID": 1962085,
+          "Title": "Bacon sandwich"
+        },
+        {
+          "ID": 1964100,
+          "Title": "Bánh bao"
+        },
+        {
+          "ID": 2060056,
+          "Title": "Traou Mad"
+        },
+        {
+          "ID": 2155576,
+          "Title": "Pitepalt"
+        },
+        {
+          "ID": 2197052,
+          "Title": "Cookie Crisp"
+        },
+        {
+          "ID": 2203243,
+          "Title": "Total (cereal)"
+        },
+        {
+          "ID": 2205457,
+          "Title": "Nokul"
+        },
+        {
+          "ID": 2222189,
+          "Title": "Greek pizza"
+        },
+        {
+          "ID": 2227191,
+          "Title": "Date and walnut loaf"
+        },
+        {
+          "ID": 2271811,
+          "Title": "Five dots tattoo"
+        },
+        {
+          "ID": 2305207,
+          "Title": "Ted Scott Flying Stories"
+        },
+        {
+          "ID": 2307101,
+          "Title": "Rigatoni con la pajata"
+        },
+        {
+          "ID": 2351973,
+          "Title": "Study skills"
+        },
+        {
+          "ID": 2446345,
+          "Title": "Mix-in"
+        },
+        {
+          "ID": 2458530,
+          "Title": "Mealie bread"
+        },
+        {
+          "ID": 2518568,
+          "Title": "Livermush"
+        },
+        {
+          "ID": 2664040,
+          "Title": "Crudités"
+        },
+        {
+          "ID": 2696756,
+          "Title": "Bulkie roll"
+        },
+        {
+          "ID": 2784670,
+          "Title": "Vlokken"
+        },
+        {
+          "ID": 2791047,
+          "Title": "Egg drop competition"
+        },
+        {
+          "ID": 2844056,
+          "Title": "KYGO-FM"
+        },
+        {
+          "ID": 2877341,
+          "Title": "Leglock"
+        },
+        {
+          "ID": 2885059,
+          "Title": "Diplomat pudding"
+        },
+        {
+          "ID": 2919846,
+          "Title": "Banana boat (food)"
+        },
+        {
+          "ID": 3040703,
+          "Title": "Joan of Arc by Herself and Her Witnesses"
+        },
+        {
+          "ID": 3080697,
+          "Title": "List of pasta"
+        },
+        {
+          "ID": 3217073,
+          "Title": "The Slave Dancer"
+        },
+        {
+          "ID": 3441686,
+          "Title": "Fried noodles"
+        },
+        {
+          "ID": 3549595,
+          "Title": "Aqua (band)"
+        },
+        {
+          "ID": 3577878,
+          "Title": "Pain d'épices"
+        },
+        {
+          "ID": 3620951,
+          "Title": "Pre-ferment"
+        },
+        {
+          "ID": 3670478,
+          "Title": "Rice cake"
+        },
+        {
+          "ID": 3671251,
+          "Title": "Tomato soup"
+        },
+        {
+          "ID": 3719867,
+          "Title": "Boiled egg"
+        },
+        {
+          "ID": 3779395,
+          "Title": "KACV-TV"
+        },
+        {
+          "ID": 4014271,
+          "Title": "Ngome (bread)"
+        },
+        {
+          "ID": 4083895,
+          "Title": "The Adventures of Letterman"
+        },
+        {
+          "ID": 4265293,
+          "Title": "List of alcoholic drinks"
+        },
+        {
+          "ID": 4265920,
+          "Title": "Ciarduna"
+        },
+        {
+          "ID": 4275382,
+          "Title": "Pasta e fagioli"
+        },
+        {
+          "ID": 4408954,
+          "Title": "Bejeweled 2"
+        },
+        {
+          "ID": 4527907,
+          "Title": "Bondost"
+        },
+        {
+          "ID": 4627535,
+          "Title": "Pasta primavera"
+        },
+        {
+          "ID": 5043734,
+          "Title": "Wikipedia"
+        },
+        {
+          "ID": 5054621,
+          "Title": "Salted duck egg"
+        },
+        {
+          "ID": 5073665,
+          "Title": "Frucht Quark"
+        },
+        {
+          "ID": 5151550,
+          "Title": "The Black Pearl (Scott O'Dell)"
+        },
+        {
+          "ID": 5340420,
+          "Title": "Tiger bread"
+        },
+        {
+          "ID": 5695954,
+          "Title": "Genoa cake"
+        },
+        {
+          "ID": 5709156,
+          "Title": "How the Dragon Was Tricked"
+        },
+        {
+          "ID": 5781551,
+          "Title": "Sher Berinj"
+        },
+        {
+          "ID": 5839243,
+          "Title": "Flooding of the Nile"
+        },
+        {
+          "ID": 5861977,
+          "Title": "Thai fried rice"
+        },
+        {
+          "ID": 6119977,
+          "Title": "Atlanta Interfaith Broadcasters"
+        },
+        {
+          "ID": 6260652,
+          "Title": "Carolina style"
+        },
+        {
+          "ID": 6503002,
+          "Title": "Brown bread"
+        },
+        {
+          "ID": 6672660,
+          "Title": "Types of chocolate"
+        },
+        {
+          "ID": 6696765,
+          "Title": "Fusi (pasta)"
+        },
+        {
+          "ID": 6888388,
+          "Title": "Vienna bread"
+        },
+        {
+          "ID": 6972293,
+          "Title": "Alphabet pasta"
+        },
+        {
+          "ID": 6984468,
+          "Title": "Pasta salad"
+        },
+        {
+          "ID": 7438521,
+          "Title": "Desem"
+        },
+        {
+          "ID": 7841763,
+          "Title": "Gerber sandwich"
+        },
+        {
+          "ID": 7962398,
+          "Title": "Literary realism"
+        },
+        {
+          "ID": 8126760,
+          "Title": "Wagafi bread"
+        },
+        {
+          "ID": 8244710,
+          "Title": "Cencioni"
+        },
+        {
+          "ID": 8245125,
+          "Title": "Rotelle"
+        },
+        {
+          "ID": 8245187,
+          "Title": "Rotini"
+        },
+        {
+          "ID": 8245256,
+          "Title": "Gemelli (pasta)"
+        },
+        {
+          "ID": 8245307,
+          "Title": "Lanterne (pasta)"
+        },
+        {
+          "ID": 8304016,
+          "Title": "Figgy pudding"
+        },
+        {
+          "ID": 8372875,
+          "Title": "Flump (sweet)"
+        },
+        {
+          "ID": 8456009,
+          "Title": "Barros Luco"
+        },
+        {
+          "ID": 8594232,
+          "Title": "Partan bree"
+        },
+        {
+          "ID": 8603844,
+          "Title": "Mendiant"
+        },
+        {
+          "ID": 8914490,
+          "Title": "Choco Taco"
+        },
+        {
+          "ID": 9354232,
+          "Title": "Legends and tales of the New Jersey Pine Barrens"
+        },
+        {
+          "ID": 10324136,
+          "Title": "Plain loaf"
+        },
+        {
+          "ID": 10333774,
+          "Title": "Pan loaf"
+        },
+        {
+          "ID": 10422767,
+          "Title": "Rock Band (video game)"
+        },
+        {
+          "ID": 10470673,
+          "Title": "White sugar sponge cake"
+        },
+        {
+          "ID": 10483162,
+          "Title": "Manchet"
+        },
+        {
+          "ID": 10656276,
+          "Title": "Barros Jarpa"
+        },
+        {
+          "ID": 10906579,
+          "Title": "Kulolo"
+        },
+        {
+          "ID": 11577897,
+          "Title": "Makdous"
+        },
+        {
+          "ID": 11689293,
+          "Title": "Taro dumpling"
+        },
+        {
+          "ID": 11692282,
+          "Title": "Asham (dessert)"
+        },
+        {
+          "ID": 11868351,
+          "Title": "Paris buns"
+        },
+        {
+          "ID": 11877972,
+          "Title": "Put chai ko"
+        },
+        {
+          "ID": 11879624,
+          "Title": "Bière de Garde"
+        },
+        {
+          "ID": 11971218,
+          "Title": "Tofu skin roll"
+        },
+        {
+          "ID": 12098381,
+          "Title": "Supplì"
+        },
+        {
+          "ID": 12137607,
+          "Title": "Egg tong sui"
+        },
+        {
+          "ID": 12260161,
+          "Title": "Chocolate biscuit"
+        },
+        {
+          "ID": 12273688,
+          "Title": "Crème Ninon"
+        },
+        {
+          "ID": 12481557,
+          "Title": "Enthiran"
+        },
+        {
+          "ID": 12542748,
+          "Title": "Orange cuttlefish"
+        },
+        {
+          "ID": 12554186,
+          "Title": "Ricciarelli"
+        },
+        {
+          "ID": 12670982,
+          "Title": "List of French dishes"
+        },
+        {
+          "ID": 13103218,
+          "Title": "Oil noodles"
+        },
+        {
+          "ID": 13187567,
+          "Title": "Mung bean sheets"
+        },
+        {
+          "ID": 13204181,
+          "Title": "WPEZ"
+        },
+        {
+          "ID": 13246862,
+          "Title": "WRBV"
+        },
+        {
+          "ID": 13521586,
+          "Title": "Preserved lemon"
+        },
+        {
+          "ID": 13691435,
+          "Title": "Saffron rice"
+        },
+        {
+          "ID": 13697143,
+          "Title": "Babi panggang"
+        },
+        {
+          "ID": 13719853,
+          "Title": "Fun guo"
+        },
+        {
+          "ID": 13769016,
+          "Title": "Sheet cake"
+        },
+        {
+          "ID": 13774728,
+          "Title": "Sowans"
+        },
+        {
+          "ID": 13902799,
+          "Title": "Lotus seed bun"
+        },
+        {
+          "ID": 13964757,
+          "Title": "Flourless chocolate cake"
+        },
+        {
+          "ID": 14125923,
+          "Title": "Marigolds (short story)"
+        },
+        {
+          "ID": 14257777,
+          "Title": "Savoury (dish)"
+        },
+        {
+          "ID": 14409748,
+          "Title": "Finnish bread"
+        },
+        {
+          "ID": 14650947,
+          "Title": "Michigan salad"
+        },
+        {
+          "ID": 15010413,
+          "Title": "Bra cheese"
+        },
+        {
+          "ID": 15137928,
+          "Title": "Kingdom Hearts Mobile"
+        },
+        {
+          "ID": 15397979,
+          "Title": "Jumble (cookie)"
+        },
+        {
+          "ID": 15475970,
+          "Title": "Fatass"
+        },
+        {
+          "ID": 15527935,
+          "Title": "Coppia ferrarese"
+        },
+        {
+          "ID": 15584661,
+          "Title": "Erkuai"
+        },
+        {
+          "ID": 15602492,
+          "Title": "Lufu (food)"
+        },
+        {
+          "ID": 15894666,
+          "Title": "Paila marina"
+        },
+        {
+          "ID": 16711175,
+          "Title": "Kasseropita"
+        },
+        {
+          "ID": 16747143,
+          "Title": "Siemieniotka"
+        },
+        {
+          "ID": 17000799,
+          "Title": "Coco bread"
+        },
+        {
+          "ID": 17387499,
+          "Title": "Foam cake"
+        },
+        {
+          "ID": 17720623,
+          "Title": "Belgian chocolate"
+        },
+        {
+          "ID": 18371059,
+          "Title": "Pizza al taglio"
+        },
+        {
+          "ID": 18488429,
+          "Title": "Pan de yuca"
+        },
+        {
+          "ID": 18724093,
+          "Title": "Curau"
+        },
+        {
+          "ID": 18792799,
+          "Title": "Navarin (food)"
+        },
+        {
+          "ID": 19065623,
+          "Title": "How to Cook Everything"
+        },
+        {
+          "ID": 19196010,
+          "Title": "Egg as food"
+        },
+        {
+          "ID": 19729851,
+          "Title": "Almogrote"
+        },
+        {
+          "ID": 21326249,
+          "Title": "Fa gao"
+        },
+        {
+          "ID": 21463597,
+          "Title": "Chicken fried bacon"
+        },
+        {
+          "ID": 21577361,
+          "Title": "Hot water corn bread"
+        },
+        {
+          "ID": 21843425,
+          "Title": "Sucker Punch (2011 film)"
+        },
+        {
+          "ID": 22306768,
+          "Title": "The London Eye Mystery"
+        },
+        {
+          "ID": 22524172,
+          "Title": "Steamed clams"
+        },
+        {
+          "ID": 22749725,
+          "Title": "Fish stew"
+        },
+        {
+          "ID": 22803117,
+          "Title": "Maple bacon donut"
+        },
+        {
+          "ID": 22835554,
+          "Title": "Quwat Jabal"
+        },
+        {
+          "ID": 22836333,
+          "Title": "Santiba"
+        },
+        {
+          "ID": 23099230,
+          "Title": "Sai ua"
+        },
+        {
+          "ID": 23159504,
+          "Title": "Outline of chocolate"
+        },
+        {
+          "ID": 23282625,
+          "Title": "Dessert salad"
+        },
+        {
+          "ID": 23848185,
+          "Title": "Cut of pork"
+        },
+        {
+          "ID": 23852947,
+          "Title": "Timballo"
+        },
+        {
+          "ID": 23882016,
+          "Title": "Opera cake"
+        },
+        {
+          "ID": 23899885,
+          "Title": "MyLifeIsAverage"
+        },
+        {
+          "ID": 24024599,
+          "Title": "Toto (dessert)"
+        },
+        {
+          "ID": 24039413,
+          "Title": "Fish tea"
+        },
+        {
+          "ID": 24047257,
+          "Title": "Grater cake"
+        },
+        {
+          "ID": 24232118,
+          "Title": "Snack and a half"
+        },
+        {
+          "ID": 24269016,
+          "Title": "Casunziei"
+        },
+        {
+          "ID": 24646179,
+          "Title": "Grape pie"
+        },
+        {
+          "ID": 24864941,
+          "Title": "Peg bread"
+        },
+        {
+          "ID": 24865660,
+          "Title": "Fruit bun"
+        },
+        {
+          "ID": 25035805,
+          "Title": "Fritelli"
+        },
+        {
+          "ID": 25074566,
+          "Title": "Tortita negra"
+        },
+        {
+          "ID": 25075386,
+          "Title": "Fudge doughnut"
+        },
+        {
+          "ID": 25086155,
+          "Title": "Amaretti di Saronno"
+        },
+        {
+          "ID": 25127324,
+          "Title": "Prusurate"
+        },
+        {
+          "ID": 25162001,
+          "Title": "Adhirasam"
+        },
+        {
+          "ID": 25204524,
+          "Title": "Dabby-Doughs"
+        },
+        {
+          "ID": 25343724,
+          "Title": "Frittole (doughnut)"
+        },
+        {
+          "ID": 25433991,
+          "Title": "Catfish stew"
+        },
+        {
+          "ID": 25490083,
+          "Title": "Danish Bacon"
+        },
+        {
+          "ID": 25494096,
+          "Title": "Smulpaj"
+        },
+        {
+          "ID": 25790368,
+          "Title": "Sablé (biscuit)"
+        },
+        {
+          "ID": 25791126,
+          "Title": "Easter biscuit"
+        },
+        {
+          "ID": 25815868,
+          "Title": "Hovis biscuit"
+        },
+        {
+          "ID": 25816213,
+          "Title": "Neapolitan wafer"
+        },
+        {
+          "ID": 25820238,
+          "Title": "Biscotti Regina"
+        },
+        {
+          "ID": 25820671,
+          "Title": "Baicoli"
+        },
+        {
+          "ID": 25980154,
+          "Title": "Apple soup"
+        },
+        {
+          "ID": 26197138,
+          "Title": "Vastedda"
+        },
+        {
+          "ID": 26296206,
+          "Title": "Sponge cake"
+        },
+        {
+          "ID": 26629971,
+          "Title": "Butterkuchen"
+        },
+        {
+          "ID": 26932762,
+          "Title": "Eggah"
+        },
+        {
+          "ID": 27553279,
+          "Title": "Daktyla"
+        },
+        {
+          "ID": 27745332,
+          "Title": "Kréma"
+        },
+        {
+          "ID": 27814100,
+          "Title": "Angry Birds (video game)"
+        },
+        {
+          "ID": 27876656,
+          "Title": "The Wanted"
+        },
+        {
+          "ID": 27898192,
+          "Title": "PlayStation Underground"
+        },
+        {
+          "ID": 27951283,
+          "Title": "Bruttiboni"
+        },
+        {
+          "ID": 28139506,
+          "Title": "Pecorino Toscano"
+        },
+        {
+          "ID": 28688080,
+          "Title": "Chapalele"
+        },
+        {
+          "ID": 28790036,
+          "Title": "Groundhog Day"
+        },
+        {
+          "ID": 28992135,
+          "Title": "SingStar Dance"
+        },
+        {
+          "ID": 29052659,
+          "Title": "Kaassoufflé"
+        },
+        {
+          "ID": 29342112,
+          "Title": "Dallah (coffee pot)"
+        },
+        {
+          "ID": 29432674,
+          "Title": "Bejeweled 3"
+        },
+        {
+          "ID": 29798065,
+          "Title": "Cappon magro"
+        },
+        {
+          "ID": 29898672,
+          "Title": "Storage Wars"
+        },
+        {
+          "ID": 30308242,
+          "Title": "Bacon soup"
+        },
+        {
+          "ID": 30341289,
+          "Title": "Latik"
+        },
+        {
+          "ID": 30818597,
+          "Title": "Judas (Lady Gaga song)"
+        },
+        {
+          "ID": 30875975,
+          "Title": "Century egg"
+        },
+        {
+          "ID": 31244211,
+          "Title": "Bolo de rolo"
+        },
+        {
+          "ID": 31265448,
+          "Title": "Angry Birds Rio"
+        },
+        {
+          "ID": 31391925,
+          "Title": "Angry Birds Seasons"
+        },
+        {
+          "ID": 32531129,
+          "Title": "Tongseng"
+        },
+        {
+          "ID": 33309782,
+          "Title": "Adobe bread"
+        },
+        {
+          "ID": 33309838,
+          "Title": "Amish preaching soup"
+        },
+        {
+          "ID": 33309845,
+          "Title": "Ammonia cookie"
+        },
+        {
+          "ID": 33445209,
+          "Title": "Suikerbrood"
+        },
+        {
+          "ID": 33503737,
+          "Title": "Brazilian tea culture"
+        },
+        {
+          "ID": 34745227,
+          "Title": "Ozark pudding"
+        },
+        {
+          "ID": 35211682,
+          "Title": "Cacio e pepe"
+        },
+        {
+          "ID": 35311411,
+          "Title": "Redonkadonk"
+        },
+        {
+          "ID": 35472011,
+          "Title": "Hatsune Miku and Future Stars: Project Mirai"
+        },
+        {
+          "ID": 35473309,
+          "Title": "Miku Flick"
+        },
+        {
+          "ID": 35973447,
+          "Title": "Bánh pía"
+        },
+        {
+          "ID": 36017709,
+          "Title": "Bubur ayam"
+        },
+        {
+          "ID": 36041567,
+          "Title": "Oil down"
+        },
+        {
+          "ID": 36132160,
+          "Title": "Colaz"
+        },
+        {
+          "ID": 36208421,
+          "Title": "Tostada (toast)"
+        },
+        {
+          "ID": 37055567,
+          "Title": "Papas chorreadas"
+        },
+        {
+          "ID": 37127074,
+          "Title": "Wine cake"
+        },
+        {
+          "ID": 37322106,
+          "Title": "Jab Tak Hai Jaan"
+        },
+        {
+          "ID": 37698065,
+          "Title": "Thalaivaa"
+        },
+        {
+          "ID": 37739784,
+          "Title": "Nam ngiao"
+        },
+        {
+          "ID": 38263183,
+          "Title": "PK (film)"
+        },
+        {
+          "ID": 38965717,
+          "Title": "Nappage"
+        },
+        {
+          "ID": 39115273,
+          "Title": "Run down"
+        },
+        {
+          "ID": 39228140,
+          "Title": "Mute (soup)"
+        },
+        {
+          "ID": 39359642,
+          "Title": "Trenza"
+        },
+        {
+          "ID": 39360096,
+          "Title": "Caldo gallego"
+        },
+        {
+          "ID": 39826001,
+          "Title": "Floyd Mayweather Jr. vs. Manny Pacquiao"
+        },
+        {
+          "ID": 40549465,
+          "Title": "Icebreaker: A Viking Voyage"
+        },
+        {
+          "ID": 41201483,
+          "Title": "Smoked egg"
+        },
+        {
+          "ID": 41592837,
+          "Title": "Kick (2014 film)"
+        },
+        {
+          "ID": 41675971,
+          "Title": "Copper ale"
+        },
+        {
+          "ID": 41677369,
+          "Title": "List of pork dishes"
+        },
+        {
+          "ID": 41783936,
+          "Title": "Coffee sauce"
+        },
+        {
+          "ID": 41785662,
+          "Title": "Bat as food"
+        },
+        {
+          "ID": 41793249,
+          "Title": "Flappy Bird"
+        },
+        {
+          "ID": 41839006,
+          "Title": "Kaththi"
+        },
+        {
+          "ID": 41959104,
+          "Title": "List of lemonade topics"
+        },
+        {
+          "ID": 42052480,
+          "Title": "Lists of drinks"
+        },
+        {
+          "ID": 42307510,
+          "Title": "Confetti candy"
+        },
+        {
+          "ID": 42569835,
+          "Title": "Walnut and coffee cake"
+        },
+        {
+          "ID": 42688287,
+          "Title": "Coconut ice"
+        },
+        {
+          "ID": 42723701,
+          "Title": "Sandwich cookie"
+        },
+        {
+          "ID": 42729261,
+          "Title": "Fudge cookie"
+        },
+        {
+          "ID": 42759845,
+          "Title": "Mors (drink)"
+        },
+        {
+          "ID": 43710448,
+          "Title": "Crab dip"
+        },
+        {
+          "ID": 43745715,
+          "Title": "Onion gravy"
+        },
+        {
+          "ID": 43746690,
+          "Title": "Rainbow sauce"
+        },
+        {
+          "ID": 43760257,
+          "Title": "Lettuce soup"
+        },
+        {
+          "ID": 43804871,
+          "Title": "Ginestrata"
+        },
+        {
+          "ID": 43821280,
+          "Title": "Cebolada"
+        },
+        {
+          "ID": 43825827,
+          "Title": "Wine sauce"
+        },
+        {
+          "ID": 43911086,
+          "Title": "Ciceri e Tria"
+        },
+        {
+          "ID": 44457824,
+          "Title": "Cuisine of Corsica"
+        },
+        {
+          "ID": 45461920,
+          "Title": "Still Alice (novel)"
+        },
+        {
+          "ID": 45540241,
+          "Title": "War Room (film)"
+        },
+        {
+          "ID": 45677868,
+          "Title": "Pasta con le sarde"
+        },
+        {
+          "ID": 46376482,
+          "Title": "List of plum dishes"
+        },
+        {
+          "ID": 46412833,
+          "Title": "Plum cake"
+        },
+        {
+          "ID": 46743445,
+          "Title": "Paximathia"
+        },
+        {
+          "ID": 46745852,
+          "Title": "Carrot bread"
+        },
+        {
+          "ID": 46826545,
+          "Title": "Charlie Charlie challenge"
+        },
+        {
+          "ID": 46955205,
+          "Title": "Swedish fruit soup"
+        },
+        {
+          "ID": 47430185,
+          "Title": "Dutch letter"
+        },
+        {
+          "ID": 47826163,
+          "Title": "Corn crab soup"
+        },
+        {
+          "ID": 47827574,
+          "Title": "Coconut bar"
+        },
+        {
+          "ID": 47839221,
+          "Title": "Almond biscuit"
+        },
+        {
+          "ID": 47849884,
+          "Title": "Asam pedas"
+        },
+        {
+          "ID": 47862474,
+          "Title": "Kripik"
+        },
+        {
+          "ID": 47951486,
+          "Title": "Applesauce cake"
+        },
+        {
+          "ID": 47993720,
+          "Title": "Kimchi burger"
+        },
+        {
+          "ID": 48552793,
+          "Title": "Indo (apple)"
+        },
+        {
+          "ID": 48625370,
+          "Title": "Bairavaa"
+        },
+        {
+          "ID": 48771504,
+          "Title": "Beer cake"
+        },
+        {
+          "ID": 48792591,
+          "Title": "Corn stew"
+        },
+        {
+          "ID": 48797580,
+          "Title": "Avocado cake"
+        },
+        {
+          "ID": 48977397,
+          "Title": "Fig cake"
+        },
+        {
+          "ID": 49270703,
+          "Title": "Chestnut cake"
+        },
+        {
+          "ID": 49351454,
+          "Title": "Kaabil"
+        },
+        {
+          "ID": 49683385,
+          "Title": "Thong ek"
+        },
+        {
+          "ID": 49770662,
+          "Title": "Dark chocolate"
+        },
+        {
+          "ID": 49778373,
+          "Title": "Eurovision Song Contest 2017"
+        },
+        {
+          "ID": 49961869,
+          "Title": "Bazin (bread)"
+        },
+        {
+          "ID": 50146951,
+          "Title": "Dessert sauce"
+        },
+        {
+          "ID": 50595268,
+          "Title": "Ragù alla salsiccia"
+        },
+        {
+          "ID": 50614090,
+          "Title": "Kyinkyinga"
+        },
+        {
+          "ID": 50632848,
+          "Title": "Crema (dairy product)"
+        },
+        {
+          "ID": 50650158,
+          "Title": "Spuccadella"
+        },
+        {
+          "ID": 50819040,
+          "Title": "Hard soda"
+        },
+        {
+          "ID": 51044207,
+          "Title": "Street food of Indonesia"
+        },
+        {
+          "ID": 51132403,
+          "Title": "Mac n' Cheetos"
+        },
+        {
+          "ID": 51524576,
+          "Title": "List of blue cheeses"
+        },
+        {
+          "ID": 51525974,
+          "Title": "Bissara"
+        },
+        {
+          "ID": 51527683,
+          "Title": "Riz gras"
+        },
+        {
+          "ID": 51703883,
+          "Title": "Kamounia"
+        },
+        {
+          "ID": 51776148,
+          "Title": "Babi kecap"
+        },
+        {
+          "ID": 51781529,
+          "Title": "Sekba"
+        },
+        {
+          "ID": 51930373,
+          "Title": "Malakoff (food)"
+        },
+        {
+          "ID": 52070722,
+          "Title": "Pain de Gênes"
+        },
+        {
+          "ID": 52621913,
+          "Title": "Raisin cake"
+        },
+        {
+          "ID": 52859040,
+          "Title": "Eurovision Song Contest 2018"
+        },
+        {
+          "ID": 53318377,
+          "Title": "Bokkeum-bap"
+        },
+        {
+          "ID": 53487581,
+          "Title": "Banana pasta"
+        }
       ]
     },
     {
@@ -24,11 +1675,84 @@
       "Title": "Geography and places",
       "Abstract": "Geography (Greek Geo (γη) or Gaea (γαία), meaning \"Earth\", and graphein (γράφειν) meaning \"to describe\" or \"to write\") is the study of the earth and its features, inhabitants, and phenomena. A literal translation would be \"to describe or write about the Earth\". The first person to use the word \"geography\" was Eratosthenes (275-195 B.C.). Four historical traditions in geographical research are the spatial analysis of natural and human phenomena (geography as a study of distribution), area studies (places and regions), study of man-land relationship, and research in earth sciences. Nonetheless, modern geography is an all-encompassing discipline that foremost seeks to understand the world and all of its human and natural complexities — not merely where objects are, but how they have changed and come to be. As \"the bridge between the human and physical sciences,\" geography is divided into two main branches — human geography and physical geography",
       "Categories": [
-        693800,
-        705232,
-        1106721,
-        4676118,
-        16703584
+        {
+          "ID": 693800,
+          "Title": "Category:Geography"
+        },
+        {
+          "ID": 705232,
+          "Title": "Category:Urban planning"
+        },
+        {
+          "ID": 1106721,
+          "Title": "Category:Geomorphology"
+        },
+        {
+          "ID": 4676118,
+          "Title": "Category:Geography-related lists"
+        },
+        {
+          "ID": 16703584,
+          "Title": "Category:Places"
+        }
+      ],
+      "Articles": [
+        {
+          "ID": 2714,
+          "Title": "Aberfoyle, Stirling"
+        },
+        {
+          "ID": 19457,
+          "Title": "Myanmar"
+        },
+        {
+          "ID": 22989,
+          "Title": "Paris"
+        },
+        {
+          "ID": 32616,
+          "Title": "Venice"
+        },
+        {
+          "ID": 51983,
+          "Title": "Canberra"
+        },
+        {
+          "ID": 59051,
+          "Title": "Queensland"
+        },
+        {
+          "ID": 125888,
+          "Title": "Carlsbad, New Mexico"
+        },
+        {
+          "ID": 1091934,
+          "Title": "Boundary Street"
+        },
+        {
+          "ID": 4219805,
+          "Title": "Mandalay Hill"
+        },
+        {
+          "ID": 6121363,
+          "Title": "Magnolia Park, Houston"
+        },
+        {
+          "ID": 6130928,
+          "Title": "Arctic Lowlands"
+        },
+        {
+          "ID": 15556691,
+          "Title": "National Cycle Route 73"
+        },
+        {
+          "ID": 22916950,
+          "Title": "Natti Crow Beach"
+        },
+        {
+          "ID": 29503853,
+          "Title": "Sion Hill, U.S. Virgin Islands"
+        }
       ]
     },
     {
@@ -36,14 +1760,56 @@
       "Title": "Health and fitness",
       "Abstract": "Health is the level of functional or metabolic efficiency of a living organism. In humans it is the ability of individuals or communities to adapt and self-manage when facing physical, mental or social challenges. The most widely accepted definition of good health is that of the World Health Organization Constitution. It states: \"health is a state of complete physical, mental and social well-being and is not merely the absence of disease or infirmity\" (World Health Organization, 1946). In more recent years, this statement has been amplified to include the ability to lead a \"socially and economically productive life.\" The WHO definition is not without criticism, mainly that it is much too broad.\n\nThe most solid aspects of wellness that fit firmly in the realm of medicine are environmental health, nutrition, disease prevention, and public health. These matters can be investigated at length and can assist in measuring well-being. Please see our medical disclaimer for cautions about Wikipedia's limitations",
       "Categories": [
-        692348,
-        751381,
-        964864,
-        966814,
-        1006080,
-        1056532,
-        1449968,
-        34742345
+        {
+          "ID": 692348,
+          "Title": "Category:Medicine"
+        },
+        {
+          "ID": 751381,
+          "Title": "Category:Health"
+        },
+        {
+          "ID": 964864,
+          "Title": "Category:Health sciences"
+        },
+        {
+          "ID": 966814,
+          "Title": "Category:Genetic diseases and disorders"
+        },
+        {
+          "ID": 1006080,
+          "Title": "Category:Healthcare occupations"
+        },
+        {
+          "ID": 1056532,
+          "Title": "Category:Hygiene"
+        },
+        {
+          "ID": 1449968,
+          "Title": "Category:Medical specialties"
+        },
+        {
+          "ID": 34742345,
+          "Title": "Category:Self-care"
+        }
+      ],
+      "Articles": [
+        {
+          "ID": 2898990,
+          "Title": "Red Ribbon Week"
+        },
+        {
+          "ID": 35999537,
+          "Title": "Eosinophilic leukemia"
+        },
+        {
+          "ID": 37507782,
+          "Title": "Greasy hair"
+        },
+        {
+          "ID": 37774663,
+          "Title": "Autonomous sensory meridian response"
+        }
       ]
     },
     {
@@ -51,10 +1817,152 @@
       "Title": "History and events",
       "Abstract": "History is the interpretation of past events, societies and civilizations. The term history comes from the Greek historia (ἱστορία), \"an account of one's inquiries,\" and shares that etymology with the English word story as narrative. The 1911 Encyclopædia Britannica stated that \"history in the wider sense is all that has happened, not merely all the phenomena of human life, but those of the natural world as well. It is everything that undergoes change; and as modern science has shown that there is nothing absolutely static, therefore, the whole universe, and every part of it, has its history.\" ",
       "Categories": [
-        693555,
-        1130300,
-        2089871,
-        2766046
+        {
+          "ID": 693555,
+          "Title": "Category:History"
+        },
+        {
+          "ID": 1130300,
+          "Title": "Category:Elections by year"
+        },
+        {
+          "ID": 2089871,
+          "Title": "Category:History by country"
+        },
+        {
+          "ID": 2766046,
+          "Title": "Category:Events"
+        },
+        {
+          "ID": 5384340,
+          "Title": "Category:Observances"
+        }
+      ],
+      "Articles": [
+        {
+          "ID": 30058,
+          "Title": "Trojan War"
+        },
+        {
+          "ID": 37000,
+          "Title": "Palmer Raids"
+        },
+        {
+          "ID": 65651,
+          "Title": "Holocaust denial"
+        },
+        {
+          "ID": 490484,
+          "Title": "Land Ordinance of 1785"
+        },
+        {
+          "ID": 619795,
+          "Title": "History of the periodic table"
+        },
+        {
+          "ID": 1146973,
+          "Title": "Patriot (American Revolution)"
+        },
+        {
+          "ID": 1203727,
+          "Title": "History of transport"
+        },
+        {
+          "ID": 1331554,
+          "Title": "Plains Indians"
+        },
+        {
+          "ID": 1681631,
+          "Title": "Bappir"
+        },
+        {
+          "ID": 1910238,
+          "Title": "Nixon v. United States"
+        },
+        {
+          "ID": 2237689,
+          "Title": "Immigration Restriction Act 1901"
+        },
+        {
+          "ID": 2435657,
+          "Title": "History of West Africa"
+        },
+        {
+          "ID": 2752651,
+          "Title": "History of measurement"
+        },
+        {
+          "ID": 2937625,
+          "Title": "Counting coup"
+        },
+        {
+          "ID": 3276555,
+          "Title": "History of communication"
+        },
+        {
+          "ID": 5058690,
+          "Title": "September 11 attacks"
+        },
+        {
+          "ID": 6975043,
+          "Title": "Killing of Harambe"
+        },
+        {
+          "ID": 8716691,
+          "Title": "George Washington in the American Revolution"
+        },
+        {
+          "ID": 16394033,
+          "Title": "Early life and career of Barack Obama"
+        },
+        {
+          "ID": 20102947,
+          "Title": "2012 United States presidential election"
+        },
+        {
+          "ID": 23867015,
+          "Title": "Trollope \u0026 Colls"
+        },
+        {
+          "ID": 27046954,
+          "Title": "Deepwater Horizon oil spill"
+        },
+        {
+          "ID": 31150160,
+          "Title": "2011 Tōhoku earthquake and tsunami"
+        },
+        {
+          "ID": 36488815,
+          "Title": "2012 Aurora shooting"
+        },
+        {
+          "ID": 38323631,
+          "Title": "Northgate (company)"
+        },
+        {
+          "ID": 39542053,
+          "Title": "Efforts to impeach Barack Obama"
+        },
+        {
+          "ID": 44582614,
+          "Title": "Bernie Sanders 2016 presidential campaign"
+        },
+        {
+          "ID": 46979246,
+          "Title": "Donald Trump 2016 presidential campaign"
+        },
+        {
+          "ID": 50787160,
+          "Title": "Orlando nightclub shooting"
+        },
+        {
+          "ID": 52547512,
+          "Title": "Russian interference in the 2016 United States elections"
+        },
+        {
+          "ID": 53082383,
+          "Title": "Provincial Rights Party (Manitoba)"
+        }
       ]
     },
     {
@@ -62,14 +1970,48 @@
       "Title": "Mathematics and logic",
       "Abstract": "Mathematics is the science of quantization. It is also the study of patterns and relationships, including concepts such as quantity, structure, space, uncertainty, and change. It evolved through the use of abstraction and logical reasoning, from counting, calculation, measurement, and the systematic study of positions, shapes and motions of physical objects. Mathematicians explore such concepts, aiming to formulate new conjectures and establish their truth by rigorous deduction from appropriately chosen axioms and definitions.\n\nLogic (from Classical Greek λόγος logos; meaning word, thought, idea, argument, account, reason or principle) is the study of the principles and criteria of valid inference and demonstration. As a formal science, logic investigates and classifies the structure of statements and arguments, both through the study of formal systems of inference and through the study of arguments in natural language. The field of logic ranges from core topics such as the study of fallacies and paradoxes, to specialized analysis of reasoning using probability and to arguments involving causality. Logic is also commonly used today in argumentation theory. Since the mid-nineteenth century formal logic has been studied in the context of the foundations of mathematics",
       "Categories": [
-        690747,
-        693678,
-        693986,
-        694008,
-        966983,
-        990361,
-        27248985,
-        33734763
+        {
+          "ID": 690747,
+          "Title": "Category:Mathematics"
+        },
+        {
+          "ID": 693678,
+          "Title": "Category:Logic"
+        },
+        {
+          "ID": 693986,
+          "Title": "Category:Probability and statistics"
+        },
+        {
+          "ID": 694008,
+          "Title": "Category:Statistics"
+        },
+        {
+          "ID": 966983,
+          "Title": "Category:Applied mathematics"
+        },
+        {
+          "ID": 990361,
+          "Title": "Category:Theoretical computer science"
+        },
+        {
+          "ID": 27248985,
+          "Title": "Category:Mathematical concepts"
+        },
+        {
+          "ID": 33734763,
+          "Title": "Category:Fields of mathematics"
+        }
+      ],
+      "Articles": [
+        {
+          "ID": 18542,
+          "Title": "Length"
+        },
+        {
+          "ID": 25988125,
+          "Title": "First-order"
+        }
       ]
     },
     {
@@ -77,17 +2019,420 @@
       "Title": "Nature and physical sciences",
       "Abstract": "The term nature is derived from the Latin word natura, or \"essential qualities, innate disposition\". Natura is a Latin translation of the Greek word physis (φύσις), which originally related to the intrinsic characteristics that plants, animals, and other features of the world develop of their own accord. The concept of nature as a whole, all matter and energy in the universe, is one of several expansions of the original notion.\n\nPhysical science is an encompassing term for the branches of natural science, and science, that study non-living systems, in contrast to the biological sciences. However, the term \"physical\" creates an involuntary, somewhat arbitrary distinction, since many branches of physical science also study biological phenomena",
       "Categories": [
-        691182,
-        691185,
-        692318,
-        694590,
-        695235,
-        696603,
-        697022,
-        745842,
-        1645754,
-        2106893,
-        5200572
+        {
+          "ID": 691182,
+          "Title": "Category:Science"
+        },
+        {
+          "ID": 691185,
+          "Title": "Category:Chemistry"
+        },
+        {
+          "ID": 692318,
+          "Title": "Category:Physics"
+        },
+        {
+          "ID": 694590,
+          "Title": "Category:Zoology"
+        },
+        {
+          "ID": 695235,
+          "Title": "Category:Chemical compounds"
+        },
+        {
+          "ID": 696603,
+          "Title": "Category:Nature"
+        },
+        {
+          "ID": 697022,
+          "Title": "Category:Natural sciences"
+        },
+        {
+          "ID": 745842,
+          "Title": "Category:Disasters"
+        },
+        {
+          "ID": 1645754,
+          "Title": "Category:Environmental science"
+        },
+        {
+          "ID": 2106893,
+          "Title": "Category:Physical sciences"
+        },
+        {
+          "ID": 5200572,
+          "Title": "Category:Fauna by continent"
+        }
+      ],
+      "Articles": [
+        {
+          "ID": 809,
+          "Title": "Anaconda"
+        },
+        {
+          "ID": 6598,
+          "Title": "Camel"
+        },
+        {
+          "ID": 11145,
+          "Title": "Fire"
+        },
+        {
+          "ID": 20501,
+          "Title": "Moose"
+        },
+        {
+          "ID": 36858,
+          "Title": "Wheat"
+        },
+        {
+          "ID": 36979,
+          "Title": "Rice"
+        },
+        {
+          "ID": 53292,
+          "Title": "Coca"
+        },
+        {
+          "ID": 56315,
+          "Title": "Mango"
+        },
+        {
+          "ID": 56887,
+          "Title": "Pineapple"
+        },
+        {
+          "ID": 67193,
+          "Title": "Testicle"
+        },
+        {
+          "ID": 147476,
+          "Title": "Maya calendar"
+        },
+        {
+          "ID": 152964,
+          "Title": "Motor neuron"
+        },
+        {
+          "ID": 159748,
+          "Title": "Muscular system"
+        },
+        {
+          "ID": 164331,
+          "Title": "Cauliflower"
+        },
+        {
+          "ID": 165456,
+          "Title": "Big cat"
+        },
+        {
+          "ID": 165927,
+          "Title": "Flamingo"
+        },
+        {
+          "ID": 169720,
+          "Title": "Melon"
+        },
+        {
+          "ID": 183983,
+          "Title": "Corymbia ficifolia"
+        },
+        {
+          "ID": 200167,
+          "Title": "Water cycle"
+        },
+        {
+          "ID": 205723,
+          "Title": "Painted-snipe"
+        },
+        {
+          "ID": 210015,
+          "Title": "Glutinous rice"
+        },
+        {
+          "ID": 213407,
+          "Title": "Jay"
+        },
+        {
+          "ID": 223034,
+          "Title": "Booby"
+        },
+        {
+          "ID": 227478,
+          "Title": "Germination"
+        },
+        {
+          "ID": 261456,
+          "Title": "Lime (fruit)"
+        },
+        {
+          "ID": 270381,
+          "Title": "Red hair"
+        },
+        {
+          "ID": 276083,
+          "Title": "Wolf spider"
+        },
+        {
+          "ID": 286987,
+          "Title": "Stint"
+        },
+        {
+          "ID": 320635,
+          "Title": "Pollenizer"
+        },
+        {
+          "ID": 321709,
+          "Title": "Phelsuma pusilla hallmanni"
+        },
+        {
+          "ID": 341201,
+          "Title": "Glaphyromorphus"
+        },
+        {
+          "ID": 341207,
+          "Title": "Haackgreerius"
+        },
+        {
+          "ID": 347835,
+          "Title": "Ophisaurus"
+        },
+        {
+          "ID": 354618,
+          "Title": "Suspension (chemistry)"
+        },
+        {
+          "ID": 390441,
+          "Title": "Lemon meringue pie"
+        },
+        {
+          "ID": 405803,
+          "Title": "Complementary colors"
+        },
+        {
+          "ID": 435295,
+          "Title": "Cocker Spaniel"
+        },
+        {
+          "ID": 439128,
+          "Title": "Spring peeper"
+        },
+        {
+          "ID": 502235,
+          "Title": "Magnolia liliiflora"
+        },
+        {
+          "ID": 551920,
+          "Title": "Spider monkey"
+        },
+        {
+          "ID": 653348,
+          "Title": "Human musculoskeletal system"
+        },
+        {
+          "ID": 799720,
+          "Title": "Atlantic mackerel"
+        },
+        {
+          "ID": 1227579,
+          "Title": "Nigerian Dwarf goat"
+        },
+        {
+          "ID": 1251593,
+          "Title": "Pinus kesiya"
+        },
+        {
+          "ID": 1438776,
+          "Title": "Mantle (mollusc)"
+        },
+        {
+          "ID": 1465854,
+          "Title": "Key deer"
+        },
+        {
+          "ID": 1486044,
+          "Title": "Cow dung"
+        },
+        {
+          "ID": 1511315,
+          "Title": "Picea engelmannii"
+        },
+        {
+          "ID": 1687359,
+          "Title": "Primary succession"
+        },
+        {
+          "ID": 2343153,
+          "Title": "Osmunda claytoniana"
+        },
+        {
+          "ID": 2455842,
+          "Title": "Strawberry"
+        },
+        {
+          "ID": 2456791,
+          "Title": "Fragaria × vescana"
+        },
+        {
+          "ID": 2481476,
+          "Title": "Rice hulls"
+        },
+        {
+          "ID": 2899565,
+          "Title": "Cherry tomato"
+        },
+        {
+          "ID": 2973619,
+          "Title": "Hadass"
+        },
+        {
+          "ID": 3087265,
+          "Title": "Juniperus thurifera"
+        },
+        {
+          "ID": 3938382,
+          "Title": "Urine"
+        },
+        {
+          "ID": 4321729,
+          "Title": "Orange clingfish"
+        },
+        {
+          "ID": 4984440,
+          "Title": "Orange (fruit)"
+        },
+        {
+          "ID": 6175075,
+          "Title": "Potato leaf"
+        },
+        {
+          "ID": 6281986,
+          "Title": "Bucking"
+        },
+        {
+          "ID": 6480525,
+          "Title": "Cork tree"
+        },
+        {
+          "ID": 6882090,
+          "Title": "Insect migration"
+        },
+        {
+          "ID": 7596506,
+          "Title": "Ponderosa lemon"
+        },
+        {
+          "ID": 7780536,
+          "Title": "White tiger"
+        },
+        {
+          "ID": 8680788,
+          "Title": "Snowburst"
+        },
+        {
+          "ID": 9843825,
+          "Title": "Star lily"
+        },
+        {
+          "ID": 11415141,
+          "Title": "Masturbation"
+        },
+        {
+          "ID": 12117603,
+          "Title": "Causes of landslides"
+        },
+        {
+          "ID": 12328634,
+          "Title": "Highbush cranberry"
+        },
+        {
+          "ID": 13564973,
+          "Title": "Cephalopod limb"
+        },
+        {
+          "ID": 13577942,
+          "Title": "Caspian tit"
+        },
+        {
+          "ID": 15444805,
+          "Title": "Citrus × sinensis"
+        },
+        {
+          "ID": 16234880,
+          "Title": "Tree frog"
+        },
+        {
+          "ID": 17322701,
+          "Title": "Penis"
+        },
+        {
+          "ID": 20656228,
+          "Title": "Maize"
+        },
+        {
+          "ID": 21299730,
+          "Title": "Lemon"
+        },
+        {
+          "ID": 22934907,
+          "Title": "Jewel orchid"
+        },
+        {
+          "ID": 23278767,
+          "Title": "Snakeroot"
+        },
+        {
+          "ID": 32077676,
+          "Title": "Food chain"
+        },
+        {
+          "ID": 36047895,
+          "Title": "Yew"
+        },
+        {
+          "ID": 36755513,
+          "Title": "Elymus farctus"
+        },
+        {
+          "ID": 37799672,
+          "Title": "Origanum onites"
+        },
+        {
+          "ID": 41732656,
+          "Title": "List of plants known as sour cherry"
+        },
+        {
+          "ID": 42753823,
+          "Title": "Earthquake environmental effects"
+        },
+        {
+          "ID": 45353683,
+          "Title": "Mother of thousands (disambiguation)"
+        },
+        {
+          "ID": 45372257,
+          "Title": "Geoxyle"
+        },
+        {
+          "ID": 47179029,
+          "Title": "Byrsonima lucida"
+        },
+        {
+          "ID": 48259302,
+          "Title": "Hewe's Crab"
+        },
+        {
+          "ID": 49018398,
+          "Title": "Cow's trotters"
+        },
+        {
+          "ID": 49410576,
+          "Title": "Microprocessor complex"
+        },
+        {
+          "ID": 50966243,
+          "Title": "Nettle tree"
+        }
       ]
     },
     {
@@ -95,13 +2440,300 @@
       "Title": "People and self",
       "Abstract": "A collection of people often refers to a general group, such as all humans, an ethnic group or a nation. An individual person is the self, from his or her own perspective. To you, \"self\" is you. To someone else, \"self\" is that person. A biography is a genre of literature or film, which presents a relatively full account of the most interesting and important events of a notable person's life.\n\nLife or personal life or human existence is an individual human's personal, private experience of living (including their employment career, their family life, and other elements). In prehistoric times, life and existence was based on survival. There was little privacy and a person was identified by their role in the group. In modern times, many people have even come to think of their personal lives as if they are separate from their work. This segmentation of \"life areas\" is evident in such phrases as \"work life\", \"home life\", and \"sex life.\" The meaning or role of a person's \"life\" or \"human existence\" is discussed in many religions and philosophies. In Western industrialized countries, there are a variety of service industries that help people improve their personal lives, such as counselling and life coaching companies",
       "Categories": [
-        691008,
-        911285,
-        972130,
-        1017749,
-        1055905,
-        1891545,
-        5384340
+        {
+          "ID": 691008,
+          "Title": "Category:People"
+        },
+        {
+          "ID": 911285,
+          "Title": "Category:Surnames"
+        },
+        {
+          "ID": 972130,
+          "Title": "Category:Artists by medium"
+        },
+        {
+          "ID": 1017749,
+          "Title": "Category:Personal life"
+        },
+        {
+          "ID": 1055905,
+          "Title": "Category:Self"
+        },
+        {
+          "ID": 1891545,
+          "Title": "Category:Film characters"
+        }
+      ],
+      "Articles": [
+        {
+          "ID": 339,
+          "Title": "Ayn Rand"
+        },
+        {
+          "ID": 1208,
+          "Title": "Alan Turing"
+        },
+        {
+          "ID": 1814,
+          "Title": "Adam Smith"
+        },
+        {
+          "ID": 1937,
+          "Title": "Alexander Fleming"
+        },
+        {
+          "ID": 3747,
+          "Title": "Bill Gates"
+        },
+        {
+          "ID": 5635,
+          "Title": "Christopher Columbus"
+        },
+        {
+          "ID": 5698,
+          "Title": "Charles Babbage"
+        },
+        {
+          "ID": 6125,
+          "Title": "Carl Friedrich Gauss"
+        },
+        {
+          "ID": 6824,
+          "Title": "Carl Sagan"
+        },
+        {
+          "ID": 12731,
+          "Title": "George Harrison"
+        },
+        {
+          "ID": 15362,
+          "Title": "Irving Langmuir"
+        },
+        {
+          "ID": 15736,
+          "Title": "Johannes Kepler"
+        },
+        {
+          "ID": 15852,
+          "Title": "John Lennon"
+        },
+        {
+          "ID": 16790,
+          "Title": "Carl Friedrich Abel"
+        },
+        {
+          "ID": 17949,
+          "Title": "Fibonacci"
+        },
+        {
+          "ID": 21566,
+          "Title": "Noam Chomsky"
+        },
+        {
+          "ID": 22413,
+          "Title": "Oliver Cromwell"
+        },
+        {
+          "ID": 25452,
+          "Title": "Richard Wagner"
+        },
+        {
+          "ID": 25525,
+          "Title": "René Descartes"
+        },
+        {
+          "ID": 25867,
+          "Title": "Richard Dawkins"
+        },
+        {
+          "ID": 26416,
+          "Title": "Ring Lardner"
+        },
+        {
+          "ID": 26743,
+          "Title": "Sigmund Freud"
+        },
+        {
+          "ID": 33175,
+          "Title": "William Blake"
+        },
+        {
+          "ID": 33592,
+          "Title": "Wilson Flagg"
+        },
+        {
+          "ID": 47717,
+          "Title": "Srinivasa Ramanujan"
+        },
+        {
+          "ID": 53395,
+          "Title": "Harry Houdini"
+        },
+        {
+          "ID": 63075,
+          "Title": "Chaim Soutine"
+        },
+        {
+          "ID": 80789,
+          "Title": "Francis Marion"
+        },
+        {
+          "ID": 100127,
+          "Title": "Florence Nightingale"
+        },
+        {
+          "ID": 153295,
+          "Title": "Daniel Radcliffe"
+        },
+        {
+          "ID": 161013,
+          "Title": "Johnny Appleseed"
+        },
+        {
+          "ID": 301816,
+          "Title": "Henry Parkes"
+        },
+        {
+          "ID": 435355,
+          "Title": "Meadowlark Lemon"
+        },
+        {
+          "ID": 578152,
+          "Title": "Big Show"
+        },
+        {
+          "ID": 1032619,
+          "Title": "Theodor Schwann"
+        },
+        {
+          "ID": 1515846,
+          "Title": "Daniel Hale Williams"
+        },
+        {
+          "ID": 1641514,
+          "Title": "Stefan Lochner"
+        },
+        {
+          "ID": 2119472,
+          "Title": "Axel Anderberg"
+        },
+        {
+          "ID": 2500271,
+          "Title": "Ted Cruz"
+        },
+        {
+          "ID": 2668132,
+          "Title": "Battenberg cake"
+        },
+        {
+          "ID": 2731583,
+          "Title": "Adolf Hitler"
+        },
+        {
+          "ID": 3287845,
+          "Title": "Janet Margolin"
+        },
+        {
+          "ID": 3387233,
+          "Title": "List of Yeshiva University people"
+        },
+        {
+          "ID": 4517471,
+          "Title": "Olive Ann Burns"
+        },
+        {
+          "ID": 5052197,
+          "Title": "Elton John"
+        },
+        {
+          "ID": 6064346,
+          "Title": "Cory Monteith"
+        },
+        {
+          "ID": 10467799,
+          "Title": "Jacob Black"
+        },
+        {
+          "ID": 13794509,
+          "Title": "Nick Estcourt"
+        },
+        {
+          "ID": 14704552,
+          "Title": "Evan"
+        },
+        {
+          "ID": 16281523,
+          "Title": "Myra Kraft"
+        },
+        {
+          "ID": 19606216,
+          "Title": "Sheldon Cooper"
+        },
+        {
+          "ID": 20175252,
+          "Title": "Jack Devlin (Australian politician)"
+        },
+        {
+          "ID": 21490957,
+          "Title": "Thomas Aquinas"
+        },
+        {
+          "ID": 22537892,
+          "Title": "Norah McClintock"
+        },
+        {
+          "ID": 23487351,
+          "Title": "Bit Meddler"
+        },
+        {
+          "ID": 23890522,
+          "Title": "John Field (dancer)"
+        },
+        {
+          "ID": 24567107,
+          "Title": "John Murton"
+        },
+        {
+          "ID": 24664082,
+          "Title": "Mick Burke (mountaineer)"
+        },
+        {
+          "ID": 26586083,
+          "Title": "Lewis Carroll"
+        },
+        {
+          "ID": 27080142,
+          "Title": "Ethel Sylvia Wilson"
+        },
+        {
+          "ID": 29688374,
+          "Title": "Galileo Galilei"
+        },
+        {
+          "ID": 32387701,
+          "Title": "Joseph Smith"
+        },
+        {
+          "ID": 32501324,
+          "Title": "Anders Behring Breivik"
+        },
+        {
+          "ID": 40199886,
+          "Title": "List of most-subscribed YouTube channels"
+        },
+        {
+          "ID": 48583314,
+          "Title": "Dorothy Vaughan"
+        },
+        {
+          "ID": 50436882,
+          "Title": "Bob Ross"
+        },
+        {
+          "ID": 52717428,
+          "Title": "Gilles Borrie"
+        }
       ]
     },
     {
@@ -109,13 +2741,64 @@
       "Title": "Philosophy and thinking",
       "Abstract": "Philosophy has almost as many definitions as there have been philosophers, both as a subject matter and an activity, and no simple definition can do it justice. The issue of the definition of philosophy is thus a controversial subject that is nowadays tackled by Metaphilosophy (or the philosophy of philosophy). The word is derived from the ancient Greek words philo-, to love or to befriend, and -sophia, wisdom. Modern usage of the term is much broader; the concept of philosophy encompasses all of knowledge and all that can be known, including the means by which such knowledge can be acquired. However, in the contemporary English-speaking academic world, the term is often used implicitly to refer to analytic philosophy and, in non-English speaking countries, it often refers implicitly to a different, European strain, continental philosophy. The ancient Greeks organized the subject into five basic categories: metaphysics, epistemology, ethics, politics and aesthetics. This organization of the subject is still largely in use in Western philosophy today.\n\nThought or thinking is a mental process which allows beings to model the world, and so to deal with it effectively according to their goals, plans, ends and desires. Words referring to similar concepts and processes in the English language include cognition, sentience, consciousness, idea, and imagination. Thinking involves the cerebral manipulation of information, as when we form concepts, engage in problem solving, reason and make decisions. Thinking is a higher cognitive function and the analysis of thinking processes is part of cognitive psychology",
       "Categories": [
-        691802,
-        691810,
-        983652,
-        1052752,
-        2649129,
-        2764307,
-        6822085
+        {
+          "ID": 691802,
+          "Title": "Category:Ethics"
+        },
+        {
+          "ID": 691810,
+          "Title": "Category:Philosophy"
+        },
+        {
+          "ID": 983652,
+          "Title": "Category:Thought"
+        },
+        {
+          "ID": 1052752,
+          "Title": "Category:Branches of philosophy"
+        },
+        {
+          "ID": 2649129,
+          "Title": "Category:Philosophical theories"
+        },
+        {
+          "ID": 2764307,
+          "Title": "Category:Philosophical schools and traditions"
+        },
+        {
+          "ID": 6822085,
+          "Title": "Category:Ideologies"
+        }
+      ],
+      "Articles": [
+        {
+          "ID": 4431,
+          "Title": "Beauty"
+        },
+        {
+          "ID": 58617,
+          "Title": "Fact"
+        },
+        {
+          "ID": 169409,
+          "Title": "Happiness"
+        },
+        {
+          "ID": 2288777,
+          "Title": "Dunning–Kruger effect"
+        },
+        {
+          "ID": 2484315,
+          "Title": "Gaslighting"
+        },
+        {
+          "ID": 2973525,
+          "Title": "Confidence"
+        },
+        {
+          "ID": 7154403,
+          "Title": "Persuasive writing"
+        }
       ]
     },
     {
@@ -123,17 +2806,68 @@
       "Title": "Religion and belief systems",
       "Abstract": "Religion is the adherence to codified beliefs and rituals that generally involve a faith in a spiritual nature and a study of inherited ancestral traditions, knowledge and wisdom related to understanding human life. The term \"religion\" refers to both the personal practices related to faith as well as to the larger shared systems of belief.\n\nA belief system can refer to a religion or a world view. A world view (or worldview) is a term calqued from the German word Weltanschauung Welt is the German word for 'world,' and Anschauung is the German word for 'view' or 'outlook'. It is a concept fundamental to German philosophy and epistemology and refers to a wide world perception. Additionally, it refers to the framework of ideas and beliefs through which an individual interprets the world and interacts in it",
       "Categories": [
-        691723,
-        692694,
-        956054,
-        1188185,
-        2649129,
-        6124149,
-        7129051,
-        7581857,
-        9549771,
-        11547492,
-        16960409
+        {
+          "ID": 691723,
+          "Title": "Category:Mythology"
+        },
+        {
+          "ID": 692694,
+          "Title": "Category:Religion"
+        },
+        {
+          "ID": 956054,
+          "Title": "Category:Belief"
+        },
+        {
+          "ID": 1188185,
+          "Title": "Category:Religious faiths, traditions, and movements"
+        },
+        {
+          "ID": 2649129,
+          "Title": "Category:Philosophical theories"
+        },
+        {
+          "ID": 6124149,
+          "Title": "Category:Criticism of religion"
+        },
+        {
+          "ID": 7129051,
+          "Title": "Category:Religious controversies"
+        },
+        {
+          "ID": 7581857,
+          "Title": "Category:Nontheism"
+        },
+        {
+          "ID": 9549771,
+          "Title": "Category:Anthropology of religion"
+        },
+        {
+          "ID": 11547492,
+          "Title": "Category:Secularism"
+        },
+        {
+          "ID": 16960409,
+          "Title": "Category:Indian religions"
+        }
+      ],
+      "Articles": [
+        {
+          "ID": 231059,
+          "Title": "Gluttony"
+        },
+        {
+          "ID": 20206700,
+          "Title": "Lists of demons"
+        },
+        {
+          "ID": 31018336,
+          "Title": "Sts. Constantine and Helen Serbian Orthodox Church"
+        },
+        {
+          "ID": 48861928,
+          "Title": "St Andrew's, Croydon"
+        }
       ]
     },
     {
@@ -141,11 +2875,1388 @@
       "Title": "Society and social sciences",
       "Abstract": "A society is a group of people who form a semi-closed system. At its simplest, the term society refers to a large group of people sharing their own culture and institutions. A society is a network of relationships between people. The English word society is derived from the French société, which had its origin in the Latin societas, a \"friendly association with others,\" from socius meaning \"companion, associate, comrade or business partner.\" Thus, the meaning of society is closely related to what is considered to be social. Implicit in the meaning of society is that its members may share some mutual concern or interest, a common objective or common characteristics. The social sciences generally use the term society to mean a group of people who form a semi-closed social system, in which most interactions are with other individuals belonging to the group. More abstractly, a society is defined as a network of relationships between social entities. A society is also sometimes defined as an interdependent community, but the sociologist Tönnies sought to draw a contrast between society and community. An important feature of society is social structure, aspects of which include roles and social ranking.\n\nThe social science are a group of academic disciplines that study human aspects of the world. They differ from the arts and the humanities, in that the social science tend to emphasize the use of the scientific method in the study of humanity, including quantitative and qualitative methods",
       "Categories": [
-        695042,
-        696873,
-        701235,
-        908424,
-        1633936
+        {
+          "ID": 695042,
+          "Title": "Category:Social sciences"
+        },
+        {
+          "ID": 696873,
+          "Title": "Category:International organizations"
+        },
+        {
+          "ID": 701235,
+          "Title": "Category:Feminism"
+        },
+        {
+          "ID": 908424,
+          "Title": "Category:Rights"
+        },
+        {
+          "ID": 1633936,
+          "Title": "Category:Society"
+        }
+      ],
+      "Articles": [
+        {
+          "ID": 2236,
+          "Title": "Acadia University"
+        },
+        {
+          "ID": 2386,
+          "Title": "American Airlines"
+        },
+        {
+          "ID": 5493,
+          "Title": "Politics of Chile"
+        },
+        {
+          "ID": 6310,
+          "Title": "Columbia University"
+        },
+        {
+          "ID": 7541,
+          "Title": "City University of New York"
+        },
+        {
+          "ID": 9317,
+          "Title": "European Union"
+        },
+        {
+          "ID": 11121,
+          "Title": "Fox News"
+        },
+        {
+          "ID": 12218,
+          "Title": "University of Gothenburg"
+        },
+        {
+          "ID": 16542,
+          "Title": "Jadavpur University"
+        },
+        {
+          "ID": 18879,
+          "Title": "Massachusetts Institute of Technology"
+        },
+        {
+          "ID": 19279,
+          "Title": "Mongolian Armed Forces"
+        },
+        {
+          "ID": 20379,
+          "Title": "Micronation"
+        },
+        {
+          "ID": 22217,
+          "Title": "Ohio State University"
+        },
+        {
+          "ID": 23922,
+          "Title": "Princeton University"
+        },
+        {
+          "ID": 24856,
+          "Title": "Prohibition"
+        },
+        {
+          "ID": 25813,
+          "Title": "Rice University"
+        },
+        {
+          "ID": 26977,
+          "Title": "Stanford University"
+        },
+        {
+          "ID": 27157,
+          "Title": "Stockholm University"
+        },
+        {
+          "ID": 30680,
+          "Title": "The New York Times"
+        },
+        {
+          "ID": 31656,
+          "Title": "Fourth Amendment to the United States Constitution"
+        },
+        {
+          "ID": 31740,
+          "Title": "University of Michigan"
+        },
+        {
+          "ID": 31776,
+          "Title": "University of Washington"
+        },
+        {
+          "ID": 31793,
+          "Title": "University of Pennsylvania"
+        },
+        {
+          "ID": 31797,
+          "Title": "University of Oxford"
+        },
+        {
+          "ID": 31798,
+          "Title": "Umeå University"
+        },
+        {
+          "ID": 31801,
+          "Title": "Uppsala University"
+        },
+        {
+          "ID": 31928,
+          "Title": "University of Sydney"
+        },
+        {
+          "ID": 32005,
+          "Title": "University of Southern California"
+        },
+        {
+          "ID": 32015,
+          "Title": "University of Arizona"
+        },
+        {
+          "ID": 32031,
+          "Title": "University of Texas at Austin"
+        },
+        {
+          "ID": 32045,
+          "Title": "University of Sussex"
+        },
+        {
+          "ID": 32098,
+          "Title": "University of Victoria"
+        },
+        {
+          "ID": 32099,
+          "Title": "University of Manitoba"
+        },
+        {
+          "ID": 32127,
+          "Title": "University of Chicago"
+        },
+        {
+          "ID": 32178,
+          "Title": "United Nations Environment Programme"
+        },
+        {
+          "ID": 32242,
+          "Title": "University of Canterbury"
+        },
+        {
+          "ID": 37561,
+          "Title": "Pizza Hut"
+        },
+        {
+          "ID": 37563,
+          "Title": "Taco Bell"
+        },
+        {
+          "ID": 39569,
+          "Title": "University of Glasgow"
+        },
+        {
+          "ID": 42754,
+          "Title": "University of Cologne"
+        },
+        {
+          "ID": 47548,
+          "Title": "Daylight saving time"
+        },
+        {
+          "ID": 53049,
+          "Title": "University of Vienna"
+        },
+        {
+          "ID": 58920,
+          "Title": "Washington University in St. Louis"
+        },
+        {
+          "ID": 59801,
+          "Title": "University of Virginia"
+        },
+        {
+          "ID": 60919,
+          "Title": "University of London"
+        },
+        {
+          "ID": 60991,
+          "Title": "University of Bristol"
+        },
+        {
+          "ID": 61114,
+          "Title": "Boston University"
+        },
+        {
+          "ID": 61115,
+          "Title": "University of Warwick"
+        },
+        {
+          "ID": 61116,
+          "Title": "Imperial College London"
+        },
+        {
+          "ID": 64704,
+          "Title": "Economy of Iran"
+        },
+        {
+          "ID": 65307,
+          "Title": "World War III"
+        },
+        {
+          "ID": 65542,
+          "Title": "University of Mississippi"
+        },
+        {
+          "ID": 68939,
+          "Title": "Economy of Barbados"
+        },
+        {
+          "ID": 70667,
+          "Title": "National Archives and Records Administration"
+        },
+        {
+          "ID": 72595,
+          "Title": "Tsinghua University"
+        },
+        {
+          "ID": 73276,
+          "Title": "University of Waterloo"
+        },
+        {
+          "ID": 80734,
+          "Title": "American University"
+        },
+        {
+          "ID": 83266,
+          "Title": "University of Manchester"
+        },
+        {
+          "ID": 84692,
+          "Title": "University of Paris"
+        },
+        {
+          "ID": 89061,
+          "Title": "University of Bonn"
+        },
+        {
+          "ID": 89668,
+          "Title": "University of Calgary"
+        },
+        {
+          "ID": 98078,
+          "Title": "University of Southampton"
+        },
+        {
+          "ID": 98089,
+          "Title": "University of Otago"
+        },
+        {
+          "ID": 146717,
+          "Title": "Social work"
+        },
+        {
+          "ID": 153992,
+          "Title": "University of Bath"
+        },
+        {
+          "ID": 156512,
+          "Title": "University of Liverpool"
+        },
+        {
+          "ID": 158464,
+          "Title": "Open University"
+        },
+        {
+          "ID": 159999,
+          "Title": "University of Tehran"
+        },
+        {
+          "ID": 165380,
+          "Title": "Tulane University"
+        },
+        {
+          "ID": 165529,
+          "Title": "Linköping University"
+        },
+        {
+          "ID": 166215,
+          "Title": "University of Tokyo"
+        },
+        {
+          "ID": 167774,
+          "Title": "University of Surrey"
+        },
+        {
+          "ID": 169136,
+          "Title": "University of Western Ontario"
+        },
+        {
+          "ID": 172246,
+          "Title": "University of Münster"
+        },
+        {
+          "ID": 176750,
+          "Title": "Illinois State University"
+        },
+        {
+          "ID": 178771,
+          "Title": "Starbucks"
+        },
+        {
+          "ID": 180763,
+          "Title": "University of Göttingen"
+        },
+        {
+          "ID": 181348,
+          "Title": "University of St Andrews"
+        },
+        {
+          "ID": 191584,
+          "Title": "La Trobe University"
+        },
+        {
+          "ID": 192819,
+          "Title": "University of Queensland"
+        },
+        {
+          "ID": 196029,
+          "Title": "Seoul National University"
+        },
+        {
+          "ID": 196911,
+          "Title": "University of Leeds"
+        },
+        {
+          "ID": 197027,
+          "Title": "University of East Anglia"
+        },
+        {
+          "ID": 205868,
+          "Title": "University of Kent"
+        },
+        {
+          "ID": 209935,
+          "Title": "University of Birmingham"
+        },
+        {
+          "ID": 213135,
+          "Title": "University of Aberdeen"
+        },
+        {
+          "ID": 216932,
+          "Title": "University college"
+        },
+        {
+          "ID": 218052,
+          "Title": "University of Tartu"
+        },
+        {
+          "ID": 226804,
+          "Title": "The Times of India"
+        },
+        {
+          "ID": 229168,
+          "Title": "Hebrew University of Jerusalem"
+        },
+        {
+          "ID": 231988,
+          "Title": "MIT Sloan School of Management"
+        },
+        {
+          "ID": 241119,
+          "Title": "University of Iowa"
+        },
+        {
+          "ID": 242746,
+          "Title": "University of Texas System"
+        },
+        {
+          "ID": 262301,
+          "Title": "University of Tübingen"
+        },
+        {
+          "ID": 263329,
+          "Title": "University of Bologna"
+        },
+        {
+          "ID": 264573,
+          "Title": "University of Oregon"
+        },
+        {
+          "ID": 267686,
+          "Title": "University of Saskatchewan"
+        },
+        {
+          "ID": 277456,
+          "Title": "University of Auckland"
+        },
+        {
+          "ID": 285106,
+          "Title": "Australian National University"
+        },
+        {
+          "ID": 286853,
+          "Title": "University of Malaya"
+        },
+        {
+          "ID": 292242,
+          "Title": "Indiana University Bloomington"
+        },
+        {
+          "ID": 295150,
+          "Title": "Miami University"
+        },
+        {
+          "ID": 298971,
+          "Title": "University of Freiburg"
+        },
+        {
+          "ID": 308722,
+          "Title": "University of Delaware"
+        },
+        {
+          "ID": 310417,
+          "Title": "University of Sheffield"
+        },
+        {
+          "ID": 316977,
+          "Title": "Lancaster University"
+        },
+        {
+          "ID": 322992,
+          "Title": "Jinan University"
+        },
+        {
+          "ID": 327950,
+          "Title": "University of Alabama"
+        },
+        {
+          "ID": 340454,
+          "Title": "Leipzig University"
+        },
+        {
+          "ID": 340787,
+          "Title": "University of Illinois at Chicago"
+        },
+        {
+          "ID": 347733,
+          "Title": "University of Newcastle (Australia)"
+        },
+        {
+          "ID": 354047,
+          "Title": "University of Leicester"
+        },
+        {
+          "ID": 357736,
+          "Title": "Hokkaido University"
+        },
+        {
+          "ID": 374544,
+          "Title": "Moscow State University"
+        },
+        {
+          "ID": 378253,
+          "Title": "University of Padua"
+        },
+        {
+          "ID": 382178,
+          "Title": "Birmingham City University"
+        },
+        {
+          "ID": 389841,
+          "Title": "Memorial University of Newfoundland"
+        },
+        {
+          "ID": 403729,
+          "Title": "Anna University"
+        },
+        {
+          "ID": 405202,
+          "Title": "Ashley Hall (Charleston, South Carolina)"
+        },
+        {
+          "ID": 416813,
+          "Title": "University of Minnesota"
+        },
+        {
+          "ID": 417261,
+          "Title": "University of Plymouth"
+        },
+        {
+          "ID": 434157,
+          "Title": "University of Regina"
+        },
+        {
+          "ID": 446706,
+          "Title": "University of Wrocław"
+        },
+        {
+          "ID": 453576,
+          "Title": "University of Milan"
+        },
+        {
+          "ID": 453760,
+          "Title": "University of Trieste"
+        },
+        {
+          "ID": 453828,
+          "Title": "University of Turin"
+        },
+        {
+          "ID": 454645,
+          "Title": "Ulster University"
+        },
+        {
+          "ID": 454830,
+          "Title": "University of Dayton"
+        },
+        {
+          "ID": 456119,
+          "Title": "University of Genoa"
+        },
+        {
+          "ID": 461935,
+          "Title": "University of Wollongong"
+        },
+        {
+          "ID": 465598,
+          "Title": "University at Buffalo"
+        },
+        {
+          "ID": 476468,
+          "Title": "University of Reading"
+        },
+        {
+          "ID": 477372,
+          "Title": "Large denominations of United States currency"
+        },
+        {
+          "ID": 489589,
+          "Title": "University of Phoenix"
+        },
+        {
+          "ID": 490310,
+          "Title": "University of Houston"
+        },
+        {
+          "ID": 494785,
+          "Title": "Towson University"
+        },
+        {
+          "ID": 501079,
+          "Title": "University of Mumbai"
+        },
+        {
+          "ID": 502887,
+          "Title": "University of Maryland, Baltimore"
+        },
+        {
+          "ID": 503360,
+          "Title": "University of Hertfordshire"
+        },
+        {
+          "ID": 506063,
+          "Title": "Centrum Wiskunde \u0026 Informatica"
+        },
+        {
+          "ID": 512185,
+          "Title": "University of Wisconsin–Milwaukee"
+        },
+        {
+          "ID": 519610,
+          "Title": "University of Calcutta"
+        },
+        {
+          "ID": 526016,
+          "Title": "University of Cincinnati"
+        },
+        {
+          "ID": 533484,
+          "Title": "City, University of London"
+        },
+        {
+          "ID": 538882,
+          "Title": "University of Denver"
+        },
+        {
+          "ID": 547899,
+          "Title": "Thammasat University"
+        },
+        {
+          "ID": 556979,
+          "Title": "University of Hull"
+        },
+        {
+          "ID": 573744,
+          "Title": "Tohoku University"
+        },
+        {
+          "ID": 597542,
+          "Title": "University of Akron"
+        },
+        {
+          "ID": 598081,
+          "Title": "Saint Louis University"
+        },
+        {
+          "ID": 601288,
+          "Title": "University of Tasmania"
+        },
+        {
+          "ID": 602584,
+          "Title": "Wet and messy fetishism"
+        },
+        {
+          "ID": 606778,
+          "Title": "Boğaziçi University"
+        },
+        {
+          "ID": 619230,
+          "Title": "University of Montana"
+        },
+        {
+          "ID": 649879,
+          "Title": "Saint Petersburg State University"
+        },
+        {
+          "ID": 670734,
+          "Title": "University of KwaZulu-Natal"
+        },
+        {
+          "ID": 677955,
+          "Title": "Troy University"
+        },
+        {
+          "ID": 689685,
+          "Title": "403(b)"
+        },
+        {
+          "ID": 703404,
+          "Title": "Coventry University"
+        },
+        {
+          "ID": 703643,
+          "Title": "University of Derby"
+        },
+        {
+          "ID": 703719,
+          "Title": "University of Lincoln"
+        },
+        {
+          "ID": 709288,
+          "Title": "Panjab University"
+        },
+        {
+          "ID": 712629,
+          "Title": "Edinburgh Napier University"
+        },
+        {
+          "ID": 715155,
+          "Title": "University of Würzburg"
+        },
+        {
+          "ID": 743417,
+          "Title": "Public Interest Watch"
+        },
+        {
+          "ID": 794480,
+          "Title": "Domino's Pizza"
+        },
+        {
+          "ID": 802104,
+          "Title": "Sungkyunkwan University"
+        },
+        {
+          "ID": 816236,
+          "Title": "Northumbria University"
+        },
+        {
+          "ID": 816908,
+          "Title": "University of Chester"
+        },
+        {
+          "ID": 838975,
+          "Title": "No. 2 Squadron RAF"
+        },
+        {
+          "ID": 912618,
+          "Title": "Abertay University"
+        },
+        {
+          "ID": 919151,
+          "Title": "Southeast University"
+        },
+        {
+          "ID": 978770,
+          "Title": "Division of Higgins"
+        },
+        {
+          "ID": 1001108,
+          "Title": "Valparaiso University"
+        },
+        {
+          "ID": 1021882,
+          "Title": "Singapore Army"
+        },
+        {
+          "ID": 1050548,
+          "Title": "Nestlé Candy Shop"
+        },
+        {
+          "ID": 1098410,
+          "Title": "Osaka University"
+        },
+        {
+          "ID": 1157515,
+          "Title": "University of Bern"
+        },
+        {
+          "ID": 1312318,
+          "Title": "Rikkyo University"
+        },
+        {
+          "ID": 1430270,
+          "Title": "University of Delhi"
+        },
+        {
+          "ID": 1505056,
+          "Title": "Jawaharlal Nehru University"
+        },
+        {
+          "ID": 1569468,
+          "Title": "University of Colombo"
+        },
+        {
+          "ID": 1602349,
+          "Title": "University of the Punjab"
+        },
+        {
+          "ID": 1640986,
+          "Title": "Public university"
+        },
+        {
+          "ID": 1659790,
+          "Title": "Anthropogenic hazard"
+        },
+        {
+          "ID": 1791959,
+          "Title": "University of Karachi"
+        },
+        {
+          "ID": 2029583,
+          "Title": "University of Lagos"
+        },
+        {
+          "ID": 2115545,
+          "Title": "University of Catania"
+        },
+        {
+          "ID": 2198769,
+          "Title": "University of Sindh"
+        },
+        {
+          "ID": 2239524,
+          "Title": "Koç University"
+        },
+        {
+          "ID": 2271241,
+          "Title": "University of Lviv"
+        },
+        {
+          "ID": 2308789,
+          "Title": "Daramalan College"
+        },
+        {
+          "ID": 2386044,
+          "Title": "Adamson University"
+        },
+        {
+          "ID": 2417062,
+          "Title": "Omaha Benson High School Magnet"
+        },
+        {
+          "ID": 2453565,
+          "Title": "University of Udine"
+        },
+        {
+          "ID": 2596736,
+          "Title": "Balseiro Institute"
+        },
+        {
+          "ID": 2599076,
+          "Title": "University of Jordan"
+        },
+        {
+          "ID": 2629730,
+          "Title": "Pretentious"
+        },
+        {
+          "ID": 2700689,
+          "Title": "Guru Gobind Singh Indraprastha University"
+        },
+        {
+          "ID": 2737158,
+          "Title": "Global Indian International School"
+        },
+        {
+          "ID": 2867750,
+          "Title": "Mahatma Gandhi University, Kerala"
+        },
+        {
+          "ID": 2943107,
+          "Title": "Xavier High School (Appleton, Wisconsin)"
+        },
+        {
+          "ID": 2960915,
+          "Title": "University of Northampton"
+        },
+        {
+          "ID": 2962307,
+          "Title": "Islamic Azad University"
+        },
+        {
+          "ID": 2971882,
+          "Title": "University of Ferrara"
+        },
+        {
+          "ID": 3111821,
+          "Title": "Eastern Guilford High School"
+        },
+        {
+          "ID": 3140939,
+          "Title": "University of Winchester"
+        },
+        {
+          "ID": 3185021,
+          "Title": "Deep Run High School"
+        },
+        {
+          "ID": 3328347,
+          "Title": "Queen's School of English"
+        },
+        {
+          "ID": 3340886,
+          "Title": "Reservoir High School"
+        },
+        {
+          "ID": 3359698,
+          "Title": "Trust (business)"
+        },
+        {
+          "ID": 4266582,
+          "Title": "American Central University"
+        },
+        {
+          "ID": 4269236,
+          "Title": "Savannah Christian Preparatory School"
+        },
+        {
+          "ID": 4300692,
+          "Title": "Millburn Academy"
+        },
+        {
+          "ID": 4333464,
+          "Title": "Hungry Howie's Pizza"
+        },
+        {
+          "ID": 4402492,
+          "Title": "Rush University"
+        },
+        {
+          "ID": 4528864,
+          "Title": "Southwest University"
+        },
+        {
+          "ID": 4578168,
+          "Title": "Wo Hop To"
+        },
+        {
+          "ID": 4631981,
+          "Title": "Mohonasen High School"
+        },
+        {
+          "ID": 4647565,
+          "Title": "University of Bedfordshire"
+        },
+        {
+          "ID": 4783787,
+          "Title": "Panteion University"
+        },
+        {
+          "ID": 4801261,
+          "Title": "University of Verona"
+        },
+        {
+          "ID": 4813869,
+          "Title": "University of Suffolk"
+        },
+        {
+          "ID": 4873935,
+          "Title": "Roy High School (Utah)"
+        },
+        {
+          "ID": 4932663,
+          "Title": "University of Naples Federico II"
+        },
+        {
+          "ID": 5012968,
+          "Title": "Mansfield High School (Massachusetts)"
+        },
+        {
+          "ID": 5094710,
+          "Title": "Flag of Australia"
+        },
+        {
+          "ID": 5219133,
+          "Title": "Brentside High School"
+        },
+        {
+          "ID": 5244557,
+          "Title": "Kyneton Secondary College"
+        },
+        {
+          "ID": 5352231,
+          "Title": "South Delta Secondary School"
+        },
+        {
+          "ID": 5418543,
+          "Title": "Taieri College"
+        },
+        {
+          "ID": 5438787,
+          "Title": "Jackson Liberty High School"
+        },
+        {
+          "ID": 5597296,
+          "Title": "Tazewell High School"
+        },
+        {
+          "ID": 5679058,
+          "Title": "Robert Menzies College"
+        },
+        {
+          "ID": 5927682,
+          "Title": "Cypress Ranch High School"
+        },
+        {
+          "ID": 6238402,
+          "Title": "Waimea College"
+        },
+        {
+          "ID": 6532866,
+          "Title": "Ridgewood High School (Illinois)"
+        },
+        {
+          "ID": 6992029,
+          "Title": "NCERT textbook controversies"
+        },
+        {
+          "ID": 7085266,
+          "Title": "T. A. Blakelock High School"
+        },
+        {
+          "ID": 7196175,
+          "Title": "Sōka University"
+        },
+        {
+          "ID": 7670237,
+          "Title": "Fiesta Mart"
+        },
+        {
+          "ID": 7673670,
+          "Title": "Airdrie Academy"
+        },
+        {
+          "ID": 7858726,
+          "Title": "State university system"
+        },
+        {
+          "ID": 7955551,
+          "Title": "Queen's University"
+        },
+        {
+          "ID": 8395545,
+          "Title": "Ingram Tom Moore High School"
+        },
+        {
+          "ID": 8788317,
+          "Title": "Food marketing"
+        },
+        {
+          "ID": 8796016,
+          "Title": "Odessa University"
+        },
+        {
+          "ID": 9090614,
+          "Title": "Conyers' School"
+        },
+        {
+          "ID": 9142710,
+          "Title": "Canterbury College (Waterford)"
+        },
+        {
+          "ID": 9181362,
+          "Title": "University of Guelph"
+        },
+        {
+          "ID": 9480591,
+          "Title": "Cirencester College"
+        },
+        {
+          "ID": 9487095,
+          "Title": "World Online Education Accrediting Commission"
+        },
+        {
+          "ID": 9608774,
+          "Title": "New Brunswick School District 16"
+        },
+        {
+          "ID": 9650608,
+          "Title": "Lake Shore High School"
+        },
+        {
+          "ID": 9952854,
+          "Title": "Science College"
+        },
+        {
+          "ID": 10068782,
+          "Title": "Randleman High School"
+        },
+        {
+          "ID": 10085394,
+          "Title": "Delany College"
+        },
+        {
+          "ID": 10667174,
+          "Title": "Titus Salt School"
+        },
+        {
+          "ID": 10888443,
+          "Title": "St Clare's College, Waverley"
+        },
+        {
+          "ID": 11047584,
+          "Title": "Advanced Math and Science Academy Charter School"
+        },
+        {
+          "ID": 11160582,
+          "Title": "Wonderland Village"
+        },
+        {
+          "ID": 11522007,
+          "Title": "Chaudhary Charan Singh University"
+        },
+        {
+          "ID": 12123465,
+          "Title": "National university"
+        },
+        {
+          "ID": 12759325,
+          "Title": "MIT School of Architecture and Planning"
+        },
+        {
+          "ID": 13431119,
+          "Title": "Maine Department of Transportation"
+        },
+        {
+          "ID": 15203900,
+          "Title": "Naval Auxiliary Air Station Charlestown"
+        },
+        {
+          "ID": 17089686,
+          "Title": "The Lammas School"
+        },
+        {
+          "ID": 17857794,
+          "Title": "Prairie Habitat Joint Venture"
+        },
+        {
+          "ID": 18096766,
+          "Title": "Amey plc"
+        },
+        {
+          "ID": 18398001,
+          "Title": "Waterford Kettering High School"
+        },
+        {
+          "ID": 18426501,
+          "Title": "Harvard University"
+        },
+        {
+          "ID": 18850871,
+          "Title": "Nalanda University"
+        },
+        {
+          "ID": 18998720,
+          "Title": "BP"
+        },
+        {
+          "ID": 19682699,
+          "Title": "Chinese New Year"
+        },
+        {
+          "ID": 19817390,
+          "Title": "University of Maryland, College Park"
+        },
+        {
+          "ID": 20346525,
+          "Title": "Residential colleges of Rice University"
+        },
+        {
+          "ID": 20357877,
+          "Title": "Economy of Utah"
+        },
+        {
+          "ID": 20733060,
+          "Title": "University of Atlanta"
+        },
+        {
+          "ID": 21270486,
+          "Title": "Armuchee High School"
+        },
+        {
+          "ID": 21318931,
+          "Title": "Sebeka High School"
+        },
+        {
+          "ID": 21401226,
+          "Title": "Grace S. Webb School"
+        },
+        {
+          "ID": 22056736,
+          "Title": "Pace Foods"
+        },
+        {
+          "ID": 22179772,
+          "Title": "Linnaeus University"
+        },
+        {
+          "ID": 23190489,
+          "Title": "Tessolve"
+        },
+        {
+          "ID": 23487663,
+          "Title": "Indiana University"
+        },
+        {
+          "ID": 23964683,
+          "Title": "University of Missouri"
+        },
+        {
+          "ID": 24191039,
+          "Title": "Ontario College Advanced Diploma"
+        },
+        {
+          "ID": 24472860,
+          "Title": "Alexandru Ioan Cuza University"
+        },
+        {
+          "ID": 24482416,
+          "Title": "Oasis Academy Hadley"
+        },
+        {
+          "ID": 24584588,
+          "Title": "University of Jaffna"
+        },
+        {
+          "ID": 24930943,
+          "Title": "Federal government of Mexico"
+        },
+        {
+          "ID": 25086027,
+          "Title": "University of Nottingham"
+        },
+        {
+          "ID": 25294802,
+          "Title": "Pacific Beach Club"
+        },
+        {
+          "ID": 25479889,
+          "Title": "The Jonathan Edwards Center at Yale University"
+        },
+        {
+          "ID": 25870968,
+          "Title": "Kensington Intermediate Senior High School"
+        },
+        {
+          "ID": 25871208,
+          "Title": "Three Oaks Senior High School"
+        },
+        {
+          "ID": 25978572,
+          "Title": "University of Cambridge"
+        },
+        {
+          "ID": 26413457,
+          "Title": "Priestnall School"
+        },
+        {
+          "ID": 26590134,
+          "Title": "Cornerstone Schools (Georgia)"
+        },
+        {
+          "ID": 26762013,
+          "Title": "North-West University"
+        },
+        {
+          "ID": 27190117,
+          "Title": "Hamburg-Bergedorf Railway Company"
+        },
+        {
+          "ID": 27274354,
+          "Title": "New World Pasta"
+        },
+        {
+          "ID": 27790784,
+          "Title": "P\u0026O Princess Cruises"
+        },
+        {
+          "ID": 28782563,
+          "Title": "C.F. Mueller Company"
+        },
+        {
+          "ID": 28923831,
+          "Title": "University of Tennessee"
+        },
+        {
+          "ID": 29175568,
+          "Title": "Wildlife Reserves Singapore"
+        },
+        {
+          "ID": 30447304,
+          "Title": "Vail Ski \u0026 Snowboard Academy"
+        },
+        {
+          "ID": 30866020,
+          "Title": "Bishop Foley Catholic High School"
+        },
+        {
+          "ID": 30876750,
+          "Title": "Nanjing University"
+        },
+        {
+          "ID": 32174925,
+          "Title": "Junta de Aviación Civil"
+        },
+        {
+          "ID": 32378633,
+          "Title": "Symbols of Manchester"
+        },
+        {
+          "ID": 32496526,
+          "Title": "News Corporation takeover bid for BSkyB"
+        },
+        {
+          "ID": 33182465,
+          "Title": "Baumé Restaurant"
+        },
+        {
+          "ID": 33431636,
+          "Title": "University of Toledo"
+        },
+        {
+          "ID": 33705695,
+          "Title": "Agriculture in the Southwestern United States"
+        },
+        {
+          "ID": 33719893,
+          "Title": "University of Exeter"
+        },
+        {
+          "ID": 36031977,
+          "Title": "Wheatland County Airport"
+        },
+        {
+          "ID": 36912723,
+          "Title": "Academia Avance Charter"
+        },
+        {
+          "ID": 37104745,
+          "Title": "Tosen Goshobo"
+        },
+        {
+          "ID": 41041655,
+          "Title": "International Military Antiques"
+        },
+        {
+          "ID": 41137348,
+          "Title": "Kingston University"
+        },
+        {
+          "ID": 41513672,
+          "Title": "Civil Aviation Safety Authority (Papua New Guinea)"
+        },
+        {
+          "ID": 42201002,
+          "Title": "CNHLS"
+        },
+        {
+          "ID": 42348022,
+          "Title": "Aligarh Muslim University"
+        },
+        {
+          "ID": 42408464,
+          "Title": "KFC in China"
+        },
+        {
+          "ID": 42487413,
+          "Title": "Examiner Newspaper Group"
+        },
+        {
+          "ID": 42899133,
+          "Title": "Wasaga Beach Public Library"
+        },
+        {
+          "ID": 44199440,
+          "Title": "CDG Capital"
+        },
+        {
+          "ID": 45092817,
+          "Title": "Lycée Français Louis Pasteur (Colombia)"
+        },
+        {
+          "ID": 45509917,
+          "Title": "Balabala"
+        },
+        {
+          "ID": 45691207,
+          "Title": "Barbecue restaurant"
+        },
+        {
+          "ID": 46230765,
+          "Title": "Covert interrogation"
+        },
+        {
+          "ID": 48428916,
+          "Title": "Deutsche Schule Kobe/European School"
+        },
+        {
+          "ID": 48487493,
+          "Title": "List of food industry trade associations"
+        },
+        {
+          "ID": 48881112,
+          "Title": "Jio"
+        },
+        {
+          "ID": 50783943,
+          "Title": "Hill \u0026 Smith"
+        },
+        {
+          "ID": 51452114,
+          "Title": "Lycée Léonard de Vinci (Melun)"
+        },
+        {
+          "ID": 52386271,
+          "Title": "Eastern Punjab Railway"
+        },
+        {
+          "ID": 52951710,
+          "Title": "Alternative facts"
+        },
+        {
+          "ID": 53565652,
+          "Title": "2017 Westminster attack"
+        }
       ]
     },
     {
@@ -153,1036 +4264,159 @@
       "Title": "Technology and applied sciences",
       "Abstract": "Technology is an expanded concept that deals with a species' usage and knowledge of tools and crafts, and how it affects a species' ability to control and adapt to its environment. In human civilization, it is a consequence of science and engineering, although several technological advances predate the formalization of these two disciplines. The term can either be applied generally or to specific areas – examples include construction technology, medical technology, or state-of-the-art technology.\n\nThe human race's use of technology began with the conversion of plentiful natural resources into simple tools. The prehistorical discovery of the ability to control fire increased the available sources of food, and the invention of the wheel helped humans in travelling in and controlling their environment. Recent technological developments, including the printing press and the Internet, have lessened physical barriers to communication and allowed humans to interact on a global scale. However, not all technology has been used for peaceful purposes; the development of weapons of ever-increasing destructive power has progressed throughout history, from clubs to nuclear bombs.\n\nApplied science is the application of knowledge from one or more natural scientific fields to solving practical problems. For example, fields of engineering are applied sciences. Applied science is important for technology development. Its use in industrial settings is usually referred to as research and development (R\u0026D)",
       "Categories": [
-        691117,
-        692903,
-        696648,
-        697060,
-        700305,
-        700895,
-        707335,
-        707661,
-        771670,
-        780958,
-        999651,
-        5523119,
-        17200193,
-        48783949
+        {
+          "ID": 691117,
+          "Title": "Category:Computer science"
+        },
+        {
+          "ID": 692903,
+          "Title": "Category:Engineering"
+        },
+        {
+          "ID": 696648,
+          "Title": "Category:Technology"
+        },
+        {
+          "ID": 697060,
+          "Title": "Category:Applied sciences"
+        },
+        {
+          "ID": 700305,
+          "Title": "Category:Computing"
+        },
+        {
+          "ID": 700895,
+          "Title": "Category:Internet"
+        },
+        {
+          "ID": 707335,
+          "Title": "Category:History of technology"
+        },
+        {
+          "ID": 707661,
+          "Title": "Category:Electronics"
+        },
+        {
+          "ID": 771670,
+          "Title": "Category:Military equipment"
+        },
+        {
+          "ID": 780958,
+          "Title": "Category:Technology timelines"
+        },
+        {
+          "ID": 999651,
+          "Title": "Category:Design"
+        },
+        {
+          "ID": 5523119,
+          "Title": "Category:Transport"
+        },
+        {
+          "ID": 17200193,
+          "Title": "Category:Technology by type"
+        },
+        {
+          "ID": 48783949,
+          "Title": "Category:Mobile applications"
+        }
+      ],
+      "Articles": [
+        {
+          "ID": 24573,
+          "Title": "Pepsi"
+        },
+        {
+          "ID": 29028,
+          "Title": "32X"
+        },
+        {
+          "ID": 39007,
+          "Title": "Wall"
+        },
+        {
+          "ID": 51974,
+          "Title": "Mountain Dew"
+        },
+        {
+          "ID": 288636,
+          "Title": "Chewing gum"
+        },
+        {
+          "ID": 297914,
+          "Title": "Communications management"
+        },
+        {
+          "ID": 456414,
+          "Title": "Lap joint"
+        },
+        {
+          "ID": 458042,
+          "Title": "Dovetail joint"
+        },
+        {
+          "ID": 574533,
+          "Title": ".xxx"
+        },
+        {
+          "ID": 1093416,
+          "Title": "Bread machine"
+        },
+        {
+          "ID": 1448709,
+          "Title": "Gas tungsten arc welding"
+        },
+        {
+          "ID": 1609224,
+          "Title": "Feasibility study"
+        },
+        {
+          "ID": 2104839,
+          "Title": "Bath bomb"
+        },
+        {
+          "ID": 2779997,
+          "Title": "Monoprinting"
+        },
+        {
+          "ID": 3396759,
+          "Title": "Pooper-scooper"
+        },
+        {
+          "ID": 4216117,
+          "Title": "E233 series"
+        },
+        {
+          "ID": 12289103,
+          "Title": "Hair tie"
+        },
+        {
+          "ID": 22178734,
+          "Title": "Underspanned suspension bridge"
+        },
+        {
+          "ID": 39381650,
+          "Title": "NodeXL"
+        },
+        {
+          "ID": 43191282,
+          "Title": "Flexible battery"
+        },
+        {
+          "ID": 45234135,
+          "Title": "Hexamine stove"
+        }
       ]
     }
   ],
-  "Filter": [
+  "Filters": [
     {
-      "IsWhitelist": false,
-      "Parents": [
-        15961454
-      ],
-      "Dept": 1
+      "ID": 15961454,
+      "Title": "Category:Hidden categories"
     },
     {
-      "IsWhitelist": false,
-      "Parents": [
-        19204864
-      ],
-      "Dept": -1
+      "ID": 19204864,
+      "Title": "Category:Disambiguation pages"
     }
-  ],
-  "Article2Topic": {
-    "1001108": 2147483646,
-    "100127": 2147483643,
-    "10068782": 2147483646,
-    "100710": 2147483637,
-    "10085394": 2147483646,
-    "1021882": 2147483646,
-    "10324136": 2147483637,
-    "1032619": 2147483643,
-    "10333774": 2147483637,
-    "10422767": 2147483637,
-    "10467799": 2147483643,
-    "10470673": 2147483637,
-    "10483162": 2147483637,
-    "1048571": 2147483637,
-    "1050548": 2147483646,
-    "10656276": 2147483637,
-    "10667174": 2147483646,
-    "10888443": 2147483646,
-    "1088927": 2147483637,
-    "10906579": 2147483637,
-    "1091934": 2147483638,
-    "1093416": 2147483647,
-    "1098410": 2147483646,
-    "11047584": 2147483646,
-    "1112013": 2147483637,
-    "11121": 2147483646,
-    "11145": 2147483642,
-    "11160582": 2147483646,
-    "11258": 2147483637,
-    "11415": 2147483637,
-    "11415141": 2147483642,
-    "1146973": 2147483640,
-    "11522007": 2147483646,
-    "1157515": 2147483646,
-    "11577897": 2147483637,
-    "1167404": 2147483637,
-    "11689293": 2147483637,
-    "11692282": 2147483637,
-    "11868351": 2147483637,
-    "11877972": 2147483637,
-    "11879624": 2147483637,
-    "11971218": 2147483637,
-    "1203727": 2147483640,
-    "1208": 2147483643,
-    "12098381": 2147483637,
-    "12117603": 2147483642,
-    "12123465": 2147483646,
-    "12137607": 2147483637,
-    "1217251": 2147483637,
-    "12218": 2147483646,
-    "12260161": 2147483637,
-    "12273688": 2147483637,
-    "1227579": 2147483642,
-    "12289103": 2147483647,
-    "12328634": 2147483642,
-    "1245639": 2147483637,
-    "12481557": 2147483637,
-    "12514": 2147483637,
-    "1251593": 2147483642,
-    "12542748": 2147483637,
-    "12554186": 2147483637,
-    "125888": 2147483638,
-    "12670982": 2147483637,
-    "12731": 2147483637,
-    "12759325": 2147483646,
-    "1296540": 2147483637,
-    "13103218": 2147483637,
-    "1312318": 2147483646,
-    "13187567": 2147483637,
-    "13204181": 2147483637,
-    "13246862": 2147483637,
-    "1331554": 2147483640,
-    "13431119": 2147483646,
-    "13521586": 2147483637,
-    "13564973": 2147483642,
-    "13577942": 2147483642,
-    "13691435": 2147483637,
-    "13697143": 2147483637,
-    "13719853": 2147483637,
-    "13769016": 2147483637,
-    "13774728": 2147483637,
-    "13794509": 2147483643,
-    "13902799": 2147483637,
-    "13964757": 2147483637,
-    "14125923": 2147483637,
-    "14257777": 2147483637,
-    "14299": 2147483637,
-    "1430270": 2147483646,
-    "1438776": 2147483642,
-    "14409748": 2147483637,
-    "1448709": 2147483647,
-    "14650947": 2147483637,
-    "1465854": 2147483642,
-    "146717": 2147483646,
-    "14704552": 2147483643,
-    "1471058": 2147483637,
-    "147476": 2147483642,
-    "1486044": 2147483642,
-    "149225": 2147483637,
-    "15010413": 2147483637,
-    "1505056": 2147483646,
-    "1511315": 2147483642,
-    "15137928": 2147483637,
-    "1515846": 2147483643,
-    "15203900": 2147483646,
-    "152964": 2147483642,
-    "153295": 2147483643,
-    "1533059": 2147483637,
-    "15362": 2147483643,
-    "15397979": 2147483637,
-    "153992": 2147483646,
-    "15444805": 2147483642,
-    "1547197": 2147483637,
-    "15475970": 2147483637,
-    "15527935": 2147483637,
-    "15556691": 2147483638,
-    "15580374": 2147483637,
-    "15584661": 2147483637,
-    "15602492": 2147483637,
-    "156512": 2147483646,
-    "1569468": 2147483646,
-    "15736": 2147483643,
-    "1578118": 2147483637,
-    "157973": 2147483637,
-    "158464": 2147483646,
-    "15852": 2147483643,
-    "15894666": 2147483637,
-    "159438": 2147483637,
-    "159748": 2147483642,
-    "159999": 2147483646,
-    "160221": 2147483637,
-    "1602349": 2147483646,
-    "1609224": 2147483647,
-    "161013": 2147483643,
-    "1611556": 2147483637,
-    "1617619": 2147483637,
-    "16234880": 2147483642,
-    "16281523": 2147483643,
-    "1632110": 2147483637,
-    "16394033": 2147483640,
-    "1640986": 2147483646,
-    "1641514": 2147483643,
-    "164331": 2147483642,
-    "165380": 2147483646,
-    "16542": 2147483646,
-    "165456": 2147483642,
-    "165529": 2147483646,
-    "165927": 2147483642,
-    "1659790": 2147483646,
-    "1659792": 2147483637,
-    "166215": 2147483646,
-    "16711175": 2147483637,
-    "16747143": 2147483637,
-    "167774": 2147483646,
-    "167891": 2147483637,
-    "16790": 2147483643,
-    "1681631": 2147483640,
-    "1687359": 2147483642,
-    "1690255": 2147483642,
-    "169136": 2147483646,
-    "169409": 2147483644,
-    "169720": 2147483642,
-    "17000799": 2147483637,
-    "17089686": 2147483646,
-    "1720902": 2147483637,
-    "172246": 2147483646,
-    "1730071": 2147483637,
-    "17322701": 2147483642,
-    "17387499": 2147483637,
-    "1744617": 2147483637,
-    "1759645": 2147483637,
-    "176750": 2147483646,
-    "1770825": 2147483637,
-    "17720623": 2147483637,
-    "17857794": 2147483646,
-    "17877": 2147483637,
-    "178771": 2147483646,
-    "17909": 2147483637,
-    "1791959": 2147483646,
-    "17949": 2147483643,
-    "180763": 2147483646,
-    "18096766": 2147483646,
-    "181348": 2147483646,
-    "1814": 2147483643,
-    "18371059": 2147483637,
-    "18398001": 2147483646,
-    "183983": 2147483642,
-    "18426501": 2147483646,
-    "18488429": 2147483637,
-    "18542": 2147483641,
-    "18566876": 2147483646,
-    "18724093": 2147483637,
-    "18792799": 2147483637,
-    "1883761": 2147483637,
-    "18850871": 2147483646,
-    "18879": 2147483646,
-    "18998720": 2147483646,
-    "19065623": 2147483637,
-    "1910238": 2147483640,
-    "191584": 2147483646,
-    "19196010": 2147483637,
-    "192368": 2147483637,
-    "19279": 2147483646,
-    "192819": 2147483646,
-    "1937": 2147483643,
-    "19457": 2147483638,
-    "196029": 2147483646,
-    "19606216": 2147483643,
-    "1962085": 2147483637,
-    "1964100": 2147483637,
-    "19682699": 2147483646,
-    "196911": 2147483646,
-    "197027": 2147483646,
-    "19729851": 2147483637,
-    "19817390": 2147483646,
-    "19842": 2147483637,
-    "200167": 2147483642,
-    "20102947": 2147483640,
-    "20175252": 2147483643,
-    "20206700": 2147483645,
-    "2029583": 2147483646,
-    "20346525": 2147483646,
-    "20357877": 2147483646,
-    "20379": 2147483646,
-    "20501": 2147483642,
-    "205723": 2147483642,
-    "205868": 2147483646,
-    "2060056": 2147483637,
-    "20656228": 2147483642,
-    "20733060": 2147483646,
-    "209935": 2147483646,
-    "210015": 2147483642,
-    "2104839": 2147483647,
-    "21055369": 2147483642,
-    "2115545": 2147483646,
-    "2119472": 2147483643,
-    "21270486": 2147483646,
-    "21299730": 2147483642,
-    "213135": 2147483646,
-    "21318931": 2147483646,
-    "21326249": 2147483637,
-    "213407": 2147483642,
-    "21401226": 2147483646,
-    "21463597": 2147483637,
-    "21490957": 2147483643,
-    "2155576": 2147483637,
-    "21566": 2147483643,
-    "21577361": 2147483637,
-    "21640": 2147483637,
-    "216932": 2147483646,
-    "218052": 2147483646,
-    "21843425": 2147483637,
-    "2197052": 2147483637,
-    "2198769": 2147483646,
-    "2203243": 2147483637,
-    "2205457": 2147483637,
-    "22056736": 2147483646,
-    "220709": 2147483637,
-    "220980": 2147483637,
-    "22178734": 2147483647,
-    "22179772": 2147483646,
-    "22217": 2147483646,
-    "2222189": 2147483637,
-    "2227191": 2147483637,
-    "223034": 2147483642,
-    "22306768": 2147483637,
-    "2236": 2147483646,
-    "2237689": 2147483640,
-    "2239524": 2147483646,
-    "22413": 2147483643,
-    "22524172": 2147483637,
-    "22537892": 2147483643,
-    "226804": 2147483646,
-    "2271241": 2147483646,
-    "2271811": 2147483637,
-    "227478": 2147483642,
-    "22749725": 2147483637,
-    "22803117": 2147483637,
-    "22835554": 2147483637,
-    "22836333": 2147483637,
-    "2288777": 2147483644,
-    "229168": 2147483646,
-    "22916950": 2147483638,
-    "22934907": 2147483642,
-    "22989": 2147483638,
-    "2305207": 2147483637,
-    "2307101": 2147483637,
-    "2308789": 2147483646,
-    "23099230": 2147483637,
-    "231059": 2147483645,
-    "23159504": 2147483637,
-    "23190489": 2147483646,
-    "231988": 2147483646,
-    "23278767": 2147483642,
-    "23282625": 2147483637,
-    "2343153": 2147483642,
-    "23487351": 2147483643,
-    "23487663": 2147483646,
-    "2351973": 2147483637,
-    "23704": 2147483641,
-    "23848185": 2147483637,
-    "23852947": 2147483637,
-    "2386": 2147483646,
-    "2386044": 2147483646,
-    "23867015": 2147483640,
-    "23871": 2147483637,
-    "238715": 2147483637,
-    "23882016": 2147483637,
-    "23884": 2147483637,
-    "23890522": 2147483643,
-    "23899885": 2147483637,
-    "23922": 2147483646,
-    "23940287": 2147483646,
-    "23964683": 2147483646,
-    "24024599": 2147483637,
-    "24039413": 2147483637,
-    "24047257": 2147483637,
-    "241119": 2147483646,
-    "2417062": 2147483646,
-    "24191039": 2147483646,
-    "24232118": 2147483637,
-    "24269016": 2147483637,
-    "242746": 2147483646,
-    "2435657": 2147483640,
-    "2446345": 2147483637,
-    "24472860": 2147483646,
-    "24482416": 2147483646,
-    "2453565": 2147483646,
-    "2455842": 2147483642,
-    "24567107": 2147483643,
-    "2456791": 2147483642,
-    "24573": 2147483647,
-    "24584588": 2147483646,
-    "2458530": 2147483637,
-    "2461312": 2147483637,
-    "24646179": 2147483637,
-    "24664082": 2147483643,
-    "24768": 2147483637,
-    "2481476": 2147483642,
-    "2484315": 2147483644,
-    "24856": 2147483646,
-    "24864941": 2147483637,
-    "24865660": 2147483637,
-    "24930943": 2147483646,
-    "2500271": 2147483643,
-    "25035805": 2147483637,
-    "25074566": 2147483637,
-    "25075386": 2147483637,
-    "25086027": 2147483646,
-    "25086155": 2147483637,
-    "25127324": 2147483637,
-    "251320": 2147483637,
-    "251423": 2147483637,
-    "25162001": 2147483637,
-    "2518568": 2147483637,
-    "25204524": 2147483637,
-    "25294802": 2147483646,
-    "25343724": 2147483637,
-    "25433991": 2147483637,
-    "25452": 2147483643,
-    "25479889": 2147483646,
-    "25490083": 2147483637,
-    "25494096": 2147483637,
-    "25525": 2147483643,
-    "25790368": 2147483637,
-    "25791126": 2147483637,
-    "25813": 2147483646,
-    "25815868": 2147483637,
-    "25816213": 2147483637,
-    "25820238": 2147483637,
-    "25820671": 2147483637,
-    "25867": 2147483643,
-    "25870968": 2147483646,
-    "25871208": 2147483646,
-    "2596736": 2147483646,
-    "25978572": 2147483646,
-    "25980154": 2147483637,
-    "25988125": 2147483641,
-    "2599076": 2147483646,
-    "261456": 2147483642,
-    "26197138": 2147483637,
-    "262301": 2147483646,
-    "26296206": 2147483637,
-    "2629730": 2147483646,
-    "263329": 2147483646,
-    "26413457": 2147483646,
-    "26416": 2147483643,
-    "264573": 2147483646,
-    "26586083": 2147483643,
-    "26590134": 2147483646,
-    "26629971": 2147483637,
-    "2664040": 2147483637,
-    "2668132": 2147483643,
-    "26743": 2147483643,
-    "26762013": 2147483646,
-    "267686": 2147483646,
-    "26932762": 2147483637,
-    "2696756": 2147483637,
-    "26977": 2147483646,
-    "2700689": 2147483646,
-    "270381": 2147483642,
-    "27046954": 2147483640,
-    "27080142": 2147483643,
-    "2714": 2147483638,
-    "27157": 2147483646,
-    "27190117": 2147483646,
-    "27274354": 2147483646,
-    "2731583": 2147483643,
-    "2737158": 2147483646,
-    "2752651": 2147483640,
-    "27553279": 2147483637,
-    "276083": 2147483642,
-    "27745332": 2147483637,
-    "277456": 2147483646,
-    "27790784": 2147483646,
-    "2779997": 2147483647,
-    "27814100": 2147483637,
-    "2784670": 2147483637,
-    "27876656": 2147483637,
-    "27898192": 2147483637,
-    "2791047": 2147483637,
-    "27951283": 2147483637,
-    "28139506": 2147483637,
-    "2844056": 2147483637,
-    "285106": 2147483646,
-    "2867750": 2147483646,
-    "286853": 2147483646,
-    "28688080": 2147483637,
-    "286987": 2147483642,
-    "2877341": 2147483637,
-    "28782563": 2147483646,
-    "28790036": 2147483637,
-    "2885059": 2147483637,
-    "288636": 2147483647,
-    "28923831": 2147483646,
-    "28977211": 2147483646,
-    "289786": 2147483637,
-    "2898990": 2147483639,
-    "28992135": 2147483637,
-    "2899565": 2147483642,
-    "29028": 2147483647,
-    "29052659": 2147483637,
-    "29175568": 2147483646,
-    "2919846": 2147483637,
-    "292242": 2147483646,
-    "29342112": 2147483637,
-    "2937625": 2147483640,
-    "2943107": 2147483646,
-    "29432674": 2147483637,
-    "294800": 2147483637,
-    "29503853": 2147483638,
-    "295150": 2147483646,
-    "2960915": 2147483646,
-    "2962307": 2147483646,
-    "29688374": 2147483643,
-    "2971882": 2147483646,
-    "2973525": 2147483644,
-    "2973619": 2147483642,
-    "297914": 2147483647,
-    "29798065": 2147483637,
-    "298971": 2147483646,
-    "29898672": 2147483637,
-    "29985": 2147483637,
-    "30058": 2147483640,
-    "301816": 2147483643,
-    "30308242": 2147483637,
-    "30341289": 2147483637,
-    "3040703": 2147483637,
-    "30447304": 2147483646,
-    "30680": 2147483646,
-    "3080697": 2147483637,
-    "30818597": 2147483637,
-    "30866020": 2147483646,
-    "308722": 2147483646,
-    "3087265": 2147483642,
-    "30875975": 2147483637,
-    "30876750": 2147483646,
-    "30916": 2147483637,
-    "31018336": 2147483645,
-    "310417": 2147483646,
-    "3111821": 2147483646,
-    "31150160": 2147483640,
-    "31244211": 2147483637,
-    "31265448": 2147483637,
-    "31391925": 2147483637,
-    "3140939": 2147483646,
-    "31656": 2147483646,
-    "316977": 2147483646,
-    "31740": 2147483646,
-    "31776": 2147483646,
-    "31793": 2147483646,
-    "31797": 2147483646,
-    "31798": 2147483646,
-    "31801": 2147483646,
-    "3185021": 2147483646,
-    "31928": 2147483646,
-    "32005": 2147483646,
-    "32015": 2147483646,
-    "32031": 2147483646,
-    "32045": 2147483646,
-    "320635": 2147483642,
-    "32077676": 2147483642,
-    "32098": 2147483646,
-    "32099": 2147483646,
-    "32127": 2147483646,
-    "3217073": 2147483637,
-    "321709": 2147483642,
-    "32174925": 2147483646,
-    "32178": 2147483646,
-    "32242": 2147483646,
-    "322992": 2147483646,
-    "32378633": 2147483646,
-    "32387701": 2147483643,
-    "32496526": 2147483646,
-    "32501324": 2147483643,
-    "32531129": 2147483637,
-    "32616": 2147483638,
-    "3276555": 2147483640,
-    "327950": 2147483646,
-    "3287845": 2147483643,
-    "33175": 2147483643,
-    "33182465": 2147483646,
-    "3328347": 2147483646,
-    "33309782": 2147483637,
-    "33309838": 2147483637,
-    "33309845": 2147483637,
-    "3340886": 2147483646,
-    "33431636": 2147483646,
-    "33445209": 2147483637,
-    "33503737": 2147483637,
-    "33592": 2147483643,
-    "3359698": 2147483646,
-    "3363": 2147483637,
-    "33705695": 2147483646,
-    "33719893": 2147483646,
-    "3387233": 2147483643,
-    "339": 2147483643,
-    "3396759": 2147483647,
-    "340454": 2147483646,
-    "340496": 2147483637,
-    "340787": 2147483646,
-    "341201": 2147483642,
-    "341207": 2147483642,
-    "3441686": 2147483637,
-    "34745227": 2147483637,
-    "347733": 2147483646,
-    "347835": 2147483642,
-    "35211682": 2147483637,
-    "35311411": 2147483637,
-    "354047": 2147483646,
-    "354618": 2147483642,
-    "35472011": 2147483637,
-    "35473309": 2147483637,
-    "3549595": 2147483637,
-    "357736": 2147483646,
-    "3577878": 2147483637,
-    "35973447": 2147483637,
-    "35999537": 2147483639,
-    "36017709": 2147483637,
-    "36031977": 2147483646,
-    "36041567": 2147483637,
-    "36047895": 2147483642,
-    "360677": 2147483637,
-    "36132160": 2147483637,
-    "36208421": 2147483637,
-    "3620951": 2147483637,
-    "36488815": 2147483640,
-    "3670478": 2147483637,
-    "3671251": 2147483637,
-    "36755513": 2147483642,
-    "36858": 2147483642,
-    "36912723": 2147483646,
-    "36969": 2147483637,
-    "36979": 2147483642,
-    "37000": 2147483640,
-    "37055567": 2147483637,
-    "370599": 2147483637,
-    "370716": 2147483637,
-    "37104745": 2147483646,
-    "37127074": 2147483637,
-    "3719867": 2147483637,
-    "37322106": 2147483637,
-    "374544": 2147483646,
-    "3747": 2147483643,
-    "37507782": 2147483639,
-    "37561": 2147483646,
-    "37563": 2147483646,
-    "37698065": 2147483637,
-    "37739784": 2147483637,
-    "37774663": 2147483639,
-    "3779395": 2147483637,
-    "37799672": 2147483642,
-    "378253": 2147483646,
-    "382178": 2147483646,
-    "38263183": 2147483637,
-    "38323631": 2147483640,
-    "386117": 2147483637,
-    "38965717": 2147483637,
-    "389841": 2147483646,
-    "39007": 2147483647,
-    "390441": 2147483642,
-    "390827": 2147483637,
-    "39115273": 2147483637,
-    "39228140": 2147483637,
-    "39359642": 2147483637,
-    "39360096": 2147483637,
-    "39381650": 2147483647,
-    "3938382": 2147483642,
-    "39542053": 2147483640,
-    "39569": 2147483646,
-    "3969": 2147483637,
-    "39826001": 2147483637,
-    "40138311": 2147483642,
-    "4014271": 2147483637,
-    "40199886": 2147483643,
-    "403729": 2147483646,
-    "405202": 2147483646,
-    "40549465": 2147483637,
-    "405803": 2147483642,
-    "4083895": 2147483637,
-    "41041655": 2147483646,
-    "41137348": 2147483646,
-    "41201483": 2147483637,
-    "41513672": 2147483646,
-    "41592837": 2147483637,
-    "41675971": 2147483637,
-    "41677369": 2147483637,
-    "416813": 2147483646,
-    "417261": 2147483646,
-    "41732656": 2147483642,
-    "41783936": 2147483637,
-    "41785662": 2147483637,
-    "41793249": 2147483637,
-    "41839006": 2147483637,
-    "41959104": 2147483637,
-    "42052480": 2147483637,
-    "4216117": 2147483647,
-    "4219805": 2147483638,
-    "42201002": 2147483646,
-    "42307510": 2147483637,
-    "42348022": 2147483646,
-    "42408464": 2147483646,
-    "42487413": 2147483646,
-    "42569835": 2147483637,
-    "426522": 2147483637,
-    "4265293": 2147483637,
-    "4265920": 2147483637,
-    "4266582": 2147483646,
-    "42688287": 2147483637,
-    "4269236": 2147483646,
-    "42723701": 2147483637,
-    "42729261": 2147483637,
-    "4275382": 2147483637,
-    "42753823": 2147483642,
-    "42754": 2147483646,
-    "42759845": 2147483637,
-    "42899133": 2147483646,
-    "429272": 2147483637,
-    "4300692": 2147483646,
-    "43191282": 2147483647,
-    "4321729": 2147483642,
-    "4333464": 2147483646,
-    "434157": 2147483646,
-    "435295": 2147483642,
-    "435355": 2147483643,
-    "43710448": 2147483637,
-    "43745715": 2147483637,
-    "43746690": 2147483637,
-    "43760257": 2147483637,
-    "43804871": 2147483637,
-    "43821280": 2147483637,
-    "43825827": 2147483637,
-    "43911086": 2147483637,
-    "439128": 2147483642,
-    "4402492": 2147483646,
-    "4408954": 2147483637,
-    "44199440": 2147483646,
-    "4431": 2147483644,
-    "44457824": 2147483637,
-    "44582614": 2147483640,
-    "446706": 2147483646,
-    "45092817": 2147483646,
-    "4517471": 2147483643,
-    "45234135": 2147483647,
-    "4527907": 2147483637,
-    "4528864": 2147483646,
-    "45324": 2147483637,
-    "45353683": 2147483642,
-    "453576": 2147483646,
-    "45372257": 2147483642,
-    "453760": 2147483646,
-    "453828": 2147483646,
-    "45461920": 2147483637,
-    "454645": 2147483646,
-    "454830": 2147483646,
-    "45509917": 2147483646,
-    "455243": 2147483637,
-    "45540241": 2147483637,
-    "456119": 2147483646,
-    "456414": 2147483647,
-    "45677868": 2147483637,
-    "45691207": 2147483646,
-    "4578168": 2147483646,
-    "458042": 2147483647,
-    "461935": 2147483646,
-    "46230765": 2147483646,
-    "4627535": 2147483637,
-    "4631981": 2147483646,
-    "463558": 2147483637,
-    "46376482": 2147483637,
-    "46412833": 2147483637,
-    "4647565": 2147483646,
-    "46484": 2147483637,
-    "465598": 2147483646,
-    "46743445": 2147483637,
-    "46745852": 2147483637,
-    "46826545": 2147483637,
-    "46955205": 2147483637,
-    "46979246": 2147483640,
-    "47179029": 2147483642,
-    "47430185": 2147483637,
-    "47548": 2147483646,
-    "476468": 2147483646,
-    "47717": 2147483643,
-    "477372": 2147483646,
-    "47826163": 2147483637,
-    "47827574": 2147483637,
-    "47837024": 2147483637,
-    "4783787": 2147483646,
-    "47839221": 2147483637,
-    "47849884": 2147483637,
-    "47862474": 2147483637,
-    "47951486": 2147483637,
-    "47993720": 2147483637,
-    "4801261": 2147483646,
-    "4813869": 2147483646,
-    "48259302": 2147483642,
-    "483473": 2147483637,
-    "48428916": 2147483646,
-    "48487493": 2147483646,
-    "485487": 2147483637,
-    "48552793": 2147483637,
-    "48583314": 2147483643,
-    "48625370": 2147483637,
-    "4873935": 2147483646,
-    "48771504": 2147483637,
-    "48792591": 2147483637,
-    "48797580": 2147483637,
-    "48861928": 2147483645,
-    "48881112": 2147483646,
-    "489589": 2147483646,
-    "48977397": 2147483637,
-    "49018398": 2147483642,
-    "490310": 2147483646,
-    "490484": 2147483640,
-    "49270703": 2147483637,
-    "4932663": 2147483646,
-    "49351454": 2147483637,
-    "493990": 2147483637,
-    "49410576": 2147483642,
-    "494785": 2147483646,
-    "49592": 2147483637,
-    "49683385": 2147483637,
-    "497057": 2147483637,
-    "49770662": 2147483637,
-    "49778373": 2147483637,
-    "4984440": 2147483642,
-    "49961869": 2147483637,
-    "501079": 2147483646,
-    "5012968": 2147483646,
-    "50146951": 2147483637,
-    "502235": 2147483642,
-    "502887": 2147483646,
-    "503360": 2147483646,
-    "50436882": 2147483643,
-    "5043734": 2147483637,
-    "5052197": 2147483643,
-    "5054621": 2147483637,
-    "5058690": 2147483640,
-    "50595268": 2147483637,
-    "506063": 2147483646,
-    "50614090": 2147483637,
-    "50632848": 2147483637,
-    "50650158": 2147483637,
-    "5073665": 2147483637,
-    "50783943": 2147483646,
-    "50787160": 2147483640,
-    "50819040": 2147483637,
-    "509025": 2147483637,
-    "509468": 2147483637,
-    "5094710": 2147483646,
-    "509495": 2147483637,
-    "50966243": 2147483642,
-    "51044207": 2147483637,
-    "51132403": 2147483637,
-    "512185": 2147483646,
-    "51452114": 2147483646,
-    "5151550": 2147483637,
-    "51524576": 2147483637,
-    "51525974": 2147483637,
-    "51527683": 2147483637,
-    "5163": 2147483637,
-    "51703883": 2147483637,
-    "51776148": 2147483637,
-    "51781529": 2147483637,
-    "51930373": 2147483637,
-    "519610": 2147483646,
-    "51974": 2147483647,
-    "51983": 2147483638,
-    "52070722": 2147483637,
-    "5219133": 2147483646,
-    "52386271": 2147483646,
-    "5244557": 2147483646,
-    "52547512": 2147483640,
-    "526016": 2147483646,
-    "52621913": 2147483637,
-    "52717428": 2147483643,
-    "52726": 2147483637,
-    "52859040": 2147483637,
-    "52951710": 2147483646,
-    "53049": 2147483646,
-    "53082383": 2147483640,
-    "531849": 2147483637,
-    "53292": 2147483642,
-    "53318377": 2147483637,
-    "533484": 2147483646,
-    "53395": 2147483643,
-    "5340420": 2147483637,
-    "53487581": 2147483637,
-    "5352231": 2147483646,
-    "53565652": 2147483646,
-    "538419": 2147483637,
-    "538882": 2147483646,
-    "540333": 2147483637,
-    "5418543": 2147483646,
-    "5438787": 2147483646,
-    "547899": 2147483646,
-    "5493": 2147483646,
-    "551920": 2147483642,
-    "556979": 2147483646,
-    "5597296": 2147483646,
-    "56315": 2147483642,
-    "5635": 2147483643,
-    "5679058": 2147483646,
-    "56887": 2147483642,
-    "5695954": 2147483637,
-    "5698": 2147483643,
-    "5709156": 2147483637,
-    "572436": 2147483637,
-    "573744": 2147483646,
-    "574533": 2147483647,
-    "57572": 2147483637,
-    "578152": 2147483643,
-    "5781551": 2147483637,
-    "5839243": 2147483637,
-    "58617": 2147483644,
-    "5861977": 2147483637,
-    "58920": 2147483646,
-    "59051": 2147483638,
-    "5927682": 2147483646,
-    "595121": 2147483637,
-    "597542": 2147483646,
-    "59801": 2147483646,
-    "598081": 2147483646,
-    "601288": 2147483646,
-    "602584": 2147483646,
-    "6035": 2147483637,
-    "604727": 2147483637,
-    "6064346": 2147483643,
-    "606778": 2147483646,
-    "60919": 2147483646,
-    "60991": 2147483646,
-    "61114": 2147483646,
-    "61115": 2147483646,
-    "61116": 2147483646,
-    "6119977": 2147483637,
-    "6121363": 2147483638,
-    "6125": 2147483643,
-    "6130928": 2147483638,
-    "6175075": 2147483642,
-    "619230": 2147483646,
-    "619795": 2147483640,
-    "6238402": 2147483646,
-    "6260652": 2147483637,
-    "6281986": 2147483642,
-    "630463": 2147483637,
-    "63075": 2147483643,
-    "6310": 2147483646,
-    "63394": 2147483637,
-    "64704": 2147483646,
-    "6480525": 2147483642,
-    "649879": 2147483646,
-    "6503002": 2147483637,
-    "65307": 2147483646,
-    "6532866": 2147483646,
-    "653348": 2147483642,
-    "65450": 2147483637,
-    "65542": 2147483646,
-    "65651": 2147483640,
-    "6598": 2147483642,
-    "6672660": 2147483637,
-    "6696765": 2147483637,
-    "670734": 2147483646,
-    "67193": 2147483642,
-    "677955": 2147483646,
-    "6824": 2147483643,
-    "6882090": 2147483642,
-    "6888388": 2147483637,
-    "68939": 2147483646,
-    "689685": 2147483646,
-    "691782": 2147483637,
-    "6972293": 2147483637,
-    "6975043": 2147483640,
-    "6984468": 2147483637,
-    "6992029": 2147483646,
-    "703404": 2147483646,
-    "703643": 2147483646,
-    "703719": 2147483646,
-    "70667": 2147483646,
-    "7085266": 2147483646,
-    "7089": 2147483637,
-    "709288": 2147483646,
-    "712629": 2147483646,
-    "715155": 2147483646,
-    "7154403": 2147483644,
-    "7196175": 2147483646,
-    "7218": 2147483637,
-    "72595": 2147483646,
-    "73276": 2147483646,
-    "7366": 2147483637,
-    "743417": 2147483646,
-    "7438521": 2147483637,
-    "7541": 2147483646,
-    "7596506": 2147483642,
-    "7670237": 2147483646,
-    "76723": 2147483637,
-    "7673670": 2147483646,
-    "7780536": 2147483642,
-    "7841763": 2147483637,
-    "7858726": 2147483646,
-    "794480": 2147483646,
-    "7955551": 2147483646,
-    "7962398": 2147483637,
-    "799720": 2147483642,
-    "802104": 2147483646,
-    "80734": 2147483646,
-    "80789": 2147483643,
-    "809": 2147483642,
-    "8126760": 2147483637,
-    "816236": 2147483646,
-    "816908": 2147483646,
-    "8244710": 2147483637,
-    "8245125": 2147483637,
-    "8245187": 2147483637,
-    "8245256": 2147483637,
-    "8245307": 2147483637,
-    "8304016": 2147483637,
-    "83266": 2147483646,
-    "8372875": 2147483637,
-    "838020": 2147483637,
-    "8387": 2147483637,
-    "838975": 2147483646,
-    "8395545": 2147483646,
-    "8456009": 2147483637,
-    "84692": 2147483646,
-    "8594232": 2147483637,
-    "8603844": 2147483637,
-    "8680788": 2147483642,
-    "8716691": 2147483640,
-    "876849": 2147483637,
-    "8788317": 2147483646,
-    "8796016": 2147483646,
-    "89061": 2147483646,
-    "8914490": 2147483637,
-    "89668": 2147483646,
-    "90064": 2147483637,
-    "901325": 2147483637,
-    "9090614": 2147483646,
-    "912618": 2147483646,
-    "9142710": 2147483646,
-    "915309": 2147483637,
-    "9181362": 2147483646,
-    "919151": 2147483646,
-    "9253": 2147483637,
-    "9317": 2147483646,
-    "9354232": 2147483637,
-    "9480591": 2147483646,
-    "9487095": 2147483646,
-    "959670": 2147483637,
-    "9608774": 2147483646,
-    "9650608": 2147483646,
-    "978770": 2147483646,
-    "98078": 2147483646,
-    "98089": 2147483646,
-    "9843825": 2147483642,
-    "9929": 2147483637,
-    "9952854": 2147483646
-  }
+  ]
 }

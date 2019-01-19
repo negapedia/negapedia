@@ -6,23 +6,22 @@ import (
 
 	"github.com/pkg/errors"
 
-	"github.com/ebonetti/overpedia/internal/preprocessor"
 	"github.com/ebonetti/overpedia/nationalization/internal"
 )
 
 //New return a Nationalization in the specified language if it does exist.
-func New(lang string) (data preprocessor.Nationalization, err error) {
+func New(lang string) (data Nationalization, err error) {
 	bytes, err := internal.Asset(lang + ".json")
 	if err != nil {
 		err = errors.Wrapf(err, "Language %s not found", lang)
 		return
 	}
 
-	data.Article2Topic = map[uint32]uint32{}
-
-	if err = json.Unmarshal(bytes, &data); err != nil {
+	d := data
+	if err = json.Unmarshal(bytes, &d); err != nil {
 		err = errors.Wrapf(err, "Error while parsing %s json", lang)
-		data = preprocessor.Nationalization{}
+	} else {
+		data = d
 	}
 
 	return
@@ -34,4 +33,21 @@ func List() (langs []string) {
 		langs = append(langs, strings.TrimSuffix(lang, ".json"))
 	}
 	return
+}
+
+//Nationalization represents a Nationalization, the data that binds Negapedia to Wikipedia
+type Nationalization struct {
+	Language string
+	Topics   []struct {
+		Page
+		Abstract             string
+		Categories, Articles []Page `json:",omitempty"`
+	}
+	Filters []Page `json:",omitempty"`
+}
+
+//Page represents a page, consisting of a title and a page ID
+type Page struct {
+	ID    uint32
+	Title string
 }
