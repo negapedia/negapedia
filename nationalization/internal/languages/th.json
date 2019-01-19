@@ -1,0 +1,1394 @@
+{
+  "Language": "th",
+  "Topics": [
+    {
+      "ID": 2147483637,
+      "Title": "Culture and the arts",
+      "Abstract": "The word culture is derived from the Latin root cultura or cultus meaning to \"inhabit, cultivate, or honour\". In general, culture refers to human activity; different definitions of culture reflect different theories for understanding, or criteria for valuing human activity. Present day Anthropologists use the term to refer to the universal human capacity to classify experiences and to encode and communicate them symbolically. They regard this capacity as a defining feature of the genus Homo. Since culture is learned, people living in different places have different cultures. There can be different cultures in different countries, and there can also be shared cultures among continents.\n\nThe arts are a vast subdivision of culture, composed of many creative endeavors and disciplines. It is a broader term than \"art,\" which as a description of a field usually means only the visual arts. The arts encompasses visual arts, literary arts and the performing arts - music, theatre, dance, spoken word and film, among others.\n\nArt, in its broadest meaning, is the expression of creativity or imagination. The word art comes from the Latin word ars, which, loosely translated, means \"arrangement\". Art is commonly understood as the act of making works (or artworks) which use the human creative impulse and which have meaning beyond simple description. Art is often distinguished from crafts and recreational hobby activities. The term creative arts denotes a collection of disciplines whose principal purpose is the output of material for the viewer or audience to interpret. As such, art may be taken to include forms as diverse as prose writing, poetry, dance, acting or drama, film, music, sculpture, photography, illustration, architecture, collage, painting, craft and fashion. Art may also be understood as relating to creativity, æsthetics and the generation of emotion",
+      "Categories": [
+        {
+          "ID": 5011,
+          "Title": "หมวดหมู่:กีฬา"
+        },
+        {
+          "ID": 5012,
+          "Title": "หมวดหมู่:การบันเทิง"
+        },
+        {
+          "ID": 5015,
+          "Title": "หมวดหมู่:วัฒนธรรม"
+        },
+        {
+          "ID": 6269,
+          "Title": "หมวดหมู่:ศิลปะ"
+        },
+        {
+          "ID": 7445,
+          "Title": "หมวดหมู่:งานอดิเรก"
+        },
+        {
+          "ID": 8108,
+          "Title": "หมวดหมู่:อาหาร"
+        },
+        {
+          "ID": 10995,
+          "Title": "หมวดหมู่:นันทนาการ"
+        },
+        {
+          "ID": 42785,
+          "Title": "หมวดหมู่:กลุ่มดนตรี"
+        },
+        {
+          "ID": 230770,
+          "Title": "หมวดหมู่:การครัว"
+        }
+      ],
+      "Articles": [
+        {
+          "ID": 1933,
+          "Title": "วิกิพีเดีย"
+        },
+        {
+          "ID": 2994,
+          "Title": "สารานุกรม"
+        },
+        {
+          "ID": 3956,
+          "Title": "คุกกี้"
+        },
+        {
+          "ID": 4600,
+          "Title": "กาแฟ"
+        },
+        {
+          "ID": 5802,
+          "Title": "เบียร์"
+        },
+        {
+          "ID": 10021,
+          "Title": "ขนมปัง"
+        },
+        {
+          "ID": 21260,
+          "Title": "ฮอกวอตส์"
+        },
+        {
+          "ID": 39767,
+          "Title": "ช็อกโกแลต"
+        },
+        {
+          "ID": 42471,
+          "Title": "พิลส์เนอร์"
+        },
+        {
+          "ID": 44937,
+          "Title": "ไข่ต้ม"
+        },
+        {
+          "ID": 46817,
+          "Title": "เบียร์สด"
+        },
+        {
+          "ID": 50901,
+          "Title": "ผี"
+        },
+        {
+          "ID": 58747,
+          "Title": "เค้ก"
+        },
+        {
+          "ID": 63012,
+          "Title": "เนสซี"
+        },
+        {
+          "ID": 92316,
+          "Title": "ไส้อั่ว"
+        },
+        {
+          "ID": 96221,
+          "Title": "บุญบั้งไฟ"
+        },
+        {
+          "ID": 104126,
+          "Title": "ไข่เยี่ยวม้า"
+        },
+        {
+          "ID": 107455,
+          "Title": "กรีนเดย์"
+        },
+        {
+          "ID": 112453,
+          "Title": "พาสตา"
+        },
+        {
+          "ID": 155810,
+          "Title": "พระราชวังบักกิงแฮม"
+        },
+        {
+          "ID": 156362,
+          "Title": "วรรณกรรมแบบสัจนิยม"
+        },
+        {
+          "ID": 168737,
+          "Title": "ไข่ดาว"
+        },
+        {
+          "ID": 189192,
+          "Title": "ไข่เค็ม"
+        },
+        {
+          "ID": 204970,
+          "Title": "พิซซา"
+        },
+        {
+          "ID": 216551,
+          "Title": "ข้าวผัด"
+        },
+        {
+          "ID": 219152,
+          "Title": "เลด เซพเพลิน"
+        },
+        {
+          "ID": 226058,
+          "Title": "ซาโตชิ (โปเกมอน)"
+        },
+        {
+          "ID": 231950,
+          "Title": "มอร์เดร็ด"
+        },
+        {
+          "ID": 236313,
+          "Title": "ดับเบิลยูดับเบิลยูอี แชมเปียนชิป"
+        },
+        {
+          "ID": 238304,
+          "Title": "เอซี/ดีซี"
+        },
+        {
+          "ID": 246506,
+          "Title": "ไดโนเสาร์จูเนียร์"
+        },
+        {
+          "ID": 253128,
+          "Title": "ทองเอก"
+        },
+        {
+          "ID": 264643,
+          "Title": "อควา (วงดนตรี)"
+        },
+        {
+          "ID": 270641,
+          "Title": "ซาร์เจินต์เปปเปอส์โลนลีฮาตส์คลับแบนด์"
+        },
+        {
+          "ID": 343263,
+          "Title": "ถ้วยฟู"
+        },
+        {
+          "ID": 349480,
+          "Title": "แฮม"
+        },
+        {
+          "ID": 350429,
+          "Title": "แอ็งกรีเบิดส์ (วิดีโอเกม)"
+        },
+        {
+          "ID": 368846,
+          "Title": "จูดาส (เพลง)"
+        },
+        {
+          "ID": 403075,
+          "Title": "น้ำเงี้ยว"
+        },
+        {
+          "ID": 414020,
+          "Title": "เนยถั่วลิสง"
+        },
+        {
+          "ID": 420444,
+          "Title": "ไข่ (อาหาร)"
+        },
+        {
+          "ID": 525377,
+          "Title": "อาซัมเปอดัซ"
+        },
+        {
+          "ID": 569771,
+          "Title": "เดอะวอนเทด"
+        },
+        {
+          "ID": 615101,
+          "Title": "เดอะเวิลด์แฟกต์บุ๊ก"
+        },
+        {
+          "ID": 615589,
+          "Title": "แฟลบปีเบิร์ด"
+        },
+        {
+          "ID": 624262,
+          "Title": "ฝั่นโก๋"
+        },
+        {
+          "ID": 624265,
+          "Title": "เผือกทอดสอดไส้"
+        },
+        {
+          "ID": 632292,
+          "Title": "เบคอน"
+        },
+        {
+          "ID": 632329,
+          "Title": "เค้กฟองน้ำ"
+        },
+        {
+          "ID": 640296,
+          "Title": "เฟอเลชิโอ"
+        },
+        {
+          "ID": 642900,
+          "Title": "เค้กแต่งงาน"
+        },
+        {
+          "ID": 668352,
+          "Title": "ฮอตดอก"
+        },
+        {
+          "ID": 746087,
+          "Title": "การ์โบนารา"
+        },
+        {
+          "ID": 761784,
+          "Title": "ข้าวผัด (ไทย)"
+        },
+        {
+          "ID": 773935,
+          "Title": "ช็อกโกแลตชิป"
+        },
+        {
+          "ID": 799072,
+          "Title": "เจลาโต"
+        },
+        {
+          "ID": 859642,
+          "Title": "การประกวดเพลงยูโรวิชันปี 2017"
+        },
+        {
+          "ID": 909407,
+          "Title": "คุกกี้เสี่ยงทาย"
+        },
+        {
+          "ID": 932134,
+          "Title": "บีจิวเวลด์"
+        },
+        {
+          "ID": 932908,
+          "Title": "บีจิวเวลด์ 2"
+        },
+        {
+          "ID": 933644,
+          "Title": "การประกวดเพลงยูโรวิชันปี 2018"
+        },
+        {
+          "ID": 937808,
+          "Title": "บีจิวเวลด์ 3"
+        },
+        {
+          "ID": 973318,
+          "Title": "ดาร์กช็อกโกแลต"
+        },
+        {
+          "ID": 973340,
+          "Title": "ไวต์ช็อกโกแลต"
+        },
+        {
+          "ID": 985691,
+          "Title": "ตาโก"
+        },
+        {
+          "ID": 986189,
+          "Title": "ไข่สกอตช์"
+        },
+        {
+          "ID": 1004601,
+          "Title": "การอยู่เป็นโสด"
+        }
+      ]
+    },
+    {
+      "ID": 2147483638,
+      "Title": "Geography and places",
+      "Abstract": "Geography (Greek Geo (γη) or Gaea (γαία), meaning \"Earth\", and graphein (γράφειν) meaning \"to describe\" or \"to write\") is the study of the earth and its features, inhabitants, and phenomena. A literal translation would be \"to describe or write about the Earth\". The first person to use the word \"geography\" was Eratosthenes (275-195 B.C.). Four historical traditions in geographical research are the spatial analysis of natural and human phenomena (geography as a study of distribution), area studies (places and regions), study of man-land relationship, and research in earth sciences. Nonetheless, modern geography is an all-encompassing discipline that foremost seeks to understand the world and all of its human and natural complexities — not merely where objects are, but how they have changed and come to be. As \"the bridge between the human and physical sciences,\" geography is divided into two main branches — human geography and physical geography",
+      "Categories": [
+        {
+          "ID": 3940,
+          "Title": "หมวดหมู่:ภูมิศาสตร์"
+        },
+        {
+          "ID": 60430,
+          "Title": "หมวดหมู่:ธรณีสัณฐานวิทยา"
+        },
+        {
+          "ID": 63932,
+          "Title": "หมวดหมู่:สถานที่"
+        },
+        {
+          "ID": 109447,
+          "Title": "หมวดหมู่:การผังเมือง"
+        }
+      ],
+      "Articles": [
+        {
+          "ID": 1953,
+          "Title": "ประเทศพม่า"
+        },
+        {
+          "ID": 5951,
+          "Title": "ปารีส"
+        },
+        {
+          "ID": 37922,
+          "Title": "แคนเบอร์รา"
+        },
+        {
+          "ID": 94035,
+          "Title": "เวนิส"
+        },
+        {
+          "ID": 268894,
+          "Title": "รัฐควีนส์แลนด์"
+        }
+      ]
+    },
+    {
+      "ID": 2147483639,
+      "Title": "Health and fitness",
+      "Abstract": "Health is the level of functional or metabolic efficiency of a living organism. In humans it is the ability of individuals or communities to adapt and self-manage when facing physical, mental or social challenges. The most widely accepted definition of good health is that of the World Health Organization Constitution. It states: \"health is a state of complete physical, mental and social well-being and is not merely the absence of disease or infirmity\" (World Health Organization, 1946). In more recent years, this statement has been amplified to include the ability to lead a \"socially and economically productive life.\" The WHO definition is not without criticism, mainly that it is much too broad.\n\nThe most solid aspects of wellness that fit firmly in the realm of medicine are environmental health, nutrition, disease prevention, and public health. These matters can be investigated at length and can assist in measuring well-being. Please see our medical disclaimer for cautions about Wikipedia's limitations",
+      "Categories": [
+        {
+          "ID": 10997,
+          "Title": "หมวดหมู่:สุขภาพ"
+        },
+        {
+          "ID": 15627,
+          "Title": "หมวดหมู่:วิทยาศาสตร์สุขภาพ"
+        },
+        {
+          "ID": 15631,
+          "Title": "หมวดหมู่:การแพทย์เฉพาะทาง"
+        },
+        {
+          "ID": 18081,
+          "Title": "หมวดหมู่:แพทยศาสตร์"
+        },
+        {
+          "ID": 53820,
+          "Title": "หมวดหมู่:โรคทางพันธุกรรม"
+        },
+        {
+          "ID": 394351,
+          "Title": "หมวดหมู่:สุขศาสตร์"
+        },
+        {
+          "ID": 433771,
+          "Title": "หมวดหมู่:บุคลากรทางบริการสุขภาพ"
+        }
+      ]
+    },
+    {
+      "ID": 2147483640,
+      "Title": "History and events",
+      "Abstract": "History is the interpretation of past events, societies and civilizations. The term history comes from the Greek historia (ἱστορία), \"an account of one's inquiries,\" and shares that etymology with the English word story as narrative. The 1911 Encyclopædia Britannica stated that \"history in the wider sense is all that has happened, not merely all the phenomena of human life, but those of the natural world as well. It is everything that undergoes change; and as modern science has shown that there is nothing absolutely static, therefore, the whole universe, and every part of it, has its history.\" ",
+      "Categories": [
+        {
+          "ID": 3706,
+          "Title": "หมวดหมู่:ประวัติศาสตร์"
+        },
+        {
+          "ID": 18555,
+          "Title": "หมวดหมู่:เหตุการณ์"
+        },
+        {
+          "ID": 81912,
+          "Title": "หมวดหมู่:ประวัติศาสตร์แบ่งตามประเทศ"
+        },
+        {
+          "ID": 349534,
+          "Title": "หมวดหมู่:การเลือกตั้งแบ่งตามปี"
+        }
+      ],
+      "Articles": [
+        {
+          "ID": 28558,
+          "Title": "วินาศกรรม 11 กันยายน"
+        },
+        {
+          "ID": 112287,
+          "Title": "สงครามกรุงทรอย"
+        },
+        {
+          "ID": 323219,
+          "Title": "การรั่วไหลของน้ำมันดิบจากแท่นขุดเจาะดีพวอเทอร์ฮอไรซัน"
+        },
+        {
+          "ID": 363968,
+          "Title": "แผ่นดินไหวและคลื่นสึนามิในโทโฮกุ พ.ศ. 2554"
+        },
+        {
+          "ID": 434204,
+          "Title": "การเลือกตั้งประธานาธิบดีสหรัฐอเมริกา พ.ศ. 2555"
+        },
+        {
+          "ID": 463789,
+          "Title": "เหตุยิงกันในออโรรา ค.ศ. 2012"
+        },
+        {
+          "ID": 560905,
+          "Title": "ประวัติของตารางธาตุ"
+        },
+        {
+          "ID": 785966,
+          "Title": "การฆ่าฮารัมเบ"
+        },
+        {
+          "ID": 829929,
+          "Title": "การแทรกแซงการเลือกตั้งสหรัฐของรัสเซีย พ.ศ. 2559"
+        },
+        {
+          "ID": 887078,
+          "Title": "ประวัติศาสตร์การสื่อสาร"
+        }
+      ]
+    },
+    {
+      "ID": 2147483641,
+      "Title": "Mathematics and logic",
+      "Abstract": "Mathematics is the science of quantization. It is also the study of patterns and relationships, including concepts such as quantity, structure, space, uncertainty, and change. It evolved through the use of abstraction and logical reasoning, from counting, calculation, measurement, and the systematic study of positions, shapes and motions of physical objects. Mathematicians explore such concepts, aiming to formulate new conjectures and establish their truth by rigorous deduction from appropriately chosen axioms and definitions.\n\nLogic (from Classical Greek λόγος logos; meaning word, thought, idea, argument, account, reason or principle) is the study of the principles and criteria of valid inference and demonstration. As a formal science, logic investigates and classifies the structure of statements and arguments, both through the study of formal systems of inference and through the study of arguments in natural language. The field of logic ranges from core topics such as the study of fallacies and paradoxes, to specialized analysis of reasoning using probability and to arguments involving causality. Logic is also commonly used today in argumentation theory. Since the mid-nineteenth century formal logic has been studied in the context of the foundations of mathematics",
+      "Categories": [
+        {
+          "ID": 2376,
+          "Title": "หมวดหมู่:คณิตศาสตร์"
+        },
+        {
+          "ID": 5141,
+          "Title": "หมวดหมู่:ตรรกศาสตร์"
+        },
+        {
+          "ID": 6230,
+          "Title": "หมวดหมู่:คณิตศาสตร์ประยุกต์"
+        },
+        {
+          "ID": 6696,
+          "Title": "หมวดหมู่:สถิติศาสตร์"
+        },
+        {
+          "ID": 355519,
+          "Title": "หมวดหมู่:สาขาของคณิตศาสตร์"
+        },
+        {
+          "ID": 355520,
+          "Title": "หมวดหมู่:วิทยาการคอมพิวเตอร์เชิงทฤษฎี"
+        },
+        {
+          "ID": 396628,
+          "Title": "หมวดหมู่:มโนทัศน์ทางคณิตศาสตร์"
+        },
+        {
+          "ID": 396876,
+          "Title": "หมวดหมู่:ความน่าจะเป็นและสถิติ"
+        }
+      ],
+      "Articles": [
+        {
+          "ID": 47878,
+          "Title": "ความยาว"
+        }
+      ]
+    },
+    {
+      "ID": 2147483642,
+      "Title": "Nature and physical sciences",
+      "Abstract": "The term nature is derived from the Latin word natura, or \"essential qualities, innate disposition\". Natura is a Latin translation of the Greek word physis (φύσις), which originally related to the intrinsic characteristics that plants, animals, and other features of the world develop of their own accord. The concept of nature as a whole, all matter and energy in the universe, is one of several expansions of the original notion.\n\nPhysical science is an encompassing term for the branches of natural science, and science, that study non-living systems, in contrast to the biological sciences. However, the term \"physical\" creates an involuntary, somewhat arbitrary distinction, since many branches of physical science also study biological phenomena",
+      "Categories": [
+        {
+          "ID": 4580,
+          "Title": "หมวดหมู่:วิทยาศาสตร์"
+        },
+        {
+          "ID": 4997,
+          "Title": "หมวดหมู่:วิทยาศาสตร์ธรรมชาติ"
+        },
+        {
+          "ID": 5174,
+          "Title": "หมวดหมู่:ฟิสิกส์"
+        },
+        {
+          "ID": 5175,
+          "Title": "หมวดหมู่:เคมี"
+        },
+        {
+          "ID": 5200,
+          "Title": "หมวดหมู่:สัตววิทยา"
+        },
+        {
+          "ID": 5213,
+          "Title": "หมวดหมู่:ธรรมชาติ"
+        },
+        {
+          "ID": 17683,
+          "Title": "หมวดหมู่:สารประกอบเคมี"
+        },
+        {
+          "ID": 82232,
+          "Title": "หมวดหมู่:ภัยพิบัติ"
+        },
+        {
+          "ID": 243744,
+          "Title": "หมวดหมู่:วิทยาศาสตร์กายภาพ"
+        },
+        {
+          "ID": 360018,
+          "Title": "หมวดหมู่:วิทยาศาสตร์สิ่งแวดล้อม"
+        },
+        {
+          "ID": 565157,
+          "Title": "หมวดหมู่:สัตว์ที่พบแบ่งตามทวีป"
+        }
+      ],
+      "Articles": [
+        {
+          "ID": 6689,
+          "Title": "วัฏจักรของน้ำ"
+        },
+        {
+          "ID": 10435,
+          "Title": "ส้ม"
+        },
+        {
+          "ID": 11209,
+          "Title": "เสือ"
+        },
+        {
+          "ID": 23038,
+          "Title": "ข้าว"
+        },
+        {
+          "ID": 27178,
+          "Title": "ไฟ"
+        },
+        {
+          "ID": 32004,
+          "Title": "เลมอน"
+        },
+        {
+          "ID": 36018,
+          "Title": "ข้าวสาลี"
+        },
+        {
+          "ID": 37270,
+          "Title": "อูฐ"
+        },
+        {
+          "ID": 38305,
+          "Title": "การสำเร็จความใคร่ด้วยตนเอง"
+        },
+        {
+          "ID": 42608,
+          "Title": "องคชาต"
+        },
+        {
+          "ID": 64699,
+          "Title": "ข้าวโพด"
+        },
+        {
+          "ID": 76545,
+          "Title": "ข้าวเหนียว"
+        },
+        {
+          "ID": 86523,
+          "Title": "นกฟลามิงโก"
+        },
+        {
+          "ID": 93884,
+          "Title": "เสือโคร่งขาว"
+        },
+        {
+          "ID": 94721,
+          "Title": "แกลบ"
+        },
+        {
+          "ID": 100711,
+          "Title": "สารแขวนลอย"
+        },
+        {
+          "ID": 128245,
+          "Title": "สับปะรด"
+        },
+        {
+          "ID": 128271,
+          "Title": "สตรอว์เบอร์รี"
+        },
+        {
+          "ID": 136499,
+          "Title": "อัณฑะ"
+        },
+        {
+          "ID": 194464,
+          "Title": "ปัสสาวะ"
+        },
+        {
+          "ID": 225621,
+          "Title": "มะเขือเทศราชินี"
+        },
+        {
+          "ID": 396098,
+          "Title": "โซ่อาหาร"
+        },
+        {
+          "ID": 683155,
+          "Title": "นกบูบี"
+        },
+        {
+          "ID": 711781,
+          "Title": "สนสามใบ"
+        },
+        {
+          "ID": 776724,
+          "Title": "การเปลี่ยนแปลงแทนที่ขั้นปฐมภูมิ"
+        },
+        {
+          "ID": 796535,
+          "Title": "กบต้นไม้"
+        },
+        {
+          "ID": 856053,
+          "Title": "กวางมูส"
+        },
+        {
+          "ID": 868371,
+          "Title": "ลิงแมงมุม"
+        },
+        {
+          "ID": 988877,
+          "Title": "เซลล์ประสาทสั่งการ"
+        }
+      ]
+    },
+    {
+      "ID": 2147483643,
+      "Title": "People and self",
+      "Abstract": "A collection of people often refers to a general group, such as all humans, an ethnic group or a nation. An individual person is the self, from his or her own perspective. To you, \"self\" is you. To someone else, \"self\" is that person. A biography is a genre of literature or film, which presents a relatively full account of the most interesting and important events of a notable person's life.\n\nLife or personal life or human existence is an individual human's personal, private experience of living (including their employment career, their family life, and other elements). In prehistoric times, life and existence was based on survival. There was little privacy and a person was identified by their role in the group. In modern times, many people have even come to think of their personal lives as if they are separate from their work. This segmentation of \"life areas\" is evident in such phrases as \"work life\", \"home life\", and \"sex life.\" The meaning or role of a person's \"life\" or \"human existence\" is discussed in many religions and philosophies. In Western industrialized countries, there are a variety of service industries that help people improve their personal lives, such as counselling and life coaching companies",
+      "Categories": [
+        {
+          "ID": 1889,
+          "Title": "หมวดหมู่:บุคคล"
+        },
+        {
+          "ID": 45138,
+          "Title": "หมวดหมู่:นามสกุล"
+        },
+        {
+          "ID": 261935,
+          "Title": "หมวดหมู่:ผู้หญิง"
+        },
+        {
+          "ID": 329750,
+          "Title": "หมวดหมู่:ตัวละครภาพยนตร์"
+        },
+        {
+          "ID": 357126,
+          "Title": "หมวดหมู่:อัตตา"
+        }
+      ],
+      "Articles": [
+        {
+          "ID": 692,
+          "Title": "แอลัน ทัวริง"
+        },
+        {
+          "ID": 733,
+          "Title": "ชาลส์ แบบบิจ"
+        },
+        {
+          "ID": 3764,
+          "Title": "เรอเน เดการ์ต"
+        },
+        {
+          "ID": 4117,
+          "Title": "คาร์ล ฟรีดริช เกาส์"
+        },
+        {
+          "ID": 5528,
+          "Title": "อดัม สมิธ"
+        },
+        {
+          "ID": 6190,
+          "Title": "คาร์ล เซแกน"
+        },
+        {
+          "ID": 7999,
+          "Title": "คริสโตเฟอร์ โคลัมบัส"
+        },
+        {
+          "ID": 10334,
+          "Title": "อดอล์ฟ ฮิตเลอร์"
+        },
+        {
+          "ID": 11581,
+          "Title": "ริชชาร์ท วากเนอร์"
+        },
+        {
+          "ID": 13548,
+          "Title": "บิล เกตส์"
+        },
+        {
+          "ID": 15703,
+          "Title": "กาลิเลโอ กาลิเลอี"
+        },
+        {
+          "ID": 17164,
+          "Title": "โนม ชอมสกี"
+        },
+        {
+          "ID": 18078,
+          "Title": "ทอมัส อไควนัส"
+        },
+        {
+          "ID": 21799,
+          "Title": "แดเนียล แรดคลิฟฟ์"
+        },
+        {
+          "ID": 32298,
+          "Title": "ซีคมุนท์ ฟร็อยท์"
+        },
+        {
+          "ID": 35431,
+          "Title": "โยฮันเนส เคปเลอร์"
+        },
+        {
+          "ID": 41373,
+          "Title": "เลโอนาร์โด ฟีโบนัชชี"
+        },
+        {
+          "ID": 43986,
+          "Title": "จอห์น เลนนอน"
+        },
+        {
+          "ID": 55700,
+          "Title": "อเล็กซานเดอร์ เฟลมมิง"
+        },
+        {
+          "ID": 86874,
+          "Title": "ฟลอเรนซ์ ไนติงเกล"
+        },
+        {
+          "ID": 91743,
+          "Title": "เอลตัน จอห์น"
+        },
+        {
+          "ID": 155907,
+          "Title": "ลูอิส แคร์รอล"
+        },
+        {
+          "ID": 183000,
+          "Title": "วิลเลียม เบลก"
+        },
+        {
+          "ID": 212890,
+          "Title": "โอลิเวอร์ ครอมเวลล์"
+        },
+        {
+          "ID": 240610,
+          "Title": "จอร์จ แฮร์ริสัน"
+        },
+        {
+          "ID": 255938,
+          "Title": "เจคอบ แบล็ค"
+        },
+        {
+          "ID": 299226,
+          "Title": "แฮร์รี ฮูดินี"
+        },
+        {
+          "ID": 332473,
+          "Title": "บิ๊กโชว์"
+        },
+        {
+          "ID": 345951,
+          "Title": "โครี มอนทีท"
+        },
+        {
+          "ID": 364187,
+          "Title": "ศรีนิวาสะ รามานุจัน"
+        },
+        {
+          "ID": 463396,
+          "Title": "ริชาร์ด ดอว์กินส์"
+        },
+        {
+          "ID": 472953,
+          "Title": "แอนเดอส์ เบห์ริง เบรวิก"
+        },
+        {
+          "ID": 829505,
+          "Title": "เชลดอน คูเปอร์"
+        },
+        {
+          "ID": 858677,
+          "Title": "เออร์วิง แลงมิวร์"
+        },
+        {
+          "ID": 886228,
+          "Title": "ไอน์ แรนด์"
+        },
+        {
+          "ID": 890752,
+          "Title": "รายชื่อช่องที่มียอดติดตามสูงสุดในยูทูบ"
+        },
+        {
+          "ID": 892643,
+          "Title": "โจเซฟ สมิธ"
+        }
+      ]
+    },
+    {
+      "ID": 2147483644,
+      "Title": "Philosophy and thinking",
+      "Abstract": "Philosophy has almost as many definitions as there have been philosophers, both as a subject matter and an activity, and no simple definition can do it justice. The issue of the definition of philosophy is thus a controversial subject that is nowadays tackled by Metaphilosophy (or the philosophy of philosophy). The word is derived from the ancient Greek words philo-, to love or to befriend, and -sophia, wisdom. Modern usage of the term is much broader; the concept of philosophy encompasses all of knowledge and all that can be known, including the means by which such knowledge can be acquired. However, in the contemporary English-speaking academic world, the term is often used implicitly to refer to analytic philosophy and, in non-English speaking countries, it often refers implicitly to a different, European strain, continental philosophy. The ancient Greeks organized the subject into five basic categories: metaphysics, epistemology, ethics, politics and aesthetics. This organization of the subject is still largely in use in Western philosophy today.\n\nThought or thinking is a mental process which allows beings to model the world, and so to deal with it effectively according to their goals, plans, ends and desires. Words referring to similar concepts and processes in the English language include cognition, sentience, consciousness, idea, and imagination. Thinking involves the cerebral manipulation of information, as when we form concepts, engage in problem solving, reason and make decisions. Thinking is a higher cognitive function and the analysis of thinking processes is part of cognitive psychology",
+      "Categories": [
+        {
+          "ID": 4811,
+          "Title": "หมวดหมู่:ปรัชญา"
+        },
+        {
+          "ID": 5653,
+          "Title": "หมวดหมู่:จริยธรรม"
+        },
+        {
+          "ID": 17968,
+          "Title": "หมวดหมู่:ความคิด"
+        },
+        {
+          "ID": 23009,
+          "Title": "หมวดหมู่:สาขาของปรัชญา"
+        },
+        {
+          "ID": 342059,
+          "Title": "หมวดหมู่:อุดมการณ์"
+        },
+        {
+          "ID": 398734,
+          "Title": "หมวดหมู่:ทฤษฎีปรัชญา"
+        }
+      ],
+      "Articles": [
+        {
+          "ID": 23225,
+          "Title": "ความงาม"
+        },
+        {
+          "ID": 208253,
+          "Title": "ความสุข"
+        },
+        {
+          "ID": 832527,
+          "Title": "ปรากฏการณ์ดันนิง–ครูเกอร์"
+        }
+      ]
+    },
+    {
+      "ID": 2147483645,
+      "Title": "Religion and belief systems",
+      "Abstract": "Religion is the adherence to codified beliefs and rituals that generally involve a faith in a spiritual nature and a study of inherited ancestral traditions, knowledge and wisdom related to understanding human life. The term \"religion\" refers to both the personal practices related to faith as well as to the larger shared systems of belief.\n\nA belief system can refer to a religion or a world view. A world view (or worldview) is a term calqued from the German word Weltanschauung Welt is the German word for 'world,' and Anschauung is the German word for 'view' or 'outlook'. It is a concept fundamental to German philosophy and epistemology and refers to a wide world perception. Additionally, it refers to the framework of ideas and beliefs through which an individual interprets the world and interacts in it",
+      "Categories": [
+        {
+          "ID": 3140,
+          "Title": "หมวดหมู่:ศาสนา"
+        },
+        {
+          "ID": 5655,
+          "Title": "หมวดหมู่:ความเชื่อ"
+        },
+        {
+          "ID": 190117,
+          "Title": "หมวดหมู่:ปรัมปราวิทยา"
+        },
+        {
+          "ID": 398734,
+          "Title": "หมวดหมู่:ทฤษฎีปรัชญา"
+        },
+        {
+          "ID": 578917,
+          "Title": "หมวดหมู่:ศาสนาแบบอินเดีย"
+        },
+        {
+          "ID": 596084,
+          "Title": "หมวดหมู่:การวิจารณ์ศาสนา"
+        },
+        {
+          "ID": 596085,
+          "Title": "หมวดหมู่:ฆราวาสนิยม"
+        }
+      ]
+    },
+    {
+      "ID": 2147483646,
+      "Title": "Society and social sciences",
+      "Abstract": "A society is a group of people who form a semi-closed system. At its simplest, the term society refers to a large group of people sharing their own culture and institutions. A society is a network of relationships between people. The English word society is derived from the French société, which had its origin in the Latin societas, a \"friendly association with others,\" from socius meaning \"companion, associate, comrade or business partner.\" Thus, the meaning of society is closely related to what is considered to be social. Implicit in the meaning of society is that its members may share some mutual concern or interest, a common objective or common characteristics. The social sciences generally use the term society to mean a group of people who form a semi-closed social system, in which most interactions are with other individuals belonging to the group. More abstractly, a society is defined as a network of relationships between social entities. A society is also sometimes defined as an interdependent community, but the sociologist Tönnies sought to draw a contrast between society and community. An important feature of society is social structure, aspects of which include roles and social ranking.\n\nThe social science are a group of academic disciplines that study human aspects of the world. They differ from the arts and the humanities, in that the social science tend to emphasize the use of the scientific method in the study of humanity, including quantitative and qualitative methods",
+      "Categories": [
+        {
+          "ID": 5007,
+          "Title": "หมวดหมู่:องค์การระหว่างประเทศ"
+        },
+        {
+          "ID": 5140,
+          "Title": "หมวดหมู่:สังคมศาสตร์"
+        },
+        {
+          "ID": 5142,
+          "Title": "หมวดหมู่:สังคม"
+        },
+        {
+          "ID": 11505,
+          "Title": "หมวดหมู่:สิทธิ"
+        }
+      ],
+      "Articles": [
+        {
+          "ID": 669,
+          "Title": "มหาวิทยาลัยธรรมศาสตร์"
+        },
+        {
+          "ID": 779,
+          "Title": "มหาวิทยาลัยเคมบริดจ์"
+        },
+        {
+          "ID": 2065,
+          "Title": "สหภาพยุโรป"
+        },
+        {
+          "ID": 5017,
+          "Title": "เวลาออมแสง"
+        },
+        {
+          "ID": 19383,
+          "Title": "สถาบันเทคโนโลยีแมสซาชูเซตส์"
+        },
+        {
+          "ID": 19410,
+          "Title": "มหาวิทยาลัยฮาร์วาร์ด"
+        },
+        {
+          "ID": 20706,
+          "Title": "มหาวิทยาลัยออกซฟอร์ด"
+        },
+        {
+          "ID": 22338,
+          "Title": "มหาวิทยาลัยฮกไกโด"
+        },
+        {
+          "ID": 23312,
+          "Title": "มหาวิทยาลัยกลาสโกว์"
+        },
+        {
+          "ID": 25753,
+          "Title": "ตรุษจีน"
+        },
+        {
+          "ID": 27954,
+          "Title": "มหาวิทยาลัยสแตนฟอร์ด"
+        },
+        {
+          "ID": 30666,
+          "Title": "มหาวิทยาลัยมิชิแกน"
+        },
+        {
+          "ID": 32938,
+          "Title": "มหาวิทยาลัยเทกซัส ออสติน"
+        },
+        {
+          "ID": 32987,
+          "Title": "มหาวิทยาลัยไรซ์"
+        },
+        {
+          "ID": 33075,
+          "Title": "มหาวิทยาลัยซินซินแนติ"
+        },
+        {
+          "ID": 33095,
+          "Title": "มหาวิทยาลัยมินนิโซตา"
+        },
+        {
+          "ID": 33118,
+          "Title": "มหาวิทยาลัยพรินซ์ตัน"
+        },
+        {
+          "ID": 33272,
+          "Title": "มหาวิทยาลัยเพนซิลเวเนีย"
+        },
+        {
+          "ID": 33274,
+          "Title": "มหาวิทยาลัยโคลัมเบีย"
+        },
+        {
+          "ID": 33276,
+          "Title": "มหาวิทยาลัยวอชิงตัน"
+        },
+        {
+          "ID": 33283,
+          "Title": "มหาวิทยาลัยอิลลินอยส์ ชิคาโก"
+        },
+        {
+          "ID": 33837,
+          "Title": "มหาวิทยาลัยวอชิงตัน เซนต์หลุยส์"
+        },
+        {
+          "ID": 33844,
+          "Title": "มหาวิทยาลัยไอโอวา"
+        },
+        {
+          "ID": 33854,
+          "Title": "มหาวิทยาลัยโอไฮโอสเตต"
+        },
+        {
+          "ID": 33980,
+          "Title": "มหาวิทยาลัยเซาเทิร์นแคลิฟอร์เนีย"
+        },
+        {
+          "ID": 34018,
+          "Title": "มหาวิทยาลัยเวอร์จิเนีย"
+        },
+        {
+          "ID": 34022,
+          "Title": "มหาวิทยาลัยออริกอน"
+        },
+        {
+          "ID": 35315,
+          "Title": "สถาบันอุดมศึกษาของรัฐ"
+        },
+        {
+          "ID": 35730,
+          "Title": "มหาวิทยาลัยโตเกียว"
+        },
+        {
+          "ID": 35880,
+          "Title": "มหาวิทยาลัยแอเบอร์ดีน"
+        },
+        {
+          "ID": 35882,
+          "Title": "มหาวิทยาลัยเซนต์แอนดรูส์"
+        },
+        {
+          "ID": 35995,
+          "Title": "มหาวิทยาลัยชิคาโก"
+        },
+        {
+          "ID": 38626,
+          "Title": "มหาวิทยาลัยมอสโก"
+        },
+        {
+          "ID": 38729,
+          "Title": "มหาวิทยาลัยปารีส"
+        },
+        {
+          "ID": 42745,
+          "Title": "มหาวิทยาลัยซัสเซ็กส์"
+        },
+        {
+          "ID": 51167,
+          "Title": "โครงการสิ่งแวดล้อมแห่งสหประชาชาติ"
+        },
+        {
+          "ID": 56151,
+          "Title": "สตาร์บัคส์"
+        },
+        {
+          "ID": 63150,
+          "Title": "มหาวิทยาลัยแห่งชาติออสเตรเลีย"
+        },
+        {
+          "ID": 81425,
+          "Title": "อเมริกันแอร์ไลน์"
+        },
+        {
+          "ID": 109121,
+          "Title": "มหาวิทยาลัยริไจนา"
+        },
+        {
+          "ID": 114840,
+          "Title": "ธงชาติออสเตรเลีย"
+        },
+        {
+          "ID": 116796,
+          "Title": "มหาวิทยาลัยลอนดอน"
+        },
+        {
+          "ID": 129820,
+          "Title": "เดอะนิวยอร์กไทมส์"
+        },
+        {
+          "ID": 136592,
+          "Title": "พิซซ่าฮัท"
+        },
+        {
+          "ID": 140518,
+          "Title": "มหาวิทยาลัยซีหนาน"
+        },
+        {
+          "ID": 150765,
+          "Title": "มหาวิทยาลัยแมริแลนด์ คอลเลจพาร์ก"
+        },
+        {
+          "ID": 155436,
+          "Title": "มหาวิทยาลัยลีดส์"
+        },
+        {
+          "ID": 206085,
+          "Title": "มหาวิทยาลัยอุปซอลา"
+        },
+        {
+          "ID": 246632,
+          "Title": "มหาวิทยาลัยไลพ์ซิช"
+        },
+        {
+          "ID": 302092,
+          "Title": "อิมพิเรียลคอลเลจลอนดอน"
+        },
+        {
+          "ID": 304640,
+          "Title": "มหาวิทยาลัยเดลาแวร์"
+        },
+        {
+          "ID": 318015,
+          "Title": "มหาวิทยาลัยหนานจิง"
+        },
+        {
+          "ID": 326423,
+          "Title": "มหาวิทยาลัยโซกะ"
+        },
+        {
+          "ID": 327117,
+          "Title": "มหาวิทยาลัยโบโลญญา"
+        },
+        {
+          "ID": 330227,
+          "Title": "บีพี"
+        },
+        {
+          "ID": 346036,
+          "Title": "มหาวิทยาลัยโคโลญ"
+        },
+        {
+          "ID": 382240,
+          "Title": "มหาวิทยาลัยแอเคริน"
+        },
+        {
+          "ID": 412661,
+          "Title": "มหาวิทยาลัยลินเนียส"
+        },
+        {
+          "ID": 416748,
+          "Title": "สังคมสงเคราะห์"
+        },
+        {
+          "ID": 444907,
+          "Title": "ประเทศจำลอง"
+        },
+        {
+          "ID": 479828,
+          "Title": "มหาวิทยาลัยฮีบรูแห่งเยรูซาเลม"
+        },
+        {
+          "ID": 489132,
+          "Title": "มหาวิทยาลัยลิเวอร์พูล"
+        },
+        {
+          "ID": 502274,
+          "Title": "มหาวิทยาลัยอีสต์แองเกลีย"
+        },
+        {
+          "ID": 516367,
+          "Title": "มหาวิทยาลัยเซนต์ปีเตอร์สเบิร์ก"
+        },
+        {
+          "ID": 532332,
+          "Title": "สงครามโลกครั้งที่สาม"
+        },
+        {
+          "ID": 543561,
+          "Title": "มหาวิทยาลัยลินเชอปิง"
+        },
+        {
+          "ID": 561795,
+          "Title": "มหาวิทยาลัยไฟรบวร์ค"
+        },
+        {
+          "ID": 568985,
+          "Title": "มหาวิทยาลัยโอซากะ"
+        },
+        {
+          "ID": 607035,
+          "Title": "มหาวิทยาลัยมาลายา"
+        },
+        {
+          "ID": 608770,
+          "Title": "มหาวิทยาลัยเซาแทมป์ตัน"
+        },
+        {
+          "ID": 616907,
+          "Title": "มหาวิทยาลัยชิงหฺวา"
+        },
+        {
+          "ID": 656339,
+          "Title": "มหาวิทยาลัยเอ็กซิเตอร์"
+        },
+        {
+          "ID": 675974,
+          "Title": "มหาวิทยาลัยเบอร์มิงแฮม"
+        },
+        {
+          "ID": 675984,
+          "Title": "มหาวิทยาลัยเคนต์"
+        },
+        {
+          "ID": 677958,
+          "Title": "มหาวิทยาลัยแมนเชสเตอร์"
+        },
+        {
+          "ID": 677996,
+          "Title": "มหาวิทยาลัยนอตทิงแฮม"
+        },
+        {
+          "ID": 678178,
+          "Title": "มหาวิทยาลัยนอร์ทัมเบรีย"
+        },
+        {
+          "ID": 678417,
+          "Title": "มหาวิทยาลัยบริสตอล"
+        },
+        {
+          "ID": 679332,
+          "Title": "มหาวิทยาลัยเชฟฟีลด์"
+        },
+        {
+          "ID": 762004,
+          "Title": "มหาวิทยาลัยแห่งชาติโซล"
+        },
+        {
+          "ID": 871750,
+          "Title": "มหาวิทยาลัยควีนส์"
+        },
+        {
+          "ID": 887625,
+          "Title": "มหาวิทยาลัยเกิททิงเงิน"
+        },
+        {
+          "ID": 889079,
+          "Title": "มหาวิทยาลัยเลสเตอร์"
+        },
+        {
+          "ID": 937930,
+          "Title": "มหาวิทยาลัยเวือทซ์บวร์ค"
+        },
+        {
+          "ID": 983998,
+          "Title": "มหาวิทยาลัยสต็อกโฮล์ม"
+        },
+        {
+          "ID": 992777,
+          "Title": "มหาวิทยาลัยออกแลนด์"
+        }
+      ]
+    },
+    {
+      "ID": 2147483647,
+      "Title": "Technology and applied sciences",
+      "Abstract": "Technology is an expanded concept that deals with a species' usage and knowledge of tools and crafts, and how it affects a species' ability to control and adapt to its environment. In human civilization, it is a consequence of science and engineering, although several technological advances predate the formalization of these two disciplines. The term can either be applied generally or to specific areas – examples include construction technology, medical technology, or state-of-the-art technology.\n\nThe human race's use of technology began with the conversion of plentiful natural resources into simple tools. The prehistorical discovery of the ability to control fire increased the available sources of food, and the invention of the wheel helped humans in travelling in and controlling their environment. Recent technological developments, including the printing press and the Internet, have lessened physical barriers to communication and allowed humans to interact on a global scale. However, not all technology has been used for peaceful purposes; the development of weapons of ever-increasing destructive power has progressed throughout history, from clubs to nuclear bombs.\n\nApplied science is the application of knowledge from one or more natural scientific fields to solving practical problems. For example, fields of engineering are applied sciences. Applied science is important for technology development. Its use in industrial settings is usually referred to as research and development (R\u0026D)",
+      "Categories": [
+        {
+          "ID": 2560,
+          "Title": "หมวดหมู่:วิทยาการคอมพิวเตอร์"
+        },
+        {
+          "ID": 5169,
+          "Title": "หมวดหมู่:เทคโนโลยี"
+        },
+        {
+          "ID": 5170,
+          "Title": "หมวดหมู่:วิทยาศาสตร์ประยุกต์"
+        },
+        {
+          "ID": 5287,
+          "Title": "หมวดหมู่:วิศวกรรมศาสตร์"
+        },
+        {
+          "ID": 5775,
+          "Title": "หมวดหมู่:การขนส่ง"
+        },
+        {
+          "ID": 5874,
+          "Title": "หมวดหมู่:อินเทอร์เน็ต"
+        },
+        {
+          "ID": 5903,
+          "Title": "หมวดหมู่:อิเล็กทรอนิกส์"
+        },
+        {
+          "ID": 18100,
+          "Title": "หมวดหมู่:ยุทโธปกรณ์"
+        },
+        {
+          "ID": 85724,
+          "Title": "หมวดหมู่:การออกแบบ"
+        },
+        {
+          "ID": 102706,
+          "Title": "หมวดหมู่:เทคโนโลยีแบ่งตามประเภท"
+        },
+        {
+          "ID": 228614,
+          "Title": "หมวดหมู่:ประวัติเทคโนโลยี"
+        },
+        {
+          "ID": 517984,
+          "Title": "หมวดหมู่:การคอมพิวเตอร์"
+        }
+      ],
+      "Articles": [
+        {
+          "ID": 10276,
+          "Title": "เป๊ปซี่"
+        },
+        {
+          "ID": 36316,
+          "Title": ".xxx"
+        },
+        {
+          "ID": 297006,
+          "Title": "หมากฝรั่ง"
+        },
+        {
+          "ID": 428880,
+          "Title": "วัสดุก่อ"
+        },
+        {
+          "ID": 482154,
+          "Title": "ผนัง"
+        },
+        {
+          "ID": 780314,
+          "Title": "การเชื่อมทิก"
+        }
+      ]
+    }
+  ],
+  "Filters": [
+    {
+      "ID": 4937,
+      "Title": "หมวดหมู่:การแก้ความกำกวม"
+    },
+    {
+      "ID": 204150,
+      "Title": "หมวดหมู่:หมวดหมู่ที่ซ่อนอยู่"
+    }
+  ]
+}

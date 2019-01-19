@@ -1,0 +1,1612 @@
+{
+  "Language": "id",
+  "Topics": [
+    {
+      "ID": 2147483637,
+      "Title": "Culture and the arts",
+      "Abstract": "The word culture is derived from the Latin root cultura or cultus meaning to \"inhabit, cultivate, or honour\". In general, culture refers to human activity; different definitions of culture reflect different theories for understanding, or criteria for valuing human activity. Present day Anthropologists use the term to refer to the universal human capacity to classify experiences and to encode and communicate them symbolically. They regard this capacity as a defining feature of the genus Homo. Since culture is learned, people living in different places have different cultures. There can be different cultures in different countries, and there can also be shared cultures among continents.\n\nThe arts are a vast subdivision of culture, composed of many creative endeavors and disciplines. It is a broader term than \"art,\" which as a description of a field usually means only the visual arts. The arts encompasses visual arts, literary arts and the performing arts - music, theatre, dance, spoken word and film, among others.\n\nArt, in its broadest meaning, is the expression of creativity or imagination. The word art comes from the Latin word ars, which, loosely translated, means \"arrangement\". Art is commonly understood as the act of making works (or artworks) which use the human creative impulse and which have meaning beyond simple description. Art is often distinguished from crafts and recreational hobby activities. The term creative arts denotes a collection of disciplines whose principal purpose is the output of material for the viewer or audience to interpret. As such, art may be taken to include forms as diverse as prose writing, poetry, dance, acting or drama, film, music, sculpture, photography, illustration, architecture, collage, painting, craft and fashion. Art may also be understood as relating to creativity, æsthetics and the generation of emotion",
+      "Categories": [
+        {
+          "ID": 8542,
+          "Title": "Kategori:Hobi"
+        },
+        {
+          "ID": 8543,
+          "Title": "Kategori:Hiburan"
+        },
+        {
+          "ID": 8546,
+          "Title": "Kategori:Budaya"
+        },
+        {
+          "ID": 8565,
+          "Title": "Kategori:Olahraga"
+        },
+        {
+          "ID": 8569,
+          "Title": "Kategori:Rekreasi"
+        },
+        {
+          "ID": 8571,
+          "Title": "Kategori:Seni"
+        },
+        {
+          "ID": 16533,
+          "Title": "Kategori:Grup musik"
+        },
+        {
+          "ID": 19275,
+          "Title": "Kategori:Makanan"
+        },
+        {
+          "ID": 288276,
+          "Title": "Kategori:Masakan"
+        }
+      ],
+      "Articles": [
+        {
+          "ID": 6235,
+          "Title": "Wikipedia"
+        },
+        {
+          "ID": 7841,
+          "Title": "Ensiklopedia"
+        },
+        {
+          "ID": 12155,
+          "Title": "Roti"
+        },
+        {
+          "ID": 14156,
+          "Title": "Kopi"
+        },
+        {
+          "ID": 15998,
+          "Title": "Cokelat"
+        },
+        {
+          "ID": 18878,
+          "Title": "Piza"
+        },
+        {
+          "ID": 24400,
+          "Title": "Telur mata sapi"
+        },
+        {
+          "ID": 25630,
+          "Title": "Led Zeppelin"
+        },
+        {
+          "ID": 28047,
+          "Title": "Bir"
+        },
+        {
+          "ID": 35394,
+          "Title": "Green Day"
+        },
+        {
+          "ID": 53151,
+          "Title": "Taco"
+        },
+        {
+          "ID": 54092,
+          "Title": "Selibat"
+        },
+        {
+          "ID": 59879,
+          "Title": "Hogwarts"
+        },
+        {
+          "ID": 64360,
+          "Title": "AC/DC"
+        },
+        {
+          "ID": 73936,
+          "Title": "Hantu"
+        },
+        {
+          "ID": 74636,
+          "Title": "Istana Buckingham"
+        },
+        {
+          "ID": 86973,
+          "Title": "Akashiyaki"
+        },
+        {
+          "ID": 100263,
+          "Title": "Hot dog"
+        },
+        {
+          "ID": 105907,
+          "Title": "Telur (makanan)"
+        },
+        {
+          "ID": 105922,
+          "Title": "Pasta"
+        },
+        {
+          "ID": 105978,
+          "Title": "Kue keberuntungan"
+        },
+        {
+          "ID": 107425,
+          "Title": "Selai kacang"
+        },
+        {
+          "ID": 107428,
+          "Title": "Sgt. Pepper's Lonely Hearts Club Band"
+        },
+        {
+          "ID": 135588,
+          "Title": "Monster Loch Ness"
+        },
+        {
+          "ID": 146929,
+          "Title": "CIA World Factbook"
+        },
+        {
+          "ID": 147904,
+          "Title": "Telur asin"
+        },
+        {
+          "ID": 183803,
+          "Title": "Tongseng"
+        },
+        {
+          "ID": 200433,
+          "Title": "Saus apel"
+        },
+        {
+          "ID": 203448,
+          "Title": "Bolu"
+        },
+        {
+          "ID": 223827,
+          "Title": "Asam pedas"
+        },
+        {
+          "ID": 232312,
+          "Title": "Keripik"
+        },
+        {
+          "ID": 267729,
+          "Title": "Aqua (band)"
+        },
+        {
+          "ID": 311211,
+          "Title": "Ash Ketchum"
+        },
+        {
+          "ID": 318767,
+          "Title": "Roti soda"
+        },
+        {
+          "ID": 327001,
+          "Title": "M\u0026M's"
+        },
+        {
+          "ID": 327919,
+          "Title": "Carbonara"
+        },
+        {
+          "ID": 337130,
+          "Title": "Cokelat batangan"
+        },
+        {
+          "ID": 344762,
+          "Title": "Butir cokelat"
+        },
+        {
+          "ID": 358113,
+          "Title": "Sepong"
+        },
+        {
+          "ID": 548041,
+          "Title": "WWE Championship"
+        },
+        {
+          "ID": 548742,
+          "Title": "Pilsner"
+        },
+        {
+          "ID": 555225,
+          "Title": "Endhiran"
+        },
+        {
+          "ID": 590769,
+          "Title": "Saus tomat (klasik)"
+        },
+        {
+          "ID": 591628,
+          "Title": "Saus Espagnole"
+        },
+        {
+          "ID": 593333,
+          "Title": "Bubur ayam"
+        },
+        {
+          "ID": 616376,
+          "Title": "Butterkuchen"
+        },
+        {
+          "ID": 622717,
+          "Title": "Telur bitan"
+        },
+        {
+          "ID": 710295,
+          "Title": "Judas (lagu)"
+        },
+        {
+          "ID": 721451,
+          "Title": "The Wanted"
+        },
+        {
+          "ID": 753650,
+          "Title": "Vlokken"
+        },
+        {
+          "ID": 754767,
+          "Title": "Cokelat panas"
+        },
+        {
+          "ID": 971679,
+          "Title": "Kue kering"
+        },
+        {
+          "ID": 1086711,
+          "Title": "Sucker Punch (film)"
+        },
+        {
+          "ID": 1111797,
+          "Title": "Telur rebus"
+        },
+        {
+          "ID": 1158553,
+          "Title": "Sup kepiting jagung"
+        },
+        {
+          "ID": 1198699,
+          "Title": "Realisme sastra"
+        },
+        {
+          "ID": 1405863,
+          "Title": "Ham (daging)"
+        },
+        {
+          "ID": 1442763,
+          "Title": "Flappy Bird"
+        },
+        {
+          "ID": 1455593,
+          "Title": "Daging bakon"
+        },
+        {
+          "ID": 1527655,
+          "Title": "Kue beras"
+        },
+        {
+          "ID": 1530787,
+          "Title": "Kue sponge"
+        },
+        {
+          "ID": 1578694,
+          "Title": "Kue pernikahan"
+        },
+        {
+          "ID": 1669371,
+          "Title": "Angry Birds Rio"
+        },
+        {
+          "ID": 1670198,
+          "Title": "Angry Birds Seasons"
+        },
+        {
+          "ID": 1672036,
+          "Title": "Angry Birds (permainan video)"
+        },
+        {
+          "ID": 1691627,
+          "Title": "PK (film)"
+        },
+        {
+          "ID": 1740651,
+          "Title": "Nasi goreng Thai"
+        },
+        {
+          "ID": 1749780,
+          "Title": "Floyd Mayweather, Jr. vs Manny Pacquiao"
+        },
+        {
+          "ID": 1824102,
+          "Title": "Kick (film 2014)"
+        },
+        {
+          "ID": 1833423,
+          "Title": "War Room (film)"
+        },
+        {
+          "ID": 2040047,
+          "Title": "Kemurnian (kebajikan)"
+        },
+        {
+          "ID": 2051624,
+          "Title": "Kelelawar (makanan)"
+        },
+        {
+          "ID": 2065644,
+          "Title": "Jab Tak Hai Jaan"
+        },
+        {
+          "ID": 2117952,
+          "Title": "Jajanan jalanan di Indonesia"
+        },
+        {
+          "ID": 2361540,
+          "Title": "Kue alpukat"
+        },
+        {
+          "ID": 2433466,
+          "Title": "Pizza Hawaii"
+        },
+        {
+          "ID": 2457598,
+          "Title": "Nasi goreng"
+        },
+        {
+          "ID": 2467502,
+          "Title": "Kontes Lagu Eurovision 2017"
+        },
+        {
+          "ID": 2490303,
+          "Title": "Babi kecap"
+        },
+        {
+          "ID": 2492335,
+          "Title": "Sup selada"
+        },
+        {
+          "ID": 2492422,
+          "Title": "Mi minyak"
+        },
+        {
+          "ID": 2498964,
+          "Title": "Nam ngiao"
+        },
+        {
+          "ID": 2501959,
+          "Title": "Cokelat Belgia"
+        },
+        {
+          "ID": 2505538,
+          "Title": "Gelato"
+        },
+        {
+          "ID": 2519568,
+          "Title": "Roti lapis bacon"
+        },
+        {
+          "ID": 2525064,
+          "Title": "Pasta con le sarde"
+        },
+        {
+          "ID": 2548489,
+          "Title": "Roti lapis teh"
+        },
+        {
+          "ID": 2548575,
+          "Title": "Roti lapis Gerber"
+        },
+        {
+          "ID": 2561488,
+          "Title": "Kontes Lagu Eurovision 2018"
+        },
+        {
+          "ID": 2640872,
+          "Title": "Kaabil"
+        },
+        {
+          "ID": 2668633,
+          "Title": "Mordred"
+        },
+        {
+          "ID": 2693504,
+          "Title": "Banjir Sungai Nil"
+        }
+      ]
+    },
+    {
+      "ID": 2147483638,
+      "Title": "Geography and places",
+      "Abstract": "Geography (Greek Geo (γη) or Gaea (γαία), meaning \"Earth\", and graphein (γράφειν) meaning \"to describe\" or \"to write\") is the study of the earth and its features, inhabitants, and phenomena. A literal translation would be \"to describe or write about the Earth\". The first person to use the word \"geography\" was Eratosthenes (275-195 B.C.). Four historical traditions in geographical research are the spatial analysis of natural and human phenomena (geography as a study of distribution), area studies (places and regions), study of man-land relationship, and research in earth sciences. Nonetheless, modern geography is an all-encompassing discipline that foremost seeks to understand the world and all of its human and natural complexities — not merely where objects are, but how they have changed and come to be. As \"the bridge between the human and physical sciences,\" geography is divided into two main branches — human geography and physical geography",
+      "Categories": [
+        {
+          "ID": 8558,
+          "Title": "Kategori:Geografi"
+        },
+        {
+          "ID": 51924,
+          "Title": "Kategori:Geomorfologi"
+        },
+        {
+          "ID": 71852,
+          "Title": "Kategori:Daftar bertopik geografi"
+        },
+        {
+          "ID": 112473,
+          "Title": "Kategori:Perencanaan perkotaan"
+        },
+        {
+          "ID": 505067,
+          "Title": "Kategori:Tempat"
+        }
+      ],
+      "Articles": [
+        {
+          "ID": 1003,
+          "Title": "Paris"
+        },
+        {
+          "ID": 4472,
+          "Title": "Myanmar"
+        },
+        {
+          "ID": 11270,
+          "Title": "Canberra"
+        },
+        {
+          "ID": 43473,
+          "Title": "Queensland"
+        },
+        {
+          "ID": 45205,
+          "Title": "Venesia"
+        }
+      ]
+    },
+    {
+      "ID": 2147483639,
+      "Title": "Health and fitness",
+      "Abstract": "Health is the level of functional or metabolic efficiency of a living organism. In humans it is the ability of individuals or communities to adapt and self-manage when facing physical, mental or social challenges. The most widely accepted definition of good health is that of the World Health Organization Constitution. It states: \"health is a state of complete physical, mental and social well-being and is not merely the absence of disease or infirmity\" (World Health Organization, 1946). In more recent years, this statement has been amplified to include the ability to lead a \"socially and economically productive life.\" The WHO definition is not without criticism, mainly that it is much too broad.\n\nThe most solid aspects of wellness that fit firmly in the realm of medicine are environmental health, nutrition, disease prevention, and public health. These matters can be investigated at length and can assist in measuring well-being. Please see our medical disclaimer for cautions about Wikipedia's limitations",
+      "Categories": [
+        {
+          "ID": 14387,
+          "Title": "Kategori:Kesehatan"
+        },
+        {
+          "ID": 37780,
+          "Title": "Kategori:Kedokteran"
+        },
+        {
+          "ID": 93822,
+          "Title": "Kategori:Spesialisasi medis"
+        },
+        {
+          "ID": 129904,
+          "Title": "Kategori:Ilmu kesehatan"
+        },
+        {
+          "ID": 143677,
+          "Title": "Kategori:Penyakit genetik"
+        },
+        {
+          "ID": 307853,
+          "Title": "Kategori:Higienitas"
+        }
+      ]
+    },
+    {
+      "ID": 2147483640,
+      "Title": "History and events",
+      "Abstract": "History is the interpretation of past events, societies and civilizations. The term history comes from the Greek historia (ἱστορία), \"an account of one's inquiries,\" and shares that etymology with the English word story as narrative. The 1911 Encyclopædia Britannica stated that \"history in the wider sense is all that has happened, not merely all the phenomena of human life, but those of the natural world as well. It is everything that undergoes change; and as modern science has shown that there is nothing absolutely static, therefore, the whole universe, and every part of it, has its history.\" ",
+      "Categories": [
+        {
+          "ID": 8501,
+          "Title": "Kategori:Sejarah"
+        },
+        {
+          "ID": 19403,
+          "Title": "Kategori:Sejarah menurut negara"
+        },
+        {
+          "ID": 134614,
+          "Title": "Kategori:Peristiwa"
+        },
+        {
+          "ID": 528985,
+          "Title": "Kategori:Pemilihan umum menurut tahun"
+        }
+      ],
+      "Articles": [
+        {
+          "ID": 24418,
+          "Title": "Serangan 11 September 2001"
+        },
+        {
+          "ID": 193722,
+          "Title": "Perang Troya"
+        },
+        {
+          "ID": 549119,
+          "Title": "Kebocoran minyak Deepwater Horizon"
+        },
+        {
+          "ID": 684165,
+          "Title": "Gempa bumi dan tsunami Tōhoku 2011"
+        },
+        {
+          "ID": 970011,
+          "Title": "Penembakan Aurora 2012"
+        },
+        {
+          "ID": 992248,
+          "Title": "Pemilihan umum Presiden Amerika Serikat 2012"
+        },
+        {
+          "ID": 993936,
+          "Title": "Penyangkalan Holokaus"
+        },
+        {
+          "ID": 1881821,
+          "Title": "Sejarah tabel periodik"
+        },
+        {
+          "ID": 2080550,
+          "Title": "Penembakan klub malam Orlando 2016"
+        },
+        {
+          "ID": 2082977,
+          "Title": "Sejarah komunikasi"
+        },
+        {
+          "ID": 2114202,
+          "Title": "Pembunuhan Harambe"
+        },
+        {
+          "ID": 2552341,
+          "Title": "Patriot (Revolusi Amerika)"
+        }
+      ]
+    },
+    {
+      "ID": 2147483641,
+      "Title": "Mathematics and logic",
+      "Abstract": "Mathematics is the science of quantization. It is also the study of patterns and relationships, including concepts such as quantity, structure, space, uncertainty, and change. It evolved through the use of abstraction and logical reasoning, from counting, calculation, measurement, and the systematic study of positions, shapes and motions of physical objects. Mathematicians explore such concepts, aiming to formulate new conjectures and establish their truth by rigorous deduction from appropriately chosen axioms and definitions.\n\nLogic (from Classical Greek λόγος logos; meaning word, thought, idea, argument, account, reason or principle) is the study of the principles and criteria of valid inference and demonstration. As a formal science, logic investigates and classifies the structure of statements and arguments, both through the study of formal systems of inference and through the study of arguments in natural language. The field of logic ranges from core topics such as the study of fallacies and paradoxes, to specialized analysis of reasoning using probability and to arguments involving causality. Logic is also commonly used today in argumentation theory. Since the mid-nineteenth century formal logic has been studied in the context of the foundations of mathematics",
+      "Categories": [
+        {
+          "ID": 8518,
+          "Title": "Kategori:Statistika"
+        },
+        {
+          "ID": 8519,
+          "Title": "Kategori:Matematika"
+        },
+        {
+          "ID": 30288,
+          "Title": "Kategori:Logika"
+        },
+        {
+          "ID": 132645,
+          "Title": "Kategori:Matematika terapan"
+        },
+        {
+          "ID": 606719,
+          "Title": "Kategori:Konsep matematika"
+        }
+      ],
+      "Articles": [
+        {
+          "ID": 83759,
+          "Title": "Panjang"
+        }
+      ]
+    },
+    {
+      "ID": 2147483642,
+      "Title": "Nature and physical sciences",
+      "Abstract": "The term nature is derived from the Latin word natura, or \"essential qualities, innate disposition\". Natura is a Latin translation of the Greek word physis (φύσις), which originally related to the intrinsic characteristics that plants, animals, and other features of the world develop of their own accord. The concept of nature as a whole, all matter and energy in the universe, is one of several expansions of the original notion.\n\nPhysical science is an encompassing term for the branches of natural science, and science, that study non-living systems, in contrast to the biological sciences. However, the term \"physical\" creates an involuntary, somewhat arbitrary distinction, since many branches of physical science also study biological phenomena",
+      "Categories": [
+        {
+          "ID": 6255,
+          "Title": "Kategori:Kimia"
+        },
+        {
+          "ID": 8523,
+          "Title": "Kategori:Fisika"
+        },
+        {
+          "ID": 16704,
+          "Title": "Kategori:Senyawa kimia"
+        },
+        {
+          "ID": 48575,
+          "Title": "Kategori:Ilmu"
+        },
+        {
+          "ID": 51288,
+          "Title": "Kategori:Ilmu alam"
+        },
+        {
+          "ID": 70769,
+          "Title": "Kategori:Alam"
+        },
+        {
+          "ID": 72215,
+          "Title": "Kategori:Bencana"
+        },
+        {
+          "ID": 109145,
+          "Title": "Kategori:Zoologi"
+        },
+        {
+          "ID": 269951,
+          "Title": "Kategori:Fauna menurut kawasan"
+        },
+        {
+          "ID": 1470300,
+          "Title": "Kategori:Ilmu lingkungan"
+        }
+      ],
+      "Articles": [
+        {
+          "ID": 2788,
+          "Title": "Jagung"
+        },
+        {
+          "ID": 7434,
+          "Title": "Api"
+        },
+        {
+          "ID": 14154,
+          "Title": "Beras"
+        },
+        {
+          "ID": 15641,
+          "Title": "Nanas"
+        },
+        {
+          "ID": 18025,
+          "Title": "Masturbasi"
+        },
+        {
+          "ID": 21248,
+          "Title": "Urin"
+        },
+        {
+          "ID": 30655,
+          "Title": "Jeruk manis"
+        },
+        {
+          "ID": 40276,
+          "Title": "Penis"
+        },
+        {
+          "ID": 43459,
+          "Title": "Kembang kol"
+        },
+        {
+          "ID": 46805,
+          "Title": "Sitrun"
+        },
+        {
+          "ID": 55823,
+          "Title": "Gandum"
+        },
+        {
+          "ID": 57905,
+          "Title": "Rantai makanan"
+        },
+        {
+          "ID": 67389,
+          "Title": "Sistem otot"
+        },
+        {
+          "ID": 75510,
+          "Title": "Testis"
+        },
+        {
+          "ID": 86060,
+          "Title": "Unta"
+        },
+        {
+          "ID": 109990,
+          "Title": "Kaki sapi"
+        },
+        {
+          "ID": 142799,
+          "Title": "Siklus air"
+        },
+        {
+          "ID": 210463,
+          "Title": "Perkecambahan"
+        },
+        {
+          "ID": 286067,
+          "Title": "Suspensi"
+        },
+        {
+          "ID": 341270,
+          "Title": "Koka"
+        },
+        {
+          "ID": 354277,
+          "Title": "Migrasi serangga"
+        },
+        {
+          "ID": 385520,
+          "Title": "Kucing besar"
+        },
+        {
+          "ID": 388221,
+          "Title": "Flamingo"
+        },
+        {
+          "ID": 411100,
+          "Title": "Rusa besar"
+        },
+        {
+          "ID": 422505,
+          "Title": "Stroberi kebun"
+        },
+        {
+          "ID": 468050,
+          "Title": "Angsa-batu"
+        },
+        {
+          "ID": 539405,
+          "Title": "Cocker Spaniel"
+        },
+        {
+          "ID": 607472,
+          "Title": "Kalender Maya"
+        },
+        {
+          "ID": 850857,
+          "Title": "Beras ketan"
+        },
+        {
+          "ID": 941396,
+          "Title": "Harimau putih"
+        },
+        {
+          "ID": 1163154,
+          "Title": "Rambut merah"
+        },
+        {
+          "ID": 1427687,
+          "Title": "Kotoran sapi"
+        },
+        {
+          "ID": 2551474,
+          "Title": "Warna komplementer"
+        }
+      ]
+    },
+    {
+      "ID": 2147483643,
+      "Title": "People and self",
+      "Abstract": "A collection of people often refers to a general group, such as all humans, an ethnic group or a nation. An individual person is the self, from his or her own perspective. To you, \"self\" is you. To someone else, \"self\" is that person. A biography is a genre of literature or film, which presents a relatively full account of the most interesting and important events of a notable person's life.\n\nLife or personal life or human existence is an individual human's personal, private experience of living (including their employment career, their family life, and other elements). In prehistoric times, life and existence was based on survival. There was little privacy and a person was identified by their role in the group. In modern times, many people have even come to think of their personal lives as if they are separate from their work. This segmentation of \"life areas\" is evident in such phrases as \"work life\", \"home life\", and \"sex life.\" The meaning or role of a person's \"life\" or \"human existence\" is discussed in many religions and philosophies. In Western industrialized countries, there are a variety of service industries that help people improve their personal lives, such as counselling and life coaching companies",
+      "Categories": [
+        {
+          "ID": 68885,
+          "Title": "Kategori:Tokoh"
+        },
+        {
+          "ID": 93800,
+          "Title": "Kategori:Wanita"
+        },
+        {
+          "ID": 133071,
+          "Title": "Kategori:Seniman menurut medium"
+        },
+        {
+          "ID": 186981,
+          "Title": "Kategori:Karakter film"
+        },
+        {
+          "ID": 443765,
+          "Title": "Kategori:Kehidupan pribadi"
+        },
+        {
+          "ID": 443768,
+          "Title": "Kategori:Diri"
+        },
+        {
+          "ID": 2344821,
+          "Title": "Kategori:Nama belakang"
+        }
+      ],
+      "Articles": [
+        {
+          "ID": 3597,
+          "Title": "Bill Gates"
+        },
+        {
+          "ID": 3908,
+          "Title": "Adolf Hitler"
+        },
+        {
+          "ID": 6608,
+          "Title": "Adam Smith"
+        },
+        {
+          "ID": 6874,
+          "Title": "Kristoforus Kolumbus"
+        },
+        {
+          "ID": 11970,
+          "Title": "Galileo Galilei"
+        },
+        {
+          "ID": 12024,
+          "Title": "Florence Nightingale"
+        },
+        {
+          "ID": 12047,
+          "Title": "Thomas Aquinas"
+        },
+        {
+          "ID": 12559,
+          "Title": "Leonardo da Pisa"
+        },
+        {
+          "ID": 12911,
+          "Title": "Richard Wagner"
+        },
+        {
+          "ID": 13172,
+          "Title": "Sigmund Freud"
+        },
+        {
+          "ID": 14911,
+          "Title": "René Descartes"
+        },
+        {
+          "ID": 14919,
+          "Title": "Alexander Fleming"
+        },
+        {
+          "ID": 18646,
+          "Title": "Alan Turing"
+        },
+        {
+          "ID": 19821,
+          "Title": "Carl Friedrich Gauss"
+        },
+        {
+          "ID": 40715,
+          "Title": "Noam Chomsky"
+        },
+        {
+          "ID": 47481,
+          "Title": "Charles Babbage"
+        },
+        {
+          "ID": 50234,
+          "Title": "Elton John"
+        },
+        {
+          "ID": 58172,
+          "Title": "George Harrison"
+        },
+        {
+          "ID": 58174,
+          "Title": "John Lennon"
+        },
+        {
+          "ID": 80773,
+          "Title": "Harry Houdini"
+        },
+        {
+          "ID": 84884,
+          "Title": "Oliver Cromwell"
+        },
+        {
+          "ID": 132101,
+          "Title": "Irving Langmuir"
+        },
+        {
+          "ID": 132827,
+          "Title": "Joseph Smith, Jr."
+        },
+        {
+          "ID": 178399,
+          "Title": "Daniel Radcliffe"
+        },
+        {
+          "ID": 226576,
+          "Title": "Ayn Rand"
+        },
+        {
+          "ID": 233842,
+          "Title": "Richard Dawkins"
+        },
+        {
+          "ID": 234900,
+          "Title": "Johannes Kepler"
+        },
+        {
+          "ID": 308334,
+          "Title": "Carl Sagan"
+        },
+        {
+          "ID": 466609,
+          "Title": "Jacob Black"
+        },
+        {
+          "ID": 535288,
+          "Title": "William Blake"
+        },
+        {
+          "ID": 537537,
+          "Title": "Lewis Carroll"
+        },
+        {
+          "ID": 635158,
+          "Title": "Cory Monteith"
+        },
+        {
+          "ID": 684359,
+          "Title": "Srinivasa Ramanujan"
+        },
+        {
+          "ID": 911701,
+          "Title": "Theodor Schwann"
+        },
+        {
+          "ID": 1440240,
+          "Title": "Anders Behring Breivik"
+        },
+        {
+          "ID": 1560831,
+          "Title": "Chaim Soutine"
+        },
+        {
+          "ID": 1642156,
+          "Title": "Ted Cruz"
+        },
+        {
+          "ID": 2312350,
+          "Title": "Dorothy Vaughan"
+        },
+        {
+          "ID": 2571228,
+          "Title": "Bob Ross"
+        }
+      ]
+    },
+    {
+      "ID": 2147483644,
+      "Title": "Philosophy and thinking",
+      "Abstract": "Philosophy has almost as many definitions as there have been philosophers, both as a subject matter and an activity, and no simple definition can do it justice. The issue of the definition of philosophy is thus a controversial subject that is nowadays tackled by Metaphilosophy (or the philosophy of philosophy). The word is derived from the ancient Greek words philo-, to love or to befriend, and -sophia, wisdom. Modern usage of the term is much broader; the concept of philosophy encompasses all of knowledge and all that can be known, including the means by which such knowledge can be acquired. However, in the contemporary English-speaking academic world, the term is often used implicitly to refer to analytic philosophy and, in non-English speaking countries, it often refers implicitly to a different, European strain, continental philosophy. The ancient Greeks organized the subject into five basic categories: metaphysics, epistemology, ethics, politics and aesthetics. This organization of the subject is still largely in use in Western philosophy today.\n\nThought or thinking is a mental process which allows beings to model the world, and so to deal with it effectively according to their goals, plans, ends and desires. Words referring to similar concepts and processes in the English language include cognition, sentience, consciousness, idea, and imagination. Thinking involves the cerebral manipulation of information, as when we form concepts, engage in problem solving, reason and make decisions. Thinking is a higher cognitive function and the analysis of thinking processes is part of cognitive psychology",
+      "Categories": [
+        {
+          "ID": 8559,
+          "Title": "Kategori:Filsafat"
+        },
+        {
+          "ID": 13627,
+          "Title": "Kategori:Ideologi"
+        },
+        {
+          "ID": 70759,
+          "Title": "Kategori:Etika"
+        },
+        {
+          "ID": 136442,
+          "Title": "Kategori:Cabang filsafat"
+        },
+        {
+          "ID": 285214,
+          "Title": "Kategori:Pikiran"
+        },
+        {
+          "ID": 1437897,
+          "Title": "Kategori:Teori filosofis"
+        },
+        {
+          "ID": 1438162,
+          "Title": "Kategori:Sekolah filsafat dan tradisi"
+        }
+      ],
+      "Articles": [
+        {
+          "ID": 3505,
+          "Title": "Fakta"
+        },
+        {
+          "ID": 84809,
+          "Title": "Keindahan"
+        },
+        {
+          "ID": 431734,
+          "Title": "Kebahagiaan"
+        },
+        {
+          "ID": 1188479,
+          "Title": "Efek Dunning–Kruger"
+        },
+        {
+          "ID": 2458353,
+          "Title": "Gaslighting"
+        }
+      ]
+    },
+    {
+      "ID": 2147483645,
+      "Title": "Religion and belief systems",
+      "Abstract": "Religion is the adherence to codified beliefs and rituals that generally involve a faith in a spiritual nature and a study of inherited ancestral traditions, knowledge and wisdom related to understanding human life. The term \"religion\" refers to both the personal practices related to faith as well as to the larger shared systems of belief.\n\nA belief system can refer to a religion or a world view. A world view (or worldview) is a term calqued from the German word Weltanschauung Welt is the German word for 'world,' and Anschauung is the German word for 'view' or 'outlook'. It is a concept fundamental to German philosophy and epistemology and refers to a wide world perception. Additionally, it refers to the framework of ideas and beliefs through which an individual interprets the world and interacts in it",
+      "Categories": [
+        {
+          "ID": 8495,
+          "Title": "Kategori:Agama"
+        },
+        {
+          "ID": 8556,
+          "Title": "Kategori:Mitologi"
+        },
+        {
+          "ID": 10899,
+          "Title": "Kategori:Kepercayaan"
+        },
+        {
+          "ID": 1401319,
+          "Title": "Kategori:Kritik agama"
+        },
+        {
+          "ID": 1437897,
+          "Title": "Kategori:Teori filosofis"
+        },
+        {
+          "ID": 2707286,
+          "Title": "Kategori:Kepercayaan, tradisi, dan pergerakan agama"
+        }
+      ],
+      "Articles": [
+        {
+          "ID": 1854322,
+          "Title": "Kerakusan"
+        }
+      ]
+    },
+    {
+      "ID": 2147483646,
+      "Title": "Society and social sciences",
+      "Abstract": "A society is a group of people who form a semi-closed system. At its simplest, the term society refers to a large group of people sharing their own culture and institutions. A society is a network of relationships between people. The English word society is derived from the French société, which had its origin in the Latin societas, a \"friendly association with others,\" from socius meaning \"companion, associate, comrade or business partner.\" Thus, the meaning of society is closely related to what is considered to be social. Implicit in the meaning of society is that its members may share some mutual concern or interest, a common objective or common characteristics. The social sciences generally use the term society to mean a group of people who form a semi-closed social system, in which most interactions are with other individuals belonging to the group. More abstractly, a society is defined as a network of relationships between social entities. A society is also sometimes defined as an interdependent community, but the sociologist Tönnies sought to draw a contrast between society and community. An important feature of society is social structure, aspects of which include roles and social ranking.\n\nThe social science are a group of academic disciplines that study human aspects of the world. They differ from the arts and the humanities, in that the social science tend to emphasize the use of the scientific method in the study of humanity, including quantitative and qualitative methods",
+      "Categories": [
+        {
+          "ID": 13689,
+          "Title": "Kategori:Organisasi internasional"
+        },
+        {
+          "ID": 33784,
+          "Title": "Kategori:Masyarakat"
+        },
+        {
+          "ID": 51276,
+          "Title": "Kategori:Ilmu sosial"
+        },
+        {
+          "ID": 56658,
+          "Title": "Kategori:Feminisme"
+        }
+      ],
+      "Articles": [
+        {
+          "ID": 4571,
+          "Title": "Uni Eropa"
+        },
+        {
+          "ID": 6104,
+          "Title": "Universitas Malaya"
+        },
+        {
+          "ID": 13198,
+          "Title": "Tahun Baru Imlek"
+        },
+        {
+          "ID": 14904,
+          "Title": "Universitas Harvard"
+        },
+        {
+          "ID": 15261,
+          "Title": "Universitas Tokyo"
+        },
+        {
+          "ID": 15406,
+          "Title": "Universitas Georg August Göttingen"
+        },
+        {
+          "ID": 19761,
+          "Title": "Institut Teknologi Massachusetts"
+        },
+        {
+          "ID": 20302,
+          "Title": "Starbucks"
+        },
+        {
+          "ID": 22102,
+          "Title": "Universitas Columbia"
+        },
+        {
+          "ID": 22111,
+          "Title": "Universitas Princeton"
+        },
+        {
+          "ID": 24507,
+          "Title": "Pizza Hut"
+        },
+        {
+          "ID": 27783,
+          "Title": "Universitas Cambridge"
+        },
+        {
+          "ID": 27998,
+          "Title": "Bp"
+        },
+        {
+          "ID": 34303,
+          "Title": "Universitas Cincinnati"
+        },
+        {
+          "ID": 40679,
+          "Title": "Waktu Musim Panas"
+        },
+        {
+          "ID": 43708,
+          "Title": "Universitas Pennsylvania"
+        },
+        {
+          "ID": 47174,
+          "Title": "Universitas Paris"
+        },
+        {
+          "ID": 60349,
+          "Title": "American Airlines"
+        },
+        {
+          "ID": 63829,
+          "Title": "Universitas Nasional Australia"
+        },
+        {
+          "ID": 102300,
+          "Title": "Bendera Australia"
+        },
+        {
+          "ID": 103412,
+          "Title": "Universitas Nasional Seoul"
+        },
+        {
+          "ID": 108128,
+          "Title": "Universitas Stanford"
+        },
+        {
+          "ID": 114118,
+          "Title": "Universitas Wollongong"
+        },
+        {
+          "ID": 122906,
+          "Title": "Universitas Nottingham"
+        },
+        {
+          "ID": 125381,
+          "Title": "Universitas Oxford"
+        },
+        {
+          "ID": 145944,
+          "Title": "Universitas California Selatan"
+        },
+        {
+          "ID": 148610,
+          "Title": "Universitas Arizona"
+        },
+        {
+          "ID": 149790,
+          "Title": "The New York Times"
+        },
+        {
+          "ID": 185156,
+          "Title": "Universitas Uppsala"
+        },
+        {
+          "ID": 186461,
+          "Title": "Universitas Oregon"
+        },
+        {
+          "ID": 198436,
+          "Title": "Universitas Soka"
+        },
+        {
+          "ID": 206633,
+          "Title": "Arsip Nasional Amerika Serikat"
+        },
+        {
+          "ID": 220092,
+          "Title": "Universitas Glasgow"
+        },
+        {
+          "ID": 226808,
+          "Title": "Universitas Washington"
+        },
+        {
+          "ID": 230811,
+          "Title": "Universitas Milano"
+        },
+        {
+          "ID": 230816,
+          "Title": "Universitas Torino"
+        },
+        {
+          "ID": 230853,
+          "Title": "Universitas Stockholm"
+        },
+        {
+          "ID": 242540,
+          "Title": "Domino's Pizza"
+        },
+        {
+          "ID": 242547,
+          "Title": "Taco Bell"
+        },
+        {
+          "ID": 274156,
+          "Title": "Universitas Wina"
+        },
+        {
+          "ID": 274470,
+          "Title": "Universitas Liverpool"
+        },
+        {
+          "ID": 277192,
+          "Title": "Universitas Osaka"
+        },
+        {
+          "ID": 301497,
+          "Title": "Universitas KwaZulu-Natal"
+        },
+        {
+          "ID": 318268,
+          "Title": "Universitas Negeri Moskwa M.V. Lomonosov"
+        },
+        {
+          "ID": 320738,
+          "Title": "Fox News Channel"
+        },
+        {
+          "ID": 337523,
+          "Title": "Program Lingkungan Perserikatan Bangsa-Bangsa"
+        },
+        {
+          "ID": 387133,
+          "Title": "Universitas Bologna"
+        },
+        {
+          "ID": 413965,
+          "Title": "Universitas Bonn"
+        },
+        {
+          "ID": 467472,
+          "Title": "Negara mikro"
+        },
+        {
+          "ID": 471317,
+          "Title": "Universitas Leeds"
+        },
+        {
+          "ID": 474112,
+          "Title": "Universitas Tohoku"
+        },
+        {
+          "ID": 524234,
+          "Title": "Universitas Iaşi"
+        },
+        {
+          "ID": 532947,
+          "Title": "Universitas Nanjing"
+        },
+        {
+          "ID": 534722,
+          "Title": "Universitas Chicago"
+        },
+        {
+          "ID": 542637,
+          "Title": "Universitas Sydney"
+        },
+        {
+          "ID": 555330,
+          "Title": "Universitas Ibrani Yerusalem"
+        },
+        {
+          "ID": 573771,
+          "Title": "Universitas Verona"
+        },
+        {
+          "ID": 573773,
+          "Title": "Universitas Genoa"
+        },
+        {
+          "ID": 590069,
+          "Title": "Universitas negeri"
+        },
+        {
+          "ID": 698275,
+          "Title": "Universitas London"
+        },
+        {
+          "ID": 701052,
+          "Title": "Universitas Udine"
+        },
+        {
+          "ID": 726980,
+          "Title": "Universitas Tartu"
+        },
+        {
+          "ID": 743941,
+          "Title": "Universitas Padua"
+        },
+        {
+          "ID": 746623,
+          "Title": "The Times of India"
+        },
+        {
+          "ID": 754793,
+          "Title": "Universitas Albert Ludwig Freiburg"
+        },
+        {
+          "ID": 826933,
+          "Title": "Universitas Delhi"
+        },
+        {
+          "ID": 827263,
+          "Title": "Universitas Guru Gobind Singh Indraprastha"
+        },
+        {
+          "ID": 855625,
+          "Title": "Universitas Mississippi"
+        },
+        {
+          "ID": 896783,
+          "Title": "Perang Dunia III"
+        },
+        {
+          "ID": 900325,
+          "Title": "University of Calgary"
+        },
+        {
+          "ID": 901023,
+          "Title": "Universitas Adamson"
+        },
+        {
+          "ID": 901522,
+          "Title": "Universitas Iowa"
+        },
+        {
+          "ID": 902950,
+          "Title": "Universitas Minnesota"
+        },
+        {
+          "ID": 947297,
+          "Title": "Universitas Hokkaido"
+        },
+        {
+          "ID": 949264,
+          "Title": "Universitas Islam Azad"
+        },
+        {
+          "ID": 997005,
+          "Title": "Universitas Ferrara"
+        },
+        {
+          "ID": 1097487,
+          "Title": "MIT Sloan School of Management"
+        },
+        {
+          "ID": 1179265,
+          "Title": "Universitas Leipzig"
+        },
+        {
+          "ID": 1198884,
+          "Title": "Universitas Auckland"
+        },
+        {
+          "ID": 1401109,
+          "Title": "Universitas Tübingen"
+        },
+        {
+          "ID": 1448208,
+          "Title": "Universitas Newcastle (Australia)"
+        },
+        {
+          "ID": 1459420,
+          "Title": "Universitas Alabama"
+        },
+        {
+          "ID": 1460956,
+          "Title": "Universitas Negeri Ohio"
+        },
+        {
+          "ID": 1461135,
+          "Title": "Universitas Lancaster"
+        },
+        {
+          "ID": 1464740,
+          "Title": "Universitas Guelph"
+        },
+        {
+          "ID": 1466894,
+          "Title": "Universitas Queensland"
+        },
+        {
+          "ID": 1475567,
+          "Title": "Pekerja sosial"
+        },
+        {
+          "ID": 1608543,
+          "Title": "Universitas Nalanda"
+        },
+        {
+          "ID": 1673208,
+          "Title": "Universitas East Anglia"
+        },
+        {
+          "ID": 1725508,
+          "Title": "Universitas Boston"
+        },
+        {
+          "ID": 1758129,
+          "Title": "Imperial College London"
+        },
+        {
+          "ID": 1803238,
+          "Title": "Universitas Bristol"
+        },
+        {
+          "ID": 1842930,
+          "Title": "Universitas Michigan"
+        },
+        {
+          "ID": 2016554,
+          "Title": "Universitas Boğaziçi"
+        },
+        {
+          "ID": 2035490,
+          "Title": "Universitas Koç"
+        },
+        {
+          "ID": 2089110,
+          "Title": "Universitas Muslim Aligarh"
+        },
+        {
+          "ID": 2097376,
+          "Title": "Universitas Otago"
+        },
+        {
+          "ID": 2104455,
+          "Title": "Ekonomi Iran"
+        },
+        {
+          "ID": 2130899,
+          "Title": "Universitas Birmingham"
+        },
+        {
+          "ID": 2143386,
+          "Title": "Universitas Tsinghua"
+        },
+        {
+          "ID": 2148491,
+          "Title": "Angkatan Darat Singapura"
+        },
+        {
+          "ID": 2151550,
+          "Title": "Universitas Negeri Sankt-Peterburg"
+        },
+        {
+          "ID": 2345129,
+          "Title": "Universitas Mumbai"
+        },
+        {
+          "ID": 2353320,
+          "Title": "Serangan Westminster 2017"
+        },
+        {
+          "ID": 2439314,
+          "Title": "Universitas Maryland"
+        },
+        {
+          "ID": 2478070,
+          "Title": "Universitas Sungkyunkwan"
+        },
+        {
+          "ID": 2491182,
+          "Title": "Universitas Thammasat"
+        },
+        {
+          "ID": 2601735,
+          "Title": "Universitas Troy"
+        },
+        {
+          "ID": 2670700,
+          "Title": "Fakta alternatif"
+        }
+      ]
+    },
+    {
+      "ID": 2147483647,
+      "Title": "Technology and applied sciences",
+      "Abstract": "Technology is an expanded concept that deals with a species' usage and knowledge of tools and crafts, and how it affects a species' ability to control and adapt to its environment. In human civilization, it is a consequence of science and engineering, although several technological advances predate the formalization of these two disciplines. The term can either be applied generally or to specific areas – examples include construction technology, medical technology, or state-of-the-art technology.\n\nThe human race's use of technology began with the conversion of plentiful natural resources into simple tools. The prehistorical discovery of the ability to control fire increased the available sources of food, and the invention of the wheel helped humans in travelling in and controlling their environment. Recent technological developments, including the printing press and the Internet, have lessened physical barriers to communication and allowed humans to interact on a global scale. However, not all technology has been used for peaceful purposes; the development of weapons of ever-increasing destructive power has progressed throughout history, from clubs to nuclear bombs.\n\nApplied science is the application of knowledge from one or more natural scientific fields to solving practical problems. For example, fields of engineering are applied sciences. Applied science is important for technology development. Its use in industrial settings is usually referred to as research and development (R\u0026D)",
+      "Categories": [
+        {
+          "ID": 8527,
+          "Title": "Kategori:Transportasi"
+        },
+        {
+          "ID": 8528,
+          "Title": "Kategori:Teknologi"
+        },
+        {
+          "ID": 8541,
+          "Title": "Kategori:Internet"
+        },
+        {
+          "ID": 17194,
+          "Title": "Kategori:Elektronika"
+        },
+        {
+          "ID": 30062,
+          "Title": "Kategori:Desain"
+        },
+        {
+          "ID": 48193,
+          "Title": "Kategori:Ilmu komputer"
+        },
+        {
+          "ID": 51290,
+          "Title": "Kategori:Ilmu terapan"
+        },
+        {
+          "ID": 109712,
+          "Title": "Kategori:Peralatan militer"
+        },
+        {
+          "ID": 148294,
+          "Title": "Kategori:Sejarah teknologi"
+        },
+        {
+          "ID": 308729,
+          "Title": "Kategori:Teknologi menurut tipe"
+        }
+      ],
+      "Articles": [
+        {
+          "ID": 101538,
+          "Title": "Pepsi"
+        },
+        {
+          "ID": 186077,
+          "Title": "Dinding"
+        },
+        {
+          "ID": 1056904,
+          "Title": "Mountain Dew"
+        },
+        {
+          "ID": 2557041,
+          "Title": "32X"
+        },
+        {
+          "ID": 2651887,
+          "Title": "Bath bomb"
+        }
+      ]
+    }
+  ],
+  "Filters": [
+    {
+      "ID": 12532,
+      "Title": "Kategori:Disambiguasi"
+    },
+    {
+      "ID": 269385,
+      "Title": "Kategori:Kategori tersembunyi"
+    }
+  ]
+}

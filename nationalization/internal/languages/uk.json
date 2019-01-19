@@ -1,0 +1,1790 @@
+{
+  "Language": "uk",
+  "Topics": [
+    {
+      "ID": 2147483637,
+      "Title": "Culture and the arts",
+      "Abstract": "The word culture is derived from the Latin root cultura or cultus meaning to \"inhabit, cultivate, or honour\". In general, culture refers to human activity; different definitions of culture reflect different theories for understanding, or criteria for valuing human activity. Present day Anthropologists use the term to refer to the universal human capacity to classify experiences and to encode and communicate them symbolically. They regard this capacity as a defining feature of the genus Homo. Since culture is learned, people living in different places have different cultures. There can be different cultures in different countries, and there can also be shared cultures among continents.\n\nThe arts are a vast subdivision of culture, composed of many creative endeavors and disciplines. It is a broader term than \"art,\" which as a description of a field usually means only the visual arts. The arts encompasses visual arts, literary arts and the performing arts - music, theatre, dance, spoken word and film, among others.\n\nArt, in its broadest meaning, is the expression of creativity or imagination. The word art comes from the Latin word ars, which, loosely translated, means \"arrangement\". Art is commonly understood as the act of making works (or artworks) which use the human creative impulse and which have meaning beyond simple description. Art is often distinguished from crafts and recreational hobby activities. The term creative arts denotes a collection of disciplines whose principal purpose is the output of material for the viewer or audience to interpret. As such, art may be taken to include forms as diverse as prose writing, poetry, dance, acting or drama, film, music, sculpture, photography, illustration, architecture, collage, painting, craft and fashion. Art may also be understood as relating to creativity, æsthetics and the generation of emotion",
+      "Categories": [
+        {
+          "ID": 13418,
+          "Title": "Категорія:Культура"
+        },
+        {
+          "ID": 13445,
+          "Title": "Категорія:Харчування"
+        },
+        {
+          "ID": 13449,
+          "Title": "Категорія:Мистецтво"
+        },
+        {
+          "ID": 13460,
+          "Title": "Категорія:Спорт"
+        },
+        {
+          "ID": 22923,
+          "Title": "Категорія:Фільми"
+        },
+        {
+          "ID": 28708,
+          "Title": "Категорія:Захоплення"
+        },
+        {
+          "ID": 41624,
+          "Title": "Категорія:Кухня"
+        },
+        {
+          "ID": 52820,
+          "Title": "Категорія:Відпочинок"
+        },
+        {
+          "ID": 188198,
+          "Title": "Категорія:Розваги"
+        },
+        {
+          "ID": 210818,
+          "Title": "Категорія:Музичні колективи"
+        },
+        {
+          "ID": 881991,
+          "Title": "Категорія:Театральні вистави"
+        },
+        {
+          "ID": 2308760,
+          "Title": "Категорія:Їжа"
+        }
+      ],
+      "Articles": [
+        {
+          "ID": 6224,
+          "Title": "Енциклопедія"
+        },
+        {
+          "ID": 9701,
+          "Title": "Вікіпедія"
+        },
+        {
+          "ID": 12347,
+          "Title": "Реалізм"
+        },
+        {
+          "ID": 15451,
+          "Title": "Бекон"
+        },
+        {
+          "ID": 15710,
+          "Title": "Целібат"
+        },
+        {
+          "ID": 19001,
+          "Title": "День Бабака"
+        },
+        {
+          "ID": 23235,
+          "Title": "Пиво"
+        },
+        {
+          "ID": 28498,
+          "Title": "Led Zeppelin"
+        },
+        {
+          "ID": 29048,
+          "Title": "Хліб"
+        },
+        {
+          "ID": 33497,
+          "Title": "Кава"
+        },
+        {
+          "ID": 33948,
+          "Title": "Green Day"
+        },
+        {
+          "ID": 40694,
+          "Title": "Шоколад"
+        },
+        {
+          "ID": 52669,
+          "Title": "Піца"
+        },
+        {
+          "ID": 61514,
+          "Title": "AC/DC"
+        },
+        {
+          "ID": 104535,
+          "Title": "Доброчесність"
+        },
+        {
+          "ID": 212812,
+          "Title": "Мінет"
+        },
+        {
+          "ID": 218779,
+          "Title": "Sgt. Pepper's Lonely Hearts Club Band"
+        },
+        {
+          "ID": 350984,
+          "Title": "Чудовисько озера Лох-Несс"
+        },
+        {
+          "ID": 363730,
+          "Title": "Хот-дог"
+        },
+        {
+          "ID": 371359,
+          "Title": "Гоґвортс"
+        },
+        {
+          "ID": 382551,
+          "Title": "Смажений рис"
+        },
+        {
+          "ID": 402355,
+          "Title": "Яєчня"
+        },
+        {
+          "ID": 407186,
+          "Title": "Шинка"
+        },
+        {
+          "ID": 470964,
+          "Title": "Букінгемський палац"
+        },
+        {
+          "ID": 579298,
+          "Title": "Печиво"
+        },
+        {
+          "ID": 594717,
+          "Title": "Привид"
+        },
+        {
+          "ID": 664836,
+          "Title": "Морс"
+        },
+        {
+          "ID": 675106,
+          "Title": "Пиво пльзенського типу"
+        },
+        {
+          "ID": 751143,
+          "Title": "Вуличний танець"
+        },
+        {
+          "ID": 771238,
+          "Title": "Тістечко"
+        },
+        {
+          "ID": 886280,
+          "Title": "Яйце (їжа)"
+        },
+        {
+          "ID": 913699,
+          "Title": "Enthiran"
+        },
+        {
+          "ID": 939685,
+          "Title": "Еш Кетчум"
+        },
+        {
+          "ID": 943303,
+          "Title": "Всесвітня книга фактів"
+        },
+        {
+          "ID": 952964,
+          "Title": "Мордред"
+        },
+        {
+          "ID": 969595,
+          "Title": "Заборонений прийом"
+        },
+        {
+          "ID": 1038536,
+          "Title": "Банановий хліб"
+        },
+        {
+          "ID": 1074371,
+          "Title": "Judas (пісня Леді Ґаґи)"
+        },
+        {
+          "ID": 1252133,
+          "Title": "Опара"
+        },
+        {
+          "ID": 1264272,
+          "Title": "Макаронні вироби"
+        },
+        {
+          "ID": 1299150,
+          "Title": "Бісквітне тісто"
+        },
+        {
+          "ID": 1335228,
+          "Title": "Тако"
+        },
+        {
+          "ID": 1359300,
+          "Title": "Чемпіон WWE"
+        },
+        {
+          "ID": 1478216,
+          "Title": "Арахісова паста"
+        },
+        {
+          "ID": 1493296,
+          "Title": "The Wanted"
+        },
+        {
+          "ID": 1514617,
+          "Title": "M\u0026M's"
+        },
+        {
+          "ID": 1558789,
+          "Title": "Безалкогольне пиво"
+        },
+        {
+          "ID": 1660441,
+          "Title": "Flappy bird"
+        },
+        {
+          "ID": 1710743,
+          "Title": "Pinus cembroides"
+        },
+        {
+          "ID": 1792758,
+          "Title": "Карбонара"
+        },
+        {
+          "ID": 1801002,
+          "Title": "Терте какао"
+        },
+        {
+          "ID": 1801019,
+          "Title": "Какао (напій)"
+        },
+        {
+          "ID": 1801322,
+          "Title": "Шоколадне молоко"
+        },
+        {
+          "ID": 1801328,
+          "Title": "Білий шоколад"
+        },
+        {
+          "ID": 1809929,
+          "Title": "Біттер (пиво)"
+        },
+        {
+          "ID": 1810644,
+          "Title": "Б'єр-де-Гард"
+        },
+        {
+          "ID": 1883747,
+          "Title": "Печиво з передбаченням"
+        },
+        {
+          "ID": 1893234,
+          "Title": "Прорив (настільна гра)"
+        },
+        {
+          "ID": 1919274,
+          "Title": "Флойд Мейвезер проти Менні Пак'яо"
+        },
+        {
+          "ID": 1936713,
+          "Title": "Bejeweled"
+        },
+        {
+          "ID": 2029417,
+          "Title": "Яблучне пюре"
+        },
+        {
+          "ID": 2055197,
+          "Title": "PK (фільм)"
+        },
+        {
+          "ID": 2070084,
+          "Title": "Еспаньйол (соус)"
+        },
+        {
+          "ID": 2168081,
+          "Title": "Пісенний конкурс Євробачення 2017"
+        },
+        {
+          "ID": 2200961,
+          "Title": "Пісенний конкурс Євробачення 2018"
+        },
+        {
+          "ID": 2289043,
+          "Title": "Навички навчання"
+        },
+        {
+          "ID": 2311847,
+          "Title": "Сторічні яйця"
+        },
+        {
+          "ID": 2547978,
+          "Title": "Весільний торт"
+        },
+        {
+          "ID": 2688335,
+          "Title": "Фруктовий суп"
+        },
+        {
+          "ID": 2768966,
+          "Title": "Курка тікка масала"
+        },
+        {
+          "ID": 2889233,
+          "Title": "Квашені лимони"
+        },
+        {
+          "ID": 2895613,
+          "Title": "Кхао пад"
+        },
+        {
+          "ID": 2907589,
+          "Title": "Содовий хліб"
+        }
+      ]
+    },
+    {
+      "ID": 2147483638,
+      "Title": "Geography and places",
+      "Abstract": "Geography (Greek Geo (γη) or Gaea (γαία), meaning \"Earth\", and graphein (γράφειν) meaning \"to describe\" or \"to write\") is the study of the earth and its features, inhabitants, and phenomena. A literal translation would be \"to describe or write about the Earth\". The first person to use the word \"geography\" was Eratosthenes (275-195 B.C.). Four historical traditions in geographical research are the spatial analysis of natural and human phenomena (geography as a study of distribution), area studies (places and regions), study of man-land relationship, and research in earth sciences. Nonetheless, modern geography is an all-encompassing discipline that foremost seeks to understand the world and all of its human and natural complexities — not merely where objects are, but how they have changed and come to be. As \"the bridge between the human and physical sciences,\" geography is divided into two main branches — human geography and physical geography",
+      "Categories": [
+        {
+          "ID": 13446,
+          "Title": "Категорія:Географія"
+        },
+        {
+          "ID": 17531,
+          "Title": "Категорія:Геоморфологія"
+        },
+        {
+          "ID": 74612,
+          "Title": "Категорія:Містобудування"
+        },
+        {
+          "ID": 1038748,
+          "Title": "Категорія:Місця"
+        },
+        {
+          "ID": 1463211,
+          "Title": "Категорія:Списки:Географія"
+        }
+      ],
+      "Articles": [
+        {
+          "ID": 3765,
+          "Title": "Париж"
+        },
+        {
+          "ID": 10161,
+          "Title": "М'янма"
+        },
+        {
+          "ID": 19375,
+          "Title": "Венеція"
+        },
+        {
+          "ID": 25615,
+          "Title": "Квінсленд"
+        },
+        {
+          "ID": 108574,
+          "Title": "Канберра"
+        },
+        {
+          "ID": 1849202,
+          "Title": "Карлсбад (Нью-Мексико)"
+        }
+      ]
+    },
+    {
+      "ID": 2147483639,
+      "Title": "Health and fitness",
+      "Abstract": "Health is the level of functional or metabolic efficiency of a living organism. In humans it is the ability of individuals or communities to adapt and self-manage when facing physical, mental or social challenges. The most widely accepted definition of good health is that of the World Health Organization Constitution. It states: \"health is a state of complete physical, mental and social well-being and is not merely the absence of disease or infirmity\" (World Health Organization, 1946). In more recent years, this statement has been amplified to include the ability to lead a \"socially and economically productive life.\" The WHO definition is not without criticism, mainly that it is much too broad.\n\nThe most solid aspects of wellness that fit firmly in the realm of medicine are environmental health, nutrition, disease prevention, and public health. These matters can be investigated at length and can assist in measuring well-being. Please see our medical disclaimer for cautions about Wikipedia's limitations",
+      "Categories": [
+        {
+          "ID": 13451,
+          "Title": "Категорія:Медицина"
+        },
+        {
+          "ID": 15102,
+          "Title": "Категорія:Здоров'я"
+        },
+        {
+          "ID": 76841,
+          "Title": "Категорія:Гігієна"
+        },
+        {
+          "ID": 113074,
+          "Title": "Категорія:Клінічні розділи медицини"
+        },
+        {
+          "ID": 224991,
+          "Title": "Категорія:Генетичні захворювання"
+        },
+        {
+          "ID": 1314000,
+          "Title": "Категорія:Медичні професії"
+        },
+        {
+          "ID": 2461147,
+          "Title": "Категорія:Науки про здоров'я"
+        }
+      ],
+      "Articles": [
+        {
+          "ID": 1786988,
+          "Title": "Автономна сенсорна меридіональна реакція"
+        }
+      ]
+    },
+    {
+      "ID": 2147483640,
+      "Title": "History and events",
+      "Abstract": "History is the interpretation of past events, societies and civilizations. The term history comes from the Greek historia (ἱστορία), \"an account of one's inquiries,\" and shares that etymology with the English word story as narrative. The 1911 Encyclopædia Britannica stated that \"history in the wider sense is all that has happened, not merely all the phenomena of human life, but those of the natural world as well. It is everything that undergoes change; and as modern science has shown that there is nothing absolutely static, therefore, the whole universe, and every part of it, has its history.\" ",
+      "Categories": [
+        {
+          "ID": 13447,
+          "Title": "Категорія:Історія"
+        },
+        {
+          "ID": 21637,
+          "Title": "Категорія:Події"
+        },
+        {
+          "ID": 84594,
+          "Title": "Категорія:Історія за країною"
+        },
+        {
+          "ID": 1259288,
+          "Title": "Категорія:Вибори за роком"
+        }
+      ],
+      "Articles": [
+        {
+          "ID": 9490,
+          "Title": "Троянська війна"
+        },
+        {
+          "ID": 13207,
+          "Title": "Терористичний акт 11 вересня 2001 року"
+        },
+        {
+          "ID": 38553,
+          "Title": "Заперечення Голокосту"
+        },
+        {
+          "ID": 709508,
+          "Title": "Вибух нафтової платформи Deepwater Horizon"
+        },
+        {
+          "ID": 946933,
+          "Title": "Великий тохокуський землетрус"
+        },
+        {
+          "ID": 1052877,
+          "Title": "Стародавні одиниці вимірювання"
+        },
+        {
+          "ID": 1344479,
+          "Title": "Стрілянина в Орорі"
+        },
+        {
+          "ID": 1416810,
+          "Title": "Президентські вибори у США 2012"
+        },
+        {
+          "ID": 2202209,
+          "Title": "Стрілянина у нічному клубі в Орландо"
+        },
+        {
+          "ID": 2218718,
+          "Title": "Індіанці Великих рівнин"
+        },
+        {
+          "ID": 2323364,
+          "Title": "Президентська кампанія Дональда Трампа"
+        },
+        {
+          "ID": 2742872,
+          "Title": "Рейди Палмера"
+        }
+      ]
+    },
+    {
+      "ID": 2147483641,
+      "Title": "Mathematics and logic",
+      "Abstract": "Mathematics is the science of quantization. It is also the study of patterns and relationships, including concepts such as quantity, structure, space, uncertainty, and change. It evolved through the use of abstraction and logical reasoning, from counting, calculation, measurement, and the systematic study of positions, shapes and motions of physical objects. Mathematicians explore such concepts, aiming to formulate new conjectures and establish their truth by rigorous deduction from appropriately chosen axioms and definitions.\n\nLogic (from Classical Greek λόγος logos; meaning word, thought, idea, argument, account, reason or principle) is the study of the principles and criteria of valid inference and demonstration. As a formal science, logic investigates and classifies the structure of statements and arguments, both through the study of formal systems of inference and through the study of arguments in natural language. The field of logic ranges from core topics such as the study of fallacies and paradoxes, to specialized analysis of reasoning using probability and to arguments involving causality. Logic is also commonly used today in argumentation theory. Since the mid-nineteenth century formal logic has been studied in the context of the foundations of mathematics",
+      "Categories": [
+        {
+          "ID": 12830,
+          "Title": "Категорія:Логіка"
+        },
+        {
+          "ID": 13067,
+          "Title": "Категорія:Математика"
+        },
+        {
+          "ID": 13579,
+          "Title": "Категорія:Статистика"
+        },
+        {
+          "ID": 16966,
+          "Title": "Категорія:Теорія ймовірностей та математична статистика"
+        },
+        {
+          "ID": 71431,
+          "Title": "Категорія:Прикладна математика"
+        },
+        {
+          "ID": 1256455,
+          "Title": "Категорія:Теоретична інформатика"
+        },
+        {
+          "ID": 1946992,
+          "Title": "Категорія:Розділи математики"
+        }
+      ],
+      "Articles": [
+        {
+          "ID": 601,
+          "Title": "Довжина"
+        }
+      ]
+    },
+    {
+      "ID": 2147483642,
+      "Title": "Nature and physical sciences",
+      "Abstract": "The term nature is derived from the Latin word natura, or \"essential qualities, innate disposition\". Natura is a Latin translation of the Greek word physis (φύσις), which originally related to the intrinsic characteristics that plants, animals, and other features of the world develop of their own accord. The concept of nature as a whole, all matter and energy in the universe, is one of several expansions of the original notion.\n\nPhysical science is an encompassing term for the branches of natural science, and science, that study non-living systems, in contrast to the biological sciences. However, the term \"physical\" creates an involuntary, somewhat arbitrary distinction, since many branches of physical science also study biological phenomena",
+      "Categories": [
+        {
+          "ID": 13444,
+          "Title": "Категорія:Хімія"
+        },
+        {
+          "ID": 13454,
+          "Title": "Категорія:Фізика"
+        },
+        {
+          "ID": 14997,
+          "Title": "Категорія:Зоологія"
+        },
+        {
+          "ID": 17110,
+          "Title": "Категорія:Природа"
+        },
+        {
+          "ID": 18049,
+          "Title": "Категорія:Наука"
+        },
+        {
+          "ID": 21635,
+          "Title": "Категорія:Катастрофи"
+        },
+        {
+          "ID": 28937,
+          "Title": "Категорія:Хімічні сполуки"
+        },
+        {
+          "ID": 36583,
+          "Title": "Категорія:Природничі науки"
+        },
+        {
+          "ID": 901932,
+          "Title": "Категорія:Фізичні науки"
+        },
+        {
+          "ID": 1276430,
+          "Title": "Категорія:Фауна за континентом"
+        }
+      ],
+      "Articles": [
+        {
+          "ID": 11092,
+          "Title": "Кругообіг води"
+        },
+        {
+          "ID": 19876,
+          "Title": "Скумбрія атлантична"
+        },
+        {
+          "ID": 22008,
+          "Title": "Пшениця"
+        },
+        {
+          "ID": 22335,
+          "Title": "Ананас"
+        },
+        {
+          "ID": 24938,
+          "Title": "Верблюд"
+        },
+        {
+          "ID": 35287,
+          "Title": "Апельсин"
+        },
+        {
+          "ID": 63227,
+          "Title": "Вогонь"
+        },
+        {
+          "ID": 75741,
+          "Title": "Кукурудза"
+        },
+        {
+          "ID": 112240,
+          "Title": "Календар майя"
+        },
+        {
+          "ID": 124670,
+          "Title": "Мастурбація"
+        },
+        {
+          "ID": 159973,
+          "Title": "Баштанні культури"
+        },
+        {
+          "ID": 161731,
+          "Title": "Фламінго"
+        },
+        {
+          "ID": 218405,
+          "Title": "Лимон"
+        },
+        {
+          "ID": 220129,
+          "Title": "Рис"
+        },
+        {
+          "ID": 273594,
+          "Title": "Мантія молюсків"
+        },
+        {
+          "ID": 297336,
+          "Title": "Суспензія"
+        },
+        {
+          "ID": 303739,
+          "Title": "Ланцюг живлення"
+        },
+        {
+          "ID": 306234,
+          "Title": "Олуша"
+        },
+        {
+          "ID": 322634,
+          "Title": "Полуниці садові"
+        },
+        {
+          "ID": 378660,
+          "Title": "Коата"
+        },
+        {
+          "ID": 418345,
+          "Title": "Сеча"
+        },
+        {
+          "ID": 549502,
+          "Title": "Сім'яні залози"
+        },
+        {
+          "ID": 619327,
+          "Title": "Капуста цвітна"
+        },
+        {
+          "ID": 659995,
+          "Title": "Лайм (плід)"
+        },
+        {
+          "ID": 683377,
+          "Title": "Білий тигр"
+        },
+        {
+          "ID": 969434,
+          "Title": "Лось звичайний"
+        },
+        {
+          "ID": 973617,
+          "Title": "Вишеньки (помідори)"
+        },
+        {
+          "ID": 993623,
+          "Title": "Мотонейрон"
+        },
+        {
+          "ID": 1225323,
+          "Title": "Стрункі панцирні веретільниці"
+        },
+        {
+          "ID": 1365937,
+          "Title": "Коров'ячий кал"
+        },
+        {
+          "ID": 1479217,
+          "Title": "Руде волосся"
+        },
+        {
+          "ID": 1519807,
+          "Title": "Скелетно-м'язова система людини"
+        },
+        {
+          "ID": 1535225,
+          "Title": "Райка-свистунка"
+        },
+        {
+          "ID": 1691418,
+          "Title": "Манго (фрукт)"
+        },
+        {
+          "ID": 1710833,
+          "Title": "Pinus kesiya"
+        },
+        {
+          "ID": 1731730,
+          "Title": "Picea engelmannii"
+        },
+        {
+          "ID": 1761012,
+          "Title": "Juniperus thurifera"
+        },
+        {
+          "ID": 1836920,
+          "Title": "Проростання насіння"
+        },
+        {
+          "ID": 1948965,
+          "Title": "Материнка турецька"
+        },
+        {
+          "ID": 2056455,
+          "Title": "Апельсин (плід)"
+        },
+        {
+          "ID": 2057163,
+          "Title": "Пирій наповнений"
+        },
+        {
+          "ID": 2324444,
+          "Title": "Доповняльні кольори"
+        },
+        {
+          "ID": 2399499,
+          "Title": "Первинна сукцесія"
+        },
+        {
+          "ID": 2471962,
+          "Title": "М'язова система"
+        },
+        {
+          "ID": 2882117,
+          "Title": "Клейкий рис"
+        },
+        {
+          "ID": 2970255,
+          "Title": "Пеніс тварин"
+        }
+      ]
+    },
+    {
+      "ID": 2147483643,
+      "Title": "People and self",
+      "Abstract": "A collection of people often refers to a general group, such as all humans, an ethnic group or a nation. An individual person is the self, from his or her own perspective. To you, \"self\" is you. To someone else, \"self\" is that person. A biography is a genre of literature or film, which presents a relatively full account of the most interesting and important events of a notable person's life.\n\nLife or personal life or human existence is an individual human's personal, private experience of living (including their employment career, their family life, and other elements). In prehistoric times, life and existence was based on survival. There was little privacy and a person was identified by their role in the group. In modern times, many people have even come to think of their personal lives as if they are separate from their work. This segmentation of \"life areas\" is evident in such phrases as \"work life\", \"home life\", and \"sex life.\" The meaning or role of a person's \"life\" or \"human existence\" is discussed in many religions and philosophies. In Western industrialized countries, there are a variety of service industries that help people improve their personal lives, such as counselling and life coaching companies",
+      "Categories": [
+        {
+          "ID": 10545,
+          "Title": "Категорія:Персоналії"
+        },
+        {
+          "ID": 52818,
+          "Title": "Категорія:Особисте життя"
+        },
+        {
+          "ID": 59539,
+          "Title": "Категорія:Жінки"
+        },
+        {
+          "ID": 84294,
+          "Title": "Категорія:Прізвища"
+        },
+        {
+          "ID": 160057,
+          "Title": "Категорія:Персонажі фільмів"
+        }
+      ],
+      "Articles": [
+        {
+          "ID": 1793,
+          "Title": "Алан Тюрінг"
+        },
+        {
+          "ID": 3265,
+          "Title": "Адольф Гітлер"
+        },
+        {
+          "ID": 10756,
+          "Title": "Рене Декарт"
+        },
+        {
+          "ID": 14341,
+          "Title": "Гаррі Гудіні"
+        },
+        {
+          "ID": 14498,
+          "Title": "Олівер Кромвель"
+        },
+        {
+          "ID": 15048,
+          "Title": "Христофор Колумб"
+        },
+        {
+          "ID": 15054,
+          "Title": "Галілео Галілей"
+        },
+        {
+          "ID": 24592,
+          "Title": "Карл Фрідріх Гаусс"
+        },
+        {
+          "ID": 26027,
+          "Title": "Тома Аквінський"
+        },
+        {
+          "ID": 30090,
+          "Title": "Ноам Чомскі"
+        },
+        {
+          "ID": 42172,
+          "Title": "Адам Сміт"
+        },
+        {
+          "ID": 42253,
+          "Title": "Йоганн Кеплер"
+        },
+        {
+          "ID": 42857,
+          "Title": "Ріхард Вагнер"
+        },
+        {
+          "ID": 43829,
+          "Title": "Фібоначчі"
+        },
+        {
+          "ID": 47802,
+          "Title": "Флоренс Найтінгейл"
+        },
+        {
+          "ID": 48711,
+          "Title": "Зигмунд Фрейд"
+        },
+        {
+          "ID": 81155,
+          "Title": "Білл Гейтс"
+        },
+        {
+          "ID": 108747,
+          "Title": "Льюїс Керрол"
+        },
+        {
+          "ID": 112139,
+          "Title": "Джон Леннон"
+        },
+        {
+          "ID": 197553,
+          "Title": "Вільям Блейк"
+        },
+        {
+          "ID": 214968,
+          "Title": "Елтон Джон"
+        },
+        {
+          "ID": 228961,
+          "Title": "Чарлз Беббідж"
+        },
+        {
+          "ID": 230489,
+          "Title": "Джордж Гаррісон"
+        },
+        {
+          "ID": 265427,
+          "Title": "Ірвінг Ленгмюр"
+        },
+        {
+          "ID": 272630,
+          "Title": "Джозеф Сміт"
+        },
+        {
+          "ID": 306105,
+          "Title": "Карл Саган"
+        },
+        {
+          "ID": 370415,
+          "Title": "Александер Флемінг"
+        },
+        {
+          "ID": 410517,
+          "Title": "Деніел Редкліфф"
+        },
+        {
+          "ID": 465988,
+          "Title": "Айн Ренд"
+        },
+        {
+          "ID": 516223,
+          "Title": "Теодор Шванн"
+        },
+        {
+          "ID": 532990,
+          "Title": "Срініваса Рамануджан"
+        },
+        {
+          "ID": 629750,
+          "Title": "Річард Докінз"
+        },
+        {
+          "ID": 881487,
+          "Title": "Карл Фрідріх Абель"
+        },
+        {
+          "ID": 924600,
+          "Title": "Джейкоб Блек"
+        },
+        {
+          "ID": 991222,
+          "Title": "Хайм Сутін"
+        },
+        {
+          "ID": 1045328,
+          "Title": "Шелдон Купер"
+        },
+        {
+          "ID": 1046450,
+          "Title": "Андерс Беринг Брейвік"
+        },
+        {
+          "ID": 1497169,
+          "Title": "Біг Шоу"
+        },
+        {
+          "ID": 1681321,
+          "Title": "Тед Круз"
+        },
+        {
+          "ID": 1734986,
+          "Title": "Генрі Паркс"
+        },
+        {
+          "ID": 1947061,
+          "Title": "Джанет Марґолін"
+        },
+        {
+          "ID": 2112834,
+          "Title": "Джонні Епплсід"
+        },
+        {
+          "ID": 2407124,
+          "Title": "Дороті Вон"
+        },
+        {
+          "ID": 2423582,
+          "Title": "Баттенберг (торт)"
+        },
+        {
+          "ID": 2598970,
+          "Title": "Боб Росс"
+        }
+      ]
+    },
+    {
+      "ID": 2147483644,
+      "Title": "Philosophy and thinking",
+      "Abstract": "Philosophy has almost as many definitions as there have been philosophers, both as a subject matter and an activity, and no simple definition can do it justice. The issue of the definition of philosophy is thus a controversial subject that is nowadays tackled by Metaphilosophy (or the philosophy of philosophy). The word is derived from the ancient Greek words philo-, to love or to befriend, and -sophia, wisdom. Modern usage of the term is much broader; the concept of philosophy encompasses all of knowledge and all that can be known, including the means by which such knowledge can be acquired. However, in the contemporary English-speaking academic world, the term is often used implicitly to refer to analytic philosophy and, in non-English speaking countries, it often refers implicitly to a different, European strain, continental philosophy. The ancient Greeks organized the subject into five basic categories: metaphysics, epistemology, ethics, politics and aesthetics. This organization of the subject is still largely in use in Western philosophy today.\n\nThought or thinking is a mental process which allows beings to model the world, and so to deal with it effectively according to their goals, plans, ends and desires. Words referring to similar concepts and processes in the English language include cognition, sentience, consciousness, idea, and imagination. Thinking involves the cerebral manipulation of information, as when we form concepts, engage in problem solving, reason and make decisions. Thinking is a higher cognitive function and the analysis of thinking processes is part of cognitive psychology",
+      "Categories": [
+        {
+          "ID": 13453,
+          "Title": "Категорія:Філософія"
+        },
+        {
+          "ID": 71990,
+          "Title": "Категорія:Мислення"
+        },
+        {
+          "ID": 75191,
+          "Title": "Категорія:Етика"
+        },
+        {
+          "ID": 104703,
+          "Title": "Категорія:Філософські напрямки та школи"
+        },
+        {
+          "ID": 104860,
+          "Title": "Категорія:Розділи філософії"
+        },
+        {
+          "ID": 258162,
+          "Title": "Категорія:Ідеології"
+        },
+        {
+          "ID": 814150,
+          "Title": "Категорія:Філософські теорії"
+        }
+      ],
+      "Articles": [
+        {
+          "ID": 15445,
+          "Title": "Факт"
+        },
+        {
+          "ID": 199765,
+          "Title": "Щастя"
+        },
+        {
+          "ID": 371038,
+          "Title": "Краса"
+        },
+        {
+          "ID": 453506,
+          "Title": "Ефект Даннінга — Крюґера"
+        }
+      ]
+    },
+    {
+      "ID": 2147483645,
+      "Title": "Religion and belief systems",
+      "Abstract": "Religion is the adherence to codified beliefs and rituals that generally involve a faith in a spiritual nature and a study of inherited ancestral traditions, knowledge and wisdom related to understanding human life. The term \"religion\" refers to both the personal practices related to faith as well as to the larger shared systems of belief.\n\nA belief system can refer to a religion or a world view. A world view (or worldview) is a term calqued from the German word Weltanschauung Welt is the German word for 'world,' and Anschauung is the German word for 'view' or 'outlook'. It is a concept fundamental to German philosophy and epistemology and refers to a wide world perception. Additionally, it refers to the framework of ideas and beliefs through which an individual interprets the world and interacts in it",
+      "Categories": [
+        {
+          "ID": 13434,
+          "Title": "Категорія:Міфологія"
+        },
+        {
+          "ID": 13456,
+          "Title": "Категорія:Релігія"
+        },
+        {
+          "ID": 814150,
+          "Title": "Категорія:Філософські теорії"
+        },
+        {
+          "ID": 891422,
+          "Title": "Категорія:Віра"
+        },
+        {
+          "ID": 995955,
+          "Title": "Категорія:Секуляризм"
+        },
+        {
+          "ID": 1134850,
+          "Title": "Категорія:Релігії та релігійні течії"
+        },
+        {
+          "ID": 1636515,
+          "Title": "Категорія:Критика релігії"
+        },
+        {
+          "ID": 2256212,
+          "Title": "Категорія:Релігійні суперечки"
+        },
+        {
+          "ID": 2785010,
+          "Title": "Категорія:Антропологія релігії"
+        }
+      ],
+      "Articles": [
+        {
+          "ID": 193019,
+          "Title": "Ненажерливість"
+        }
+      ]
+    },
+    {
+      "ID": 2147483646,
+      "Title": "Society and social sciences",
+      "Abstract": "A society is a group of people who form a semi-closed system. At its simplest, the term society refers to a large group of people sharing their own culture and institutions. A society is a network of relationships between people. The English word society is derived from the French société, which had its origin in the Latin societas, a \"friendly association with others,\" from socius meaning \"companion, associate, comrade or business partner.\" Thus, the meaning of society is closely related to what is considered to be social. Implicit in the meaning of society is that its members may share some mutual concern or interest, a common objective or common characteristics. The social sciences generally use the term society to mean a group of people who form a semi-closed social system, in which most interactions are with other individuals belonging to the group. More abstractly, a society is defined as a network of relationships between social entities. A society is also sometimes defined as an interdependent community, but the sociologist Tönnies sought to draw a contrast between society and community. An important feature of society is social structure, aspects of which include roles and social ranking.\n\nThe social science are a group of academic disciplines that study human aspects of the world. They differ from the arts and the humanities, in that the social science tend to emphasize the use of the scientific method in the study of humanity, including quantitative and qualitative methods",
+      "Categories": [
+        {
+          "ID": 13475,
+          "Title": "Категорія:Міжнародні організації"
+        },
+        {
+          "ID": 15103,
+          "Title": "Категорія:Суспільство"
+        },
+        {
+          "ID": 27531,
+          "Title": "Категорія:Фемінізм"
+        },
+        {
+          "ID": 967078,
+          "Title": "Категорія:Суспільні науки"
+        }
+      ],
+      "Articles": [
+        {
+          "ID": 5958,
+          "Title": "Гарвардський університет"
+        },
+        {
+          "ID": 6070,
+          "Title": "Європейський Союз"
+        },
+        {
+          "ID": 12385,
+          "Title": "Трест"
+        },
+        {
+          "ID": 25243,
+          "Title": "Львівський національний університет імені Івана Франка"
+        },
+        {
+          "ID": 37025,
+          "Title": "Московський державний університет імені М. В. Ломоносова"
+        },
+        {
+          "ID": 49780,
+          "Title": "Массачусетський технологічний інститут"
+        },
+        {
+          "ID": 56784,
+          "Title": "Чиказький університет"
+        },
+        {
+          "ID": 56921,
+          "Title": "Колумбійський університет"
+        },
+        {
+          "ID": 80647,
+          "Title": "Нью-Йорк таймс"
+        },
+        {
+          "ID": 126342,
+          "Title": "Літній час"
+        },
+        {
+          "ID": 160858,
+          "Title": "British Petroleum"
+        },
+        {
+          "ID": 165668,
+          "Title": "Кембриджський університет"
+        },
+        {
+          "ID": 171748,
+          "Title": "Ясський університет"
+        },
+        {
+          "ID": 173475,
+          "Title": "Програма ООН з довкілля"
+        },
+        {
+          "ID": 193225,
+          "Title": "Одеський національний університет імені І. І. Мечникова"
+        },
+        {
+          "ID": 220789,
+          "Title": "Економіка Ірану"
+        },
+        {
+          "ID": 225414,
+          "Title": "Болонський університет"
+        },
+        {
+          "ID": 226984,
+          "Title": "Мумбайський університет"
+        },
+        {
+          "ID": 249974,
+          "Title": "Соціальна робота"
+        },
+        {
+          "ID": 304004,
+          "Title": "Токійський університет"
+        },
+        {
+          "ID": 307715,
+          "Title": "Університет Отаго"
+        },
+        {
+          "ID": 317102,
+          "Title": "Оксфордський університет"
+        },
+        {
+          "ID": 339462,
+          "Title": "Санкт-Петербурзький державний університет"
+        },
+        {
+          "ID": 352222,
+          "Title": "Університет Східної Англії"
+        },
+        {
+          "ID": 358989,
+          "Title": "Манітобський університет"
+        },
+        {
+          "ID": 370607,
+          "Title": "Принстонський університет"
+        },
+        {
+          "ID": 380875,
+          "Title": "Геттінгенський університет"
+        },
+        {
+          "ID": 385673,
+          "Title": "Єврейський університет"
+        },
+        {
+          "ID": 402526,
+          "Title": "Університет Квінз"
+        },
+        {
+          "ID": 406954,
+          "Title": "The Times of India"
+        },
+        {
+          "ID": 414218,
+          "Title": "Віденський університет"
+        },
+        {
+          "ID": 481220,
+          "Title": "Бостонський університет"
+        },
+        {
+          "ID": 498007,
+          "Title": "Стенфордський університет"
+        },
+        {
+          "ID": 499033,
+          "Title": "Тартуський університет"
+        },
+        {
+          "ID": 505455,
+          "Title": "Саскачеванський університет"
+        },
+        {
+          "ID": 607696,
+          "Title": "Делійський університет"
+        },
+        {
+          "ID": 607904,
+          "Title": "Університет Джавахарлала Неру"
+        },
+        {
+          "ID": 607953,
+          "Title": "Університет Індрапрастхи Ґуру Ґобінда Сінґха"
+        },
+        {
+          "ID": 613954,
+          "Title": "Сухий закон"
+        },
+        {
+          "ID": 628186,
+          "Title": "Університет «Пантеон»"
+        },
+        {
+          "ID": 657281,
+          "Title": "Університет Лідса"
+        },
+        {
+          "ID": 657620,
+          "Title": "Лондонський університет"
+        },
+        {
+          "ID": 664923,
+          "Title": "Прапор Австралії"
+        },
+        {
+          "ID": 676735,
+          "Title": "Університет Орегону"
+        },
+        {
+          "ID": 689267,
+          "Title": "Міський університет Нью-Йорка"
+        },
+        {
+          "ID": 705706,
+          "Title": "Вроцлавський університет"
+        },
+        {
+          "ID": 731983,
+          "Title": "Бристольський університет"
+        },
+        {
+          "ID": 767737,
+          "Title": "Калгарський університет"
+        },
+        {
+          "ID": 768639,
+          "Title": "Реджайнський університет"
+        },
+        {
+          "ID": 770087,
+          "Title": "Університет Вікторії"
+        },
+        {
+          "ID": 787722,
+          "Title": "Університет Сіднея"
+        },
+        {
+          "ID": 799525,
+          "Title": "Лейпцизький університет"
+        },
+        {
+          "ID": 802013,
+          "Title": "Тюбінгенський університет"
+        },
+        {
+          "ID": 802652,
+          "Title": "Боннський університет"
+        },
+        {
+          "ID": 802654,
+          "Title": "Кельнський університет"
+        },
+        {
+          "ID": 804012,
+          "Title": "Вюрцбурзький університет"
+        },
+        {
+          "ID": 816390,
+          "Title": "Уппсальський університет"
+        },
+        {
+          "ID": 821599,
+          "Title": "Третя світова війна"
+        },
+        {
+          "ID": 830836,
+          "Title": "Fox News Channel"
+        },
+        {
+          "ID": 856393,
+          "Title": "Австралійський національний університет"
+        },
+        {
+          "ID": 857859,
+          "Title": "Університет Ріккіо"
+        },
+        {
+          "ID": 910760,
+          "Title": "Китайський новий рік"
+        },
+        {
+          "ID": 916245,
+          "Title": "Хоккайдоський університет"
+        },
+        {
+          "ID": 916276,
+          "Title": "Тохокуський університет"
+        },
+        {
+          "ID": 931131,
+          "Title": "Пенсильванський університет"
+        },
+        {
+          "ID": 941597,
+          "Title": "Державний Університет (Мілан)"
+        },
+        {
+          "ID": 943307,
+          "Title": "American Airlines"
+        },
+        {
+          "ID": 962159,
+          "Title": "Університет Фрайбурга"
+        },
+        {
+          "ID": 962160,
+          "Title": "Університет Сент-Ендрюса"
+        },
+        {
+          "ID": 1003084,
+          "Title": "Стокгольмський університет"
+        },
+        {
+          "ID": 1021511,
+          "Title": "Неапольський університет імені Фрідріха II"
+        },
+        {
+          "ID": 1023705,
+          "Title": "Падуанський університет"
+        },
+        {
+          "ID": 1055509,
+          "Title": "Сеульський національний університет"
+        },
+        {
+          "ID": 1055727,
+          "Title": "Університет Сонгюнгван"
+        },
+        {
+          "ID": 1063595,
+          "Title": "Університет Квінсленду"
+        },
+        {
+          "ID": 1063601,
+          "Title": "Університет Тасманії"
+        },
+        {
+          "ID": 1064356,
+          "Title": "Імперський коледж Лондона"
+        },
+        {
+          "ID": 1066775,
+          "Title": "Державний університет"
+        },
+        {
+          "ID": 1066779,
+          "Title": "Громадський університет"
+        },
+        {
+          "ID": 1085144,
+          "Title": "Starbucks"
+        },
+        {
+          "ID": 1217891,
+          "Title": "Вестфальський університет імені Вільгельма"
+        },
+        {
+          "ID": 1221103,
+          "Title": "Ісламський університет Азад"
+        },
+        {
+          "ID": 1221106,
+          "Title": "Тегеранський університет"
+        },
+        {
+          "ID": 1230678,
+          "Title": "Університет Глазго"
+        },
+        {
+          "ID": 1237553,
+          "Title": "Абердинський університет"
+        },
+        {
+          "ID": 1240623,
+          "Title": "Бірмінгемський університет"
+        },
+        {
+          "ID": 1311535,
+          "Title": "Калькуттський університет"
+        },
+        {
+          "ID": 1316913,
+          "Title": "Манчестерський університет"
+        },
+        {
+          "ID": 1321214,
+          "Title": "Національне управління архівів та документації"
+        },
+        {
+          "ID": 1343494,
+          "Title": "Віртуальна держава"
+        },
+        {
+          "ID": 1351280,
+          "Title": "Міннесотський університет"
+        },
+        {
+          "ID": 1351297,
+          "Title": "Мічиганський університет"
+        },
+        {
+          "ID": 1351522,
+          "Title": "Pizza Hut"
+        },
+        {
+          "ID": 1359237,
+          "Title": "Domino's Pizza"
+        },
+        {
+          "ID": 1440801,
+          "Title": "Університет Аризони"
+        },
+        {
+          "ID": 1499542,
+          "Title": "Гетеборзький університет"
+        },
+        {
+          "ID": 1589910,
+          "Title": "Вірджинський університет"
+        },
+        {
+          "ID": 1631614,
+          "Title": "Taco Bell"
+        },
+        {
+          "ID": 1633145,
+          "Title": "Університет Вашингтону"
+        },
+        {
+          "ID": 1633694,
+          "Title": "Техаський університет"
+        },
+        {
+          "ID": 1648218,
+          "Title": "Університет Південної Каліфорнії"
+        },
+        {
+          "ID": 1655893,
+          "Title": "Університет Генуї"
+        },
+        {
+          "ID": 1667569,
+          "Title": "Нортумбрійський університет"
+        },
+        {
+          "ID": 1668119,
+          "Title": "Делаверський університет"
+        },
+        {
+          "ID": 1679584,
+          "Title": "Індіанський університет"
+        },
+        {
+          "ID": 1682383,
+          "Title": "Відкритий університет (Велика Британія)"
+        },
+        {
+          "ID": 1698728,
+          "Title": "Паризький університет"
+        },
+        {
+          "ID": 1707168,
+          "Title": "Ліверпульський університет"
+        },
+        {
+          "ID": 1710264,
+          "Title": "Університет Умео"
+        },
+        {
+          "ID": 1720020,
+          "Title": "Кінгстонський університет"
+        },
+        {
+          "ID": 1720953,
+          "Title": "Університет Алабами"
+        },
+        {
+          "ID": 1722159,
+          "Title": "Катанійський університет"
+        },
+        {
+          "ID": 1726365,
+          "Title": "Університет штату Огайо"
+        },
+        {
+          "ID": 1731050,
+          "Title": "Університет Шеффілда"
+        },
+        {
+          "ID": 1737680,
+          "Title": "Університет Теннессі"
+        },
+        {
+          "ID": 1739845,
+          "Title": "Університет Малайя"
+        },
+        {
+          "ID": 1767146,
+          "Title": "Університет Тулейн"
+        },
+        {
+          "ID": 1780383,
+          "Title": "Четверта поправка до Конституції США"
+        },
+        {
+          "ID": 1782023,
+          "Title": "Американський університет"
+        },
+        {
+          "ID": 1788226,
+          "Title": "Університет Айови"
+        },
+        {
+          "ID": 1794754,
+          "Title": "Туринський університет"
+        },
+        {
+          "ID": 1811847,
+          "Title": "Збройні сили Монголії"
+        },
+        {
+          "ID": 1832602,
+          "Title": "Університет Міссісіпі"
+        },
+        {
+          "ID": 1845605,
+          "Title": "Бернський університет"
+        },
+        {
+          "ID": 1870827,
+          "Title": "Мерілендський університет (Коледж-Парк)"
+        },
+        {
+          "ID": 1940001,
+          "Title": "Босфорський університет"
+        },
+        {
+          "ID": 1985441,
+          "Title": "Університет Цінхуа"
+        },
+        {
+          "ID": 2019850,
+          "Title": "Університет Ватерлоо"
+        },
+        {
+          "ID": 2178409,
+          "Title": "Університет Цинциннаті"
+        },
+        {
+          "ID": 2390186,
+          "Title": "Терористичний акт у Лондоні 22 березня 2017"
+        },
+        {
+          "ID": 2457506,
+          "Title": "Аліґархський мусульманський університет"
+        },
+        {
+          "ID": 2511518,
+          "Title": "Університет Ланкастер"
+        },
+        {
+          "ID": 2522492,
+          "Title": "Нанкінський університет"
+        },
+        {
+          "ID": 2690085,
+          "Title": "Університет Ліннея"
+        },
+        {
+          "ID": 2717679,
+          "Title": "Університет Ворика"
+        },
+        {
+          "ID": 2745106,
+          "Title": "Університет Г'юстона"
+        },
+        {
+          "ID": 2789618,
+          "Title": "Саутгемптонський університет"
+        },
+        {
+          "ID": 2797687,
+          "Title": "Університет Сассекса"
+        },
+        {
+          "ID": 2797848,
+          "Title": "Ноттінгемський університет"
+        }
+      ]
+    },
+    {
+      "ID": 2147483647,
+      "Title": "Technology and applied sciences",
+      "Abstract": "Technology is an expanded concept that deals with a species' usage and knowledge of tools and crafts, and how it affects a species' ability to control and adapt to its environment. In human civilization, it is a consequence of science and engineering, although several technological advances predate the formalization of these two disciplines. The term can either be applied generally or to specific areas – examples include construction technology, medical technology, or state-of-the-art technology.\n\nThe human race's use of technology began with the conversion of plentiful natural resources into simple tools. The prehistorical discovery of the ability to control fire increased the available sources of food, and the invention of the wheel helped humans in travelling in and controlling their environment. Recent technological developments, including the printing press and the Internet, have lessened physical barriers to communication and allowed humans to interact on a global scale. However, not all technology has been used for peaceful purposes; the development of weapons of ever-increasing destructive power has progressed throughout history, from clubs to nuclear bombs.\n\nApplied science is the application of knowledge from one or more natural scientific fields to solving practical problems. For example, fields of engineering are applied sciences. Applied science is important for technology development. Its use in industrial settings is usually referred to as research and development (R\u0026D)",
+      "Categories": [
+        {
+          "ID": 13448,
+          "Title": "Категорія:Інформатика"
+        },
+        {
+          "ID": 13463,
+          "Title": "Категорія:Транспорт"
+        },
+        {
+          "ID": 13504,
+          "Title": "Категорія:Інтернет"
+        },
+        {
+          "ID": 13562,
+          "Title": "Категорія:Електроніка"
+        },
+        {
+          "ID": 16456,
+          "Title": "Категорія:Військова техніка"
+        },
+        {
+          "ID": 29277,
+          "Title": "Категорія:Технології"
+        },
+        {
+          "ID": 33980,
+          "Title": "Категорія:Інженерія"
+        },
+        {
+          "ID": 43592,
+          "Title": "Категорія:Дизайн"
+        },
+        {
+          "ID": 52845,
+          "Title": "Категорія:Прикладні науки"
+        },
+        {
+          "ID": 438062,
+          "Title": "Категорія:Технології за типом"
+        },
+        {
+          "ID": 2064003,
+          "Title": "Категорія:Історія технологій"
+        },
+        {
+          "ID": 2077433,
+          "Title": "Категорія:Хронологія технологій"
+        }
+      ],
+      "Articles": [
+        {
+          "ID": 13187,
+          "Title": "Техніко-економічне обґрунтування"
+        },
+        {
+          "ID": 73334,
+          "Title": "Стіна"
+        },
+        {
+          "ID": 232868,
+          "Title": "Жувальна гумка"
+        },
+        {
+          "ID": 740325,
+          "Title": "Пепсі"
+        },
+        {
+          "ID": 1447722,
+          "Title": ".xxx"
+        },
+        {
+          "ID": 1545384,
+          "Title": "Хлібопіч"
+        },
+        {
+          "ID": 1616567,
+          "Title": "Sega 32X"
+        },
+        {
+          "ID": 2266208,
+          "Title": "Кам'яна кладка"
+        },
+        {
+          "ID": 2591723,
+          "Title": "Mountain Dew"
+        }
+      ]
+    }
+  ],
+  "Filters": [
+    {
+      "ID": 29013,
+      "Title": "Категорія:Багатозначні терміни"
+    },
+    {
+      "ID": 486429,
+      "Title": "Категорія:Приховані категорії"
+    }
+  ]
+}

@@ -1,0 +1,1100 @@
+{
+  "Language": "lt",
+  "Topics": [
+    {
+      "ID": 2147483637,
+      "Title": "Culture and the arts",
+      "Abstract": "The word culture is derived from the Latin root cultura or cultus meaning to \"inhabit, cultivate, or honour\". In general, culture refers to human activity; different definitions of culture reflect different theories for understanding, or criteria for valuing human activity. Present day Anthropologists use the term to refer to the universal human capacity to classify experiences and to encode and communicate them symbolically. They regard this capacity as a defining feature of the genus Homo. Since culture is learned, people living in different places have different cultures. There can be different cultures in different countries, and there can also be shared cultures among continents.\n\nThe arts are a vast subdivision of culture, composed of many creative endeavors and disciplines. It is a broader term than \"art,\" which as a description of a field usually means only the visual arts. The arts encompasses visual arts, literary arts and the performing arts - music, theatre, dance, spoken word and film, among others.\n\nArt, in its broadest meaning, is the expression of creativity or imagination. The word art comes from the Latin word ars, which, loosely translated, means \"arrangement\". Art is commonly understood as the act of making works (or artworks) which use the human creative impulse and which have meaning beyond simple description. Art is often distinguished from crafts and recreational hobby activities. The term creative arts denotes a collection of disciplines whose principal purpose is the output of material for the viewer or audience to interpret. As such, art may be taken to include forms as diverse as prose writing, poetry, dance, acting or drama, film, music, sculpture, photography, illustration, architecture, collage, painting, craft and fashion. Art may also be understood as relating to creativity, æsthetics and the generation of emotion",
+      "Categories": [
+        {
+          "ID": 1589,
+          "Title": "Kategorija:Pramogos"
+        },
+        {
+          "ID": 2338,
+          "Title": "Kategorija:Menas"
+        },
+        {
+          "ID": 5603,
+          "Title": "Kategorija:Kultūra"
+        },
+        {
+          "ID": 5742,
+          "Title": "Kategorija:Filmai"
+        },
+        {
+          "ID": 20395,
+          "Title": "Kategorija:Sportas"
+        },
+        {
+          "ID": 256863,
+          "Title": "Kategorija:Poilsis"
+        },
+        {
+          "ID": 261961,
+          "Title": "Kategorija:Maistas"
+        },
+        {
+          "ID": 282867,
+          "Title": "Kategorija:Pomėgiai"
+        }
+      ],
+      "Articles": [
+        {
+          "ID": 980,
+          "Title": "Vikipedija"
+        },
+        {
+          "ID": 5926,
+          "Title": "Enciklopedija"
+        },
+        {
+          "ID": 6311,
+          "Title": "Felacija"
+        },
+        {
+          "ID": 6730,
+          "Title": "Šokoladas"
+        },
+        {
+          "ID": 6741,
+          "Title": "Kava"
+        },
+        {
+          "ID": 8105,
+          "Title": "Skaistybės įžadas"
+        },
+        {
+          "ID": 8707,
+          "Title": "Alus"
+        },
+        {
+          "ID": 14219,
+          "Title": "Led Zeppelin"
+        },
+        {
+          "ID": 23233,
+          "Title": "Duona"
+        },
+        {
+          "ID": 27034,
+          "Title": "Green Day"
+        },
+        {
+          "ID": 29047,
+          "Title": "AC/DC"
+        },
+        {
+          "ID": 41072,
+          "Title": "Vaiduoklis"
+        },
+        {
+          "ID": 73421,
+          "Title": "Pica"
+        },
+        {
+          "ID": 75136,
+          "Title": "Lochneso pabaisa"
+        },
+        {
+          "ID": 90503,
+          "Title": "Sausainis"
+        },
+        {
+          "ID": 100576,
+          "Title": "Realizmas (menas)"
+        },
+        {
+          "ID": 108648,
+          "Title": "Pilzenas (alus)"
+        },
+        {
+          "ID": 155103,
+          "Title": "Dešrainis"
+        },
+        {
+          "ID": 157070,
+          "Title": "M\u0026M's"
+        },
+        {
+          "ID": 159096,
+          "Title": "Hogvartsas"
+        },
+        {
+          "ID": 210938,
+          "Title": "Tako"
+        },
+        {
+          "ID": 238736,
+          "Title": "Pasta (makaronai)"
+        },
+        {
+          "ID": 248247,
+          "Title": "Sgt. Pepper's Lonely Hearts Club Band"
+        },
+        {
+          "ID": 263950,
+          "Title": "Morsas"
+        },
+        {
+          "ID": 274720,
+          "Title": "Kiaušinienė"
+        },
+        {
+          "ID": 364644,
+          "Title": "Daktyla"
+        },
+        {
+          "ID": 394874,
+          "Title": "Judas (daina)"
+        },
+        {
+          "ID": 411512,
+          "Title": "Žemės riešutų sviestas"
+        },
+        {
+          "ID": 437129,
+          "Title": "Biskvitas"
+        },
+        {
+          "ID": 437532,
+          "Title": "Amžiaus kiaušinis"
+        },
+        {
+          "ID": 496045,
+          "Title": "Eurovizijos dainų konkursas 2017"
+        },
+        {
+          "ID": 512722,
+          "Title": "Eurovizijos dainų konkursas 2018"
+        },
+        {
+          "ID": 555098,
+          "Title": "Meksikinė pušis"
+        }
+      ]
+    },
+    {
+      "ID": 2147483638,
+      "Title": "Geography and places",
+      "Abstract": "Geography (Greek Geo (γη) or Gaea (γαία), meaning \"Earth\", and graphein (γράφειν) meaning \"to describe\" or \"to write\") is the study of the earth and its features, inhabitants, and phenomena. A literal translation would be \"to describe or write about the Earth\". The first person to use the word \"geography\" was Eratosthenes (275-195 B.C.). Four historical traditions in geographical research are the spatial analysis of natural and human phenomena (geography as a study of distribution), area studies (places and regions), study of man-land relationship, and research in earth sciences. Nonetheless, modern geography is an all-encompassing discipline that foremost seeks to understand the world and all of its human and natural complexities — not merely where objects are, but how they have changed and come to be. As \"the bridge between the human and physical sciences,\" geography is divided into two main branches — human geography and physical geography",
+      "Categories": [
+        {
+          "ID": 2330,
+          "Title": "Kategorija:Geografija"
+        },
+        {
+          "ID": 96450,
+          "Title": "Kategorija:Geografijos sąrašai"
+        },
+        {
+          "ID": 102788,
+          "Title": "Kategorija:Urbanistika"
+        },
+        {
+          "ID": 192749,
+          "Title": "Kategorija:Geomorfologija"
+        }
+      ],
+      "Articles": [
+        {
+          "ID": 1758,
+          "Title": "Paryžius"
+        },
+        {
+          "ID": 4444,
+          "Title": "Mianmaras"
+        },
+        {
+          "ID": 4500,
+          "Title": "Kanbera"
+        },
+        {
+          "ID": 20479,
+          "Title": "Venecija"
+        },
+        {
+          "ID": 99531,
+          "Title": "Kvinslandas"
+        }
+      ]
+    },
+    {
+      "ID": 2147483639,
+      "Title": "Health and fitness",
+      "Abstract": "Health is the level of functional or metabolic efficiency of a living organism. In humans it is the ability of individuals or communities to adapt and self-manage when facing physical, mental or social challenges. The most widely accepted definition of good health is that of the World Health Organization Constitution. It states: \"health is a state of complete physical, mental and social well-being and is not merely the absence of disease or infirmity\" (World Health Organization, 1946). In more recent years, this statement has been amplified to include the ability to lead a \"socially and economically productive life.\" The WHO definition is not without criticism, mainly that it is much too broad.\n\nThe most solid aspects of wellness that fit firmly in the realm of medicine are environmental health, nutrition, disease prevention, and public health. These matters can be investigated at length and can assist in measuring well-being. Please see our medical disclaimer for cautions about Wikipedia's limitations",
+      "Categories": [
+        {
+          "ID": 2337,
+          "Title": "Kategorija:Medicina"
+        },
+        {
+          "ID": 28196,
+          "Title": "Kategorija:Higiena"
+        },
+        {
+          "ID": 102401,
+          "Title": "Kategorija:Genetiniai sutrikimai"
+        },
+        {
+          "ID": 208316,
+          "Title": "Kategorija:Sveikata"
+        },
+        {
+          "ID": 265769,
+          "Title": "Kategorija:Medicinos sritys"
+        }
+      ]
+    },
+    {
+      "ID": 2147483640,
+      "Title": "History and events",
+      "Abstract": "History is the interpretation of past events, societies and civilizations. The term history comes from the Greek historia (ἱστορία), \"an account of one's inquiries,\" and shares that etymology with the English word story as narrative. The 1911 Encyclopædia Britannica stated that \"history in the wider sense is all that has happened, not merely all the phenomena of human life, but those of the natural world as well. It is everything that undergoes change; and as modern science has shown that there is nothing absolutely static, therefore, the whole universe, and every part of it, has its history.\" ",
+      "Categories": [
+        {
+          "ID": 1690,
+          "Title": "Kategorija:Istorija"
+        },
+        {
+          "ID": 5286,
+          "Title": "Kategorija:Įvykiai"
+        },
+        {
+          "ID": 25811,
+          "Title": "Kategorija:Valstybių istorija"
+        }
+      ],
+      "Articles": [
+        {
+          "ID": 14166,
+          "Title": "Trojos karas"
+        },
+        {
+          "ID": 45254,
+          "Title": "Rugsėjo 11 d. atakos"
+        },
+        {
+          "ID": 76850,
+          "Title": "Holokausto neigimas"
+        },
+        {
+          "ID": 353130,
+          "Title": "2011 m. Sendajaus žemės drebėjimas ir cunamis"
+        },
+        {
+          "ID": 403358,
+          "Title": "2012 metų JAV prezidento rinkimai"
+        }
+      ]
+    },
+    {
+      "ID": 2147483641,
+      "Title": "Mathematics and logic",
+      "Abstract": "Mathematics is the science of quantization. It is also the study of patterns and relationships, including concepts such as quantity, structure, space, uncertainty, and change. It evolved through the use of abstraction and logical reasoning, from counting, calculation, measurement, and the systematic study of positions, shapes and motions of physical objects. Mathematicians explore such concepts, aiming to formulate new conjectures and establish their truth by rigorous deduction from appropriately chosen axioms and definitions.\n\nLogic (from Classical Greek λόγος logos; meaning word, thought, idea, argument, account, reason or principle) is the study of the principles and criteria of valid inference and demonstration. As a formal science, logic investigates and classifies the structure of statements and arguments, both through the study of formal systems of inference and through the study of arguments in natural language. The field of logic ranges from core topics such as the study of fallacies and paradoxes, to specialized analysis of reasoning using probability and to arguments involving causality. Logic is also commonly used today in argumentation theory. Since the mid-nineteenth century formal logic has been studied in the context of the foundations of mathematics",
+      "Categories": [
+        {
+          "ID": 2334,
+          "Title": "Kategorija:Matematika"
+        },
+        {
+          "ID": 8568,
+          "Title": "Kategorija:Statistika"
+        },
+        {
+          "ID": 17426,
+          "Title": "Kategorija:Logika"
+        },
+        {
+          "ID": 461567,
+          "Title": "Kategorija:Matematinės sąvokos"
+        }
+      ],
+      "Articles": [
+        {
+          "ID": 195551,
+          "Title": "Ilgis (matematika)"
+        }
+      ]
+    },
+    {
+      "ID": 2147483642,
+      "Title": "Nature and physical sciences",
+      "Abstract": "The term nature is derived from the Latin word natura, or \"essential qualities, innate disposition\". Natura is a Latin translation of the Greek word physis (φύσις), which originally related to the intrinsic characteristics that plants, animals, and other features of the world develop of their own accord. The concept of nature as a whole, all matter and energy in the universe, is one of several expansions of the original notion.\n\nPhysical science is an encompassing term for the branches of natural science, and science, that study non-living systems, in contrast to the biological sciences. However, the term \"physical\" creates an involuntary, somewhat arbitrary distinction, since many branches of physical science also study biological phenomena",
+      "Categories": [
+        {
+          "ID": 2328,
+          "Title": "Kategorija:Fizika"
+        },
+        {
+          "ID": 2336,
+          "Title": "Kategorija:Chemija"
+        },
+        {
+          "ID": 3292,
+          "Title": "Kategorija:Zoologija"
+        },
+        {
+          "ID": 7860,
+          "Title": "Kategorija:Gamta"
+        },
+        {
+          "ID": 10162,
+          "Title": "Kategorija:Mokslas"
+        },
+        {
+          "ID": 40844,
+          "Title": "Kategorija:Cheminiai junginiai"
+        },
+        {
+          "ID": 96417,
+          "Title": "Kategorija:Aplinkotyra"
+        },
+        {
+          "ID": 141191,
+          "Title": "Kategorija:Fiziniai mokslai"
+        },
+        {
+          "ID": 281205,
+          "Title": "Kategorija:Katastrofos"
+        }
+      ],
+      "Articles": [
+        {
+          "ID": 2741,
+          "Title": "Plėšriavoriai"
+        },
+        {
+          "ID": 4343,
+          "Title": "Varpa (lytinis organas)"
+        },
+        {
+          "ID": 4357,
+          "Title": "Sėklidė"
+        },
+        {
+          "ID": 6066,
+          "Title": "Atramos-judėjimo sistema"
+        },
+        {
+          "ID": 6824,
+          "Title": "Flamingai"
+        },
+        {
+          "ID": 7339,
+          "Title": "Koatos (gentis)"
+        },
+        {
+          "ID": 9045,
+          "Title": "Šlapimas"
+        },
+        {
+          "ID": 10795,
+          "Title": "Masturbacija"
+        },
+        {
+          "ID": 11483,
+          "Title": "Braškė"
+        },
+        {
+          "ID": 12356,
+          "Title": "Tikrasis citrinmedis"
+        },
+        {
+          "ID": 17225,
+          "Title": "Briedis"
+        },
+        {
+          "ID": 18010,
+          "Title": "Majų kalendorius"
+        },
+        {
+          "ID": 27178,
+          "Title": "Atlantinė skumbrė"
+        },
+        {
+          "ID": 27434,
+          "Title": "Mantija (biologija)"
+        },
+        {
+          "ID": 28269,
+          "Title": "Ryžis"
+        },
+        {
+          "ID": 28796,
+          "Title": "Kvietys"
+        },
+        {
+          "ID": 30275,
+          "Title": "Motorinis neuronas"
+        },
+        {
+          "ID": 54339,
+          "Title": "Apelsinas"
+        },
+        {
+          "ID": 78242,
+          "Title": "Paprastasis kukurūzas"
+        },
+        {
+          "ID": 89878,
+          "Title": "Hidrologinis ciklas"
+        },
+        {
+          "ID": 97866,
+          "Title": "Agurkvaisis"
+        },
+        {
+          "ID": 102628,
+          "Title": "Žalioji citrina"
+        },
+        {
+          "ID": 110843,
+          "Title": "Mitybos grandinė"
+        },
+        {
+          "ID": 129312,
+          "Title": "Ugnis"
+        },
+        {
+          "ID": 151857,
+          "Title": "Valgomasis ananasas"
+        },
+        {
+          "ID": 159042,
+          "Title": "Kalninė eglė"
+        },
+        {
+          "ID": 184712,
+          "Title": "Suspensija"
+        },
+        {
+          "ID": 220367,
+          "Title": "Kupranugariai"
+        },
+        {
+          "ID": 308375,
+          "Title": "Žiedinis kopūstas"
+        },
+        {
+          "ID": 428776,
+          "Title": "Vabzdžių migracija"
+        }
+      ]
+    },
+    {
+      "ID": 2147483643,
+      "Title": "People and self",
+      "Abstract": "A collection of people often refers to a general group, such as all humans, an ethnic group or a nation. An individual person is the self, from his or her own perspective. To you, \"self\" is you. To someone else, \"self\" is that person. A biography is a genre of literature or film, which presents a relatively full account of the most interesting and important events of a notable person's life.\n\nLife or personal life or human existence is an individual human's personal, private experience of living (including their employment career, their family life, and other elements). In prehistoric times, life and existence was based on survival. There was little privacy and a person was identified by their role in the group. In modern times, many people have even come to think of their personal lives as if they are separate from their work. This segmentation of \"life areas\" is evident in such phrases as \"work life\", \"home life\", and \"sex life.\" The meaning or role of a person's \"life\" or \"human existence\" is discussed in many religions and philosophies. In Western industrialized countries, there are a variety of service industries that help people improve their personal lives, such as counselling and life coaching companies",
+      "Categories": [
+        {
+          "ID": 1416,
+          "Title": "Kategorija:Biografijos"
+        },
+        {
+          "ID": 39139,
+          "Title": "Kategorija:Filmų veikėjai"
+        },
+        {
+          "ID": 97292,
+          "Title": "Kategorija:Pavardės"
+        },
+        {
+          "ID": 296719,
+          "Title": "Kategorija:Asmeninis gyvenimas"
+        }
+      ],
+      "Articles": [
+        {
+          "ID": 4014,
+          "Title": "Adolfas Hitleris"
+        },
+        {
+          "ID": 4821,
+          "Title": "Kristupas Kolumbas"
+        },
+        {
+          "ID": 5241,
+          "Title": "Galilėjus"
+        },
+        {
+          "ID": 7496,
+          "Title": "Alan Turing"
+        },
+        {
+          "ID": 7813,
+          "Title": "Sigmund Freud"
+        },
+        {
+          "ID": 9191,
+          "Title": "Richard Wagner"
+        },
+        {
+          "ID": 10293,
+          "Title": "Noam Chomsky"
+        },
+        {
+          "ID": 10814,
+          "Title": "Adam Smith"
+        },
+        {
+          "ID": 11493,
+          "Title": "Tomas Akvinietis"
+        },
+        {
+          "ID": 17374,
+          "Title": "Carl Sagan"
+        },
+        {
+          "ID": 18207,
+          "Title": "Richard Dawkins"
+        },
+        {
+          "ID": 19320,
+          "Title": "Bill Gates"
+        },
+        {
+          "ID": 25251,
+          "Title": "René Descartes"
+        },
+        {
+          "ID": 33862,
+          "Title": "Carl Friedrich Gauss"
+        },
+        {
+          "ID": 34349,
+          "Title": "John Lennon"
+        },
+        {
+          "ID": 43664,
+          "Title": "Oliver Cromwell"
+        },
+        {
+          "ID": 57383,
+          "Title": "Charles Babbage"
+        },
+        {
+          "ID": 59772,
+          "Title": "Lewis Carroll"
+        },
+        {
+          "ID": 68964,
+          "Title": "Elton John"
+        },
+        {
+          "ID": 77808,
+          "Title": "Harry Houdini"
+        },
+        {
+          "ID": 102629,
+          "Title": "Daniel Radcliffe"
+        },
+        {
+          "ID": 136538,
+          "Title": "Johannes Kepler"
+        },
+        {
+          "ID": 139835,
+          "Title": "George Harrison"
+        },
+        {
+          "ID": 168591,
+          "Title": "William Blake"
+        },
+        {
+          "ID": 173911,
+          "Title": "Alexander Fleming"
+        },
+        {
+          "ID": 288499,
+          "Title": "Fibonacci"
+        },
+        {
+          "ID": 364927,
+          "Title": "Cory Monteith"
+        },
+        {
+          "ID": 368145,
+          "Title": "Anders Behring Breivik"
+        },
+        {
+          "ID": 474024,
+          "Title": "Džozefas Smitas"
+        },
+        {
+          "ID": 479007,
+          "Title": "Chaimas Sutinas"
+        }
+      ]
+    },
+    {
+      "ID": 2147483644,
+      "Title": "Philosophy and thinking",
+      "Abstract": "Philosophy has almost as many definitions as there have been philosophers, both as a subject matter and an activity, and no simple definition can do it justice. The issue of the definition of philosophy is thus a controversial subject that is nowadays tackled by Metaphilosophy (or the philosophy of philosophy). The word is derived from the ancient Greek words philo-, to love or to befriend, and -sophia, wisdom. Modern usage of the term is much broader; the concept of philosophy encompasses all of knowledge and all that can be known, including the means by which such knowledge can be acquired. However, in the contemporary English-speaking academic world, the term is often used implicitly to refer to analytic philosophy and, in non-English speaking countries, it often refers implicitly to a different, European strain, continental philosophy. The ancient Greeks organized the subject into five basic categories: metaphysics, epistemology, ethics, politics and aesthetics. This organization of the subject is still largely in use in Western philosophy today.\n\nThought or thinking is a mental process which allows beings to model the world, and so to deal with it effectively according to their goals, plans, ends and desires. Words referring to similar concepts and processes in the English language include cognition, sentience, consciousness, idea, and imagination. Thinking involves the cerebral manipulation of information, as when we form concepts, engage in problem solving, reason and make decisions. Thinking is a higher cognitive function and the analysis of thinking processes is part of cognitive psychology",
+      "Categories": [
+        {
+          "ID": 2339,
+          "Title": "Kategorija:Filosofija"
+        },
+        {
+          "ID": 21949,
+          "Title": "Kategorija:Etika"
+        },
+        {
+          "ID": 289068,
+          "Title": "Kategorija:Mąstymas"
+        }
+      ],
+      "Articles": [
+        {
+          "ID": 168211,
+          "Title": "Laimė"
+        },
+        {
+          "ID": 177624,
+          "Title": "Faktas"
+        },
+        {
+          "ID": 212011,
+          "Title": "Grožis"
+        },
+        {
+          "ID": 498880,
+          "Title": "Daningo-Kriugerio efektas"
+        }
+      ]
+    },
+    {
+      "ID": 2147483645,
+      "Title": "Religion and belief systems",
+      "Abstract": "Religion is the adherence to codified beliefs and rituals that generally involve a faith in a spiritual nature and a study of inherited ancestral traditions, knowledge and wisdom related to understanding human life. The term \"religion\" refers to both the personal practices related to faith as well as to the larger shared systems of belief.\n\nA belief system can refer to a religion or a world view. A world view (or worldview) is a term calqued from the German word Weltanschauung Welt is the German word for 'world,' and Anschauung is the German word for 'view' or 'outlook'. It is a concept fundamental to German philosophy and epistemology and refers to a wide world perception. Additionally, it refers to the framework of ideas and beliefs through which an individual interprets the world and interacts in it",
+      "Categories": [
+        {
+          "ID": 1411,
+          "Title": "Kategorija:Religija"
+        },
+        {
+          "ID": 2340,
+          "Title": "Kategorija:Mitologija"
+        },
+        {
+          "ID": 387452,
+          "Title": "Kategorija:Religinė antropologija"
+        },
+        {
+          "ID": 497094,
+          "Title": "Kategorija:Religijos"
+        }
+      ],
+      "Articles": [
+        {
+          "ID": 176209,
+          "Title": "Apsirijimas"
+        }
+      ]
+    },
+    {
+      "ID": 2147483646,
+      "Title": "Society and social sciences",
+      "Abstract": "A society is a group of people who form a semi-closed system. At its simplest, the term society refers to a large group of people sharing their own culture and institutions. A society is a network of relationships between people. The English word society is derived from the French société, which had its origin in the Latin societas, a \"friendly association with others,\" from socius meaning \"companion, associate, comrade or business partner.\" Thus, the meaning of society is closely related to what is considered to be social. Implicit in the meaning of society is that its members may share some mutual concern or interest, a common objective or common characteristics. The social sciences generally use the term society to mean a group of people who form a semi-closed social system, in which most interactions are with other individuals belonging to the group. More abstractly, a society is defined as a network of relationships between social entities. A society is also sometimes defined as an interdependent community, but the sociologist Tönnies sought to draw a contrast between society and community. An important feature of society is social structure, aspects of which include roles and social ranking.\n\nThe social science are a group of academic disciplines that study human aspects of the world. They differ from the arts and the humanities, in that the social science tend to emphasize the use of the scientific method in the study of humanity, including quantitative and qualitative methods",
+      "Categories": [
+        {
+          "ID": 45169,
+          "Title": "Kategorija:Socialiniai mokslai"
+        },
+        {
+          "ID": 46479,
+          "Title": "Kategorija:Tarptautinės organizacijos"
+        },
+        {
+          "ID": 49441,
+          "Title": "Kategorija:Visuomenė"
+        },
+        {
+          "ID": 188604,
+          "Title": "Kategorija:Feminizmas"
+        }
+      ],
+      "Articles": [
+        {
+          "ID": 836,
+          "Title": "Europos Sąjunga"
+        },
+        {
+          "ID": 5940,
+          "Title": "Vasaros laikas"
+        },
+        {
+          "ID": 10250,
+          "Title": "Netikra valstybė"
+        },
+        {
+          "ID": 39413,
+          "Title": "Maskvos universitetas"
+        },
+        {
+          "ID": 41085,
+          "Title": "Paryžiaus universitetas"
+        },
+        {
+          "ID": 52583,
+          "Title": "Oksfordo universitetas"
+        },
+        {
+          "ID": 52941,
+          "Title": "Kelno universitetas"
+        },
+        {
+          "ID": 58615,
+          "Title": "Bolonijos universitetas"
+        },
+        {
+          "ID": 59228,
+          "Title": "Trestas"
+        },
+        {
+          "ID": 68742,
+          "Title": "Upsalos universitetas"
+        },
+        {
+          "ID": 72533,
+          "Title": "Australijos vėliava"
+        },
+        {
+          "ID": 97311,
+          "Title": "Sankt Peterburgo universitetas"
+        },
+        {
+          "ID": 97633,
+          "Title": "Napier universitetas"
+        },
+        {
+          "ID": 97659,
+          "Title": "Šv. Andriaus universitetas"
+        },
+        {
+          "ID": 98465,
+          "Title": "Mančesterio universitetas"
+        },
+        {
+          "ID": 98539,
+          "Title": "Linkolno universitetas"
+        },
+        {
+          "ID": 98544,
+          "Title": "Kingstono universitetas"
+        },
+        {
+          "ID": 106171,
+          "Title": "Kembridžo universitetas"
+        },
+        {
+          "ID": 113369,
+          "Title": "Prohibicija"
+        },
+        {
+          "ID": 128564,
+          "Title": "Voriko universitetas"
+        },
+        {
+          "ID": 140371,
+          "Title": "Starbucks"
+        },
+        {
+          "ID": 140922,
+          "Title": "Kinų naujieji metai"
+        },
+        {
+          "ID": 141128,
+          "Title": "Tartu universitetas"
+        },
+        {
+          "ID": 170895,
+          "Title": "Masačusetso technologijos institutas"
+        },
+        {
+          "ID": 187414,
+          "Title": "Harvardo universitetas"
+        },
+        {
+          "ID": 187432,
+          "Title": "Birmingamo universitetas"
+        },
+        {
+          "ID": 187831,
+          "Title": "Lagoso universitetas"
+        },
+        {
+          "ID": 195070,
+          "Title": "Tokijo universitetas"
+        },
+        {
+          "ID": 196015,
+          "Title": "Osakos universitetas"
+        },
+        {
+          "ID": 198362,
+          "Title": "Bonos universitetas"
+        },
+        {
+          "ID": 212799,
+          "Title": "Ohajo valstijos universitetas"
+        },
+        {
+          "ID": 229284,
+          "Title": "Trečiasis pasaulinis karas"
+        },
+        {
+          "ID": 237789,
+          "Title": "Teksaso universitetas Ostine"
+        },
+        {
+          "ID": 266438,
+          "Title": "Milano universitetas"
+        },
+        {
+          "ID": 285324,
+          "Title": "Virdžinijos universitetas"
+        },
+        {
+          "ID": 285705,
+          "Title": "Čikagos universitetas"
+        },
+        {
+          "ID": 285774,
+          "Title": "Leipcigo universitetas"
+        },
+        {
+          "ID": 285835,
+          "Title": "Freiburgo universitetas"
+        },
+        {
+          "ID": 285898,
+          "Title": "Genujos universitetas"
+        },
+        {
+          "ID": 285904,
+          "Title": "Getingeno universitetas"
+        },
+        {
+          "ID": 285975,
+          "Title": "Ilinojaus universitetas Čikagoje"
+        },
+        {
+          "ID": 286095,
+          "Title": "Mumbajaus universitetas"
+        },
+        {
+          "ID": 286152,
+          "Title": "Delio universitetas"
+        },
+        {
+          "ID": 286277,
+          "Title": "Jeruzalės hebrajų universitetas"
+        },
+        {
+          "ID": 286299,
+          "Title": "Kalkutos universitetas"
+        },
+        {
+          "ID": 286331,
+          "Title": "Kolumbijos universitetas"
+        },
+        {
+          "ID": 286341,
+          "Title": "Lidso universitetas"
+        },
+        {
+          "ID": 286438,
+          "Title": "Londono universitetas"
+        },
+        {
+          "ID": 286444,
+          "Title": "Lvovo universitetas"
+        },
+        {
+          "ID": 286633,
+          "Title": "Mičigano universitetas"
+        },
+        {
+          "ID": 286635,
+          "Title": "Misūrio universitetas"
+        },
+        {
+          "ID": 286656,
+          "Title": "Miunsterio universitetas"
+        },
+        {
+          "ID": 299581,
+          "Title": "Padujos universitetas"
+        },
+        {
+          "ID": 300900,
+          "Title": "Tiubingeno universitetas"
+        },
+        {
+          "ID": 300911,
+          "Title": "Stanfordo universitetas"
+        },
+        {
+          "ID": 307099,
+          "Title": "Atvirasis universitetas"
+        },
+        {
+          "ID": 313808,
+          "Title": "Vašingtono universitetas"
+        },
+        {
+          "ID": 316376,
+          "Title": "Vienos universitetas"
+        },
+        {
+          "ID": 317797,
+          "Title": "Barbadoso ekonomika"
+        },
+        {
+          "ID": 348485,
+          "Title": "BP"
+        },
+        {
+          "ID": 362876,
+          "Title": "Berno universitetas"
+        },
+        {
+          "ID": 362955,
+          "Title": "Odesos universitetas"
+        },
+        {
+          "ID": 364339,
+          "Title": "The New York Times"
+        },
+        {
+          "ID": 366995,
+          "Title": "American Airlines"
+        },
+        {
+          "ID": 368690,
+          "Title": "Tohoku universitetas"
+        },
+        {
+          "ID": 368696,
+          "Title": "Hokaido universitetas"
+        },
+        {
+          "ID": 368734,
+          "Title": "Seulo nacionalinis universitetas"
+        },
+        {
+          "ID": 384616,
+          "Title": "Jungtinių Tautų Aplinkos apsaugos programa"
+        },
+        {
+          "ID": 385405,
+          "Title": "Socialinis darbas"
+        },
+        {
+          "ID": 401489,
+          "Title": "Glazgo universitetas"
+        },
+        {
+          "ID": 402803,
+          "Title": "Vroclavo universitetas"
+        },
+        {
+          "ID": 444698,
+          "Title": "Pizza Hut"
+        },
+        {
+          "ID": 444700,
+          "Title": "Taco Bell"
+        },
+        {
+          "ID": 444959,
+          "Title": "Domino's Pizza"
+        },
+        {
+          "ID": 545196,
+          "Title": "Cinghua universitetas"
+        },
+        {
+          "ID": 545311,
+          "Title": "Prinstono universitetas"
+        }
+      ]
+    },
+    {
+      "ID": 2147483647,
+      "Title": "Technology and applied sciences",
+      "Abstract": "Technology is an expanded concept that deals with a species' usage and knowledge of tools and crafts, and how it affects a species' ability to control and adapt to its environment. In human civilization, it is a consequence of science and engineering, although several technological advances predate the formalization of these two disciplines. The term can either be applied generally or to specific areas – examples include construction technology, medical technology, or state-of-the-art technology.\n\nThe human race's use of technology began with the conversion of plentiful natural resources into simple tools. The prehistorical discovery of the ability to control fire increased the available sources of food, and the invention of the wheel helped humans in travelling in and controlling their environment. Recent technological developments, including the printing press and the Internet, have lessened physical barriers to communication and allowed humans to interact on a global scale. However, not all technology has been used for peaceful purposes; the development of weapons of ever-increasing destructive power has progressed throughout history, from clubs to nuclear bombs.\n\nApplied science is the application of knowledge from one or more natural scientific fields to solving practical problems. For example, fields of engineering are applied sciences. Applied science is important for technology development. Its use in industrial settings is usually referred to as research and development (R\u0026D)",
+      "Categories": [
+        {
+          "ID": 2455,
+          "Title": "Kategorija:Informatika"
+        },
+        {
+          "ID": 5581,
+          "Title": "Kategorija:Transportas"
+        },
+        {
+          "ID": 5582,
+          "Title": "Kategorija:Internetas"
+        },
+        {
+          "ID": 5612,
+          "Title": "Kategorija:Technologija"
+        },
+        {
+          "ID": 6402,
+          "Title": "Kategorija:Karinė technika"
+        },
+        {
+          "ID": 8725,
+          "Title": "Kategorija:Elektronika"
+        },
+        {
+          "ID": 21256,
+          "Title": "Kategorija:Inžinerija"
+        },
+        {
+          "ID": 69278,
+          "Title": "Kategorija:Dizainas"
+        },
+        {
+          "ID": 115554,
+          "Title": "Kategorija:Technologijos"
+        },
+        {
+          "ID": 208314,
+          "Title": "Kategorija:Taikomieji mokslai"
+        }
+      ],
+      "Articles": [
+        {
+          "ID": 192060,
+          "Title": "Atitvara"
+        },
+        {
+          "ID": 428478,
+          "Title": "Kramtomoji guma"
+        },
+        {
+          "ID": 459956,
+          "Title": "Sega 32X"
+        },
+        {
+          "ID": 485155,
+          "Title": "Pepsi"
+        }
+      ]
+    }
+  ],
+  "Filters": [
+    {
+      "ID": 19977,
+      "Title": "Kategorija:Nuorodiniai straipsniai"
+    },
+    {
+      "ID": 473401,
+      "Title": "Kategorija:Paslėptos kategorijos"
+    }
+  ]
+}

@@ -1,0 +1,1192 @@
+{
+  "Language": "eu",
+  "Topics": [
+    {
+      "ID": 2147483637,
+      "Title": "Culture and the arts",
+      "Abstract": "The word culture is derived from the Latin root cultura or cultus meaning to \"inhabit, cultivate, or honour\". In general, culture refers to human activity; different definitions of culture reflect different theories for understanding, or criteria for valuing human activity. Present day Anthropologists use the term to refer to the universal human capacity to classify experiences and to encode and communicate them symbolically. They regard this capacity as a defining feature of the genus Homo. Since culture is learned, people living in different places have different cultures. There can be different cultures in different countries, and there can also be shared cultures among continents.\n\nThe arts are a vast subdivision of culture, composed of many creative endeavors and disciplines. It is a broader term than \"art,\" which as a description of a field usually means only the visual arts. The arts encompasses visual arts, literary arts and the performing arts - music, theatre, dance, spoken word and film, among others.\n\nArt, in its broadest meaning, is the expression of creativity or imagination. The word art comes from the Latin word ars, which, loosely translated, means \"arrangement\". Art is commonly understood as the act of making works (or artworks) which use the human creative impulse and which have meaning beyond simple description. Art is often distinguished from crafts and recreational hobby activities. The term creative arts denotes a collection of disciplines whose principal purpose is the output of material for the viewer or audience to interpret. As such, art may be taken to include forms as diverse as prose writing, poetry, dance, acting or drama, film, music, sculpture, photography, illustration, architecture, collage, painting, craft and fashion. Art may also be understood as relating to creativity, æsthetics and the generation of emotion",
+      "Categories": [
+        {
+          "ID": 5809,
+          "Title": "Kategoria:Ikuskizunak"
+        },
+        {
+          "ID": 5963,
+          "Title": "Kategoria:Elikagaiak"
+        },
+        {
+          "ID": 6558,
+          "Title": "Kategoria:Musika taldeak"
+        },
+        {
+          "ID": 7633,
+          "Title": "Kategoria:Kultura"
+        },
+        {
+          "ID": 12081,
+          "Title": "Kategoria:Filmak"
+        },
+        {
+          "ID": 21556,
+          "Title": "Kategoria:Kirolak"
+        },
+        {
+          "ID": 24686,
+          "Title": "Kategoria:Arteak"
+        },
+        {
+          "ID": 131573,
+          "Title": "Kategoria:Zaletasunak"
+        },
+        {
+          "ID": 158938,
+          "Title": "Kategoria:Jolasa"
+        }
+      ],
+      "Articles": [
+        {
+          "ID": 4654,
+          "Title": "Wikipedia"
+        },
+        {
+          "ID": 5965,
+          "Title": "Garagardo"
+        },
+        {
+          "ID": 6126,
+          "Title": "Txokolate"
+        },
+        {
+          "ID": 21541,
+          "Title": "Entziklopedia"
+        },
+        {
+          "ID": 32577,
+          "Title": "Hogwarts"
+        },
+        {
+          "ID": 33220,
+          "Title": "Green Day"
+        },
+        {
+          "ID": 33456,
+          "Title": "Ogi"
+        },
+        {
+          "ID": 50931,
+          "Title": "Sgt. Pepper's Lonely Hearts Club Band"
+        },
+        {
+          "ID": 52202,
+          "Title": "Led Zeppelin"
+        },
+        {
+          "ID": 53471,
+          "Title": "Kafe"
+        },
+        {
+          "ID": 88863,
+          "Title": "Bizkotxo"
+        },
+        {
+          "ID": 91438,
+          "Title": "Pizza"
+        },
+        {
+          "ID": 92604,
+          "Title": "AC/DC"
+        },
+        {
+          "ID": 93031,
+          "Title": "Ness aintzirako munstroa"
+        },
+        {
+          "ID": 93257,
+          "Title": "Buckingham jauregia"
+        },
+        {
+          "ID": 99931,
+          "Title": "Arrautza (janaria)"
+        },
+        {
+          "ID": 104544,
+          "Title": "Mordred"
+        },
+        {
+          "ID": 104719,
+          "Title": "Felazio"
+        },
+        {
+          "ID": 116277,
+          "Title": "Urdaiazpiko"
+        },
+        {
+          "ID": 142905,
+          "Title": "Eztei-tarta"
+        },
+        {
+          "ID": 152337,
+          "Title": "Mamu"
+        },
+        {
+          "ID": 162540,
+          "Title": "Kastitate"
+        },
+        {
+          "ID": 202467,
+          "Title": "Pilsner"
+        },
+        {
+          "ID": 202641,
+          "Title": "Ikasteko teknikak"
+        },
+        {
+          "ID": 240346,
+          "Title": "Judas (abestia)"
+        },
+        {
+          "ID": 283571,
+          "Title": "Errealismo (literatura)"
+        },
+        {
+          "ID": 295436,
+          "Title": "Hot dog"
+        },
+        {
+          "ID": 339730,
+          "Title": "Pasta (orea)"
+        },
+        {
+          "ID": 341201,
+          "Title": "Gozopil"
+        },
+        {
+          "ID": 379691,
+          "Title": "Urdai"
+        },
+        {
+          "ID": 386798,
+          "Title": "The World Factbook"
+        },
+        {
+          "ID": 533435,
+          "Title": "Taco"
+        },
+        {
+          "ID": 571496,
+          "Title": "Zortearen gaileta"
+        },
+        {
+          "ID": 583718,
+          "Title": "M\u0026M's"
+        },
+        {
+          "ID": 597409,
+          "Title": "Marmotaren eguna"
+        },
+        {
+          "ID": 631872,
+          "Title": "Kakaodun esnea"
+        },
+        {
+          "ID": 631987,
+          "Title": "Txokolate zuri"
+        },
+        {
+          "ID": 645517,
+          "Title": "Arrautza egosi"
+        },
+        {
+          "ID": 645525,
+          "Title": "Arrautza frijitu"
+        },
+        {
+          "ID": 646107,
+          "Title": "Arroz frijitu"
+        },
+        {
+          "ID": 646324,
+          "Title": "Moldeko ogi"
+        },
+        {
+          "ID": 647304,
+          "Title": "Ogi integral"
+        },
+        {
+          "ID": 647306,
+          "Title": "Soda ogi"
+        },
+        {
+          "ID": 674762,
+          "Title": "Kakahuete-gurin"
+        },
+        {
+          "ID": 711878,
+          "Title": "2017ko Eurovision Abesti Lehiaketa"
+        },
+        {
+          "ID": 727320,
+          "Title": "2018ko Eurovision Abesti Lehiaketa"
+        },
+        {
+          "ID": 733053,
+          "Title": "Bitter"
+        },
+        {
+          "ID": 742131,
+          "Title": "Oilasko tikka masala"
+        },
+        {
+          "ID": 742135,
+          "Title": "Tomate saltsa"
+        },
+        {
+          "ID": 743404,
+          "Title": "Sucker Punch"
+        },
+        {
+          "ID": 748466,
+          "Title": "Txokolate beltz"
+        },
+        {
+          "ID": 755591,
+          "Title": "Pasta-entsalada"
+        }
+      ]
+    },
+    {
+      "ID": 2147483638,
+      "Title": "Geography and places",
+      "Abstract": "Geography (Greek Geo (γη) or Gaea (γαία), meaning \"Earth\", and graphein (γράφειν) meaning \"to describe\" or \"to write\") is the study of the earth and its features, inhabitants, and phenomena. A literal translation would be \"to describe or write about the Earth\". The first person to use the word \"geography\" was Eratosthenes (275-195 B.C.). Four historical traditions in geographical research are the spatial analysis of natural and human phenomena (geography as a study of distribution), area studies (places and regions), study of man-land relationship, and research in earth sciences. Nonetheless, modern geography is an all-encompassing discipline that foremost seeks to understand the world and all of its human and natural complexities — not merely where objects are, but how they have changed and come to be. As \"the bridge between the human and physical sciences,\" geography is divided into two main branches — human geography and physical geography",
+      "Categories": [
+        {
+          "ID": 3436,
+          "Title": "Kategoria:Geografia"
+        },
+        {
+          "ID": 7863,
+          "Title": "Kategoria:Hirigintza"
+        },
+        {
+          "ID": 60134,
+          "Title": "Kategoria:Geomorfologia"
+        },
+        {
+          "ID": 239641,
+          "Title": "Kategoria:Tokiak"
+        }
+      ],
+      "Articles": [
+        {
+          "ID": 4688,
+          "Title": "Paris"
+        },
+        {
+          "ID": 9224,
+          "Title": "Canberra"
+        },
+        {
+          "ID": 9893,
+          "Title": "Myanmar"
+        },
+        {
+          "ID": 12076,
+          "Title": "Venezia"
+        },
+        {
+          "ID": 64358,
+          "Title": "Queensland"
+        },
+        {
+          "ID": 698228,
+          "Title": "Carlsbad (Mexiko Berria)"
+        },
+        {
+          "ID": 843730,
+          "Title": "Aberfoyle (Stirling)"
+        }
+      ]
+    },
+    {
+      "ID": 2147483639,
+      "Title": "Health and fitness",
+      "Abstract": "Health is the level of functional or metabolic efficiency of a living organism. In humans it is the ability of individuals or communities to adapt and self-manage when facing physical, mental or social challenges. The most widely accepted definition of good health is that of the World Health Organization Constitution. It states: \"health is a state of complete physical, mental and social well-being and is not merely the absence of disease or infirmity\" (World Health Organization, 1946). In more recent years, this statement has been amplified to include the ability to lead a \"socially and economically productive life.\" The WHO definition is not without criticism, mainly that it is much too broad.\n\nThe most solid aspects of wellness that fit firmly in the realm of medicine are environmental health, nutrition, disease prevention, and public health. These matters can be investigated at length and can assist in measuring well-being. Please see our medical disclaimer for cautions about Wikipedia's limitations",
+      "Categories": [
+        {
+          "ID": 5788,
+          "Title": "Kategoria:Medikuntza"
+        },
+        {
+          "ID": 5789,
+          "Title": "Kategoria:Osasun zientziak"
+        },
+        {
+          "ID": 6285,
+          "Title": "Kategoria:Osasuna"
+        },
+        {
+          "ID": 33283,
+          "Title": "Kategoria:Higienea"
+        },
+        {
+          "ID": 83336,
+          "Title": "Kategoria:Gaixotasun genetikoak"
+        },
+        {
+          "ID": 131334,
+          "Title": "Kategoria:Medikuntza-espezialitateak"
+        },
+        {
+          "ID": 141429,
+          "Title": "Kategoria:Zainketa pertsonala"
+        },
+        {
+          "ID": 583095,
+          "Title": "Kategoria:Osasunaren lanbideak"
+        }
+      ]
+    },
+    {
+      "ID": 2147483640,
+      "Title": "History and events",
+      "Abstract": "History is the interpretation of past events, societies and civilizations. The term history comes from the Greek historia (ἱστορία), \"an account of one's inquiries,\" and shares that etymology with the English word story as narrative. The 1911 Encyclopædia Britannica stated that \"history in the wider sense is all that has happened, not merely all the phenomena of human life, but those of the natural world as well. It is everything that undergoes change; and as modern science has shown that there is nothing absolutely static, therefore, the whole universe, and every part of it, has its history.\" ",
+      "Categories": [
+        {
+          "ID": 5732,
+          "Title": "Kategoria:Historia"
+        },
+        {
+          "ID": 39757,
+          "Title": "Kategoria:Historia herrialdearen arabera"
+        },
+        {
+          "ID": 96497,
+          "Title": "Kategoria:Gertaerak"
+        }
+      ],
+      "Articles": [
+        {
+          "ID": 24077,
+          "Title": "2001eko irailaren 11ko atentatuak"
+        },
+        {
+          "ID": 54560,
+          "Title": "Troiako Gerra"
+        },
+        {
+          "ID": 146045,
+          "Title": "Mexikoko golkoaren marea beltza"
+        },
+        {
+          "ID": 162607,
+          "Title": "2011ko Sendaiko lurrikara eta tsunamia"
+        },
+        {
+          "ID": 365173,
+          "Title": "2012ko Ameriketako Estatu Batuetako hauteskundeak"
+        },
+        {
+          "ID": 657648,
+          "Title": "2016ko Orlandoko Pulse diskotekako sarraskia"
+        }
+      ]
+    },
+    {
+      "ID": 2147483641,
+      "Title": "Mathematics and logic",
+      "Abstract": "Mathematics is the science of quantization. It is also the study of patterns and relationships, including concepts such as quantity, structure, space, uncertainty, and change. It evolved through the use of abstraction and logical reasoning, from counting, calculation, measurement, and the systematic study of positions, shapes and motions of physical objects. Mathematicians explore such concepts, aiming to formulate new conjectures and establish their truth by rigorous deduction from appropriately chosen axioms and definitions.\n\nLogic (from Classical Greek λόγος logos; meaning word, thought, idea, argument, account, reason or principle) is the study of the principles and criteria of valid inference and demonstration. As a formal science, logic investigates and classifies the structure of statements and arguments, both through the study of formal systems of inference and through the study of arguments in natural language. The field of logic ranges from core topics such as the study of fallacies and paradoxes, to specialized analysis of reasoning using probability and to arguments involving causality. Logic is also commonly used today in argumentation theory. Since the mid-nineteenth century formal logic has been studied in the context of the foundations of mathematics",
+      "Categories": [
+        {
+          "ID": 5742,
+          "Title": "Kategoria:Matematika"
+        },
+        {
+          "ID": 7335,
+          "Title": "Kategoria:Estatistika"
+        },
+        {
+          "ID": 54194,
+          "Title": "Kategoria:Logika"
+        },
+        {
+          "ID": 99470,
+          "Title": "Kategoria:Informatika teorikoa"
+        },
+        {
+          "ID": 128637,
+          "Title": "Kategoria:Matematika aplikatua"
+        },
+        {
+          "ID": 162031,
+          "Title": "Kategoria:Matematikaren arloak"
+        },
+        {
+          "ID": 341501,
+          "Title": "Kategoria:Matematika kontzeptuak"
+        }
+      ],
+      "Articles": [
+        {
+          "ID": 332306,
+          "Title": "Luzera"
+        }
+      ]
+    },
+    {
+      "ID": 2147483642,
+      "Title": "Nature and physical sciences",
+      "Abstract": "The term nature is derived from the Latin word natura, or \"essential qualities, innate disposition\". Natura is a Latin translation of the Greek word physis (φύσις), which originally related to the intrinsic characteristics that plants, animals, and other features of the world develop of their own accord. The concept of nature as a whole, all matter and energy in the universe, is one of several expansions of the original notion.\n\nPhysical science is an encompassing term for the branches of natural science, and science, that study non-living systems, in contrast to the biological sciences. However, the term \"physical\" creates an involuntary, somewhat arbitrary distinction, since many branches of physical science also study biological phenomena",
+      "Categories": [
+        {
+          "ID": 3460,
+          "Title": "Kategoria:Kimika"
+        },
+        {
+          "ID": 3844,
+          "Title": "Kategoria:Zientziak"
+        },
+        {
+          "ID": 3928,
+          "Title": "Kategoria:Fisika"
+        },
+        {
+          "ID": 4336,
+          "Title": "Kategoria:Zoologia"
+        },
+        {
+          "ID": 5913,
+          "Title": "Kategoria:Natura"
+        },
+        {
+          "ID": 19002,
+          "Title": "Kategoria:Natura zientziak"
+        },
+        {
+          "ID": 32349,
+          "Title": "Kategoria:Konposatu kimikoak"
+        },
+        {
+          "ID": 241855,
+          "Title": "Kategoria:Fauna kontinentearen arabera"
+        },
+        {
+          "ID": 387452,
+          "Title": "Kategoria:Hondamenak eta istripuak"
+        }
+      ],
+      "Articles": [
+        {
+          "ID": 5719,
+          "Title": "Su"
+        },
+        {
+          "ID": 9414,
+          "Title": "Arroz"
+        },
+        {
+          "ID": 9820,
+          "Title": "Arto"
+        },
+        {
+          "ID": 9826,
+          "Title": "Camelus"
+        },
+        {
+          "ID": 22348,
+          "Title": "Lokomozio-aparatu"
+        },
+        {
+          "ID": 36266,
+          "Title": "Zakil"
+        },
+        {
+          "ID": 55402,
+          "Title": "Masturbazio"
+        },
+        {
+          "ID": 61574,
+          "Title": "Muskulu-sistema"
+        },
+        {
+          "ID": 62046,
+          "Title": "Ateles"
+        },
+        {
+          "ID": 65452,
+          "Title": "Gari"
+        },
+        {
+          "ID": 65672,
+          "Title": "Limoiondo"
+        },
+        {
+          "ID": 65729,
+          "Title": "Laranjondo"
+        },
+        {
+          "ID": 65736,
+          "Title": "Laranja"
+        },
+        {
+          "ID": 72439,
+          "Title": "Barrabil"
+        },
+        {
+          "ID": 80448,
+          "Title": "Azalore"
+        },
+        {
+          "ID": 101453,
+          "Title": "Gernu"
+        },
+        {
+          "ID": 110286,
+          "Title": "Esekidura (kimika)"
+        },
+        {
+          "ID": 128841,
+          "Title": "Anana"
+        },
+        {
+          "ID": 130937,
+          "Title": "Kate trofiko"
+        },
+        {
+          "ID": 131379,
+          "Title": "Uraren zikloa"
+        },
+        {
+          "ID": 134453,
+          "Title": "Altze"
+        },
+        {
+          "ID": 156186,
+          "Title": "Flamenko (hegaztia)"
+        },
+        {
+          "ID": 158936,
+          "Title": "Berdel"
+        },
+        {
+          "ID": 329082,
+          "Title": "Intsentsu-sabina"
+        },
+        {
+          "ID": 412112,
+          "Title": "Pseudacris crucifer"
+        },
+        {
+          "ID": 420560,
+          "Title": "Itsas aski"
+        },
+        {
+          "ID": 426032,
+          "Title": "Glaphyromorphus"
+        },
+        {
+          "ID": 428698,
+          "Title": "Ophisaurus"
+        },
+        {
+          "ID": 464657,
+          "Title": "Lima (fruitua)"
+        },
+        {
+          "ID": 529308,
+          "Title": "Diplocrepis puniceus"
+        },
+        {
+          "ID": 571959,
+          "Title": "Ernetze"
+        },
+        {
+          "ID": 592655,
+          "Title": "Lycosidae"
+        },
+        {
+          "ID": 594380,
+          "Title": "Baratze-marrubi"
+        },
+        {
+          "ID": 737468,
+          "Title": "Mango"
+        }
+      ]
+    },
+    {
+      "ID": 2147483643,
+      "Title": "People and self",
+      "Abstract": "A collection of people often refers to a general group, such as all humans, an ethnic group or a nation. An individual person is the self, from his or her own perspective. To you, \"self\" is you. To someone else, \"self\" is that person. A biography is a genre of literature or film, which presents a relatively full account of the most interesting and important events of a notable person's life.\n\nLife or personal life or human existence is an individual human's personal, private experience of living (including their employment career, their family life, and other elements). In prehistoric times, life and existence was based on survival. There was little privacy and a person was identified by their role in the group. In modern times, many people have even come to think of their personal lives as if they are separate from their work. This segmentation of \"life areas\" is evident in such phrases as \"work life\", \"home life\", and \"sex life.\" The meaning or role of a person's \"life\" or \"human existence\" is discussed in many religions and philosophies. In Western industrialized countries, there are a variety of service industries that help people improve their personal lives, such as counselling and life coaching companies",
+      "Categories": [
+        {
+          "ID": 9611,
+          "Title": "Kategoria:Biografiak"
+        },
+        {
+          "ID": 102211,
+          "Title": "Kategoria:Emakumea"
+        },
+        {
+          "ID": 103918,
+          "Title": "Kategoria:Abizenak"
+        },
+        {
+          "ID": 105600,
+          "Title": "Kategoria:Nia"
+        },
+        {
+          "ID": 158883,
+          "Title": "Kategoria:Bizitza pertsonala"
+        },
+        {
+          "ID": 294258,
+          "Title": "Kategoria:Zinemako pertsonaiak"
+        }
+      ],
+      "Articles": [
+        {
+          "ID": 25,
+          "Title": "Galileo Galilei"
+        },
+        {
+          "ID": 34,
+          "Title": "Johannes Kepler"
+        },
+        {
+          "ID": 3881,
+          "Title": "René Descartes"
+        },
+        {
+          "ID": 5529,
+          "Title": "Adolf Hitler"
+        },
+        {
+          "ID": 5677,
+          "Title": "Richard Wagner"
+        },
+        {
+          "ID": 5713,
+          "Title": "Sigmund Freud"
+        },
+        {
+          "ID": 5895,
+          "Title": "Bill Gates"
+        },
+        {
+          "ID": 5944,
+          "Title": "Kristobal Kolon"
+        },
+        {
+          "ID": 6402,
+          "Title": "Adam Smith"
+        },
+        {
+          "ID": 7266,
+          "Title": "Tomas Akinokoa"
+        },
+        {
+          "ID": 7875,
+          "Title": "Carl Sagan"
+        },
+        {
+          "ID": 11674,
+          "Title": "John Lennon"
+        },
+        {
+          "ID": 22305,
+          "Title": "Alexander Fleming"
+        },
+        {
+          "ID": 22430,
+          "Title": "Noam Chomsky"
+        },
+        {
+          "ID": 24076,
+          "Title": "Alan Turing"
+        },
+        {
+          "ID": 36042,
+          "Title": "Carl Friedrich Gauss"
+        },
+        {
+          "ID": 40212,
+          "Title": "William Blake"
+        },
+        {
+          "ID": 42729,
+          "Title": "Oliver Cromwell"
+        },
+        {
+          "ID": 50598,
+          "Title": "Florence Nightingale"
+        },
+        {
+          "ID": 52281,
+          "Title": "George Harrison"
+        },
+        {
+          "ID": 54719,
+          "Title": "Richard Dawkins"
+        },
+        {
+          "ID": 65200,
+          "Title": "Leonardo Pisano"
+        },
+        {
+          "ID": 65826,
+          "Title": "Harry Houdini"
+        },
+        {
+          "ID": 66520,
+          "Title": "Charles Babbage"
+        },
+        {
+          "ID": 73525,
+          "Title": "Johnny Appleseed"
+        },
+        {
+          "ID": 75572,
+          "Title": "Lewis Carroll"
+        },
+        {
+          "ID": 225752,
+          "Title": "Anders Behring Breivik"
+        },
+        {
+          "ID": 227583,
+          "Title": "Daniel Radcliffe"
+        },
+        {
+          "ID": 231058,
+          "Title": "Theodor Schwann"
+        },
+        {
+          "ID": 274717,
+          "Title": "Irving Langmuir"
+        },
+        {
+          "ID": 277246,
+          "Title": "Chaïm Soutine"
+        },
+        {
+          "ID": 278114,
+          "Title": "Joseph Smith"
+        },
+        {
+          "ID": 278419,
+          "Title": "Elton John"
+        },
+        {
+          "ID": 372608,
+          "Title": "Srinivasa Aiyangar Ramanujan"
+        },
+        {
+          "ID": 674576,
+          "Title": "Stefan Lochner"
+        },
+        {
+          "ID": 716419,
+          "Title": "Dorothy Vaughan"
+        },
+        {
+          "ID": 736632,
+          "Title": "Sheldon Cooper"
+        }
+      ]
+    },
+    {
+      "ID": 2147483644,
+      "Title": "Philosophy and thinking",
+      "Abstract": "Philosophy has almost as many definitions as there have been philosophers, both as a subject matter and an activity, and no simple definition can do it justice. The issue of the definition of philosophy is thus a controversial subject that is nowadays tackled by Metaphilosophy (or the philosophy of philosophy). The word is derived from the ancient Greek words philo-, to love or to befriend, and -sophia, wisdom. Modern usage of the term is much broader; the concept of philosophy encompasses all of knowledge and all that can be known, including the means by which such knowledge can be acquired. However, in the contemporary English-speaking academic world, the term is often used implicitly to refer to analytic philosophy and, in non-English speaking countries, it often refers implicitly to a different, European strain, continental philosophy. The ancient Greeks organized the subject into five basic categories: metaphysics, epistemology, ethics, politics and aesthetics. This organization of the subject is still largely in use in Western philosophy today.\n\nThought or thinking is a mental process which allows beings to model the world, and so to deal with it effectively according to their goals, plans, ends and desires. Words referring to similar concepts and processes in the English language include cognition, sentience, consciousness, idea, and imagination. Thinking involves the cerebral manipulation of information, as when we form concepts, engage in problem solving, reason and make decisions. Thinking is a higher cognitive function and the analysis of thinking processes is part of cognitive psychology",
+      "Categories": [
+        {
+          "ID": 3934,
+          "Title": "Kategoria:Filosofia"
+        },
+        {
+          "ID": 6415,
+          "Title": "Kategoria:Ideologiak"
+        },
+        {
+          "ID": 7532,
+          "Title": "Kategoria:Etika"
+        },
+        {
+          "ID": 100090,
+          "Title": "Kategoria:Filosofiaren adarrak"
+        },
+        {
+          "ID": 105589,
+          "Title": "Kategoria:Teoria filosofikoak"
+        },
+        {
+          "ID": 105594,
+          "Title": "Kategoria:Pentsaera"
+        },
+        {
+          "ID": 105625,
+          "Title": "Kategoria:Eskola filosofikoak"
+        }
+      ],
+      "Articles": [
+        {
+          "ID": 76265,
+          "Title": "Edertasun"
+        },
+        {
+          "ID": 158834,
+          "Title": "Zorion"
+        },
+        {
+          "ID": 573986,
+          "Title": "Faktu"
+        }
+      ]
+    },
+    {
+      "ID": 2147483645,
+      "Title": "Religion and belief systems",
+      "Abstract": "Religion is the adherence to codified beliefs and rituals that generally involve a faith in a spiritual nature and a study of inherited ancestral traditions, knowledge and wisdom related to understanding human life. The term \"religion\" refers to both the personal practices related to faith as well as to the larger shared systems of belief.\n\nA belief system can refer to a religion or a world view. A world view (or worldview) is a term calqued from the German word Weltanschauung Welt is the German word for 'world,' and Anschauung is the German word for 'view' or 'outlook'. It is a concept fundamental to German philosophy and epistemology and refers to a wide world perception. Additionally, it refers to the framework of ideas and beliefs through which an individual interprets the world and interacts in it",
+      "Categories": [
+        {
+          "ID": 6711,
+          "Title": "Kategoria:Mitologia"
+        },
+        {
+          "ID": 105589,
+          "Title": "Kategoria:Teoria filosofikoak"
+        },
+        {
+          "ID": 140798,
+          "Title": "Kategoria:Sinesmenak"
+        },
+        {
+          "ID": 384049,
+          "Title": "Kategoria:Erlijioa"
+        },
+        {
+          "ID": 384052,
+          "Title": "Kategoria:Erlijio-fede, tradizio eta mugimenduak"
+        },
+        {
+          "ID": 579104,
+          "Title": "Kategoria:Jainko eza"
+        },
+        {
+          "ID": 583987,
+          "Title": "Kategoria:Erlijioaren antropologia"
+        },
+        {
+          "ID": 713430,
+          "Title": "Kategoria:Laizismoa"
+        }
+      ],
+      "Articles": [
+        {
+          "ID": 602161,
+          "Title": "Sabelkeria"
+        }
+      ]
+    },
+    {
+      "ID": 2147483646,
+      "Title": "Society and social sciences",
+      "Abstract": "A society is a group of people who form a semi-closed system. At its simplest, the term society refers to a large group of people sharing their own culture and institutions. A society is a network of relationships between people. The English word society is derived from the French société, which had its origin in the Latin societas, a \"friendly association with others,\" from socius meaning \"companion, associate, comrade or business partner.\" Thus, the meaning of society is closely related to what is considered to be social. Implicit in the meaning of society is that its members may share some mutual concern or interest, a common objective or common characteristics. The social sciences generally use the term society to mean a group of people who form a semi-closed social system, in which most interactions are with other individuals belonging to the group. More abstractly, a society is defined as a network of relationships between social entities. A society is also sometimes defined as an interdependent community, but the sociologist Tönnies sought to draw a contrast between society and community. An important feature of society is social structure, aspects of which include roles and social ranking.\n\nThe social science are a group of academic disciplines that study human aspects of the world. They differ from the arts and the humanities, in that the social science tend to emphasize the use of the scientific method in the study of humanity, including quantitative and qualitative methods",
+      "Categories": [
+        {
+          "ID": 5730,
+          "Title": "Kategoria:Gizarte zientziak"
+        },
+        {
+          "ID": 6005,
+          "Title": "Kategoria:Gizartea"
+        },
+        {
+          "ID": 6922,
+          "Title": "Kategoria:Nazioarteko erakundeak"
+        },
+        {
+          "ID": 35422,
+          "Title": "Kategoria:Feminismoa"
+        },
+        {
+          "ID": 98830,
+          "Title": "Kategoria:Eskubideak"
+        }
+      ],
+      "Articles": [
+        {
+          "ID": 3484,
+          "Title": "Europar Batasuna"
+        },
+        {
+          "ID": 9523,
+          "Title": "Lege lehor"
+        },
+        {
+          "ID": 32425,
+          "Title": "Australiako bandera"
+        },
+        {
+          "ID": 44026,
+          "Title": "The New York Times"
+        },
+        {
+          "ID": 44513,
+          "Title": "Cambridgeko Unibertsitatea"
+        },
+        {
+          "ID": 44516,
+          "Title": "Oxfordeko Unibertsitatea"
+        },
+        {
+          "ID": 44527,
+          "Title": "Boloniako Unibertsitatea"
+        },
+        {
+          "ID": 44530,
+          "Title": "Parisko Unibertsitatea"
+        },
+        {
+          "ID": 53611,
+          "Title": "Harvard Unibertsitatea"
+        },
+        {
+          "ID": 67460,
+          "Title": "Massachusetts Institute of Technology"
+        },
+        {
+          "ID": 74896,
+          "Title": "Princetongo Unibertsitatea"
+        },
+        {
+          "ID": 85580,
+          "Title": "Stanford Unibertsitatea"
+        },
+        {
+          "ID": 86552,
+          "Title": "Münsterreko Unibertsitatea"
+        },
+        {
+          "ID": 88458,
+          "Title": "Pennsylvaniako Unibertsitatea"
+        },
+        {
+          "ID": 89292,
+          "Title": "American Airlines"
+        },
+        {
+          "ID": 89957,
+          "Title": "Columbia Unibertsitatea"
+        },
+        {
+          "ID": 90734,
+          "Title": "Gizarte-langintza"
+        },
+        {
+          "ID": 92622,
+          "Title": "Chicagoko Unibertsitatea"
+        },
+        {
+          "ID": 106845,
+          "Title": "Moskuko Estatu Unibertsitatea"
+        },
+        {
+          "ID": 108046,
+          "Title": "Vienako Unibertsitatea"
+        },
+        {
+          "ID": 130936,
+          "Title": "Udako ordutegi"
+        },
+        {
+          "ID": 138590,
+          "Title": "BP"
+        },
+        {
+          "ID": 148252,
+          "Title": "Bernako Unibertsitatea"
+        },
+        {
+          "ID": 202715,
+          "Title": "St Andrews Unibertsitatea"
+        },
+        {
+          "ID": 225296,
+          "Title": "Glasgowko Unibertsitatea"
+        },
+        {
+          "ID": 293006,
+          "Title": "New York Hiriko Unibertsitatea"
+        },
+        {
+          "ID": 338904,
+          "Title": "Nazio Batuen Ingurumen Programa"
+        },
+        {
+          "ID": 339758,
+          "Title": "Jerusalemgo Unibertsitate Hebrearra"
+        },
+        {
+          "ID": 341684,
+          "Title": "Leipzigeko Unibertsitatea"
+        },
+        {
+          "ID": 377996,
+          "Title": "Starbucks"
+        },
+        {
+          "ID": 385176,
+          "Title": "Tübingengo Unibertsitatea"
+        },
+        {
+          "ID": 435128,
+          "Title": "Trust"
+        },
+        {
+          "ID": 457723,
+          "Title": "Txinatar urteberri-egun"
+        },
+        {
+          "ID": 503397,
+          "Title": "Warwickeko Unibertsitatea"
+        },
+        {
+          "ID": 508820,
+          "Title": "Tsinghua Unibertsitatea"
+        },
+        {
+          "ID": 557405,
+          "Title": "The Times of India"
+        },
+        {
+          "ID": 595261,
+          "Title": "Tokioko Unibertsitatea"
+        },
+        {
+          "ID": 655146,
+          "Title": "Uppsalako Unibertsitatea"
+        },
+        {
+          "ID": 661887,
+          "Title": "Mikronazio"
+        },
+        {
+          "ID": 719065,
+          "Title": "2017ko Westminsterreko atentatua"
+        },
+        {
+          "ID": 721793,
+          "Title": "Hirugarren Mundu Gerra"
+        },
+        {
+          "ID": 725180,
+          "Title": "Paduako Unibertsitatea"
+        },
+        {
+          "ID": 729839,
+          "Title": "Pizza Hut"
+        },
+        {
+          "ID": 733074,
+          "Title": "Queen's unibertsitatea"
+        },
+        {
+          "ID": 835518,
+          "Title": "Virginiako Unibertsitatea"
+        },
+        {
+          "ID": 846827,
+          "Title": "Londresko Unibertsitatea"
+        }
+      ]
+    },
+    {
+      "ID": 2147483647,
+      "Title": "Technology and applied sciences",
+      "Abstract": "Technology is an expanded concept that deals with a species' usage and knowledge of tools and crafts, and how it affects a species' ability to control and adapt to its environment. In human civilization, it is a consequence of science and engineering, although several technological advances predate the formalization of these two disciplines. The term can either be applied generally or to specific areas – examples include construction technology, medical technology, or state-of-the-art technology.\n\nThe human race's use of technology began with the conversion of plentiful natural resources into simple tools. The prehistorical discovery of the ability to control fire increased the available sources of food, and the invention of the wheel helped humans in travelling in and controlling their environment. Recent technological developments, including the printing press and the Internet, have lessened physical barriers to communication and allowed humans to interact on a global scale. However, not all technology has been used for peaceful purposes; the development of weapons of ever-increasing destructive power has progressed throughout history, from clubs to nuclear bombs.\n\nApplied science is the application of knowledge from one or more natural scientific fields to solving practical problems. For example, fields of engineering are applied sciences. Applied science is important for technology development. Its use in industrial settings is usually referred to as research and development (R\u0026D)",
+      "Categories": [
+        {
+          "ID": 5743,
+          "Title": "Kategoria:Zientzia aplikatuak"
+        },
+        {
+          "ID": 5784,
+          "Title": "Kategoria:Informatika"
+        },
+        {
+          "ID": 5790,
+          "Title": "Kategoria:Teknologia"
+        },
+        {
+          "ID": 6226,
+          "Title": "Kategoria:Ingeniaritza"
+        },
+        {
+          "ID": 6328,
+          "Title": "Kategoria:Elektronika"
+        },
+        {
+          "ID": 6369,
+          "Title": "Kategoria:Internet"
+        },
+        {
+          "ID": 7867,
+          "Title": "Kategoria:Diseinua"
+        },
+        {
+          "ID": 121455,
+          "Title": "Kategoria:Garraioa"
+        },
+        {
+          "ID": 342827,
+          "Title": "Kategoria:Teknologiak motaren arabera"
+        },
+        {
+          "ID": 422023,
+          "Title": "Kategoria:Tresneria militarra"
+        },
+        {
+          "ID": 731978,
+          "Title": "Kategoria:Mugikor aplikazioak"
+        }
+      ],
+      "Articles": [
+        {
+          "ID": 33414,
+          "Title": ".xxx"
+        },
+        {
+          "ID": 114963,
+          "Title": "Gomagoxo"
+        },
+        {
+          "ID": 131322,
+          "Title": "TIG soldadura"
+        },
+        {
+          "ID": 161990,
+          "Title": "Pepsi"
+        },
+        {
+          "ID": 203281,
+          "Title": "Horma"
+        },
+        {
+          "ID": 339127,
+          "Title": "Igeltserotza"
+        },
+        {
+          "ID": 657600,
+          "Title": "Bideragarritasun-azterketa"
+        }
+      ]
+    }
+  ],
+  "Filters": [
+    {
+      "ID": 21448,
+      "Title": "Kategoria:Wikipediako argipen orriak"
+    }
+  ]
+}

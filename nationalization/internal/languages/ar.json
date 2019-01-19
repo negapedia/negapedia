@@ -1,0 +1,2116 @@
+{
+  "Language": "ar",
+  "Topics": [
+    {
+      "ID": 2147483637,
+      "Title": "Culture and the arts",
+      "Abstract": "The word culture is derived from the Latin root cultura or cultus meaning to \"inhabit, cultivate, or honour\". In general, culture refers to human activity; different definitions of culture reflect different theories for understanding, or criteria for valuing human activity. Present day Anthropologists use the term to refer to the universal human capacity to classify experiences and to encode and communicate them symbolically. They regard this capacity as a defining feature of the genus Homo. Since culture is learned, people living in different places have different cultures. There can be different cultures in different countries, and there can also be shared cultures among continents.\n\nThe arts are a vast subdivision of culture, composed of many creative endeavors and disciplines. It is a broader term than \"art,\" which as a description of a field usually means only the visual arts. The arts encompasses visual arts, literary arts and the performing arts - music, theatre, dance, spoken word and film, among others.\n\nArt, in its broadest meaning, is the expression of creativity or imagination. The word art comes from the Latin word ars, which, loosely translated, means \"arrangement\". Art is commonly understood as the act of making works (or artworks) which use the human creative impulse and which have meaning beyond simple description. Art is often distinguished from crafts and recreational hobby activities. The term creative arts denotes a collection of disciplines whose principal purpose is the output of material for the viewer or audience to interpret. As such, art may be taken to include forms as diverse as prose writing, poetry, dance, acting or drama, film, music, sculpture, photography, illustration, architecture, collage, painting, craft and fashion. Art may also be understood as relating to creativity, æsthetics and the generation of emotion",
+      "Categories": [
+        {
+          "ID": 11535,
+          "Title": "تصنيف:ثقافة"
+        },
+        {
+          "ID": 13283,
+          "Title": "تصنيف:فرق موسيقية"
+        },
+        {
+          "ID": 33895,
+          "Title": "تصنيف:أفلام"
+        },
+        {
+          "ID": 56024,
+          "Title": "تصنيف:ترفيه"
+        },
+        {
+          "ID": 60610,
+          "Title": "تصنيف:رياضات"
+        },
+        {
+          "ID": 67177,
+          "Title": "تصنيف:هوايات"
+        },
+        {
+          "ID": 267136,
+          "Title": "تصنيف:مطابخ"
+        },
+        {
+          "ID": 275866,
+          "Title": "تصنيف:فنون"
+        },
+        {
+          "ID": 528649,
+          "Title": "تصنيف:أغذية"
+        },
+        {
+          "ID": 2353918,
+          "Title": "تصنيف:استجمام"
+        }
+      ],
+      "Articles": [
+        {
+          "ID": 1486,
+          "Title": "موسوعة"
+        },
+        {
+          "ID": 24168,
+          "Title": "مكدوس"
+        },
+        {
+          "ID": 27918,
+          "Title": "غرين دي"
+        },
+        {
+          "ID": 37347,
+          "Title": "عفة"
+        },
+        {
+          "ID": 38438,
+          "Title": "بازين"
+        },
+        {
+          "ID": 47915,
+          "Title": "جعة"
+        },
+        {
+          "ID": 51919,
+          "Title": "هوغوورتس"
+        },
+        {
+          "ID": 61769,
+          "Title": "شوكولاتة"
+        },
+        {
+          "ID": 100133,
+          "Title": "كتاب حقائق العالم"
+        },
+        {
+          "ID": 120314,
+          "Title": "بيتزا"
+        },
+        {
+          "ID": 125219,
+          "Title": "كعك"
+        },
+        {
+          "ID": 156417,
+          "Title": "خبز"
+        },
+        {
+          "ID": 180828,
+          "Title": "وحش لوخ نس"
+        },
+        {
+          "ID": 232992,
+          "Title": "شبح"
+        },
+        {
+          "ID": 236061,
+          "Title": "هام (طعام)"
+        },
+        {
+          "ID": 236980,
+          "Title": "باكون"
+        },
+        {
+          "ID": 252375,
+          "Title": "بيض (طعام)"
+        },
+        {
+          "ID": 315204,
+          "Title": "أبو الحروف"
+        },
+        {
+          "ID": 334230,
+          "Title": "لد زبلين"
+        },
+        {
+          "ID": 336843,
+          "Title": "بصارة"
+        },
+        {
+          "ID": 403017,
+          "Title": "دلة"
+        },
+        {
+          "ID": 417303,
+          "Title": "قصر بكنغهام"
+        },
+        {
+          "ID": 449786,
+          "Title": "زبدة فول سوداني"
+        },
+        {
+          "ID": 509543,
+          "Title": "يوم غراوندهوغ"
+        },
+        {
+          "ID": 535280,
+          "Title": "بيض مسلوق"
+        },
+        {
+          "ID": 536097,
+          "Title": "كاربونارا"
+        },
+        {
+          "ID": 538775,
+          "Title": "معكرونة"
+        },
+        {
+          "ID": 540697,
+          "Title": "ريغاتوني ألا باياتا"
+        },
+        {
+          "ID": 541352,
+          "Title": "باستا الربيع"
+        },
+        {
+          "ID": 543145,
+          "Title": "باستا الحبوب"
+        },
+        {
+          "ID": 543485,
+          "Title": "كوكي (مطبخ)"
+        },
+        {
+          "ID": 575311,
+          "Title": "قهوة"
+        },
+        {
+          "ID": 681479,
+          "Title": "أيه سي/دي سي"
+        },
+        {
+          "ID": 683489,
+          "Title": "أكوا (فرقة)"
+        },
+        {
+          "ID": 722044,
+          "Title": "بطولة الوزن الثقيل العالمي دبليو دبليو إي"
+        },
+        {
+          "ID": 763875,
+          "Title": "ويكيبيديا"
+        },
+        {
+          "ID": 817128,
+          "Title": "بيض اسكتلندي"
+        },
+        {
+          "ID": 882366,
+          "Title": "أنواع المعكرونة"
+        },
+        {
+          "ID": 933181,
+          "Title": "جيلاتي"
+        },
+        {
+          "ID": 959019,
+          "Title": "واقعية أدبية"
+        },
+        {
+          "ID": 1041870,
+          "Title": "خبز الموز"
+        },
+        {
+          "ID": 1048171,
+          "Title": "البيض المقلي"
+        },
+        {
+          "ID": 1048804,
+          "Title": "دقيق أسمر"
+        },
+        {
+          "ID": 1054979,
+          "Title": "شوربة الطماطم"
+        },
+        {
+          "ID": 1064121,
+          "Title": "بسكويت اللوز"
+        },
+        {
+          "ID": 1091537,
+          "Title": "تاكو"
+        },
+        {
+          "ID": 1093895,
+          "Title": "الطيور الغاضبة (لعبة فيديو)"
+        },
+        {
+          "ID": 1099809,
+          "Title": "دجاج تيكا ماسالا"
+        },
+        {
+          "ID": 1115686,
+          "Title": "يهوذا (أغنية)"
+        },
+        {
+          "ID": 1125210,
+          "Title": "شوكولاتة ساخنة"
+        },
+        {
+          "ID": 1137680,
+          "Title": "شياردونا"
+        },
+        {
+          "ID": 1172901,
+          "Title": "سابليه"
+        },
+        {
+          "ID": 1182733,
+          "Title": "كعكة إسفنجية"
+        },
+        {
+          "ID": 1201645,
+          "Title": "أنواع الشوكولاتة"
+        },
+        {
+          "ID": 1245813,
+          "Title": "كعكة الزفاف"
+        },
+        {
+          "ID": 1290542,
+          "Title": "كعكة الحظ"
+        },
+        {
+          "ID": 1296570,
+          "Title": "شوكولاتة بيضاء"
+        },
+        {
+          "ID": 1439261,
+          "Title": "فيضان النيل"
+        },
+        {
+          "ID": 1450115,
+          "Title": "صوص التفاح"
+        },
+        {
+          "ID": 1472396,
+          "Title": "خبز فنلندي"
+        },
+        {
+          "ID": 1526060,
+          "Title": "تبتل"
+        },
+        {
+          "ID": 1531651,
+          "Title": "جاب تاك هاي جان"
+        },
+        {
+          "ID": 1539965,
+          "Title": "مهارات الدراسة"
+        },
+        {
+          "ID": 1546985,
+          "Title": "رقائق الشيكولاتة"
+        },
+        {
+          "ID": 1546995,
+          "Title": "شيكولاتة بالحليب"
+        },
+        {
+          "ID": 1548803,
+          "Title": "قالب شيكولاتة"
+        },
+        {
+          "ID": 1649476,
+          "Title": "هوت دوغ"
+        },
+        {
+          "ID": 1768958,
+          "Title": "إم آند إمز"
+        },
+        {
+          "ID": 1774761,
+          "Title": "الأرز المقلي"
+        },
+        {
+          "ID": 1789570,
+          "Title": "بي كي (فيلم)"
+        },
+        {
+          "ID": 1809636,
+          "Title": "ذا وونتيد"
+        },
+        {
+          "ID": 1844765,
+          "Title": "ساكر بنش"
+        },
+        {
+          "ID": 1916886,
+          "Title": "بي جيويلد (لعبة فيديو)"
+        },
+        {
+          "ID": 1917016,
+          "Title": "بيجيويلد 3"
+        },
+        {
+          "ID": 1917239,
+          "Title": "بيجيويلد 2"
+        },
+        {
+          "ID": 1943765,
+          "Title": "فلابي بيرد"
+        },
+        {
+          "ID": 2096363,
+          "Title": "كيك (فيلم 2014)"
+        },
+        {
+          "ID": 2300920,
+          "Title": "بيض القرن"
+        },
+        {
+          "ID": 2376397,
+          "Title": "روبوت (فيلم 2010)"
+        },
+        {
+          "ID": 2507140,
+          "Title": "ثقافة أمريكية جنوبية"
+        },
+        {
+          "ID": 2552196,
+          "Title": "كتلة الكاكاو"
+        },
+        {
+          "ID": 2654978,
+          "Title": "مايويذر ضد باكياو"
+        },
+        {
+          "ID": 2713815,
+          "Title": "تحدي تشارلي تشارلي"
+        },
+        {
+          "ID": 2733757,
+          "Title": "ألموغروت"
+        },
+        {
+          "ID": 2883877,
+          "Title": "غرفة الحرب"
+        },
+        {
+          "ID": 3074237,
+          "Title": "كمونية"
+        },
+        {
+          "ID": 3117157,
+          "Title": "آش كيتشام"
+        },
+        {
+          "ID": 3165167,
+          "Title": "كعكة الأفوكادو"
+        },
+        {
+          "ID": 3311935,
+          "Title": "يخنة بوسنية"
+        },
+        {
+          "ID": 3436134,
+          "Title": "بيارافا"
+        },
+        {
+          "ID": 3462555,
+          "Title": "صلصة حلويات"
+        },
+        {
+          "ID": 3467027,
+          "Title": "ليمون مخلل"
+        },
+        {
+          "ID": 3548978,
+          "Title": "كاتشو أ بيبي"
+        },
+        {
+          "ID": 3698450,
+          "Title": "خبز الفرن الطيني"
+        },
+        {
+          "ID": 3931082,
+          "Title": "بايلا مارينا"
+        },
+        {
+          "ID": 4309792,
+          "Title": "شوكولاتة سوداء"
+        },
+        {
+          "ID": 4337661,
+          "Title": "كابيل"
+        },
+        {
+          "ID": 4341490,
+          "Title": "معكرونة الحروف"
+        },
+        {
+          "ID": 4343196,
+          "Title": "تشينشوني"
+        },
+        {
+          "ID": 4343669,
+          "Title": "روتيله"
+        },
+        {
+          "ID": 4343674,
+          "Title": "جيميلي"
+        },
+        {
+          "ID": 4344632,
+          "Title": "فوسي"
+        },
+        {
+          "ID": 4344745,
+          "Title": "لانترني"
+        },
+        {
+          "ID": 4375553,
+          "Title": "كازونزياي"
+        },
+        {
+          "ID": 4376804,
+          "Title": "روتيني"
+        },
+        {
+          "ID": 4379397,
+          "Title": "الكوكيز برقائق الشوكولاتة"
+        }
+      ]
+    },
+    {
+      "ID": 2147483638,
+      "Title": "Geography and places",
+      "Abstract": "Geography (Greek Geo (γη) or Gaea (γαία), meaning \"Earth\", and graphein (γράφειν) meaning \"to describe\" or \"to write\") is the study of the earth and its features, inhabitants, and phenomena. A literal translation would be \"to describe or write about the Earth\". The first person to use the word \"geography\" was Eratosthenes (275-195 B.C.). Four historical traditions in geographical research are the spatial analysis of natural and human phenomena (geography as a study of distribution), area studies (places and regions), study of man-land relationship, and research in earth sciences. Nonetheless, modern geography is an all-encompassing discipline that foremost seeks to understand the world and all of its human and natural complexities — not merely where objects are, but how they have changed and come to be. As \"the bridge between the human and physical sciences,\" geography is divided into two main branches — human geography and physical geography",
+      "Categories": [
+        {
+          "ID": 6862,
+          "Title": "تصنيف:جغرافيا"
+        },
+        {
+          "ID": 33459,
+          "Title": "تصنيف:هندسة المدن"
+        },
+        {
+          "ID": 615173,
+          "Title": "تصنيف:أماكن"
+        },
+        {
+          "ID": 751581,
+          "Title": "تصنيف:قوائم جغرافيا"
+        },
+        {
+          "ID": 854184,
+          "Title": "تصنيف:عملات حسب المنطقة"
+        },
+        {
+          "ID": 2160485,
+          "Title": "تصنيف:مورفولوجيا الأرض"
+        }
+      ],
+      "Articles": [
+        {
+          "ID": 5583,
+          "Title": "باريس"
+        },
+        {
+          "ID": 8660,
+          "Title": "ميانمار"
+        },
+        {
+          "ID": 20356,
+          "Title": "البندقية"
+        },
+        {
+          "ID": 70876,
+          "Title": "كوينزلاند"
+        },
+        {
+          "ID": 149397,
+          "Title": "كانبرا"
+        },
+        {
+          "ID": 218869,
+          "Title": "كارلسباد (نيومكسيكو)"
+        }
+      ]
+    },
+    {
+      "ID": 2147483639,
+      "Title": "Health and fitness",
+      "Abstract": "Health is the level of functional or metabolic efficiency of a living organism. In humans it is the ability of individuals or communities to adapt and self-manage when facing physical, mental or social challenges. The most widely accepted definition of good health is that of the World Health Organization Constitution. It states: \"health is a state of complete physical, mental and social well-being and is not merely the absence of disease or infirmity\" (World Health Organization, 1946). In more recent years, this statement has been amplified to include the ability to lead a \"socially and economically productive life.\" The WHO definition is not without criticism, mainly that it is much too broad.\n\nThe most solid aspects of wellness that fit firmly in the realm of medicine are environmental health, nutrition, disease prevention, and public health. These matters can be investigated at length and can assist in measuring well-being. Please see our medical disclaimer for cautions about Wikipedia's limitations",
+      "Categories": [
+        {
+          "ID": 8177,
+          "Title": "تصنيف:طب"
+        },
+        {
+          "ID": 10707,
+          "Title": "تصنيف:صحة"
+        },
+        {
+          "ID": 35484,
+          "Title": "تصنيف:علوم الصحة"
+        },
+        {
+          "ID": 108436,
+          "Title": "تصنيف:اضطرابات وأمراض جينية"
+        },
+        {
+          "ID": 181352,
+          "Title": "تصنيف:اختصاصات طبية"
+        },
+        {
+          "ID": 756416,
+          "Title": "تصنيف:نظافة"
+        },
+        {
+          "ID": 756422,
+          "Title": "تصنيف:عناية شخصية"
+        },
+        {
+          "ID": 804997,
+          "Title": "تصنيف:مهن صحية"
+        }
+      ],
+      "Articles": [
+        {
+          "ID": 3813085,
+          "Title": "آي أس إم آر"
+        }
+      ]
+    },
+    {
+      "ID": 2147483640,
+      "Title": "History and events",
+      "Abstract": "History is the interpretation of past events, societies and civilizations. The term history comes from the Greek historia (ἱστορία), \"an account of one's inquiries,\" and shares that etymology with the English word story as narrative. The 1911 Encyclopædia Britannica stated that \"history in the wider sense is all that has happened, not merely all the phenomena of human life, but those of the natural world as well. It is everything that undergoes change; and as modern science has shown that there is nothing absolutely static, therefore, the whole universe, and every part of it, has its history.\" ",
+      "Categories": [
+        {
+          "ID": 7594,
+          "Title": "تصنيف:تاريخ"
+        },
+        {
+          "ID": 18383,
+          "Title": "تصنيف:تاريخ حسب البلد"
+        },
+        {
+          "ID": 143324,
+          "Title": "تصنيف:أحداث"
+        },
+        {
+          "ID": 385839,
+          "Title": "تصنيف:احتفالات"
+        },
+        {
+          "ID": 1175575,
+          "Title": "تصنيف:انتخابات حسب السنة"
+        }
+      ],
+      "Articles": [
+        {
+          "ID": 13507,
+          "Title": "تاريخ الجدول الدوري"
+        },
+        {
+          "ID": 16120,
+          "Title": "حصار طروادة"
+        },
+        {
+          "ID": 65275,
+          "Title": "أحداث 11 سبتمبر 2001"
+        },
+        {
+          "ID": 412938,
+          "Title": "غارات بالمر"
+        },
+        {
+          "ID": 446241,
+          "Title": "إنكار الهولوكوست"
+        },
+        {
+          "ID": 487518,
+          "Title": "تاريخ النقل"
+        },
+        {
+          "ID": 882997,
+          "Title": "التسرب النفطي في خليج المكسيك 2010"
+        },
+        {
+          "ID": 1023950,
+          "Title": "زلزال وتسونامي توهوكو 2011"
+        },
+        {
+          "ID": 1057235,
+          "Title": "انتخابات الرئاسة الأمريكية 2012"
+        },
+        {
+          "ID": 1371239,
+          "Title": "مذبحة أورورا 2012"
+        },
+        {
+          "ID": 3081983,
+          "Title": "وطنيون (الثورة الأميركية)"
+        },
+        {
+          "ID": 3196960,
+          "Title": "الهجوم على نادي ليلي في أورلاندو"
+        },
+        {
+          "ID": 3334238,
+          "Title": "مقتل هارامبي"
+        },
+        {
+          "ID": 4164622,
+          "Title": "التدخل الروسي في انتخابات الولايات المتحدة 2016"
+        },
+        {
+          "ID": 4247299,
+          "Title": "حملة دونالد ترامب الرئاسية 2016"
+        }
+      ]
+    },
+    {
+      "ID": 2147483641,
+      "Title": "Mathematics and logic",
+      "Abstract": "Mathematics is the science of quantization. It is also the study of patterns and relationships, including concepts such as quantity, structure, space, uncertainty, and change. It evolved through the use of abstraction and logical reasoning, from counting, calculation, measurement, and the systematic study of positions, shapes and motions of physical objects. Mathematicians explore such concepts, aiming to formulate new conjectures and establish their truth by rigorous deduction from appropriately chosen axioms and definitions.\n\nLogic (from Classical Greek λόγος logos; meaning word, thought, idea, argument, account, reason or principle) is the study of the principles and criteria of valid inference and demonstration. As a formal science, logic investigates and classifies the structure of statements and arguments, both through the study of formal systems of inference and through the study of arguments in natural language. The field of logic ranges from core topics such as the study of fallacies and paradoxes, to specialized analysis of reasoning using probability and to arguments involving causality. Logic is also commonly used today in argumentation theory. Since the mid-nineteenth century formal logic has been studied in the context of the foundations of mathematics",
+      "Categories": [
+        {
+          "ID": 7226,
+          "Title": "تصنيف:رياضيات"
+        },
+        {
+          "ID": 17398,
+          "Title": "تصنيف:إحصاء"
+        },
+        {
+          "ID": 23540,
+          "Title": "تصنيف:منطق"
+        },
+        {
+          "ID": 28186,
+          "Title": "تصنيف:معلوماتية نظرية"
+        },
+        {
+          "ID": 32424,
+          "Title": "تصنيف:رياضيات تطبيقية"
+        },
+        {
+          "ID": 186110,
+          "Title": "تصنيف:فروع الرياضيات"
+        },
+        {
+          "ID": 1149497,
+          "Title": "تصنيف:علم الاحتمالات والإحصائيات"
+        },
+        {
+          "ID": 1211693,
+          "Title": "تصنيف:مفاهيم رياضية"
+        }
+      ],
+      "Articles": [
+        {
+          "ID": 20065,
+          "Title": "طول"
+        }
+      ]
+    },
+    {
+      "ID": 2147483642,
+      "Title": "Nature and physical sciences",
+      "Abstract": "The term nature is derived from the Latin word natura, or \"essential qualities, innate disposition\". Natura is a Latin translation of the Greek word physis (φύσις), which originally related to the intrinsic characteristics that plants, animals, and other features of the world develop of their own accord. The concept of nature as a whole, all matter and energy in the universe, is one of several expansions of the original notion.\n\nPhysical science is an encompassing term for the branches of natural science, and science, that study non-living systems, in contrast to the biological sciences. However, the term \"physical\" creates an involuntary, somewhat arbitrary distinction, since many branches of physical science also study biological phenomena",
+      "Categories": [
+        {
+          "ID": 5254,
+          "Title": "تصنيف:كيمياء"
+        },
+        {
+          "ID": 7597,
+          "Title": "تصنيف:فيزياء"
+        },
+        {
+          "ID": 10686,
+          "Title": "تصنيف:علوم طبيعية"
+        },
+        {
+          "ID": 10711,
+          "Title": "تصنيف:علوم"
+        },
+        {
+          "ID": 17136,
+          "Title": "تصنيف:مركبات كيميائية"
+        },
+        {
+          "ID": 19264,
+          "Title": "تصنيف:كوارث"
+        },
+        {
+          "ID": 56017,
+          "Title": "تصنيف:طبيعة"
+        },
+        {
+          "ID": 140797,
+          "Title": "تصنيف:علم الحيوان"
+        },
+        {
+          "ID": 257585,
+          "Title": "تصنيف:علوم بيئية"
+        },
+        {
+          "ID": 591518,
+          "Title": "تصنيف:علوم فيزيائية"
+        },
+        {
+          "ID": 874191,
+          "Title": "تصنيف:حيوانات حسب القارة"
+        }
+      ],
+      "Articles": [
+        {
+          "ID": 12037,
+          "Title": "ليمون"
+        },
+        {
+          "ID": 19722,
+          "Title": "قمح"
+        },
+        {
+          "ID": 21097,
+          "Title": "جمل"
+        },
+        {
+          "ID": 25718,
+          "Title": "منجا (فاكهة)"
+        },
+        {
+          "ID": 40720,
+          "Title": "ذرة (نبات)"
+        },
+        {
+          "ID": 42174,
+          "Title": "فراولة"
+        },
+        {
+          "ID": 42551,
+          "Title": "أناناس"
+        },
+        {
+          "ID": 45092,
+          "Title": "قرنبيط"
+        },
+        {
+          "ID": 49097,
+          "Title": "خصية"
+        },
+        {
+          "ID": 65461,
+          "Title": "برتقال"
+        },
+        {
+          "ID": 68534,
+          "Title": "بول"
+        },
+        {
+          "ID": 71966,
+          "Title": "استمناء"
+        },
+        {
+          "ID": 123646,
+          "Title": "نحام وردي"
+        },
+        {
+          "ID": 150825,
+          "Title": "دورة الماء"
+        },
+        {
+          "ID": 273130,
+          "Title": "جهاز عضلي"
+        },
+        {
+          "ID": 274619,
+          "Title": "نار"
+        },
+        {
+          "ID": 306235,
+          "Title": "سلسلة غذائية"
+        },
+        {
+          "ID": 337939,
+          "Title": "لون مكمل"
+        },
+        {
+          "ID": 446760,
+          "Title": "موظ"
+        },
+        {
+          "ID": 463079,
+          "Title": "أرز"
+        },
+        {
+          "ID": 529142,
+          "Title": "العنكبوت الذئب"
+        },
+        {
+          "ID": 599698,
+          "Title": "مستعلق"
+        },
+        {
+          "ID": 769888,
+          "Title": "نيجيرية قزمة (عنزة)"
+        },
+        {
+          "ID": 808873,
+          "Title": "ببر أبيض"
+        },
+        {
+          "ID": 879154,
+          "Title": "قضيب (عضو ذكري)"
+        },
+        {
+          "ID": 895658,
+          "Title": "إنبات"
+        },
+        {
+          "ID": 1182114,
+          "Title": "قيق"
+        },
+        {
+          "ID": 1217322,
+          "Title": "عرعار فواح"
+        },
+        {
+          "ID": 1303158,
+          "Title": "عصبون حركي"
+        },
+        {
+          "ID": 1521936,
+          "Title": "ليم"
+        },
+        {
+          "ID": 1529591,
+          "Title": "الأرز الدبق"
+        },
+        {
+          "ID": 1551781,
+          "Title": "تقويم المايا"
+        },
+        {
+          "ID": 1649592,
+          "Title": "سعدان عنكبوتي"
+        },
+        {
+          "ID": 1692620,
+          "Title": "قط كبير"
+        },
+        {
+          "ID": 1857042,
+          "Title": "اسقمري معروف"
+        },
+        {
+          "ID": 2770556,
+          "Title": "برتقال (شجرة)"
+        },
+        {
+          "ID": 2972032,
+          "Title": "هجرة الحشرات"
+        },
+        {
+          "ID": 3041852,
+          "Title": "تعاقب أولي"
+        },
+        {
+          "ID": 3046737,
+          "Title": "شعر أحمر"
+        },
+        {
+          "ID": 3185490,
+          "Title": "جهاز عضلي هيكلي"
+        },
+        {
+          "ID": 3700788,
+          "Title": "قرقف جرجاني"
+        },
+        {
+          "ID": 3834263,
+          "Title": "روث البقر"
+        },
+        {
+          "ID": 4313839,
+          "Title": "أخبل"
+        }
+      ]
+    },
+    {
+      "ID": 2147483643,
+      "Title": "People and self",
+      "Abstract": "A collection of people often refers to a general group, such as all humans, an ethnic group or a nation. An individual person is the self, from his or her own perspective. To you, \"self\" is you. To someone else, \"self\" is that person. A biography is a genre of literature or film, which presents a relatively full account of the most interesting and important events of a notable person's life.\n\nLife or personal life or human existence is an individual human's personal, private experience of living (including their employment career, their family life, and other elements). In prehistoric times, life and existence was based on survival. There was little privacy and a person was identified by their role in the group. In modern times, many people have even come to think of their personal lives as if they are separate from their work. This segmentation of \"life areas\" is evident in such phrases as \"work life\", \"home life\", and \"sex life.\" The meaning or role of a person's \"life\" or \"human existence\" is discussed in many religions and philosophies. In Western industrialized countries, there are a variety of service industries that help people improve their personal lives, such as counselling and life coaching companies",
+      "Categories": [
+        {
+          "ID": 36792,
+          "Title": "تصنيف:نساء"
+        },
+        {
+          "ID": 189709,
+          "Title": "تصنيف:ذات"
+        },
+        {
+          "ID": 364346,
+          "Title": "تصنيف:شخصيات أفلام"
+        },
+        {
+          "ID": 577102,
+          "Title": "تصنيف:أشخاص"
+        },
+        {
+          "ID": 733036,
+          "Title": "تصنيف:حياة شخصية"
+        },
+        {
+          "ID": 1778336,
+          "Title": "تصنيف:ألقاب النسب"
+        },
+        {
+          "ID": 2614369,
+          "Title": "تصنيف:فنانون حسب المجال الإعلامي"
+        }
+      ],
+      "Articles": [
+        {
+          "ID": 1389,
+          "Title": "بيل غيتس"
+        },
+        {
+          "ID": 2619,
+          "Title": "كريستوفر كولومبوس"
+        },
+        {
+          "ID": 3772,
+          "Title": "أدولف هتلر"
+        },
+        {
+          "ID": 6572,
+          "Title": "غاليليو غاليلي"
+        },
+        {
+          "ID": 8858,
+          "Title": "كارل فريدريش غاوس"
+        },
+        {
+          "ID": 17323,
+          "Title": "سيغموند فرويد"
+        },
+        {
+          "ID": 20818,
+          "Title": "ريتشارد فاغنر"
+        },
+        {
+          "ID": 29857,
+          "Title": "جون لينون"
+        },
+        {
+          "ID": 50129,
+          "Title": "ألكسندر فلمنج"
+        },
+        {
+          "ID": 50169,
+          "Title": "جورج هاريسون"
+        },
+        {
+          "ID": 53934,
+          "Title": "نعوم تشومسكي"
+        },
+        {
+          "ID": 55318,
+          "Title": "آدم سميث"
+        },
+        {
+          "ID": 56820,
+          "Title": "ليوناردو فيبوناتشي"
+        },
+        {
+          "ID": 59950,
+          "Title": "توما الأكويني"
+        },
+        {
+          "ID": 61065,
+          "Title": "جوزيف سميث"
+        },
+        {
+          "ID": 64114,
+          "Title": "رينيه ديكارت"
+        },
+        {
+          "ID": 66981,
+          "Title": "آلان تورنغ"
+        },
+        {
+          "ID": 78767,
+          "Title": "تشارلز بابيج"
+        },
+        {
+          "ID": 85652,
+          "Title": "أوليفر كرومويل"
+        },
+        {
+          "ID": 97196,
+          "Title": "لويس كارول"
+        },
+        {
+          "ID": 116960,
+          "Title": "دانيال رادكليف"
+        },
+        {
+          "ID": 157192,
+          "Title": "يوهانس كيبلر"
+        },
+        {
+          "ID": 175820,
+          "Title": "سرينفاسا أينجار رامانجن"
+        },
+        {
+          "ID": 186254,
+          "Title": "إرفينغ لانغموير"
+        },
+        {
+          "ID": 260018,
+          "Title": "فلورنس نايتينجيل"
+        },
+        {
+          "ID": 269330,
+          "Title": "إلتون جون"
+        },
+        {
+          "ID": 293610,
+          "Title": "آين راند"
+        },
+        {
+          "ID": 315360,
+          "Title": "بيغ شو"
+        },
+        {
+          "ID": 351787,
+          "Title": "كارل ساغان"
+        },
+        {
+          "ID": 410249,
+          "Title": "ريتشارد دوكينز"
+        },
+        {
+          "ID": 514048,
+          "Title": "وليم بليك"
+        },
+        {
+          "ID": 706484,
+          "Title": "جاكوب بلاك"
+        },
+        {
+          "ID": 713120,
+          "Title": "هاري هوديني"
+        },
+        {
+          "ID": 939088,
+          "Title": "كوري مونتيث"
+        },
+        {
+          "ID": 1098112,
+          "Title": "أندرس بهرنغ بريفيك"
+        },
+        {
+          "ID": 1135174,
+          "Title": "شيلدون كوبر"
+        },
+        {
+          "ID": 1462284,
+          "Title": "ثيودور شوان"
+        },
+        {
+          "ID": 1868867,
+          "Title": "بوب روس"
+        },
+        {
+          "ID": 2540946,
+          "Title": "تيد كروز"
+        },
+        {
+          "ID": 3019686,
+          "Title": "ميدولارك ليمون"
+        },
+        {
+          "ID": 3131403,
+          "Title": "دوروثي جونسون فون"
+        },
+        {
+          "ID": 3319572,
+          "Title": "قائمة قنوات يوتيوب الأكثر اشتراكا"
+        },
+        {
+          "ID": 3346607,
+          "Title": "جوني أبلسيد"
+        },
+        {
+          "ID": 3548875,
+          "Title": "رنغ لاردنر"
+        },
+        {
+          "ID": 4965107,
+          "Title": "كارل فريدريش هابيل"
+        },
+        {
+          "ID": 5070843,
+          "Title": "جانيت مارجولين"
+        }
+      ]
+    },
+    {
+      "ID": 2147483644,
+      "Title": "Philosophy and thinking",
+      "Abstract": "Philosophy has almost as many definitions as there have been philosophers, both as a subject matter and an activity, and no simple definition can do it justice. The issue of the definition of philosophy is thus a controversial subject that is nowadays tackled by Metaphilosophy (or the philosophy of philosophy). The word is derived from the ancient Greek words philo-, to love or to befriend, and -sophia, wisdom. Modern usage of the term is much broader; the concept of philosophy encompasses all of knowledge and all that can be known, including the means by which such knowledge can be acquired. However, in the contemporary English-speaking academic world, the term is often used implicitly to refer to analytic philosophy and, in non-English speaking countries, it often refers implicitly to a different, European strain, continental philosophy. The ancient Greeks organized the subject into five basic categories: metaphysics, epistemology, ethics, politics and aesthetics. This organization of the subject is still largely in use in Western philosophy today.\n\nThought or thinking is a mental process which allows beings to model the world, and so to deal with it effectively according to their goals, plans, ends and desires. Words referring to similar concepts and processes in the English language include cognition, sentience, consciousness, idea, and imagination. Thinking involves the cerebral manipulation of information, as when we form concepts, engage in problem solving, reason and make decisions. Thinking is a higher cognitive function and the analysis of thinking processes is part of cognitive psychology",
+      "Categories": [
+        {
+          "ID": 8093,
+          "Title": "تصنيف:فلسفة"
+        },
+        {
+          "ID": 42173,
+          "Title": "تصنيف:عقائد"
+        },
+        {
+          "ID": 42176,
+          "Title": "تصنيف:فكر"
+        },
+        {
+          "ID": 45723,
+          "Title": "تصنيف:فروع الفلسفة"
+        },
+        {
+          "ID": 48086,
+          "Title": "تصنيف:مدارس فلسفية"
+        },
+        {
+          "ID": 586517,
+          "Title": "تصنيف:نظريات فلسفية"
+        },
+        {
+          "ID": 729346,
+          "Title": "تصنيف:أخلاقيات"
+        }
+      ],
+      "Articles": [
+        {
+          "ID": 59524,
+          "Title": "جمال"
+        },
+        {
+          "ID": 136590,
+          "Title": "سعادة"
+        },
+        {
+          "ID": 363256,
+          "Title": "ثقة"
+        },
+        {
+          "ID": 1636405,
+          "Title": "واقعة"
+        },
+        {
+          "ID": 2288488,
+          "Title": "تأثير دانينغ-كروجر"
+        }
+      ]
+    },
+    {
+      "ID": 2147483645,
+      "Title": "Religion and belief systems",
+      "Abstract": "Religion is the adherence to codified beliefs and rituals that generally involve a faith in a spiritual nature and a study of inherited ancestral traditions, knowledge and wisdom related to understanding human life. The term \"religion\" refers to both the personal practices related to faith as well as to the larger shared systems of belief.\n\nA belief system can refer to a religion or a world view. A world view (or worldview) is a term calqued from the German word Weltanschauung Welt is the German word for 'world,' and Anschauung is the German word for 'view' or 'outlook'. It is a concept fundamental to German philosophy and epistemology and refers to a wide world perception. Additionally, it refers to the framework of ideas and beliefs through which an individual interprets the world and interacts in it",
+      "Categories": [
+        {
+          "ID": 16724,
+          "Title": "تصنيف:علمانية"
+        },
+        {
+          "ID": 29485,
+          "Title": "تصنيف:معتقدات"
+        },
+        {
+          "ID": 339877,
+          "Title": "تصنيف:ديانات هندية"
+        },
+        {
+          "ID": 436567,
+          "Title": "تصنيف:دين"
+        },
+        {
+          "ID": 586517,
+          "Title": "تصنيف:نظريات فلسفية"
+        },
+        {
+          "ID": 1013337,
+          "Title": "تصنيف:معتقدات وتقاليد وحركات دينية"
+        },
+        {
+          "ID": 1426451,
+          "Title": "تصنيف:نزاعات دينية"
+        },
+        {
+          "ID": 1426454,
+          "Title": "تصنيف:نقد الدين"
+        },
+        {
+          "ID": 2274664,
+          "Title": "تصنيف:لاألوهية"
+        },
+        {
+          "ID": 2473822,
+          "Title": "تصنيف:علم الأساطير"
+        }
+      ]
+    },
+    {
+      "ID": 2147483646,
+      "Title": "Society and social sciences",
+      "Abstract": "A society is a group of people who form a semi-closed system. At its simplest, the term society refers to a large group of people sharing their own culture and institutions. A society is a network of relationships between people. The English word society is derived from the French société, which had its origin in the Latin societas, a \"friendly association with others,\" from socius meaning \"companion, associate, comrade or business partner.\" Thus, the meaning of society is closely related to what is considered to be social. Implicit in the meaning of society is that its members may share some mutual concern or interest, a common objective or common characteristics. The social sciences generally use the term society to mean a group of people who form a semi-closed social system, in which most interactions are with other individuals belonging to the group. More abstractly, a society is defined as a network of relationships between social entities. A society is also sometimes defined as an interdependent community, but the sociologist Tönnies sought to draw a contrast between society and community. An important feature of society is social structure, aspects of which include roles and social ranking.\n\nThe social science are a group of academic disciplines that study human aspects of the world. They differ from the arts and the humanities, in that the social science tend to emphasize the use of the scientific method in the study of humanity, including quantitative and qualitative methods",
+      "Categories": [
+        {
+          "ID": 8164,
+          "Title": "تصنيف:مجتمع"
+        },
+        {
+          "ID": 8347,
+          "Title": "تصنيف:منظمات دولية"
+        },
+        {
+          "ID": 22678,
+          "Title": "تصنيف:علوم اجتماعية"
+        },
+        {
+          "ID": 130039,
+          "Title": "تصنيف:نسوية"
+        },
+        {
+          "ID": 615205,
+          "Title": "تصنيف:حقوق"
+        }
+      ],
+      "Articles": [
+        {
+          "ID": 2109,
+          "Title": "الاتحاد الأوروبي"
+        },
+        {
+          "ID": 17054,
+          "Title": "جامعة تارتو"
+        },
+        {
+          "ID": 19909,
+          "Title": "الجامعة الأردنية"
+        },
+        {
+          "ID": 26318,
+          "Title": "جامعة أوكسفورد"
+        },
+        {
+          "ID": 26559,
+          "Title": "جامعة مانشستر"
+        },
+        {
+          "ID": 30675,
+          "Title": "منع الكحول"
+        },
+        {
+          "ID": 34290,
+          "Title": "معهد ماساتشوستس للتكنولوجيا"
+        },
+        {
+          "ID": 40438,
+          "Title": "جامعة كامبريدج"
+        },
+        {
+          "ID": 49757,
+          "Title": "جامعة برستل"
+        },
+        {
+          "ID": 50340,
+          "Title": "جامعة كوفنتري"
+        },
+        {
+          "ID": 51786,
+          "Title": "جامعة هارفارد"
+        },
+        {
+          "ID": 53285,
+          "Title": "خدمة اجتماعية"
+        },
+        {
+          "ID": 53734,
+          "Title": "جامعة ليفربول"
+        },
+        {
+          "ID": 57686,
+          "Title": "ستاربكس"
+        },
+        {
+          "ID": 58912,
+          "Title": "جامعة فرايبورغ"
+        },
+        {
+          "ID": 60893,
+          "Title": "جامعة لندن"
+        },
+        {
+          "ID": 61182,
+          "Title": "جامعة كولونيا"
+        },
+        {
+          "ID": 61695,
+          "Title": "جامعة لستر"
+        },
+        {
+          "ID": 84271,
+          "Title": "توقيت صيفي"
+        },
+        {
+          "ID": 86012,
+          "Title": "بيتزا هت"
+        },
+        {
+          "ID": 89815,
+          "Title": "جامعة برمنغهام"
+        },
+        {
+          "ID": 95349,
+          "Title": "جامعة نابير"
+        },
+        {
+          "ID": 127061,
+          "Title": "علم أستراليا"
+        },
+        {
+          "ID": 137581,
+          "Title": "رأس السنة الصينية"
+        },
+        {
+          "ID": 139792,
+          "Title": "جامعة توبنغن"
+        },
+        {
+          "ID": 140082,
+          "Title": "جامعة ستانفورد"
+        },
+        {
+          "ID": 149586,
+          "Title": "بي بي"
+        },
+        {
+          "ID": 169147,
+          "Title": "جامعة طوكيو"
+        },
+        {
+          "ID": 186200,
+          "Title": "جامعة دلهي"
+        },
+        {
+          "ID": 195143,
+          "Title": "جامعة سيدني"
+        },
+        {
+          "ID": 203014,
+          "Title": "دومينوز بيتزا"
+        },
+        {
+          "ID": 217194,
+          "Title": "جامعة غلاسكو"
+        },
+        {
+          "ID": 218766,
+          "Title": "نيويورك تايمز"
+        },
+        {
+          "ID": 231171,
+          "Title": "جامعة كولومبيا"
+        },
+        {
+          "ID": 232409,
+          "Title": "جامعة أبردين"
+        },
+        {
+          "ID": 242270,
+          "Title": "جامعة فورتسبورغ"
+        },
+        {
+          "ID": 273038,
+          "Title": "جامعة واشنطن"
+        },
+        {
+          "ID": 273893,
+          "Title": "الجامعة الأميركية"
+        },
+        {
+          "ID": 275715,
+          "Title": "جامعة ماريلاند مدرسة الطب"
+        },
+        {
+          "ID": 290467,
+          "Title": "جامعة مونستر"
+        },
+        {
+          "ID": 295417,
+          "Title": "الجامعة العبرية في القدس"
+        },
+        {
+          "ID": 306064,
+          "Title": "جامعة باريس"
+        },
+        {
+          "ID": 339994,
+          "Title": "جامعة ميشيغان"
+        },
+        {
+          "ID": 340004,
+          "Title": "جامعة أوبسالا"
+        },
+        {
+          "ID": 344445,
+          "Title": "برنامج الأمم المتحدة للبيئة"
+        },
+        {
+          "ID": 349562,
+          "Title": "جامعة ورك"
+        },
+        {
+          "ID": 361518,
+          "Title": "جامعة بوسطن"
+        },
+        {
+          "ID": 362447,
+          "Title": "دولة مجهرية"
+        },
+        {
+          "ID": 369553,
+          "Title": "جامعة ساوثهامبتون"
+        },
+        {
+          "ID": 378876,
+          "Title": "الخطوط الجوية الأمريكية"
+        },
+        {
+          "ID": 383566,
+          "Title": "جامعة منيسوتا"
+        },
+        {
+          "ID": 383824,
+          "Title": "جامعة برنستون"
+        },
+        {
+          "ID": 385320,
+          "Title": "جامعة بولونيا"
+        },
+        {
+          "ID": 385658,
+          "Title": "جامعة لاغوس"
+        },
+        {
+          "ID": 403600,
+          "Title": "جامعة كينغستون"
+        },
+        {
+          "ID": 445882,
+          "Title": "جامعة أوميو"
+        },
+        {
+          "ID": 451182,
+          "Title": "جامعة إكزتر"
+        },
+        {
+          "ID": 457540,
+          "Title": "فوكس نيوز"
+        },
+        {
+          "ID": 458831,
+          "Title": "جامعة ولونغونغ"
+        },
+        {
+          "ID": 469279,
+          "Title": "جامعة إنديانا"
+        },
+        {
+          "ID": 497352,
+          "Title": "جامعة شيكاغو"
+        },
+        {
+          "ID": 497854,
+          "Title": "جامعة واترلو"
+        },
+        {
+          "ID": 530937,
+          "Title": "جامعة ويسترن أونتاريو"
+        },
+        {
+          "ID": 578000,
+          "Title": "جامعة شفيلد"
+        },
+        {
+          "ID": 598864,
+          "Title": "جامعة ألاباما"
+        },
+        {
+          "ID": 621293,
+          "Title": "جامعة برن"
+        },
+        {
+          "ID": 673922,
+          "Title": "جامعة غويلف"
+        },
+        {
+          "ID": 741591,
+          "Title": "جامعة لانكستر"
+        },
+        {
+          "ID": 741701,
+          "Title": "جامعة رايس"
+        },
+        {
+          "ID": 745572,
+          "Title": "جامعة ريدنغ"
+        },
+        {
+          "ID": 745606,
+          "Title": "جامعة باث"
+        },
+        {
+          "ID": 748578,
+          "Title": "جامعة إيست أنجليا"
+        },
+        {
+          "ID": 751617,
+          "Title": "جامعة سانت أندروز"
+        },
+        {
+          "ID": 751912,
+          "Title": "جامعة سري"
+        },
+        {
+          "ID": 751936,
+          "Title": "جامعة ساسكس"
+        },
+        {
+          "ID": 758110,
+          "Title": "الحرب العالمية الثالثة"
+        },
+        {
+          "ID": 767897,
+          "Title": "جامعة تكساس"
+        },
+        {
+          "ID": 833818,
+          "Title": "جامعة بنسيلفانيا"
+        },
+        {
+          "ID": 841481,
+          "Title": "جامعة لايبتزغ"
+        },
+        {
+          "ID": 857556,
+          "Title": "جامعة تينيسي"
+        },
+        {
+          "ID": 861003,
+          "Title": "جامعة تسمانيا"
+        },
+        {
+          "ID": 890071,
+          "Title": "جامعة حكومية"
+        },
+        {
+          "ID": 910846,
+          "Title": "جامعة ميلانو"
+        },
+        {
+          "ID": 928650,
+          "Title": "اقتصاد إيران"
+        },
+        {
+          "ID": 929820,
+          "Title": "جامعة بادوفا"
+        },
+        {
+          "ID": 933490,
+          "Title": "جامعة البنجاب"
+        },
+        {
+          "ID": 1047697,
+          "Title": "جامعة مدينة نيويورك"
+        },
+        {
+          "ID": 1048127,
+          "Title": "جامعة أليكساندرو إيوان كوزا"
+        },
+        {
+          "ID": 1055429,
+          "Title": "كلية لندن الإمبراطورية"
+        },
+        {
+          "ID": 1071054,
+          "Title": "جامعة غوتينغن"
+        },
+        {
+          "ID": 1093475,
+          "Title": "جامعة ليدز"
+        },
+        {
+          "ID": 1094264,
+          "Title": "جامعة تروي"
+        },
+        {
+          "ID": 1099430,
+          "Title": "جامعة عليكرة الإسلامية"
+        },
+        {
+          "ID": 1143020,
+          "Title": "جامعة طهران"
+        },
+        {
+          "ID": 1152258,
+          "Title": "جامعة تسينغ - هوا"
+        },
+        {
+          "ID": 1186694,
+          "Title": "جامعة هل"
+        },
+        {
+          "ID": 1196458,
+          "Title": "جامعة موسكو الحكومية"
+        },
+        {
+          "ID": 1198400,
+          "Title": "جامعة سانت بطرسبرغ الحكومية"
+        },
+        {
+          "ID": 1232699,
+          "Title": "جامعة بون"
+        },
+        {
+          "ID": 1234585,
+          "Title": "جامعة فيينا"
+        },
+        {
+          "ID": 1288273,
+          "Title": "جامعة آيوا"
+        },
+        {
+          "ID": 1312925,
+          "Title": "جامعة تورينو"
+        },
+        {
+          "ID": 1314382,
+          "Title": "جامعة نوتنغهام"
+        },
+        {
+          "ID": 1325463,
+          "Title": "جامعة كاليفورنيا الجنوبية"
+        },
+        {
+          "ID": 1328305,
+          "Title": "جامعة ديتون"
+        },
+        {
+          "ID": 1332460,
+          "Title": "جامعة تكساس في أوستن"
+        },
+        {
+          "ID": 1392144,
+          "Title": "جامعة سينسيناتي"
+        },
+        {
+          "ID": 1426777,
+          "Title": "إدارة الأرشيف والوثائق الوطنية"
+        },
+        {
+          "ID": 1457400,
+          "Title": "جامعة كراتشي"
+        },
+        {
+          "ID": 1493968,
+          "Title": "جامعة بافالو"
+        },
+        {
+          "ID": 1540715,
+          "Title": "جامعة أريزونا"
+        },
+        {
+          "ID": 1573539,
+          "Title": "جامعة أوديسا"
+        },
+        {
+          "ID": 1583464,
+          "Title": "جامعة فرجينيا"
+        },
+        {
+          "ID": 1584891,
+          "Title": "جامعة نابولي فيدريكو الثاني"
+        },
+        {
+          "ID": 1648944,
+          "Title": "جامعة واشنطن في سانت لويس"
+        },
+        {
+          "ID": 1648950,
+          "Title": "جامعة سانت لويس"
+        },
+        {
+          "ID": 1649539,
+          "Title": "تايمز أوف إينديا"
+        },
+        {
+          "ID": 1657907,
+          "Title": "جامعة تولين"
+        },
+        {
+          "ID": 1665116,
+          "Title": "جامعة أوريغون"
+        },
+        {
+          "ID": 1706297,
+          "Title": "جامعة أوكلاند"
+        },
+        {
+          "ID": 1706306,
+          "Title": "جامعة كوينزلاند"
+        },
+        {
+          "ID": 1726427,
+          "Title": "جامعة ستكهولم"
+        },
+        {
+          "ID": 1728340,
+          "Title": "جامعة داربي"
+        },
+        {
+          "ID": 1832009,
+          "Title": "جامعة إلينوي في شيكاغو"
+        },
+        {
+          "ID": 1915408,
+          "Title": "جامعة سوكا"
+        },
+        {
+          "ID": 1980165,
+          "Title": "جامعة كاتانيا"
+        },
+        {
+          "ID": 1981977,
+          "Title": "جامعة جنوة"
+        },
+        {
+          "ID": 1990054,
+          "Title": "جامعة ترييستي"
+        },
+        {
+          "ID": 1998186,
+          "Title": "جامعة فيرارا"
+        },
+        {
+          "ID": 1998216,
+          "Title": "جامعة فيرونا"
+        },
+        {
+          "ID": 2015040,
+          "Title": "جامعة أوديني"
+        },
+        {
+          "ID": 2016017,
+          "Title": "جامعة عامة"
+        },
+        {
+          "ID": 2064652,
+          "Title": "القوات المسلحة المنغولية"
+        },
+        {
+          "ID": 2076092,
+          "Title": "جامعة دنفر"
+        },
+        {
+          "ID": 2129234,
+          "Title": "جامعة سيتي لندن"
+        },
+        {
+          "ID": 2180431,
+          "Title": "جيش سنغافورة"
+        },
+        {
+          "ID": 2195264,
+          "Title": "جامعة غوتنبرغ"
+        },
+        {
+          "ID": 2195424,
+          "Title": "جامعة لينشوبينغ"
+        },
+        {
+          "ID": 2195492,
+          "Title": "جامعة لينيوس"
+        },
+        {
+          "ID": 2389268,
+          "Title": "جامعة كوازولو-ناتال"
+        },
+        {
+          "ID": 2391641,
+          "Title": "جامعة أوساكا"
+        },
+        {
+          "ID": 2397885,
+          "Title": "جامعة لفيف"
+        },
+        {
+          "ID": 2544003,
+          "Title": "جامعة لا تروب"
+        },
+        {
+          "ID": 2739904,
+          "Title": "اقتصاد باربادوس"
+        },
+        {
+          "ID": 2782662,
+          "Title": "ترست"
+        },
+        {
+          "ID": 2920253,
+          "Title": "جامعة فينيكس"
+        },
+        {
+          "ID": 2981725,
+          "Title": "الجامعة الوطنية الأسترالية"
+        },
+        {
+          "ID": 2983216,
+          "Title": "جامعة نيوكاسل (أستراليا)"
+        },
+        {
+          "ID": 2983245,
+          "Title": "جامعة كانتربري"
+        },
+        {
+          "ID": 2983248,
+          "Title": "جامعة أوتاغو"
+        },
+        {
+          "ID": 2983267,
+          "Title": "جامعة كالغاري"
+        },
+        {
+          "ID": 2983307,
+          "Title": "جامعة فيكتوريا (كندا)"
+        },
+        {
+          "ID": 2983322,
+          "Title": "جامعة مانيتوبا"
+        },
+        {
+          "ID": 2986688,
+          "Title": "جامعة ميموريال في نيوفاوندلاند"
+        },
+        {
+          "ID": 2986691,
+          "Title": "جامعة أكاديا"
+        },
+        {
+          "ID": 2986814,
+          "Title": "جامعة كوينز"
+        },
+        {
+          "ID": 2989288,
+          "Title": "جامعة ريجينا"
+        },
+        {
+          "ID": 2989292,
+          "Title": "جامعة ساسكاتشوان"
+        },
+        {
+          "ID": 2995089,
+          "Title": "جامعة ميريلاند (كوليج بارك)"
+        },
+        {
+          "ID": 2996201,
+          "Title": "جامعة ولاية أوهايو"
+        },
+        {
+          "ID": 3101169,
+          "Title": "جامعة ميامي (أوهايو)"
+        },
+        {
+          "ID": 3173690,
+          "Title": "جامعة هيوستن"
+        },
+        {
+          "ID": 3220873,
+          "Title": "جامعة ولاية إلينوي"
+        },
+        {
+          "ID": 3229499,
+          "Title": "جامعة فروتسواف"
+        },
+        {
+          "ID": 3233453,
+          "Title": "جامعة ميسوري"
+        },
+        {
+          "ID": 3282249,
+          "Title": "جامعة هوكايدو"
+        },
+        {
+          "ID": 3360298,
+          "Title": "جامعة سونغ كيون كوان"
+        },
+        {
+          "ID": 3534517,
+          "Title": "هجوم وستمنستر 2017"
+        },
+        {
+          "ID": 4002929,
+          "Title": "جامعة مسيسيبي"
+        },
+        {
+          "ID": 4222963,
+          "Title": "جامعة مومباي"
+        },
+        {
+          "ID": 4507250,
+          "Title": "تاكو بل"
+        },
+        {
+          "ID": 4858612,
+          "Title": "جامعة نانجينغ"
+        },
+        {
+          "ID": 4947263,
+          "Title": "جامعة مالايا"
+        },
+        {
+          "ID": 4947285,
+          "Title": "جامعة كلكتا"
+        },
+        {
+          "ID": 4947290,
+          "Title": "جامعة ويسكونسن–ملواكي"
+        },
+        {
+          "ID": 4947474,
+          "Title": "كلية سلوان للإدارة لمعهد ماساتشوستس للتكنولوجيا"
+        },
+        {
+          "ID": 4964685,
+          "Title": "جامعة بدفوردشير"
+        },
+        {
+          "ID": 4973050,
+          "Title": "التعديل الرابع لدستور الولايات المتحدة الأمريكية"
+        },
+        {
+          "ID": 5226782,
+          "Title": "جامعة بوغازيتشي"
+        }
+      ]
+    },
+    {
+      "ID": 2147483647,
+      "Title": "Technology and applied sciences",
+      "Abstract": "Technology is an expanded concept that deals with a species' usage and knowledge of tools and crafts, and how it affects a species' ability to control and adapt to its environment. In human civilization, it is a consequence of science and engineering, although several technological advances predate the formalization of these two disciplines. The term can either be applied generally or to specific areas – examples include construction technology, medical technology, or state-of-the-art technology.\n\nThe human race's use of technology began with the conversion of plentiful natural resources into simple tools. The prehistorical discovery of the ability to control fire increased the available sources of food, and the invention of the wheel helped humans in travelling in and controlling their environment. Recent technological developments, including the printing press and the Internet, have lessened physical barriers to communication and allowed humans to interact on a global scale. However, not all technology has been used for peaceful purposes; the development of weapons of ever-increasing destructive power has progressed throughout history, from clubs to nuclear bombs.\n\nApplied science is the application of knowledge from one or more natural scientific fields to solving practical problems. For example, fields of engineering are applied sciences. Applied science is important for technology development. Its use in industrial settings is usually referred to as research and development (R\u0026D)",
+      "Categories": [
+        {
+          "ID": 6554,
+          "Title": "تصنيف:هندسة"
+        },
+        {
+          "ID": 6972,
+          "Title": "تصنيف:إنترنت"
+        },
+        {
+          "ID": 7300,
+          "Title": "تصنيف:حوسبة"
+        },
+        {
+          "ID": 8101,
+          "Title": "تصنيف:تقنية"
+        },
+        {
+          "ID": 10684,
+          "Title": "تصنيف:علوم تطبيقية"
+        },
+        {
+          "ID": 11909,
+          "Title": "تصنيف:نقل"
+        },
+        {
+          "ID": 140560,
+          "Title": "تصنيف:إلكترونيات"
+        },
+        {
+          "ID": 143322,
+          "Title": "تصنيف:تصميم"
+        },
+        {
+          "ID": 482480,
+          "Title": "تصنيف:علم الحاسوب"
+        },
+        {
+          "ID": 565339,
+          "Title": "تصنيف:تكنولوجيا حسب النوع"
+        },
+        {
+          "ID": 969575,
+          "Title": "تصنيف:تاريخ التقنية"
+        },
+        {
+          "ID": 1571364,
+          "Title": "تصنيف:عتاد عسكري"
+        },
+        {
+          "ID": 1689280,
+          "Title": "تصنيف:تسلسل التقنية الزمني"
+        },
+        {
+          "ID": 3770060,
+          "Title": "تصنيف:تطبيقات المحمول"
+        }
+      ],
+      "Articles": [
+        {
+          "ID": 59133,
+          "Title": "علك"
+        },
+        {
+          "ID": 123462,
+          "Title": "بيبسي"
+        },
+        {
+          "ID": 147428,
+          "Title": "دراسة جدوى"
+        },
+        {
+          "ID": 198233,
+          "Title": "جدار"
+        },
+        {
+          "ID": 336609,
+          "Title": "ماونتن ديو"
+        },
+        {
+          "ID": 363765,
+          "Title": "إدارة الاتصال"
+        },
+        {
+          "ID": 1051193,
+          "Title": "لحام قوسي غاز خامل-تنغستن"
+        },
+        {
+          "ID": 1964800,
+          "Title": "سيجا 32إكس"
+        }
+      ]
+    }
+  ],
+  "Filters": [
+    {
+      "ID": 7715,
+      "Title": "تصنيف:صفحات توضيح"
+    },
+    {
+      "ID": 308278,
+      "Title": "تصنيف:تصنيفات مخفية"
+    }
+  ]
+}

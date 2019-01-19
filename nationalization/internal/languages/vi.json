@@ -1,0 +1,1618 @@
+{
+  "Language": "vi",
+  "Topics": [
+    {
+      "ID": 2147483637,
+      "Title": "Culture and the arts",
+      "Abstract": "The word culture is derived from the Latin root cultura or cultus meaning to \"inhabit, cultivate, or honour\". In general, culture refers to human activity; different definitions of culture reflect different theories for understanding, or criteria for valuing human activity. Present day Anthropologists use the term to refer to the universal human capacity to classify experiences and to encode and communicate them symbolically. They regard this capacity as a defining feature of the genus Homo. Since culture is learned, people living in different places have different cultures. There can be different cultures in different countries, and there can also be shared cultures among continents.\n\nThe arts are a vast subdivision of culture, composed of many creative endeavors and disciplines. It is a broader term than \"art,\" which as a description of a field usually means only the visual arts. The arts encompasses visual arts, literary arts and the performing arts - music, theatre, dance, spoken word and film, among others.\n\nArt, in its broadest meaning, is the expression of creativity or imagination. The word art comes from the Latin word ars, which, loosely translated, means \"arrangement\". Art is commonly understood as the act of making works (or artworks) which use the human creative impulse and which have meaning beyond simple description. Art is often distinguished from crafts and recreational hobby activities. The term creative arts denotes a collection of disciplines whose principal purpose is the output of material for the viewer or audience to interpret. As such, art may be taken to include forms as diverse as prose writing, poetry, dance, acting or drama, film, music, sculpture, photography, illustration, architecture, collage, painting, craft and fashion. Art may also be understood as relating to creativity, æsthetics and the generation of emotion",
+      "Categories": [
+        {
+          "ID": 4113,
+          "Title": "Thể loại:Văn hóa"
+        },
+        {
+          "ID": 5373,
+          "Title": "Thể loại:Ẩm thực"
+        },
+        {
+          "ID": 5997,
+          "Title": "Thể loại:Phim"
+        },
+        {
+          "ID": 6073,
+          "Title": "Thể loại:Giải trí"
+        },
+        {
+          "ID": 6515,
+          "Title": "Thể loại:Nghệ thuật"
+        },
+        {
+          "ID": 6834,
+          "Title": "Thể loại:Thể thao"
+        },
+        {
+          "ID": 23615,
+          "Title": "Thể loại:Tiêu khiển"
+        },
+        {
+          "ID": 32702,
+          "Title": "Thể loại:Ban nhạc"
+        },
+        {
+          "ID": 33900,
+          "Title": "Thể loại:Thực phẩm"
+        },
+        {
+          "ID": 442736,
+          "Title": "Thể loại:Sở thích"
+        }
+      ],
+      "Articles": [
+        {
+          "ID": 961,
+          "Title": "Bách khoa toàn thư"
+        },
+        {
+          "ID": 1345,
+          "Title": "Wikipedia"
+        },
+        {
+          "ID": 16173,
+          "Title": "Cà phê"
+        },
+        {
+          "ID": 19451,
+          "Title": "Bia (thức uống)"
+        },
+        {
+          "ID": 21811,
+          "Title": "Hogwarts"
+        },
+        {
+          "ID": 26972,
+          "Title": "Ma"
+        },
+        {
+          "ID": 33585,
+          "Title": "Pizza"
+        },
+        {
+          "ID": 35581,
+          "Title": "Quái vật hồ Loch Ness"
+        },
+        {
+          "ID": 47310,
+          "Title": "Bánh mì"
+        },
+        {
+          "ID": 48447,
+          "Title": "Sô-cô-la"
+        },
+        {
+          "ID": 48459,
+          "Title": "Trứng (thực phẩm)"
+        },
+        {
+          "ID": 56375,
+          "Title": "Cơm chiên"
+        },
+        {
+          "ID": 67131,
+          "Title": "Bia tươi"
+        },
+        {
+          "ID": 95173,
+          "Title": "Bia không cồn"
+        },
+        {
+          "ID": 103951,
+          "Title": "WWE Championship"
+        },
+        {
+          "ID": 109547,
+          "Title": "Aqua (ban nhạc)"
+        },
+        {
+          "ID": 136380,
+          "Title": "Cung điện Buckingham"
+        },
+        {
+          "ID": 188604,
+          "Title": "Green Day"
+        },
+        {
+          "ID": 197851,
+          "Title": "The World Factbook"
+        },
+        {
+          "ID": 200028,
+          "Title": "Led Zeppelin"
+        },
+        {
+          "ID": 200055,
+          "Title": "Trứng luộc"
+        },
+        {
+          "ID": 334340,
+          "Title": "Bánh pía"
+        },
+        {
+          "ID": 528985,
+          "Title": "Giăm bông"
+        },
+        {
+          "ID": 586322,
+          "Title": "Trứng vịt Bắc Thảo"
+        },
+        {
+          "ID": 598150,
+          "Title": "Satoshi (Pokémon)"
+        },
+        {
+          "ID": 742917,
+          "Title": "Trứng vịt muối"
+        },
+        {
+          "ID": 780936,
+          "Title": "Xúp cua"
+        },
+        {
+          "ID": 781658,
+          "Title": "Judas (bài hát)"
+        },
+        {
+          "ID": 800356,
+          "Title": "Thịt muối"
+        },
+        {
+          "ID": 807051,
+          "Title": "Trứng ốp la"
+        },
+        {
+          "ID": 810548,
+          "Title": "Bánh Opera"
+        },
+        {
+          "ID": 811724,
+          "Title": "AC/DC"
+        },
+        {
+          "ID": 824157,
+          "Title": "Sgt. Pepper's Lonely Hearts Club Band"
+        },
+        {
+          "ID": 825016,
+          "Title": "Bánh may mắn"
+        },
+        {
+          "ID": 829772,
+          "Title": "Bánh gạo"
+        },
+        {
+          "ID": 829775,
+          "Title": "Lát bánh mì"
+        },
+        {
+          "ID": 830171,
+          "Title": "Bánh mì nâu"
+        },
+        {
+          "ID": 835774,
+          "Title": "Bánh mì chuối"
+        },
+        {
+          "ID": 859259,
+          "Title": "Há cảo"
+        },
+        {
+          "ID": 880456,
+          "Title": "Sô-cô-la thỏi"
+        },
+        {
+          "ID": 1377523,
+          "Title": "Hot dog"
+        },
+        {
+          "ID": 1446700,
+          "Title": "Bơ đậu phộng"
+        },
+        {
+          "ID": 1551253,
+          "Title": "M\u0026M's"
+        },
+        {
+          "ID": 1643627,
+          "Title": "Pasta"
+        },
+        {
+          "ID": 1644503,
+          "Title": "Pitepalt"
+        },
+        {
+          "ID": 1702588,
+          "Title": "Xốt cà"
+        },
+        {
+          "ID": 1748670,
+          "Title": "The Wanted"
+        },
+        {
+          "ID": 2264083,
+          "Title": "Pinus cembroides"
+        },
+        {
+          "ID": 2360468,
+          "Title": "Bánh ngọt"
+        },
+        {
+          "ID": 2439303,
+          "Title": "Flappy Bird"
+        },
+        {
+          "ID": 2450054,
+          "Title": "Sô-cô-la nóng"
+        },
+        {
+          "ID": 2461334,
+          "Title": "Angry Birds Seasons"
+        },
+        {
+          "ID": 2789072,
+          "Title": "Angry Birds Rio"
+        },
+        {
+          "ID": 2885416,
+          "Title": "Angry Birds (video game)"
+        },
+        {
+          "ID": 3139240,
+          "Title": "Bánh cưới"
+        },
+        {
+          "ID": 3181811,
+          "Title": "Taco"
+        },
+        {
+          "ID": 3208557,
+          "Title": "PK (phim)"
+        },
+        {
+          "ID": 3244804,
+          "Title": "Bejeweled"
+        },
+        {
+          "ID": 3274427,
+          "Title": "Gà Tikka Masala"
+        },
+        {
+          "ID": 3282830,
+          "Title": "Dinosaur Jr."
+        },
+        {
+          "ID": 3303363,
+          "Title": "Xúp cà chua"
+        },
+        {
+          "ID": 3389504,
+          "Title": "Mordred"
+        },
+        {
+          "ID": 3657665,
+          "Title": "Gelato"
+        },
+        {
+          "ID": 3657891,
+          "Title": "Spaghetti alla carbonara"
+        },
+        {
+          "ID": 3679336,
+          "Title": "Bánh quy"
+        },
+        {
+          "ID": 3687162,
+          "Title": "Eurovision Song Contest 2017"
+        },
+        {
+          "ID": 3689483,
+          "Title": "Các món ăn từ thịt lợn"
+        },
+        {
+          "ID": 3689598,
+          "Title": "Nghêu hấp"
+        },
+        {
+          "ID": 3691365,
+          "Title": "Khúc thịt lợn"
+        },
+        {
+          "ID": 7642449,
+          "Title": "Liếm dương vật"
+        },
+        {
+          "ID": 7876595,
+          "Title": "Timballo"
+        },
+        {
+          "ID": 13480270,
+          "Title": "Eurovision Song Contest 2018"
+        },
+        {
+          "ID": 14379103,
+          "Title": "Sống độc thân"
+        }
+      ]
+    },
+    {
+      "ID": 2147483638,
+      "Title": "Geography and places",
+      "Abstract": "Geography (Greek Geo (γη) or Gaea (γαία), meaning \"Earth\", and graphein (γράφειν) meaning \"to describe\" or \"to write\") is the study of the earth and its features, inhabitants, and phenomena. A literal translation would be \"to describe or write about the Earth\". The first person to use the word \"geography\" was Eratosthenes (275-195 B.C.). Four historical traditions in geographical research are the spatial analysis of natural and human phenomena (geography as a study of distribution), area studies (places and regions), study of man-land relationship, and research in earth sciences. Nonetheless, modern geography is an all-encompassing discipline that foremost seeks to understand the world and all of its human and natural complexities — not merely where objects are, but how they have changed and come to be. As \"the bridge between the human and physical sciences,\" geography is divided into two main branches — human geography and physical geography",
+      "Categories": [
+        {
+          "ID": 1362,
+          "Title": "Thể loại:Địa lý học"
+        },
+        {
+          "ID": 4665,
+          "Title": "Thể loại:Quy hoạch đô thị"
+        },
+        {
+          "ID": 39431,
+          "Title": "Thể loại:Địa mạo học"
+        },
+        {
+          "ID": 1437385,
+          "Title": "Thể loại:Tiền tệ theo vùng"
+        },
+        {
+          "ID": 1698425,
+          "Title": "Thể loại:Nơi chốn"
+        },
+        {
+          "ID": 12475415,
+          "Title": "Thể loại:Danh sách địa lý"
+        }
+      ],
+      "Articles": [
+        {
+          "ID": 2584,
+          "Title": "Paris"
+        },
+        {
+          "ID": 24176,
+          "Title": "Myanmar"
+        },
+        {
+          "ID": 52273,
+          "Title": "Venezia"
+        },
+        {
+          "ID": 78700,
+          "Title": "Canberra"
+        },
+        {
+          "ID": 133296,
+          "Title": "Queensland"
+        },
+        {
+          "ID": 820026,
+          "Title": "Carlsbad, New Mexico"
+        }
+      ]
+    },
+    {
+      "ID": 2147483639,
+      "Title": "Health and fitness",
+      "Abstract": "Health is the level of functional or metabolic efficiency of a living organism. In humans it is the ability of individuals or communities to adapt and self-manage when facing physical, mental or social challenges. The most widely accepted definition of good health is that of the World Health Organization Constitution. It states: \"health is a state of complete physical, mental and social well-being and is not merely the absence of disease or infirmity\" (World Health Organization, 1946). In more recent years, this statement has been amplified to include the ability to lead a \"socially and economically productive life.\" The WHO definition is not without criticism, mainly that it is much too broad.\n\nThe most solid aspects of wellness that fit firmly in the realm of medicine are environmental health, nutrition, disease prevention, and public health. These matters can be investigated at length and can assist in measuring well-being. Please see our medical disclaimer for cautions about Wikipedia's limitations",
+      "Categories": [
+        {
+          "ID": 4159,
+          "Title": "Thể loại:Khoa học sức khỏe"
+        },
+        {
+          "ID": 8417,
+          "Title": "Thể loại:Y học"
+        },
+        {
+          "ID": 15516,
+          "Title": "Thể loại:Sức khỏe"
+        },
+        {
+          "ID": 34041,
+          "Title": "Thể loại:Vệ sinh"
+        },
+        {
+          "ID": 59678,
+          "Title": "Thể loại:Chuyên viên y tế"
+        },
+        {
+          "ID": 134818,
+          "Title": "Thể loại:Bệnh di truyền"
+        },
+        {
+          "ID": 3175949,
+          "Title": "Thể loại:Chăm sóc cá nhân"
+        },
+        {
+          "ID": 3180293,
+          "Title": "Thể loại:Chuyên ngành y khoa"
+        }
+      ]
+    },
+    {
+      "ID": 2147483640,
+      "Title": "History and events",
+      "Abstract": "History is the interpretation of past events, societies and civilizations. The term history comes from the Greek historia (ἱστορία), \"an account of one's inquiries,\" and shares that etymology with the English word story as narrative. The 1911 Encyclopædia Britannica stated that \"history in the wider sense is all that has happened, not merely all the phenomena of human life, but those of the natural world as well. It is everything that undergoes change; and as modern science has shown that there is nothing absolutely static, therefore, the whole universe, and every part of it, has its history.\" ",
+      "Categories": [
+        {
+          "ID": 3080,
+          "Title": "Thể loại:Lịch sử"
+        },
+        {
+          "ID": 33278,
+          "Title": "Thể loại:Lịch sử theo quốc gia"
+        },
+        {
+          "ID": 68192,
+          "Title": "Thể loại:Sự kiện"
+        }
+      ],
+      "Articles": [
+        {
+          "ID": 24657,
+          "Title": "Sự kiện 11 tháng 9"
+        },
+        {
+          "ID": 51174,
+          "Title": "Chiến tranh thành Troia"
+        },
+        {
+          "ID": 514776,
+          "Title": "Vụ tràn dầu Deepwater Horizon"
+        },
+        {
+          "ID": 702831,
+          "Title": "Động đất và sóng thần Tōhoku 2011"
+        },
+        {
+          "ID": 1266475,
+          "Title": "Bầu cử tổng thống Hoa Kỳ, 2012"
+        },
+        {
+          "ID": 1402377,
+          "Title": "Nổ súng tại Aurora 2012"
+        },
+        {
+          "ID": 3393485,
+          "Title": "Xả súng tại hộp đêm ở Orlando 2016"
+        },
+        {
+          "ID": 3632723,
+          "Title": "Cáo buộc Nga can thiệp vào cuộc bầu cử tổng thống Hoa Kỳ 2016"
+        },
+        {
+          "ID": 3684786,
+          "Title": "Việc chối bỏ vụ diệt chủng Holocaust"
+        }
+      ]
+    },
+    {
+      "ID": 2147483641,
+      "Title": "Mathematics and logic",
+      "Abstract": "Mathematics is the science of quantization. It is also the study of patterns and relationships, including concepts such as quantity, structure, space, uncertainty, and change. It evolved through the use of abstraction and logical reasoning, from counting, calculation, measurement, and the systematic study of positions, shapes and motions of physical objects. Mathematicians explore such concepts, aiming to formulate new conjectures and establish their truth by rigorous deduction from appropriately chosen axioms and definitions.\n\nLogic (from Classical Greek λόγος logos; meaning word, thought, idea, argument, account, reason or principle) is the study of the principles and criteria of valid inference and demonstration. As a formal science, logic investigates and classifies the structure of statements and arguments, both through the study of formal systems of inference and through the study of arguments in natural language. The field of logic ranges from core topics such as the study of fallacies and paradoxes, to specialized analysis of reasoning using probability and to arguments involving causality. Logic is also commonly used today in argumentation theory. Since the mid-nineteenth century formal logic has been studied in the context of the foundations of mathematics",
+      "Categories": [
+        {
+          "ID": 1331,
+          "Title": "Thể loại:Toán học"
+        },
+        {
+          "ID": 4152,
+          "Title": "Thể loại:Toán học ứng dụng"
+        },
+        {
+          "ID": 4701,
+          "Title": "Thể loại:Xác suất và thống kê"
+        },
+        {
+          "ID": 24601,
+          "Title": "Thể loại:Thống kê"
+        },
+        {
+          "ID": 88708,
+          "Title": "Thể loại:Logic"
+        },
+        {
+          "ID": 90704,
+          "Title": "Thể loại:Khoa học máy tính lý thuyết"
+        },
+        {
+          "ID": 1765722,
+          "Title": "Thể loại:Khái niệm toán học"
+        }
+      ],
+      "Articles": [
+        {
+          "ID": 2644,
+          "Title": "Chiều dài"
+        }
+      ]
+    },
+    {
+      "ID": 2147483642,
+      "Title": "Nature and physical sciences",
+      "Abstract": "The term nature is derived from the Latin word natura, or \"essential qualities, innate disposition\". Natura is a Latin translation of the Greek word physis (φύσις), which originally related to the intrinsic characteristics that plants, animals, and other features of the world develop of their own accord. The concept of nature as a whole, all matter and energy in the universe, is one of several expansions of the original notion.\n\nPhysical science is an encompassing term for the branches of natural science, and science, that study non-living systems, in contrast to the biological sciences. However, the term \"physical\" creates an involuntary, somewhat arbitrary distinction, since many branches of physical science also study biological phenomena",
+      "Categories": [
+        {
+          "ID": 1179,
+          "Title": "Thể loại:Khoa học tự nhiên"
+        },
+        {
+          "ID": 1420,
+          "Title": "Thể loại:Vật lý học"
+        },
+        {
+          "ID": 1648,
+          "Title": "Thể loại:Hóa học"
+        },
+        {
+          "ID": 7492,
+          "Title": "Thể loại:Khoa học"
+        },
+        {
+          "ID": 12958,
+          "Title": "Thể loại:Hợp chất hóa học"
+        },
+        {
+          "ID": 24895,
+          "Title": "Thể loại:Tự nhiên"
+        },
+        {
+          "ID": 25808,
+          "Title": "Thể loại:Động vật học"
+        },
+        {
+          "ID": 56496,
+          "Title": "Thể loại:Khoa học môi trường"
+        },
+        {
+          "ID": 73231,
+          "Title": "Thể loại:Thảm họa"
+        },
+        {
+          "ID": 405111,
+          "Title": "Thể loại:Động vật theo lục địa"
+        }
+      ],
+      "Articles": [
+        {
+          "ID": 9578,
+          "Title": "Huyền phù"
+        },
+        {
+          "ID": 10844,
+          "Title": "Lạc đà"
+        },
+        {
+          "ID": 25994,
+          "Title": "Thủ dâm"
+        },
+        {
+          "ID": 32055,
+          "Title": "Dương vật"
+        },
+        {
+          "ID": 32564,
+          "Title": "Gạo"
+        },
+        {
+          "ID": 36522,
+          "Title": "Cam"
+        },
+        {
+          "ID": 41932,
+          "Title": "Chim điên"
+        },
+        {
+          "ID": 45588,
+          "Title": "Lửa"
+        },
+        {
+          "ID": 52400,
+          "Title": "Vòng tuần hoàn nước"
+        },
+        {
+          "ID": 63663,
+          "Title": "Thông ba lá"
+        },
+        {
+          "ID": 119971,
+          "Title": "Ngô"
+        },
+        {
+          "ID": 148098,
+          "Title": "Lúa mì"
+        },
+        {
+          "ID": 188612,
+          "Title": "Bông cải trắng"
+        },
+        {
+          "ID": 197432,
+          "Title": "Chuỗi thức ăn"
+        },
+        {
+          "ID": 197873,
+          "Title": "Họ Nhát hoa"
+        },
+        {
+          "ID": 248255,
+          "Title": "Hệ vận động"
+        },
+        {
+          "ID": 250985,
+          "Title": "Hồng hạc"
+        },
+        {
+          "ID": 328238,
+          "Title": "Chanh tây"
+        },
+        {
+          "ID": 328239,
+          "Title": "Chanh"
+        },
+        {
+          "ID": 330562,
+          "Title": "Xoài"
+        },
+        {
+          "ID": 371878,
+          "Title": "Tinh hoàn"
+        },
+        {
+          "ID": 445556,
+          "Title": "Hổ trắng"
+        },
+        {
+          "ID": 494952,
+          "Title": "Dứa"
+        },
+        {
+          "ID": 525735,
+          "Title": "Gạo nếp"
+        },
+        {
+          "ID": 781424,
+          "Title": "Lịch Maya"
+        },
+        {
+          "ID": 864065,
+          "Title": "Cà chua bi"
+        },
+        {
+          "ID": 1262065,
+          "Title": "Lycosidae"
+        },
+        {
+          "ID": 1329717,
+          "Title": "Cá thu Đại Tây Dương"
+        },
+        {
+          "ID": 1509814,
+          "Title": "Nước tiểu"
+        },
+        {
+          "ID": 1519680,
+          "Title": "Mộc lan tím"
+        },
+        {
+          "ID": 1653345,
+          "Title": "Poecile hyrcanus"
+        },
+        {
+          "ID": 1682562,
+          "Title": "Ateles"
+        },
+        {
+          "ID": 1746494,
+          "Title": "Mèo lớn"
+        },
+        {
+          "ID": 1828069,
+          "Title": "Origanum onites"
+        },
+        {
+          "ID": 1862484,
+          "Title": "Elymus farctus"
+        },
+        {
+          "ID": 1891379,
+          "Title": "Corymbia ficifolia"
+        },
+        {
+          "ID": 2058920,
+          "Title": "Citrus sinensis"
+        },
+        {
+          "ID": 2264042,
+          "Title": "Picea engelmannii"
+        },
+        {
+          "ID": 2372533,
+          "Title": "Byrsonima lucida"
+        },
+        {
+          "ID": 2424303,
+          "Title": "Hươu Florida"
+        },
+        {
+          "ID": 2430278,
+          "Title": "Dâu tây vườn"
+        },
+        {
+          "ID": 2463637,
+          "Title": "Juniperus thurifera"
+        },
+        {
+          "ID": 2465663,
+          "Title": "Osmunda claytoniana"
+        },
+        {
+          "ID": 2962102,
+          "Title": "Màu phụ"
+        },
+        {
+          "ID": 3127878,
+          "Title": "Cocker Spaniel"
+        },
+        {
+          "ID": 3203745,
+          "Title": "Ếch cây"
+        },
+        {
+          "ID": 3218393,
+          "Title": "Sự nảy mầm"
+        },
+        {
+          "ID": 3240131,
+          "Title": "Nai sừng tấm Á-Âu"
+        },
+        {
+          "ID": 3243066,
+          "Title": "Dê lùn Nigeria"
+        },
+        {
+          "ID": 3428607,
+          "Title": "Phân bò"
+        },
+        {
+          "ID": 3431334,
+          "Title": "Trấu"
+        },
+        {
+          "ID": 3653505,
+          "Title": "Côca (cây)"
+        },
+        {
+          "ID": 13522302,
+          "Title": "Chanh Ponderosa"
+        },
+        {
+          "ID": 13686378,
+          "Title": "Tóc đỏ"
+        },
+        {
+          "ID": 14121082,
+          "Title": "Nơron vận động"
+        }
+      ]
+    },
+    {
+      "ID": 2147483643,
+      "Title": "People and self",
+      "Abstract": "A collection of people often refers to a general group, such as all humans, an ethnic group or a nation. An individual person is the self, from his or her own perspective. To you, \"self\" is you. To someone else, \"self\" is that person. A biography is a genre of literature or film, which presents a relatively full account of the most interesting and important events of a notable person's life.\n\nLife or personal life or human existence is an individual human's personal, private experience of living (including their employment career, their family life, and other elements). In prehistoric times, life and existence was based on survival. There was little privacy and a person was identified by their role in the group. In modern times, many people have even come to think of their personal lives as if they are separate from their work. This segmentation of \"life areas\" is evident in such phrases as \"work life\", \"home life\", and \"sex life.\" The meaning or role of a person's \"life\" or \"human existence\" is discussed in many religions and philosophies. In Western industrialized countries, there are a variety of service industries that help people improve their personal lives, such as counselling and life coaching companies",
+      "Categories": [
+        {
+          "ID": 7433,
+          "Title": "Thể loại:Nhân vật"
+        },
+        {
+          "ID": 38914,
+          "Title": "Thể loại:Sinh hoạt"
+        },
+        {
+          "ID": 49587,
+          "Title": "Thể loại:Họ tên"
+        },
+        {
+          "ID": 831920,
+          "Title": "Thể loại:Cá nhân"
+        },
+        {
+          "ID": 1297885,
+          "Title": "Thể loại:Nhân vật trong phim"
+        },
+        {
+          "ID": 2979924,
+          "Title": "Thể loại:Nữ giới"
+        },
+        {
+          "ID": 3171170,
+          "Title": "Thể loại:Nghệ sĩ theo phương tiện"
+        }
+      ],
+      "Articles": [
+        {
+          "ID": 9992,
+          "Title": "Alan Turing"
+        },
+        {
+          "ID": 13118,
+          "Title": "Bill Gates"
+        },
+        {
+          "ID": 18348,
+          "Title": "Carl Friedrich Gauß"
+        },
+        {
+          "ID": 18763,
+          "Title": "René Descartes"
+        },
+        {
+          "ID": 22581,
+          "Title": "Adam Smith"
+        },
+        {
+          "ID": 26915,
+          "Title": "Theodor Schwann"
+        },
+        {
+          "ID": 27572,
+          "Title": "Alexander Fleming"
+        },
+        {
+          "ID": 27803,
+          "Title": "Sigmund Freud"
+        },
+        {
+          "ID": 31442,
+          "Title": "John Lennon"
+        },
+        {
+          "ID": 32049,
+          "Title": "Adolf Hitler"
+        },
+        {
+          "ID": 33400,
+          "Title": "Daniel Radcliffe"
+        },
+        {
+          "ID": 34112,
+          "Title": "Richard Wagner"
+        },
+        {
+          "ID": 36266,
+          "Title": "Johannes Kepler"
+        },
+        {
+          "ID": 51805,
+          "Title": "Cristoforo Colombo"
+        },
+        {
+          "ID": 59671,
+          "Title": "Florence Nightingale"
+        },
+        {
+          "ID": 61796,
+          "Title": "Ayn Rand"
+        },
+        {
+          "ID": 66698,
+          "Title": "Paul Wight"
+        },
+        {
+          "ID": 73796,
+          "Title": "Noam Chomsky"
+        },
+        {
+          "ID": 110694,
+          "Title": "William Blake"
+        },
+        {
+          "ID": 110897,
+          "Title": "Tôma Aquinô"
+        },
+        {
+          "ID": 112923,
+          "Title": "Elton John"
+        },
+        {
+          "ID": 186157,
+          "Title": "Fibonacci"
+        },
+        {
+          "ID": 275056,
+          "Title": "Oliver Cromwell"
+        },
+        {
+          "ID": 321161,
+          "Title": "George Harrison"
+        },
+        {
+          "ID": 323109,
+          "Title": "Jacob Black"
+        },
+        {
+          "ID": 330291,
+          "Title": "Lewis Carroll"
+        },
+        {
+          "ID": 350073,
+          "Title": "Srinivasa Ramanujan"
+        },
+        {
+          "ID": 445934,
+          "Title": "Galileo Galilei"
+        },
+        {
+          "ID": 753295,
+          "Title": "Harry Houdini"
+        },
+        {
+          "ID": 775984,
+          "Title": "Richard Dawkins"
+        },
+        {
+          "ID": 806208,
+          "Title": "Anders Behring Breivik"
+        },
+        {
+          "ID": 818528,
+          "Title": "Irving Langmuir"
+        },
+        {
+          "ID": 1519246,
+          "Title": "Carl Sagan"
+        },
+        {
+          "ID": 1741824,
+          "Title": "Cory Monteith"
+        },
+        {
+          "ID": 2199519,
+          "Title": "Charles Babbage"
+        },
+        {
+          "ID": 2358900,
+          "Title": "Joseph Smith"
+        },
+        {
+          "ID": 3311663,
+          "Title": "Ted Cruz"
+        },
+        {
+          "ID": 11309481,
+          "Title": "Danh sách những kênh được đăng ký nhiều nhất YouTube"
+        },
+        {
+          "ID": 13814921,
+          "Title": "Bob Ross"
+        }
+      ]
+    },
+    {
+      "ID": 2147483644,
+      "Title": "Philosophy and thinking",
+      "Abstract": "Philosophy has almost as many definitions as there have been philosophers, both as a subject matter and an activity, and no simple definition can do it justice. The issue of the definition of philosophy is thus a controversial subject that is nowadays tackled by Metaphilosophy (or the philosophy of philosophy). The word is derived from the ancient Greek words philo-, to love or to befriend, and -sophia, wisdom. Modern usage of the term is much broader; the concept of philosophy encompasses all of knowledge and all that can be known, including the means by which such knowledge can be acquired. However, in the contemporary English-speaking academic world, the term is often used implicitly to refer to analytic philosophy and, in non-English speaking countries, it often refers implicitly to a different, European strain, continental philosophy. The ancient Greeks organized the subject into five basic categories: metaphysics, epistemology, ethics, politics and aesthetics. This organization of the subject is still largely in use in Western philosophy today.\n\nThought or thinking is a mental process which allows beings to model the world, and so to deal with it effectively according to their goals, plans, ends and desires. Words referring to similar concepts and processes in the English language include cognition, sentience, consciousness, idea, and imagination. Thinking involves the cerebral manipulation of information, as when we form concepts, engage in problem solving, reason and make decisions. Thinking is a higher cognitive function and the analysis of thinking processes is part of cognitive psychology",
+      "Categories": [
+        {
+          "ID": 6845,
+          "Title": "Thể loại:Triết học"
+        },
+        {
+          "ID": 62165,
+          "Title": "Thể loại:Phân nhánh triết học"
+        },
+        {
+          "ID": 62169,
+          "Title": "Thể loại:Luân lý học"
+        },
+        {
+          "ID": 279520,
+          "Title": "Thể loại:Ý thức hệ"
+        },
+        {
+          "ID": 865987,
+          "Title": "Thể loại:Tư duy"
+        },
+        {
+          "ID": 1680538,
+          "Title": "Thể loại:Lý thuyết triết học"
+        },
+        {
+          "ID": 3250680,
+          "Title": "Thể loại:Trường phái và truyền thống triết học"
+        }
+      ],
+      "Articles": [
+        {
+          "ID": 101634,
+          "Title": "Đẹp"
+        },
+        {
+          "ID": 250882,
+          "Title": "Hạnh phúc"
+        },
+        {
+          "ID": 3297253,
+          "Title": "Gaslighting"
+        },
+        {
+          "ID": 7890322,
+          "Title": "Sự thật"
+        }
+      ]
+    },
+    {
+      "ID": 2147483645,
+      "Title": "Religion and belief systems",
+      "Abstract": "Religion is the adherence to codified beliefs and rituals that generally involve a faith in a spiritual nature and a study of inherited ancestral traditions, knowledge and wisdom related to understanding human life. The term \"religion\" refers to both the personal practices related to faith as well as to the larger shared systems of belief.\n\nA belief system can refer to a religion or a world view. A world view (or worldview) is a term calqued from the German word Weltanschauung Welt is the German word for 'world,' and Anschauung is the German word for 'view' or 'outlook'. It is a concept fundamental to German philosophy and epistemology and refers to a wide world perception. Additionally, it refers to the framework of ideas and beliefs through which an individual interprets the world and interacts in it",
+      "Categories": [
+        {
+          "ID": 4619,
+          "Title": "Thể loại:Tôn giáo"
+        },
+        {
+          "ID": 58329,
+          "Title": "Thể loại:Thần thoại"
+        },
+        {
+          "ID": 65113,
+          "Title": "Thể loại:Tôn giáo Ấn Độ"
+        },
+        {
+          "ID": 1680538,
+          "Title": "Thể loại:Lý thuyết triết học"
+        },
+        {
+          "ID": 3211724,
+          "Title": "Thể loại:Chủ nghĩa thế tục"
+        },
+        {
+          "ID": 3386166,
+          "Title": "Thể loại:Phê bình tôn giáo"
+        },
+        {
+          "ID": 7553620,
+          "Title": "Thể loại:Tranh cãi tôn giáo"
+        },
+        {
+          "ID": 7567990,
+          "Title": "Thể loại:Tín ngưỡng, truyền thống và phong trào tôn giáo"
+        },
+        {
+          "ID": 13490222,
+          "Title": "Thể loại:Niềm tin"
+        },
+        {
+          "ID": 14195498,
+          "Title": "Thể loại:Phi hữu thần"
+        },
+        {
+          "ID": 14200742,
+          "Title": "Thể loại:Nhân loại học tôn giáo"
+        }
+      ]
+    },
+    {
+      "ID": 2147483646,
+      "Title": "Society and social sciences",
+      "Abstract": "A society is a group of people who form a semi-closed system. At its simplest, the term society refers to a large group of people sharing their own culture and institutions. A society is a network of relationships between people. The English word society is derived from the French société, which had its origin in the Latin societas, a \"friendly association with others,\" from socius meaning \"companion, associate, comrade or business partner.\" Thus, the meaning of society is closely related to what is considered to be social. Implicit in the meaning of society is that its members may share some mutual concern or interest, a common objective or common characteristics. The social sciences generally use the term society to mean a group of people who form a semi-closed social system, in which most interactions are with other individuals belonging to the group. More abstractly, a society is defined as a network of relationships between social entities. A society is also sometimes defined as an interdependent community, but the sociologist Tönnies sought to draw a contrast between society and community. An important feature of society is social structure, aspects of which include roles and social ranking.\n\nThe social science are a group of academic disciplines that study human aspects of the world. They differ from the arts and the humanities, in that the social science tend to emphasize the use of the scientific method in the study of humanity, including quantitative and qualitative methods",
+      "Categories": [
+        {
+          "ID": 6821,
+          "Title": "Thể loại:Tổ chức quốc tế"
+        },
+        {
+          "ID": 7494,
+          "Title": "Thể loại:Xã hội"
+        },
+        {
+          "ID": 32787,
+          "Title": "Thể loại:Khoa học xã hội"
+        },
+        {
+          "ID": 263145,
+          "Title": "Thể loại:Quyền"
+        },
+        {
+          "ID": 3156295,
+          "Title": "Thể loại:Chủ nghĩa nữ giới"
+        }
+      ],
+      "Articles": [
+        {
+          "ID": 5568,
+          "Title": "Liên minh châu Âu"
+        },
+        {
+          "ID": 8599,
+          "Title": "Quy ước giờ mùa hè"
+        },
+        {
+          "ID": 9813,
+          "Title": "Đại học Pennsylvania"
+        },
+        {
+          "ID": 11621,
+          "Title": "Đại học Stanford"
+        },
+        {
+          "ID": 36289,
+          "Title": "The New York Times"
+        },
+        {
+          "ID": 46843,
+          "Title": "Đại học Harvard"
+        },
+        {
+          "ID": 47819,
+          "Title": "Đại học Victoria"
+        },
+        {
+          "ID": 50528,
+          "Title": "Đại học Princeton"
+        },
+        {
+          "ID": 51203,
+          "Title": "Đại học Columbia"
+        },
+        {
+          "ID": 57895,
+          "Title": "Đại học Quốc gia Moskva"
+        },
+        {
+          "ID": 67463,
+          "Title": "Viện Công nghệ Massachusetts"
+        },
+        {
+          "ID": 69447,
+          "Title": "Đại học Virginia"
+        },
+        {
+          "ID": 78262,
+          "Title": "Đại học Ulster"
+        },
+        {
+          "ID": 78934,
+          "Title": "American Airlines"
+        },
+        {
+          "ID": 86126,
+          "Title": "Đại học Tōkyō"
+        },
+        {
+          "ID": 88805,
+          "Title": "Đại học Thanh Hoa"
+        },
+        {
+          "ID": 88996,
+          "Title": "Đại học Malaya"
+        },
+        {
+          "ID": 89102,
+          "Title": "Đại học Tiểu bang Ohio"
+        },
+        {
+          "ID": 89320,
+          "Title": "Đại học Paris"
+        },
+        {
+          "ID": 91853,
+          "Title": "Đại học Lviv"
+        },
+        {
+          "ID": 91860,
+          "Title": "Đại học Odessa"
+        },
+        {
+          "ID": 94105,
+          "Title": "Đại học Oxford"
+        },
+        {
+          "ID": 94176,
+          "Title": "Đại học Cambridge"
+        },
+        {
+          "ID": 102608,
+          "Title": "Đại học Glasgow"
+        },
+        {
+          "ID": 103361,
+          "Title": "Đại học Southampton"
+        },
+        {
+          "ID": 120197,
+          "Title": "Đại học Nottingham"
+        },
+        {
+          "ID": 121211,
+          "Title": "Công tác xã hội"
+        },
+        {
+          "ID": 129870,
+          "Title": "Đại học Washington tại St. Louis"
+        },
+        {
+          "ID": 134147,
+          "Title": "Đại học Oregon"
+        },
+        {
+          "ID": 136372,
+          "Title": "Đại học công lập"
+        },
+        {
+          "ID": 141263,
+          "Title": "Đại học Sydney"
+        },
+        {
+          "ID": 141299,
+          "Title": "Đại học La Trobe"
+        },
+        {
+          "ID": 141573,
+          "Title": "Đại học Quốc gia Úc"
+        },
+        {
+          "ID": 142615,
+          "Title": "Đại học Osaka"
+        },
+        {
+          "ID": 153099,
+          "Title": "Đại học Chicago"
+        },
+        {
+          "ID": 176013,
+          "Title": "Đại học Missouri"
+        },
+        {
+          "ID": 196366,
+          "Title": "Đại học Maryland, College Park"
+        },
+        {
+          "ID": 203510,
+          "Title": "Đại học Indiana tại Bloomington"
+        },
+        {
+          "ID": 214804,
+          "Title": "Đại học Leipzig"
+        },
+        {
+          "ID": 251998,
+          "Title": "Đại học Göttingen"
+        },
+        {
+          "ID": 298362,
+          "Title": "Kinh tế Iran"
+        },
+        {
+          "ID": 408695,
+          "Title": "Đại học Hokkaido"
+        },
+        {
+          "ID": 433961,
+          "Title": "Quốc kỳ Úc"
+        },
+        {
+          "ID": 475659,
+          "Title": "Tiền mệnh giá lớn của Hoa Kỳ"
+        },
+        {
+          "ID": 485147,
+          "Title": "Đại học Nam Kinh"
+        },
+        {
+          "ID": 514773,
+          "Title": "BP"
+        },
+        {
+          "ID": 521862,
+          "Title": "Starbucks"
+        },
+        {
+          "ID": 528226,
+          "Title": "Đại học Otago"
+        },
+        {
+          "ID": 528304,
+          "Title": "Đại học Uppsala"
+        },
+        {
+          "ID": 540339,
+          "Title": "Đại học Milano"
+        },
+        {
+          "ID": 540447,
+          "Title": "Đại học Bologna"
+        },
+        {
+          "ID": 540815,
+          "Title": "Đại học Stockholm"
+        },
+        {
+          "ID": 541135,
+          "Title": "Đại học Linköping"
+        },
+        {
+          "ID": 541348,
+          "Title": "Chiến tranh thế giới thứ ba"
+        },
+        {
+          "ID": 543014,
+          "Title": "Đại học Bonn"
+        },
+        {
+          "ID": 543525,
+          "Title": "Đại học Gothenburg"
+        },
+        {
+          "ID": 545735,
+          "Title": "Đại học Manchester"
+        },
+        {
+          "ID": 792375,
+          "Title": "Đại học Padova"
+        },
+        {
+          "ID": 804532,
+          "Title": "Đại học Liverpool"
+        },
+        {
+          "ID": 810253,
+          "Title": "Đại học Nam California"
+        },
+        {
+          "ID": 815506,
+          "Title": "Pizza Hut"
+        },
+        {
+          "ID": 824068,
+          "Title": "Đại học Tartu"
+        },
+        {
+          "ID": 825350,
+          "Title": "Đại học Tübingen"
+        },
+        {
+          "ID": 836295,
+          "Title": "Tết Trung Quốc"
+        },
+        {
+          "ID": 841348,
+          "Title": "Vi quốc gia"
+        },
+        {
+          "ID": 841350,
+          "Title": "Đại học Tổng hợp Sankt-Peterburg"
+        },
+        {
+          "ID": 1220642,
+          "Title": "Đại học Luân Đôn"
+        },
+        {
+          "ID": 1242619,
+          "Title": "Đại học Quốc gia Seoul"
+        },
+        {
+          "ID": 1408593,
+          "Title": "Đại học Hebrew của Jerusalem"
+        },
+        {
+          "ID": 1439825,
+          "Title": "Đại học Texas tại Austin"
+        },
+        {
+          "ID": 1446083,
+          "Title": "Đại học Auckland"
+        },
+        {
+          "ID": 1536807,
+          "Title": "Đại học Freiburg"
+        },
+        {
+          "ID": 1678725,
+          "Title": "Đại học Calgary"
+        },
+        {
+          "ID": 1735083,
+          "Title": "Đại học Đông Nam"
+        },
+        {
+          "ID": 1747166,
+          "Title": "Đại học St. Andrews"
+        },
+        {
+          "ID": 1765383,
+          "Title": "Fox News"
+        },
+        {
+          "ID": 2261372,
+          "Title": "Chương trình Môi trường Liên Hiệp Quốc"
+        },
+        {
+          "ID": 2282514,
+          "Title": "Đại học Waterloo"
+        },
+        {
+          "ID": 2419927,
+          "Title": "Đại học Sungkyunkwan"
+        },
+        {
+          "ID": 2424830,
+          "Title": "Domino's Pizza"
+        },
+        {
+          "ID": 2461267,
+          "Title": "Đại học Leeds"
+        },
+        {
+          "ID": 3148441,
+          "Title": "Đại học Umeå"
+        },
+        {
+          "ID": 3184677,
+          "Title": "Đại học Wollongong"
+        },
+        {
+          "ID": 3209574,
+          "Title": "Đại học Quốc gia"
+        },
+        {
+          "ID": 3223425,
+          "Title": "Đại học Newcastle (Úc)"
+        },
+        {
+          "ID": 3235491,
+          "Title": "Đại học Iowa"
+        },
+        {
+          "ID": 3259802,
+          "Title": "Đại học Viên"
+        },
+        {
+          "ID": 3341738,
+          "Title": "Đại học Queensland"
+        },
+        {
+          "ID": 3519919,
+          "Title": "The Times of India"
+        },
+        {
+          "ID": 3521071,
+          "Title": "Đại học Tohoku"
+        },
+        {
+          "ID": 3669499,
+          "Title": "Vụ tấn công ở Westminster 2017"
+        },
+        {
+          "ID": 3712487,
+          "Title": "Đại học Minnesota"
+        },
+        {
+          "ID": 12311645,
+          "Title": "Đại học Michigan"
+        },
+        {
+          "ID": 13174651,
+          "Title": "Đại học Arizona"
+        },
+        {
+          "ID": 13376518,
+          "Title": "Đại học Washington"
+        },
+        {
+          "ID": 13485338,
+          "Title": "Jio"
+        },
+        {
+          "ID": 13714555,
+          "Title": "Đại học Napoli Federico II"
+        }
+      ]
+    },
+    {
+      "ID": 2147483647,
+      "Title": "Technology and applied sciences",
+      "Abstract": "Technology is an expanded concept that deals with a species' usage and knowledge of tools and crafts, and how it affects a species' ability to control and adapt to its environment. In human civilization, it is a consequence of science and engineering, although several technological advances predate the formalization of these two disciplines. The term can either be applied generally or to specific areas – examples include construction technology, medical technology, or state-of-the-art technology.\n\nThe human race's use of technology began with the conversion of plentiful natural resources into simple tools. The prehistorical discovery of the ability to control fire increased the available sources of food, and the invention of the wheel helped humans in travelling in and controlling their environment. Recent technological developments, including the printing press and the Internet, have lessened physical barriers to communication and allowed humans to interact on a global scale. However, not all technology has been used for peaceful purposes; the development of weapons of ever-increasing destructive power has progressed throughout history, from clubs to nuclear bombs.\n\nApplied science is the application of knowledge from one or more natural scientific fields to solving practical problems. For example, fields of engineering are applied sciences. Applied science is important for technology development. Its use in industrial settings is usually referred to as research and development (R\u0026D)",
+      "Categories": [
+        {
+          "ID": 1180,
+          "Title": "Thể loại:Internet"
+        },
+        {
+          "ID": 1566,
+          "Title": "Thể loại:Kỹ thuật"
+        },
+        {
+          "ID": 2208,
+          "Title": "Thể loại:Công nghệ"
+        },
+        {
+          "ID": 3082,
+          "Title": "Thể loại:Khoa học ứng dụng"
+        },
+        {
+          "ID": 4647,
+          "Title": "Thể loại:Tin học"
+        },
+        {
+          "ID": 4783,
+          "Title": "Thể loại:Khoa học máy tính"
+        },
+        {
+          "ID": 4950,
+          "Title": "Thể loại:Điện tử học"
+        },
+        {
+          "ID": 7509,
+          "Title": "Thể loại:Giao thông"
+        },
+        {
+          "ID": 37651,
+          "Title": "Thể loại:Thiết kế"
+        },
+        {
+          "ID": 68461,
+          "Title": "Thể loại:Lịch sử công nghệ"
+        },
+        {
+          "ID": 77352,
+          "Title": "Thể loại:Thiết bị quân sự"
+        },
+        {
+          "ID": 2432322,
+          "Title": "Thể loại:Công nghệ theo dạng"
+        },
+        {
+          "ID": 3121928,
+          "Title": "Thể loại:Thời biểu công nghệ"
+        }
+      ],
+      "Articles": [
+        {
+          "ID": 81563,
+          "Title": "Kẹo cao su"
+        },
+        {
+          "ID": 281435,
+          "Title": "Xây cất bằng gạch"
+        },
+        {
+          "ID": 423840,
+          "Title": "Pepsi"
+        },
+        {
+          "ID": 1220453,
+          "Title": "Nghiên cứu khả thi"
+        },
+        {
+          "ID": 2353498,
+          "Title": "Tường"
+        },
+        {
+          "ID": 2414295,
+          "Title": "Mountain Dew"
+        }
+      ]
+    }
+  ],
+  "Filters": [
+    {
+      "ID": 2717,
+      "Title": "Thể loại:Trang định hướng"
+    },
+    {
+      "ID": 239282,
+      "Title": "Thể loại:Thể loại ẩn"
+    }
+  ]
+}

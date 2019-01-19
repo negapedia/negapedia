@@ -1,0 +1,1980 @@
+{
+  "Language": "fa",
+  "Topics": [
+    {
+      "ID": 2147483637,
+      "Title": "Culture and the arts",
+      "Abstract": "The word culture is derived from the Latin root cultura or cultus meaning to \"inhabit, cultivate, or honour\". In general, culture refers to human activity; different definitions of culture reflect different theories for understanding, or criteria for valuing human activity. Present day Anthropologists use the term to refer to the universal human capacity to classify experiences and to encode and communicate them symbolically. They regard this capacity as a defining feature of the genus Homo. Since culture is learned, people living in different places have different cultures. There can be different cultures in different countries, and there can also be shared cultures among continents.\n\nThe arts are a vast subdivision of culture, composed of many creative endeavors and disciplines. It is a broader term than \"art,\" which as a description of a field usually means only the visual arts. The arts encompasses visual arts, literary arts and the performing arts - music, theatre, dance, spoken word and film, among others.\n\nArt, in its broadest meaning, is the expression of creativity or imagination. The word art comes from the Latin word ars, which, loosely translated, means \"arrangement\". Art is commonly understood as the act of making works (or artworks) which use the human creative impulse and which have meaning beyond simple description. Art is often distinguished from crafts and recreational hobby activities. The term creative arts denotes a collection of disciplines whose principal purpose is the output of material for the viewer or audience to interpret. As such, art may be taken to include forms as diverse as prose writing, poetry, dance, acting or drama, film, music, sculpture, photography, illustration, architecture, collage, painting, craft and fashion. Art may also be understood as relating to creativity, æsthetics and the generation of emotion",
+      "Categories": [
+        {
+          "ID": 10898,
+          "Title": "رده:ورزش"
+        },
+        {
+          "ID": 25514,
+          "Title": "رده:هنر"
+        },
+        {
+          "ID": 27513,
+          "Title": "رده:فیلم‌ها"
+        },
+        {
+          "ID": 31658,
+          "Title": "رده:آشپزی"
+        },
+        {
+          "ID": 37939,
+          "Title": "رده:سرگرمی‌ها"
+        },
+        {
+          "ID": 43541,
+          "Title": "رده:گروه‌های موسیقی"
+        },
+        {
+          "ID": 114865,
+          "Title": "رده:فرهنگ"
+        },
+        {
+          "ID": 204715,
+          "Title": "رده:سرگرمی"
+        },
+        {
+          "ID": 412573,
+          "Title": "رده:تفریح"
+        },
+        {
+          "ID": 413495,
+          "Title": "رده:خوراکی‌ها"
+        }
+      ],
+      "Articles": [
+        {
+          "ID": 594,
+          "Title": "ویکی‌پدیا"
+        },
+        {
+          "ID": 9555,
+          "Title": "سس گوجه فرنگی"
+        },
+        {
+          "ID": 9562,
+          "Title": "شیرکاکائو"
+        },
+        {
+          "ID": 10468,
+          "Title": "پوره سیب"
+        },
+        {
+          "ID": 14018,
+          "Title": "قهوه"
+        },
+        {
+          "ID": 18574,
+          "Title": "آبجو"
+        },
+        {
+          "ID": 27653,
+          "Title": "آکوا (گروه موسیقی)"
+        },
+        {
+          "ID": 31697,
+          "Title": "نان"
+        },
+        {
+          "ID": 43255,
+          "Title": "دانشنامه"
+        },
+        {
+          "ID": 44213,
+          "Title": "هاگوارتز"
+        },
+        {
+          "ID": 50045,
+          "Title": "پیتزا"
+        },
+        {
+          "ID": 51830,
+          "Title": "لد زپلین"
+        },
+        {
+          "ID": 51842,
+          "Title": "ای‌سی/دی‌سی"
+        },
+        {
+          "ID": 156636,
+          "Title": "کاخ باکینگهام"
+        },
+        {
+          "ID": 178765,
+          "Title": "شکلات"
+        },
+        {
+          "ID": 225869,
+          "Title": "گرین دی"
+        },
+        {
+          "ID": 229093,
+          "Title": "تخم‌مرغ"
+        },
+        {
+          "ID": 234435,
+          "Title": "شبح"
+        },
+        {
+          "ID": 307058,
+          "Title": "ماءالشعیر"
+        },
+        {
+          "ID": 310361,
+          "Title": "هات‌داگ"
+        },
+        {
+          "ID": 319213,
+          "Title": "کیک"
+        },
+        {
+          "ID": 319284,
+          "Title": "ژامبون"
+        },
+        {
+          "ID": 323818,
+          "Title": "پاستا"
+        },
+        {
+          "ID": 401159,
+          "Title": "هیولای لخ‌نس"
+        },
+        {
+          "ID": 449061,
+          "Title": "کره بادام زمینی"
+        },
+        {
+          "ID": 535261,
+          "Title": "اطلاعات‌نامه جهان"
+        },
+        {
+          "ID": 540225,
+          "Title": "مشت ناگهانی (فیلم)"
+        },
+        {
+          "ID": 590509,
+          "Title": "کلوچه"
+        },
+        {
+          "ID": 653418,
+          "Title": "بیکن"
+        },
+        {
+          "ID": 753729,
+          "Title": "شکلات داغ"
+        },
+        {
+          "ID": 802756,
+          "Title": "یهودا (ترانه)"
+        },
+        {
+          "ID": 860408,
+          "Title": "چاهان (غذا)"
+        },
+        {
+          "ID": 935193,
+          "Title": "وانتد"
+        },
+        {
+          "ID": 956904,
+          "Title": "تاکو"
+        },
+        {
+          "ID": 958990,
+          "Title": "دله قهوه"
+        },
+        {
+          "ID": 1007532,
+          "Title": "قضیب‌لیسی"
+        },
+        {
+          "ID": 1076890,
+          "Title": "اتک آو د شو!"
+        },
+        {
+          "ID": 1249525,
+          "Title": "فهرست پاستا"
+        },
+        {
+          "ID": 1255005,
+          "Title": "ساندویچ بیکن"
+        },
+        {
+          "ID": 1272545,
+          "Title": "روز گراندهاگ"
+        },
+        {
+          "ID": 1417143,
+          "Title": "کیک اسفنجی"
+        },
+        {
+          "ID": 1440936,
+          "Title": "کیک اپرا"
+        },
+        {
+          "ID": 1441332,
+          "Title": "کیک فوم"
+        },
+        {
+          "ID": 1476619,
+          "Title": "کیک تخته‌ای"
+        },
+        {
+          "ID": 1477037,
+          "Title": "کیک لایه‌ای"
+        },
+        {
+          "ID": 1486688,
+          "Title": "کیک عروسی"
+        },
+        {
+          "ID": 1510759,
+          "Title": "ناپاژ"
+        },
+        {
+          "ID": 1512539,
+          "Title": "گروه کلوپ بی‌کسان گروهبان فلفل"
+        },
+        {
+          "ID": 1527638,
+          "Title": "عفت"
+        },
+        {
+          "ID": 1657722,
+          "Title": "کاربونارا"
+        },
+        {
+          "ID": 1684012,
+          "Title": "چیکن تکه مصالح"
+        },
+        {
+          "ID": 1685298,
+          "Title": "ویفر ناپولی"
+        },
+        {
+          "ID": 1777441,
+          "Title": "سابله"
+        },
+        {
+          "ID": 1784248,
+          "Title": "نیمرو"
+        },
+        {
+          "ID": 1832422,
+          "Title": "پیتزای شیکاگو"
+        },
+        {
+          "ID": 2216295,
+          "Title": "پای ظرفی"
+        },
+        {
+          "ID": 2231298,
+          "Title": "تا وقتی که زنده‌ام"
+        },
+        {
+          "ID": 2306483,
+          "Title": "الماگروت"
+        },
+        {
+          "ID": 2376366,
+          "Title": "کمربند دبلیودبلیوئی قهرمانی جهان"
+        },
+        {
+          "ID": 2392060,
+          "Title": "روش‌های مطالعه"
+        },
+        {
+          "ID": 2589685,
+          "Title": "فلپی برد"
+        },
+        {
+          "ID": 3120611,
+          "Title": "پرندگان خشمگین (بازی ویدئویی)"
+        },
+        {
+          "ID": 3124346,
+          "Title": "پرندگان خشمگین فصول"
+        },
+        {
+          "ID": 3124350,
+          "Title": "پرندگان خشمگین ریو"
+        },
+        {
+          "ID": 3221887,
+          "Title": "پی‌کی (فیلم)"
+        },
+        {
+          "ID": 3464044,
+          "Title": "روبات (فیلم ۲۰۱۰)"
+        },
+        {
+          "ID": 3482059,
+          "Title": "لگد (فیلم ۲۰۱۴)"
+        },
+        {
+          "ID": 3491185,
+          "Title": "اتاق جنگ"
+        },
+        {
+          "ID": 3551952,
+          "Title": "واقع‌گرایی (ادبیات)"
+        },
+        {
+          "ID": 3613730,
+          "Title": "مسابقه آواز یوروویژن ۲۰۱۷"
+        },
+        {
+          "ID": 3746578,
+          "Title": "دستان طراح"
+        },
+        {
+          "ID": 3760677,
+          "Title": "شمش شکلات"
+        },
+        {
+          "ID": 3760715,
+          "Title": "شکلات سفید"
+        },
+        {
+          "ID": 3774102,
+          "Title": "سوپ کاهو"
+        },
+        {
+          "ID": 3949583,
+          "Title": "قابل"
+        },
+        {
+          "ID": 4239161,
+          "Title": "جودیتا پاستا"
+        },
+        {
+          "ID": 4283536,
+          "Title": "پایلا مارینا"
+        },
+        {
+          "ID": 4285069,
+          "Title": "موردرد"
+        },
+        {
+          "ID": 4308678,
+          "Title": "سس اسپانیول"
+        },
+        {
+          "ID": 4339792,
+          "Title": "رقص خیابان"
+        },
+        {
+          "ID": 4356862,
+          "Title": "بروتیبونی"
+        },
+        {
+          "ID": 4374704,
+          "Title": "مسابقه آواز یوروویژن ۲۰۱۸"
+        },
+        {
+          "ID": 4413671,
+          "Title": "شکلات تلخ"
+        },
+        {
+          "ID": 4414847,
+          "Title": "شکلات شیری"
+        },
+        {
+          "ID": 4538099,
+          "Title": "سوپ گوجه‌فرنگی"
+        },
+        {
+          "ID": 4759794,
+          "Title": "بایراوا"
+        },
+        {
+          "ID": 4776201,
+          "Title": "کیک برنج"
+        },
+        {
+          "ID": 4817020,
+          "Title": "تخم مرغ صدساله"
+        }
+      ]
+    },
+    {
+      "ID": 2147483638,
+      "Title": "Geography and places",
+      "Abstract": "Geography (Greek Geo (γη) or Gaea (γαία), meaning \"Earth\", and graphein (γράφειν) meaning \"to describe\" or \"to write\") is the study of the earth and its features, inhabitants, and phenomena. A literal translation would be \"to describe or write about the Earth\". The first person to use the word \"geography\" was Eratosthenes (275-195 B.C.). Four historical traditions in geographical research are the spatial analysis of natural and human phenomena (geography as a study of distribution), area studies (places and regions), study of man-land relationship, and research in earth sciences. Nonetheless, modern geography is an all-encompassing discipline that foremost seeks to understand the world and all of its human and natural complexities — not merely where objects are, but how they have changed and come to be. As \"the bridge between the human and physical sciences,\" geography is divided into two main branches — human geography and physical geography",
+      "Categories": [
+        {
+          "ID": 36723,
+          "Title": "رده:جغرافیا"
+        },
+        {
+          "ID": 122737,
+          "Title": "رده:جای‌ها"
+        },
+        {
+          "ID": 494639,
+          "Title": "رده:برنامه‌ریزی و طراحی شهری"
+        },
+        {
+          "ID": 855698,
+          "Title": "رده:ارزها بر پایه منطقه"
+        },
+        {
+          "ID": 1614323,
+          "Title": "رده:فهرست‌های جغرافیایی"
+        },
+        {
+          "ID": 2043390,
+          "Title": "رده:ژئومورفولوژی"
+        }
+      ],
+      "Articles": [
+        {
+          "ID": 7283,
+          "Title": "میانمار"
+        },
+        {
+          "ID": 7430,
+          "Title": "کانبرا"
+        },
+        {
+          "ID": 7918,
+          "Title": "ونیز"
+        },
+        {
+          "ID": 18094,
+          "Title": "پاریس"
+        },
+        {
+          "ID": 114041,
+          "Title": "کوئینزلند"
+        },
+        {
+          "ID": 347683,
+          "Title": "کارلزبد، نیومکزیکو"
+        },
+        {
+          "ID": 4495983,
+          "Title": "ابرفویل، استیرلینگ"
+        }
+      ]
+    },
+    {
+      "ID": 2147483639,
+      "Title": "Health and fitness",
+      "Abstract": "Health is the level of functional or metabolic efficiency of a living organism. In humans it is the ability of individuals or communities to adapt and self-manage when facing physical, mental or social challenges. The most widely accepted definition of good health is that of the World Health Organization Constitution. It states: \"health is a state of complete physical, mental and social well-being and is not merely the absence of disease or infirmity\" (World Health Organization, 1946). In more recent years, this statement has been amplified to include the ability to lead a \"socially and economically productive life.\" The WHO definition is not without criticism, mainly that it is much too broad.\n\nThe most solid aspects of wellness that fit firmly in the realm of medicine are environmental health, nutrition, disease prevention, and public health. These matters can be investigated at length and can assist in measuring well-being. Please see our medical disclaimer for cautions about Wikipedia's limitations",
+      "Categories": [
+        {
+          "ID": 24073,
+          "Title": "رده:پزشکی"
+        },
+        {
+          "ID": 51214,
+          "Title": "رده:بیماری‌ها و اختلالات ژنتیکی"
+        },
+        {
+          "ID": 53235,
+          "Title": "رده:علم بهداشت"
+        },
+        {
+          "ID": 114322,
+          "Title": "رده:تخصص‌های پزشکی"
+        },
+        {
+          "ID": 227585,
+          "Title": "رده:بهداشت"
+        },
+        {
+          "ID": 859565,
+          "Title": "رده:مراقبت‌های فردی"
+        },
+        {
+          "ID": 860528,
+          "Title": "رده:مشاغل بهداشت و درمان"
+        },
+        {
+          "ID": 916629,
+          "Title": "رده:سلامت"
+        }
+      ],
+      "Articles": [
+        {
+          "ID": 3219241,
+          "Title": "ای‌اس‌ام‌آر"
+        }
+      ]
+    },
+    {
+      "ID": 2147483640,
+      "Title": "History and events",
+      "Abstract": "History is the interpretation of past events, societies and civilizations. The term history comes from the Greek historia (ἱστορία), \"an account of one's inquiries,\" and shares that etymology with the English word story as narrative. The 1911 Encyclopædia Britannica stated that \"history in the wider sense is all that has happened, not merely all the phenomena of human life, but those of the natural world as well. It is everything that undergoes change; and as modern science has shown that there is nothing absolutely static, therefore, the whole universe, and every part of it, has its history.\" ",
+      "Categories": [
+        {
+          "ID": 25620,
+          "Title": "رده:تاریخ"
+        },
+        {
+          "ID": 61746,
+          "Title": "رده:رویدادها"
+        },
+        {
+          "ID": 364928,
+          "Title": "رده:تاریخ بر پایه کشور"
+        },
+        {
+          "ID": 2125129,
+          "Title": "رده:انتخابات بر پایه سال (میلادی)"
+        },
+        {
+          "ID": 3548913,
+          "Title": "رده:مناسبت‌ها"
+        }
+      ],
+      "Articles": [
+        {
+          "ID": 64041,
+          "Title": "انکار هولوکاست"
+        },
+        {
+          "ID": 88981,
+          "Title": "حملات ۱۱ سپتامبر"
+        },
+        {
+          "ID": 201900,
+          "Title": "جنگ تروآ"
+        },
+        {
+          "ID": 433239,
+          "Title": "لکه نفتی خلیج مکزیک"
+        },
+        {
+          "ID": 625964,
+          "Title": "زمین‌لرزه و سونامی ۲۰۱۱ توهوکو"
+        },
+        {
+          "ID": 794863,
+          "Title": "میهن‌دوست (انقلاب آمریکا)"
+        },
+        {
+          "ID": 923594,
+          "Title": "انتخابات ریاست‌جمهوری ایالات متحده آمریکا (۲۰۱۲)"
+        },
+        {
+          "ID": 1170064,
+          "Title": "تیراندازی آورورا ۲۰۱۲"
+        },
+        {
+          "ID": 3416764,
+          "Title": "کمپین ریاست‌جمهوری دونالد ترامپ، ۲۰۱۶"
+        },
+        {
+          "ID": 3657779,
+          "Title": "تیراندازی باشگاه شبانه اورلندو ۲۰۱۶"
+        },
+        {
+          "ID": 4616961,
+          "Title": "تاریخ جدول تناوبی"
+        }
+      ]
+    },
+    {
+      "ID": 2147483641,
+      "Title": "Mathematics and logic",
+      "Abstract": "Mathematics is the science of quantization. It is also the study of patterns and relationships, including concepts such as quantity, structure, space, uncertainty, and change. It evolved through the use of abstraction and logical reasoning, from counting, calculation, measurement, and the systematic study of positions, shapes and motions of physical objects. Mathematicians explore such concepts, aiming to formulate new conjectures and establish their truth by rigorous deduction from appropriately chosen axioms and definitions.\n\nLogic (from Classical Greek λόγος logos; meaning word, thought, idea, argument, account, reason or principle) is the study of the principles and criteria of valid inference and demonstration. As a formal science, logic investigates and classifies the structure of statements and arguments, both through the study of formal systems of inference and through the study of arguments in natural language. The field of logic ranges from core topics such as the study of fallacies and paradoxes, to specialized analysis of reasoning using probability and to arguments involving causality. Logic is also commonly used today in argumentation theory. Since the mid-nineteenth century formal logic has been studied in the context of the foundations of mathematics",
+      "Categories": [
+        {
+          "ID": 11530,
+          "Title": "رده:ریاضیات"
+        },
+        {
+          "ID": 15517,
+          "Title": "رده:آمار"
+        },
+        {
+          "ID": 41365,
+          "Title": "رده:ریاضیات کاربردی"
+        },
+        {
+          "ID": 59587,
+          "Title": "رده:منطق"
+        },
+        {
+          "ID": 209258,
+          "Title": "رده:آمار و احتمالات"
+        },
+        {
+          "ID": 317994,
+          "Title": "رده:علوم نظری رایانه"
+        },
+        {
+          "ID": 493904,
+          "Title": "رده:مفهوم‌های ریاضی"
+        },
+        {
+          "ID": 2001412,
+          "Title": "رده:زیررشته‌های ریاضی"
+        }
+      ],
+      "Articles": [
+        {
+          "ID": 22830,
+          "Title": "طول"
+        }
+      ]
+    },
+    {
+      "ID": 2147483642,
+      "Title": "Nature and physical sciences",
+      "Abstract": "The term nature is derived from the Latin word natura, or \"essential qualities, innate disposition\". Natura is a Latin translation of the Greek word physis (φύσις), which originally related to the intrinsic characteristics that plants, animals, and other features of the world develop of their own accord. The concept of nature as a whole, all matter and energy in the universe, is one of several expansions of the original notion.\n\nPhysical science is an encompassing term for the branches of natural science, and science, that study non-living systems, in contrast to the biological sciences. However, the term \"physical\" creates an involuntary, somewhat arbitrary distinction, since many branches of physical science also study biological phenomena",
+      "Categories": [
+        {
+          "ID": 10285,
+          "Title": "رده:فیزیک"
+        },
+        {
+          "ID": 13969,
+          "Title": "رده:علوم طبیعی"
+        },
+        {
+          "ID": 20779,
+          "Title": "رده:شیمی"
+        },
+        {
+          "ID": 26086,
+          "Title": "رده:علوم تجربی"
+        },
+        {
+          "ID": 26772,
+          "Title": "رده:جانورشناسی"
+        },
+        {
+          "ID": 36272,
+          "Title": "رده:علوم"
+        },
+        {
+          "ID": 112947,
+          "Title": "رده:طبیعت"
+        },
+        {
+          "ID": 290665,
+          "Title": "رده:ترکیب‌های شیمیایی"
+        },
+        {
+          "ID": 733851,
+          "Title": "رده:جانوران بر پایه قاره"
+        },
+        {
+          "ID": 865464,
+          "Title": "رده:علوم زیست‌محیطی"
+        },
+        {
+          "ID": 1508340,
+          "Title": "رده:فاجعه‌ها"
+        }
+      ],
+      "Articles": [
+        {
+          "ID": 9193,
+          "Title": "نورون حرکتی"
+        },
+        {
+          "ID": 12998,
+          "Title": "شتر"
+        },
+        {
+          "ID": 24761,
+          "Title": "آتش"
+        },
+        {
+          "ID": 53146,
+          "Title": "سوسپانسیون"
+        },
+        {
+          "ID": 88138,
+          "Title": "فلامینگو"
+        },
+        {
+          "ID": 112757,
+          "Title": "پرتقال"
+        },
+        {
+          "ID": 113005,
+          "Title": "بیضه"
+        },
+        {
+          "ID": 113007,
+          "Title": "برنج"
+        },
+        {
+          "ID": 113008,
+          "Title": "ذرت"
+        },
+        {
+          "ID": 167034,
+          "Title": "چرخه آب"
+        },
+        {
+          "ID": 173851,
+          "Title": "توت‌فرنگی"
+        },
+        {
+          "ID": 203351,
+          "Title": "قورباغه‌های درختی"
+        },
+        {
+          "ID": 241830,
+          "Title": "دستگاه ماهیچه‌ای"
+        },
+        {
+          "ID": 251924,
+          "Title": "آناناس"
+        },
+        {
+          "ID": 295849,
+          "Title": "ببر سفید"
+        },
+        {
+          "ID": 301875,
+          "Title": "لیموترش"
+        },
+        {
+          "ID": 313068,
+          "Title": "انبه"
+        },
+        {
+          "ID": 420682,
+          "Title": "خودارضایی"
+        },
+        {
+          "ID": 444127,
+          "Title": "ادرار"
+        },
+        {
+          "ID": 523700,
+          "Title": "جوانه زدن"
+        },
+        {
+          "ID": 534416,
+          "Title": "موس"
+        },
+        {
+          "ID": 613734,
+          "Title": "زنجیره غذایی"
+        },
+        {
+          "ID": 821632,
+          "Title": "گل کلم"
+        },
+        {
+          "ID": 908187,
+          "Title": "کودن (پرنده)"
+        },
+        {
+          "ID": 933453,
+          "Title": "ماهی خال‌خالی اطلس"
+        },
+        {
+          "ID": 1071303,
+          "Title": "رنگ مکمل"
+        },
+        {
+          "ID": 1514731,
+          "Title": "آلت نری"
+        },
+        {
+          "ID": 1620395,
+          "Title": "برنج چسبناک"
+        },
+        {
+          "ID": 2151227,
+          "Title": "موی قرمز"
+        },
+        {
+          "ID": 2333904,
+          "Title": "عنکبوت‌های گرگی"
+        },
+        {
+          "ID": 2347811,
+          "Title": "میمون عنکبوتی"
+        },
+        {
+          "ID": 2526453,
+          "Title": "دستگاه ماهیچه‌ای‌اسکلتی انسان"
+        },
+        {
+          "ID": 2612467,
+          "Title": "لیموی شیراز"
+        },
+        {
+          "ID": 2632017,
+          "Title": "پاشلک شال‌گردنی"
+        },
+        {
+          "ID": 2796587,
+          "Title": "چرخ‌ریسک خزری"
+        },
+        {
+          "ID": 3239388,
+          "Title": "اریگانوم اونیتس"
+        },
+        {
+          "ID": 3517210,
+          "Title": "درختان مرکبات"
+        },
+        {
+          "ID": 3661294,
+          "Title": "گندم"
+        },
+        {
+          "ID": 3919733,
+          "Title": "کوکر اسپانیل"
+        },
+        {
+          "ID": 3963718,
+          "Title": "گرده‌افشان"
+        },
+        {
+          "ID": 4337224,
+          "Title": "پای مرنگ لیمو"
+        },
+        {
+          "ID": 4372143,
+          "Title": "گوجه‌فرنگی گیلاسی"
+        },
+        {
+          "ID": 4781817,
+          "Title": "گاه‌شماری مایا"
+        }
+      ]
+    },
+    {
+      "ID": 2147483643,
+      "Title": "People and self",
+      "Abstract": "A collection of people often refers to a general group, such as all humans, an ethnic group or a nation. An individual person is the self, from his or her own perspective. To you, \"self\" is you. To someone else, \"self\" is that person. A biography is a genre of literature or film, which presents a relatively full account of the most interesting and important events of a notable person's life.\n\nLife or personal life or human existence is an individual human's personal, private experience of living (including their employment career, their family life, and other elements). In prehistoric times, life and existence was based on survival. There was little privacy and a person was identified by their role in the group. In modern times, many people have even come to think of their personal lives as if they are separate from their work. This segmentation of \"life areas\" is evident in such phrases as \"work life\", \"home life\", and \"sex life.\" The meaning or role of a person's \"life\" or \"human existence\" is discussed in many religions and philosophies. In Western industrialized countries, there are a variety of service industries that help people improve their personal lives, such as counselling and life coaching companies",
+      "Categories": [
+        {
+          "ID": 43518,
+          "Title": "رده:شخصیت‌های فیلم‌ها"
+        },
+        {
+          "ID": 112317,
+          "Title": "رده:افراد"
+        },
+        {
+          "ID": 115857,
+          "Title": "رده:زنان"
+        },
+        {
+          "ID": 204413,
+          "Title": "رده:نام‌های خانوادگی"
+        },
+        {
+          "ID": 265335,
+          "Title": "رده:زندگی شخصی"
+        },
+        {
+          "ID": 265339,
+          "Title": "رده:خود"
+        },
+        {
+          "ID": 716982,
+          "Title": "رده:هنرمندان بر پایه رسانه"
+        }
+      ],
+      "Articles": [
+        {
+          "ID": 950,
+          "Title": "کریستف کلمب"
+        },
+        {
+          "ID": 3894,
+          "Title": "آدولف هیتلر"
+        },
+        {
+          "ID": 7237,
+          "Title": "آلن تورینگ"
+        },
+        {
+          "ID": 7367,
+          "Title": "چارلز ببیج"
+        },
+        {
+          "ID": 13301,
+          "Title": "زیگموند فروید"
+        },
+        {
+          "ID": 17205,
+          "Title": "ویلیام بلیک"
+        },
+        {
+          "ID": 24457,
+          "Title": "ریشارد واگنر"
+        },
+        {
+          "ID": 27683,
+          "Title": "آدام اسمیت"
+        },
+        {
+          "ID": 28536,
+          "Title": "جان لنون"
+        },
+        {
+          "ID": 30730,
+          "Title": "لئوناردو فیبوناچی"
+        },
+        {
+          "ID": 34493,
+          "Title": "دنیل ردکلیف"
+        },
+        {
+          "ID": 42409,
+          "Title": "رنه دکارت"
+        },
+        {
+          "ID": 50737,
+          "Title": "التون جان"
+        },
+        {
+          "ID": 58830,
+          "Title": "نوآم چامسکی"
+        },
+        {
+          "ID": 58974,
+          "Title": "بیل گیتس"
+        },
+        {
+          "ID": 59086,
+          "Title": "کارل فریدریش گاوس"
+        },
+        {
+          "ID": 89398,
+          "Title": "جرج هریسون"
+        },
+        {
+          "ID": 112112,
+          "Title": "الکساندر فلمینگ"
+        },
+        {
+          "ID": 144631,
+          "Title": "گالیلئو گالیله"
+        },
+        {
+          "ID": 145897,
+          "Title": "ریچارد داوکینز"
+        },
+        {
+          "ID": 150899,
+          "Title": "فلورانس نایتینگل"
+        },
+        {
+          "ID": 152639,
+          "Title": "الیور کرامول"
+        },
+        {
+          "ID": 171811,
+          "Title": "تئودور شوان"
+        },
+        {
+          "ID": 183124,
+          "Title": "باب راس"
+        },
+        {
+          "ID": 207563,
+          "Title": "هری هودینی"
+        },
+        {
+          "ID": 233306,
+          "Title": "توماس آکویناس"
+        },
+        {
+          "ID": 264021,
+          "Title": "کارل سیگن"
+        },
+        {
+          "ID": 290879,
+          "Title": "آین رند"
+        },
+        {
+          "ID": 344385,
+          "Title": "یوهانس کپلر"
+        },
+        {
+          "ID": 393378,
+          "Title": "لوئیس کارول"
+        },
+        {
+          "ID": 451263,
+          "Title": "جیکوب بلک"
+        },
+        {
+          "ID": 534295,
+          "Title": "جوزف اسمیت"
+        },
+        {
+          "ID": 776390,
+          "Title": "بیگ شو"
+        },
+        {
+          "ID": 835587,
+          "Title": "سرینیواسا رامانوجان"
+        },
+        {
+          "ID": 861348,
+          "Title": "ایروینگ لانگمویر"
+        },
+        {
+          "ID": 922394,
+          "Title": "شلدون کوپر"
+        },
+        {
+          "ID": 1069685,
+          "Title": "آندرس بریویک"
+        },
+        {
+          "ID": 1843947,
+          "Title": "تد کروز"
+        },
+        {
+          "ID": 1853378,
+          "Title": "کوری مونتیه"
+        },
+        {
+          "ID": 2568681,
+          "Title": "کارل فریدریش آبل"
+        },
+        {
+          "ID": 3344083,
+          "Title": "جنت مارگولین"
+        },
+        {
+          "ID": 3520416,
+          "Title": "مدولارک لمون"
+        },
+        {
+          "ID": 4270186,
+          "Title": "استفان لوچنر"
+        }
+      ]
+    },
+    {
+      "ID": 2147483644,
+      "Title": "Philosophy and thinking",
+      "Abstract": "Philosophy has almost as many definitions as there have been philosophers, both as a subject matter and an activity, and no simple definition can do it justice. The issue of the definition of philosophy is thus a controversial subject that is nowadays tackled by Metaphilosophy (or the philosophy of philosophy). The word is derived from the ancient Greek words philo-, to love or to befriend, and -sophia, wisdom. Modern usage of the term is much broader; the concept of philosophy encompasses all of knowledge and all that can be known, including the means by which such knowledge can be acquired. However, in the contemporary English-speaking academic world, the term is often used implicitly to refer to analytic philosophy and, in non-English speaking countries, it often refers implicitly to a different, European strain, continental philosophy. The ancient Greeks organized the subject into five basic categories: metaphysics, epistemology, ethics, politics and aesthetics. This organization of the subject is still largely in use in Western philosophy today.\n\nThought or thinking is a mental process which allows beings to model the world, and so to deal with it effectively according to their goals, plans, ends and desires. Words referring to similar concepts and processes in the English language include cognition, sentience, consciousness, idea, and imagination. Thinking involves the cerebral manipulation of information, as when we form concepts, engage in problem solving, reason and make decisions. Thinking is a higher cognitive function and the analysis of thinking processes is part of cognitive psychology",
+      "Categories": [
+        {
+          "ID": 28616,
+          "Title": "رده:فلسفه"
+        },
+        {
+          "ID": 147962,
+          "Title": "رده:نظریه‌های فلسفی"
+        },
+        {
+          "ID": 155926,
+          "Title": "رده:اندیشه"
+        },
+        {
+          "ID": 206357,
+          "Title": "رده:شاخه‌های فلسفه"
+        },
+        {
+          "ID": 226234,
+          "Title": "رده:ایدئولوژی‌ها"
+        },
+        {
+          "ID": 406385,
+          "Title": "رده:مکتب‌ها و سنت‌های فلسفی"
+        },
+        {
+          "ID": 411264,
+          "Title": "رده:فلسفه اخلاق"
+        }
+      ],
+      "Articles": [
+        {
+          "ID": 204150,
+          "Title": "زیبایی"
+        },
+        {
+          "ID": 433209,
+          "Title": "خوشحالی"
+        },
+        {
+          "ID": 3234293,
+          "Title": "اثر دانینگ-کروگر"
+        },
+        {
+          "ID": 3686656,
+          "Title": "وجود مسلم"
+        }
+      ]
+    },
+    {
+      "ID": 2147483645,
+      "Title": "Religion and belief systems",
+      "Abstract": "Religion is the adherence to codified beliefs and rituals that generally involve a faith in a spiritual nature and a study of inherited ancestral traditions, knowledge and wisdom related to understanding human life. The term \"religion\" refers to both the personal practices related to faith as well as to the larger shared systems of belief.\n\nA belief system can refer to a religion or a world view. A world view (or worldview) is a term calqued from the German word Weltanschauung Welt is the German word for 'world,' and Anschauung is the German word for 'view' or 'outlook'. It is a concept fundamental to German philosophy and epistemology and refers to a wide world perception. Additionally, it refers to the framework of ideas and beliefs through which an individual interprets the world and interacts in it",
+      "Categories": [
+        {
+          "ID": 3711,
+          "Title": "رده:باورها"
+        },
+        {
+          "ID": 34684,
+          "Title": "رده:دین"
+        },
+        {
+          "ID": 61453,
+          "Title": "رده:اسطوره‌شناسی"
+        },
+        {
+          "ID": 147962,
+          "Title": "رده:نظریه‌های فلسفی"
+        },
+        {
+          "ID": 260506,
+          "Title": "رده:سکولاریسم"
+        },
+        {
+          "ID": 285763,
+          "Title": "رده:ادیان هندی"
+        },
+        {
+          "ID": 508049,
+          "Title": "رده:مذهب‌ها، سنت‌ها، و جنبش‌ها"
+        },
+        {
+          "ID": 614016,
+          "Title": "رده:نقد دین"
+        },
+        {
+          "ID": 1097376,
+          "Title": "رده:انسان‌شناسی دینی"
+        },
+        {
+          "ID": 1701970,
+          "Title": "رده:مناقشه‌های دینی"
+        },
+        {
+          "ID": 1786832,
+          "Title": "رده:ناخداباوری"
+        }
+      ]
+    },
+    {
+      "ID": 2147483646,
+      "Title": "Society and social sciences",
+      "Abstract": "A society is a group of people who form a semi-closed system. At its simplest, the term society refers to a large group of people sharing their own culture and institutions. A society is a network of relationships between people. The English word society is derived from the French société, which had its origin in the Latin societas, a \"friendly association with others,\" from socius meaning \"companion, associate, comrade or business partner.\" Thus, the meaning of society is closely related to what is considered to be social. Implicit in the meaning of society is that its members may share some mutual concern or interest, a common objective or common characteristics. The social sciences generally use the term society to mean a group of people who form a semi-closed social system, in which most interactions are with other individuals belonging to the group. More abstractly, a society is defined as a network of relationships between social entities. A society is also sometimes defined as an interdependent community, but the sociologist Tönnies sought to draw a contrast between society and community. An important feature of society is social structure, aspects of which include roles and social ranking.\n\nThe social science are a group of academic disciplines that study human aspects of the world. They differ from the arts and the humanities, in that the social science tend to emphasize the use of the scientific method in the study of humanity, including quantitative and qualitative methods",
+      "Categories": [
+        {
+          "ID": 6258,
+          "Title": "رده:سازمان‌های بین‌المللی"
+        },
+        {
+          "ID": 112945,
+          "Title": "رده:جامعه"
+        },
+        {
+          "ID": 181300,
+          "Title": "رده:فمینیسم"
+        },
+        {
+          "ID": 182480,
+          "Title": "رده:علوم اجتماعی"
+        },
+        {
+          "ID": 1814110,
+          "Title": "رده:حق"
+        }
+      ],
+      "Articles": [
+        {
+          "ID": 3120,
+          "Title": "اتحادیه اروپا"
+        },
+        {
+          "ID": 6791,
+          "Title": "دانشگاه تهران"
+        },
+        {
+          "ID": 10788,
+          "Title": "بی‌پی"
+        },
+        {
+          "ID": 11930,
+          "Title": "دانشگاه باث"
+        },
+        {
+          "ID": 11993,
+          "Title": "دانشگاه ساوت‌همپتون"
+        },
+        {
+          "ID": 14232,
+          "Title": "دانشگاه پرینستون"
+        },
+        {
+          "ID": 21780,
+          "Title": "دانشگاه آزاد اسلامی"
+        },
+        {
+          "ID": 24625,
+          "Title": "دانشگاه مالایا"
+        },
+        {
+          "ID": 25690,
+          "Title": "دانشگاه استنفورد"
+        },
+        {
+          "ID": 26200,
+          "Title": "دانشگاه توبینگن"
+        },
+        {
+          "ID": 28317,
+          "Title": "مؤسسه فناوری ماساچوست"
+        },
+        {
+          "ID": 30093,
+          "Title": "امپریال کالج لندن"
+        },
+        {
+          "ID": 30172,
+          "Title": "دانشگاه بغازیچی"
+        },
+        {
+          "ID": 30180,
+          "Title": "ساعت تابستانی"
+        },
+        {
+          "ID": 39003,
+          "Title": "دانشگاه کمبریج"
+        },
+        {
+          "ID": 39506,
+          "Title": "دانشگاه هاروارد"
+        },
+        {
+          "ID": 47079,
+          "Title": "دفتر ملی بایگانی و مدارک آمریکا"
+        },
+        {
+          "ID": 55908,
+          "Title": "دانشگاه سنت اندروز"
+        },
+        {
+          "ID": 88331,
+          "Title": "دانشگاه توکیو"
+        },
+        {
+          "ID": 89047,
+          "Title": "دانشگاه تگزاس در آستین"
+        },
+        {
+          "ID": 90271,
+          "Title": "دانشگاه تنسی"
+        },
+        {
+          "ID": 92433,
+          "Title": "دانشگاه وسترن انتاریو"
+        },
+        {
+          "ID": 112019,
+          "Title": "استارباکس"
+        },
+        {
+          "ID": 114836,
+          "Title": "دانشگاه کوئینزلند"
+        },
+        {
+          "ID": 116937,
+          "Title": "پرچم استرالیا"
+        },
+        {
+          "ID": 123578,
+          "Title": "دانشگاه عبری اورشلیم"
+        },
+        {
+          "ID": 144773,
+          "Title": "دانشگاه بولونیا"
+        },
+        {
+          "ID": 146112,
+          "Title": "دانشگاه کلمبیا"
+        },
+        {
+          "ID": 146114,
+          "Title": "دانشگاه پنسیلوانیا"
+        },
+        {
+          "ID": 146657,
+          "Title": "امریکن ایرلاینز"
+        },
+        {
+          "ID": 147147,
+          "Title": "دانشگاه شیکاگو"
+        },
+        {
+          "ID": 147162,
+          "Title": "دانشگاه ایالتی اوهایو"
+        },
+        {
+          "ID": 147306,
+          "Title": "دانشگاه مریلند، کالج پارک"
+        },
+        {
+          "ID": 147307,
+          "Title": "دانشگاه مینه‌سوتا"
+        },
+        {
+          "ID": 147308,
+          "Title": "دانشگاه واشینگتن"
+        },
+        {
+          "ID": 147310,
+          "Title": "دانشگاه ویرجینیا"
+        },
+        {
+          "ID": 147312,
+          "Title": "دانشگاه میشیگان"
+        },
+        {
+          "ID": 147313,
+          "Title": "دانشگاه آریزونا"
+        },
+        {
+          "ID": 148066,
+          "Title": "دانشگاه رایس"
+        },
+        {
+          "ID": 148067,
+          "Title": "دانشگاه اورگن"
+        },
+        {
+          "ID": 148070,
+          "Title": "دانشگاه میزوری"
+        },
+        {
+          "ID": 148138,
+          "Title": "دانشگاه آیووا"
+        },
+        {
+          "ID": 148142,
+          "Title": "دانشگاه ایندیانا"
+        },
+        {
+          "ID": 148146,
+          "Title": "دانشگاه تولین"
+        },
+        {
+          "ID": 148197,
+          "Title": "دانشگاه دلاویر"
+        },
+        {
+          "ID": 148385,
+          "Title": "دانشگاه هیوستون"
+        },
+        {
+          "ID": 150572,
+          "Title": "دانشگاه دنور"
+        },
+        {
+          "ID": 152684,
+          "Title": "دانشگاه بوستون"
+        },
+        {
+          "ID": 152721,
+          "Title": "دانشگاه سینسینتی"
+        },
+        {
+          "ID": 154136,
+          "Title": "دانشگاه واشینگتن در سن‌لوئیس"
+        },
+        {
+          "ID": 154943,
+          "Title": "دانشگاه ایالتی نیویورک در بافلو"
+        },
+        {
+          "ID": 154966,
+          "Title": "دانشگاه کالیفرنیای جنوبی"
+        },
+        {
+          "ID": 156106,
+          "Title": "دانشگاه میسیسیپی"
+        },
+        {
+          "ID": 156110,
+          "Title": "دانشگاه آلاباما"
+        },
+        {
+          "ID": 156842,
+          "Title": "دانشگاه امریکن"
+        },
+        {
+          "ID": 156881,
+          "Title": "دانشگاه مونستر"
+        },
+        {
+          "ID": 156998,
+          "Title": "دانشگاه ویسکانسین در میلواکی"
+        },
+        {
+          "ID": 157660,
+          "Title": "دانشگاه مونتانا"
+        },
+        {
+          "ID": 157700,
+          "Title": "دانشگاه ایلینوی در شیکاگو"
+        },
+        {
+          "ID": 159149,
+          "Title": "سامانه دانشگاه تگزاس"
+        },
+        {
+          "ID": 160152,
+          "Title": "دانشگاه ساسکاچوان"
+        },
+        {
+          "ID": 160164,
+          "Title": "دانشگاه واترلو"
+        },
+        {
+          "ID": 160319,
+          "Title": "فاکس نیوز"
+        },
+        {
+          "ID": 160399,
+          "Title": "دانشگاه لندن"
+        },
+        {
+          "ID": 166518,
+          "Title": "دانشگاه آکسفورد"
+        },
+        {
+          "ID": 173852,
+          "Title": "نیویورک تایمز"
+        },
+        {
+          "ID": 174710,
+          "Title": "اقتصاد ایران"
+        },
+        {
+          "ID": 179036,
+          "Title": "دانشگاه تولیدو"
+        },
+        {
+          "ID": 183708,
+          "Title": "متمم چهارم قانون اساسی ایالات متحده آمریکا"
+        },
+        {
+          "ID": 184428,
+          "Title": "برنامه محیط زیست سازمان ملل متحد"
+        },
+        {
+          "ID": 202072,
+          "Title": "دانشگاه دیتون"
+        },
+        {
+          "ID": 202090,
+          "Title": "دانشگاه میامی"
+        },
+        {
+          "ID": 207688,
+          "Title": "دانشگاه سنت لوئیس"
+        },
+        {
+          "ID": 211253,
+          "Title": "دانشگاه پنجاب"
+        },
+        {
+          "ID": 211900,
+          "Title": "دانشگاه یوتبری"
+        },
+        {
+          "ID": 216495,
+          "Title": "دانشگاه شهری نیویورک"
+        },
+        {
+          "ID": 219077,
+          "Title": "دانشگاه کویینز"
+        },
+        {
+          "ID": 221750,
+          "Title": "دانشگاه کلن"
+        },
+        {
+          "ID": 221756,
+          "Title": "دانشگاه وین"
+        },
+        {
+          "ID": 233542,
+          "Title": "دانشگاه ملی سئول"
+        },
+        {
+          "ID": 254524,
+          "Title": "تراست (کسب‌وکار)"
+        },
+        {
+          "ID": 259277,
+          "Title": "مددکاری اجتماعی"
+        },
+        {
+          "ID": 288814,
+          "Title": "سیاست در شیلی"
+        },
+        {
+          "ID": 295490,
+          "Title": "ریزکشور"
+        },
+        {
+          "ID": 296106,
+          "Title": "دانشگاه دولتی مسکو"
+        },
+        {
+          "ID": 301022,
+          "Title": "سال نو چینی"
+        },
+        {
+          "ID": 301293,
+          "Title": "دانشگاه پاریس"
+        },
+        {
+          "ID": 307426,
+          "Title": "دانشگاه فرایبورگ"
+        },
+        {
+          "ID": 311960,
+          "Title": "دانشگاه دولتی"
+        },
+        {
+          "ID": 313678,
+          "Title": "دانشگاه سیدنی"
+        },
+        {
+          "ID": 327150,
+          "Title": "دانشگاه ایالتی ایلینوی"
+        },
+        {
+          "ID": 337611,
+          "Title": "دانشگاه بن"
+        },
+        {
+          "ID": 348436,
+          "Title": "دانشگاه کنتربری"
+        },
+        {
+          "ID": 348437,
+          "Title": "دانشگاه اتاگو"
+        },
+        {
+          "ID": 348474,
+          "Title": "دانشگاه آکلند"
+        },
+        {
+          "ID": 355395,
+          "Title": "دانشگاه شفیلد"
+        },
+        {
+          "ID": 361954,
+          "Title": "دانشگاه لیورپول"
+        },
+        {
+          "ID": 363841,
+          "Title": "دانشگاه اکستر"
+        },
+        {
+          "ID": 391972,
+          "Title": "دانشگاه بریستول"
+        },
+        {
+          "ID": 414099,
+          "Title": "دانشگاه گلاسگو"
+        },
+        {
+          "ID": 481652,
+          "Title": "اسکناس‌های درشت ایالات متحده آمریکا"
+        },
+        {
+          "ID": 494721,
+          "Title": "پیتزا هات"
+        },
+        {
+          "ID": 621730,
+          "Title": "دانشگاه اسلامی علیگر"
+        },
+        {
+          "ID": 641620,
+          "Title": "دانشگاه استکهلم"
+        },
+        {
+          "ID": 651532,
+          "Title": "دانشگاه ساسکس"
+        },
+        {
+          "ID": 655143,
+          "Title": "دانشگاه واریک"
+        },
+        {
+          "ID": 692646,
+          "Title": "دانشگاه منچستر"
+        },
+        {
+          "ID": 777819,
+          "Title": "دانشگاه لیدز"
+        },
+        {
+          "ID": 783020,
+          "Title": "دانشگاه اوپسالا"
+        },
+        {
+          "ID": 793134,
+          "Title": "دانشگاه گولف"
+        },
+        {
+          "ID": 862197,
+          "Title": "دانشگاه کلگری"
+        },
+        {
+          "ID": 863990,
+          "Title": "دانشگاه بیرمنگام"
+        },
+        {
+          "ID": 867666,
+          "Title": "دانشگاه آزاد انگلستان"
+        },
+        {
+          "ID": 885080,
+          "Title": "دانشگاه گوتینگن"
+        },
+        {
+          "ID": 902312,
+          "Title": "دانشگاه ناتینگهام"
+        },
+        {
+          "ID": 945957,
+          "Title": "دانشگاه لایپزیگ"
+        },
+        {
+          "ID": 1066838,
+          "Title": "دانشگاه تارتو"
+        },
+        {
+          "ID": 1132422,
+          "Title": "جنگ جهانی سوم"
+        },
+        {
+          "ID": 1164229,
+          "Title": "دانشگاه دولتی سن پترزبورگ"
+        },
+        {
+          "ID": 1483396,
+          "Title": "دانشگاه چینهوا"
+        },
+        {
+          "ID": 1484347,
+          "Title": "دانشگاه لینه"
+        },
+        {
+          "ID": 1525497,
+          "Title": "دانشگاه منیتوبا"
+        },
+        {
+          "ID": 1569539,
+          "Title": "پایگاه هوایی چارلزتاون"
+        },
+        {
+          "ID": 1651630,
+          "Title": "دانشگاه برن"
+        },
+        {
+          "ID": 1791659,
+          "Title": "دانشگاه جواهر لعل نهرو"
+        },
+        {
+          "ID": 1928592,
+          "Title": "دانشگاه فدریکو دوم (ناپل)"
+        },
+        {
+          "ID": 2314040,
+          "Title": "تاکو بل"
+        },
+        {
+          "ID": 2314295,
+          "Title": "دومینوز پیتزا"
+        },
+        {
+          "ID": 2514008,
+          "Title": "دانشگاه اومئو"
+        },
+        {
+          "ID": 2622010,
+          "Title": "تایمز هند"
+        },
+        {
+          "ID": 2787155,
+          "Title": "دانشگاه وورتسبورگ"
+        },
+        {
+          "ID": 3385945,
+          "Title": "دانشگاه مریلند، بالتیمور"
+        },
+        {
+          "ID": 3389827,
+          "Title": "دانشگاه هال"
+        },
+        {
+          "ID": 3447798,
+          "Title": "دانشگاه کنت"
+        },
+        {
+          "ID": 3449286,
+          "Title": "دانشگاه اکران"
+        },
+        {
+          "ID": 3470661,
+          "Title": "دانشگاه راش"
+        },
+        {
+          "ID": 3496024,
+          "Title": "دانشگاه پلیموث"
+        },
+        {
+          "ID": 3503119,
+          "Title": "دانشگاه تاوسان"
+        },
+        {
+          "ID": 3590370,
+          "Title": "دانشگاه آبردین (اسکاتلند)"
+        },
+        {
+          "ID": 3704882,
+          "Title": "دانشگاه برسلاو"
+        },
+        {
+          "ID": 3719711,
+          "Title": "دانشگاه تریسته"
+        },
+        {
+          "ID": 3757014,
+          "Title": "دانشگاه دهلی"
+        },
+        {
+          "ID": 3758377,
+          "Title": "دانشگاه ریکیئو"
+        },
+        {
+          "ID": 3775809,
+          "Title": "ممنوعیت الکل"
+        },
+        {
+          "ID": 3830481,
+          "Title": "دانشگاه کینگستون"
+        },
+        {
+          "ID": 3835323,
+          "Title": "دانشگاه میلان"
+        },
+        {
+          "ID": 3840156,
+          "Title": "دانشگاه توهوکو"
+        },
+        {
+          "ID": 3875416,
+          "Title": "دانشگاه نپیر ادینبورگ"
+        },
+        {
+          "ID": 3877288,
+          "Title": "دانشگاه ملی استرالیا"
+        },
+        {
+          "ID": 3877419,
+          "Title": "دانشگاه اوساکا"
+        },
+        {
+          "ID": 3915599,
+          "Title": "حمله ۲۰۱۷ وست‌مینستر"
+        },
+        {
+          "ID": 3924750,
+          "Title": "دانشگاه لووف"
+        },
+        {
+          "ID": 3957510,
+          "Title": "دانشگاه ریدینگ"
+        },
+        {
+          "ID": 4057538,
+          "Title": "دانشگاه چستر"
+        },
+        {
+          "ID": 4057547,
+          "Title": "دانشگاه داربی"
+        },
+        {
+          "ID": 4057559,
+          "Title": "دانشگاه وینچستر"
+        },
+        {
+          "ID": 4061710,
+          "Title": "دانشگاه مموریال نیوفاندلند"
+        },
+        {
+          "ID": 4596318,
+          "Title": "دانشگاه پادووا"
+        },
+        {
+          "ID": 4622848,
+          "Title": "دانشگاه کلکته"
+        },
+        {
+          "ID": 4644581,
+          "Title": "دانشگاه مومبای"
+        },
+        {
+          "ID": 4647947,
+          "Title": "دانشگاه اولستر"
+        },
+        {
+          "ID": 4736441,
+          "Title": "دانشگاه ولونگونگ"
+        },
+        {
+          "ID": 4738433,
+          "Title": "دانشگاه نیوکاسل (استرالیا)"
+        },
+        {
+          "ID": 4740826,
+          "Title": "دانشگاه لا تروب"
+        },
+        {
+          "ID": 4741880,
+          "Title": "دانشگاه تاسمانی"
+        },
+        {
+          "ID": 4772041,
+          "Title": "دانشگاه ایندیانا بلومینگتون"
+        },
+        {
+          "ID": 4794614,
+          "Title": "دانشگاه لندن سیتی"
+        },
+        {
+          "ID": 4808996,
+          "Title": "دانشگاه لینشوپینگ"
+        }
+      ]
+    },
+    {
+      "ID": 2147483647,
+      "Title": "Technology and applied sciences",
+      "Abstract": "Technology is an expanded concept that deals with a species' usage and knowledge of tools and crafts, and how it affects a species' ability to control and adapt to its environment. In human civilization, it is a consequence of science and engineering, although several technological advances predate the formalization of these two disciplines. The term can either be applied generally or to specific areas – examples include construction technology, medical technology, or state-of-the-art technology.\n\nThe human race's use of technology began with the conversion of plentiful natural resources into simple tools. The prehistorical discovery of the ability to control fire increased the available sources of food, and the invention of the wheel helped humans in travelling in and controlling their environment. Recent technological developments, including the printing press and the Internet, have lessened physical barriers to communication and allowed humans to interact on a global scale. However, not all technology has been used for peaceful purposes; the development of weapons of ever-increasing destructive power has progressed throughout history, from clubs to nuclear bombs.\n\nApplied science is the application of knowledge from one or more natural scientific fields to solving practical problems. For example, fields of engineering are applied sciences. Applied science is important for technology development. Its use in industrial settings is usually referred to as research and development (R\u0026D)",
+      "Categories": [
+        {
+          "ID": 9425,
+          "Title": "رده:الکترونیک"
+        },
+        {
+          "ID": 15602,
+          "Title": "رده:اینترنت"
+        },
+        {
+          "ID": 19340,
+          "Title": "رده:علوم رایانه"
+        },
+        {
+          "ID": 21891,
+          "Title": "رده:مهندسی"
+        },
+        {
+          "ID": 41366,
+          "Title": "رده:علوم کاربردی"
+        },
+        {
+          "ID": 51172,
+          "Title": "رده:فناوری"
+        },
+        {
+          "ID": 151769,
+          "Title": "رده:تاریخ فناوری"
+        },
+        {
+          "ID": 153522,
+          "Title": "رده:طراحی"
+        },
+        {
+          "ID": 172374,
+          "Title": "رده:ترابری"
+        },
+        {
+          "ID": 263386,
+          "Title": "رده:رایانش"
+        },
+        {
+          "ID": 264512,
+          "Title": "رده:فناوری بر پایه نوع"
+        },
+        {
+          "ID": 356581,
+          "Title": "رده:تجهیزات نظامی"
+        },
+        {
+          "ID": 503680,
+          "Title": "رده:گاه‌شمار فناوری"
+        }
+      ],
+      "Articles": [
+        {
+          "ID": 15871,
+          "Title": "پپسی"
+        },
+        {
+          "ID": 150828,
+          "Title": "اتصال دم‌چلچله‌ای"
+        },
+        {
+          "ID": 218129,
+          "Title": "آدامس"
+        },
+        {
+          "ID": 271016,
+          "Title": "جوشکاری تیگ"
+        },
+        {
+          "ID": 448682,
+          "Title": ".xxx"
+        },
+        {
+          "ID": 529880,
+          "Title": "دیوار"
+        },
+        {
+          "ID": 1786458,
+          "Title": "بنایی"
+        },
+        {
+          "ID": 2545371,
+          "Title": "امکان‌سنجی"
+        },
+        {
+          "ID": 3796242,
+          "Title": "مانتین دیو"
+        },
+        {
+          "ID": 4367985,
+          "Title": "مدیریت ارتباطات"
+        }
+      ]
+    }
+  ],
+  "Filters": [
+    {
+      "ID": 200616,
+      "Title": "رده:رده‌های پنهان"
+    },
+    {
+      "ID": 415827,
+      "Title": "رده:صفحه‌های ابهام‌زدایی"
+    }
+  ]
+}

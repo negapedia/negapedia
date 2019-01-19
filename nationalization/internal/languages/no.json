@@ -1,0 +1,1672 @@
+{
+  "Language": "no",
+  "Topics": [
+    {
+      "ID": 2147483637,
+      "Title": "Culture and the arts",
+      "Abstract": "The word culture is derived from the Latin root cultura or cultus meaning to \"inhabit, cultivate, or honour\". In general, culture refers to human activity; different definitions of culture reflect different theories for understanding, or criteria for valuing human activity. Present day Anthropologists use the term to refer to the universal human capacity to classify experiences and to encode and communicate them symbolically. They regard this capacity as a defining feature of the genus Homo. Since culture is learned, people living in different places have different cultures. There can be different cultures in different countries, and there can also be shared cultures among continents.\n\nThe arts are a vast subdivision of culture, composed of many creative endeavors and disciplines. It is a broader term than \"art,\" which as a description of a field usually means only the visual arts. The arts encompasses visual arts, literary arts and the performing arts - music, theatre, dance, spoken word and film, among others.\n\nArt, in its broadest meaning, is the expression of creativity or imagination. The word art comes from the Latin word ars, which, loosely translated, means \"arrangement\". Art is commonly understood as the act of making works (or artworks) which use the human creative impulse and which have meaning beyond simple description. Art is often distinguished from crafts and recreational hobby activities. The term creative arts denotes a collection of disciplines whose principal purpose is the output of material for the viewer or audience to interpret. As such, art may be taken to include forms as diverse as prose writing, poetry, dance, acting or drama, film, music, sculpture, photography, illustration, architecture, collage, painting, craft and fashion. Art may also be understood as relating to creativity, æsthetics and the generation of emotion",
+      "Categories": [
+        {
+          "ID": 9247,
+          "Title": "Kategori:Sport"
+        },
+        {
+          "ID": 9823,
+          "Title": "Kategori:Filmer"
+        },
+        {
+          "ID": 10950,
+          "Title": "Kategori:Kunst"
+        },
+        {
+          "ID": 12194,
+          "Title": "Kategori:Mat"
+        },
+        {
+          "ID": 14135,
+          "Title": "Kategori:Underholdning"
+        },
+        {
+          "ID": 30746,
+          "Title": "Kategori:Hobbyer"
+        },
+        {
+          "ID": 70393,
+          "Title": "Kategori:Rekreasjon"
+        },
+        {
+          "ID": 293987,
+          "Title": "Kategori:Musikkgrupper"
+        },
+        {
+          "ID": 380118,
+          "Title": "Kategori:Kultur"
+        }
+      ],
+      "Articles": [
+        {
+          "ID": 3941,
+          "Title": "Øl"
+        },
+        {
+          "ID": 3951,
+          "Title": "Kaffe"
+        },
+        {
+          "ID": 5987,
+          "Title": "Green Day"
+        },
+        {
+          "ID": 14107,
+          "Title": "Led Zeppelin"
+        },
+        {
+          "ID": 22024,
+          "Title": "Galtvort høyere skole for hekseri og trolldom"
+        },
+        {
+          "ID": 23470,
+          "Title": "Sjokolade"
+        },
+        {
+          "ID": 31331,
+          "Title": "Spøkelse"
+        },
+        {
+          "ID": 31999,
+          "Title": "Buckingham Palace"
+        },
+        {
+          "ID": 34889,
+          "Title": "The World Factbook"
+        },
+        {
+          "ID": 40282,
+          "Title": "Pizza"
+        },
+        {
+          "ID": 40369,
+          "Title": "AC/DC"
+        },
+        {
+          "ID": 42799,
+          "Title": "Brød"
+        },
+        {
+          "ID": 46880,
+          "Title": "Sølibat"
+        },
+        {
+          "ID": 55712,
+          "Title": "Kake"
+        },
+        {
+          "ID": 59694,
+          "Title": "Dinosaur Jr."
+        },
+        {
+          "ID": 68587,
+          "Title": "M\u0026M's"
+        },
+        {
+          "ID": 69066,
+          "Title": "Bacon"
+        },
+        {
+          "ID": 69074,
+          "Title": "Hvit sjokolade"
+        },
+        {
+          "ID": 89158,
+          "Title": "Farse (mat)"
+        },
+        {
+          "ID": 89652,
+          "Title": "Pasta"
+        },
+        {
+          "ID": 89960,
+          "Title": "Ruotine"
+        },
+        {
+          "ID": 94676,
+          "Title": "Sgt. Pepper's Lonely Hearts Club Band"
+        },
+        {
+          "ID": 104808,
+          "Title": "Pilsner"
+        },
+        {
+          "ID": 140170,
+          "Title": "Speilegg"
+        },
+        {
+          "ID": 270593,
+          "Title": "Alkoholfritt øl"
+        },
+        {
+          "ID": 280063,
+          "Title": "Scotch egg"
+        },
+        {
+          "ID": 327063,
+          "Title": "Skinke"
+        },
+        {
+          "ID": 332335,
+          "Title": "Ash Ketchum"
+        },
+        {
+          "ID": 341901,
+          "Title": "Nessie"
+        },
+        {
+          "ID": 346687,
+          "Title": "Kyskhet"
+        },
+        {
+          "ID": 358308,
+          "Title": "Aqua"
+        },
+        {
+          "ID": 416458,
+          "Title": "Ingefærøl"
+        },
+        {
+          "ID": 432099,
+          "Title": "Taco"
+        },
+        {
+          "ID": 439006,
+          "Title": "Rock Band"
+        },
+        {
+          "ID": 451872,
+          "Title": "Realisme (litteratur)"
+        },
+        {
+          "ID": 467990,
+          "Title": "Bitter (øl)"
+        },
+        {
+          "ID": 471110,
+          "Title": "Piskede masser"
+        },
+        {
+          "ID": 494101,
+          "Title": "Encyklopedi"
+        },
+        {
+          "ID": 497938,
+          "Title": "Supplì"
+        },
+        {
+          "ID": 497949,
+          "Title": "Pasta alla carbonara"
+        },
+        {
+          "ID": 543817,
+          "Title": "Sjokolademelk"
+        },
+        {
+          "ID": 543998,
+          "Title": "Kakao (drikk)"
+        },
+        {
+          "ID": 585565,
+          "Title": "Pølse i brød"
+        },
+        {
+          "ID": 595649,
+          "Title": "Wikipedia"
+        },
+        {
+          "ID": 604450,
+          "Title": "Egg (mat)"
+        },
+        {
+          "ID": 626315,
+          "Title": "Tomatsuppe"
+        },
+        {
+          "ID": 631415,
+          "Title": "Mild ale"
+        },
+        {
+          "ID": 711124,
+          "Title": "Chicken tikka masala"
+        },
+        {
+          "ID": 836760,
+          "Title": "Tusenårsegg"
+        },
+        {
+          "ID": 871149,
+          "Title": "WWE Championship"
+        },
+        {
+          "ID": 949920,
+          "Title": "Judas (sang)"
+        },
+        {
+          "ID": 1017022,
+          "Title": "The Wanted"
+        },
+        {
+          "ID": 1090787,
+          "Title": "Hangjanbeng"
+        },
+        {
+          "ID": 1096568,
+          "Title": "Knekk"
+        },
+        {
+          "ID": 1180737,
+          "Title": "Studieteknikk"
+        },
+        {
+          "ID": 1200988,
+          "Title": "Fortune cookie"
+        },
+        {
+          "ID": 1240578,
+          "Title": "Kick (film fra 2014)"
+        },
+        {
+          "ID": 1274440,
+          "Title": "Småkaker"
+        },
+        {
+          "ID": 1328616,
+          "Title": "Peanøttsmør"
+        },
+        {
+          "ID": 1419986,
+          "Title": "Eurovision Song Contest 2017"
+        },
+        {
+          "ID": 1481466,
+          "Title": "Eurovision Song Contest 2018"
+        },
+        {
+          "ID": 1570482,
+          "Title": "Cookie Crisp"
+        }
+      ]
+    },
+    {
+      "ID": 2147483638,
+      "Title": "Geography and places",
+      "Abstract": "Geography (Greek Geo (γη) or Gaea (γαία), meaning \"Earth\", and graphein (γράφειν) meaning \"to describe\" or \"to write\") is the study of the earth and its features, inhabitants, and phenomena. A literal translation would be \"to describe or write about the Earth\". The first person to use the word \"geography\" was Eratosthenes (275-195 B.C.). Four historical traditions in geographical research are the spatial analysis of natural and human phenomena (geography as a study of distribution), area studies (places and regions), study of man-land relationship, and research in earth sciences. Nonetheless, modern geography is an all-encompassing discipline that foremost seeks to understand the world and all of its human and natural complexities — not merely where objects are, but how they have changed and come to be. As \"the bridge between the human and physical sciences,\" geography is divided into two main branches — human geography and physical geography",
+      "Categories": [
+        {
+          "ID": 13178,
+          "Title": "Kategori:Geografi"
+        },
+        {
+          "ID": 65549,
+          "Title": "Kategori:Byplanlegging"
+        },
+        {
+          "ID": 213169,
+          "Title": "Kategori:Geografiske lister"
+        },
+        {
+          "ID": 1458011,
+          "Title": "Kategori:Geomorfologi"
+        }
+      ],
+      "Articles": [
+        {
+          "ID": 2973,
+          "Title": "Paris"
+        },
+        {
+          "ID": 13428,
+          "Title": "Canberra"
+        },
+        {
+          "ID": 13488,
+          "Title": "Venezia"
+        },
+        {
+          "ID": 24602,
+          "Title": "Queensland"
+        },
+        {
+          "ID": 564639,
+          "Title": "Aberfoyle"
+        },
+        {
+          "ID": 795014,
+          "Title": "Myanmar"
+        }
+      ]
+    },
+    {
+      "ID": 2147483639,
+      "Title": "Health and fitness",
+      "Abstract": "Health is the level of functional or metabolic efficiency of a living organism. In humans it is the ability of individuals or communities to adapt and self-manage when facing physical, mental or social challenges. The most widely accepted definition of good health is that of the World Health Organization Constitution. It states: \"health is a state of complete physical, mental and social well-being and is not merely the absence of disease or infirmity\" (World Health Organization, 1946). In more recent years, this statement has been amplified to include the ability to lead a \"socially and economically productive life.\" The WHO definition is not without criticism, mainly that it is much too broad.\n\nThe most solid aspects of wellness that fit firmly in the realm of medicine are environmental health, nutrition, disease prevention, and public health. These matters can be investigated at length and can assist in measuring well-being. Please see our medical disclaimer for cautions about Wikipedia's limitations",
+      "Categories": [
+        {
+          "ID": 13341,
+          "Title": "Kategori:Medisin"
+        },
+        {
+          "ID": 29927,
+          "Title": "Kategori:Helsepersonell"
+        },
+        {
+          "ID": 30676,
+          "Title": "Kategori:Helse"
+        },
+        {
+          "ID": 61052,
+          "Title": "Kategori:Helsevitenskap"
+        },
+        {
+          "ID": 62894,
+          "Title": "Kategori:Medisinske spesialiteter"
+        },
+        {
+          "ID": 156592,
+          "Title": "Kategori:Hygiene"
+        }
+      ]
+    },
+    {
+      "ID": 2147483640,
+      "Title": "History and events",
+      "Abstract": "History is the interpretation of past events, societies and civilizations. The term history comes from the Greek historia (ἱστορία), \"an account of one's inquiries,\" and shares that etymology with the English word story as narrative. The 1911 Encyclopædia Britannica stated that \"history in the wider sense is all that has happened, not merely all the phenomena of human life, but those of the natural world as well. It is everything that undergoes change; and as modern science has shown that there is nothing absolutely static, therefore, the whole universe, and every part of it, has its history.\" ",
+      "Categories": [
+        {
+          "ID": 13177,
+          "Title": "Kategori:Historie"
+        },
+        {
+          "ID": 21622,
+          "Title": "Kategori:Historiske hendelser"
+        },
+        {
+          "ID": 355775,
+          "Title": "Kategori:Valg etter år"
+        },
+        {
+          "ID": 379411,
+          "Title": "Kategori:Merkedager"
+        },
+        {
+          "ID": 840511,
+          "Title": "Kategori:Historie etter land"
+        }
+      ],
+      "Articles": [
+        {
+          "ID": 22268,
+          "Title": "Terrorangrepet 11. september 2001"
+        },
+        {
+          "ID": 24655,
+          "Title": "Holocaustbenektelse"
+        },
+        {
+          "ID": 57772,
+          "Title": "Den trojanske krig"
+        },
+        {
+          "ID": 177822,
+          "Title": "Patriot (den amerikanske revolusjon)"
+        },
+        {
+          "ID": 567608,
+          "Title": "Presidentvalget i USA 2012"
+        },
+        {
+          "ID": 772489,
+          "Title": "Deepwater Horizon-utblåsningen"
+        },
+        {
+          "ID": 890098,
+          "Title": "Jordskjelvet ved Tōhoku 2011"
+        },
+        {
+          "ID": 1426222,
+          "Title": "Terrorangrepet i Orlando 12. juni 2016"
+        }
+      ]
+    },
+    {
+      "ID": 2147483641,
+      "Title": "Mathematics and logic",
+      "Abstract": "Mathematics is the science of quantization. It is also the study of patterns and relationships, including concepts such as quantity, structure, space, uncertainty, and change. It evolved through the use of abstraction and logical reasoning, from counting, calculation, measurement, and the systematic study of positions, shapes and motions of physical objects. Mathematicians explore such concepts, aiming to formulate new conjectures and establish their truth by rigorous deduction from appropriately chosen axioms and definitions.\n\nLogic (from Classical Greek λόγος logos; meaning word, thought, idea, argument, account, reason or principle) is the study of the principles and criteria of valid inference and demonstration. As a formal science, logic investigates and classifies the structure of statements and arguments, both through the study of formal systems of inference and through the study of arguments in natural language. The field of logic ranges from core topics such as the study of fallacies and paradoxes, to specialized analysis of reasoning using probability and to arguments involving causality. Logic is also commonly used today in argumentation theory. Since the mid-nineteenth century formal logic has been studied in the context of the foundations of mathematics",
+      "Categories": [
+        {
+          "ID": 9274,
+          "Title": "Kategori:Matematikk"
+        },
+        {
+          "ID": 75982,
+          "Title": "Kategori:Statistikk"
+        },
+        {
+          "ID": 81934,
+          "Title": "Kategori:Logikk"
+        },
+        {
+          "ID": 1342100,
+          "Title": "Kategori:Anvendt matematikk"
+        },
+        {
+          "ID": 1342102,
+          "Title": "Kategori:Matematiske disipliner"
+        },
+        {
+          "ID": 1578351,
+          "Title": "Kategori:Matematiske konsepter"
+        },
+        {
+          "ID": 1578445,
+          "Title": "Kategori:Sannsynlighet og statistikk"
+        },
+        {
+          "ID": 1582403,
+          "Title": "Kategori:Teoretisk informatikk"
+        }
+      ],
+      "Articles": [
+        {
+          "ID": 38981,
+          "Title": "Lengde"
+        }
+      ]
+    },
+    {
+      "ID": 2147483642,
+      "Title": "Nature and physical sciences",
+      "Abstract": "The term nature is derived from the Latin word natura, or \"essential qualities, innate disposition\". Natura is a Latin translation of the Greek word physis (φύσις), which originally related to the intrinsic characteristics that plants, animals, and other features of the world develop of their own accord. The concept of nature as a whole, all matter and energy in the universe, is one of several expansions of the original notion.\n\nPhysical science is an encompassing term for the branches of natural science, and science, that study non-living systems, in contrast to the biological sciences. However, the term \"physical\" creates an involuntary, somewhat arbitrary distinction, since many branches of physical science also study biological phenomena",
+      "Categories": [
+        {
+          "ID": 9312,
+          "Title": "Kategori:Fysikk"
+        },
+        {
+          "ID": 9816,
+          "Title": "Kategori:Vitenskap"
+        },
+        {
+          "ID": 10384,
+          "Title": "Kategori:Kjemi"
+        },
+        {
+          "ID": 12216,
+          "Title": "Kategori:Naturvitenskap"
+        },
+        {
+          "ID": 13672,
+          "Title": "Kategori:Zoologi"
+        },
+        {
+          "ID": 21613,
+          "Title": "Kategori:Katastrofer"
+        },
+        {
+          "ID": 30752,
+          "Title": "Kategori:Natur"
+        },
+        {
+          "ID": 498400,
+          "Title": "Kategori:Kjemiske forbindelser"
+        },
+        {
+          "ID": 1094660,
+          "Title": "Kategori:Fauna etter verdensdel"
+        }
+      ],
+      "Articles": [
+        {
+          "ID": 2767,
+          "Title": "Onani"
+        },
+        {
+          "ID": 6941,
+          "Title": "Elg"
+        },
+        {
+          "ID": 11526,
+          "Title": "Appelsin"
+        },
+        {
+          "ID": 11799,
+          "Title": "Sitron"
+        },
+        {
+          "ID": 12847,
+          "Title": "Testikkel"
+        },
+        {
+          "ID": 18000,
+          "Title": "Makrell"
+        },
+        {
+          "ID": 22823,
+          "Title": "Ris"
+        },
+        {
+          "ID": 22919,
+          "Title": "Mais"
+        },
+        {
+          "ID": 74677,
+          "Title": "Næringskjede"
+        },
+        {
+          "ID": 88501,
+          "Title": "Ild"
+        },
+        {
+          "ID": 94608,
+          "Title": "Komplementærfarge"
+        },
+        {
+          "ID": 120821,
+          "Title": "Kameler"
+        },
+        {
+          "ID": 121336,
+          "Title": "Suspensjon (kjemi)"
+        },
+        {
+          "ID": 121579,
+          "Title": "Blomkål"
+        },
+        {
+          "ID": 141036,
+          "Title": "Engelmannsgran"
+        },
+        {
+          "ID": 142766,
+          "Title": "Urin"
+        },
+        {
+          "ID": 225432,
+          "Title": "Lime"
+        },
+        {
+          "ID": 272822,
+          "Title": "Vannets kretsløp"
+        },
+        {
+          "ID": 335668,
+          "Title": "Bevegelsesapparatet"
+        },
+        {
+          "ID": 374073,
+          "Title": "Glasslanger"
+        },
+        {
+          "ID": 420689,
+          "Title": "Muskelsystem"
+        },
+        {
+          "ID": 470531,
+          "Title": "Mayakalender"
+        },
+        {
+          "ID": 500759,
+          "Title": "Penis"
+        },
+        {
+          "ID": 504061,
+          "Title": "Hagejordbær"
+        },
+        {
+          "ID": 508678,
+          "Title": "Kappe (bløtdyr)"
+        },
+        {
+          "ID": 515997,
+          "Title": "Hvete"
+        },
+        {
+          "ID": 635759,
+          "Title": "Spansk einer"
+        },
+        {
+          "ID": 777152,
+          "Title": "Rødt hår"
+        },
+        {
+          "ID": 780975,
+          "Title": "Lycosidae"
+        },
+        {
+          "ID": 903988,
+          "Title": "Spiring"
+        },
+        {
+          "ID": 1179748,
+          "Title": "Store katter"
+        },
+        {
+          "ID": 1415755,
+          "Title": "Phoenicopterus"
+        },
+        {
+          "ID": 1493967,
+          "Title": "Elbursmeis"
+        },
+        {
+          "ID": 1503718,
+          "Title": "Sula (suler)"
+        },
+        {
+          "ID": 1505001,
+          "Title": "Vanlig ananas"
+        },
+        {
+          "ID": 1576684,
+          "Title": "Riksesnipefamilien"
+        },
+        {
+          "ID": 1620628,
+          "Title": "Kleberis"
+        },
+        {
+          "ID": 1642886,
+          "Title": "Ateles"
+        }
+      ]
+    },
+    {
+      "ID": 2147483643,
+      "Title": "People and self",
+      "Abstract": "A collection of people often refers to a general group, such as all humans, an ethnic group or a nation. An individual person is the self, from his or her own perspective. To you, \"self\" is you. To someone else, \"self\" is that person. A biography is a genre of literature or film, which presents a relatively full account of the most interesting and important events of a notable person's life.\n\nLife or personal life or human existence is an individual human's personal, private experience of living (including their employment career, their family life, and other elements). In prehistoric times, life and existence was based on survival. There was little privacy and a person was identified by their role in the group. In modern times, many people have even come to think of their personal lives as if they are separate from their work. This segmentation of \"life areas\" is evident in such phrases as \"work life\", \"home life\", and \"sex life.\" The meaning or role of a person's \"life\" or \"human existence\" is discussed in many religions and philosophies. In Western industrialized countries, there are a variety of service industries that help people improve their personal lives, such as counselling and life coaching companies",
+      "Categories": [
+        {
+          "ID": 9156,
+          "Title": "Kategori:Personer"
+        },
+        {
+          "ID": 16265,
+          "Title": "Kategori:Dagligliv"
+        },
+        {
+          "ID": 16652,
+          "Title": "Kategori:Etternavn"
+        },
+        {
+          "ID": 17406,
+          "Title": "Kategori:Filmfigurer"
+        },
+        {
+          "ID": 1137979,
+          "Title": "Kategori:Kvinner"
+        }
+      ],
+      "Articles": [
+        {
+          "ID": 36,
+          "Title": "Alan Turing"
+        },
+        {
+          "ID": 69,
+          "Title": "Adam Smith"
+        },
+        {
+          "ID": 176,
+          "Title": "Carl Friedrich Gauss"
+        },
+        {
+          "ID": 447,
+          "Title": "Harry Houdini"
+        },
+        {
+          "ID": 456,
+          "Title": "Adolf Hitler"
+        },
+        {
+          "ID": 2404,
+          "Title": "Lewis Carroll"
+        },
+        {
+          "ID": 5049,
+          "Title": "John Lennon"
+        },
+        {
+          "ID": 5501,
+          "Title": "Noam Chomsky"
+        },
+        {
+          "ID": 5907,
+          "Title": "Galileo Galilei"
+        },
+        {
+          "ID": 6663,
+          "Title": "Christofer Columbus"
+        },
+        {
+          "ID": 9267,
+          "Title": "René Descartes"
+        },
+        {
+          "ID": 9389,
+          "Title": "Johannes Kepler"
+        },
+        {
+          "ID": 10796,
+          "Title": "Sigmund Freud"
+        },
+        {
+          "ID": 13565,
+          "Title": "Thomas Aquinas"
+        },
+        {
+          "ID": 17571,
+          "Title": "George Harrison"
+        },
+        {
+          "ID": 17881,
+          "Title": "Bill Gates"
+        },
+        {
+          "ID": 19493,
+          "Title": "Florence Nightingale"
+        },
+        {
+          "ID": 22533,
+          "Title": "Ayn Rand"
+        },
+        {
+          "ID": 25722,
+          "Title": "Oliver Cromwell"
+        },
+        {
+          "ID": 26469,
+          "Title": "Richard Wagner"
+        },
+        {
+          "ID": 27578,
+          "Title": "Karl Friedrich Abel"
+        },
+        {
+          "ID": 34828,
+          "Title": "Alexander Fleming"
+        },
+        {
+          "ID": 39384,
+          "Title": "Joseph Smith"
+        },
+        {
+          "ID": 43239,
+          "Title": "Elton John"
+        },
+        {
+          "ID": 77844,
+          "Title": "Daniel Radcliffe"
+        },
+        {
+          "ID": 84876,
+          "Title": "Charles Babbage"
+        },
+        {
+          "ID": 109194,
+          "Title": "William Blake"
+        },
+        {
+          "ID": 116438,
+          "Title": "Carl Sagan"
+        },
+        {
+          "ID": 132225,
+          "Title": "Big Show"
+        },
+        {
+          "ID": 158106,
+          "Title": "Leonardo Fibonacci"
+        },
+        {
+          "ID": 220391,
+          "Title": "Richard Dawkins"
+        },
+        {
+          "ID": 233507,
+          "Title": "Francis Marion"
+        },
+        {
+          "ID": 275494,
+          "Title": "Srinivasa Aiyangar Ramanujan"
+        },
+        {
+          "ID": 292552,
+          "Title": "Johnny Appleseed"
+        },
+        {
+          "ID": 547140,
+          "Title": "Evan (navn)"
+        },
+        {
+          "ID": 549536,
+          "Title": "Theodor Schwann"
+        },
+        {
+          "ID": 669633,
+          "Title": "Jacob Black"
+        },
+        {
+          "ID": 687819,
+          "Title": "Chaim Soutine"
+        },
+        {
+          "ID": 803705,
+          "Title": "Irving Langmuir"
+        },
+        {
+          "ID": 941175,
+          "Title": "Anders Behring Breivik"
+        },
+        {
+          "ID": 1068647,
+          "Title": "Cory Monteith"
+        },
+        {
+          "ID": 1091922,
+          "Title": "Ted Cruz"
+        },
+        {
+          "ID": 1332059,
+          "Title": "Battenburg"
+        },
+        {
+          "ID": 1503023,
+          "Title": "Bob Ross"
+        }
+      ]
+    },
+    {
+      "ID": 2147483644,
+      "Title": "Philosophy and thinking",
+      "Abstract": "Philosophy has almost as many definitions as there have been philosophers, both as a subject matter and an activity, and no simple definition can do it justice. The issue of the definition of philosophy is thus a controversial subject that is nowadays tackled by Metaphilosophy (or the philosophy of philosophy). The word is derived from the ancient Greek words philo-, to love or to befriend, and -sophia, wisdom. Modern usage of the term is much broader; the concept of philosophy encompasses all of knowledge and all that can be known, including the means by which such knowledge can be acquired. However, in the contemporary English-speaking academic world, the term is often used implicitly to refer to analytic philosophy and, in non-English speaking countries, it often refers implicitly to a different, European strain, continental philosophy. The ancient Greeks organized the subject into five basic categories: metaphysics, epistemology, ethics, politics and aesthetics. This organization of the subject is still largely in use in Western philosophy today.\n\nThought or thinking is a mental process which allows beings to model the world, and so to deal with it effectively according to their goals, plans, ends and desires. Words referring to similar concepts and processes in the English language include cognition, sentience, consciousness, idea, and imagination. Thinking involves the cerebral manipulation of information, as when we form concepts, engage in problem solving, reason and make decisions. Thinking is a higher cognitive function and the analysis of thinking processes is part of cognitive psychology",
+      "Categories": [
+        {
+          "ID": 9315,
+          "Title": "Kategori:Filosofi"
+        },
+        {
+          "ID": 29945,
+          "Title": "Kategori:Etikk"
+        },
+        {
+          "ID": 1103569,
+          "Title": "Kategori:Ideologier"
+        },
+        {
+          "ID": 1341873,
+          "Title": "Kategori:Tanke"
+        },
+        {
+          "ID": 1342746,
+          "Title": "Kategori:Filosofiske disipliner"
+        }
+      ],
+      "Articles": [
+        {
+          "ID": 106867,
+          "Title": "Lykke"
+        },
+        {
+          "ID": 183026,
+          "Title": "Faktum"
+        },
+        {
+          "ID": 217399,
+          "Title": "Skjønnhet"
+        },
+        {
+          "ID": 1052907,
+          "Title": "Dunning-Kruger-effekten"
+        }
+      ]
+    },
+    {
+      "ID": 2147483645,
+      "Title": "Religion and belief systems",
+      "Abstract": "Religion is the adherence to codified beliefs and rituals that generally involve a faith in a spiritual nature and a study of inherited ancestral traditions, knowledge and wisdom related to understanding human life. The term \"religion\" refers to both the personal practices related to faith as well as to the larger shared systems of belief.\n\nA belief system can refer to a religion or a world view. A world view (or worldview) is a term calqued from the German word Weltanschauung Welt is the German word for 'world,' and Anschauung is the German word for 'view' or 'outlook'. It is a concept fundamental to German philosophy and epistemology and refers to a wide world perception. Additionally, it refers to the framework of ideas and beliefs through which an individual interprets the world and interacts in it",
+      "Categories": [
+        {
+          "ID": 16455,
+          "Title": "Kategori:Religion"
+        },
+        {
+          "ID": 16456,
+          "Title": "Kategori:Mytologi"
+        },
+        {
+          "ID": 943226,
+          "Title": "Kategori:Religionskritikk"
+        }
+      ],
+      "Articles": [
+        {
+          "ID": 675368,
+          "Title": "Fråtseri"
+        }
+      ]
+    },
+    {
+      "ID": 2147483646,
+      "Title": "Society and social sciences",
+      "Abstract": "A society is a group of people who form a semi-closed system. At its simplest, the term society refers to a large group of people sharing their own culture and institutions. A society is a network of relationships between people. The English word society is derived from the French société, which had its origin in the Latin societas, a \"friendly association with others,\" from socius meaning \"companion, associate, comrade or business partner.\" Thus, the meaning of society is closely related to what is considered to be social. Implicit in the meaning of society is that its members may share some mutual concern or interest, a common objective or common characteristics. The social sciences generally use the term society to mean a group of people who form a semi-closed social system, in which most interactions are with other individuals belonging to the group. More abstractly, a society is defined as a network of relationships between social entities. A society is also sometimes defined as an interdependent community, but the sociologist Tönnies sought to draw a contrast between society and community. An important feature of society is social structure, aspects of which include roles and social ranking.\n\nThe social science are a group of academic disciplines that study human aspects of the world. They differ from the arts and the humanities, in that the social science tend to emphasize the use of the scientific method in the study of humanity, including quantitative and qualitative methods",
+      "Categories": [
+        {
+          "ID": 16016,
+          "Title": "Kategori:Internasjonale organisasjoner"
+        },
+        {
+          "ID": 21578,
+          "Title": "Kategori:Feminisme"
+        },
+        {
+          "ID": 21617,
+          "Title": "Kategori:Samfunn"
+        },
+        {
+          "ID": 32695,
+          "Title": "Kategori:Samfunnsvitenskap"
+        },
+        {
+          "ID": 1104038,
+          "Title": "Kategori:Rettighet"
+        }
+      ],
+      "Articles": [
+        {
+          "ID": 3464,
+          "Title": "Georg-August-Universität Göttingen"
+        },
+        {
+          "ID": 12176,
+          "Title": "Universitetet i Wien"
+        },
+        {
+          "ID": 16757,
+          "Title": "Westfälische Wilhelms-Universität Münster"
+        },
+        {
+          "ID": 17652,
+          "Title": "Universität zu Köln"
+        },
+        {
+          "ID": 20709,
+          "Title": "Sommertid"
+        },
+        {
+          "ID": 22825,
+          "Title": "University of Surrey"
+        },
+        {
+          "ID": 26259,
+          "Title": "Eberhard-Karls-Universität Tübingen"
+        },
+        {
+          "ID": 30202,
+          "Title": "Mikronasjon"
+        },
+        {
+          "ID": 30623,
+          "Title": "Massachusetts Institute of Technology"
+        },
+        {
+          "ID": 32528,
+          "Title": "The New York Times"
+        },
+        {
+          "ID": 36544,
+          "Title": "Rheinische Friedrich-Wilhelms-Universität"
+        },
+        {
+          "ID": 36545,
+          "Title": "Universitetet i Wrocław"
+        },
+        {
+          "ID": 36860,
+          "Title": "Universitetet i Leipzig"
+        },
+        {
+          "ID": 43214,
+          "Title": "University of Glasgow"
+        },
+        {
+          "ID": 46660,
+          "Title": "Det bayerske Julius-Maximilian-universitetet i Würzburg"
+        },
+        {
+          "ID": 51443,
+          "Title": "University of Oxford"
+        },
+        {
+          "ID": 54190,
+          "Title": "Universitetet i Paris"
+        },
+        {
+          "ID": 54853,
+          "Title": "Stockholms universitet"
+        },
+        {
+          "ID": 55697,
+          "Title": "Starbucks"
+        },
+        {
+          "ID": 56552,
+          "Title": "Taco Bell"
+        },
+        {
+          "ID": 66803,
+          "Title": "BP"
+        },
+        {
+          "ID": 66978,
+          "Title": "University of London"
+        },
+        {
+          "ID": 68287,
+          "Title": "American Airlines"
+        },
+        {
+          "ID": 71728,
+          "Title": "University of Queensland"
+        },
+        {
+          "ID": 72607,
+          "Title": "Australias flagg"
+        },
+        {
+          "ID": 73291,
+          "Title": "University of Chicago"
+        },
+        {
+          "ID": 75241,
+          "Title": "Harvard University"
+        },
+        {
+          "ID": 78623,
+          "Title": "Stanford University"
+        },
+        {
+          "ID": 80688,
+          "Title": "University of Cambridge"
+        },
+        {
+          "ID": 98219,
+          "Title": "Universitetet i Bologna"
+        },
+        {
+          "ID": 101115,
+          "Title": "Uppsala universitet"
+        },
+        {
+          "ID": 104639,
+          "Title": "Det hebraiske universitetet i Jerusalem"
+        },
+        {
+          "ID": 107388,
+          "Title": "Universitetet i Torino"
+        },
+        {
+          "ID": 111122,
+          "Title": "University of St Andrews"
+        },
+        {
+          "ID": 112300,
+          "Title": "Umeå universitet"
+        },
+        {
+          "ID": 126325,
+          "Title": "Columbia University"
+        },
+        {
+          "ID": 139149,
+          "Title": "Princeton University"
+        },
+        {
+          "ID": 162787,
+          "Title": "Forbudstiden"
+        },
+        {
+          "ID": 168011,
+          "Title": "Fox News Channel"
+        },
+        {
+          "ID": 175429,
+          "Title": "Open University"
+        },
+        {
+          "ID": 175588,
+          "Title": "University of East Anglia"
+        },
+        {
+          "ID": 178640,
+          "Title": "University of Warwick"
+        },
+        {
+          "ID": 206591,
+          "Title": "University of Michigan"
+        },
+        {
+          "ID": 221369,
+          "Title": "Ohio State University"
+        },
+        {
+          "ID": 230143,
+          "Title": "Universitetet i Padova"
+        },
+        {
+          "ID": 238404,
+          "Title": "Illinois State University"
+        },
+        {
+          "ID": 239366,
+          "Title": "Memorial University of Newfoundland"
+        },
+        {
+          "ID": 244128,
+          "Title": "Kinesisk nyttår"
+        },
+        {
+          "ID": 274129,
+          "Title": "FNs miljøprogram"
+        },
+        {
+          "ID": 291983,
+          "Title": "University of Washington"
+        },
+        {
+          "ID": 292236,
+          "Title": "The Times of India"
+        },
+        {
+          "ID": 306722,
+          "Title": "American University"
+        },
+        {
+          "ID": 318997,
+          "Title": "Göteborgs universitet"
+        },
+        {
+          "ID": 322165,
+          "Title": "Imperial College London"
+        },
+        {
+          "ID": 322339,
+          "Title": "City University London"
+        },
+        {
+          "ID": 330386,
+          "Title": "University of Manchester"
+        },
+        {
+          "ID": 331813,
+          "Title": "University of Minnesota"
+        },
+        {
+          "ID": 358504,
+          "Title": "Statsuniversitetet i St. Petersburg"
+        },
+        {
+          "ID": 358535,
+          "Title": "Statsuniversitetet i Moskva"
+        },
+        {
+          "ID": 366552,
+          "Title": "Tsinghuauniversitetet"
+        },
+        {
+          "ID": 375883,
+          "Title": "Universitetet i Tartu"
+        },
+        {
+          "ID": 391632,
+          "Title": "University of Nottingham"
+        },
+        {
+          "ID": 402893,
+          "Title": "University of Texas"
+        },
+        {
+          "ID": 423434,
+          "Title": "University of Pennsylvania"
+        },
+        {
+          "ID": 423773,
+          "Title": "Boston University"
+        },
+        {
+          "ID": 424789,
+          "Title": "University of Iowa"
+        },
+        {
+          "ID": 427479,
+          "Title": "City University of New York"
+        },
+        {
+          "ID": 432159,
+          "Title": "Nanjinguniversitetet"
+        },
+        {
+          "ID": 434978,
+          "Title": "Jinanuniversitetet"
+        },
+        {
+          "ID": 436447,
+          "Title": "Indiana University"
+        },
+        {
+          "ID": 446761,
+          "Title": "Miami University"
+        },
+        {
+          "ID": 447442,
+          "Title": "University of Montana"
+        },
+        {
+          "ID": 455018,
+          "Title": "Linköpings universitet"
+        },
+        {
+          "ID": 462737,
+          "Title": "Rice University"
+        },
+        {
+          "ID": 462742,
+          "Title": "Saint Louis University"
+        },
+        {
+          "ID": 462831,
+          "Title": "Towson University"
+        },
+        {
+          "ID": 462834,
+          "Title": "Troy University"
+        },
+        {
+          "ID": 462836,
+          "Title": "Tulane University"
+        },
+        {
+          "ID": 462846,
+          "Title": "University of Akron"
+        },
+        {
+          "ID": 462847,
+          "Title": "University of Alabama"
+        },
+        {
+          "ID": 462936,
+          "Title": "University of Arizona"
+        },
+        {
+          "ID": 464816,
+          "Title": "University of Cincinnati"
+        },
+        {
+          "ID": 465254,
+          "Title": "University of Dayton"
+        },
+        {
+          "ID": 465256,
+          "Title": "University of Delaware"
+        },
+        {
+          "ID": 465262,
+          "Title": "University of Denver"
+        },
+        {
+          "ID": 466415,
+          "Title": "University of Houston"
+        },
+        {
+          "ID": 471888,
+          "Title": "University of Maryland"
+        },
+        {
+          "ID": 475580,
+          "Title": "University of Mississippi"
+        },
+        {
+          "ID": 475642,
+          "Title": "University of Missouri"
+        },
+        {
+          "ID": 476889,
+          "Title": "University of Oregon"
+        },
+        {
+          "ID": 476915,
+          "Title": "University of Phoenix"
+        },
+        {
+          "ID": 480376,
+          "Title": "University of Tennessee"
+        },
+        {
+          "ID": 480409,
+          "Title": "University of Toledo"
+        },
+        {
+          "ID": 482019,
+          "Title": "University of Virginia"
+        },
+        {
+          "ID": 483319,
+          "Title": "Washington University in St. Louis"
+        },
+        {
+          "ID": 485228,
+          "Title": "University of Southern California"
+        },
+        {
+          "ID": 494084,
+          "Title": "Den europeiske union"
+        },
+        {
+          "ID": 509956,
+          "Title": "University of Aberdeen"
+        },
+        {
+          "ID": 538841,
+          "Title": "Albert-Ludwigs-Universität"
+        },
+        {
+          "ID": 540873,
+          "Title": "University of Birmingham"
+        },
+        {
+          "ID": 542657,
+          "Title": "Rush University"
+        },
+        {
+          "ID": 544688,
+          "Title": "Valparaiso University"
+        },
+        {
+          "ID": 552890,
+          "Title": "Universitetet i Bath"
+        },
+        {
+          "ID": 560747,
+          "Title": "Anna-universitetet"
+        },
+        {
+          "ID": 560850,
+          "Title": "Delhi-universitetet"
+        },
+        {
+          "ID": 560986,
+          "Title": "Jawaharlal Nehru-universitetet"
+        },
+        {
+          "ID": 561457,
+          "Title": "Aligarh muslimske universitet"
+        },
+        {
+          "ID": 568751,
+          "Title": "Australian National University"
+        },
+        {
+          "ID": 577235,
+          "Title": "University of Otago"
+        },
+        {
+          "ID": 579822,
+          "Title": "Universitetet i iKwaZulu-Natali"
+        },
+        {
+          "ID": 600313,
+          "Title": "University of Calgary"
+        },
+        {
+          "ID": 617854,
+          "Title": "Pizza Hut"
+        },
+        {
+          "ID": 644600,
+          "Title": "University of Sydney"
+        },
+        {
+          "ID": 656220,
+          "Title": "Sosialt arbeid"
+        },
+        {
+          "ID": 660988,
+          "Title": "Universitetet i Ferrara"
+        },
+        {
+          "ID": 704088,
+          "Title": "Kingston University"
+        },
+        {
+          "ID": 714871,
+          "Title": "Universitetet i Tokyo"
+        },
+        {
+          "ID": 718905,
+          "Title": "The Willy Wonka Candy Company"
+        },
+        {
+          "ID": 875329,
+          "Title": "La Trobe University"
+        },
+        {
+          "ID": 1007815,
+          "Title": "Universitetet i Bern"
+        },
+        {
+          "ID": 1015411,
+          "Title": "Hokkaido universitet"
+        },
+        {
+          "ID": 1017540,
+          "Title": "University of Mumbai"
+        },
+        {
+          "ID": 1017650,
+          "Title": "University of the Punjab"
+        },
+        {
+          "ID": 1064165,
+          "Title": "University of Southampton"
+        },
+        {
+          "ID": 1072189,
+          "Title": "University of Kent"
+        },
+        {
+          "ID": 1089285,
+          "Title": "University at Buffalo"
+        },
+        {
+          "ID": 1110723,
+          "Title": "University of Exeter"
+        },
+        {
+          "ID": 1132022,
+          "Title": "University of Wollongong"
+        },
+        {
+          "ID": 1134499,
+          "Title": "University of Canterbury"
+        },
+        {
+          "ID": 1142588,
+          "Title": "Linnéuniversitetet"
+        },
+        {
+          "ID": 1162871,
+          "Title": "Domino's Pizza"
+        },
+        {
+          "ID": 1182901,
+          "Title": "Universitetet i Teheran"
+        },
+        {
+          "ID": 1193221,
+          "Title": "Edinburgh Napier University"
+        },
+        {
+          "ID": 1239699,
+          "Title": "Metsjnikovuniversitetet"
+        },
+        {
+          "ID": 1245325,
+          "Title": "Northumbria University"
+        },
+        {
+          "ID": 1259882,
+          "Title": "Universiti Malaya"
+        },
+        {
+          "ID": 1260636,
+          "Title": "Universitetet i Calcutta"
+        },
+        {
+          "ID": 1425731,
+          "Title": "Sōka-universitetet"
+        },
+        {
+          "ID": 1433645,
+          "Title": "National Archives and Records Administration"
+        },
+        {
+          "ID": 1438655,
+          "Title": "Ulster University"
+        },
+        {
+          "ID": 1481572,
+          "Title": "Alternative fakta"
+        },
+        {
+          "ID": 1491904,
+          "Title": "Terrorangrepet i London 22. mars 2017"
+        },
+        {
+          "ID": 1502789,
+          "Title": "University of Leicester"
+        },
+        {
+          "ID": 1573856,
+          "Title": "Universitetet i Napoli Federico II"
+        },
+        {
+          "ID": 1578013,
+          "Title": "Det islamske azad-universitetet"
+        },
+        {
+          "ID": 1634751,
+          "Title": "Universitetet i Tōhoku"
+        }
+      ]
+    },
+    {
+      "ID": 2147483647,
+      "Title": "Technology and applied sciences",
+      "Abstract": "Technology is an expanded concept that deals with a species' usage and knowledge of tools and crafts, and how it affects a species' ability to control and adapt to its environment. In human civilization, it is a consequence of science and engineering, although several technological advances predate the formalization of these two disciplines. The term can either be applied generally or to specific areas – examples include construction technology, medical technology, or state-of-the-art technology.\n\nThe human race's use of technology began with the conversion of plentiful natural resources into simple tools. The prehistorical discovery of the ability to control fire increased the available sources of food, and the invention of the wheel helped humans in travelling in and controlling their environment. Recent technological developments, including the printing press and the Internet, have lessened physical barriers to communication and allowed humans to interact on a global scale. However, not all technology has been used for peaceful purposes; the development of weapons of ever-increasing destructive power has progressed throughout history, from clubs to nuclear bombs.\n\nApplied science is the application of knowledge from one or more natural scientific fields to solving practical problems. For example, fields of engineering are applied sciences. Applied science is important for technology development. Its use in industrial settings is usually referred to as research and development (R\u0026D)",
+      "Categories": [
+        {
+          "ID": 9072,
+          "Title": "Kategori:Teknologi"
+        },
+        {
+          "ID": 9248,
+          "Title": "Kategori:Internett"
+        },
+        {
+          "ID": 12758,
+          "Title": "Kategori:Elektronikk"
+        },
+        {
+          "ID": 13648,
+          "Title": "Kategori:Transport"
+        },
+        {
+          "ID": 29892,
+          "Title": "Kategori:Informatikk"
+        },
+        {
+          "ID": 32690,
+          "Title": "Kategori:Anvendt vitenskap"
+        },
+        {
+          "ID": 153003,
+          "Title": "Kategori:Militært materiell"
+        },
+        {
+          "ID": 300358,
+          "Title": "Kategori:Design"
+        },
+        {
+          "ID": 567741,
+          "Title": "Kategori:Ingeniørvitenskap"
+        },
+        {
+          "ID": 1040166,
+          "Title": "Kategori:Teknologihistorie"
+        },
+        {
+          "ID": 1381557,
+          "Title": "Kategori:Anvendt informatikk"
+        }
+      ],
+      "Articles": [
+        {
+          "ID": 32608,
+          "Title": "Pepsi"
+        },
+        {
+          "ID": 148896,
+          "Title": "Tyggegummi"
+        },
+        {
+          "ID": 157839,
+          "Title": ".xxx"
+        },
+        {
+          "ID": 157876,
+          "Title": "Mountain Dew"
+        },
+        {
+          "ID": 268006,
+          "Title": "Vegg"
+        },
+        {
+          "ID": 528960,
+          "Title": "Brødbakemaskin"
+        },
+        {
+          "ID": 616587,
+          "Title": "Svalehaleskjøt"
+        },
+        {
+          "ID": 654741,
+          "Title": "Murer (yrkestittel)"
+        },
+        {
+          "ID": 993514,
+          "Title": "Sega 32X"
+        },
+        {
+          "ID": 1207252,
+          "Title": "Hårstrikk"
+        }
+      ]
+    }
+  ],
+  "Filters": [
+    {
+      "ID": 13531,
+      "Title": "Kategori:Pekere"
+    },
+    {
+      "ID": 446523,
+      "Title": "Kategori:Skjulte kategorier"
+    }
+  ]
+}

@@ -1,0 +1,1262 @@
+{
+  "Language": "az",
+  "Topics": [
+    {
+      "ID": 2147483637,
+      "Title": "Culture and the arts",
+      "Abstract": "The word culture is derived from the Latin root cultura or cultus meaning to \"inhabit, cultivate, or honour\". In general, culture refers to human activity; different definitions of culture reflect different theories for understanding, or criteria for valuing human activity. Present day Anthropologists use the term to refer to the universal human capacity to classify experiences and to encode and communicate them symbolically. They regard this capacity as a defining feature of the genus Homo. Since culture is learned, people living in different places have different cultures. There can be different cultures in different countries, and there can also be shared cultures among continents.\n\nThe arts are a vast subdivision of culture, composed of many creative endeavors and disciplines. It is a broader term than \"art,\" which as a description of a field usually means only the visual arts. The arts encompasses visual arts, literary arts and the performing arts - music, theatre, dance, spoken word and film, among others.\n\nArt, in its broadest meaning, is the expression of creativity or imagination. The word art comes from the Latin word ars, which, loosely translated, means \"arrangement\". Art is commonly understood as the act of making works (or artworks) which use the human creative impulse and which have meaning beyond simple description. Art is often distinguished from crafts and recreational hobby activities. The term creative arts denotes a collection of disciplines whose principal purpose is the output of material for the viewer or audience to interpret. As such, art may be taken to include forms as diverse as prose writing, poetry, dance, acting or drama, film, music, sculpture, photography, illustration, architecture, collage, painting, craft and fashion. Art may also be understood as relating to creativity, æsthetics and the generation of emotion",
+      "Categories": [
+        {
+          "ID": 5050,
+          "Title": "Kateqoriya:Hobbi"
+        },
+        {
+          "ID": 5330,
+          "Title": "Kateqoriya:İdman"
+        },
+        {
+          "ID": 6607,
+          "Title": "Kateqoriya:Mədəniyyət"
+        },
+        {
+          "ID": 6609,
+          "Title": "Kateqoriya:İncəsənət"
+        },
+        {
+          "ID": 6618,
+          "Title": "Kateqoriya:Əyləncə"
+        },
+        {
+          "ID": 15454,
+          "Title": "Kateqoriya:Mətbəx"
+        },
+        {
+          "ID": 43950,
+          "Title": "Kateqoriya:Musiqi qrupları"
+        },
+        {
+          "ID": 125731,
+          "Title": "Kateqoriya:Filmlər"
+        },
+        {
+          "ID": 216381,
+          "Title": "Kateqoriya:Qidalar"
+        },
+        {
+          "ID": 266606,
+          "Title": "Kateqoriya:İstirahət"
+        },
+        {
+          "ID": 323063,
+          "Title": "Kateqoriya:Tamaşalar"
+        }
+      ],
+      "Articles": [
+        {
+          "ID": 5036,
+          "Title": "Vikipediya"
+        },
+        {
+          "ID": 53465,
+          "Title": "Ensiklopediya"
+        },
+        {
+          "ID": 53772,
+          "Title": "Şokolad"
+        },
+        {
+          "ID": 54624,
+          "Title": "Çörək"
+        },
+        {
+          "ID": 55855,
+          "Title": "Realizm (ədəbiyyat)"
+        },
+        {
+          "ID": 58810,
+          "Title": "Qəhvə"
+        },
+        {
+          "ID": 70736,
+          "Title": "Pivə"
+        },
+        {
+          "ID": 77097,
+          "Title": "Pitsa"
+        },
+        {
+          "ID": 80934,
+          "Title": "Külçə (yemək)"
+        },
+        {
+          "ID": 86065,
+          "Title": "Yumurta"
+        },
+        {
+          "ID": 90917,
+          "Title": "Makaron"
+        },
+        {
+          "ID": 104947,
+          "Title": "Green Day"
+        },
+        {
+          "ID": 107244,
+          "Title": "Südlü kakao"
+        },
+        {
+          "ID": 132483,
+          "Title": "Bukingem sarayı"
+        },
+        {
+          "ID": 133996,
+          "Title": "Led Zeppelin"
+        },
+        {
+          "ID": 160345,
+          "Title": "Pinus cembroides"
+        },
+        {
+          "ID": 255541,
+          "Title": "Pən dö mi"
+        },
+        {
+          "ID": 273942,
+          "Title": "Marmot günü"
+        },
+        {
+          "ID": 276843,
+          "Title": "M\u0026M's"
+        },
+        {
+          "ID": 284580,
+          "Title": "AC/DC"
+        },
+        {
+          "ID": 295081,
+          "Title": "Tako"
+        },
+        {
+          "ID": 300840,
+          "Title": "Nə qədər ki sağam (film, 2012)"
+        },
+        {
+          "ID": 302400,
+          "Title": "Kakao (içki)"
+        },
+        {
+          "ID": 347320,
+          "Title": "Flappy bird"
+        },
+        {
+          "ID": 368418,
+          "Title": "Ness gölü bədheybəti"
+        },
+        {
+          "ID": 371727,
+          "Title": "Kabus"
+        },
+        {
+          "ID": 373183,
+          "Title": "Hoqvarts"
+        },
+        {
+          "ID": 373277,
+          "Title": "Cənubi Amerika mədəniyyəti"
+        },
+        {
+          "ID": 377156,
+          "Title": "Hot-doq"
+        },
+        {
+          "ID": 384644,
+          "Title": "The World Factbook"
+        },
+        {
+          "ID": 448191,
+          "Title": "2017 Avroviziya Mahnı Müsabiqəsi"
+        },
+        {
+          "ID": 458532,
+          "Title": "Bolo de rolo"
+        },
+        {
+          "ID": 489911,
+          "Title": "2018 Avroviziya Mahnı Müsabiqəsi"
+        },
+        {
+          "ID": 535855,
+          "Title": "Miçiqan salatı"
+        },
+        {
+          "ID": 536502,
+          "Title": "Vetçina"
+        },
+        {
+          "ID": 536509,
+          "Title": "Pirojna"
+        },
+        {
+          "ID": 537261,
+          "Title": "Əncir keksi"
+        },
+        {
+          "ID": 537348,
+          "Title": "Opera tortu"
+        },
+        {
+          "ID": 537713,
+          "Title": "Riz qras"
+        },
+        {
+          "ID": 538072,
+          "Title": "Belçika şokoladı"
+        },
+        {
+          "ID": 570396,
+          "Title": "Fellatio"
+        }
+      ]
+    },
+    {
+      "ID": 2147483638,
+      "Title": "Geography and places",
+      "Abstract": "Geography (Greek Geo (γη) or Gaea (γαία), meaning \"Earth\", and graphein (γράφειν) meaning \"to describe\" or \"to write\") is the study of the earth and its features, inhabitants, and phenomena. A literal translation would be \"to describe or write about the Earth\". The first person to use the word \"geography\" was Eratosthenes (275-195 B.C.). Four historical traditions in geographical research are the spatial analysis of natural and human phenomena (geography as a study of distribution), area studies (places and regions), study of man-land relationship, and research in earth sciences. Nonetheless, modern geography is an all-encompassing discipline that foremost seeks to understand the world and all of its human and natural complexities — not merely where objects are, but how they have changed and come to be. As \"the bridge between the human and physical sciences,\" geography is divided into two main branches — human geography and physical geography",
+      "Categories": [
+        {
+          "ID": 1109,
+          "Title": "Kateqoriya:Coğrafiya"
+        },
+        {
+          "ID": 138122,
+          "Title": "Kateqoriya:Geomorfologiya"
+        },
+        {
+          "ID": 156579,
+          "Title": "Kateqoriya:Şəhərsalma"
+        },
+        {
+          "ID": 301919,
+          "Title": "Kateqoriya:Yerlər"
+        },
+        {
+          "ID": 383748,
+          "Title": "Kateqoriya:Regionlara görə valyutalar"
+        },
+        {
+          "ID": 421708,
+          "Title": "Kateqoriya:Siyahılar:Coğrafiya"
+        }
+      ],
+      "Articles": [
+        {
+          "ID": 6028,
+          "Title": "Paris"
+        },
+        {
+          "ID": 52278,
+          "Title": "Myanma"
+        },
+        {
+          "ID": 60547,
+          "Title": "Venesiya"
+        },
+        {
+          "ID": 176547,
+          "Title": "Kanberra"
+        },
+        {
+          "ID": 269107,
+          "Title": "Kvinslend"
+        }
+      ]
+    },
+    {
+      "ID": 2147483639,
+      "Title": "Health and fitness",
+      "Abstract": "Health is the level of functional or metabolic efficiency of a living organism. In humans it is the ability of individuals or communities to adapt and self-manage when facing physical, mental or social challenges. The most widely accepted definition of good health is that of the World Health Organization Constitution. It states: \"health is a state of complete physical, mental and social well-being and is not merely the absence of disease or infirmity\" (World Health Organization, 1946). In more recent years, this statement has been amplified to include the ability to lead a \"socially and economically productive life.\" The WHO definition is not without criticism, mainly that it is much too broad.\n\nThe most solid aspects of wellness that fit firmly in the realm of medicine are environmental health, nutrition, disease prevention, and public health. These matters can be investigated at length and can assist in measuring well-being. Please see our medical disclaimer for cautions about Wikipedia's limitations",
+      "Categories": [
+        {
+          "ID": 14880,
+          "Title": "Kateqoriya:Tibb"
+        },
+        {
+          "ID": 106967,
+          "Title": "Kateqoriya:Sağlamlıq"
+        },
+        {
+          "ID": 266572,
+          "Title": "Kateqoriya:Tibbin klinik bölmələri"
+        },
+        {
+          "ID": 299626,
+          "Title": "Kateqoriya:Gigiyena"
+        }
+      ]
+    },
+    {
+      "ID": 2147483640,
+      "Title": "History and events",
+      "Abstract": "History is the interpretation of past events, societies and civilizations. The term history comes from the Greek historia (ἱστορία), \"an account of one's inquiries,\" and shares that etymology with the English word story as narrative. The 1911 Encyclopædia Britannica stated that \"history in the wider sense is all that has happened, not merely all the phenomena of human life, but those of the natural world as well. It is everything that undergoes change; and as modern science has shown that there is nothing absolutely static, therefore, the whole universe, and every part of it, has its history.\" ",
+      "Categories": [
+        {
+          "ID": 5070,
+          "Title": "Kateqoriya:Tarix"
+        },
+        {
+          "ID": 27927,
+          "Title": "Kateqoriya:Ölkələrinə görə tarix"
+        },
+        {
+          "ID": 147287,
+          "Title": "Kateqoriya:Hadisələr"
+        }
+      ],
+      "Articles": [
+        {
+          "ID": 9271,
+          "Title": "11 sentyabr terror aktları"
+        },
+        {
+          "ID": 118169,
+          "Title": "Troya müharibəsi"
+        },
+        {
+          "ID": 178994,
+          "Title": "Senday zəlzələsi və sunami (2011)"
+        },
+        {
+          "ID": 279182,
+          "Title": "ABŞ Prezident seçkiləri (2012)"
+        },
+        {
+          "ID": 451268,
+          "Title": "2016 Orlando gecə klubu gülləbaranı"
+        }
+      ]
+    },
+    {
+      "ID": 2147483641,
+      "Title": "Mathematics and logic",
+      "Abstract": "Mathematics is the science of quantization. It is also the study of patterns and relationships, including concepts such as quantity, structure, space, uncertainty, and change. It evolved through the use of abstraction and logical reasoning, from counting, calculation, measurement, and the systematic study of positions, shapes and motions of physical objects. Mathematicians explore such concepts, aiming to formulate new conjectures and establish their truth by rigorous deduction from appropriately chosen axioms and definitions.\n\nLogic (from Classical Greek λόγος logos; meaning word, thought, idea, argument, account, reason or principle) is the study of the principles and criteria of valid inference and demonstration. As a formal science, logic investigates and classifies the structure of statements and arguments, both through the study of formal systems of inference and through the study of arguments in natural language. The field of logic ranges from core topics such as the study of fallacies and paradoxes, to specialized analysis of reasoning using probability and to arguments involving causality. Logic is also commonly used today in argumentation theory. Since the mid-nineteenth century formal logic has been studied in the context of the foundations of mathematics",
+      "Categories": [
+        {
+          "ID": 5530,
+          "Title": "Kateqoriya:Riyaziyyat"
+        },
+        {
+          "ID": 18637,
+          "Title": "Kateqoriya:Statistika"
+        },
+        {
+          "ID": 18640,
+          "Title": "Kateqoriya:Məntiq"
+        },
+        {
+          "ID": 125340,
+          "Title": "Kateqoriya:Tətbiqi riyaziyyat"
+        },
+        {
+          "ID": 214630,
+          "Title": "Kateqoriya:Ehtimallar nəzəriyyəsi və riyazi statistika"
+        }
+      ],
+      "Articles": [
+        {
+          "ID": 54651,
+          "Title": "Uzunluq (fizika)"
+        }
+      ]
+    },
+    {
+      "ID": 2147483642,
+      "Title": "Nature and physical sciences",
+      "Abstract": "The term nature is derived from the Latin word natura, or \"essential qualities, innate disposition\". Natura is a Latin translation of the Greek word physis (φύσις), which originally related to the intrinsic characteristics that plants, animals, and other features of the world develop of their own accord. The concept of nature as a whole, all matter and energy in the universe, is one of several expansions of the original notion.\n\nPhysical science is an encompassing term for the branches of natural science, and science, that study non-living systems, in contrast to the biological sciences. However, the term \"physical\" creates an involuntary, somewhat arbitrary distinction, since many branches of physical science also study biological phenomena",
+      "Categories": [
+        {
+          "ID": 1893,
+          "Title": "Kateqoriya:Fizika"
+        },
+        {
+          "ID": 6612,
+          "Title": "Kateqoriya:Elm"
+        },
+        {
+          "ID": 6613,
+          "Title": "Kateqoriya:Təbiət"
+        },
+        {
+          "ID": 6614,
+          "Title": "Kateqoriya:Kimya"
+        },
+        {
+          "ID": 6632,
+          "Title": "Kateqoriya:Zoologiya"
+        },
+        {
+          "ID": 64312,
+          "Title": "Kateqoriya:Təbiət elmləri"
+        },
+        {
+          "ID": 265561,
+          "Title": "Kateqoriya:Fizika elmləri"
+        },
+        {
+          "ID": 265836,
+          "Title": "Kateqoriya:Fəlakətlər"
+        },
+        {
+          "ID": 270538,
+          "Title": "Kateqoriya:Qitələrə görə fauna"
+        },
+        {
+          "ID": 507179,
+          "Title": "Kateqoriya:Kimyəvi birləşmələr"
+        }
+      ],
+      "Articles": [
+        {
+          "ID": 36647,
+          "Title": "Penis"
+        },
+        {
+          "ID": 66804,
+          "Title": "Limon"
+        },
+        {
+          "ID": 67251,
+          "Title": "Qızılqaz"
+        },
+        {
+          "ID": 67803,
+          "Title": "Dəvə"
+        },
+        {
+          "ID": 69504,
+          "Title": "Əsl ananas"
+        },
+        {
+          "ID": 69508,
+          "Title": "Portağal"
+        },
+        {
+          "ID": 75987,
+          "Title": "Od"
+        },
+        {
+          "ID": 90919,
+          "Title": "Buğda"
+        },
+        {
+          "ID": 98217,
+          "Title": "Qarğıdalı"
+        },
+        {
+          "ID": 102388,
+          "Title": "Dayaq və hərəkət sistemi (Anatomiya)"
+        },
+        {
+          "ID": 118955,
+          "Title": "Sığın"
+        },
+        {
+          "ID": 139159,
+          "Title": "Bağ çiyələyi"
+        },
+        {
+          "ID": 150413,
+          "Title": "Rəngbərəng tənbəlcüllütlər"
+        },
+        {
+          "ID": 152020,
+          "Title": "Juniperus thurifera"
+        },
+        {
+          "ID": 158729,
+          "Title": "Fragaria × vescana"
+        },
+        {
+          "ID": 160366,
+          "Title": "Pinus kesiya"
+        },
+        {
+          "ID": 284854,
+          "Title": "Masturbasiya"
+        },
+        {
+          "ID": 316187,
+          "Title": "Xaya"
+        },
+        {
+          "ID": 332916,
+          "Title": "Su dövranı"
+        },
+        {
+          "ID": 432619,
+          "Title": "Sidik"
+        },
+        {
+          "ID": 454942,
+          "Title": "Engelman küknarı"
+        },
+        {
+          "ID": 487530,
+          "Title": "Talış arıquşu"
+        },
+        {
+          "ID": 524209,
+          "Title": "Zanbaqçiçək maqnoliya"
+        }
+      ]
+    },
+    {
+      "ID": 2147483643,
+      "Title": "People and self",
+      "Abstract": "A collection of people often refers to a general group, such as all humans, an ethnic group or a nation. An individual person is the self, from his or her own perspective. To you, \"self\" is you. To someone else, \"self\" is that person. A biography is a genre of literature or film, which presents a relatively full account of the most interesting and important events of a notable person's life.\n\nLife or personal life or human existence is an individual human's personal, private experience of living (including their employment career, their family life, and other elements). In prehistoric times, life and existence was based on survival. There was little privacy and a person was identified by their role in the group. In modern times, many people have even come to think of their personal lives as if they are separate from their work. This segmentation of \"life areas\" is evident in such phrases as \"work life\", \"home life\", and \"sex life.\" The meaning or role of a person's \"life\" or \"human existence\" is discussed in many religions and philosophies. In Western industrialized countries, there are a variety of service industries that help people improve their personal lives, such as counselling and life coaching companies",
+      "Categories": [
+        {
+          "ID": 5305,
+          "Title": "Kateqoriya:Şəxslər"
+        },
+        {
+          "ID": 107215,
+          "Title": "Kateqoriya:Şəxsi həyat"
+        },
+        {
+          "ID": 114225,
+          "Title": "Kateqoriya:Soyadlar"
+        },
+        {
+          "ID": 151520,
+          "Title": "Kateqoriya:Qadınlar"
+        },
+        {
+          "ID": 265911,
+          "Title": "Kateqoriya:Film personajları"
+        },
+        {
+          "ID": 437479,
+          "Title": "Kateqoriya:Mənlik"
+        }
+      ],
+      "Articles": [
+        {
+          "ID": 8656,
+          "Title": "Xristofor Kolumb"
+        },
+        {
+          "ID": 9142,
+          "Title": "Qalileo Qaliley"
+        },
+        {
+          "ID": 9582,
+          "Title": "Ziqmund Freyd"
+        },
+        {
+          "ID": 11143,
+          "Title": "Adolf Hitler"
+        },
+        {
+          "ID": 14133,
+          "Title": "İohann Kepler"
+        },
+        {
+          "ID": 29098,
+          "Title": "Karl Fridrix Qauss"
+        },
+        {
+          "ID": 36830,
+          "Title": "Con Lennon"
+        },
+        {
+          "ID": 44458,
+          "Title": "Rene Dekart"
+        },
+        {
+          "ID": 44762,
+          "Title": "Rixard Vaqner"
+        },
+        {
+          "ID": 49413,
+          "Title": "Çarlz Bebbic"
+        },
+        {
+          "ID": 56672,
+          "Title": "Adam Smit"
+        },
+        {
+          "ID": 56687,
+          "Title": "Akvinalı Foma"
+        },
+        {
+          "ID": 69597,
+          "Title": "Bill Geyts"
+        },
+        {
+          "ID": 90166,
+          "Title": "Elton Con"
+        },
+        {
+          "ID": 131682,
+          "Title": "Şvann Teodor"
+        },
+        {
+          "ID": 160462,
+          "Title": "Oliver Kromvel"
+        },
+        {
+          "ID": 183735,
+          "Title": "Corc Harrison"
+        },
+        {
+          "ID": 247831,
+          "Title": "Anders Berinq Breyvik"
+        },
+        {
+          "ID": 254206,
+          "Title": "Luis Kerroll"
+        },
+        {
+          "ID": 254330,
+          "Title": "Florens Naytingel"
+        },
+        {
+          "ID": 255607,
+          "Title": "Leonardo Fibonaççi"
+        },
+        {
+          "ID": 258142,
+          "Title": "Deniel Redkliff"
+        },
+        {
+          "ID": 268304,
+          "Title": "Noam Çomski"
+        },
+        {
+          "ID": 292147,
+          "Title": "Uilyam Bleyk"
+        },
+        {
+          "ID": 297306,
+          "Title": "Karl Saqan"
+        },
+        {
+          "ID": 299415,
+          "Title": "Srinivasa Ramanucan"
+        },
+        {
+          "ID": 300350,
+          "Title": "Harri Hudini"
+        },
+        {
+          "ID": 320501,
+          "Title": "Riçard Dokinz"
+        },
+        {
+          "ID": 324971,
+          "Title": "Ceykob Blek"
+        },
+        {
+          "ID": 331686,
+          "Title": "Bob Ross"
+        },
+        {
+          "ID": 352887,
+          "Title": "Aleksandr Fleminq"
+        },
+        {
+          "ID": 410034,
+          "Title": "Cozef Smit"
+        },
+        {
+          "ID": 414626,
+          "Title": "Alan Türinq"
+        },
+        {
+          "ID": 418086,
+          "Title": "Big Show"
+        },
+        {
+          "ID": 439571,
+          "Title": "Ayn Rand"
+        },
+        {
+          "ID": 467941,
+          "Title": "Ted Kruz"
+        },
+        {
+          "ID": 536663,
+          "Title": "Battenberq tortu"
+        }
+      ]
+    },
+    {
+      "ID": 2147483644,
+      "Title": "Philosophy and thinking",
+      "Abstract": "Philosophy has almost as many definitions as there have been philosophers, both as a subject matter and an activity, and no simple definition can do it justice. The issue of the definition of philosophy is thus a controversial subject that is nowadays tackled by Metaphilosophy (or the philosophy of philosophy). The word is derived from the ancient Greek words philo-, to love or to befriend, and -sophia, wisdom. Modern usage of the term is much broader; the concept of philosophy encompasses all of knowledge and all that can be known, including the means by which such knowledge can be acquired. However, in the contemporary English-speaking academic world, the term is often used implicitly to refer to analytic philosophy and, in non-English speaking countries, it often refers implicitly to a different, European strain, continental philosophy. The ancient Greeks organized the subject into five basic categories: metaphysics, epistemology, ethics, politics and aesthetics. This organization of the subject is still largely in use in Western philosophy today.\n\nThought or thinking is a mental process which allows beings to model the world, and so to deal with it effectively according to their goals, plans, ends and desires. Words referring to similar concepts and processes in the English language include cognition, sentience, consciousness, idea, and imagination. Thinking involves the cerebral manipulation of information, as when we form concepts, engage in problem solving, reason and make decisions. Thinking is a higher cognitive function and the analysis of thinking processes is part of cognitive psychology",
+      "Categories": [
+        {
+          "ID": 6623,
+          "Title": "Kateqoriya:Fəlsəfə"
+        },
+        {
+          "ID": 83540,
+          "Title": "Kateqoriya:Etika"
+        },
+        {
+          "ID": 93924,
+          "Title": "Kateqoriya:İdeologiyalar"
+        },
+        {
+          "ID": 106564,
+          "Title": "Kateqoriya:Təfəkkür"
+        },
+        {
+          "ID": 167963,
+          "Title": "Kateqoriya:Fəlsəfənin bölmələri"
+        },
+        {
+          "ID": 295150,
+          "Title": "Kateqoriya:Fəlsəfi nəzəriyyələr"
+        },
+        {
+          "ID": 416247,
+          "Title": "Kateqoriya:Fəlsəfi cərəyanlar və məktəblər"
+        }
+      ],
+      "Articles": [
+        {
+          "ID": 52777,
+          "Title": "Gözəllik"
+        },
+        {
+          "ID": 117628,
+          "Title": "Fakt"
+        },
+        {
+          "ID": 444990,
+          "Title": "Danninq-Krüger effekti"
+        },
+        {
+          "ID": 521850,
+          "Title": "Xoşbəxtlik"
+        }
+      ]
+    },
+    {
+      "ID": 2147483645,
+      "Title": "Religion and belief systems",
+      "Abstract": "Religion is the adherence to codified beliefs and rituals that generally involve a faith in a spiritual nature and a study of inherited ancestral traditions, knowledge and wisdom related to understanding human life. The term \"religion\" refers to both the personal practices related to faith as well as to the larger shared systems of belief.\n\nA belief system can refer to a religion or a world view. A world view (or worldview) is a term calqued from the German word Weltanschauung Welt is the German word for 'world,' and Anschauung is the German word for 'view' or 'outlook'. It is a concept fundamental to German philosophy and epistemology and refers to a wide world perception. Additionally, it refers to the framework of ideas and beliefs through which an individual interprets the world and interacts in it",
+      "Categories": [
+        {
+          "ID": 1855,
+          "Title": "Kateqoriya:Din"
+        },
+        {
+          "ID": 5813,
+          "Title": "Kateqoriya:Mifologiya"
+        },
+        {
+          "ID": 28596,
+          "Title": "Kateqoriya:Dinlər"
+        },
+        {
+          "ID": 292609,
+          "Title": "Kateqoriya:Etiqad"
+        },
+        {
+          "ID": 295150,
+          "Title": "Kateqoriya:Fəlsəfi nəzəriyyələr"
+        },
+        {
+          "ID": 440898,
+          "Title": "Kateqoriya:Dini mübahisələr"
+        },
+        {
+          "ID": 440901,
+          "Title": "Kateqoriya:Dinin tənqidi"
+        },
+        {
+          "ID": 498664,
+          "Title": "Kateqoriya:Hind dinləri"
+        }
+      ]
+    },
+    {
+      "ID": 2147483646,
+      "Title": "Society and social sciences",
+      "Abstract": "A society is a group of people who form a semi-closed system. At its simplest, the term society refers to a large group of people sharing their own culture and institutions. A society is a network of relationships between people. The English word society is derived from the French société, which had its origin in the Latin societas, a \"friendly association with others,\" from socius meaning \"companion, associate, comrade or business partner.\" Thus, the meaning of society is closely related to what is considered to be social. Implicit in the meaning of society is that its members may share some mutual concern or interest, a common objective or common characteristics. The social sciences generally use the term society to mean a group of people who form a semi-closed social system, in which most interactions are with other individuals belonging to the group. More abstractly, a society is defined as a network of relationships between social entities. A society is also sometimes defined as an interdependent community, but the sociologist Tönnies sought to draw a contrast between society and community. An important feature of society is social structure, aspects of which include roles and social ranking.\n\nThe social science are a group of academic disciplines that study human aspects of the world. They differ from the arts and the humanities, in that the social science tend to emphasize the use of the scientific method in the study of humanity, including quantitative and qualitative methods",
+      "Categories": [
+        {
+          "ID": 6611,
+          "Title": "Kateqoriya:Sosial elmlər"
+        },
+        {
+          "ID": 33338,
+          "Title": "Kateqoriya:Beynəlxalq təşkilatlar"
+        },
+        {
+          "ID": 49465,
+          "Title": "Kateqoriya:Feminizm"
+        },
+        {
+          "ID": 73968,
+          "Title": "Kateqoriya:Cəmiyyət"
+        },
+        {
+          "ID": 449862,
+          "Title": "Kateqoriya:Hüquqlar"
+        }
+      ],
+      "Articles": [
+        {
+          "ID": 5409,
+          "Title": "Avropa İttifaqı"
+        },
+        {
+          "ID": 18696,
+          "Title": "Massaçusets Texnologiya İnstitutu"
+        },
+        {
+          "ID": 36758,
+          "Title": "M.V.Lomonosov adına Moskva Dövlət Universiteti"
+        },
+        {
+          "ID": 44075,
+          "Title": "Harvard Universiteti"
+        },
+        {
+          "ID": 50889,
+          "Title": "Oksford Universiteti"
+        },
+        {
+          "ID": 54921,
+          "Title": "Osaka Universiteti"
+        },
+        {
+          "ID": 55451,
+          "Title": "Boğaziçi Universiteti"
+        },
+        {
+          "ID": 82555,
+          "Title": "Qoç Universiteti"
+        },
+        {
+          "ID": 83016,
+          "Title": "Prinston Universiteti"
+        },
+        {
+          "ID": 94562,
+          "Title": "Yay vaxtı"
+        },
+        {
+          "ID": 95560,
+          "Title": "Çikaqo Universiteti"
+        },
+        {
+          "ID": 95561,
+          "Title": "Pensilvaniya Universiteti"
+        },
+        {
+          "ID": 95562,
+          "Title": "Kolumbiya Universiteti"
+        },
+        {
+          "ID": 95563,
+          "Title": "London İmperial Kolleci"
+        },
+        {
+          "ID": 96254,
+          "Title": "Vaterloo Universiteti"
+        },
+        {
+          "ID": 96962,
+          "Title": "Domino's Pizza"
+        },
+        {
+          "ID": 97071,
+          "Title": "Bonn Universiteti"
+        },
+        {
+          "ID": 97076,
+          "Title": "Starbucks"
+        },
+        {
+          "ID": 97080,
+          "Title": "Pizza Hut"
+        },
+        {
+          "ID": 101505,
+          "Title": "Avstraliya Milli Universiteti"
+        },
+        {
+          "ID": 101512,
+          "Title": "Miçiqan Universiteti"
+        },
+        {
+          "ID": 101525,
+          "Title": "Tokio Universiteti"
+        },
+        {
+          "ID": 118470,
+          "Title": "BP"
+        },
+        {
+          "ID": 118885,
+          "Title": "Sankt-Peterburq Dövlət Universiteti"
+        },
+        {
+          "ID": 130486,
+          "Title": "Mançester Universiteti"
+        },
+        {
+          "ID": 156073,
+          "Title": "Çin Yeni ili"
+        },
+        {
+          "ID": 156938,
+          "Title": "Avstraliya bayrağı"
+        },
+        {
+          "ID": 237475,
+          "Title": "Linşöping Universiteti"
+        },
+        {
+          "ID": 246981,
+          "Title": "The New York Times"
+        },
+        {
+          "ID": 254965,
+          "Title": "Mikrodövlət"
+        },
+        {
+          "ID": 258437,
+          "Title": "Stenford Universiteti"
+        },
+        {
+          "ID": 259603,
+          "Title": "Şeffild Universiteti"
+        },
+        {
+          "ID": 259609,
+          "Title": "Bristol Universiteti"
+        },
+        {
+          "ID": 269372,
+          "Title": "Sosial iş"
+        },
+        {
+          "ID": 284202,
+          "Title": "Manitoba Universiteti"
+        },
+        {
+          "ID": 295277,
+          "Title": "Aberdin Universiteti"
+        },
+        {
+          "ID": 299079,
+          "Title": "Bolonya Universiteti"
+        },
+        {
+          "ID": 302601,
+          "Title": "İvan Franko adına Lvov Milli Universiteti"
+        },
+        {
+          "ID": 302605,
+          "Title": "Odessa Universiteti"
+        },
+        {
+          "ID": 325886,
+          "Title": "Tübingen Universiteti"
+        },
+        {
+          "ID": 328076,
+          "Title": "Trest"
+        },
+        {
+          "ID": 329056,
+          "Title": "Paris Universiteti"
+        },
+        {
+          "ID": 346783,
+          "Title": "Kembric Universiteti"
+        },
+        {
+          "ID": 348774,
+          "Title": "Sidney Universiteti"
+        },
+        {
+          "ID": 349477,
+          "Title": "Yerusəlim Yəhudi Universiteti"
+        },
+        {
+          "ID": 354763,
+          "Title": "İndiana Universiteti"
+        },
+        {
+          "ID": 361610,
+          "Title": "Spirtli içki qadağası"
+        },
+        {
+          "ID": 373633,
+          "Title": "Qlazqo Universiteti"
+        },
+        {
+          "ID": 374820,
+          "Title": "Misisipi Universiteti"
+        },
+        {
+          "ID": 375681,
+          "Title": "Üçüncü dünya müharibəsi"
+        },
+        {
+          "ID": 380467,
+          "Title": "Rays Universiteti"
+        },
+        {
+          "ID": 393979,
+          "Title": "Sent-Endryus Universiteti"
+        },
+        {
+          "ID": 398442,
+          "Title": "Uppsala Universiteti"
+        },
+        {
+          "ID": 398652,
+          "Title": "Sauthempton Universiteti"
+        },
+        {
+          "ID": 398665,
+          "Title": "Tsinxua Universiteti"
+        },
+        {
+          "ID": 399065,
+          "Title": "Lids Universiteti"
+        },
+        {
+          "ID": 399073,
+          "Title": "Tohoku Universiteti"
+        },
+        {
+          "ID": 399103,
+          "Title": "Hokkaydo Universiteti"
+        },
+        {
+          "ID": 400667,
+          "Title": "Nottingem Universiteti"
+        },
+        {
+          "ID": 400716,
+          "Title": "Boston Universiteti"
+        },
+        {
+          "ID": 400874,
+          "Title": "Seul Milli Universiteti"
+        },
+        {
+          "ID": 400948,
+          "Title": "Kvinslend Universiteti"
+        },
+        {
+          "ID": 400951,
+          "Title": "Vaşinqton Universiteti"
+        },
+        {
+          "ID": 400995,
+          "Title": "Ostin Texas Universiteti"
+        },
+        {
+          "ID": 400999,
+          "Title": "Sent-Luis Vaşinqton Universiteti"
+        },
+        {
+          "ID": 401872,
+          "Title": "Birminhem Universiteti"
+        },
+        {
+          "ID": 402334,
+          "Title": "Oklənd Universiteti"
+        },
+        {
+          "ID": 402394,
+          "Title": "Uorvik Universiteti"
+        },
+        {
+          "ID": 402541,
+          "Title": "Minnesota Universiteti"
+        },
+        {
+          "ID": 403152,
+          "Title": "London Şəhər Universiteti"
+        },
+        {
+          "ID": 404256,
+          "Title": "Merilend Universiteti"
+        },
+        {
+          "ID": 405174,
+          "Title": "Tehran Universiteti"
+        },
+        {
+          "ID": 413550,
+          "Title": "Padua Universiteti"
+        },
+        {
+          "ID": 414092,
+          "Title": "Tartu Universiteti"
+        },
+        {
+          "ID": 417167,
+          "Title": "Cənubi Kaliforniya Universiteti"
+        },
+        {
+          "ID": 419683,
+          "Title": "Leypsiq Universiteti"
+        },
+        {
+          "ID": 420198,
+          "Title": "Milan Universiteti"
+        },
+        {
+          "ID": 420322,
+          "Title": "Frayburq Universiteti"
+        },
+        {
+          "ID": 421020,
+          "Title": "Vyana Universiteti"
+        },
+        {
+          "ID": 422890,
+          "Title": "Göttingen Universiteti"
+        },
+        {
+          "ID": 423003,
+          "Title": "Vürtsburq Universiteti"
+        },
+        {
+          "ID": 424817,
+          "Title": "Kəlkətə Universiteti"
+        },
+        {
+          "ID": 424823,
+          "Title": "Mumbay Universiteti"
+        },
+        {
+          "ID": 424917,
+          "Title": "Dehli Universiteti"
+        },
+        {
+          "ID": 425383,
+          "Title": "Nankin Universiteti"
+        },
+        {
+          "ID": 432025,
+          "Title": "Verona Universiteti"
+        },
+        {
+          "ID": 432516,
+          "Title": "Ferrara Universiteti"
+        },
+        {
+          "ID": 437065,
+          "Title": "Stokholm Universiteti"
+        },
+        {
+          "ID": 455008,
+          "Title": "İordaniya Universiteti"
+        },
+        {
+          "ID": 535308,
+          "Title": "Hall Universiteti"
+        },
+        {
+          "ID": 553650,
+          "Title": "Birləşmiş Millətlər Təşkilatının Ətraf Mühit Proqramı"
+        }
+      ]
+    },
+    {
+      "ID": 2147483647,
+      "Title": "Technology and applied sciences",
+      "Abstract": "Technology is an expanded concept that deals with a species' usage and knowledge of tools and crafts, and how it affects a species' ability to control and adapt to its environment. In human civilization, it is a consequence of science and engineering, although several technological advances predate the formalization of these two disciplines. The term can either be applied generally or to specific areas – examples include construction technology, medical technology, or state-of-the-art technology.\n\nThe human race's use of technology began with the conversion of plentiful natural resources into simple tools. The prehistorical discovery of the ability to control fire increased the available sources of food, and the invention of the wheel helped humans in travelling in and controlling their environment. Recent technological developments, including the printing press and the Internet, have lessened physical barriers to communication and allowed humans to interact on a global scale. However, not all technology has been used for peaceful purposes; the development of weapons of ever-increasing destructive power has progressed throughout history, from clubs to nuclear bombs.\n\nApplied science is the application of knowledge from one or more natural scientific fields to solving practical problems. For example, fields of engineering are applied sciences. Applied science is important for technology development. Its use in industrial settings is usually referred to as research and development (R\u0026D)",
+      "Categories": [
+        {
+          "ID": 5350,
+          "Title": "Kateqoriya:Texnologiya"
+        },
+        {
+          "ID": 5434,
+          "Title": "Kateqoriya:İnternet"
+        },
+        {
+          "ID": 16729,
+          "Title": "Kateqoriya:Mühəndislik"
+        },
+        {
+          "ID": 42402,
+          "Title": "Kateqoriya:İnformatika"
+        },
+        {
+          "ID": 63745,
+          "Title": "Kateqoriya:Hərbi texnika"
+        },
+        {
+          "ID": 69920,
+          "Title": "Kateqoriya:Nəqliyyat"
+        },
+        {
+          "ID": 92975,
+          "Title": "Kateqoriya:Tətbiqi elmlər"
+        },
+        {
+          "ID": 106872,
+          "Title": "Kateqoriya:Hesablama texnikası"
+        },
+        {
+          "ID": 127354,
+          "Title": "Kateqoriya:Elektronika"
+        },
+        {
+          "ID": 212197,
+          "Title": "Kateqoriya:Dizayn"
+        },
+        {
+          "ID": 259364,
+          "Title": "Kateqoriya:Növünə görə texnologiyalar"
+        },
+        {
+          "ID": 451411,
+          "Title": "Kateqoriya:Texnologiya tarixi"
+        }
+      ],
+      "Articles": [
+        {
+          "ID": 79732,
+          "Title": "Saqqız"
+        },
+        {
+          "ID": 97095,
+          "Title": "Pepsi"
+        },
+        {
+          "ID": 276796,
+          "Title": "Bənna"
+        },
+        {
+          "ID": 537897,
+          "Title": "Mountain Dew"
+        }
+      ]
+    }
+  ],
+  "Filters": [
+    {
+      "ID": 75141,
+      "Title": "Kateqoriya:Vikipediya:Dəqiqləşdirmə"
+    },
+    {
+      "ID": 133354,
+      "Title": "Kateqoriya:Gizli kateqoriyalar"
+    }
+  ]
+}

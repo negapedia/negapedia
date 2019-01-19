@@ -1,0 +1,2474 @@
+{
+  "Language": "fr",
+  "Topics": [
+    {
+      "ID": 2147483637,
+      "Title": "Culture and the arts",
+      "Abstract": "The word culture is derived from the Latin root cultura or cultus meaning to \"inhabit, cultivate, or honour\". In general, culture refers to human activity; different definitions of culture reflect different theories for understanding, or criteria for valuing human activity. Present day Anthropologists use the term to refer to the universal human capacity to classify experiences and to encode and communicate them symbolically. They regard this capacity as a defining feature of the genus Homo. Since culture is learned, people living in different places have different cultures. There can be different cultures in different countries, and there can also be shared cultures among continents.\n\nThe arts are a vast subdivision of culture, composed of many creative endeavors and disciplines. It is a broader term than \"art,\" which as a description of a field usually means only the visual arts. The arts encompasses visual arts, literary arts and the performing arts - music, theatre, dance, spoken word and film, among others.\n\nArt, in its broadest meaning, is the expression of creativity or imagination. The word art comes from the Latin word ars, which, loosely translated, means \"arrangement\". Art is commonly understood as the act of making works (or artworks) which use the human creative impulse and which have meaning beyond simple description. Art is often distinguished from crafts and recreational hobby activities. The term creative arts denotes a collection of disciplines whose principal purpose is the output of material for the viewer or audience to interpret. As such, art may be taken to include forms as diverse as prose writing, poetry, dance, acting or drama, film, music, sculpture, photography, illustration, architecture, collage, painting, craft and fashion. Art may also be understood as relating to creativity, æsthetics and the generation of emotion",
+      "Categories": [
+        {
+          "ID": 83779,
+          "Title": "Catégorie:Film"
+        },
+        {
+          "ID": 84917,
+          "Title": "Catégorie:Cuisine"
+        },
+        {
+          "ID": 84923,
+          "Title": "Catégorie:Sport"
+        },
+        {
+          "ID": 84986,
+          "Title": "Catégorie:Culture"
+        },
+        {
+          "ID": 87775,
+          "Title": "Catégorie:Art"
+        },
+        {
+          "ID": 123833,
+          "Title": "Catégorie:Groupe de musique"
+        },
+        {
+          "ID": 145624,
+          "Title": "Catégorie:Divertissement"
+        },
+        {
+          "ID": 482163,
+          "Title": "Catégorie:Aliment"
+        },
+        {
+          "ID": 977513,
+          "Title": "Catégorie:Loisir"
+        },
+        {
+          "ID": 3157419,
+          "Title": "Catégorie:Spectacle"
+        }
+      ],
+      "Articles": [
+        {
+          "ID": 604,
+          "Title": "The World Factbook"
+        },
+        {
+          "ID": 5258,
+          "Title": "Chocolat"
+        },
+        {
+          "ID": 5958,
+          "Title": "Wikipédia"
+        },
+        {
+          "ID": 7397,
+          "Title": "Pizza"
+        },
+        {
+          "ID": 12540,
+          "Title": "Palais de Buckingham"
+        },
+        {
+          "ID": 17752,
+          "Title": "Bière"
+        },
+        {
+          "ID": 27162,
+          "Title": "Pils (bière)"
+        },
+        {
+          "ID": 27589,
+          "Title": "Sablé (biscuit)"
+        },
+        {
+          "ID": 32312,
+          "Title": "Pain"
+        },
+        {
+          "ID": 36608,
+          "Title": "Encyclopédie"
+        },
+        {
+          "ID": 37638,
+          "Title": "Led Zeppelin"
+        },
+        {
+          "ID": 38822,
+          "Title": "Levain panaire"
+        },
+        {
+          "ID": 39031,
+          "Title": "Taco"
+        },
+        {
+          "ID": 44046,
+          "Title": "Monstre du Loch Ness"
+        },
+        {
+          "ID": 51719,
+          "Title": "Sacha (Pokémon)"
+        },
+        {
+          "ID": 61047,
+          "Title": "Pâtes à la carbonara"
+        },
+        {
+          "ID": 74527,
+          "Title": "Chasteté"
+        },
+        {
+          "ID": 75426,
+          "Title": "AC/DC"
+        },
+        {
+          "ID": 82370,
+          "Title": "Chocolat noir"
+        },
+        {
+          "ID": 93874,
+          "Title": "Green Day"
+        },
+        {
+          "ID": 122236,
+          "Title": "Pâtes alimentaires"
+        },
+        {
+          "ID": 147015,
+          "Title": "Mordred"
+        },
+        {
+          "ID": 150415,
+          "Title": "Fantôme"
+        },
+        {
+          "ID": 187184,
+          "Title": "Jambon"
+        },
+        {
+          "ID": 244578,
+          "Title": "Œuf à la coque"
+        },
+        {
+          "ID": 265240,
+          "Title": "Aqua (groupe)"
+        },
+        {
+          "ID": 272132,
+          "Title": "Hot-dog"
+        },
+        {
+          "ID": 360390,
+          "Title": "Cuisine corse"
+        },
+        {
+          "ID": 373624,
+          "Title": "Cookie (cuisine)"
+        },
+        {
+          "ID": 377628,
+          "Title": "Sauce tomate"
+        },
+        {
+          "ID": 427034,
+          "Title": "Célibat"
+        },
+        {
+          "ID": 431803,
+          "Title": "Dinosaur Jr."
+        },
+        {
+          "ID": 456363,
+          "Title": "Sgt. Pepper's Lonely Hearts Club Band (album)"
+        },
+        {
+          "ID": 494217,
+          "Title": "Biscuit chinois"
+        },
+        {
+          "ID": 506845,
+          "Title": "Pitepalt"
+        },
+        {
+          "ID": 576949,
+          "Title": "Beurre de cacahuètes"
+        },
+        {
+          "ID": 593108,
+          "Title": "Gâteau"
+        },
+        {
+          "ID": 641419,
+          "Title": "Réalisme (littérature)"
+        },
+        {
+          "ID": 685294,
+          "Title": "Chocolat blanc"
+        },
+        {
+          "ID": 702767,
+          "Title": "M\u0026M's"
+        },
+        {
+          "ID": 738414,
+          "Title": "WWE Championship"
+        },
+        {
+          "ID": 957631,
+          "Title": "Bière de gingembre"
+        },
+        {
+          "ID": 1063981,
+          "Title": "Œuf au plat"
+        },
+        {
+          "ID": 1142965,
+          "Title": "Barre chocolatée"
+        },
+        {
+          "ID": 1234549,
+          "Title": "Liste de pâtes"
+        },
+        {
+          "ID": 1255830,
+          "Title": "Street dance"
+        },
+        {
+          "ID": 1337129,
+          "Title": "Giuditta Pasta"
+        },
+        {
+          "ID": 1427613,
+          "Title": "Navarin (cuisine)"
+        },
+        {
+          "ID": 1474410,
+          "Title": "Chocolat belge"
+        },
+        {
+          "ID": 1609928,
+          "Title": "Scotch egg"
+        },
+        {
+          "ID": 1885978,
+          "Title": "Café"
+        },
+        {
+          "ID": 1916541,
+          "Title": "Pain de mie"
+        },
+        {
+          "ID": 2217518,
+          "Title": "Poulet tikka masala"
+        },
+        {
+          "ID": 2341302,
+          "Title": "Desem"
+        },
+        {
+          "ID": 2449798,
+          "Title": "Bitter (bière)"
+        },
+        {
+          "ID": 2496941,
+          "Title": "Œuf de cent ans"
+        },
+        {
+          "ID": 2701071,
+          "Title": "Rock Band"
+        },
+        {
+          "ID": 2734450,
+          "Title": "Poudlard"
+        },
+        {
+          "ID": 2818217,
+          "Title": "Fellation"
+        },
+        {
+          "ID": 2884020,
+          "Title": "Opéra (pâtisserie)"
+        },
+        {
+          "ID": 3146727,
+          "Title": "Chocolat chaud"
+        },
+        {
+          "ID": 3410548,
+          "Title": "Sauce espagnole"
+        },
+        {
+          "ID": 3439920,
+          "Title": "Crudités"
+        },
+        {
+          "ID": 3477687,
+          "Title": "Kréma"
+        },
+        {
+          "ID": 3550673,
+          "Title": "Lait au chocolat"
+        },
+        {
+          "ID": 3608028,
+          "Title": "Malakoff (gastronomie)"
+        },
+        {
+          "ID": 3632232,
+          "Title": "Jour de la marmotte"
+        },
+        {
+          "ID": 3843876,
+          "Title": "Soupe de tomate"
+        },
+        {
+          "ID": 4000209,
+          "Title": "Pain viennois"
+        },
+        {
+          "ID": 4052629,
+          "Title": "Bière sans alcool"
+        },
+        {
+          "ID": 4209286,
+          "Title": "XXXX"
+        },
+        {
+          "ID": 4236253,
+          "Title": "Bière de garde"
+        },
+        {
+          "ID": 4439991,
+          "Title": "Pain de Gênes"
+        },
+        {
+          "ID": 4466991,
+          "Title": "Pain complet"
+        },
+        {
+          "ID": 4483125,
+          "Title": "Pandolce"
+        },
+        {
+          "ID": 4541575,
+          "Title": "Lard"
+        },
+        {
+          "ID": 4600788,
+          "Title": "Pecorino Toscano"
+        },
+        {
+          "ID": 4649608,
+          "Title": "Ricciarelli di Siena"
+        },
+        {
+          "ID": 4796021,
+          "Title": "Gaufrette"
+        },
+        {
+          "ID": 4806845,
+          "Title": "Sucker Punch"
+        },
+        {
+          "ID": 4943052,
+          "Title": "The Wanted"
+        },
+        {
+          "ID": 4956408,
+          "Title": "Enthiran"
+        },
+        {
+          "ID": 5104334,
+          "Title": "Angry Birds"
+        },
+        {
+          "ID": 5110724,
+          "Title": "Compote de pommes"
+        },
+        {
+          "ID": 5285571,
+          "Title": "Chapalele"
+        },
+        {
+          "ID": 5304244,
+          "Title": "Judas (chanson)"
+        },
+        {
+          "ID": 5559196,
+          "Title": "Œuf (aliment)"
+        },
+        {
+          "ID": 5649067,
+          "Title": "Pizza de Chicago"
+        },
+        {
+          "ID": 5683250,
+          "Title": "Bissara"
+        },
+        {
+          "ID": 5882706,
+          "Title": "Pâte alimentaire alphabet"
+        },
+        {
+          "ID": 5893812,
+          "Title": "Pépite de chocolat"
+        },
+        {
+          "ID": 5994653,
+          "Title": "Bière à la pression"
+        },
+        {
+          "ID": 6032734,
+          "Title": "Timballo"
+        },
+        {
+          "ID": 6162802,
+          "Title": "Coppia Ferrarese"
+        },
+        {
+          "ID": 6177323,
+          "Title": "Amaretti di Saronno (marque)"
+        },
+        {
+          "ID": 6367238,
+          "Title": "Jusqu'à mon dernier souffle"
+        },
+        {
+          "ID": 6429625,
+          "Title": "Vastedda"
+        },
+        {
+          "ID": 6484665,
+          "Title": "Kamounia"
+        },
+        {
+          "ID": 6835309,
+          "Title": "Storage Wars : Enchères surprises"
+        },
+        {
+          "ID": 6979510,
+          "Title": "Drawing hands"
+        },
+        {
+          "ID": 7150710,
+          "Title": "Oil-Down"
+        },
+        {
+          "ID": 7186166,
+          "Title": "Brutti ma buoni"
+        },
+        {
+          "ID": 7219178,
+          "Title": "Bejeweled"
+        },
+        {
+          "ID": 7356499,
+          "Title": "Pinus cembroides"
+        },
+        {
+          "ID": 7369763,
+          "Title": "Thalaivaa"
+        },
+        {
+          "ID": 7662567,
+          "Title": "Fête des fusées"
+        },
+        {
+          "ID": 7752542,
+          "Title": "Flappy Bird"
+        },
+        {
+          "ID": 8056970,
+          "Title": "Viande de chauve-souris"
+        },
+        {
+          "ID": 8338884,
+          "Title": "Asam pedas"
+        },
+        {
+          "ID": 8566189,
+          "Title": "Panera Bread"
+        },
+        {
+          "ID": 8631965,
+          "Title": "PK (film)"
+        },
+        {
+          "ID": 8660843,
+          "Title": "Sponge cake"
+        },
+        {
+          "ID": 9088928,
+          "Title": "Mayweather contre Pacquiao"
+        },
+        {
+          "ID": 9128703,
+          "Title": "Almogrote"
+        },
+        {
+          "ID": 9192700,
+          "Title": "Gelato (crème glacée)"
+        },
+        {
+          "ID": 9216532,
+          "Title": "Bubur ayam"
+        },
+        {
+          "ID": 9248547,
+          "Title": "Kripik"
+        },
+        {
+          "ID": 9285376,
+          "Title": "Tongseng"
+        },
+        {
+          "ID": 9546022,
+          "Title": "Biscuit aux amandes"
+        },
+        {
+          "ID": 9622232,
+          "Title": "Rouleau de tofu"
+        },
+        {
+          "ID": 9656473,
+          "Title": "Makdous"
+        },
+        {
+          "ID": 9724148,
+          "Title": "Pizza hawaïenne"
+        },
+        {
+          "ID": 9773962,
+          "Title": "Gâteau de riz"
+        },
+        {
+          "ID": 9906252,
+          "Title": "Concours Eurovision de la chanson 2017"
+        },
+        {
+          "ID": 10108018,
+          "Title": "Conpoy"
+        },
+        {
+          "ID": 10108095,
+          "Title": "Tea sandwich"
+        },
+        {
+          "ID": 10118579,
+          "Title": "Bejeweled 2"
+        },
+        {
+          "ID": 10258247,
+          "Title": "Les pouvoirs de la prière"
+        },
+        {
+          "ID": 10388671,
+          "Title": "Mendiant en chocolat"
+        },
+        {
+          "ID": 10553031,
+          "Title": "Caldo gallego"
+        },
+        {
+          "ID": 10602858,
+          "Title": "Concours Eurovision de la chanson 2018"
+        },
+        {
+          "ID": 10621224,
+          "Title": "Liste de plats à base de porc"
+        },
+        {
+          "ID": 10709074,
+          "Title": "Bairavaa"
+        },
+        {
+          "ID": 11224820,
+          "Title": "Bánh bao"
+        },
+        {
+          "ID": 11240661,
+          "Title": "Bazeen"
+        },
+        {
+          "ID": 11595155,
+          "Title": "Bra (fromage)"
+        },
+        {
+          "ID": 11889506,
+          "Title": "Pizza à la coupe"
+        },
+        {
+          "ID": 12028968,
+          "Title": "Bejeweled 3"
+        },
+        {
+          "ID": 12229582,
+          "Title": "Hatsune Miku and Future Stars: Project Mirai"
+        },
+        {
+          "ID": 12258836,
+          "Title": "Angry Birds Rio"
+        },
+        {
+          "ID": 12259422,
+          "Title": "Angry Birds Seasons"
+        }
+      ]
+    },
+    {
+      "ID": 2147483638,
+      "Title": "Geography and places",
+      "Abstract": "Geography (Greek Geo (γη) or Gaea (γαία), meaning \"Earth\", and graphein (γράφειν) meaning \"to describe\" or \"to write\") is the study of the earth and its features, inhabitants, and phenomena. A literal translation would be \"to describe or write about the Earth\". The first person to use the word \"geography\" was Eratosthenes (275-195 B.C.). Four historical traditions in geographical research are the spatial analysis of natural and human phenomena (geography as a study of distribution), area studies (places and regions), study of man-land relationship, and research in earth sciences. Nonetheless, modern geography is an all-encompassing discipline that foremost seeks to understand the world and all of its human and natural complexities — not merely where objects are, but how they have changed and come to be. As \"the bridge between the human and physical sciences,\" geography is divided into two main branches — human geography and physical geography",
+      "Categories": [
+        {
+          "ID": 81545,
+          "Title": "Catégorie:Géographie"
+        },
+        {
+          "ID": 84967,
+          "Title": "Catégorie:Urbanisme"
+        },
+        {
+          "ID": 182884,
+          "Title": "Catégorie:Géomorphologie"
+        },
+        {
+          "ID": 1100919,
+          "Title": "Catégorie:Liste en rapport avec la géographie"
+        },
+        {
+          "ID": 3595960,
+          "Title": "Catégorie:Lieu"
+        }
+      ],
+      "Articles": [
+        {
+          "ID": 8231,
+          "Title": "Venise"
+        },
+        {
+          "ID": 31903,
+          "Title": "Queensland"
+        },
+        {
+          "ID": 75910,
+          "Title": "Canberra"
+        },
+        {
+          "ID": 665037,
+          "Title": "Birmanie"
+        },
+        {
+          "ID": 681159,
+          "Title": "Paris"
+        },
+        {
+          "ID": 1094841,
+          "Title": "Boundary Street"
+        },
+        {
+          "ID": 2167437,
+          "Title": "Carlsbad (Nouveau-Mexique)"
+        },
+        {
+          "ID": 4761826,
+          "Title": "Mandalay Hill"
+        },
+        {
+          "ID": 5070251,
+          "Title": "Aberfoyle"
+        }
+      ]
+    },
+    {
+      "ID": 2147483639,
+      "Title": "Health and fitness",
+      "Abstract": "Health is the level of functional or metabolic efficiency of a living organism. In humans it is the ability of individuals or communities to adapt and self-manage when facing physical, mental or social challenges. The most widely accepted definition of good health is that of the World Health Organization Constitution. It states: \"health is a state of complete physical, mental and social well-being and is not merely the absence of disease or infirmity\" (World Health Organization, 1946). In more recent years, this statement has been amplified to include the ability to lead a \"socially and economically productive life.\" The WHO definition is not without criticism, mainly that it is much too broad.\n\nThe most solid aspects of wellness that fit firmly in the realm of medicine are environmental health, nutrition, disease prevention, and public health. These matters can be investigated at length and can assist in measuring well-being. Please see our medical disclaimer for cautions about Wikipedia's limitations",
+      "Categories": [
+        {
+          "ID": 82499,
+          "Title": "Catégorie:Médecine"
+        },
+        {
+          "ID": 84921,
+          "Title": "Catégorie:Santé"
+        },
+        {
+          "ID": 99656,
+          "Title": "Catégorie:Hygiène"
+        },
+        {
+          "ID": 132107,
+          "Title": "Catégorie:Maladie génétique"
+        },
+        {
+          "ID": 293687,
+          "Title": "Catégorie:Spécialité médicale"
+        },
+        {
+          "ID": 1384956,
+          "Title": "Catégorie:Métier de la santé"
+        }
+      ],
+      "Articles": [
+        {
+          "ID": 7237336,
+          "Title": "Autonomous sensory meridian response"
+        }
+      ]
+    },
+    {
+      "ID": 2147483640,
+      "Title": "History and events",
+      "Abstract": "History is the interpretation of past events, societies and civilizations. The term history comes from the Greek historia (ἱστορία), \"an account of one's inquiries,\" and shares that etymology with the English word story as narrative. The 1911 Encyclopædia Britannica stated that \"history in the wider sense is all that has happened, not merely all the phenomena of human life, but those of the natural world as well. It is everything that undergoes change; and as modern science has shown that there is nothing absolutely static, therefore, the whole universe, and every part of it, has its history.\" ",
+      "Categories": [
+        {
+          "ID": 82297,
+          "Title": "Catégorie:Histoire"
+        },
+        {
+          "ID": 399764,
+          "Title": "Catégorie:Événement"
+        },
+        {
+          "ID": 625451,
+          "Title": "Catégorie:Élection par année"
+        },
+        {
+          "ID": 5526177,
+          "Title": "Catégorie:Histoire par pays"
+        }
+      ],
+      "Articles": [
+        {
+          "ID": 3428,
+          "Title": "Attentats du 11 septembre 2001"
+        },
+        {
+          "ID": 898131,
+          "Title": "Indiens des Plaines"
+        },
+        {
+          "ID": 908935,
+          "Title": "Négation de la Shoah"
+        },
+        {
+          "ID": 1874787,
+          "Title": "Histoire de la mesure"
+        },
+        {
+          "ID": 2695518,
+          "Title": "Guerre de Troie"
+        },
+        {
+          "ID": 3130273,
+          "Title": "Patriot (révolution américaine)"
+        },
+        {
+          "ID": 3263724,
+          "Title": "Élection présidentielle américaine de 2012"
+        },
+        {
+          "ID": 4994896,
+          "Title": "Loi de restriction de l'immigration de 1901"
+        },
+        {
+          "ID": 5350083,
+          "Title": "Séisme de 2011 de la côte Pacifique du Tōhoku"
+        },
+        {
+          "ID": 5775499,
+          "Title": "Ordonnance de 1785"
+        },
+        {
+          "ID": 5967454,
+          "Title": "Palmer Raids"
+        },
+        {
+          "ID": 6438472,
+          "Title": "Fusillade d'Aurora"
+        },
+        {
+          "ID": 7898284,
+          "Title": "Histoire de l'Afrique de l'Ouest"
+        },
+        {
+          "ID": 10082000,
+          "Title": "Fusillade du 12 juin 2016 à Orlando"
+        },
+        {
+          "ID": 10501879,
+          "Title": "Accusations d'ingérences russes dans l'élection présidentielle américaine de 2016"
+        }
+      ]
+    },
+    {
+      "ID": 2147483641,
+      "Title": "Mathematics and logic",
+      "Abstract": "Mathematics is the science of quantization. It is also the study of patterns and relationships, including concepts such as quantity, structure, space, uncertainty, and change. It evolved through the use of abstraction and logical reasoning, from counting, calculation, measurement, and the systematic study of positions, shapes and motions of physical objects. Mathematicians explore such concepts, aiming to formulate new conjectures and establish their truth by rigorous deduction from appropriately chosen axioms and definitions.\n\nLogic (from Classical Greek λόγος logos; meaning word, thought, idea, argument, account, reason or principle) is the study of the principles and criteria of valid inference and demonstration. As a formal science, logic investigates and classifies the structure of statements and arguments, both through the study of formal systems of inference and through the study of arguments in natural language. The field of logic ranges from core topics such as the study of fallacies and paradoxes, to specialized analysis of reasoning using probability and to arguments involving causality. Logic is also commonly used today in argumentation theory. Since the mid-nineteenth century formal logic has been studied in the context of the foundations of mathematics",
+      "Categories": [
+        {
+          "ID": 81542,
+          "Title": "Catégorie:Mathématiques"
+        },
+        {
+          "ID": 84571,
+          "Title": "Catégorie:Logique"
+        },
+        {
+          "ID": 84935,
+          "Title": "Catégorie:Statistiques"
+        },
+        {
+          "ID": 94409,
+          "Title": "Catégorie:Informatique théorique"
+        },
+        {
+          "ID": 822679,
+          "Title": "Catégorie:Branche des mathématiques"
+        },
+        {
+          "ID": 1259620,
+          "Title": "Catégorie:Applications des mathématiques"
+        }
+      ],
+      "Articles": [
+        {
+          "ID": 71455,
+          "Title": "Longueur"
+        }
+      ]
+    },
+    {
+      "ID": 2147483642,
+      "Title": "Nature and physical sciences",
+      "Abstract": "The term nature is derived from the Latin word natura, or \"essential qualities, innate disposition\". Natura is a Latin translation of the Greek word physis (φύσις), which originally related to the intrinsic characteristics that plants, animals, and other features of the world develop of their own accord. The concept of nature as a whole, all matter and energy in the universe, is one of several expansions of the original notion.\n\nPhysical science is an encompassing term for the branches of natural science, and science, that study non-living systems, in contrast to the biological sciences. However, the term \"physical\" creates an involuntary, somewhat arbitrary distinction, since many branches of physical science also study biological phenomena",
+      "Categories": [
+        {
+          "ID": 81538,
+          "Title": "Catégorie:Physique"
+        },
+        {
+          "ID": 81540,
+          "Title": "Catégorie:Chimie"
+        },
+        {
+          "ID": 81541,
+          "Title": "Catégorie:Sciences"
+        },
+        {
+          "ID": 81546,
+          "Title": "Catégorie:Zoologie"
+        },
+        {
+          "ID": 84569,
+          "Title": "Catégorie:Sciences naturelles"
+        },
+        {
+          "ID": 84594,
+          "Title": "Catégorie:Composé chimique"
+        },
+        {
+          "ID": 137901,
+          "Title": "Catégorie:Catastrophe"
+        },
+        {
+          "ID": 169786,
+          "Title": "Catégorie:Nature"
+        },
+        {
+          "ID": 4800282,
+          "Title": "Catégorie:Faune par continent"
+        },
+        {
+          "ID": 5537928,
+          "Title": "Catégorie:Science de l'environnement"
+        }
+      ],
+      "Articles": [
+        {
+          "ID": 12382,
+          "Title": "Masturbation"
+        },
+        {
+          "ID": 20544,
+          "Title": "Blé"
+        },
+        {
+          "ID": 20556,
+          "Title": "Riz"
+        },
+        {
+          "ID": 24295,
+          "Title": "Orange (fruit)"
+        },
+        {
+          "ID": 24329,
+          "Title": "Ananas"
+        },
+        {
+          "ID": 30972,
+          "Title": "Système musculaire"
+        },
+        {
+          "ID": 37859,
+          "Title": "Cycle de l'eau"
+        },
+        {
+          "ID": 52720,
+          "Title": "Pénis"
+        },
+        {
+          "ID": 52739,
+          "Title": "Testicule"
+        },
+        {
+          "ID": 81643,
+          "Title": "Maquereau commun"
+        },
+        {
+          "ID": 87999,
+          "Title": "Urine"
+        },
+        {
+          "ID": 104915,
+          "Title": "Chou-fleur"
+        },
+        {
+          "ID": 107272,
+          "Title": "Tigre blanc"
+        },
+        {
+          "ID": 109101,
+          "Title": "Mangue"
+        },
+        {
+          "ID": 111389,
+          "Title": "Rostratulidae"
+        },
+        {
+          "ID": 132827,
+          "Title": "Camelus"
+        },
+        {
+          "ID": 163386,
+          "Title": "Fauve"
+        },
+        {
+          "ID": 209996,
+          "Title": "Lime (fruit)"
+        },
+        {
+          "ID": 222067,
+          "Title": "Phoenicopterus"
+        },
+        {
+          "ID": 223792,
+          "Title": "Oranger"
+        },
+        {
+          "ID": 256612,
+          "Title": "Atèle"
+        },
+        {
+          "ID": 263177,
+          "Title": "Lycosidae"
+        },
+        {
+          "ID": 270856,
+          "Title": "Geai"
+        },
+        {
+          "ID": 341842,
+          "Title": "Germination"
+        },
+        {
+          "ID": 355955,
+          "Title": "Motoneurone"
+        },
+        {
+          "ID": 448095,
+          "Title": "Tomate cerise"
+        },
+        {
+          "ID": 463895,
+          "Title": "Juniperus thurifera"
+        },
+        {
+          "ID": 645575,
+          "Title": "Appareil locomoteur"
+        },
+        {
+          "ID": 786901,
+          "Title": "Calendrier maya"
+        },
+        {
+          "ID": 957575,
+          "Title": "Bouse"
+        },
+        {
+          "ID": 963385,
+          "Title": "Riz gluant"
+        },
+        {
+          "ID": 1028983,
+          "Title": "Osmonde de Clayton"
+        },
+        {
+          "ID": 1286412,
+          "Title": "Suspension (chimie)"
+        },
+        {
+          "ID": 1348171,
+          "Title": "Sula (oiseau)"
+        },
+        {
+          "ID": 1374002,
+          "Title": "Ophisaurus"
+        },
+        {
+          "ID": 1389246,
+          "Title": "Citronnier"
+        },
+        {
+          "ID": 1488708,
+          "Title": "Ruade"
+        },
+        {
+          "ID": 1504104,
+          "Title": "Magnolia liliiflora"
+        },
+        {
+          "ID": 1669963,
+          "Title": "Pseudacris crucifer"
+        },
+        {
+          "ID": 1691907,
+          "Title": "Manteau (mollusque)"
+        },
+        {
+          "ID": 1883864,
+          "Title": "Migration des insectes"
+        },
+        {
+          "ID": 2330280,
+          "Title": "Épinette d'Engelmann"
+        },
+        {
+          "ID": 2954945,
+          "Title": "Corymbia ficifolia"
+        },
+        {
+          "ID": 3324136,
+          "Title": "Feu"
+        },
+        {
+          "ID": 3430823,
+          "Title": "Cerf des Keys"
+        },
+        {
+          "ID": 3921412,
+          "Title": "Rousseur"
+        },
+        {
+          "ID": 4271969,
+          "Title": "Pinus kesiya"
+        },
+        {
+          "ID": 4404838,
+          "Title": "Maïs"
+        },
+        {
+          "ID": 4422434,
+          "Title": "Citron Ponderosa"
+        },
+        {
+          "ID": 4625258,
+          "Title": "Glaphyromorphus"
+        },
+        {
+          "ID": 4733216,
+          "Title": "Balle de riz"
+        },
+        {
+          "ID": 4862049,
+          "Title": "Grenouille arboricole"
+        },
+        {
+          "ID": 5184228,
+          "Title": "Fragaria ×ananassa"
+        },
+        {
+          "ID": 5391357,
+          "Title": "Couleur complémentaire"
+        },
+        {
+          "ID": 6619373,
+          "Title": "Alces alces"
+        },
+        {
+          "ID": 7888284,
+          "Title": "Elymus farctus"
+        },
+        {
+          "ID": 8362427,
+          "Title": "Tarte au citron meringuée"
+        }
+      ]
+    },
+    {
+      "ID": 2147483643,
+      "Title": "People and self",
+      "Abstract": "A collection of people often refers to a general group, such as all humans, an ethnic group or a nation. An individual person is the self, from his or her own perspective. To you, \"self\" is you. To someone else, \"self\" is that person. A biography is a genre of literature or film, which presents a relatively full account of the most interesting and important events of a notable person's life.\n\nLife or personal life or human existence is an individual human's personal, private experience of living (including their employment career, their family life, and other elements). In prehistoric times, life and existence was based on survival. There was little privacy and a person was identified by their role in the group. In modern times, many people have even come to think of their personal lives as if they are separate from their work. This segmentation of \"life areas\" is evident in such phrases as \"work life\", \"home life\", and \"sex life.\" The meaning or role of a person's \"life\" or \"human existence\" is discussed in many religions and philosophies. In Western industrialized countries, there are a variety of service industries that help people improve their personal lives, such as counselling and life coaching companies",
+      "Categories": [
+        {
+          "ID": 85314,
+          "Title": "Catégorie:Personnage de cinéma"
+        },
+        {
+          "ID": 87521,
+          "Title": "Catégorie:Vie quotidienne"
+        },
+        {
+          "ID": 157847,
+          "Title": "Catégorie:Femme"
+        },
+        {
+          "ID": 327250,
+          "Title": "Catégorie:Patronyme"
+        },
+        {
+          "ID": 9265165,
+          "Title": "Catégorie:Personne"
+        },
+        {
+          "ID": 9270175,
+          "Title": "Catégorie:Soi en psychologie"
+        }
+      ],
+      "Articles": [
+        {
+          "ID": 527,
+          "Title": "Carl Sagan"
+        },
+        {
+          "ID": 2770,
+          "Title": "Sigmund Freud"
+        },
+        {
+          "ID": 7239,
+          "Title": "Alan Turing"
+        },
+        {
+          "ID": 10755,
+          "Title": "Joseph Smith"
+        },
+        {
+          "ID": 11050,
+          "Title": "René Descartes"
+        },
+        {
+          "ID": 12325,
+          "Title": "Thomas d'Aquin"
+        },
+        {
+          "ID": 12592,
+          "Title": "Carl Friedrich Gauss"
+        },
+        {
+          "ID": 14001,
+          "Title": "Johannes Kepler"
+        },
+        {
+          "ID": 15279,
+          "Title": "Richard Dawkins"
+        },
+        {
+          "ID": 15606,
+          "Title": "Oliver Cromwell"
+        },
+        {
+          "ID": 15681,
+          "Title": "Adam Smith"
+        },
+        {
+          "ID": 17520,
+          "Title": "Srinivasa Ramanujan"
+        },
+        {
+          "ID": 23374,
+          "Title": "John Lennon"
+        },
+        {
+          "ID": 27093,
+          "Title": "Alexander Fleming"
+        },
+        {
+          "ID": 28945,
+          "Title": "Charles Babbage"
+        },
+        {
+          "ID": 31608,
+          "Title": "Richard Wagner"
+        },
+        {
+          "ID": 38156,
+          "Title": "George Harrison"
+        },
+        {
+          "ID": 39231,
+          "Title": "Johnny Appleseed"
+        },
+        {
+          "ID": 53369,
+          "Title": "Lewis Carroll"
+        },
+        {
+          "ID": 56463,
+          "Title": "Ayn Rand"
+        },
+        {
+          "ID": 58088,
+          "Title": "Florence Nightingale"
+        },
+        {
+          "ID": 100608,
+          "Title": "William Blake"
+        },
+        {
+          "ID": 132832,
+          "Title": "Elton John"
+        },
+        {
+          "ID": 135117,
+          "Title": "Daniel Radcliffe"
+        },
+        {
+          "ID": 154628,
+          "Title": "Irving Langmuir"
+        },
+        {
+          "ID": 231012,
+          "Title": "Karl Friedrich Abel"
+        },
+        {
+          "ID": 383177,
+          "Title": "Harry Houdini"
+        },
+        {
+          "ID": 484122,
+          "Title": "Chaïm Soutine"
+        },
+        {
+          "ID": 699400,
+          "Title": "Stefan Lochner"
+        },
+        {
+          "ID": 826662,
+          "Title": "Theodor Schwann"
+        },
+        {
+          "ID": 933790,
+          "Title": "Janet Margolin"
+        },
+        {
+          "ID": 1148441,
+          "Title": "Christophe Colomb"
+        },
+        {
+          "ID": 1200659,
+          "Title": "Norah McClintock"
+        },
+        {
+          "ID": 1299408,
+          "Title": "Bill Gates"
+        },
+        {
+          "ID": 1696582,
+          "Title": "Adolf Hitler"
+        },
+        {
+          "ID": 1784799,
+          "Title": "Evan"
+        },
+        {
+          "ID": 2014752,
+          "Title": "Henry Parkes"
+        },
+        {
+          "ID": 2541382,
+          "Title": "Jacob Black"
+        },
+        {
+          "ID": 2719161,
+          "Title": "Francis Marion"
+        },
+        {
+          "ID": 2827279,
+          "Title": "Leonardo Fibonacci"
+        },
+        {
+          "ID": 2869970,
+          "Title": "Wilson Flagg"
+        },
+        {
+          "ID": 3571955,
+          "Title": "Ring Lardner"
+        },
+        {
+          "ID": 3789113,
+          "Title": "Sheldon Cooper"
+        },
+        {
+          "ID": 3812645,
+          "Title": "Big Show (catch)"
+        },
+        {
+          "ID": 3972997,
+          "Title": "Galilée (savant)"
+        },
+        {
+          "ID": 4341910,
+          "Title": "Cory Monteith"
+        },
+        {
+          "ID": 4752661,
+          "Title": "Noam Chomsky"
+        },
+        {
+          "ID": 5205396,
+          "Title": "Meadowlark Lemon"
+        },
+        {
+          "ID": 5621102,
+          "Title": "Anders Behring Breivik"
+        },
+        {
+          "ID": 6456479,
+          "Title": "Daniel Hale Williams"
+        },
+        {
+          "ID": 6685754,
+          "Title": "Ted Cruz"
+        },
+        {
+          "ID": 6685869,
+          "Title": "Bob Ross"
+        },
+        {
+          "ID": 6750231,
+          "Title": "Gâteau de Battenberg"
+        },
+        {
+          "ID": 10208502,
+          "Title": "Dorothy Vaughan"
+        },
+        {
+          "ID": 10344815,
+          "Title": "Liste des chaînes YouTube ayant le plus d'abonnés"
+        },
+        {
+          "ID": 10539284,
+          "Title": "Gilles Borrie"
+        }
+      ]
+    },
+    {
+      "ID": 2147483644,
+      "Title": "Philosophy and thinking",
+      "Abstract": "Philosophy has almost as many definitions as there have been philosophers, both as a subject matter and an activity, and no simple definition can do it justice. The issue of the definition of philosophy is thus a controversial subject that is nowadays tackled by Metaphilosophy (or the philosophy of philosophy). The word is derived from the ancient Greek words philo-, to love or to befriend, and -sophia, wisdom. Modern usage of the term is much broader; the concept of philosophy encompasses all of knowledge and all that can be known, including the means by which such knowledge can be acquired. However, in the contemporary English-speaking academic world, the term is often used implicitly to refer to analytic philosophy and, in non-English speaking countries, it often refers implicitly to a different, European strain, continental philosophy. The ancient Greeks organized the subject into five basic categories: metaphysics, epistemology, ethics, politics and aesthetics. This organization of the subject is still largely in use in Western philosophy today.\n\nThought or thinking is a mental process which allows beings to model the world, and so to deal with it effectively according to their goals, plans, ends and desires. Words referring to similar concepts and processes in the English language include cognition, sentience, consciousness, idea, and imagination. Thinking involves the cerebral manipulation of information, as when we form concepts, engage in problem solving, reason and make decisions. Thinking is a higher cognitive function and the analysis of thinking processes is part of cognitive psychology",
+      "Categories": [
+        {
+          "ID": 84947,
+          "Title": "Catégorie:Philosophie"
+        },
+        {
+          "ID": 152793,
+          "Title": "Catégorie:Idéologie"
+        },
+        {
+          "ID": 277612,
+          "Title": "Catégorie:Éthique"
+        },
+        {
+          "ID": 294252,
+          "Title": "Catégorie:Branche de la philosophie"
+        },
+        {
+          "ID": 896807,
+          "Title": "Catégorie:Pensée"
+        },
+        {
+          "ID": 957179,
+          "Title": "Catégorie:Courant philosophique"
+        }
+      ],
+      "Articles": [
+        {
+          "ID": 114976,
+          "Title": "Beau"
+        },
+        {
+          "ID": 1815614,
+          "Title": "Effet Dunning-Kruger"
+        },
+        {
+          "ID": 4104719,
+          "Title": "Bonheur"
+        },
+        {
+          "ID": 7784647,
+          "Title": "Fait"
+        },
+        {
+          "ID": 9698499,
+          "Title": "Gaslighting"
+        }
+      ]
+    },
+    {
+      "ID": 2147483645,
+      "Title": "Religion and belief systems",
+      "Abstract": "Religion is the adherence to codified beliefs and rituals that generally involve a faith in a spiritual nature and a study of inherited ancestral traditions, knowledge and wisdom related to understanding human life. The term \"religion\" refers to both the personal practices related to faith as well as to the larger shared systems of belief.\n\nA belief system can refer to a religion or a world view. A world view (or worldview) is a term calqued from the German word Weltanschauung Welt is the German word for 'world,' and Anschauung is the German word for 'view' or 'outlook'. It is a concept fundamental to German philosophy and epistemology and refers to a wide world perception. Additionally, it refers to the framework of ideas and beliefs through which an individual interprets the world and interacts in it",
+      "Categories": [
+        {
+          "ID": 83151,
+          "Title": "Catégorie:Mythologie"
+        },
+        {
+          "ID": 84974,
+          "Title": "Catégorie:Religion"
+        },
+        {
+          "ID": 165080,
+          "Title": "Catégorie:Croyance"
+        },
+        {
+          "ID": 351563,
+          "Title": "Catégorie:Critique des religions"
+        },
+        {
+          "ID": 449485,
+          "Title": "Catégorie:Laïcité"
+        },
+        {
+          "ID": 536247,
+          "Title": "Catégorie:Anthropologie des religions"
+        },
+        {
+          "ID": 1138812,
+          "Title": "Catégorie:Religion du monde indien"
+        },
+        {
+          "ID": 1830799,
+          "Title": "Catégorie:Controverse en religion"
+        },
+        {
+          "ID": 6200508,
+          "Title": "Catégorie:Personnalité religieuse"
+        }
+      ],
+      "Articles": [
+        {
+          "ID": 317079,
+          "Title": "Gourmandise"
+        }
+      ]
+    },
+    {
+      "ID": 2147483646,
+      "Title": "Society and social sciences",
+      "Abstract": "A society is a group of people who form a semi-closed system. At its simplest, the term society refers to a large group of people sharing their own culture and institutions. A society is a network of relationships between people. The English word society is derived from the French société, which had its origin in the Latin societas, a \"friendly association with others,\" from socius meaning \"companion, associate, comrade or business partner.\" Thus, the meaning of society is closely related to what is considered to be social. Implicit in the meaning of society is that its members may share some mutual concern or interest, a common objective or common characteristics. The social sciences generally use the term society to mean a group of people who form a semi-closed social system, in which most interactions are with other individuals belonging to the group. More abstractly, a society is defined as a network of relationships between social entities. A society is also sometimes defined as an interdependent community, but the sociologist Tönnies sought to draw a contrast between society and community. An important feature of society is social structure, aspects of which include roles and social ranking.\n\nThe social science are a group of academic disciplines that study human aspects of the world. They differ from the arts and the humanities, in that the social science tend to emphasize the use of the scientific method in the study of humanity, including quantitative and qualitative methods",
+      "Categories": [
+        {
+          "ID": 96531,
+          "Title": "Catégorie:Organisation internationale"
+        },
+        {
+          "ID": 108395,
+          "Title": "Catégorie:Société"
+        },
+        {
+          "ID": 144879,
+          "Title": "Catégorie:Féminisme"
+        }
+      ],
+      "Articles": [
+        {
+          "ID": 2028,
+          "Title": "Massachusetts Institute of Technology"
+        },
+        {
+          "ID": 2497,
+          "Title": "Programme des Nations unies pour l'environnement"
+        },
+        {
+          "ID": 8912,
+          "Title": "Micronation"
+        },
+        {
+          "ID": 13705,
+          "Title": "American Airlines"
+        },
+        {
+          "ID": 13788,
+          "Title": "Vie politique au Chili"
+        },
+        {
+          "ID": 25903,
+          "Title": "Drapeau de l'Australie"
+        },
+        {
+          "ID": 31154,
+          "Title": "Université de Cambridge"
+        },
+        {
+          "ID": 47774,
+          "Title": "Nouvel An chinois"
+        },
+        {
+          "ID": 53719,
+          "Title": "BP (entreprise)"
+        },
+        {
+          "ID": 62593,
+          "Title": "Université d'Uppsala"
+        },
+        {
+          "ID": 68051,
+          "Title": "Université Harvard"
+        },
+        {
+          "ID": 69132,
+          "Title": "Université Columbia"
+        },
+        {
+          "ID": 70630,
+          "Title": "Université de Nankin"
+        },
+        {
+          "ID": 75960,
+          "Title": "Université d'Oxford"
+        },
+        {
+          "ID": 76912,
+          "Title": "Fox News Channel"
+        },
+        {
+          "ID": 81340,
+          "Title": "Université de Washington"
+        },
+        {
+          "ID": 118970,
+          "Title": "Université de l'Iowa"
+        },
+        {
+          "ID": 122064,
+          "Title": "Pizza Hut"
+        },
+        {
+          "ID": 122242,
+          "Title": "Université de Waterloo"
+        },
+        {
+          "ID": 136613,
+          "Title": "Université de Bologne"
+        },
+        {
+          "ID": 138900,
+          "Title": "Heure d'été"
+        },
+        {
+          "ID": 147418,
+          "Title": "Prohibition"
+        },
+        {
+          "ID": 153363,
+          "Title": "Université de Princeton"
+        },
+        {
+          "ID": 162709,
+          "Title": "Économie de la Barbade"
+        },
+        {
+          "ID": 194477,
+          "Title": "Université de Tokyo"
+        },
+        {
+          "ID": 210169,
+          "Title": "Université de Virginie"
+        },
+        {
+          "ID": 235643,
+          "Title": "Université de Tartu"
+        },
+        {
+          "ID": 245237,
+          "Title": "Université Stanford"
+        },
+        {
+          "ID": 253713,
+          "Title": "Université de Trieste"
+        },
+        {
+          "ID": 253795,
+          "Title": "Université de Catane"
+        },
+        {
+          "ID": 253858,
+          "Title": "Université de Padoue"
+        },
+        {
+          "ID": 253868,
+          "Title": "Université de Gênes"
+        },
+        {
+          "ID": 253943,
+          "Title": "Université nationale australienne"
+        },
+        {
+          "ID": 253970,
+          "Title": "Université de Pennsylvanie"
+        },
+        {
+          "ID": 253971,
+          "Title": "Imperial College London"
+        },
+        {
+          "ID": 253988,
+          "Title": "Université de Fribourg-en-Brisgau"
+        },
+        {
+          "ID": 253997,
+          "Title": "Université d'État de Moscou"
+        },
+        {
+          "ID": 254565,
+          "Title": "Université de Chicago"
+        },
+        {
+          "ID": 254570,
+          "Title": "Université du Michigan"
+        },
+        {
+          "ID": 254591,
+          "Title": "Université Washington de Saint-Louis"
+        },
+        {
+          "ID": 255377,
+          "Title": "Université de Boston"
+        },
+        {
+          "ID": 256899,
+          "Title": "Université de Milan"
+        },
+        {
+          "ID": 257104,
+          "Title": "Université de Naples - Frédéric-II"
+        },
+        {
+          "ID": 293543,
+          "Title": "Université Queen's"
+        },
+        {
+          "ID": 293665,
+          "Title": "Université de Western Ontario"
+        },
+        {
+          "ID": 299244,
+          "Title": "Starbucks"
+        },
+        {
+          "ID": 336241,
+          "Title": "Université de Stockholm"
+        },
+        {
+          "ID": 347845,
+          "Title": "Université de Turin"
+        },
+        {
+          "ID": 352170,
+          "Title": "American University"
+        },
+        {
+          "ID": 358921,
+          "Title": "Université Rikkyō"
+        },
+        {
+          "ID": 380193,
+          "Title": "Université Thammasat"
+        },
+        {
+          "ID": 380320,
+          "Title": "Université rhénane Frédéric-Guillaume de Bonn"
+        },
+        {
+          "ID": 383218,
+          "Title": "Domino's Pizza"
+        },
+        {
+          "ID": 394065,
+          "Title": "Taco Bell"
+        },
+        {
+          "ID": 431865,
+          "Title": "Université de Münster"
+        },
+        {
+          "ID": 444640,
+          "Title": "Université d'Udine"
+        },
+        {
+          "ID": 444667,
+          "Title": "Université de Ferrare"
+        },
+        {
+          "ID": 444677,
+          "Title": "Université de Vérone"
+        },
+        {
+          "ID": 445231,
+          "Title": "Université de Wurtzbourg"
+        },
+        {
+          "ID": 445307,
+          "Title": "Université de Göttingen"
+        },
+        {
+          "ID": 445386,
+          "Title": "Université du Minnesota"
+        },
+        {
+          "ID": 445394,
+          "Title": "Université d'Osaka"
+        },
+        {
+          "ID": 445412,
+          "Title": "Université du Tōhoku"
+        },
+        {
+          "ID": 445469,
+          "Title": "Université de Sydney"
+        },
+        {
+          "ID": 445481,
+          "Title": "Université du Maryland"
+        },
+        {
+          "ID": 445492,
+          "Title": "Université Rice"
+        },
+        {
+          "ID": 445518,
+          "Title": "Université de Californie du Sud"
+        },
+        {
+          "ID": 445584,
+          "Title": "Université du Texas"
+        },
+        {
+          "ID": 457904,
+          "Title": "Université de Cincinnati"
+        },
+        {
+          "ID": 471973,
+          "Title": "The Times of India"
+        },
+        {
+          "ID": 479137,
+          "Title": "Université Tsinghua"
+        },
+        {
+          "ID": 499315,
+          "Title": "Troisième Guerre mondiale"
+        },
+        {
+          "ID": 514791,
+          "Title": "Université de Göteborg"
+        },
+        {
+          "ID": 517037,
+          "Title": "Université de Lviv"
+        },
+        {
+          "ID": 541820,
+          "Title": "Université de Nottingham"
+        },
+        {
+          "ID": 542534,
+          "Title": "Université de Glasgow"
+        },
+        {
+          "ID": 571219,
+          "Title": "Université d'Umeå"
+        },
+        {
+          "ID": 572808,
+          "Title": "Université de Warwick"
+        },
+        {
+          "ID": 578207,
+          "Title": "Open University"
+        },
+        {
+          "ID": 586629,
+          "Title": "Sloan School of Management"
+        },
+        {
+          "ID": 589740,
+          "Title": "Université de Cologne"
+        },
+        {
+          "ID": 590580,
+          "Title": "Université d'Auckland"
+        },
+        {
+          "ID": 599346,
+          "Title": "Université de Calgary"
+        },
+        {
+          "ID": 620817,
+          "Title": "Université de la ville de New York"
+        },
+        {
+          "ID": 620834,
+          "Title": "Université de l'Arizona"
+        },
+        {
+          "ID": 638865,
+          "Title": "Université de Vienne"
+        },
+        {
+          "ID": 646930,
+          "Title": "Université du Queensland"
+        },
+        {
+          "ID": 680552,
+          "Title": "Université de l'Illinois à Chicago"
+        },
+        {
+          "ID": 686464,
+          "Title": "Université de la Saskatchewan"
+        },
+        {
+          "ID": 708394,
+          "Title": "Université de Londres"
+        },
+        {
+          "ID": 715262,
+          "Title": "Université d'Aberdeen"
+        },
+        {
+          "ID": 717704,
+          "Title": "Université d'Abertay Dundee"
+        },
+        {
+          "ID": 718631,
+          "Title": "Université de Manchester"
+        },
+        {
+          "ID": 736634,
+          "Title": "Université du Manitoba"
+        },
+        {
+          "ID": 784472,
+          "Title": "Université Panteion"
+        },
+        {
+          "ID": 834565,
+          "Title": "Université de Bath"
+        },
+        {
+          "ID": 864541,
+          "Title": "Université de Téhéran"
+        },
+        {
+          "ID": 889704,
+          "Title": "Université d'État de l'Ohio"
+        },
+        {
+          "ID": 924481,
+          "Title": "Université Jawaharlal-Nehru"
+        },
+        {
+          "ID": 943971,
+          "Title": "Université de St Andrews"
+        },
+        {
+          "ID": 944117,
+          "Title": "Centrum voor Wiskunde en Informatica"
+        },
+        {
+          "ID": 967260,
+          "Title": "Université de Berne"
+        },
+        {
+          "ID": 977657,
+          "Title": "Université de Victoria"
+        },
+        {
+          "ID": 986954,
+          "Title": "Université nationale de Séoul"
+        },
+        {
+          "ID": 991845,
+          "Title": "Université Alexandru Ioan Cuza de Iași"
+        },
+        {
+          "ID": 992300,
+          "Title": "Université de Coventry"
+        },
+        {
+          "ID": 993261,
+          "Title": "Université du Kent"
+        },
+        {
+          "ID": 1011546,
+          "Title": "Birmingham City University"
+        },
+        {
+          "ID": 1016864,
+          "Title": "Université de Leipzig"
+        },
+        {
+          "ID": 1028255,
+          "Title": "Université de Wrocław"
+        },
+        {
+          "ID": 1030440,
+          "Title": "Université d'Exeter"
+        },
+        {
+          "ID": 1068118,
+          "Title": "Université de Guelph"
+        },
+        {
+          "ID": 1073138,
+          "Title": "Université d'État de Saint-Pétersbourg"
+        },
+        {
+          "ID": 1076372,
+          "Title": "Institut Balseiro"
+        },
+        {
+          "ID": 1081271,
+          "Title": "Université du Bosphore"
+        },
+        {
+          "ID": 1082819,
+          "Title": "Université Napier d'Édimbourg"
+        },
+        {
+          "ID": 1134177,
+          "Title": "National Archives and Records Administration"
+        },
+        {
+          "ID": 1142828,
+          "Title": "Université de Southampton"
+        },
+        {
+          "ID": 1148215,
+          "Title": "Université du Wisconsin à Milwaukee"
+        },
+        {
+          "ID": 1198172,
+          "Title": "Trust (économie)"
+        },
+        {
+          "ID": 1251007,
+          "Title": "Université de Sheffield"
+        },
+        {
+          "ID": 1252799,
+          "Title": "Université de Bristol"
+        },
+        {
+          "ID": 1294224,
+          "Title": "Université hébraïque de Jérusalem"
+        },
+        {
+          "ID": 1376195,
+          "Title": "Université de Dayton"
+        },
+        {
+          "ID": 1418538,
+          "Title": "Université Eberhard Karl de Tübingen"
+        },
+        {
+          "ID": 1427322,
+          "Title": "Université du Sussex"
+        },
+        {
+          "ID": 1494844,
+          "Title": "Université de l'Alabama"
+        },
+        {
+          "ID": 1495002,
+          "Title": "Université de l'Indiana"
+        },
+        {
+          "ID": 1504750,
+          "Title": "Université de Reading"
+        },
+        {
+          "ID": 1514432,
+          "Title": "Économie de l'Iran"
+        },
+        {
+          "ID": 1572053,
+          "Title": "City University"
+        },
+        {
+          "ID": 1645260,
+          "Title": "Université de Regina"
+        },
+        {
+          "ID": 1649400,
+          "Title": "Université du Missouri à Columbia"
+        },
+        {
+          "ID": 1784975,
+          "Title": "Université Tulane"
+        },
+        {
+          "ID": 1944424,
+          "Title": "Université de Liverpool"
+        },
+        {
+          "ID": 1956834,
+          "Title": "Université de Leeds"
+        },
+        {
+          "ID": 2016521,
+          "Title": "Université d'État de New York à Buffalo"
+        },
+        {
+          "ID": 2143998,
+          "Title": "Union européenne"
+        },
+        {
+          "ID": 2349692,
+          "Title": "Université Rush"
+        },
+        {
+          "ID": 2382768,
+          "Title": "Université Acadia"
+        },
+        {
+          "ID": 2464336,
+          "Title": "Université du Sud-Est"
+        },
+        {
+          "ID": 2477889,
+          "Title": "Université de Tasmanie"
+        },
+        {
+          "ID": 2689548,
+          "Title": "Université Sungkyunkwan"
+        },
+        {
+          "ID": 2711296,
+          "Title": "The New York Times"
+        },
+        {
+          "ID": 2767648,
+          "Title": "Université de l'Indiana à Bloomington"
+        },
+        {
+          "ID": 2792872,
+          "Title": "Université de Wollongong"
+        },
+        {
+          "ID": 2815223,
+          "Title": "Université du Texas à Austin"
+        },
+        {
+          "ID": 2820221,
+          "Title": "Université Memorial de Terre-Neuve"
+        },
+        {
+          "ID": 2946120,
+          "Title": "Université d'Otago"
+        },
+        {
+          "ID": 3027332,
+          "Title": "Université de Denver"
+        },
+        {
+          "ID": 3034406,
+          "Title": "Université de Phoenix"
+        },
+        {
+          "ID": 3145291,
+          "Title": "Université Sōka"
+        },
+        {
+          "ID": 3182008,
+          "Title": "Université de Hull"
+        },
+        {
+          "ID": 3198558,
+          "Title": "Université de La Trobe"
+        },
+        {
+          "ID": 3320042,
+          "Title": "Université Miami"
+        },
+        {
+          "ID": 3321943,
+          "Title": "Université d'Akron"
+        },
+        {
+          "ID": 3322010,
+          "Title": "Université de Toledo"
+        },
+        {
+          "ID": 3323958,
+          "Title": "Université de l'Oregon"
+        },
+        {
+          "ID": 3392082,
+          "Title": "Université de Houston"
+        },
+        {
+          "ID": 3436978,
+          "Title": "Université du Montana"
+        },
+        {
+          "ID": 3449003,
+          "Title": "Université de Canterbury"
+        },
+        {
+          "ID": 3517722,
+          "Title": "Université du Tennessee"
+        },
+        {
+          "ID": 3611813,
+          "Title": "Université d'Odessa"
+        },
+        {
+          "ID": 3660144,
+          "Title": "Université de Leicester"
+        },
+        {
+          "ID": 4034382,
+          "Title": "Université de Hokkaidō"
+        },
+        {
+          "ID": 4072979,
+          "Title": "Lycée français Louis-Pasteur"
+        },
+        {
+          "ID": 4082895,
+          "Title": "Travail social"
+        },
+        {
+          "ID": 4130925,
+          "Title": "Université d'East Anglia"
+        },
+        {
+          "ID": 4168240,
+          "Title": "Université du Mississippi"
+        },
+        {
+          "ID": 4224442,
+          "Title": "Université de Winchester"
+        },
+        {
+          "ID": 4224558,
+          "Title": "Université d'Ulster"
+        },
+        {
+          "ID": 4256238,
+          "Title": "Université du Bedforshire"
+        },
+        {
+          "ID": 4256271,
+          "Title": "Université de Northampton"
+        },
+        {
+          "ID": 4256365,
+          "Title": "Université de Lincoln"
+        },
+        {
+          "ID": 4269413,
+          "Title": "Université de Chester"
+        },
+        {
+          "ID": 4272303,
+          "Title": "Université du Hertfordshire"
+        },
+        {
+          "ID": 4272328,
+          "Title": "Université de Derby"
+        },
+        {
+          "ID": 4274958,
+          "Title": "Université de Lancaster"
+        },
+        {
+          "ID": 4303022,
+          "Title": "Université de Surrey"
+        },
+        {
+          "ID": 4315969,
+          "Title": "Université de Plymouth"
+        },
+        {
+          "ID": 4318121,
+          "Title": "Université Kingston"
+        },
+        {
+          "ID": 4528881,
+          "Title": "Université de Linköping"
+        },
+        {
+          "ID": 4630193,
+          "Title": "Université de Jordanie"
+        },
+        {
+          "ID": 4705739,
+          "Title": "CDG Capital"
+        },
+        {
+          "ID": 4839803,
+          "Title": "Circonscription de Higgins"
+        },
+        {
+          "ID": 4915772,
+          "Title": "Université de Malaya"
+        },
+        {
+          "ID": 4916502,
+          "Title": "Université du Delaware"
+        },
+        {
+          "ID": 4924773,
+          "Title": "Université de Newcastle (Australie)"
+        },
+        {
+          "ID": 5084127,
+          "Title": "Université du KwaZulu-Natal"
+        },
+        {
+          "ID": 5287459,
+          "Title": "Université Gurû Gobind Singh Indraprastha"
+        },
+        {
+          "ID": 5319812,
+          "Title": "Forces armées de la Mongolie"
+        },
+        {
+          "ID": 5394023,
+          "Title": "Quatrième amendement de la Constitution des États-Unis"
+        },
+        {
+          "ID": 5437856,
+          "Title": "Université d'État de l'Illinois"
+        },
+        {
+          "ID": 5447448,
+          "Title": "Université de Delhi"
+        },
+        {
+          "ID": 6163864,
+          "Title": "Université du Pendjab (Lahore)"
+        },
+        {
+          "ID": 6269360,
+          "Title": "Université de Saint-Louis"
+        },
+        {
+          "ID": 6540083,
+          "Title": "Nouvelle université de Paris"
+        },
+        {
+          "ID": 6599653,
+          "Title": "Université de Towson"
+        },
+        {
+          "ID": 6655988,
+          "Title": "Université de Calcutta"
+        },
+        {
+          "ID": 6835730,
+          "Title": "Université de Jadavpur"
+        },
+        {
+          "ID": 6939485,
+          "Title": "Université de Lagos"
+        },
+        {
+          "ID": 6972295,
+          "Title": "Université Koç"
+        },
+        {
+          "ID": 7001914,
+          "Title": "The Willy Wonka Candy Company"
+        },
+        {
+          "ID": 7142512,
+          "Title": "Université de Mumbai"
+        },
+        {
+          "ID": 7162218,
+          "Title": "Université musulmane d'Aligarh"
+        },
+        {
+          "ID": 7214657,
+          "Title": "Université de Birmingham"
+        },
+        {
+          "ID": 7250705,
+          "Title": "Université Jinan"
+        },
+        {
+          "ID": 8227448,
+          "Title": "Université du Nord-Ouest"
+        },
+        {
+          "ID": 8230898,
+          "Title": "Université de Karachi"
+        },
+        {
+          "ID": 8237968,
+          "Title": "Université islamique Azad"
+        },
+        {
+          "ID": 9090102,
+          "Title": "Université du Sind"
+        },
+        {
+          "ID": 9610656,
+          "Title": "Université de Northumbria"
+        },
+        {
+          "ID": 10042078,
+          "Title": "Université du Panjab"
+        },
+        {
+          "ID": 10589199,
+          "Title": "Faits alternatifs"
+        },
+        {
+          "ID": 10660770,
+          "Title": "Jio"
+        },
+        {
+          "ID": 10735144,
+          "Title": "Attentat de Westminster"
+        },
+        {
+          "ID": 10919785,
+          "Title": "Université du Sud-Ouest"
+        }
+      ]
+    },
+    {
+      "ID": 2147483647,
+      "Title": "Technology and applied sciences",
+      "Abstract": "Technology is an expanded concept that deals with a species' usage and knowledge of tools and crafts, and how it affects a species' ability to control and adapt to its environment. In human civilization, it is a consequence of science and engineering, although several technological advances predate the formalization of these two disciplines. The term can either be applied generally or to specific areas – examples include construction technology, medical technology, or state-of-the-art technology.\n\nThe human race's use of technology began with the conversion of plentiful natural resources into simple tools. The prehistorical discovery of the ability to control fire increased the available sources of food, and the invention of the wheel helped humans in travelling in and controlling their environment. Recent technological developments, including the printing press and the Internet, have lessened physical barriers to communication and allowed humans to interact on a global scale. However, not all technology has been used for peaceful purposes; the development of weapons of ever-increasing destructive power has progressed throughout history, from clubs to nuclear bombs.\n\nApplied science is the application of knowledge from one or more natural scientific fields to solving practical problems. For example, fields of engineering are applied sciences. Applied science is important for technology development. Its use in industrial settings is usually referred to as research and development (R\u0026D)",
+      "Categories": [
+        {
+          "ID": 82486,
+          "Title": "Catégorie:Internet"
+        },
+        {
+          "ID": 82492,
+          "Title": "Catégorie:Transport"
+        },
+        {
+          "ID": 82557,
+          "Title": "Catégorie:Informatique"
+        },
+        {
+          "ID": 84691,
+          "Title": "Catégorie:Électronique"
+        },
+        {
+          "ID": 84694,
+          "Title": "Catégorie:Ingénierie"
+        },
+        {
+          "ID": 84695,
+          "Title": "Catégorie:Technologie"
+        },
+        {
+          "ID": 85441,
+          "Title": "Catégorie:Techniques et sciences appliquées"
+        },
+        {
+          "ID": 484174,
+          "Title": "Catégorie:Design"
+        },
+        {
+          "ID": 1888696,
+          "Title": "Catégorie:Histoire des techniques"
+        },
+        {
+          "ID": 2841725,
+          "Title": "Catégorie:Équipement militaire"
+        },
+        {
+          "ID": 3951846,
+          "Title": "Catégorie:Application de l'informatique"
+        }
+      ],
+      "Articles": [
+        {
+          "ID": 11339,
+          "Title": "Pepsi"
+        },
+        {
+          "ID": 27507,
+          "Title": "Mur"
+        },
+        {
+          "ID": 91996,
+          "Title": "32X"
+        },
+        {
+          "ID": 147589,
+          "Title": "Maçonnerie"
+        },
+        {
+          "ID": 149607,
+          "Title": "Chewing-gum"
+        },
+        {
+          "ID": 596247,
+          "Title": "Soudage TIG"
+        },
+        {
+          "ID": 1078283,
+          "Title": "Queue-d'aronde"
+        },
+        {
+          "ID": 1203781,
+          "Title": "Machine à pain"
+        },
+        {
+          "ID": 1508660,
+          "Title": "Mountain Dew (marque de boisson)"
+        },
+        {
+          "ID": 3860573,
+          "Title": "Étude de faisabilité"
+        },
+        {
+          "ID": 4797269,
+          "Title": ".xxx"
+        }
+      ]
+    }
+  ],
+  "Filters": [
+    {
+      "ID": 99788,
+      "Title": "Catégorie:Homonymie"
+    },
+    {
+      "ID": 2883129,
+      "Title": "Catégorie:Catégorie cachée"
+    }
+  ]
+}

@@ -1,0 +1,1050 @@
+{
+  "Language": "gl",
+  "Topics": [
+    {
+      "ID": 2147483637,
+      "Title": "Culture and the arts",
+      "Abstract": "The word culture is derived from the Latin root cultura or cultus meaning to \"inhabit, cultivate, or honour\". In general, culture refers to human activity; different definitions of culture reflect different theories for understanding, or criteria for valuing human activity. Present day Anthropologists use the term to refer to the universal human capacity to classify experiences and to encode and communicate them symbolically. They regard this capacity as a defining feature of the genus Homo. Since culture is learned, people living in different places have different cultures. There can be different cultures in different countries, and there can also be shared cultures among continents.\n\nThe arts are a vast subdivision of culture, composed of many creative endeavors and disciplines. It is a broader term than \"art,\" which as a description of a field usually means only the visual arts. The arts encompasses visual arts, literary arts and the performing arts - music, theatre, dance, spoken word and film, among others.\n\nArt, in its broadest meaning, is the expression of creativity or imagination. The word art comes from the Latin word ars, which, loosely translated, means \"arrangement\". Art is commonly understood as the act of making works (or artworks) which use the human creative impulse and which have meaning beyond simple description. Art is often distinguished from crafts and recreational hobby activities. The term creative arts denotes a collection of disciplines whose principal purpose is the output of material for the viewer or audience to interpret. As such, art may be taken to include forms as diverse as prose writing, poetry, dance, acting or drama, film, music, sculpture, photography, illustration, architecture, collage, painting, craft and fashion. Art may also be understood as relating to creativity, æsthetics and the generation of emotion",
+      "Categories": [
+        {
+          "ID": 3271,
+          "Title": "Categoría:Filmes"
+        },
+        {
+          "ID": 3440,
+          "Title": "Categoría:Grupos musicais"
+        },
+        {
+          "ID": 19861,
+          "Title": "Categoría:Alimentos"
+        },
+        {
+          "ID": 31049,
+          "Title": "Categoría:Entretemento"
+        },
+        {
+          "ID": 31050,
+          "Title": "Categoría:Hobbies e afeccións"
+        },
+        {
+          "ID": 31052,
+          "Title": "Categoría:Espectáculos"
+        },
+        {
+          "ID": 43028,
+          "Title": "Categoría:Arte"
+        },
+        {
+          "ID": 185138,
+          "Title": "Categoría:Cultura"
+        },
+        {
+          "ID": 377825,
+          "Title": "Categoría:Deporte"
+        }
+      ],
+      "Articles": [
+        {
+          "ID": 109,
+          "Title": "Chocolate"
+        },
+        {
+          "ID": 450,
+          "Title": "Wikipedia"
+        },
+        {
+          "ID": 4332,
+          "Title": "Enciclopedia"
+        },
+        {
+          "ID": 6071,
+          "Title": "Café"
+        },
+        {
+          "ID": 12488,
+          "Title": "Pan"
+        },
+        {
+          "ID": 16152,
+          "Title": "Ovo (alimento)"
+        },
+        {
+          "ID": 28005,
+          "Title": "Dinosaur Jr."
+        },
+        {
+          "ID": 29496,
+          "Title": "Manteiga de cacahuete"
+        },
+        {
+          "ID": 30412,
+          "Title": "Touciño"
+        },
+        {
+          "ID": 33596,
+          "Title": "Green Day"
+        },
+        {
+          "ID": 37694,
+          "Title": "Sgt. Pepper's Lonely Hearts Club Band"
+        },
+        {
+          "ID": 38016,
+          "Title": "Led Zeppelin"
+        },
+        {
+          "ID": 44855,
+          "Title": "AC/DC"
+        },
+        {
+          "ID": 47405,
+          "Title": "Cervexa"
+        },
+        {
+          "ID": 47915,
+          "Title": "Mordred"
+        },
+        {
+          "ID": 54260,
+          "Title": "Xamón"
+        },
+        {
+          "ID": 55548,
+          "Title": "Pasta"
+        },
+        {
+          "ID": 56402,
+          "Title": "Pizza"
+        },
+        {
+          "ID": 89659,
+          "Title": "Felación"
+        },
+        {
+          "ID": 117812,
+          "Title": "Pastel"
+        },
+        {
+          "ID": 121723,
+          "Title": "Pantasma"
+        },
+        {
+          "ID": 123471,
+          "Title": "Pilsener"
+        },
+        {
+          "ID": 130648,
+          "Title": "Palacio de Buckingham"
+        },
+        {
+          "ID": 132452,
+          "Title": "Caldo galego"
+        },
+        {
+          "ID": 157529,
+          "Title": "Monstro do lago Ness"
+        },
+        {
+          "ID": 164926,
+          "Title": "Hogwarts"
+        },
+        {
+          "ID": 167148,
+          "Title": "Sucker Punch"
+        },
+        {
+          "ID": 181839,
+          "Title": "Aqua"
+        },
+        {
+          "ID": 187008,
+          "Title": "Judas (canción)"
+        },
+        {
+          "ID": 225730,
+          "Title": "Giuditta Pasta"
+        },
+        {
+          "ID": 255858,
+          "Title": "The Wanted"
+        },
+        {
+          "ID": 275900,
+          "Title": "Pan de plátano"
+        },
+        {
+          "ID": 277215,
+          "Title": "Arroz fritido"
+        },
+        {
+          "ID": 287981,
+          "Title": "Flappy Bird"
+        },
+        {
+          "ID": 291276,
+          "Title": "Biscoito"
+        },
+        {
+          "ID": 292319,
+          "Title": "Salsa de tomate"
+        },
+        {
+          "ID": 292648,
+          "Title": "Compota de mazá"
+        },
+        {
+          "ID": 292708,
+          "Title": "Chocolate quente"
+        },
+        {
+          "ID": 292851,
+          "Title": "Chocolate branco"
+        },
+        {
+          "ID": 292962,
+          "Title": "Ovo frixido"
+        },
+        {
+          "ID": 332995,
+          "Title": "Día da marmota"
+        },
+        {
+          "ID": 341637,
+          "Title": "Festival de Eurovisión 2017"
+        },
+        {
+          "ID": 346872,
+          "Title": "Taco (alimento)"
+        },
+        {
+          "ID": 346876,
+          "Title": "Ovo duro"
+        },
+        {
+          "ID": 350494,
+          "Title": "Bejeweled"
+        },
+        {
+          "ID": 350504,
+          "Title": "Angry Birds (videoxogo)"
+        },
+        {
+          "ID": 364747,
+          "Title": "Festival de Eurovisión 2018"
+        },
+        {
+          "ID": 367195,
+          "Title": "Pan integral"
+        },
+        {
+          "ID": 367201,
+          "Title": "Pan de soda"
+        },
+        {
+          "ID": 382599,
+          "Title": "Bocadillo de salchicha"
+        }
+      ]
+    },
+    {
+      "ID": 2147483638,
+      "Title": "Geography and places",
+      "Abstract": "Geography (Greek Geo (γη) or Gaea (γαία), meaning \"Earth\", and graphein (γράφειν) meaning \"to describe\" or \"to write\") is the study of the earth and its features, inhabitants, and phenomena. A literal translation would be \"to describe or write about the Earth\". The first person to use the word \"geography\" was Eratosthenes (275-195 B.C.). Four historical traditions in geographical research are the spatial analysis of natural and human phenomena (geography as a study of distribution), area studies (places and regions), study of man-land relationship, and research in earth sciences. Nonetheless, modern geography is an all-encompassing discipline that foremost seeks to understand the world and all of its human and natural complexities — not merely where objects are, but how they have changed and come to be. As \"the bridge between the human and physical sciences,\" geography is divided into two main branches — human geography and physical geography",
+      "Categories": [
+        {
+          "ID": 3450,
+          "Title": "Categoría:Xeografía"
+        },
+        {
+          "ID": 49702,
+          "Title": "Categoría:Listas de xeografía"
+        },
+        {
+          "ID": 106926,
+          "Title": "Categoría:Urbanismo"
+        },
+        {
+          "ID": 108147,
+          "Title": "Categoría:Xeomorfoloxía"
+        }
+      ],
+      "Articles": [
+        {
+          "ID": 1982,
+          "Title": "París"
+        },
+        {
+          "ID": 9676,
+          "Title": "Venecia"
+        },
+        {
+          "ID": 12378,
+          "Title": "Myanmar"
+        },
+        {
+          "ID": 55364,
+          "Title": "Camberra"
+        },
+        {
+          "ID": 78809,
+          "Title": "Queensland"
+        }
+      ]
+    },
+    {
+      "ID": 2147483639,
+      "Title": "Health and fitness",
+      "Abstract": "Health is the level of functional or metabolic efficiency of a living organism. In humans it is the ability of individuals or communities to adapt and self-manage when facing physical, mental or social challenges. The most widely accepted definition of good health is that of the World Health Organization Constitution. It states: \"health is a state of complete physical, mental and social well-being and is not merely the absence of disease or infirmity\" (World Health Organization, 1946). In more recent years, this statement has been amplified to include the ability to lead a \"socially and economically productive life.\" The WHO definition is not without criticism, mainly that it is much too broad.\n\nThe most solid aspects of wellness that fit firmly in the realm of medicine are environmental health, nutrition, disease prevention, and public health. These matters can be investigated at length and can assist in measuring well-being. Please see our medical disclaimer for cautions about Wikipedia's limitations",
+      "Categories": [
+        {
+          "ID": 9428,
+          "Title": "Categoría:Medicina"
+        },
+        {
+          "ID": 31199,
+          "Title": "Categoría:Ciencias da saúde"
+        },
+        {
+          "ID": 107322,
+          "Title": "Categoría:Saúde"
+        },
+        {
+          "ID": 184741,
+          "Title": "Categoría:Hixiene"
+        },
+        {
+          "ID": 212740,
+          "Title": "Categoría:Doenzas xenéticas"
+        },
+        {
+          "ID": 377823,
+          "Title": "Categoría:Coidado persoal"
+        },
+        {
+          "ID": 450652,
+          "Title": "Categoría:Especialidades médicas"
+        }
+      ],
+      "Articles": [
+        {
+          "ID": 299244,
+          "Title": "Resposta sensorial meridiana autónoma"
+        }
+      ]
+    },
+    {
+      "ID": 2147483640,
+      "Title": "History and events",
+      "Abstract": "History is the interpretation of past events, societies and civilizations. The term history comes from the Greek historia (ἱστορία), \"an account of one's inquiries,\" and shares that etymology with the English word story as narrative. The 1911 Encyclopædia Britannica stated that \"history in the wider sense is all that has happened, not merely all the phenomena of human life, but those of the natural world as well. It is everything that undergoes change; and as modern science has shown that there is nothing absolutely static, therefore, the whole universe, and every part of it, has its history.\" ",
+      "Categories": [
+        {
+          "ID": 4529,
+          "Title": "Categoría:Historia"
+        },
+        {
+          "ID": 5131,
+          "Title": "Categoría:Historia dos estados e das nacións"
+        },
+        {
+          "ID": 168265,
+          "Title": "Categoría:Eventos"
+        },
+        {
+          "ID": 276441,
+          "Title": "Categoría:Eleccións por ano"
+        }
+      ],
+      "Articles": [
+        {
+          "ID": 14488,
+          "Title": "Atentados do 11 de setembro de 2001"
+        },
+        {
+          "ID": 62314,
+          "Title": "Guerra de Troia"
+        },
+        {
+          "ID": 174067,
+          "Title": "Terremoto e tsunami de Sendai de 2011"
+        },
+        {
+          "ID": 287818,
+          "Title": "Negación do Holocausto"
+        }
+      ]
+    },
+    {
+      "ID": 2147483641,
+      "Title": "Mathematics and logic",
+      "Abstract": "Mathematics is the science of quantization. It is also the study of patterns and relationships, including concepts such as quantity, structure, space, uncertainty, and change. It evolved through the use of abstraction and logical reasoning, from counting, calculation, measurement, and the systematic study of positions, shapes and motions of physical objects. Mathematicians explore such concepts, aiming to formulate new conjectures and establish their truth by rigorous deduction from appropriately chosen axioms and definitions.\n\nLogic (from Classical Greek λόγος logos; meaning word, thought, idea, argument, account, reason or principle) is the study of the principles and criteria of valid inference and demonstration. As a formal science, logic investigates and classifies the structure of statements and arguments, both through the study of formal systems of inference and through the study of arguments in natural language. The field of logic ranges from core topics such as the study of fallacies and paradoxes, to specialized analysis of reasoning using probability and to arguments involving causality. Logic is also commonly used today in argumentation theory. Since the mid-nineteenth century formal logic has been studied in the context of the foundations of mathematics",
+      "Categories": [
+        {
+          "ID": 10319,
+          "Title": "Categoría:Matemáticas"
+        },
+        {
+          "ID": 13366,
+          "Title": "Categoría:Estatística"
+        },
+        {
+          "ID": 74446,
+          "Title": "Categoría:Lóxica"
+        },
+        {
+          "ID": 378512,
+          "Title": "Categoría:Matemática aplicada"
+        }
+      ],
+      "Articles": [
+        {
+          "ID": 415238,
+          "Title": "Lonxitude"
+        }
+      ]
+    },
+    {
+      "ID": 2147483642,
+      "Title": "Nature and physical sciences",
+      "Abstract": "The term nature is derived from the Latin word natura, or \"essential qualities, innate disposition\". Natura is a Latin translation of the Greek word physis (φύσις), which originally related to the intrinsic characteristics that plants, animals, and other features of the world develop of their own accord. The concept of nature as a whole, all matter and energy in the universe, is one of several expansions of the original notion.\n\nPhysical science is an encompassing term for the branches of natural science, and science, that study non-living systems, in contrast to the biological sciences. However, the term \"physical\" creates an involuntary, somewhat arbitrary distinction, since many branches of physical science also study biological phenomena",
+      "Categories": [
+        {
+          "ID": 3578,
+          "Title": "Categoría:Física"
+        },
+        {
+          "ID": 7571,
+          "Title": "Categoría:Zooloxía"
+        },
+        {
+          "ID": 9104,
+          "Title": "Categoría:Química"
+        },
+        {
+          "ID": 11860,
+          "Title": "Categoría:Compostos químicos"
+        },
+        {
+          "ID": 11908,
+          "Title": "Categoría:Ciencia"
+        },
+        {
+          "ID": 47994,
+          "Title": "Categoría:Ciencias naturais"
+        },
+        {
+          "ID": 434369,
+          "Title": "Categoría:Fauna por continente"
+        },
+        {
+          "ID": 445910,
+          "Title": "Categoría:Desastres"
+        }
+      ],
+      "Articles": [
+        {
+          "ID": 222,
+          "Title": "Lume"
+        },
+        {
+          "ID": 6069,
+          "Title": "Laranxa (froita)"
+        },
+        {
+          "ID": 8285,
+          "Title": "Millo"
+        },
+        {
+          "ID": 8845,
+          "Title": "Alce"
+        },
+        {
+          "ID": 8998,
+          "Title": "Ananás"
+        },
+        {
+          "ID": 9613,
+          "Title": "Ciclo hidrolóxico"
+        },
+        {
+          "ID": 11842,
+          "Title": "Trigo"
+        },
+        {
+          "ID": 12703,
+          "Title": "Limoeiro"
+        },
+        {
+          "ID": 12819,
+          "Title": "Arroz"
+        },
+        {
+          "ID": 16294,
+          "Title": "Laranxeira"
+        },
+        {
+          "ID": 17845,
+          "Title": "Camelo"
+        },
+        {
+          "ID": 18826,
+          "Title": "Testículo"
+        },
+        {
+          "ID": 53154,
+          "Title": "Pene"
+        },
+        {
+          "ID": 53744,
+          "Title": "Coliflor"
+        },
+        {
+          "ID": 59003,
+          "Title": "Flamengo"
+        },
+        {
+          "ID": 61713,
+          "Title": "Masturbación"
+        },
+        {
+          "ID": 64541,
+          "Title": "Xarda"
+        },
+        {
+          "ID": 72100,
+          "Title": "Manga (froita)"
+        },
+        {
+          "ID": 98544,
+          "Title": "Cadea trófica"
+        },
+        {
+          "ID": 115910,
+          "Title": "Tigre branco"
+        },
+        {
+          "ID": 117655,
+          "Title": "Rubio"
+        },
+        {
+          "ID": 151086,
+          "Title": "Sistema muscular"
+        },
+        {
+          "ID": 158045,
+          "Title": "Urina"
+        },
+        {
+          "ID": 234973,
+          "Title": "Lima (froita)"
+        },
+        {
+          "ID": 277245,
+          "Title": "Arroz glutinoso"
+        },
+        {
+          "ID": 333666,
+          "Title": "Manto (moluscos)"
+        },
+        {
+          "ID": 384153,
+          "Title": "Eucalipto de flor"
+        },
+        {
+          "ID": 416101,
+          "Title": "Sistema locomotor"
+        },
+        {
+          "ID": 442452,
+          "Title": "Mono araña"
+        },
+        {
+          "ID": 443507,
+          "Title": "Calendario maia"
+        }
+      ]
+    },
+    {
+      "ID": 2147483643,
+      "Title": "People and self",
+      "Abstract": "A collection of people often refers to a general group, such as all humans, an ethnic group or a nation. An individual person is the self, from his or her own perspective. To you, \"self\" is you. To someone else, \"self\" is that person. A biography is a genre of literature or film, which presents a relatively full account of the most interesting and important events of a notable person's life.\n\nLife or personal life or human existence is an individual human's personal, private experience of living (including their employment career, their family life, and other elements). In prehistoric times, life and existence was based on survival. There was little privacy and a person was identified by their role in the group. In modern times, many people have even come to think of their personal lives as if they are separate from their work. This segmentation of \"life areas\" is evident in such phrases as \"work life\", \"home life\", and \"sex life.\" The meaning or role of a person's \"life\" or \"human existence\" is discussed in many religions and philosophies. In Western industrialized countries, there are a variety of service industries that help people improve their personal lives, such as counselling and life coaching companies",
+      "Categories": [
+        {
+          "ID": 8892,
+          "Title": "Categoría:Personalidades"
+        },
+        {
+          "ID": 38550,
+          "Title": "Categoría:Personaxes do cine"
+        },
+        {
+          "ID": 185171,
+          "Title": "Categoría:Apelidos"
+        },
+        {
+          "ID": 260013,
+          "Title": "Categoría:Muller"
+        }
+      ],
+      "Articles": [
+        {
+          "ID": 216,
+          "Title": "John Lennon"
+        },
+        {
+          "ID": 1174,
+          "Title": "Galileo Galilei"
+        },
+        {
+          "ID": 2213,
+          "Title": "Bill Gates"
+        },
+        {
+          "ID": 2669,
+          "Title": "Charles Babbage"
+        },
+        {
+          "ID": 2972,
+          "Title": "Johannes Kepler"
+        },
+        {
+          "ID": 3962,
+          "Title": "Sigmund Freud"
+        },
+        {
+          "ID": 9004,
+          "Title": "Adolf Hitler"
+        },
+        {
+          "ID": 9654,
+          "Title": "Noam Chomsky"
+        },
+        {
+          "ID": 11306,
+          "Title": "Carl Sagan"
+        },
+        {
+          "ID": 13347,
+          "Title": "Alan Turing"
+        },
+        {
+          "ID": 14439,
+          "Title": "Richard Dawkins"
+        },
+        {
+          "ID": 14820,
+          "Title": "Cristovo Colón"
+        },
+        {
+          "ID": 15216,
+          "Title": "René Descartes"
+        },
+        {
+          "ID": 17689,
+          "Title": "Lewis Carroll"
+        },
+        {
+          "ID": 29147,
+          "Title": "Carl Friedrich Gauss"
+        },
+        {
+          "ID": 31412,
+          "Title": "Alexander Fleming"
+        },
+        {
+          "ID": 31878,
+          "Title": "Tomé de Aquino"
+        },
+        {
+          "ID": 32616,
+          "Title": "Ayn Rand"
+        },
+        {
+          "ID": 44915,
+          "Title": "Elton John"
+        },
+        {
+          "ID": 45365,
+          "Title": "Adam Smith"
+        },
+        {
+          "ID": 47389,
+          "Title": "William Blake"
+        },
+        {
+          "ID": 59134,
+          "Title": "Daniel Radcliffe"
+        },
+        {
+          "ID": 60930,
+          "Title": "Florence Nightingale"
+        },
+        {
+          "ID": 61095,
+          "Title": "Richard Wagner"
+        },
+        {
+          "ID": 72327,
+          "Title": "Oliver Cromwell"
+        },
+        {
+          "ID": 84846,
+          "Title": "Joseph Smith"
+        },
+        {
+          "ID": 93313,
+          "Title": "Leonardo Fibonacci"
+        },
+        {
+          "ID": 133856,
+          "Title": "Irving Langmuir"
+        },
+        {
+          "ID": 176469,
+          "Title": "Ring Lardner"
+        },
+        {
+          "ID": 187365,
+          "Title": "Theodor Schwann"
+        },
+        {
+          "ID": 221108,
+          "Title": "George Harrison"
+        },
+        {
+          "ID": 296109,
+          "Title": "Harry Houdini"
+        },
+        {
+          "ID": 340960,
+          "Title": "Srinivasa Ramanujan"
+        }
+      ]
+    },
+    {
+      "ID": 2147483644,
+      "Title": "Philosophy and thinking",
+      "Abstract": "Philosophy has almost as many definitions as there have been philosophers, both as a subject matter and an activity, and no simple definition can do it justice. The issue of the definition of philosophy is thus a controversial subject that is nowadays tackled by Metaphilosophy (or the philosophy of philosophy). The word is derived from the ancient Greek words philo-, to love or to befriend, and -sophia, wisdom. Modern usage of the term is much broader; the concept of philosophy encompasses all of knowledge and all that can be known, including the means by which such knowledge can be acquired. However, in the contemporary English-speaking academic world, the term is often used implicitly to refer to analytic philosophy and, in non-English speaking countries, it often refers implicitly to a different, European strain, continental philosophy. The ancient Greeks organized the subject into five basic categories: metaphysics, epistemology, ethics, politics and aesthetics. This organization of the subject is still largely in use in Western philosophy today.\n\nThought or thinking is a mental process which allows beings to model the world, and so to deal with it effectively according to their goals, plans, ends and desires. Words referring to similar concepts and processes in the English language include cognition, sentience, consciousness, idea, and imagination. Thinking involves the cerebral manipulation of information, as when we form concepts, engage in problem solving, reason and make decisions. Thinking is a higher cognitive function and the analysis of thinking processes is part of cognitive psychology",
+      "Categories": [
+        {
+          "ID": 11909,
+          "Title": "Categoría:Filosofía"
+        },
+        {
+          "ID": 70877,
+          "Title": "Categoría:Ética"
+        },
+        {
+          "ID": 300645,
+          "Title": "Categoría:Ideoloxía"
+        }
+      ],
+      "Articles": [
+        {
+          "ID": 20169,
+          "Title": "Felicidade"
+        },
+        {
+          "ID": 114911,
+          "Title": "Beleza"
+        },
+        {
+          "ID": 407860,
+          "Title": "Efecto Dunning-Kruger"
+        }
+      ]
+    },
+    {
+      "ID": 2147483645,
+      "Title": "Religion and belief systems",
+      "Abstract": "Religion is the adherence to codified beliefs and rituals that generally involve a faith in a spiritual nature and a study of inherited ancestral traditions, knowledge and wisdom related to understanding human life. The term \"religion\" refers to both the personal practices related to faith as well as to the larger shared systems of belief.\n\nA belief system can refer to a religion or a world view. A world view (or worldview) is a term calqued from the German word Weltanschauung Welt is the German word for 'world,' and Anschauung is the German word for 'view' or 'outlook'. It is a concept fundamental to German philosophy and epistemology and refers to a wide world perception. Additionally, it refers to the framework of ideas and beliefs through which an individual interprets the world and interacts in it",
+      "Categories": [
+        {
+          "ID": 3905,
+          "Title": "Categoría:Mitoloxía"
+        },
+        {
+          "ID": 8709,
+          "Title": "Categoría:Relixión"
+        },
+        {
+          "ID": 107240,
+          "Title": "Categoría:Laicismo"
+        },
+        {
+          "ID": 320931,
+          "Title": "Categoría:Non teísmo"
+        }
+      ],
+      "Articles": [
+        {
+          "ID": 323832,
+          "Title": "Gula"
+        }
+      ]
+    },
+    {
+      "ID": 2147483646,
+      "Title": "Society and social sciences",
+      "Abstract": "A society is a group of people who form a semi-closed system. At its simplest, the term society refers to a large group of people sharing their own culture and institutions. A society is a network of relationships between people. The English word society is derived from the French société, which had its origin in the Latin societas, a \"friendly association with others,\" from socius meaning \"companion, associate, comrade or business partner.\" Thus, the meaning of society is closely related to what is considered to be social. Implicit in the meaning of society is that its members may share some mutual concern or interest, a common objective or common characteristics. The social sciences generally use the term society to mean a group of people who form a semi-closed social system, in which most interactions are with other individuals belonging to the group. More abstractly, a society is defined as a network of relationships between social entities. A society is also sometimes defined as an interdependent community, but the sociologist Tönnies sought to draw a contrast between society and community. An important feature of society is social structure, aspects of which include roles and social ranking.\n\nThe social science are a group of academic disciplines that study human aspects of the world. They differ from the arts and the humanities, in that the social science tend to emphasize the use of the scientific method in the study of humanity, including quantitative and qualitative methods",
+      "Categories": [
+        {
+          "ID": 38633,
+          "Title": "Categoría:Ciencias sociais"
+        },
+        {
+          "ID": 38635,
+          "Title": "Categoría:Sociedade"
+        },
+        {
+          "ID": 39347,
+          "Title": "Categoría:Feminismo"
+        },
+        {
+          "ID": 74679,
+          "Title": "Categoría:Organizacións internacionais"
+        }
+      ],
+      "Articles": [
+        {
+          "ID": 1661,
+          "Title": "Unión Europea"
+        },
+        {
+          "ID": 12478,
+          "Title": "Traballo social"
+        },
+        {
+          "ID": 13350,
+          "Title": "Universidade Harvard"
+        },
+        {
+          "ID": 27165,
+          "Title": "Instituto de Tecnoloxía de Massachusetts"
+        },
+        {
+          "ID": 29327,
+          "Title": "Universidade de Jaffna"
+        },
+        {
+          "ID": 63059,
+          "Title": "Horario de verán"
+        },
+        {
+          "ID": 77407,
+          "Title": "Economía de Barbados"
+        },
+        {
+          "ID": 79410,
+          "Title": "Universidade de Chicago"
+        },
+        {
+          "ID": 79414,
+          "Title": "Universidade de Columbia"
+        },
+        {
+          "ID": 87477,
+          "Title": "Universidade de Oxford"
+        },
+        {
+          "ID": 88386,
+          "Title": "Universidade de Boloña"
+        },
+        {
+          "ID": 96978,
+          "Title": "Universidade de Cambridge"
+        },
+        {
+          "ID": 111981,
+          "Title": "Economía de Irán"
+        },
+        {
+          "ID": 117726,
+          "Title": "Micronación"
+        },
+        {
+          "ID": 125766,
+          "Title": "Ano Novo Chinés"
+        },
+        {
+          "ID": 142484,
+          "Title": "Pizza Hut"
+        },
+        {
+          "ID": 163880,
+          "Title": "Universidade de Maryland"
+        },
+        {
+          "ID": 166480,
+          "Title": "Universidade de Michigan"
+        },
+        {
+          "ID": 178543,
+          "Title": "Universidade de Princeton"
+        },
+        {
+          "ID": 184461,
+          "Title": "The New York Times"
+        },
+        {
+          "ID": 191247,
+          "Title": "Universidade Albert Ludwig de Friburgo"
+        },
+        {
+          "ID": 202500,
+          "Title": "American Airlines"
+        },
+        {
+          "ID": 207806,
+          "Title": "Bandeira de Australia"
+        },
+        {
+          "ID": 238195,
+          "Title": "Domino's Pizza"
+        },
+        {
+          "ID": 238198,
+          "Title": "Starbucks"
+        },
+        {
+          "ID": 245990,
+          "Title": "Universidade de Tubinga"
+        },
+        {
+          "ID": 325689,
+          "Title": "Universidade de Glasgow"
+        },
+        {
+          "ID": 332737,
+          "Title": "Universidade Nacional Australiana"
+        },
+        {
+          "ID": 337239,
+          "Title": "Imperial College London"
+        },
+        {
+          "ID": 339620,
+          "Title": "Universidade de Viena"
+        },
+        {
+          "ID": 339941,
+          "Title": "Universidade de Londres"
+        },
+        {
+          "ID": 360694,
+          "Title": "Universidade Hebrea de Xerusalén"
+        },
+        {
+          "ID": 382691,
+          "Title": "Universidade de Berna"
+        },
+        {
+          "ID": 389953,
+          "Title": "Universidade de Gotinga"
+        },
+        {
+          "ID": 391087,
+          "Title": "Universidade Stanford"
+        },
+        {
+          "ID": 405744,
+          "Title": "Universidade de Washington"
+        },
+        {
+          "ID": 409659,
+          "Title": "Universidade Estatal de Moscova"
+        },
+        {
+          "ID": 416204,
+          "Title": "Universidade de Sydney"
+        },
+        {
+          "ID": 444380,
+          "Title": "Open University"
+        }
+      ]
+    },
+    {
+      "ID": 2147483647,
+      "Title": "Technology and applied sciences",
+      "Abstract": "Technology is an expanded concept that deals with a species' usage and knowledge of tools and crafts, and how it affects a species' ability to control and adapt to its environment. In human civilization, it is a consequence of science and engineering, although several technological advances predate the formalization of these two disciplines. The term can either be applied generally or to specific areas – examples include construction technology, medical technology, or state-of-the-art technology.\n\nThe human race's use of technology began with the conversion of plentiful natural resources into simple tools. The prehistorical discovery of the ability to control fire increased the available sources of food, and the invention of the wheel helped humans in travelling in and controlling their environment. Recent technological developments, including the printing press and the Internet, have lessened physical barriers to communication and allowed humans to interact on a global scale. However, not all technology has been used for peaceful purposes; the development of weapons of ever-increasing destructive power has progressed throughout history, from clubs to nuclear bombs.\n\nApplied science is the application of knowledge from one or more natural scientific fields to solving practical problems. For example, fields of engineering are applied sciences. Applied science is important for technology development. Its use in industrial settings is usually referred to as research and development (R\u0026D)",
+      "Categories": [
+        {
+          "ID": 3638,
+          "Title": "Categoría:Informática"
+        },
+        {
+          "ID": 3641,
+          "Title": "Categoría:Internet"
+        },
+        {
+          "ID": 8140,
+          "Title": "Categoría:Transporte"
+        },
+        {
+          "ID": 21158,
+          "Title": "Categoría:Electrónica"
+        },
+        {
+          "ID": 21159,
+          "Title": "Categoría:Enxeñaría"
+        },
+        {
+          "ID": 44058,
+          "Title": "Categoría:Deseño"
+        },
+        {
+          "ID": 45958,
+          "Title": "Categoría:Tecnoloxía"
+        },
+        {
+          "ID": 179982,
+          "Title": "Categoría:Ciencias aplicadas"
+        },
+        {
+          "ID": 341735,
+          "Title": "Categoría:Historia da tecnoloxía"
+        },
+        {
+          "ID": 357052,
+          "Title": "Categoría:Tecnoloxía por tipo"
+        }
+      ],
+      "Articles": [
+        {
+          "ID": 32137,
+          "Title": "Sega 32X"
+        },
+        {
+          "ID": 46476,
+          "Title": "Albanelaría"
+        },
+        {
+          "ID": 110577,
+          "Title": "Muro (construción)"
+        },
+        {
+          "ID": 165115,
+          "Title": ".xxx"
+        },
+        {
+          "ID": 189001,
+          "Title": "Pepsi"
+        },
+        {
+          "ID": 224204,
+          "Title": "Goma de mascar"
+        }
+      ]
+    }
+  ],
+  "Filters": [
+    {
+      "ID": 4850,
+      "Title": "Categoría:Homónimos"
+    },
+    {
+      "ID": 84177,
+      "Title": "Categoría:Wikipedia:Categorías ocultas"
+    }
+  ]
+}

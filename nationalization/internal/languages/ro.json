@@ -1,0 +1,1294 @@
+{
+  "Language": "ro",
+  "Topics": [
+    {
+      "ID": 2147483637,
+      "Title": "Culture and the arts",
+      "Abstract": "The word culture is derived from the Latin root cultura or cultus meaning to \"inhabit, cultivate, or honour\". In general, culture refers to human activity; different definitions of culture reflect different theories for understanding, or criteria for valuing human activity. Present day Anthropologists use the term to refer to the universal human capacity to classify experiences and to encode and communicate them symbolically. They regard this capacity as a defining feature of the genus Homo. Since culture is learned, people living in different places have different cultures. There can be different cultures in different countries, and there can also be shared cultures among continents.\n\nThe arts are a vast subdivision of culture, composed of many creative endeavors and disciplines. It is a broader term than \"art,\" which as a description of a field usually means only the visual arts. The arts encompasses visual arts, literary arts and the performing arts - music, theatre, dance, spoken word and film, among others.\n\nArt, in its broadest meaning, is the expression of creativity or imagination. The word art comes from the Latin word ars, which, loosely translated, means \"arrangement\". Art is commonly understood as the act of making works (or artworks) which use the human creative impulse and which have meaning beyond simple description. Art is often distinguished from crafts and recreational hobby activities. The term creative arts denotes a collection of disciplines whose principal purpose is the output of material for the viewer or audience to interpret. As such, art may be taken to include forms as diverse as prose writing, poetry, dance, acting or drama, film, music, sculpture, photography, illustration, architecture, collage, painting, craft and fashion. Art may also be understood as relating to creativity, æsthetics and the generation of emotion",
+      "Categories": [
+        {
+          "ID": 16061,
+          "Title": "Categorie:Sport"
+        },
+        {
+          "ID": 19475,
+          "Title": "Categorie:Filme"
+        },
+        {
+          "ID": 22407,
+          "Title": "Categorie:Artă"
+        },
+        {
+          "ID": 22567,
+          "Title": "Categorie:Cultură"
+        },
+        {
+          "ID": 31585,
+          "Title": "Categorie:Divertisment"
+        },
+        {
+          "ID": 32140,
+          "Title": "Categorie:Hobby"
+        },
+        {
+          "ID": 41669,
+          "Title": "Categorie:Produse alimentare"
+        },
+        {
+          "ID": 430804,
+          "Title": "Categorie:Spectacole"
+        },
+        {
+          "ID": 751366,
+          "Title": "Categorie:Formații muzicale"
+        },
+        {
+          "ID": 1060958,
+          "Title": "Categorie:Grupuri muzicale"
+        },
+        {
+          "ID": 1150447,
+          "Title": "Categorie:Recreere"
+        }
+      ],
+      "Articles": [
+        {
+          "ID": 5,
+          "Title": "Enciclopedie"
+        },
+        {
+          "ID": 10,
+          "Title": "Wikipedia"
+        },
+        {
+          "ID": 2105,
+          "Title": "Bere"
+        },
+        {
+          "ID": 12555,
+          "Title": "Ciocolată"
+        },
+        {
+          "ID": 19708,
+          "Title": "Stafie"
+        },
+        {
+          "ID": 33877,
+          "Title": "Palatul Buckingham"
+        },
+        {
+          "ID": 82112,
+          "Title": "Led Zeppelin"
+        },
+        {
+          "ID": 119274,
+          "Title": "AC/DC"
+        },
+        {
+          "ID": 128267,
+          "Title": "Pâine"
+        },
+        {
+          "ID": 153490,
+          "Title": "Felație"
+        },
+        {
+          "ID": 163549,
+          "Title": "Cafea"
+        },
+        {
+          "ID": 193837,
+          "Title": "WWE Championship"
+        },
+        {
+          "ID": 201603,
+          "Title": "Realism literar"
+        },
+        {
+          "ID": 203971,
+          "Title": "Pizza"
+        },
+        {
+          "ID": 286970,
+          "Title": "Monstrul din Loch Ness"
+        },
+        {
+          "ID": 339636,
+          "Title": "Green Day"
+        },
+        {
+          "ID": 429130,
+          "Title": "Jambon"
+        },
+        {
+          "ID": 504525,
+          "Title": "Street dance"
+        },
+        {
+          "ID": 752405,
+          "Title": "Sgt. Pepper's Lonely Hearts Club Band"
+        },
+        {
+          "ID": 790250,
+          "Title": "Listă de băuturi alcoolice"
+        },
+        {
+          "ID": 830680,
+          "Title": "Celibat"
+        },
+        {
+          "ID": 851345,
+          "Title": "Bejeweled 2"
+        },
+        {
+          "ID": 863083,
+          "Title": "Judas (cântec)"
+        },
+        {
+          "ID": 873778,
+          "Title": "Evadare din realitate"
+        },
+        {
+          "ID": 892059,
+          "Title": "Bacon"
+        },
+        {
+          "ID": 935646,
+          "Title": "Baicoli"
+        },
+        {
+          "ID": 943875,
+          "Title": "Enthiran"
+        },
+        {
+          "ID": 990534,
+          "Title": "Paste făinoase"
+        },
+        {
+          "ID": 1115298,
+          "Title": "Bondost"
+        },
+        {
+          "ID": 1169405,
+          "Title": "Prăjitură"
+        },
+        {
+          "ID": 1232983,
+          "Title": "Bejeweled 3"
+        },
+        {
+          "ID": 1235889,
+          "Title": "Flappy Bird"
+        },
+        {
+          "ID": 1262062,
+          "Title": "Aqua (formație)"
+        },
+        {
+          "ID": 1324464,
+          "Title": "Angry Birds Rio"
+        },
+        {
+          "ID": 1327713,
+          "Title": "The World Factbook"
+        },
+        {
+          "ID": 1328735,
+          "Title": "Angry Birds Seasons"
+        },
+        {
+          "ID": 1351387,
+          "Title": "Icebreaker: A Viking Voyage"
+        },
+        {
+          "ID": 1357943,
+          "Title": "Angry Birds (joc video)"
+        },
+        {
+          "ID": 1502808,
+          "Title": "Fursec"
+        },
+        {
+          "ID": 1587682,
+          "Title": "PK (film)"
+        },
+        {
+          "ID": 1835800,
+          "Title": "Castitate"
+        },
+        {
+          "ID": 1916892,
+          "Title": "Hotdog"
+        },
+        {
+          "ID": 1932915,
+          "Title": "Concursul Muzical Eurovision 2017"
+        },
+        {
+          "ID": 1940668,
+          "Title": "M\u0026M's"
+        },
+        {
+          "ID": 1961602,
+          "Title": "Bere de ghimbir"
+        },
+        {
+          "ID": 1999144,
+          "Title": "Concursul Muzical Eurovision 2018"
+        },
+        {
+          "ID": 2022906,
+          "Title": "Tort de nuntă"
+        },
+        {
+          "ID": 2355799,
+          "Title": "Ou centenar"
+        },
+        {
+          "ID": 2356491,
+          "Title": "Școala Hogwarts"
+        }
+      ]
+    },
+    {
+      "ID": 2147483638,
+      "Title": "Geography and places",
+      "Abstract": "Geography (Greek Geo (γη) or Gaea (γαία), meaning \"Earth\", and graphein (γράφειν) meaning \"to describe\" or \"to write\") is the study of the earth and its features, inhabitants, and phenomena. A literal translation would be \"to describe or write about the Earth\". The first person to use the word \"geography\" was Eratosthenes (275-195 B.C.). Four historical traditions in geographical research are the spatial analysis of natural and human phenomena (geography as a study of distribution), area studies (places and regions), study of man-land relationship, and research in earth sciences. Nonetheless, modern geography is an all-encompassing discipline that foremost seeks to understand the world and all of its human and natural complexities — not merely where objects are, but how they have changed and come to be. As \"the bridge between the human and physical sciences,\" geography is divided into two main branches — human geography and physical geography",
+      "Categories": [
+        {
+          "ID": 11350,
+          "Title": "Categorie:Geografie"
+        },
+        {
+          "ID": 40670,
+          "Title": "Categorie:Geomorfologie"
+        },
+        {
+          "ID": 201935,
+          "Title": "Categorie:Urbanism"
+        },
+        {
+          "ID": 418376,
+          "Title": "Categorie:Liste despre geografie"
+        },
+        {
+          "ID": 872950,
+          "Title": "Categorie:Locuri"
+        }
+      ],
+      "Articles": [
+        {
+          "ID": 588,
+          "Title": "Paris"
+        },
+        {
+          "ID": 8082,
+          "Title": "Veneția"
+        },
+        {
+          "ID": 10869,
+          "Title": "Queensland"
+        },
+        {
+          "ID": 18173,
+          "Title": "Myanmar"
+        },
+        {
+          "ID": 134614,
+          "Title": "Canberra"
+        },
+        {
+          "ID": 914177,
+          "Title": "Carlsbad, New Mexico"
+        }
+      ]
+    },
+    {
+      "ID": 2147483639,
+      "Title": "Health and fitness",
+      "Abstract": "Health is the level of functional or metabolic efficiency of a living organism. In humans it is the ability of individuals or communities to adapt and self-manage when facing physical, mental or social challenges. The most widely accepted definition of good health is that of the World Health Organization Constitution. It states: \"health is a state of complete physical, mental and social well-being and is not merely the absence of disease or infirmity\" (World Health Organization, 1946). In more recent years, this statement has been amplified to include the ability to lead a \"socially and economically productive life.\" The WHO definition is not without criticism, mainly that it is much too broad.\n\nThe most solid aspects of wellness that fit firmly in the realm of medicine are environmental health, nutrition, disease prevention, and public health. These matters can be investigated at length and can assist in measuring well-being. Please see our medical disclaimer for cautions about Wikipedia's limitations",
+      "Categories": [
+        {
+          "ID": 16098,
+          "Title": "Categorie:Medicină"
+        },
+        {
+          "ID": 40157,
+          "Title": "Categorie:Sănătate"
+        },
+        {
+          "ID": 69479,
+          "Title": "Categorie:Igienă"
+        },
+        {
+          "ID": 162397,
+          "Title": "Categorie:Boli genetice"
+        },
+        {
+          "ID": 760126,
+          "Title": "Categorie:Specialități medicale"
+        },
+        {
+          "ID": 761036,
+          "Title": "Categorie:Științe pentru sănătate"
+        },
+        {
+          "ID": 1329802,
+          "Title": "Categorie:Îngrijire de sine"
+        },
+        {
+          "ID": 1882750,
+          "Title": "Categorie:Ocupații medicale"
+        }
+      ]
+    },
+    {
+      "ID": 2147483640,
+      "Title": "History and events",
+      "Abstract": "History is the interpretation of past events, societies and civilizations. The term history comes from the Greek historia (ἱστορία), \"an account of one's inquiries,\" and shares that etymology with the English word story as narrative. The 1911 Encyclopædia Britannica stated that \"history in the wider sense is all that has happened, not merely all the phenomena of human life, but those of the natural world as well. It is everything that undergoes change; and as modern science has shown that there is nothing absolutely static, therefore, the whole universe, and every part of it, has its history.\" ",
+      "Categories": [
+        {
+          "ID": 20699,
+          "Title": "Categorie:Istorie"
+        },
+        {
+          "ID": 119641,
+          "Title": "Categorie:Alegeri după an"
+        },
+        {
+          "ID": 173365,
+          "Title": "Categorie:Evenimente"
+        },
+        {
+          "ID": 752994,
+          "Title": "Categorie:Istorie după țară"
+        }
+      ],
+      "Articles": [
+        {
+          "ID": 14362,
+          "Title": "Atentatele din 11 septembrie 2001"
+        },
+        {
+          "ID": 108557,
+          "Title": "Războiul troian"
+        },
+        {
+          "ID": 847077,
+          "Title": "Cutremurul din Tōhoku (2011)"
+        },
+        {
+          "ID": 953673,
+          "Title": "Negarea Holocaustului"
+        },
+        {
+          "ID": 1045172,
+          "Title": "Istoria tabelului periodic"
+        },
+        {
+          "ID": 1053493,
+          "Title": "Alegeri prezidențiale în Statele Unite ale Americii, 2012"
+        },
+        {
+          "ID": 1939276,
+          "Title": "Atentatul din Orlando (2016)"
+        }
+      ]
+    },
+    {
+      "ID": 2147483641,
+      "Title": "Mathematics and logic",
+      "Abstract": "Mathematics is the science of quantization. It is also the study of patterns and relationships, including concepts such as quantity, structure, space, uncertainty, and change. It evolved through the use of abstraction and logical reasoning, from counting, calculation, measurement, and the systematic study of positions, shapes and motions of physical objects. Mathematicians explore such concepts, aiming to formulate new conjectures and establish their truth by rigorous deduction from appropriately chosen axioms and definitions.\n\nLogic (from Classical Greek λόγος logos; meaning word, thought, idea, argument, account, reason or principle) is the study of the principles and criteria of valid inference and demonstration. As a formal science, logic investigates and classifies the structure of statements and arguments, both through the study of formal systems of inference and through the study of arguments in natural language. The field of logic ranges from core topics such as the study of fallacies and paradoxes, to specialized analysis of reasoning using probability and to arguments involving causality. Logic is also commonly used today in argumentation theory. Since the mid-nineteenth century formal logic has been studied in the context of the foundations of mathematics",
+      "Categories": [
+        {
+          "ID": 12194,
+          "Title": "Categorie:Matematică"
+        },
+        {
+          "ID": 22402,
+          "Title": "Categorie:Logică"
+        },
+        {
+          "ID": 61085,
+          "Title": "Categorie:Statistică"
+        },
+        {
+          "ID": 193154,
+          "Title": "Categorie:Matematică aplicată"
+        },
+        {
+          "ID": 259446,
+          "Title": "Categorie:Ramuri ale matematicii"
+        },
+        {
+          "ID": 374624,
+          "Title": "Categorie:Concepte matematice"
+        },
+        {
+          "ID": 878908,
+          "Title": "Categorie:Informatică teoretică"
+        },
+        {
+          "ID": 1107188,
+          "Title": "Categorie:Probabilitate și statistici"
+        }
+      ],
+      "Articles": [
+        {
+          "ID": 20332,
+          "Title": "Lungime"
+        }
+      ]
+    },
+    {
+      "ID": 2147483642,
+      "Title": "Nature and physical sciences",
+      "Abstract": "The term nature is derived from the Latin word natura, or \"essential qualities, innate disposition\". Natura is a Latin translation of the Greek word physis (φύσις), which originally related to the intrinsic characteristics that plants, animals, and other features of the world develop of their own accord. The concept of nature as a whole, all matter and energy in the universe, is one of several expansions of the original notion.\n\nPhysical science is an encompassing term for the branches of natural science, and science, that study non-living systems, in contrast to the biological sciences. However, the term \"physical\" creates an involuntary, somewhat arbitrary distinction, since many branches of physical science also study biological phenomena",
+      "Categories": [
+        {
+          "ID": 19338,
+          "Title": "Categorie:Fizică"
+        },
+        {
+          "ID": 22397,
+          "Title": "Categorie:Chimie"
+        },
+        {
+          "ID": 23083,
+          "Title": "Categorie:Zoologie"
+        },
+        {
+          "ID": 24640,
+          "Title": "Categorie:Natură"
+        },
+        {
+          "ID": 127331,
+          "Title": "Categorie:Catastrofe"
+        },
+        {
+          "ID": 191258,
+          "Title": "Categorie:Faună după continent"
+        },
+        {
+          "ID": 749556,
+          "Title": "Categorie:Compuși chimici"
+        },
+        {
+          "ID": 761041,
+          "Title": "Categorie:Științele naturii"
+        },
+        {
+          "ID": 761042,
+          "Title": "Categorie:Știință"
+        }
+      ],
+      "Articles": [
+        {
+          "ID": 7572,
+          "Title": "Penis"
+        },
+        {
+          "ID": 30466,
+          "Title": "Porumb"
+        },
+        {
+          "ID": 36855,
+          "Title": "Grâu"
+        },
+        {
+          "ID": 94271,
+          "Title": "Lanț trofic"
+        },
+        {
+          "ID": 102402,
+          "Title": "Masturbare"
+        },
+        {
+          "ID": 105634,
+          "Title": "Orez"
+        },
+        {
+          "ID": 112446,
+          "Title": "Circuitul apei în natură"
+        },
+        {
+          "ID": 129756,
+          "Title": "Sistemul muscular"
+        },
+        {
+          "ID": 203250,
+          "Title": "Foc"
+        },
+        {
+          "ID": 206324,
+          "Title": "Testicul"
+        },
+        {
+          "ID": 214938,
+          "Title": "Anaconda"
+        },
+        {
+          "ID": 226626,
+          "Title": "Cămilă"
+        },
+        {
+          "ID": 252911,
+          "Title": "Lămâi"
+        },
+        {
+          "ID": 267278,
+          "Title": "Urină"
+        },
+        {
+          "ID": 268726,
+          "Title": "Portocal"
+        },
+        {
+          "ID": 300470,
+          "Title": "Elan"
+        },
+        {
+          "ID": 385654,
+          "Title": "Germinație"
+        },
+        {
+          "ID": 442220,
+          "Title": "Scrumbie albastră"
+        },
+        {
+          "ID": 448843,
+          "Title": "Flamingo"
+        },
+        {
+          "ID": 449328,
+          "Title": "Aparatul locomotor"
+        },
+        {
+          "ID": 559884,
+          "Title": "Ananas"
+        },
+        {
+          "ID": 581655,
+          "Title": "Calendarul mayaș"
+        },
+        {
+          "ID": 608427,
+          "Title": "Lycosidae"
+        },
+        {
+          "ID": 827705,
+          "Title": "Lămâie verde"
+        },
+        {
+          "ID": 871713,
+          "Title": "Baligă"
+        },
+        {
+          "ID": 873031,
+          "Title": "Cocker Spaniel"
+        },
+        {
+          "ID": 875862,
+          "Title": "Conopidă"
+        },
+        {
+          "ID": 1329687,
+          "Title": "Suspensie (chimie)"
+        },
+        {
+          "ID": 1491939,
+          "Title": "Magnolia liliiflora"
+        },
+        {
+          "ID": 1707331,
+          "Title": "Glaphyromorphus"
+        }
+      ]
+    },
+    {
+      "ID": 2147483643,
+      "Title": "People and self",
+      "Abstract": "A collection of people often refers to a general group, such as all humans, an ethnic group or a nation. An individual person is the self, from his or her own perspective. To you, \"self\" is you. To someone else, \"self\" is that person. A biography is a genre of literature or film, which presents a relatively full account of the most interesting and important events of a notable person's life.\n\nLife or personal life or human existence is an individual human's personal, private experience of living (including their employment career, their family life, and other elements). In prehistoric times, life and existence was based on survival. There was little privacy and a person was identified by their role in the group. In modern times, many people have even come to think of their personal lives as if they are separate from their work. This segmentation of \"life areas\" is evident in such phrases as \"work life\", \"home life\", and \"sex life.\" The meaning or role of a person's \"life\" or \"human existence\" is discussed in many religions and philosophies. In Western industrialized countries, there are a variety of service industries that help people improve their personal lives, such as counselling and life coaching companies",
+      "Categories": [
+        {
+          "ID": 24641,
+          "Title": "Categorie:Oameni"
+        },
+        {
+          "ID": 28598,
+          "Title": "Categorie:Personaje de film"
+        },
+        {
+          "ID": 28744,
+          "Title": "Categorie:Nume de familie"
+        },
+        {
+          "ID": 53145,
+          "Title": "Categorie:Femei"
+        },
+        {
+          "ID": 187762,
+          "Title": "Categorie:Sine"
+        },
+        {
+          "ID": 760561,
+          "Title": "Categorie:Viață privată"
+        },
+        {
+          "ID": 961088,
+          "Title": "Categorie:Artiști plastici după mediu"
+        }
+      ],
+      "Articles": [
+        {
+          "ID": 245,
+          "Title": "Bill Gates"
+        },
+        {
+          "ID": 446,
+          "Title": "Alan Turing"
+        },
+        {
+          "ID": 1593,
+          "Title": "Adolf Hitler"
+        },
+        {
+          "ID": 10827,
+          "Title": "Sigmund Freud"
+        },
+        {
+          "ID": 10978,
+          "Title": "Galileo Galilei"
+        },
+        {
+          "ID": 12325,
+          "Title": "Richard Wagner"
+        },
+        {
+          "ID": 14460,
+          "Title": "John Lennon"
+        },
+        {
+          "ID": 19381,
+          "Title": "George Harrison"
+        },
+        {
+          "ID": 19720,
+          "Title": "Alexander Fleming"
+        },
+        {
+          "ID": 19852,
+          "Title": "Cristofor Columb"
+        },
+        {
+          "ID": 19857,
+          "Title": "Carl Friedrich Abel"
+        },
+        {
+          "ID": 20342,
+          "Title": "Johannes Kepler"
+        },
+        {
+          "ID": 22465,
+          "Title": "Oliver Cromwell"
+        },
+        {
+          "ID": 27446,
+          "Title": "Adam Smith"
+        },
+        {
+          "ID": 28893,
+          "Title": "Toma de Aquino"
+        },
+        {
+          "ID": 30545,
+          "Title": "René Descartes"
+        },
+        {
+          "ID": 39642,
+          "Title": "Carl Friedrich Gauss"
+        },
+        {
+          "ID": 41150,
+          "Title": "Irving Langmuir"
+        },
+        {
+          "ID": 76737,
+          "Title": "Ayn Rand"
+        },
+        {
+          "ID": 81012,
+          "Title": "Noam Chomsky"
+        },
+        {
+          "ID": 95517,
+          "Title": "Richard Dawkins"
+        },
+        {
+          "ID": 108309,
+          "Title": "Florence Nightingale"
+        },
+        {
+          "ID": 124292,
+          "Title": "Elton John"
+        },
+        {
+          "ID": 133031,
+          "Title": "Carl Sagan"
+        },
+        {
+          "ID": 153776,
+          "Title": "Charles Babbage"
+        },
+        {
+          "ID": 194458,
+          "Title": "Paul Wight"
+        },
+        {
+          "ID": 215941,
+          "Title": "William Blake"
+        },
+        {
+          "ID": 238757,
+          "Title": "Joseph Smith, Jr."
+        },
+        {
+          "ID": 289037,
+          "Title": "Daniel Radcliffe"
+        },
+        {
+          "ID": 294809,
+          "Title": "Lewis Carroll"
+        },
+        {
+          "ID": 297579,
+          "Title": "Srinivasa Ramanujan"
+        },
+        {
+          "ID": 366456,
+          "Title": "Theodor Schwann"
+        },
+        {
+          "ID": 429403,
+          "Title": "Jacob Black"
+        },
+        {
+          "ID": 466928,
+          "Title": "Sheldon Cooper"
+        },
+        {
+          "ID": 650224,
+          "Title": "Fibonacci"
+        },
+        {
+          "ID": 792856,
+          "Title": "Harry Houdini"
+        },
+        {
+          "ID": 888309,
+          "Title": "Anders Behring Breivik"
+        },
+        {
+          "ID": 1157812,
+          "Title": "Cory Monteith"
+        },
+        {
+          "ID": 1897438,
+          "Title": "Ted Cruz"
+        },
+        {
+          "ID": 1995334,
+          "Title": "Bob Ross"
+        }
+      ]
+    },
+    {
+      "ID": 2147483644,
+      "Title": "Philosophy and thinking",
+      "Abstract": "Philosophy has almost as many definitions as there have been philosophers, both as a subject matter and an activity, and no simple definition can do it justice. The issue of the definition of philosophy is thus a controversial subject that is nowadays tackled by Metaphilosophy (or the philosophy of philosophy). The word is derived from the ancient Greek words philo-, to love or to befriend, and -sophia, wisdom. Modern usage of the term is much broader; the concept of philosophy encompasses all of knowledge and all that can be known, including the means by which such knowledge can be acquired. However, in the contemporary English-speaking academic world, the term is often used implicitly to refer to analytic philosophy and, in non-English speaking countries, it often refers implicitly to a different, European strain, continental philosophy. The ancient Greeks organized the subject into five basic categories: metaphysics, epistemology, ethics, politics and aesthetics. This organization of the subject is still largely in use in Western philosophy today.\n\nThought or thinking is a mental process which allows beings to model the world, and so to deal with it effectively according to their goals, plans, ends and desires. Words referring to similar concepts and processes in the English language include cognition, sentience, consciousness, idea, and imagination. Thinking involves the cerebral manipulation of information, as when we form concepts, engage in problem solving, reason and make decisions. Thinking is a higher cognitive function and the analysis of thinking processes is part of cognitive psychology",
+      "Categories": [
+        {
+          "ID": 13793,
+          "Title": "Categorie:Filozofie"
+        },
+        {
+          "ID": 53921,
+          "Title": "Categorie:Etică"
+        },
+        {
+          "ID": 79649,
+          "Title": "Categorie:Ideologii"
+        },
+        {
+          "ID": 110666,
+          "Title": "Categorie:Teorii filozofice"
+        },
+        {
+          "ID": 158036,
+          "Title": "Categorie:Ramuri ale filozofiei"
+        },
+        {
+          "ID": 175684,
+          "Title": "Categorie:Gândire"
+        },
+        {
+          "ID": 760994,
+          "Title": "Categorie:Școli și tradiții filozofice"
+        }
+      ],
+      "Articles": [
+        {
+          "ID": 248490,
+          "Title": "Frumusețe"
+        },
+        {
+          "ID": 960600,
+          "Title": "Fericire"
+        },
+        {
+          "ID": 1187220,
+          "Title": "Efectul Dunning-Kruger"
+        },
+        {
+          "ID": 1937294,
+          "Title": "Gaslighting"
+        },
+        {
+          "ID": 2029527,
+          "Title": "Fapt"
+        }
+      ]
+    },
+    {
+      "ID": 2147483645,
+      "Title": "Religion and belief systems",
+      "Abstract": "Religion is the adherence to codified beliefs and rituals that generally involve a faith in a spiritual nature and a study of inherited ancestral traditions, knowledge and wisdom related to understanding human life. The term \"religion\" refers to both the personal practices related to faith as well as to the larger shared systems of belief.\n\nA belief system can refer to a religion or a world view. A world view (or worldview) is a term calqued from the German word Weltanschauung Welt is the German word for 'world,' and Anschauung is the German word for 'view' or 'outlook'. It is a concept fundamental to German philosophy and epistemology and refers to a wide world perception. Additionally, it refers to the framework of ideas and beliefs through which an individual interprets the world and interacts in it",
+      "Categories": [
+        {
+          "ID": 13884,
+          "Title": "Categorie:Mitologie"
+        },
+        {
+          "ID": 20394,
+          "Title": "Categorie:Religie"
+        },
+        {
+          "ID": 39732,
+          "Title": "Categorie:Secularism"
+        },
+        {
+          "ID": 110666,
+          "Title": "Categorie:Teorii filozofice"
+        },
+        {
+          "ID": 172449,
+          "Title": "Categorie:Critica religiei"
+        },
+        {
+          "ID": 433154,
+          "Title": "Categorie:Antropologia religiilor"
+        },
+        {
+          "ID": 749803,
+          "Title": "Categorie:Credință"
+        },
+        {
+          "ID": 785385,
+          "Title": "Categorie:Controverse religioase"
+        },
+        {
+          "ID": 968595,
+          "Title": "Categorie:Nonteism"
+        },
+        {
+          "ID": 968678,
+          "Title": "Categorie:Credințe religioase, tradiții și mișcări"
+        }
+      ]
+    },
+    {
+      "ID": 2147483646,
+      "Title": "Society and social sciences",
+      "Abstract": "A society is a group of people who form a semi-closed system. At its simplest, the term society refers to a large group of people sharing their own culture and institutions. A society is a network of relationships between people. The English word society is derived from the French société, which had its origin in the Latin societas, a \"friendly association with others,\" from socius meaning \"companion, associate, comrade or business partner.\" Thus, the meaning of society is closely related to what is considered to be social. Implicit in the meaning of society is that its members may share some mutual concern or interest, a common objective or common characteristics. The social sciences generally use the term society to mean a group of people who form a semi-closed social system, in which most interactions are with other individuals belonging to the group. More abstractly, a society is defined as a network of relationships between social entities. A society is also sometimes defined as an interdependent community, but the sociologist Tönnies sought to draw a contrast between society and community. An important feature of society is social structure, aspects of which include roles and social ranking.\n\nThe social science are a group of academic disciplines that study human aspects of the world. They differ from the arts and the humanities, in that the social science tend to emphasize the use of the scientific method in the study of humanity, including quantitative and qualitative methods",
+      "Categories": [
+        {
+          "ID": 23611,
+          "Title": "Categorie:Societate"
+        },
+        {
+          "ID": 129933,
+          "Title": "Categorie:Feminism"
+        },
+        {
+          "ID": 758856,
+          "Title": "Categorie:Organizații internaționale"
+        },
+        {
+          "ID": 761038,
+          "Title": "Categorie:Științe sociale"
+        },
+        {
+          "ID": 901904,
+          "Title": "Categorie:Drepturi"
+        }
+      ],
+      "Articles": [
+        {
+          "ID": 391,
+          "Title": "Uniunea Europeană"
+        },
+        {
+          "ID": 8921,
+          "Title": "Universitatea din Tartu"
+        },
+        {
+          "ID": 9369,
+          "Title": "Drapelul Australiei"
+        },
+        {
+          "ID": 10690,
+          "Title": "Ora de vară"
+        },
+        {
+          "ID": 10691,
+          "Title": "Universitatea Stanford"
+        },
+        {
+          "ID": 27907,
+          "Title": "Universitatea din Leeds"
+        },
+        {
+          "ID": 29054,
+          "Title": "Universitatea Harvard"
+        },
+        {
+          "ID": 77720,
+          "Title": "Universitatea „Alexandru Ioan Cuza” din Iași"
+        },
+        {
+          "ID": 101579,
+          "Title": "Universitatea din Chicago"
+        },
+        {
+          "ID": 129173,
+          "Title": "Starbucks"
+        },
+        {
+          "ID": 166344,
+          "Title": "Universitatea din Münster"
+        },
+        {
+          "ID": 191016,
+          "Title": "American Airlines"
+        },
+        {
+          "ID": 191479,
+          "Title": "Massachusetts Institute of Technology"
+        },
+        {
+          "ID": 234976,
+          "Title": "BP (companie)"
+        },
+        {
+          "ID": 235748,
+          "Title": "Pizza Hut"
+        },
+        {
+          "ID": 252202,
+          "Title": "The New York Times"
+        },
+        {
+          "ID": 273403,
+          "Title": "Universitatea din Sheffield"
+        },
+        {
+          "ID": 297975,
+          "Title": "Universitatea Cambridge"
+        },
+        {
+          "ID": 300767,
+          "Title": "Universitatea din Torino"
+        },
+        {
+          "ID": 304227,
+          "Title": "Universitatea din Birmingham"
+        },
+        {
+          "ID": 344912,
+          "Title": "Universitatea din Osaka"
+        },
+        {
+          "ID": 385558,
+          "Title": "Universitatea Princeton"
+        },
+        {
+          "ID": 390617,
+          "Title": "Universitatea de Stat din Moscova"
+        },
+        {
+          "ID": 426881,
+          "Title": "Universitatea Columbia"
+        },
+        {
+          "ID": 436442,
+          "Title": "Universitatea Georg-August din Göttingen"
+        },
+        {
+          "ID": 437484,
+          "Title": "Universitatea din Leipzig"
+        },
+        {
+          "ID": 439880,
+          "Title": "Universitatea Oxford"
+        },
+        {
+          "ID": 479395,
+          "Title": "Universitatea din Viena"
+        },
+        {
+          "ID": 493331,
+          "Title": "Al Treilea Război Mondial"
+        },
+        {
+          "ID": 514594,
+          "Title": "Universitatea Tokio"
+        },
+        {
+          "ID": 587467,
+          "Title": "CUNY"
+        },
+        {
+          "ID": 664743,
+          "Title": "Imperial College London"
+        },
+        {
+          "ID": 767969,
+          "Title": "Universitatea din Paris"
+        },
+        {
+          "ID": 793889,
+          "Title": "Anul Nou Chinezesc"
+        },
+        {
+          "ID": 842361,
+          "Title": "Universitatea din Köln"
+        },
+        {
+          "ID": 849861,
+          "Title": "Micronațiune"
+        },
+        {
+          "ID": 861729,
+          "Title": "Universitatea Saint Andrews"
+        },
+        {
+          "ID": 864320,
+          "Title": "Universitatea din Londra"
+        },
+        {
+          "ID": 907078,
+          "Title": "Universitatea Ebraică din Ierusalim"
+        },
+        {
+          "ID": 925248,
+          "Title": "Universitatea Uppsala"
+        },
+        {
+          "ID": 979052,
+          "Title": "Universitatea din Minnesota"
+        },
+        {
+          "ID": 1108271,
+          "Title": "University of Arizona"
+        },
+        {
+          "ID": 1120021,
+          "Title": "Universitatea din Manchester"
+        },
+        {
+          "ID": 1135807,
+          "Title": "Universitatea din Wollongong"
+        },
+        {
+          "ID": 1136171,
+          "Title": "Universitatea din Tübingen"
+        },
+        {
+          "ID": 1154436,
+          "Title": "Universitatea din Lancaster"
+        },
+        {
+          "ID": 1188673,
+          "Title": "Universitatea Linköping"
+        },
+        {
+          "ID": 1352661,
+          "Title": "Universitatea din Bologna"
+        },
+        {
+          "ID": 1478158,
+          "Title": "Universitatea din Napoli"
+        },
+        {
+          "ID": 1572124,
+          "Title": "Universitatea din Leicester"
+        },
+        {
+          "ID": 1572353,
+          "Title": "Ulster University"
+        },
+        {
+          "ID": 1650077,
+          "Title": "Taco Bell"
+        },
+        {
+          "ID": 1836142,
+          "Title": "Universitatea din Calcutta"
+        },
+        {
+          "ID": 1897853,
+          "Title": "Universitatea din Padova"
+        },
+        {
+          "ID": 1936586,
+          "Title": "Universitatea din Wrocław"
+        },
+        {
+          "ID": 1975310,
+          "Title": "Universitatea din Cincinnati"
+        },
+        {
+          "ID": 1983002,
+          "Title": "Universitatea de Stat din Sankt Petersburg"
+        },
+        {
+          "ID": 1988795,
+          "Title": "Atentatul de la Westminster"
+        },
+        {
+          "ID": 2009665,
+          "Title": "Fox News"
+        },
+        {
+          "ID": 2012658,
+          "Title": "University of Delaware"
+        },
+        {
+          "ID": 2019580,
+          "Title": "Prohibiție"
+        },
+        {
+          "ID": 2027677,
+          "Title": "Universitatea din Freiburg"
+        },
+        {
+          "ID": 2176353,
+          "Title": "Universitatea din Bonn"
+        },
+        {
+          "ID": 2215799,
+          "Title": "Universitatea din Washington"
+        },
+        {
+          "ID": 2332226,
+          "Title": "Universitatea din Sussex"
+        }
+      ]
+    },
+    {
+      "ID": 2147483647,
+      "Title": "Technology and applied sciences",
+      "Abstract": "Technology is an expanded concept that deals with a species' usage and knowledge of tools and crafts, and how it affects a species' ability to control and adapt to its environment. In human civilization, it is a consequence of science and engineering, although several technological advances predate the formalization of these two disciplines. The term can either be applied generally or to specific areas – examples include construction technology, medical technology, or state-of-the-art technology.\n\nThe human race's use of technology began with the conversion of plentiful natural resources into simple tools. The prehistorical discovery of the ability to control fire increased the available sources of food, and the invention of the wheel helped humans in travelling in and controlling their environment. Recent technological developments, including the printing press and the Internet, have lessened physical barriers to communication and allowed humans to interact on a global scale. However, not all technology has been used for peaceful purposes; the development of weapons of ever-increasing destructive power has progressed throughout history, from clubs to nuclear bombs.\n\nApplied science is the application of knowledge from one or more natural scientific fields to solving practical problems. For example, fields of engineering are applied sciences. Applied science is important for technology development. Its use in industrial settings is usually referred to as research and development (R\u0026D)",
+      "Categories": [
+        {
+          "ID": 12197,
+          "Title": "Categorie:Informatică"
+        },
+        {
+          "ID": 12210,
+          "Title": "Categorie:Internet"
+        },
+        {
+          "ID": 16914,
+          "Title": "Categorie:Electronică"
+        },
+        {
+          "ID": 17973,
+          "Title": "Categorie:Transport"
+        },
+        {
+          "ID": 21144,
+          "Title": "Categorie:Inginerie"
+        },
+        {
+          "ID": 28690,
+          "Title": "Categorie:Tehnologie"
+        },
+        {
+          "ID": 36048,
+          "Title": "Categorie:Design"
+        },
+        {
+          "ID": 175303,
+          "Title": "Categorie:Echipament militar"
+        },
+        {
+          "ID": 243359,
+          "Title": "Categorie:Istoria tehnologiei"
+        },
+        {
+          "ID": 392254,
+          "Title": "Categorie:Tehnologie după tip"
+        },
+        {
+          "ID": 761030,
+          "Title": "Categorie:Științe aplicate"
+        },
+        {
+          "ID": 1651689,
+          "Title": "Categorie:Informatică aplicată"
+        }
+      ],
+      "Articles": [
+        {
+          "ID": 150414,
+          "Title": ".xxx"
+        },
+        {
+          "ID": 312776,
+          "Title": "Pepsi"
+        },
+        {
+          "ID": 653357,
+          "Title": "Mountain Dew"
+        },
+        {
+          "ID": 672797,
+          "Title": "Zid"
+        },
+        {
+          "ID": 892190,
+          "Title": "Gumă de mestecat"
+        },
+        {
+          "ID": 1660717,
+          "Title": "Zidărie"
+        },
+        {
+          "ID": 1795953,
+          "Title": "Mașină de făcut pâine"
+        }
+      ]
+    }
+  ],
+  "Filters": [
+    {
+      "ID": 16021,
+      "Title": "Categorie:Dezambiguizare"
+    },
+    {
+      "ID": 659224,
+      "Title": "Categorie:Categorii ascunse"
+    }
+  ]
+}

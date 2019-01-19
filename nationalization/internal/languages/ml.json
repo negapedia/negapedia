@@ -1,0 +1,930 @@
+{
+  "Language": "ml",
+  "Topics": [
+    {
+      "ID": 2147483637,
+      "Title": "Culture and the arts",
+      "Abstract": "The word culture is derived from the Latin root cultura or cultus meaning to \"inhabit, cultivate, or honour\". In general, culture refers to human activity; different definitions of culture reflect different theories for understanding, or criteria for valuing human activity. Present day Anthropologists use the term to refer to the universal human capacity to classify experiences and to encode and communicate them symbolically. They regard this capacity as a defining feature of the genus Homo. Since culture is learned, people living in different places have different cultures. There can be different cultures in different countries, and there can also be shared cultures among continents.\n\nThe arts are a vast subdivision of culture, composed of many creative endeavors and disciplines. It is a broader term than \"art,\" which as a description of a field usually means only the visual arts. The arts encompasses visual arts, literary arts and the performing arts - music, theatre, dance, spoken word and film, among others.\n\nArt, in its broadest meaning, is the expression of creativity or imagination. The word art comes from the Latin word ars, which, loosely translated, means \"arrangement\". Art is commonly understood as the act of making works (or artworks) which use the human creative impulse and which have meaning beyond simple description. Art is often distinguished from crafts and recreational hobby activities. The term creative arts denotes a collection of disciplines whose principal purpose is the output of material for the viewer or audience to interpret. As such, art may be taken to include forms as diverse as prose writing, poetry, dance, acting or drama, film, music, sculpture, photography, illustration, architecture, collage, painting, craft and fashion. Art may also be understood as relating to creativity, æsthetics and the generation of emotion",
+      "Categories": [
+        {
+          "ID": 2062,
+          "Title": "വർഗ്ഗം:സംസ്കാരം"
+        },
+        {
+          "ID": 4663,
+          "Title": "വർഗ്ഗം:കല"
+        },
+        {
+          "ID": 23947,
+          "Title": "വർഗ്ഗം:ഭക്ഷണപദാർത്ഥങ്ങൾ"
+        },
+        {
+          "ID": 94286,
+          "Title": "വർഗ്ഗം:കായികവിനോദങ്ങൾ"
+        },
+        {
+          "ID": 108208,
+          "Title": "വർഗ്ഗം:ചലച്ചിത്രങ്ങൾ"
+        },
+        {
+          "ID": 160219,
+          "Title": "വർഗ്ഗം:വിനോദങ്ങൾ"
+        },
+        {
+          "ID": 172887,
+          "Title": "വർഗ്ഗം:സംഗീത സംഘങ്ങൾ"
+        },
+        {
+          "ID": 341786,
+          "Title": "വർഗ്ഗം:വിനോദവൃത്തികൾ"
+        },
+        {
+          "ID": 405529,
+          "Title": "വർഗ്ഗം:പാചകക്രമം"
+        }
+      ],
+      "Articles": [
+        {
+          "ID": 2262,
+          "Title": "വിക്കിപീഡിയ"
+        },
+        {
+          "ID": 21047,
+          "Title": "കാപ്പി (പാനീയം)"
+        },
+        {
+          "ID": 24683,
+          "Title": "ബിയർ"
+        },
+        {
+          "ID": 28710,
+          "Title": "വദനസുരതം"
+        },
+        {
+          "ID": 38537,
+          "Title": "റൊട്ടി"
+        },
+        {
+          "ID": 42756,
+          "Title": "ചോക്കലേറ്റ്"
+        },
+        {
+          "ID": 45023,
+          "Title": "പിത്സ"
+        },
+        {
+          "ID": 69824,
+          "Title": "ലെഡ് സെപ്പലിൻ"
+        },
+        {
+          "ID": 78884,
+          "Title": "എന്തിരൻ"
+        },
+        {
+          "ID": 149753,
+          "Title": "ബിസ്കറ്റ്"
+        },
+        {
+          "ID": 222659,
+          "Title": "ഹോട്ട് ഡോഗ്"
+        },
+        {
+          "ID": 232587,
+          "Title": "കേക്ക്"
+        },
+        {
+          "ID": 289587,
+          "Title": "ബക്കിങ്ങാം കൊട്ടാരം"
+        },
+        {
+          "ID": 300568,
+          "Title": "പി.കെ (ചലച്ചിത്രം)"
+        },
+        {
+          "ID": 351944,
+          "Title": "സെഞ്ചുറി എഗ്"
+        },
+        {
+          "ID": 360235,
+          "Title": "ഗ്രീൻ ഡെ"
+        },
+        {
+          "ID": 417649,
+          "Title": "കത്തി (ചലച്ചിത്രം)"
+        },
+        {
+          "ID": 429631,
+          "Title": "ഫ്രൈഡ് റൈസ്"
+        },
+        {
+          "ID": 441815,
+          "Title": "സ്മോക്ഡ് എഗ്ഗ്"
+        },
+        {
+          "ID": 446144,
+          "Title": "തലൈവ (ചലച്ചിത്രം)"
+        },
+        {
+          "ID": 454417,
+          "Title": "ജബ് തക് ഹേ ജാൻ"
+        }
+      ]
+    },
+    {
+      "ID": 2147483638,
+      "Title": "Geography and places",
+      "Abstract": "Geography (Greek Geo (γη) or Gaea (γαία), meaning \"Earth\", and graphein (γράφειν) meaning \"to describe\" or \"to write\") is the study of the earth and its features, inhabitants, and phenomena. A literal translation would be \"to describe or write about the Earth\". The first person to use the word \"geography\" was Eratosthenes (275-195 B.C.). Four historical traditions in geographical research are the spatial analysis of natural and human phenomena (geography as a study of distribution), area studies (places and regions), study of man-land relationship, and research in earth sciences. Nonetheless, modern geography is an all-encompassing discipline that foremost seeks to understand the world and all of its human and natural complexities — not merely where objects are, but how they have changed and come to be. As \"the bridge between the human and physical sciences,\" geography is divided into two main branches — human geography and physical geography",
+      "Categories": [
+        {
+          "ID": 2057,
+          "Title": "വർഗ്ഗം:ഭൂമിശാസ്ത്രം"
+        },
+        {
+          "ID": 72870,
+          "Title": "വർഗ്ഗം:സ്ഥലങ്ങൾ"
+        },
+        {
+          "ID": 208223,
+          "Title": "വർഗ്ഗം:നഗരാസൂത്രണം"
+        },
+        {
+          "ID": 363853,
+          "Title": "വർഗ്ഗം:ഭൂമിശാസ്ത്രവുമായി ബന്ധപ്പെട്ട പട്ടികകൾ"
+        }
+      ],
+      "Articles": [
+        {
+          "ID": 16345,
+          "Title": "മ്യാൻമാർ"
+        },
+        {
+          "ID": 38622,
+          "Title": "വെനീസ്"
+        },
+        {
+          "ID": 42679,
+          "Title": "പാരിസ്"
+        },
+        {
+          "ID": 268026,
+          "Title": "കാൻബറ"
+        },
+        {
+          "ID": 381937,
+          "Title": "ക്വീൻസ്‌ലാൻഡ്"
+        }
+      ]
+    },
+    {
+      "ID": 2147483639,
+      "Title": "Health and fitness",
+      "Abstract": "Health is the level of functional or metabolic efficiency of a living organism. In humans it is the ability of individuals or communities to adapt and self-manage when facing physical, mental or social challenges. The most widely accepted definition of good health is that of the World Health Organization Constitution. It states: \"health is a state of complete physical, mental and social well-being and is not merely the absence of disease or infirmity\" (World Health Organization, 1946). In more recent years, this statement has been amplified to include the ability to lead a \"socially and economically productive life.\" The WHO definition is not without criticism, mainly that it is much too broad.\n\nThe most solid aspects of wellness that fit firmly in the realm of medicine are environmental health, nutrition, disease prevention, and public health. These matters can be investigated at length and can assist in measuring well-being. Please see our medical disclaimer for cautions about Wikipedia's limitations",
+      "Categories": [
+        {
+          "ID": 4662,
+          "Title": "വർഗ്ഗം:വൈദ്യശാസ്ത്രം"
+        },
+        {
+          "ID": 31886,
+          "Title": "വർഗ്ഗം:ആരോഗ്യം"
+        },
+        {
+          "ID": 456507,
+          "Title": "വർഗ്ഗം:ജനിതക രോഗങ്ങളും വൈകല്യങ്ങളും"
+        }
+      ]
+    },
+    {
+      "ID": 2147483640,
+      "Title": "History and events",
+      "Abstract": "History is the interpretation of past events, societies and civilizations. The term history comes from the Greek historia (ἱστορία), \"an account of one's inquiries,\" and shares that etymology with the English word story as narrative. The 1911 Encyclopædia Britannica stated that \"history in the wider sense is all that has happened, not merely all the phenomena of human life, but those of the natural world as well. It is everything that undergoes change; and as modern science has shown that there is nothing absolutely static, therefore, the whole universe, and every part of it, has its history.\" ",
+      "Categories": [
+        {
+          "ID": 2621,
+          "Title": "വർഗ്ഗം:ചരിത്രം"
+        },
+        {
+          "ID": 80726,
+          "Title": "വർഗ്ഗം:രാജ്യങ്ങളുടെ ചരിത്രം"
+        },
+        {
+          "ID": 288971,
+          "Title": "വർഗ്ഗം:സംഭവങ്ങൾ"
+        }
+      ],
+      "Articles": [
+        {
+          "ID": 1902,
+          "Title": "സെപ്റ്റംബർ 11ലെ ഭീകരാക്രമണം"
+        },
+        {
+          "ID": 125701,
+          "Title": "ഡീപ്‌വാട്ടർ ഹൊറൈസൻ എണ്ണച്ചോർച്ച"
+        },
+        {
+          "ID": 145199,
+          "Title": "2011-ലെ ജപ്പാൻ ഭൂകമ്പവും സുനാമിയും"
+        },
+        {
+          "ID": 241297,
+          "Title": "ട്രോജൻ യുദ്ധം"
+        },
+        {
+          "ID": 312848,
+          "Title": "ആവർത്തനപ്പട്ടികയുടെ ചരിത്രം"
+        },
+        {
+          "ID": 341157,
+          "Title": "ഒർലാൻഡോ നിശാക്ലബ് കൂട്ടക്കൊല 2016"
+        }
+      ]
+    },
+    {
+      "ID": 2147483641,
+      "Title": "Mathematics and logic",
+      "Abstract": "Mathematics is the science of quantization. It is also the study of patterns and relationships, including concepts such as quantity, structure, space, uncertainty, and change. It evolved through the use of abstraction and logical reasoning, from counting, calculation, measurement, and the systematic study of positions, shapes and motions of physical objects. Mathematicians explore such concepts, aiming to formulate new conjectures and establish their truth by rigorous deduction from appropriately chosen axioms and definitions.\n\nLogic (from Classical Greek λόγος logos; meaning word, thought, idea, argument, account, reason or principle) is the study of the principles and criteria of valid inference and demonstration. As a formal science, logic investigates and classifies the structure of statements and arguments, both through the study of formal systems of inference and through the study of arguments in natural language. The field of logic ranges from core topics such as the study of fallacies and paradoxes, to specialized analysis of reasoning using probability and to arguments involving causality. Logic is also commonly used today in argumentation theory. Since the mid-nineteenth century formal logic has been studied in the context of the foundations of mathematics",
+      "Categories": [
+        {
+          "ID": 3350,
+          "Title": "വർഗ്ഗം:ഗണിതം"
+        },
+        {
+          "ID": 65299,
+          "Title": "വർഗ്ഗം:സ്ഥിതിവിവരശാസ്ത്രം"
+        },
+        {
+          "ID": 73905,
+          "Title": "വർഗ്ഗം:തിയററ്റിക്കൽ കമ്പ്യൂട്ടർ സയൻസ്"
+        }
+      ],
+      "Articles": [
+        {
+          "ID": 126561,
+          "Title": "നീളം"
+        }
+      ]
+    },
+    {
+      "ID": 2147483642,
+      "Title": "Nature and physical sciences",
+      "Abstract": "The term nature is derived from the Latin word natura, or \"essential qualities, innate disposition\". Natura is a Latin translation of the Greek word physis (φύσις), which originally related to the intrinsic characteristics that plants, animals, and other features of the world develop of their own accord. The concept of nature as a whole, all matter and energy in the universe, is one of several expansions of the original notion.\n\nPhysical science is an encompassing term for the branches of natural science, and science, that study non-living systems, in contrast to the biological sciences. However, the term \"physical\" creates an involuntary, somewhat arbitrary distinction, since many branches of physical science also study biological phenomena",
+      "Categories": [
+        {
+          "ID": 2098,
+          "Title": "വർഗ്ഗം:ശാസ്ത്രം"
+        },
+        {
+          "ID": 4660,
+          "Title": "വർഗ്ഗം:രസതന്ത്രം"
+        },
+        {
+          "ID": 4696,
+          "Title": "വർഗ്ഗം:ജന്തുശാസ്ത്രം"
+        },
+        {
+          "ID": 10919,
+          "Title": "വർഗ്ഗം:ഭൗതികശാസ്ത്രം"
+        },
+        {
+          "ID": 53840,
+          "Title": "വർഗ്ഗം:രാസസം‌യുക്തങ്ങൾ"
+        },
+        {
+          "ID": 72231,
+          "Title": "വർഗ്ഗം:പ്രകൃതി"
+        },
+        {
+          "ID": 145888,
+          "Title": "വർഗ്ഗം:ദുരന്തങ്ങൾ"
+        },
+        {
+          "ID": 288909,
+          "Title": "വർഗ്ഗം:ജന്തുജാലം വൻകര തിരിച്ച്"
+        },
+        {
+          "ID": 349170,
+          "Title": "വർഗ്ഗം:പ്രകൃതിശാസ്ത്രം"
+        },
+        {
+          "ID": 454202,
+          "Title": "വർഗ്ഗം:പരിസ്ഥിതിശാസ്ത്രം"
+        }
+      ],
+      "Articles": [
+        {
+          "ID": 5197,
+          "Title": "മൂത്രം"
+        },
+        {
+          "ID": 5199,
+          "Title": "ലിംഗം"
+        },
+        {
+          "ID": 11923,
+          "Title": "കൈതച്ചക്ക"
+        },
+        {
+          "ID": 14564,
+          "Title": "ഗോതമ്പ്"
+        },
+        {
+          "ID": 14582,
+          "Title": "അരി"
+        },
+        {
+          "ID": 22409,
+          "Title": "മാങ്ങ"
+        },
+        {
+          "ID": 23933,
+          "Title": "ഒട്ടകം"
+        },
+        {
+          "ID": 26475,
+          "Title": "ചെറുനാരകം"
+        },
+        {
+          "ID": 27553,
+          "Title": "ചോളം"
+        },
+        {
+          "ID": 28700,
+          "Title": "സ്വയംഭോഗം"
+        },
+        {
+          "ID": 28818,
+          "Title": "തീ"
+        },
+        {
+          "ID": 29008,
+          "Title": "ചാണകം"
+        },
+        {
+          "ID": 29707,
+          "Title": "ഓറഞ്ച് (സസ്യം)"
+        },
+        {
+          "ID": 63150,
+          "Title": "ഗാർഡൻ സ്ട്രോബെറി"
+        },
+        {
+          "ID": 69823,
+          "Title": "വൃഷണം"
+        },
+        {
+          "ID": 88982,
+          "Title": "മായൻ കലണ്ടർ"
+        },
+        {
+          "ID": 121798,
+          "Title": "അനക്കോണ്ട"
+        },
+        {
+          "ID": 122351,
+          "Title": "അരയന്നക്കൊക്ക്"
+        },
+        {
+          "ID": 138393,
+          "Title": "നൈജീരിയൻ ഡ്വാർഫ് ഗോട്ട്"
+        },
+        {
+          "ID": 144211,
+          "Title": "മരത്തവള"
+        },
+        {
+          "ID": 203587,
+          "Title": "ബൂബി"
+        },
+        {
+          "ID": 203705,
+          "Title": "വെള്ളക്കടുവ"
+        },
+        {
+          "ID": 228275,
+          "Title": "ജലചംക്രമണം"
+        },
+        {
+          "ID": 245990,
+          "Title": "കോളിഫ്ലവർ"
+        },
+        {
+          "ID": 346638,
+          "Title": "മുളയ്ക്കൽ"
+        },
+        {
+          "ID": 356943,
+          "Title": "ആഹാരശൃഖല"
+        },
+        {
+          "ID": 436078,
+          "Title": "മഗ്നോലിയ ലില്ലിഫ്ളോറ"
+        }
+      ]
+    },
+    {
+      "ID": 2147483643,
+      "Title": "People and self",
+      "Abstract": "A collection of people often refers to a general group, such as all humans, an ethnic group or a nation. An individual person is the self, from his or her own perspective. To you, \"self\" is you. To someone else, \"self\" is that person. A biography is a genre of literature or film, which presents a relatively full account of the most interesting and important events of a notable person's life.\n\nLife or personal life or human existence is an individual human's personal, private experience of living (including their employment career, their family life, and other elements). In prehistoric times, life and existence was based on survival. There was little privacy and a person was identified by their role in the group. In modern times, many people have even come to think of their personal lives as if they are separate from their work. This segmentation of \"life areas\" is evident in such phrases as \"work life\", \"home life\", and \"sex life.\" The meaning or role of a person's \"life\" or \"human existence\" is discussed in many religions and philosophies. In Western industrialized countries, there are a variety of service industries that help people improve their personal lives, such as counselling and life coaching companies",
+      "Categories": [
+        {
+          "ID": 53831,
+          "Title": "വർഗ്ഗം:വ്യക്തികൾ"
+        },
+        {
+          "ID": 275926,
+          "Title": "വർഗ്ഗം:സ്ത്രീകൾ"
+        },
+        {
+          "ID": 371157,
+          "Title": "വർഗ്ഗം:വ്യക്തിജീവിതം"
+        },
+        {
+          "ID": 439856,
+          "Title": "വർഗ്ഗം:കുലനാമം"
+        }
+      ],
+      "Articles": [
+        {
+          "ID": 8516,
+          "Title": "തോമസ് അക്വീനാസ്"
+        },
+        {
+          "ID": 10143,
+          "Title": "ഗലീലിയോ ഗലീലി"
+        },
+        {
+          "ID": 12294,
+          "Title": "ശ്രീനിവാസ രാമാനുജൻ"
+        },
+        {
+          "ID": 15301,
+          "Title": "അഡോൾഫ് ഹിറ്റ്‌ലർ"
+        },
+        {
+          "ID": 16964,
+          "Title": "നോം ചോംസ്കി"
+        },
+        {
+          "ID": 29180,
+          "Title": "ചാൾസ് ബാബേജ്"
+        },
+        {
+          "ID": 29207,
+          "Title": "ബിൽ ഗേറ്റ്സ്"
+        },
+        {
+          "ID": 29251,
+          "Title": "അലൻ ട്യൂറിംഗ്"
+        },
+        {
+          "ID": 40317,
+          "Title": "ഫ്ലോറൻസ് നൈറ്റിൻഗേൽ"
+        },
+        {
+          "ID": 41618,
+          "Title": "കാൾ ഫ്രെഡറിക് ഗോസ്സ്"
+        },
+        {
+          "ID": 45493,
+          "Title": "ക്രിസ്റ്റഫർ കൊളംബസ്"
+        },
+        {
+          "ID": 45633,
+          "Title": "ജൊഹാൻസ് കെപ്ലർ"
+        },
+        {
+          "ID": 46053,
+          "Title": "സിഗ്മണ്ട് ഫ്രോയിഡ്"
+        },
+        {
+          "ID": 46869,
+          "Title": "റിച്ചാർഡ് വാഗ്നർ"
+        },
+        {
+          "ID": 46956,
+          "Title": "ഫിബനാച്ചി"
+        },
+        {
+          "ID": 47074,
+          "Title": "റെനെ ദെക്കാർത്ത്"
+        },
+        {
+          "ID": 47245,
+          "Title": "അലക്സാണ്ടർ ഫ്ലെമിങ്"
+        },
+        {
+          "ID": 64579,
+          "Title": "വില്യം ബ്ലെയ്ക്ക്"
+        },
+        {
+          "ID": 74372,
+          "Title": "കാൾ സാഗൻ"
+        },
+        {
+          "ID": 77236,
+          "Title": "ആഡം സ്മിത്ത്"
+        },
+        {
+          "ID": 110117,
+          "Title": "ഹാരി ഹൗഡിനി"
+        },
+        {
+          "ID": 115630,
+          "Title": "ഒലിവർ ക്രോംവെൽ"
+        },
+        {
+          "ID": 168126,
+          "Title": "അയ്ൻ റാൻഡ്"
+        },
+        {
+          "ID": 177058,
+          "Title": "റിച്ചാർഡ് ഡോക്കിൻസ്"
+        },
+        {
+          "ID": 222545,
+          "Title": "ലൂയിസ് കാരൾ"
+        },
+        {
+          "ID": 227595,
+          "Title": "ജോർജ്ജ് ഹാരിസൺ"
+        },
+        {
+          "ID": 257275,
+          "Title": "ജോൺ ലെനൻ"
+        },
+        {
+          "ID": 276669,
+          "Title": "തിയൊഡോർ ഷ്വാൻ"
+        },
+        {
+          "ID": 303138,
+          "Title": "ആന്തെർസ് ബെഹ്രിങ് ബ്രൈവിക്"
+        },
+        {
+          "ID": 352755,
+          "Title": "എൽട്ടൺ ജോൺ"
+        },
+        {
+          "ID": 413712,
+          "Title": "ഡാനിയൽ റാഡ്ക്ലിഫ്"
+        }
+      ]
+    },
+    {
+      "ID": 2147483644,
+      "Title": "Philosophy and thinking",
+      "Abstract": "Philosophy has almost as many definitions as there have been philosophers, both as a subject matter and an activity, and no simple definition can do it justice. The issue of the definition of philosophy is thus a controversial subject that is nowadays tackled by Metaphilosophy (or the philosophy of philosophy). The word is derived from the ancient Greek words philo-, to love or to befriend, and -sophia, wisdom. Modern usage of the term is much broader; the concept of philosophy encompasses all of knowledge and all that can be known, including the means by which such knowledge can be acquired. However, in the contemporary English-speaking academic world, the term is often used implicitly to refer to analytic philosophy and, in non-English speaking countries, it often refers implicitly to a different, European strain, continental philosophy. The ancient Greeks organized the subject into five basic categories: metaphysics, epistemology, ethics, politics and aesthetics. This organization of the subject is still largely in use in Western philosophy today.\n\nThought or thinking is a mental process which allows beings to model the world, and so to deal with it effectively according to their goals, plans, ends and desires. Words referring to similar concepts and processes in the English language include cognition, sentience, consciousness, idea, and imagination. Thinking involves the cerebral manipulation of information, as when we form concepts, engage in problem solving, reason and make decisions. Thinking is a higher cognitive function and the analysis of thinking processes is part of cognitive psychology",
+      "Categories": [
+        {
+          "ID": 144084,
+          "Title": "വർഗ്ഗം:നീതിശാസ്ത്രം"
+        },
+        {
+          "ID": 162123,
+          "Title": "വർഗ്ഗം:തത്ത്വശാസ്ത്രം"
+        },
+        {
+          "ID": 205263,
+          "Title": "വർഗ്ഗം:ചിന്ത"
+        },
+        {
+          "ID": 338429,
+          "Title": "വർഗ്ഗം:തത്ത്വചിന്താ ശാഖകൾ"
+        },
+        {
+          "ID": 342751,
+          "Title": "വർഗ്ഗം:പ്രത്യയശാസ്ത്രങ്ങൾ"
+        },
+        {
+          "ID": 446436,
+          "Title": "വർഗ്ഗം:തത്ത്വശാസ്ത്രപരമായ സിദ്ധാന്തങ്ങൾ"
+        }
+      ],
+      "Articles": [
+        {
+          "ID": 79572,
+          "Title": "സൗന്ദര്യം"
+        },
+        {
+          "ID": 319696,
+          "Title": "സന്തോഷം"
+        },
+        {
+          "ID": 438932,
+          "Title": "ഗ്യാസ് ലൈറ്റിങ്"
+        }
+      ]
+    },
+    {
+      "ID": 2147483645,
+      "Title": "Religion and belief systems",
+      "Abstract": "Religion is the adherence to codified beliefs and rituals that generally involve a faith in a spiritual nature and a study of inherited ancestral traditions, knowledge and wisdom related to understanding human life. The term \"religion\" refers to both the personal practices related to faith as well as to the larger shared systems of belief.\n\nA belief system can refer to a religion or a world view. A world view (or worldview) is a term calqued from the German word Weltanschauung Welt is the German word for 'world,' and Anschauung is the German word for 'view' or 'outlook'. It is a concept fundamental to German philosophy and epistemology and refers to a wide world perception. Additionally, it refers to the framework of ideas and beliefs through which an individual interprets the world and interacts in it",
+      "Categories": [
+        {
+          "ID": 2874,
+          "Title": "വർഗ്ഗം:മതം"
+        },
+        {
+          "ID": 250957,
+          "Title": "വർഗ്ഗം:മതേതരത്വം"
+        },
+        {
+          "ID": 334724,
+          "Title": "വർഗ്ഗം:മത വിമർശനം"
+        },
+        {
+          "ID": 336035,
+          "Title": "വർഗ്ഗം:ഇന്ത്യൻ മതങ്ങൾ"
+        },
+        {
+          "ID": 338424,
+          "Title": "വർഗ്ഗം:വിശ്വാസം"
+        },
+        {
+          "ID": 359418,
+          "Title": "വർഗ്ഗം:പുരാവൃത്തവിജ്ഞാനം"
+        },
+        {
+          "ID": 446436,
+          "Title": "വർഗ്ഗം:തത്ത്വശാസ്ത്രപരമായ സിദ്ധാന്തങ്ങൾ"
+        }
+      ]
+    },
+    {
+      "ID": 2147483646,
+      "Title": "Society and social sciences",
+      "Abstract": "A society is a group of people who form a semi-closed system. At its simplest, the term society refers to a large group of people sharing their own culture and institutions. A society is a network of relationships between people. The English word society is derived from the French société, which had its origin in the Latin societas, a \"friendly association with others,\" from socius meaning \"companion, associate, comrade or business partner.\" Thus, the meaning of society is closely related to what is considered to be social. Implicit in the meaning of society is that its members may share some mutual concern or interest, a common objective or common characteristics. The social sciences generally use the term society to mean a group of people who form a semi-closed social system, in which most interactions are with other individuals belonging to the group. More abstractly, a society is defined as a network of relationships between social entities. A society is also sometimes defined as an interdependent community, but the sociologist Tönnies sought to draw a contrast between society and community. An important feature of society is social structure, aspects of which include roles and social ranking.\n\nThe social science are a group of academic disciplines that study human aspects of the world. They differ from the arts and the humanities, in that the social science tend to emphasize the use of the scientific method in the study of humanity, including quantitative and qualitative methods",
+      "Categories": [
+        {
+          "ID": 2620,
+          "Title": "വർഗ്ഗം:സാമൂഹികം"
+        },
+        {
+          "ID": 53815,
+          "Title": "വർഗ്ഗം:സാമൂഹ്യശാസ്ത്രം"
+        },
+        {
+          "ID": 120260,
+          "Title": "വർഗ്ഗം:അവകാശങ്ങൾ"
+        },
+        {
+          "ID": 156759,
+          "Title": "വർഗ്ഗം:അന്താരാഷ്ട്ര സംഘടനകൾ"
+        },
+        {
+          "ID": 245140,
+          "Title": "വർഗ്ഗം:ഫെമിനിസം"
+        }
+      ],
+      "Articles": [
+        {
+          "ID": 2470,
+          "Title": "ദ ടൈംസ്‌ ഓഫ്‌ ഇന്ത്യ"
+        },
+        {
+          "ID": 8580,
+          "Title": "യൂറോപ്യൻ യൂണിയൻ"
+        },
+        {
+          "ID": 25621,
+          "Title": "മഹാത്മാഗാന്ധി സർവ്വകലാശാല"
+        },
+        {
+          "ID": 42799,
+          "Title": "അലിഗഢ് മുസ്ലിം സർവകലാശാല"
+        },
+        {
+          "ID": 55495,
+          "Title": "ഡെൽഹി സർവകലാശാല"
+        },
+        {
+          "ID": 65137,
+          "Title": "മസ്സാചുസെറ്റ്സ് ഇൻസ്റ്റിറ്റ്യൂട്ട് ഓഫ് ടെക്നോളജി"
+        },
+        {
+          "ID": 79872,
+          "Title": "ട്യൂബിങ്ങൻ സർവ്വകലാശാല"
+        },
+        {
+          "ID": 79876,
+          "Title": "അരിസോണ സർവ്വകലാശാല"
+        },
+        {
+          "ID": 89177,
+          "Title": "ജവഹർലാൽ നെഹ്രു സർവകലാശാല"
+        },
+        {
+          "ID": 148282,
+          "Title": "ഡേ ലൈറ്റ് സേവിംഗ് ടൈം"
+        },
+        {
+          "ID": 177892,
+          "Title": "യൂണിവേഴ്സിറ്റി ഓഫ് പാരീസ്"
+        },
+        {
+          "ID": 201277,
+          "Title": "ടോക്കിയോ സർവകലാശാല"
+        },
+        {
+          "ID": 207434,
+          "Title": "കേംബ്രിഡ്ജ് സർവകലാശാല"
+        },
+        {
+          "ID": 207503,
+          "Title": "ഓക്സ്ഫഡ് സർവകലാശാല"
+        },
+        {
+          "ID": 211702,
+          "Title": "കൊൽക്കത്ത സർവ്വകലാശാല"
+        },
+        {
+          "ID": 256278,
+          "Title": "വിർജീനിയ സർവകലാശാല"
+        },
+        {
+          "ID": 259254,
+          "Title": "വാഷിങ്ടൺ സർവകലാശാല"
+        },
+        {
+          "ID": 263724,
+          "Title": "ദ് ന്യൂയോർക്ക് ടൈംസ്"
+        },
+        {
+          "ID": 329397,
+          "Title": "ഹാർവാർഡ് സർവകലാശാല"
+        },
+        {
+          "ID": 339918,
+          "Title": "അമേരിക്കൻ എയർലൈൻസ്"
+        },
+        {
+          "ID": 364136,
+          "Title": "സാമൂഹിക കൈകാര്യസ്ഥത"
+        },
+        {
+          "ID": 378769,
+          "Title": "യുണൈറ്റഡ് നേഷൻസ് എൻവിറോണ്മെന്റ് പ്രോഗ്രാം"
+        },
+        {
+          "ID": 387893,
+          "Title": "സ്റ്റാൻഫോർഡ് സർവ്വകലാശാല"
+        },
+        {
+          "ID": 387918,
+          "Title": "യൂണിവേഴ്സിറ്റി ഓഫ് ഷിക്കാഗോ"
+        },
+        {
+          "ID": 388472,
+          "Title": "പ്രിൻസ്ടൺ സർവ്വകലാശാല"
+        },
+        {
+          "ID": 389560,
+          "Title": "കൊളംബിയ സർവ്വകലാശാല"
+        },
+        {
+          "ID": 389871,
+          "Title": "പെൻസിൽവാനിയ യൂണിവേഴ്സിറ്റി"
+        },
+        {
+          "ID": 390000,
+          "Title": "വിയന്ന യൂണിവേഴ്സിറ്റി"
+        },
+        {
+          "ID": 390184,
+          "Title": "യൂണിവേഴ്സിറ്റി ഓഫ് മിഷിഗൺ"
+        },
+        {
+          "ID": 390190,
+          "Title": "മോസ്കോ സ്റ്റേറ്റ് യൂണിവേഴ്സിറ്റി"
+        },
+        {
+          "ID": 390194,
+          "Title": "യൂണിവേഴ്സിറ്റി ഓഫ് ബൊലോഗ്ന"
+        },
+        {
+          "ID": 390196,
+          "Title": "ഇമ്പീരിയൽ കോളജ്, ലണ്ടൻ"
+        },
+        {
+          "ID": 390198,
+          "Title": "ആസ്ട്രേലിയൻ നാഷണൽ യൂണിവേഴ്സിറ്റി"
+        },
+        {
+          "ID": 390255,
+          "Title": "നാഞ്ചിങ് യൂണിവേഴ്സിറ്റി"
+        },
+        {
+          "ID": 390353,
+          "Title": "റ്റ്സിൻഷുവ യൂണിവേഴ്സിറ്റി"
+        },
+        {
+          "ID": 390389,
+          "Title": "സെൻറ് പീറ്റേഴ്സ്ബർഗ് സ്റ്റേറ്റ് യൂണിവേഴ്സിറ്റി"
+        },
+        {
+          "ID": 390883,
+          "Title": "യൂണിവേഴ്സിറ്റി ഓഫ് ലണ്ടൻ"
+        },
+        {
+          "ID": 392066,
+          "Title": "യൂണിവേഴ്സിറ്റി ഓഫ് കാൾഗറി"
+        },
+        {
+          "ID": 392073,
+          "Title": "യൂണിവേഴ്സിറ്റി ഓഫ് റെഗിന"
+        },
+        {
+          "ID": 392095,
+          "Title": "യൂണിവേഴ്സിറ്റി ഓഫ് മലയ"
+        },
+        {
+          "ID": 392107,
+          "Title": "യൂണിവേഴ്സിറ്റി ഓഫ് വിക്ടോറിയ"
+        },
+        {
+          "ID": 420461,
+          "Title": "ജിയോ"
+        },
+        {
+          "ID": 425418,
+          "Title": "സെൻട്രം വിസ്കുണ്ടെ \u0026 ഇൻഫോമാറ്റിക്ക"
+        },
+        {
+          "ID": 448096,
+          "Title": "തമ്മാസാറ്റ് സർവ്വകലാശാല"
+        },
+        {
+          "ID": 448362,
+          "Title": "മുംബൈ സർവകലാശാല"
+        },
+        {
+          "ID": 456602,
+          "Title": "റൈസ് യൂണിവേഴ്സിറ്റി"
+        }
+      ]
+    },
+    {
+      "ID": 2147483647,
+      "Title": "Technology and applied sciences",
+      "Abstract": "Technology is an expanded concept that deals with a species' usage and knowledge of tools and crafts, and how it affects a species' ability to control and adapt to its environment. In human civilization, it is a consequence of science and engineering, although several technological advances predate the formalization of these two disciplines. The term can either be applied generally or to specific areas – examples include construction technology, medical technology, or state-of-the-art technology.\n\nThe human race's use of technology began with the conversion of plentiful natural resources into simple tools. The prehistorical discovery of the ability to control fire increased the available sources of food, and the invention of the wheel helped humans in travelling in and controlling their environment. Recent technological developments, including the printing press and the Internet, have lessened physical barriers to communication and allowed humans to interact on a global scale. However, not all technology has been used for peaceful purposes; the development of weapons of ever-increasing destructive power has progressed throughout history, from clubs to nuclear bombs.\n\nApplied science is the application of knowledge from one or more natural scientific fields to solving practical problems. For example, fields of engineering are applied sciences. Applied science is important for technology development. Its use in industrial settings is usually referred to as research and development (R\u0026D)",
+      "Categories": [
+        {
+          "ID": 2619,
+          "Title": "വർഗ്ഗം:സാങ്കേതികം"
+        },
+        {
+          "ID": 13586,
+          "Title": "വർഗ്ഗം:ഗതാഗതം"
+        },
+        {
+          "ID": 27793,
+          "Title": "വർഗ്ഗം:ഇന്റർനെറ്റ്"
+        },
+        {
+          "ID": 27795,
+          "Title": "വർഗ്ഗം:ഇലക്ട്രോണിക്സ്"
+        },
+        {
+          "ID": 54047,
+          "Title": "വർഗ്ഗം:കമ്പ്യൂട്ടർ ശാസ്ത്രം"
+        },
+        {
+          "ID": 73886,
+          "Title": "വർഗ്ഗം:കമ്പ്യൂട്ടിങ്ങ്‌"
+        },
+        {
+          "ID": 192684,
+          "Title": "വർഗ്ഗം:എഞ്ചിനീയറിങ്ങ്"
+        },
+        {
+          "ID": 253998,
+          "Title": "വർഗ്ഗം:രൂപകൽപന"
+        },
+        {
+          "ID": 341773,
+          "Title": "വർഗ്ഗം:സാങ്കേതികവിദ്യയുടെ ചരിത്രം"
+        }
+      ],
+      "Articles": [
+        {
+          "ID": 22979,
+          "Title": "ച്യൂയിങ് ഗം"
+        },
+        {
+          "ID": 243922,
+          "Title": "പെപ്സി"
+        }
+      ]
+    }
+  ],
+  "Filters": [
+    {
+      "ID": 113612,
+      "Title": "വർഗ്ഗം:വിവക്ഷകൾ"
+    },
+    {
+      "ID": 123324,
+      "Title": "വർഗ്ഗം:മറഞ്ഞിരിക്കുന്ന വർഗ്ഗങ്ങൾ"
+    }
+  ]
+}

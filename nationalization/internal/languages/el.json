@@ -1,0 +1,1160 @@
+{
+  "Language": "el",
+  "Topics": [
+    {
+      "ID": 2147483637,
+      "Title": "Culture and the arts",
+      "Abstract": "The word culture is derived from the Latin root cultura or cultus meaning to \"inhabit, cultivate, or honour\". In general, culture refers to human activity; different definitions of culture reflect different theories for understanding, or criteria for valuing human activity. Present day Anthropologists use the term to refer to the universal human capacity to classify experiences and to encode and communicate them symbolically. They regard this capacity as a defining feature of the genus Homo. Since culture is learned, people living in different places have different cultures. There can be different cultures in different countries, and there can also be shared cultures among continents.\n\nThe arts are a vast subdivision of culture, composed of many creative endeavors and disciplines. It is a broader term than \"art,\" which as a description of a field usually means only the visual arts. The arts encompasses visual arts, literary arts and the performing arts - music, theatre, dance, spoken word and film, among others.\n\nArt, in its broadest meaning, is the expression of creativity or imagination. The word art comes from the Latin word ars, which, loosely translated, means \"arrangement\". Art is commonly understood as the act of making works (or artworks) which use the human creative impulse and which have meaning beyond simple description. Art is often distinguished from crafts and recreational hobby activities. The term creative arts denotes a collection of disciplines whose principal purpose is the output of material for the viewer or audience to interpret. As such, art may be taken to include forms as diverse as prose writing, poetry, dance, acting or drama, film, music, sculpture, photography, illustration, architecture, collage, painting, craft and fashion. Art may also be understood as relating to creativity, æsthetics and the generation of emotion",
+      "Categories": [
+        {
+          "ID": 6147,
+          "Title": "Κατηγορία:Αθλητισμός"
+        },
+        {
+          "ID": 6159,
+          "Title": "Κατηγορία:Τέχνες"
+        },
+        {
+          "ID": 6160,
+          "Title": "Κατηγορία:Πολιτισμός"
+        },
+        {
+          "ID": 6176,
+          "Title": "Κατηγορία:Ταινίες"
+        },
+        {
+          "ID": 30027,
+          "Title": "Κατηγορία:Μουσικά συγκροτήματα"
+        },
+        {
+          "ID": 118219,
+          "Title": "Κατηγορία:Τρόφιμα"
+        },
+        {
+          "ID": 237122,
+          "Title": "Κατηγορία:Ψυχαγωγία"
+        },
+        {
+          "ID": 317443,
+          "Title": "Κατηγορία:Αναψυχή"
+        },
+        {
+          "ID": 319605,
+          "Title": "Κατηγορία:Ενδιαφέροντα"
+        }
+      ],
+      "Articles": [
+        {
+          "ID": 1806,
+          "Title": "Βικιπαίδεια"
+        },
+        {
+          "ID": 5723,
+          "Title": "Εγκυκλοπαίδεια"
+        },
+        {
+          "ID": 7965,
+          "Title": "Μπίρα"
+        },
+        {
+          "ID": 11592,
+          "Title": "The World Factbook"
+        },
+        {
+          "ID": 12654,
+          "Title": "Green Day"
+        },
+        {
+          "ID": 15604,
+          "Title": "Ψωμί"
+        },
+        {
+          "ID": 17929,
+          "Title": "Αγαμία (θρησκευτική)"
+        },
+        {
+          "ID": 22057,
+          "Title": "Καφές"
+        },
+        {
+          "ID": 24456,
+          "Title": "Ζυμαρικό"
+        },
+        {
+          "ID": 25260,
+          "Title": "Σοκολάτα"
+        },
+        {
+          "ID": 30125,
+          "Title": "Ρεαλισμός (λογοτεχνία)"
+        },
+        {
+          "ID": 33061,
+          "Title": "Πίτσα"
+        },
+        {
+          "ID": 36300,
+          "Title": "Μόρντρεντ"
+        },
+        {
+          "ID": 49806,
+          "Title": "Led Zeppelin"
+        },
+        {
+          "ID": 53012,
+          "Title": "Πεολειχία"
+        },
+        {
+          "ID": 54364,
+          "Title": "AC/DC"
+        },
+        {
+          "ID": 71724,
+          "Title": "Ανάκτορα του Μπάκινγκχαμ"
+        },
+        {
+          "ID": 104739,
+          "Title": "Φάντασμα"
+        },
+        {
+          "ID": 186694,
+          "Title": "Τάκος"
+        },
+        {
+          "ID": 199839,
+          "Title": "Dinosaur Jr."
+        },
+        {
+          "ID": 200237,
+          "Title": "Παγκόσμιο Πρωτάθλημα Βαρέων Βαρών WWE"
+        },
+        {
+          "ID": 203376,
+          "Title": "Τέρας του Λοχ Νες"
+        },
+        {
+          "ID": 212629,
+          "Title": "Sucker Punch"
+        },
+        {
+          "ID": 255099,
+          "Title": "Καρμπονάρα"
+        },
+        {
+          "ID": 256204,
+          "Title": "Τζουντίτα Πάστα"
+        },
+        {
+          "ID": 266146,
+          "Title": "Angry Birds"
+        },
+        {
+          "ID": 280089,
+          "Title": "Μπέικον"
+        },
+        {
+          "ID": 288440,
+          "Title": "Σάλτσα μήλου"
+        },
+        {
+          "ID": 303464,
+          "Title": "Street dance"
+        },
+        {
+          "ID": 352128,
+          "Title": "Φιστικοβούτυρο"
+        },
+        {
+          "ID": 354906,
+          "Title": "Sgt. Pepper's Lonely Hearts Club Band"
+        },
+        {
+          "ID": 448343,
+          "Title": "Ζυμαρικά και φασόλια"
+        },
+        {
+          "ID": 474761,
+          "Title": "Διαγωνισμός Τραγουδιού Eurovision 2017"
+        },
+        {
+          "ID": 511697,
+          "Title": "Διαγωνισμός Τραγουδιού Eurovision 2018"
+        },
+        {
+          "ID": 559170,
+          "Title": "Χοτ ντογκ"
+        },
+        {
+          "ID": 590547,
+          "Title": "Σαμπλέ (μπισκότο)"
+        },
+        {
+          "ID": 595165,
+          "Title": "Σερ μπερίντζ"
+        },
+        {
+          "ID": 596339,
+          "Title": "Αυγό (τρόφιμο)"
+        },
+        {
+          "ID": 601668,
+          "Title": "Σιεμιένοτκα"
+        }
+      ]
+    },
+    {
+      "ID": 2147483638,
+      "Title": "Geography and places",
+      "Abstract": "Geography (Greek Geo (γη) or Gaea (γαία), meaning \"Earth\", and graphein (γράφειν) meaning \"to describe\" or \"to write\") is the study of the earth and its features, inhabitants, and phenomena. A literal translation would be \"to describe or write about the Earth\". The first person to use the word \"geography\" was Eratosthenes (275-195 B.C.). Four historical traditions in geographical research are the spatial analysis of natural and human phenomena (geography as a study of distribution), area studies (places and regions), study of man-land relationship, and research in earth sciences. Nonetheless, modern geography is an all-encompassing discipline that foremost seeks to understand the world and all of its human and natural complexities — not merely where objects are, but how they have changed and come to be. As \"the bridge between the human and physical sciences,\" geography is divided into two main branches — human geography and physical geography",
+      "Categories": [
+        {
+          "ID": 6149,
+          "Title": "Κατηγορία:Γεωγραφία"
+        },
+        {
+          "ID": 94537,
+          "Title": "Κατηγορία:Πολεοδομία"
+        },
+        {
+          "ID": 111162,
+          "Title": "Κατηγορία:Γεωμορφολογία"
+        },
+        {
+          "ID": 513275,
+          "Title": "Κατηγορία:Τοποθεσίες"
+        }
+      ],
+      "Articles": [
+        {
+          "ID": 2671,
+          "Title": "Βενετία"
+        },
+        {
+          "ID": 7426,
+          "Title": "Παρίσι"
+        },
+        {
+          "ID": 16631,
+          "Title": "Μιανμάρ"
+        },
+        {
+          "ID": 96610,
+          "Title": "Καμπέρα"
+        },
+        {
+          "ID": 146425,
+          "Title": "Κουίνσλαντ"
+        }
+      ]
+    },
+    {
+      "ID": 2147483639,
+      "Title": "Health and fitness",
+      "Abstract": "Health is the level of functional or metabolic efficiency of a living organism. In humans it is the ability of individuals or communities to adapt and self-manage when facing physical, mental or social challenges. The most widely accepted definition of good health is that of the World Health Organization Constitution. It states: \"health is a state of complete physical, mental and social well-being and is not merely the absence of disease or infirmity\" (World Health Organization, 1946). In more recent years, this statement has been amplified to include the ability to lead a \"socially and economically productive life.\" The WHO definition is not without criticism, mainly that it is much too broad.\n\nThe most solid aspects of wellness that fit firmly in the realm of medicine are environmental health, nutrition, disease prevention, and public health. These matters can be investigated at length and can assist in measuring well-being. Please see our medical disclaimer for cautions about Wikipedia's limitations",
+      "Categories": [
+        {
+          "ID": 10578,
+          "Title": "Κατηγορία:Ιατρική"
+        },
+        {
+          "ID": 17194,
+          "Title": "Κατηγορία:Επιστήμες Υγείας"
+        },
+        {
+          "ID": 69907,
+          "Title": "Κατηγορία:Υγιεινή"
+        },
+        {
+          "ID": 69908,
+          "Title": "Κατηγορία:Υγεία"
+        },
+        {
+          "ID": 106041,
+          "Title": "Κατηγορία:Ιατρικές ειδικότητες"
+        },
+        {
+          "ID": 225605,
+          "Title": "Κατηγορία:Γενετικές διαταραχές"
+        },
+        {
+          "ID": 516067,
+          "Title": "Κατηγορία:Προσωπική φροντίδα"
+        }
+      ]
+    },
+    {
+      "ID": 2147483640,
+      "Title": "History and events",
+      "Abstract": "History is the interpretation of past events, societies and civilizations. The term history comes from the Greek historia (ἱστορία), \"an account of one's inquiries,\" and shares that etymology with the English word story as narrative. The 1911 Encyclopædia Britannica stated that \"history in the wider sense is all that has happened, not merely all the phenomena of human life, but those of the natural world as well. It is everything that undergoes change; and as modern science has shown that there is nothing absolutely static, therefore, the whole universe, and every part of it, has its history.\" ",
+      "Categories": [
+        {
+          "ID": 2645,
+          "Title": "Κατηγορία:Ιστορία"
+        },
+        {
+          "ID": 62079,
+          "Title": "Κατηγορία:Ιστορία ανά χώρα"
+        },
+        {
+          "ID": 509239,
+          "Title": "Κατηγορία:Γεγονότα"
+        }
+      ],
+      "Articles": [
+        {
+          "ID": 20611,
+          "Title": "Τρωικός Πόλεμος"
+        },
+        {
+          "ID": 38493,
+          "Title": "Επιθέσεις της 11ης Σεπτεμβρίου 2001"
+        },
+        {
+          "ID": 209563,
+          "Title": "Σεισμός και τσουνάμι στο Τόχοκου το 2011"
+        },
+        {
+          "ID": 239130,
+          "Title": "Προεδρική εκλογή των Ηνωμένων Πολιτειών 2012"
+        },
+        {
+          "ID": 239298,
+          "Title": "Άρνηση του Ολοκαυτώματος"
+        },
+        {
+          "ID": 505613,
+          "Title": "Πετρελαιοκηλίδα στον κόλπο του Μεξικού (2010)"
+        }
+      ]
+    },
+    {
+      "ID": 2147483641,
+      "Title": "Mathematics and logic",
+      "Abstract": "Mathematics is the science of quantization. It is also the study of patterns and relationships, including concepts such as quantity, structure, space, uncertainty, and change. It evolved through the use of abstraction and logical reasoning, from counting, calculation, measurement, and the systematic study of positions, shapes and motions of physical objects. Mathematicians explore such concepts, aiming to formulate new conjectures and establish their truth by rigorous deduction from appropriately chosen axioms and definitions.\n\nLogic (from Classical Greek λόγος logos; meaning word, thought, idea, argument, account, reason or principle) is the study of the principles and criteria of valid inference and demonstration. As a formal science, logic investigates and classifies the structure of statements and arguments, both through the study of formal systems of inference and through the study of arguments in natural language. The field of logic ranges from core topics such as the study of fallacies and paradoxes, to specialized analysis of reasoning using probability and to arguments involving causality. Logic is also commonly used today in argumentation theory. Since the mid-nineteenth century formal logic has been studied in the context of the foundations of mathematics",
+      "Categories": [
+        {
+          "ID": 6096,
+          "Title": "Κατηγορία:Μαθηματικά"
+        },
+        {
+          "ID": 14275,
+          "Title": "Κατηγορία:Λογική"
+        },
+        {
+          "ID": 17276,
+          "Title": "Κατηγορία:Στατιστική"
+        },
+        {
+          "ID": 53868,
+          "Title": "Κατηγορία:Εφαρμοσμένα μαθηματικά"
+        },
+        {
+          "ID": 185789,
+          "Title": "Κατηγορία:Θεωρητική πληροφορική"
+        },
+        {
+          "ID": 311870,
+          "Title": "Κατηγορία:Περιοχές των μαθηματικών"
+        },
+        {
+          "ID": 431443,
+          "Title": "Κατηγορία:Μαθηματικές έννοιες"
+        }
+      ],
+      "Articles": [
+        {
+          "ID": 23020,
+          "Title": "Μήκος"
+        }
+      ]
+    },
+    {
+      "ID": 2147483642,
+      "Title": "Nature and physical sciences",
+      "Abstract": "The term nature is derived from the Latin word natura, or \"essential qualities, innate disposition\". Natura is a Latin translation of the Greek word physis (φύσις), which originally related to the intrinsic characteristics that plants, animals, and other features of the world develop of their own accord. The concept of nature as a whole, all matter and energy in the universe, is one of several expansions of the original notion.\n\nPhysical science is an encompassing term for the branches of natural science, and science, that study non-living systems, in contrast to the biological sciences. However, the term \"physical\" creates an involuntary, somewhat arbitrary distinction, since many branches of physical science also study biological phenomena",
+      "Categories": [
+        {
+          "ID": 6136,
+          "Title": "Κατηγορία:Χημεία"
+        },
+        {
+          "ID": 6146,
+          "Title": "Κατηγορία:Φύση"
+        },
+        {
+          "ID": 6153,
+          "Title": "Κατηγορία:Φυσική"
+        },
+        {
+          "ID": 6190,
+          "Title": "Κατηγορία:Επιστήμη"
+        },
+        {
+          "ID": 12531,
+          "Title": "Κατηγορία:Ζωολογία"
+        },
+        {
+          "ID": 21141,
+          "Title": "Κατηγορία:Χημικές ενώσεις"
+        },
+        {
+          "ID": 128149,
+          "Title": "Κατηγορία:Φυσικές επιστήμες"
+        },
+        {
+          "ID": 134192,
+          "Title": "Κατηγορία:Πανίδα ανά ήπειρο"
+        },
+        {
+          "ID": 315429,
+          "Title": "Κατηγορία:Καταστροφές"
+        },
+        {
+          "ID": 501971,
+          "Title": "Κατηγορία:Περιβαλλοντικές επιστήμες"
+        }
+      ],
+      "Articles": [
+        {
+          "ID": 21219,
+          "Title": "Αυνανισμός"
+        },
+        {
+          "ID": 21352,
+          "Title": "Σιτάρι"
+        },
+        {
+          "ID": 28253,
+          "Title": "Κύκλος του νερού"
+        },
+        {
+          "ID": 31377,
+          "Title": "Φωτιά"
+        },
+        {
+          "ID": 33697,
+          "Title": "Όρχεις"
+        },
+        {
+          "ID": 34048,
+          "Title": "Πέος"
+        },
+        {
+          "ID": 37780,
+          "Title": "Ρύζι"
+        },
+        {
+          "ID": 38502,
+          "Title": "Αιώρημα"
+        },
+        {
+          "ID": 41251,
+          "Title": "Μάνγκο"
+        },
+        {
+          "ID": 46256,
+          "Title": "Πορτοκάλι"
+        },
+        {
+          "ID": 49218,
+          "Title": "Λεμόνι"
+        },
+        {
+          "ID": 52462,
+          "Title": "Κουνουπίδι"
+        },
+        {
+          "ID": 53440,
+          "Title": "Καλαμπόκι"
+        },
+        {
+          "ID": 53779,
+          "Title": "Φράουλα"
+        },
+        {
+          "ID": 63107,
+          "Title": "Πεπονιά"
+        },
+        {
+          "ID": 67741,
+          "Title": "Πορτοκαλιά"
+        },
+        {
+          "ID": 68016,
+          "Title": "Καμήλα"
+        },
+        {
+          "ID": 89613,
+          "Title": "Ανανάς ο εύκομος"
+        },
+        {
+          "ID": 113571,
+          "Title": "Τροφική αλυσίδα"
+        },
+        {
+          "ID": 140165,
+          "Title": "Μυϊκό σύστημα"
+        },
+        {
+          "ID": 142525,
+          "Title": "Ούρο"
+        },
+        {
+          "ID": 224571,
+          "Title": "Φλαμίνγκο"
+        },
+        {
+          "ID": 236975,
+          "Title": "Άλκη"
+        },
+        {
+          "ID": 263296,
+          "Title": "Ημερολόγιο των Μάγιας"
+        },
+        {
+          "ID": 284679,
+          "Title": "Σκουμπρί"
+        },
+        {
+          "ID": 318061,
+          "Title": "Ντοματάκι"
+        },
+        {
+          "ID": 398577,
+          "Title": "Μοσχολέμονο"
+        },
+        {
+          "ID": 587475,
+          "Title": "Άκρο κεφαλόποδου"
+        },
+        {
+          "ID": 587866,
+          "Title": "Μανδύας (μαλακίων)"
+        }
+      ]
+    },
+    {
+      "ID": 2147483643,
+      "Title": "People and self",
+      "Abstract": "A collection of people often refers to a general group, such as all humans, an ethnic group or a nation. An individual person is the self, from his or her own perspective. To you, \"self\" is you. To someone else, \"self\" is that person. A biography is a genre of literature or film, which presents a relatively full account of the most interesting and important events of a notable person's life.\n\nLife or personal life or human existence is an individual human's personal, private experience of living (including their employment career, their family life, and other elements). In prehistoric times, life and existence was based on survival. There was little privacy and a person was identified by their role in the group. In modern times, many people have even come to think of their personal lives as if they are separate from their work. This segmentation of \"life areas\" is evident in such phrases as \"work life\", \"home life\", and \"sex life.\" The meaning or role of a person's \"life\" or \"human existence\" is discussed in many religions and philosophies. In Western industrialized countries, there are a variety of service industries that help people improve their personal lives, such as counselling and life coaching companies",
+      "Categories": [
+        {
+          "ID": 20530,
+          "Title": "Κατηγορία:Καθημερινή ζωή"
+        },
+        {
+          "ID": 59905,
+          "Title": "Κατηγορία:Πρόσωπα"
+        },
+        {
+          "ID": 61179,
+          "Title": "Κατηγορία:Επώνυμα"
+        },
+        {
+          "ID": 238239,
+          "Title": "Κατηγορία:Κινηματογραφικοί χαρακτήρες"
+        },
+        {
+          "ID": 494643,
+          "Title": "Κατηγορία:Γυναίκες"
+        },
+        {
+          "ID": 585594,
+          "Title": "Κατηγορία:Καλλιτέχνες ανά μέσο"
+        }
+      ],
+      "Articles": [
+        {
+          "ID": 5848,
+          "Title": "Αδόλφος Χίτλερ"
+        },
+        {
+          "ID": 9356,
+          "Title": "Άλαν Τούρινγκ"
+        },
+        {
+          "ID": 10670,
+          "Title": "Ουίλιαμ Μπλέικ"
+        },
+        {
+          "ID": 11321,
+          "Title": "Γαλιλαίος Γαλιλέι"
+        },
+        {
+          "ID": 12280,
+          "Title": "Σίγκμουντ Φρόυντ"
+        },
+        {
+          "ID": 12356,
+          "Title": "Νόαμ Τσόμσκι"
+        },
+        {
+          "ID": 13020,
+          "Title": "Ρίχαρντ Βάγκνερ"
+        },
+        {
+          "ID": 13601,
+          "Title": "Χριστόφορος Κολόμβος"
+        },
+        {
+          "ID": 20586,
+          "Title": "Λεονάρντο της Πίζας"
+        },
+        {
+          "ID": 27431,
+          "Title": "Καρλ Σαγκάν"
+        },
+        {
+          "ID": 28499,
+          "Title": "Λιούις Κάρολ"
+        },
+        {
+          "ID": 33099,
+          "Title": "Ρενέ Ντεκάρτ"
+        },
+        {
+          "ID": 33529,
+          "Title": "Γιοχάνες Κέπλερ"
+        },
+        {
+          "ID": 35379,
+          "Title": "Ρίτσαρντ Ντόκινς"
+        },
+        {
+          "ID": 43469,
+          "Title": "Τζον Λένον"
+        },
+        {
+          "ID": 44533,
+          "Title": "Θωμάς Ακινάτης"
+        },
+        {
+          "ID": 53152,
+          "Title": "Άνταμ Σμιθ"
+        },
+        {
+          "ID": 61248,
+          "Title": "Τζωρτζ Χάρισον"
+        },
+        {
+          "ID": 80481,
+          "Title": "Μπιλ Γκέιτς"
+        },
+        {
+          "ID": 91819,
+          "Title": "Καρλ Φρίντριχ Γκάους"
+        },
+        {
+          "ID": 118787,
+          "Title": "Χάρρυ Χουντίνι"
+        },
+        {
+          "ID": 119319,
+          "Title": "Αλεξάντερ Φλέμινγκ"
+        },
+        {
+          "ID": 145518,
+          "Title": "Καρλ Φρίντριχ Άμπελ"
+        },
+        {
+          "ID": 167885,
+          "Title": "Έλτον Τζον"
+        },
+        {
+          "ID": 172632,
+          "Title": "Τσαρλς Μπάμπατζ"
+        },
+        {
+          "ID": 176744,
+          "Title": "Όλιβερ Κρόμγουελ"
+        },
+        {
+          "ID": 204433,
+          "Title": "Σρινιβάσα Ραμανούτζαν"
+        },
+        {
+          "ID": 238306,
+          "Title": "Στέφαν Λόχνερ"
+        },
+        {
+          "ID": 243874,
+          "Title": "Ντάνιελ Ράντκλιφ"
+        },
+        {
+          "ID": 247312,
+          "Title": "Άυν Ραντ"
+        },
+        {
+          "ID": 254970,
+          "Title": "Μπιγκ Σόου"
+        },
+        {
+          "ID": 318694,
+          "Title": "Φλόρενς Νάιτινγκεϊλ"
+        },
+        {
+          "ID": 353837,
+          "Title": "Άντερς Μπέρινγκ Μπρέιβικ"
+        },
+        {
+          "ID": 413986,
+          "Title": "Τεντ Κρουζ"
+        },
+        {
+          "ID": 466439,
+          "Title": "Τζόζεφ Σμιθ"
+        }
+      ]
+    },
+    {
+      "ID": 2147483644,
+      "Title": "Philosophy and thinking",
+      "Abstract": "Philosophy has almost as many definitions as there have been philosophers, both as a subject matter and an activity, and no simple definition can do it justice. The issue of the definition of philosophy is thus a controversial subject that is nowadays tackled by Metaphilosophy (or the philosophy of philosophy). The word is derived from the ancient Greek words philo-, to love or to befriend, and -sophia, wisdom. Modern usage of the term is much broader; the concept of philosophy encompasses all of knowledge and all that can be known, including the means by which such knowledge can be acquired. However, in the contemporary English-speaking academic world, the term is often used implicitly to refer to analytic philosophy and, in non-English speaking countries, it often refers implicitly to a different, European strain, continental philosophy. The ancient Greeks organized the subject into five basic categories: metaphysics, epistemology, ethics, politics and aesthetics. This organization of the subject is still largely in use in Western philosophy today.\n\nThought or thinking is a mental process which allows beings to model the world, and so to deal with it effectively according to their goals, plans, ends and desires. Words referring to similar concepts and processes in the English language include cognition, sentience, consciousness, idea, and imagination. Thinking involves the cerebral manipulation of information, as when we form concepts, engage in problem solving, reason and make decisions. Thinking is a higher cognitive function and the analysis of thinking processes is part of cognitive psychology",
+      "Categories": [
+        {
+          "ID": 6790,
+          "Title": "Κατηγορία:Φιλοσοφία"
+        },
+        {
+          "ID": 14280,
+          "Title": "Κατηγορία:Ηθική"
+        },
+        {
+          "ID": 251963,
+          "Title": "Κατηγορία:Κλάδοι της φιλοσοφίας"
+        },
+        {
+          "ID": 296150,
+          "Title": "Κατηγορία:Φιλοσοφικές θεωρίες"
+        },
+        {
+          "ID": 433601,
+          "Title": "Κατηγορία:Σκέψη"
+        },
+        {
+          "ID": 444836,
+          "Title": "Κατηγορία:Ιδεολογίες"
+        },
+        {
+          "ID": 445152,
+          "Title": "Κατηγορία:Φιλοσοφικές σχολές και παραδόσεις"
+        }
+      ],
+      "Articles": [
+        {
+          "ID": 138965,
+          "Title": "Ομορφιά"
+        },
+        {
+          "ID": 168166,
+          "Title": "Ευτυχία"
+        },
+        {
+          "ID": 476100,
+          "Title": "Φαινόμενο Ντάνινγκ-Κρούγκερ"
+        },
+        {
+          "ID": 593786,
+          "Title": "Gaslighting (ψυχολογία)"
+        }
+      ]
+    },
+    {
+      "ID": 2147483645,
+      "Title": "Religion and belief systems",
+      "Abstract": "Religion is the adherence to codified beliefs and rituals that generally involve a faith in a spiritual nature and a study of inherited ancestral traditions, knowledge and wisdom related to understanding human life. The term \"religion\" refers to both the personal practices related to faith as well as to the larger shared systems of belief.\n\nA belief system can refer to a religion or a world view. A world view (or worldview) is a term calqued from the German word Weltanschauung Welt is the German word for 'world,' and Anschauung is the German word for 'view' or 'outlook'. It is a concept fundamental to German philosophy and epistemology and refers to a wide world perception. Additionally, it refers to the framework of ideas and beliefs through which an individual interprets the world and interacts in it",
+      "Categories": [
+        {
+          "ID": 6145,
+          "Title": "Κατηγορία:Θρησκεία"
+        },
+        {
+          "ID": 7494,
+          "Title": "Κατηγορία:Μυθολογία"
+        },
+        {
+          "ID": 12255,
+          "Title": "Κατηγορία:Θρησκευτικές πίστεις, παραδόσεις και κινήματα"
+        },
+        {
+          "ID": 296150,
+          "Title": "Κατηγορία:Φιλοσοφικές θεωρίες"
+        },
+        {
+          "ID": 433603,
+          "Title": "Κατηγορία:Πίστη"
+        },
+        {
+          "ID": 451207,
+          "Title": "Κατηγορία:Κοσμικισμός"
+        },
+        {
+          "ID": 501944,
+          "Title": "Κατηγορία:Θρησκευτικές διαμάχες"
+        },
+        {
+          "ID": 501946,
+          "Title": "Κατηγορία:Κριτική των θρησκειών"
+        },
+        {
+          "ID": 516380,
+          "Title": "Κατηγορία:Ανθρωπολογία της θρησκείας"
+        }
+      ],
+      "Articles": [
+        {
+          "ID": 160735,
+          "Title": "Λαιμαργία"
+        }
+      ]
+    },
+    {
+      "ID": 2147483646,
+      "Title": "Society and social sciences",
+      "Abstract": "A society is a group of people who form a semi-closed system. At its simplest, the term society refers to a large group of people sharing their own culture and institutions. A society is a network of relationships between people. The English word society is derived from the French société, which had its origin in the Latin societas, a \"friendly association with others,\" from socius meaning \"companion, associate, comrade or business partner.\" Thus, the meaning of society is closely related to what is considered to be social. Implicit in the meaning of society is that its members may share some mutual concern or interest, a common objective or common characteristics. The social sciences generally use the term society to mean a group of people who form a semi-closed social system, in which most interactions are with other individuals belonging to the group. More abstractly, a society is defined as a network of relationships between social entities. A society is also sometimes defined as an interdependent community, but the sociologist Tönnies sought to draw a contrast between society and community. An important feature of society is social structure, aspects of which include roles and social ranking.\n\nThe social science are a group of academic disciplines that study human aspects of the world. They differ from the arts and the humanities, in that the social science tend to emphasize the use of the scientific method in the study of humanity, including quantitative and qualitative methods",
+      "Categories": [
+        {
+          "ID": 6143,
+          "Title": "Κατηγορία:Κοινωνικές επιστήμες"
+        },
+        {
+          "ID": 12123,
+          "Title": "Κατηγορία:Φεμινισμός"
+        },
+        {
+          "ID": 12391,
+          "Title": "Κατηγορία:Κοινωνία"
+        },
+        {
+          "ID": 14850,
+          "Title": "Κατηγορία:Διεθνείς οργανισμοί"
+        },
+        {
+          "ID": 468928,
+          "Title": "Κατηγορία:Δικαιώματα"
+        }
+      ],
+      "Articles": [
+        {
+          "ID": 88,
+          "Title": "Ευρωπαϊκή Ένωση"
+        },
+        {
+          "ID": 12719,
+          "Title": "Πανεπιστήμιο της Στοκχόλμης"
+        },
+        {
+          "ID": 12828,
+          "Title": "Πανεπιστήμιο Χάρβαρντ"
+        },
+        {
+          "ID": 24945,
+          "Title": "Κινέζικο νέο έτος"
+        },
+        {
+          "ID": 26778,
+          "Title": "Θερινή ώρα"
+        },
+        {
+          "ID": 37023,
+          "Title": "Σημαία της Αυστραλίας"
+        },
+        {
+          "ID": 49147,
+          "Title": "Πανεπιστήμιο της Οξφόρδης"
+        },
+        {
+          "ID": 50199,
+          "Title": "Πανεπιστήμιο της Νάπολης"
+        },
+        {
+          "ID": 55654,
+          "Title": "Πανεπιστήμιο της Βιρτζίνια"
+        },
+        {
+          "ID": 61087,
+          "Title": "Πανεπιστήμιο Λίβερπουλ"
+        },
+        {
+          "ID": 65651,
+          "Title": "Πανεπιστήμιο του Ρέντινγκ"
+        },
+        {
+          "ID": 67072,
+          "Title": "Πανεπιστήμιο Σίτι του Λονδίνου"
+        },
+        {
+          "ID": 80999,
+          "Title": "Πανεπιστήμιο του Μπέρμιγχαμ"
+        },
+        {
+          "ID": 93081,
+          "Title": "Πανεπιστήμιο Κολούμπια"
+        },
+        {
+          "ID": 97286,
+          "Title": "Κοινωνική εργασία"
+        },
+        {
+          "ID": 98946,
+          "Title": "Πανεπιστήμιο Πρίνστον"
+        },
+        {
+          "ID": 105691,
+          "Title": "The New York Times"
+        },
+        {
+          "ID": 107002,
+          "Title": "Πάντειο Πανεπιστήμιο"
+        },
+        {
+          "ID": 109160,
+          "Title": "Πανεπιστήμιο του Μπαθ"
+        },
+        {
+          "ID": 123950,
+          "Title": "Πανεπιστήμιο της Μπολόνια"
+        },
+        {
+          "ID": 124325,
+          "Title": "Πανεπιστήμιο του Λονδίνου"
+        },
+        {
+          "ID": 127947,
+          "Title": "Πανεπιστήμιο της Λειψίας"
+        },
+        {
+          "ID": 128741,
+          "Title": "Ιμπίριαλ Κόλετζ του Λονδίνου"
+        },
+        {
+          "ID": 132409,
+          "Title": "Πανεπιστήμιο του Κέιμπριτζ"
+        },
+        {
+          "ID": 132518,
+          "Title": "Πανεπιστήμιο Στάνφορντ"
+        },
+        {
+          "ID": 140044,
+          "Title": "Τεχνολογικό Ινστιτούτο Μασαχουσέτης"
+        },
+        {
+          "ID": 144012,
+          "Title": "Πολιτική της Χιλής"
+        },
+        {
+          "ID": 144296,
+          "Title": "Κρατικό Πανεπιστήμιο της Μόσχας"
+        },
+        {
+          "ID": 163118,
+          "Title": "Περιβαλλοντικό Πρόγραμμα των Ηνωμένων Εθνών"
+        },
+        {
+          "ID": 175506,
+          "Title": "Πανεπιστήμιο Λινναίος"
+        },
+        {
+          "ID": 176456,
+          "Title": "Πανεπιστήμιο του Γουόρικ"
+        },
+        {
+          "ID": 177604,
+          "Title": "Fox News"
+        },
+        {
+          "ID": 178202,
+          "Title": "Πανεπιστήμιο Ναντσίνγκ"
+        },
+        {
+          "ID": 220492,
+          "Title": "Πανεπιστήμιο της Ουψάλα"
+        },
+        {
+          "ID": 222128,
+          "Title": "Πανεπιστήμιο της Πενσυλβάνια"
+        },
+        {
+          "ID": 224424,
+          "Title": "Μικροέθνος"
+        },
+        {
+          "ID": 235513,
+          "Title": "Εβραϊκό Πανεπιστήμιο της Ιερουσαλήμ"
+        },
+        {
+          "ID": 266689,
+          "Title": "BP"
+        },
+        {
+          "ID": 290834,
+          "Title": "Πανεπιστήμιο Σέφιλντ"
+        },
+        {
+          "ID": 304999,
+          "Title": "Πανεπιστήμιο του Τύμπιγκεν"
+        },
+        {
+          "ID": 349026,
+          "Title": "Πανεπιστήμιο της Γλασκώβης"
+        },
+        {
+          "ID": 349667,
+          "Title": "Πανεπιστήμιο του Βύρτσμπουργκ"
+        },
+        {
+          "ID": 355292,
+          "Title": "Πανεπιστήμιο του Σαιντ Άντριους"
+        },
+        {
+          "ID": 358755,
+          "Title": "Πανεπιστήμιο της Μινεσότα"
+        },
+        {
+          "ID": 364962,
+          "Title": "Πανεπιστήμιο του Φράιμπουργκ"
+        },
+        {
+          "ID": 376759,
+          "Title": "Πανεπιστήμιο του Γκέτινγκεν"
+        },
+        {
+          "ID": 397097,
+          "Title": "Πανεπιστήμιο της Βέρνης"
+        },
+        {
+          "ID": 413398,
+          "Title": "Starbucks"
+        },
+        {
+          "ID": 415723,
+          "Title": "Πανεπιστήμιο του Μίσιγκαν"
+        },
+        {
+          "ID": 415978,
+          "Title": "Πανεπιστήμιο του Παρισιού"
+        },
+        {
+          "ID": 416763,
+          "Title": "Πανεπιστήμιο της Βοστώνης"
+        },
+        {
+          "ID": 427856,
+          "Title": "Πανεπιστήμιο της Βιέννης"
+        },
+        {
+          "ID": 429318,
+          "Title": "Πανεπιστήμιο του Τόκιο"
+        },
+        {
+          "ID": 466044,
+          "Title": "Πανεπιστήμιο του Σικάγου"
+        },
+        {
+          "ID": 475504,
+          "Title": "Πανεπιστήμιο του Τάρτου"
+        },
+        {
+          "ID": 490741,
+          "Title": "Πανεπιστήμιο της Αριζόνας"
+        },
+        {
+          "ID": 490884,
+          "Title": "Πανεπιστήμιο του Νότιγχαμ"
+        },
+        {
+          "ID": 492089,
+          "Title": "Τρίτος Παγκόσμιος Πόλεμος"
+        },
+        {
+          "ID": 538460,
+          "Title": "Πανεπιστήμιο του Σάσσεξ"
+        },
+        {
+          "ID": 559162,
+          "Title": "Πανεπιστήμιο της Ουάσινγκτον"
+        },
+        {
+          "ID": 607019,
+          "Title": "Πανεπιστήμιο της Πάδοβας"
+        }
+      ]
+    },
+    {
+      "ID": 2147483647,
+      "Title": "Technology and applied sciences",
+      "Abstract": "Technology is an expanded concept that deals with a species' usage and knowledge of tools and crafts, and how it affects a species' ability to control and adapt to its environment. In human civilization, it is a consequence of science and engineering, although several technological advances predate the formalization of these two disciplines. The term can either be applied generally or to specific areas – examples include construction technology, medical technology, or state-of-the-art technology.\n\nThe human race's use of technology began with the conversion of plentiful natural resources into simple tools. The prehistorical discovery of the ability to control fire increased the available sources of food, and the invention of the wheel helped humans in travelling in and controlling their environment. Recent technological developments, including the printing press and the Internet, have lessened physical barriers to communication and allowed humans to interact on a global scale. However, not all technology has been used for peaceful purposes; the development of weapons of ever-increasing destructive power has progressed throughout history, from clubs to nuclear bombs.\n\nApplied science is the application of knowledge from one or more natural scientific fields to solving practical problems. For example, fields of engineering are applied sciences. Applied science is important for technology development. Its use in industrial settings is usually referred to as research and development (R\u0026D)",
+      "Categories": [
+        {
+          "ID": 5943,
+          "Title": "Κατηγορία:Τεχνολογία"
+        },
+        {
+          "ID": 11523,
+          "Title": "Κατηγορία:Διαδίκτυο"
+        },
+        {
+          "ID": 15615,
+          "Title": "Κατηγορία:Μεταφορές"
+        },
+        {
+          "ID": 17905,
+          "Title": "Κατηγορία:Ηλεκτρονική"
+        },
+        {
+          "ID": 21511,
+          "Title": "Κατηγορία:Επιστήμες Μηχανικών"
+        },
+        {
+          "ID": 36112,
+          "Title": "Κατηγορία:Σχεδιασμός"
+        },
+        {
+          "ID": 74740,
+          "Title": "Κατηγορία:Ιστορία τεχνολογίας"
+        },
+        {
+          "ID": 126139,
+          "Title": "Κατηγορία:Εφαρμοσμένες επιστήμες"
+        },
+        {
+          "ID": 302355,
+          "Title": "Κατηγορία:Υπολογιστική"
+        },
+        {
+          "ID": 308963,
+          "Title": "Κατηγορία:Τεχνολογία ανά θέμα"
+        },
+        {
+          "ID": 315481,
+          "Title": "Κατηγορία:Στρατιωτικός εξοπλισμός"
+        }
+      ],
+      "Articles": [
+        {
+          "ID": 107931,
+          "Title": "Pepsi"
+        },
+        {
+          "ID": 560688,
+          "Title": "Μελέτη σκοπιμότητας"
+        },
+        {
+          "ID": 591731,
+          "Title": "Τοίχος"
+        }
+      ]
+    }
+  ],
+  "Filters": [
+    {
+      "ID": 2389,
+      "Title": "Κατηγορία:Αποσαφήνιση"
+    },
+    {
+      "ID": 109645,
+      "Title": "Κατηγορία:Κρυμμένες κατηγορίες"
+    }
+  ]
+}

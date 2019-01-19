@@ -1,0 +1,2032 @@
+{
+  "Language": "ja",
+  "Topics": [
+    {
+      "ID": 2147483637,
+      "Title": "Culture and the arts",
+      "Abstract": "The word culture is derived from the Latin root cultura or cultus meaning to \"inhabit, cultivate, or honour\". In general, culture refers to human activity; different definitions of culture reflect different theories for understanding, or criteria for valuing human activity. Present day Anthropologists use the term to refer to the universal human capacity to classify experiences and to encode and communicate them symbolically. They regard this capacity as a defining feature of the genus Homo. Since culture is learned, people living in different places have different cultures. There can be different cultures in different countries, and there can also be shared cultures among continents.\n\nThe arts are a vast subdivision of culture, composed of many creative endeavors and disciplines. It is a broader term than \"art,\" which as a description of a field usually means only the visual arts. The arts encompasses visual arts, literary arts and the performing arts - music, theatre, dance, spoken word and film, among others.\n\nArt, in its broadest meaning, is the expression of creativity or imagination. The word art comes from the Latin word ars, which, loosely translated, means \"arrangement\". Art is commonly understood as the act of making works (or artworks) which use the human creative impulse and which have meaning beyond simple description. Art is often distinguished from crafts and recreational hobby activities. The term creative arts denotes a collection of disciplines whose principal purpose is the output of material for the viewer or audience to interpret. As such, art may be taken to include forms as diverse as prose writing, poetry, dance, acting or drama, film, music, sculpture, photography, illustration, architecture, collage, painting, craft and fashion. Art may also be understood as relating to creativity, æsthetics and the generation of emotion",
+      "Categories": [
+        {
+          "ID": 103978,
+          "Title": "Category:文化"
+        },
+        {
+          "ID": 107090,
+          "Title": "Category:食品"
+        },
+        {
+          "ID": 110077,
+          "Title": "Category:料理"
+        },
+        {
+          "ID": 113739,
+          "Title": "Category:映画作品"
+        },
+        {
+          "ID": 115048,
+          "Title": "Category:食文化"
+        },
+        {
+          "ID": 125936,
+          "Title": "Category:スポーツ"
+        },
+        {
+          "ID": 166498,
+          "Title": "Category:娯楽"
+        },
+        {
+          "ID": 209062,
+          "Title": "Category:芸術"
+        },
+        {
+          "ID": 285365,
+          "Title": "Category:趣味"
+        },
+        {
+          "ID": 429268,
+          "Title": "Category:レクリエーション"
+        },
+        {
+          "ID": 2044747,
+          "Title": "Category:音楽グループ"
+        }
+      ],
+      "Articles": [
+        {
+          "ID": 1155,
+          "Title": "百科事典"
+        },
+        {
+          "ID": 4599,
+          "Title": "ビール"
+        },
+        {
+          "ID": 4917,
+          "Title": "レッド・ツェッペリン"
+        },
+        {
+          "ID": 5542,
+          "Title": "パスタ"
+        },
+        {
+          "ID": 5751,
+          "Title": "ホグワーツ魔法魔術学校"
+        },
+        {
+          "ID": 11191,
+          "Title": "カルボナーラ"
+        },
+        {
+          "ID": 13687,
+          "Title": "皮蛋"
+        },
+        {
+          "ID": 18071,
+          "Title": "トマトソース"
+        },
+        {
+          "ID": 21799,
+          "Title": "パン"
+        },
+        {
+          "ID": 25683,
+          "Title": "ケーキ"
+        },
+        {
+          "ID": 27406,
+          "Title": "ベーコン"
+        },
+        {
+          "ID": 28004,
+          "Title": "玉子焼 (明石市)"
+        },
+        {
+          "ID": 28082,
+          "Title": "ピザ"
+        },
+        {
+          "ID": 30113,
+          "Title": "ネッシー"
+        },
+        {
+          "ID": 45263,
+          "Title": "フェラチオ"
+        },
+        {
+          "ID": 50494,
+          "Title": "目玉焼き"
+        },
+        {
+          "ID": 54610,
+          "Title": "亡霊"
+        },
+        {
+          "ID": 55784,
+          "Title": "バッキンガム宮殿"
+        },
+        {
+          "ID": 62915,
+          "Title": "ホットドッグ"
+        },
+        {
+          "ID": 66022,
+          "Title": "ピーナッツバター"
+        },
+        {
+          "ID": 66304,
+          "Title": "ジェラート"
+        },
+        {
+          "ID": 74062,
+          "Title": "生ビール"
+        },
+        {
+          "ID": 82051,
+          "Title": "サージェント・ペパーズ・ロンリー・ハーツ・クラブ・バンド (アルバム)"
+        },
+        {
+          "ID": 83479,
+          "Title": "食パン"
+        },
+        {
+          "ID": 119933,
+          "Title": "タコス"
+        },
+        {
+          "ID": 120665,
+          "Title": "スポンジケーキ"
+        },
+        {
+          "ID": 151555,
+          "Title": "スコッチエッグ"
+        },
+        {
+          "ID": 153416,
+          "Title": "ストリートダンス"
+        },
+        {
+          "ID": 155063,
+          "Title": "アップルソース"
+        },
+        {
+          "ID": 196444,
+          "Title": "干貝"
+        },
+        {
+          "ID": 228780,
+          "Title": "グリーン・デイ"
+        },
+        {
+          "ID": 245273,
+          "Title": "AC/DC"
+        },
+        {
+          "ID": 253953,
+          "Title": "ウィキペディア"
+        },
+        {
+          "ID": 260271,
+          "Title": "ゆで卵"
+        },
+        {
+          "ID": 271972,
+          "Title": "フォーチュン・クッキー"
+        },
+        {
+          "ID": 292656,
+          "Title": "低アルコール飲料"
+        },
+        {
+          "ID": 364417,
+          "Title": "WWE王座 (世界ヘビー級)"
+        },
+        {
+          "ID": 392462,
+          "Title": "実在"
+        },
+        {
+          "ID": 395697,
+          "Title": "カカオマス"
+        },
+        {
+          "ID": 400619,
+          "Title": "半熟卵"
+        },
+        {
+          "ID": 453317,
+          "Title": "アクア (バンド)"
+        },
+        {
+          "ID": 456816,
+          "Title": "クッキー"
+        },
+        {
+          "ID": 459270,
+          "Title": "ホワイトチョコレート"
+        },
+        {
+          "ID": 484413,
+          "Title": "グラウンドホッグデー"
+        },
+        {
+          "ID": 491448,
+          "Title": "チョコバー"
+        },
+        {
+          "ID": 505452,
+          "Title": "サブレー"
+        },
+        {
+          "ID": 587936,
+          "Title": "XXXX"
+        },
+        {
+          "ID": 623901,
+          "Title": "M\u0026M's"
+        },
+        {
+          "ID": 665597,
+          "Title": "ダイナソーJr."
+        },
+        {
+          "ID": 686407,
+          "Title": "勉強法"
+        },
+        {
+          "ID": 774278,
+          "Title": "アキレス腱固め"
+        },
+        {
+          "ID": 795286,
+          "Title": "サトシ (アニメポケットモンスター)"
+        },
+        {
+          "ID": 859488,
+          "Title": "ホット・チョコレート"
+        },
+        {
+          "ID": 897450,
+          "Title": "ピルスナー"
+        },
+        {
+          "ID": 916654,
+          "Title": "ザ・ワールド・ファクトブック"
+        },
+        {
+          "ID": 959509,
+          "Title": "チキンティッカマサラ"
+        },
+        {
+          "ID": 1018412,
+          "Title": "鹹蛋"
+        },
+        {
+          "ID": 1306123,
+          "Title": "ロケット祭り (東南アジア)"
+        },
+        {
+          "ID": 1352625,
+          "Title": "ロックバンド (音楽ゲーム)"
+        },
+        {
+          "ID": 1398345,
+          "Title": "モルドレッド"
+        },
+        {
+          "ID": 1507446,
+          "Title": "ハム"
+        },
+        {
+          "ID": 1627611,
+          "Title": "エスパニョールソース"
+        },
+        {
+          "ID": 1684664,
+          "Title": "チョコレート"
+        },
+        {
+          "ID": 1828737,
+          "Title": "チョコチップ"
+        },
+        {
+          "ID": 1886436,
+          "Title": "ウェディングケーキ"
+        },
+        {
+          "ID": 1922660,
+          "Title": "ポットパイ"
+        },
+        {
+          "ID": 1965494,
+          "Title": "コーヒー"
+        },
+        {
+          "ID": 1966866,
+          "Title": "Bejeweled"
+        },
+        {
+          "ID": 2072822,
+          "Title": "オペラ (菓子)"
+        },
+        {
+          "ID": 2152652,
+          "Title": "エンジェル ウォーズ"
+        },
+        {
+          "ID": 2164305,
+          "Title": "バインバオ"
+        },
+        {
+          "ID": 2166087,
+          "Title": "ソーダブレッド"
+        },
+        {
+          "ID": 2250324,
+          "Title": "純潔"
+        },
+        {
+          "ID": 2282993,
+          "Title": "カチョエペペ"
+        },
+        {
+          "ID": 2327479,
+          "Title": "ジューダス (レディー・ガガの曲)"
+        },
+        {
+          "ID": 2345264,
+          "Title": "アーモンドビスケット"
+        },
+        {
+          "ID": 2471134,
+          "Title": "初音ミク and Future Stars Project mirai"
+        },
+        {
+          "ID": 2541333,
+          "Title": "ロボット (映画)"
+        },
+        {
+          "ID": 2559736,
+          "Title": "ザ・ウォンテッド"
+        },
+        {
+          "ID": 2630986,
+          "Title": "メープル・ベーコン・ドーナッツ"
+        },
+        {
+          "ID": 2653064,
+          "Title": "パイラ・マリーナ"
+        },
+        {
+          "ID": 2686064,
+          "Title": "ジュディッタ・パスタ"
+        },
+        {
+          "ID": 2757538,
+          "Title": "ピーテパルト"
+        },
+        {
+          "ID": 2828328,
+          "Title": "食用コウモリ"
+        },
+        {
+          "ID": 2887886,
+          "Title": "蓮蓉包"
+        },
+        {
+          "ID": 2896498,
+          "Title": "プッ仔コー"
+        },
+        {
+          "ID": 3017976,
+          "Title": "モルス (飲料)"
+        },
+        {
+          "ID": 3029590,
+          "Title": "不淫"
+        },
+        {
+          "ID": 3040998,
+          "Title": "パスタサラダ"
+        },
+        {
+          "ID": 3074831,
+          "Title": "カオ・パット"
+        },
+        {
+          "ID": 3209477,
+          "Title": "フロイド・メイウェザー・ジュニア 対 マニー・パッキャオ戦"
+        },
+        {
+          "ID": 3268272,
+          "Title": "カッポン・マーグロ"
+        },
+        {
+          "ID": 3289381,
+          "Title": "ナヴァラン"
+        },
+        {
+          "ID": 3335815,
+          "Title": "ビター (ビール)"
+        },
+        {
+          "ID": 3366554,
+          "Title": "プラムケーキ"
+        },
+        {
+          "ID": 3414498,
+          "Title": "コーヒーソース"
+        },
+        {
+          "ID": 3489896,
+          "Title": "ジェメッリ"
+        },
+        {
+          "ID": 3489930,
+          "Title": "ランテルネ"
+        },
+        {
+          "ID": 3523952,
+          "Title": "ナム・ヤオ"
+        },
+        {
+          "ID": 3561365,
+          "Title": "PK (映画)"
+        },
+        {
+          "ID": 3595570,
+          "Title": "ユーロビジョン・ソング・コンテスト2017"
+        },
+        {
+          "ID": 3611834,
+          "Title": "ティンバッロ"
+        },
+        {
+          "ID": 3638423,
+          "Title": "祈りのちから"
+        },
+        {
+          "ID": 3689417,
+          "Title": "食用卵"
+        },
+        {
+          "ID": 3799289,
+          "Title": "カモウニア"
+        },
+        {
+          "ID": 3857547,
+          "Title": "シカゴ風ピザ"
+        },
+        {
+          "ID": 3859308,
+          "Title": "バナナブレッド"
+        },
+        {
+          "ID": 3872114,
+          "Title": "トーンエーク"
+        }
+      ]
+    },
+    {
+      "ID": 2147483638,
+      "Title": "Geography and places",
+      "Abstract": "Geography (Greek Geo (γη) or Gaea (γαία), meaning \"Earth\", and graphein (γράφειν) meaning \"to describe\" or \"to write\") is the study of the earth and its features, inhabitants, and phenomena. A literal translation would be \"to describe or write about the Earth\". The first person to use the word \"geography\" was Eratosthenes (275-195 B.C.). Four historical traditions in geographical research are the spatial analysis of natural and human phenomena (geography as a study of distribution), area studies (places and regions), study of man-land relationship, and research in earth sciences. Nonetheless, modern geography is an all-encompassing discipline that foremost seeks to understand the world and all of its human and natural complexities — not merely where objects are, but how they have changed and come to be. As \"the bridge between the human and physical sciences,\" geography is divided into two main branches — human geography and physical geography",
+      "Categories": [
+        {
+          "ID": 131594,
+          "Title": "Category:地理"
+        },
+        {
+          "ID": 262340,
+          "Title": "Category:都市計画"
+        },
+        {
+          "ID": 706228,
+          "Title": "Category:地理の一覧"
+        },
+        {
+          "ID": 1635731,
+          "Title": "Category:場所"
+        },
+        {
+          "ID": 1769173,
+          "Title": "Category:地形学"
+        },
+        {
+          "ID": 2575676,
+          "Title": "Category:地域別の通貨"
+        }
+      ],
+      "Articles": [
+        {
+          "ID": 31,
+          "Title": "パリ"
+        },
+        {
+          "ID": 30053,
+          "Title": "ヴェネツィア"
+        },
+        {
+          "ID": 81430,
+          "Title": "キャンベラ"
+        },
+        {
+          "ID": 97476,
+          "Title": "クイーンズランド州"
+        },
+        {
+          "ID": 439509,
+          "Title": "界限街"
+        },
+        {
+          "ID": 1171820,
+          "Title": "カールズバッド (ニューメキシコ州)"
+        },
+        {
+          "ID": 1185408,
+          "Title": "ミャンマー"
+        }
+      ]
+    },
+    {
+      "ID": 2147483639,
+      "Title": "Health and fitness",
+      "Abstract": "Health is the level of functional or metabolic efficiency of a living organism. In humans it is the ability of individuals or communities to adapt and self-manage when facing physical, mental or social challenges. The most widely accepted definition of good health is that of the World Health Organization Constitution. It states: \"health is a state of complete physical, mental and social well-being and is not merely the absence of disease or infirmity\" (World Health Organization, 1946). In more recent years, this statement has been amplified to include the ability to lead a \"socially and economically productive life.\" The WHO definition is not without criticism, mainly that it is much too broad.\n\nThe most solid aspects of wellness that fit firmly in the realm of medicine are environmental health, nutrition, disease prevention, and public health. These matters can be investigated at length and can assist in measuring well-being. Please see our medical disclaimer for cautions about Wikipedia's limitations",
+      "Categories": [
+        {
+          "ID": 104171,
+          "Title": "Category:医学"
+        },
+        {
+          "ID": 148879,
+          "Title": "Category:健康"
+        },
+        {
+          "ID": 237534,
+          "Title": "Category:衛生"
+        },
+        {
+          "ID": 461694,
+          "Title": "Category:遺伝子疾患"
+        },
+        {
+          "ID": 896646,
+          "Title": "Category:医療関連の職業"
+        },
+        {
+          "ID": 2179683,
+          "Title": "Category:健康科学"
+        },
+        {
+          "ID": 3112506,
+          "Title": "Category:セルフケア"
+        },
+        {
+          "ID": 3872214,
+          "Title": "Category:医学の分野"
+        }
+      ],
+      "Articles": [
+        {
+          "ID": 2858123,
+          "Title": "Autonomous sensory meridian response"
+        }
+      ]
+    },
+    {
+      "ID": 2147483640,
+      "Title": "History and events",
+      "Abstract": "History is the interpretation of past events, societies and civilizations. The term history comes from the Greek historia (ἱστορία), \"an account of one's inquiries,\" and shares that etymology with the English word story as narrative. The 1911 Encyclopædia Britannica stated that \"history in the wider sense is all that has happened, not merely all the phenomena of human life, but those of the natural world as well. It is everything that undergoes change; and as modern science has shown that there is nothing absolutely static, therefore, the whole universe, and every part of it, has its history.\" ",
+      "Categories": [
+        {
+          "ID": 103627,
+          "Title": "Category:歴史"
+        },
+        {
+          "ID": 103826,
+          "Title": "Category:事件"
+        },
+        {
+          "ID": 107661,
+          "Title": "Category:記念日"
+        },
+        {
+          "ID": 259880,
+          "Title": "Category:各国の歴史"
+        },
+        {
+          "ID": 1956142,
+          "Title": "Category:各年の選挙"
+        }
+      ],
+      "Articles": [
+        {
+          "ID": 4683,
+          "Title": "アメリカ同時多発テロ事件"
+        },
+        {
+          "ID": 9463,
+          "Title": "トロイア戦争"
+        },
+        {
+          "ID": 1106377,
+          "Title": "公有地条例 (1785年)"
+        },
+        {
+          "ID": 2084797,
+          "Title": "ホロコースト否認"
+        },
+        {
+          "ID": 2113082,
+          "Title": "パトリオット (アメリカ革命)"
+        },
+        {
+          "ID": 2134184,
+          "Title": "2010年メキシコ湾原油流出事故"
+        },
+        {
+          "ID": 2176805,
+          "Title": "パーマー・レイド"
+        },
+        {
+          "ID": 2314334,
+          "Title": "東北地方太平洋沖地震"
+        },
+        {
+          "ID": 2436193,
+          "Title": "2012年アメリカ合衆国大統領選挙"
+        },
+        {
+          "ID": 2610675,
+          "Title": "オーロラ銃乱射事件"
+        },
+        {
+          "ID": 3435635,
+          "Title": "オーランド銃乱射事件"
+        },
+        {
+          "ID": 3601545,
+          "Title": "2016年アメリカ合衆国大統領選挙におけるロシアの干渉"
+        }
+      ]
+    },
+    {
+      "ID": 2147483641,
+      "Title": "Mathematics and logic",
+      "Abstract": "Mathematics is the science of quantization. It is also the study of patterns and relationships, including concepts such as quantity, structure, space, uncertainty, and change. It evolved through the use of abstraction and logical reasoning, from counting, calculation, measurement, and the systematic study of positions, shapes and motions of physical objects. Mathematicians explore such concepts, aiming to formulate new conjectures and establish their truth by rigorous deduction from appropriately chosen axioms and definitions.\n\nLogic (from Classical Greek λόγος logos; meaning word, thought, idea, argument, account, reason or principle) is the study of the principles and criteria of valid inference and demonstration. As a formal science, logic investigates and classifies the structure of statements and arguments, both through the study of formal systems of inference and through the study of arguments in natural language. The field of logic ranges from core topics such as the study of fallacies and paradoxes, to specialized analysis of reasoning using probability and to arguments involving causality. Logic is also commonly used today in argumentation theory. Since the mid-nineteenth century formal logic has been studied in the context of the foundations of mathematics",
+      "Categories": [
+        {
+          "ID": 103594,
+          "Title": "Category:数学"
+        },
+        {
+          "ID": 173777,
+          "Title": "Category:統計学"
+        },
+        {
+          "ID": 210257,
+          "Title": "Category:論理学"
+        },
+        {
+          "ID": 602031,
+          "Title": "Category:応用数学"
+        },
+        {
+          "ID": 745186,
+          "Title": "Category:理論計算機科学"
+        }
+      ],
+      "Articles": [
+        {
+          "ID": 11209,
+          "Title": "長さ"
+        }
+      ]
+    },
+    {
+      "ID": 2147483642,
+      "Title": "Nature and physical sciences",
+      "Abstract": "The term nature is derived from the Latin word natura, or \"essential qualities, innate disposition\". Natura is a Latin translation of the Greek word physis (φύσις), which originally related to the intrinsic characteristics that plants, animals, and other features of the world develop of their own accord. The concept of nature as a whole, all matter and energy in the universe, is one of several expansions of the original notion.\n\nPhysical science is an encompassing term for the branches of natural science, and science, that study non-living systems, in contrast to the biological sciences. However, the term \"physical\" creates an involuntary, somewhat arbitrary distinction, since many branches of physical science also study biological phenomena",
+      "Categories": [
+        {
+          "ID": 103868,
+          "Title": "Category:自然科学"
+        },
+        {
+          "ID": 103885,
+          "Title": "Category:物理学"
+        },
+        {
+          "ID": 104023,
+          "Title": "Category:化学"
+        },
+        {
+          "ID": 137166,
+          "Title": "Category:科学"
+        },
+        {
+          "ID": 138482,
+          "Title": "Category:自然"
+        },
+        {
+          "ID": 138998,
+          "Title": "Category:災害"
+        },
+        {
+          "ID": 189602,
+          "Title": "Category:動物学"
+        },
+        {
+          "ID": 973918,
+          "Title": "Category:環境学"
+        },
+        {
+          "ID": 3275366,
+          "Title": "Category:化合物"
+        }
+      ],
+      "Articles": [
+        {
+          "ID": 3143,
+          "Title": "イチゴ"
+        },
+        {
+          "ID": 7516,
+          "Title": "米"
+        },
+        {
+          "ID": 8797,
+          "Title": "コムギ"
+        },
+        {
+          "ID": 12978,
+          "Title": "火"
+        },
+        {
+          "ID": 23371,
+          "Title": "トウモロコシ"
+        },
+        {
+          "ID": 23945,
+          "Title": "レモン"
+        },
+        {
+          "ID": 29418,
+          "Title": "パイナップル"
+        },
+        {
+          "ID": 32807,
+          "Title": "懸濁液"
+        },
+        {
+          "ID": 35200,
+          "Title": "カリフラワー"
+        },
+        {
+          "ID": 39867,
+          "Title": "食物連鎖"
+        },
+        {
+          "ID": 46256,
+          "Title": "精巣"
+        },
+        {
+          "ID": 46899,
+          "Title": "尿"
+        },
+        {
+          "ID": 73088,
+          "Title": "ラクダ"
+        },
+        {
+          "ID": 75769,
+          "Title": "フラミンゴ"
+        },
+        {
+          "ID": 88817,
+          "Title": "タマシギ科"
+        },
+        {
+          "ID": 94566,
+          "Title": "オレンジ"
+        },
+        {
+          "ID": 98337,
+          "Title": "マヤ暦"
+        },
+        {
+          "ID": 130307,
+          "Title": "ライム"
+        },
+        {
+          "ID": 150667,
+          "Title": "運動ニューロン"
+        },
+        {
+          "ID": 202025,
+          "Title": "もち米"
+        },
+        {
+          "ID": 212657,
+          "Title": "ウリ"
+        },
+        {
+          "ID": 223885,
+          "Title": "モクレン"
+        },
+        {
+          "ID": 280580,
+          "Title": "コモリグモ"
+        },
+        {
+          "ID": 332299,
+          "Title": "運動器"
+        },
+        {
+          "ID": 408046,
+          "Title": "コッカー・スパニエル"
+        },
+        {
+          "ID": 466006,
+          "Title": "ヘラジカ"
+        },
+        {
+          "ID": 476020,
+          "Title": "牛糞"
+        },
+        {
+          "ID": 513736,
+          "Title": "発芽"
+        },
+        {
+          "ID": 613792,
+          "Title": "オナニー"
+        },
+        {
+          "ID": 731762,
+          "Title": "補色"
+        },
+        {
+          "ID": 734955,
+          "Title": "水循環"
+        },
+        {
+          "ID": 1132092,
+          "Title": "陰茎"
+        },
+        {
+          "ID": 1219741,
+          "Title": "外套膜"
+        },
+        {
+          "ID": 1223337,
+          "Title": "触腕"
+        },
+        {
+          "ID": 2905859,
+          "Title": "カツオドリ属"
+        }
+      ]
+    },
+    {
+      "ID": 2147483643,
+      "Title": "People and self",
+      "Abstract": "A collection of people often refers to a general group, such as all humans, an ethnic group or a nation. An individual person is the self, from his or her own perspective. To you, \"self\" is you. To someone else, \"self\" is that person. A biography is a genre of literature or film, which presents a relatively full account of the most interesting and important events of a notable person's life.\n\nLife or personal life or human existence is an individual human's personal, private experience of living (including their employment career, their family life, and other elements). In prehistoric times, life and existence was based on survival. There was little privacy and a person was identified by their role in the group. In modern times, many people have even come to think of their personal lives as if they are separate from their work. This segmentation of \"life areas\" is evident in such phrases as \"work life\", \"home life\", and \"sex life.\" The meaning or role of a person's \"life\" or \"human existence\" is discussed in many religions and philosophies. In Western industrialized countries, there are a variety of service industries that help people improve their personal lives, such as counselling and life coaching companies",
+      "Categories": [
+        {
+          "ID": 133683,
+          "Title": "Category:生活"
+        },
+        {
+          "ID": 176222,
+          "Title": "Category:映画の登場人物"
+        },
+        {
+          "ID": 192838,
+          "Title": "Category:人物"
+        },
+        {
+          "ID": 472831,
+          "Title": "Category:女性"
+        },
+        {
+          "ID": 2904417,
+          "Title": "Category:自己"
+        },
+        {
+          "ID": 3334595,
+          "Title": "Category:個別の姓"
+        },
+        {
+          "ID": 3461172,
+          "Title": "Category:表現媒体別の美術家"
+        }
+      ],
+      "Articles": [
+        {
+          "ID": 1093,
+          "Title": "ノーム・チョムスキー"
+        },
+        {
+          "ID": 2486,
+          "Title": "ジョン・レノン"
+        },
+        {
+          "ID": 3449,
+          "Title": "アラン・チューリング"
+        },
+        {
+          "ID": 4617,
+          "Title": "ジョージ・ハリスン"
+        },
+        {
+          "ID": 4742,
+          "Title": "カール・フリードリヒ・ガウス"
+        },
+        {
+          "ID": 4763,
+          "Title": "チャールズ・バベッジ"
+        },
+        {
+          "ID": 6311,
+          "Title": "ガリレオ・ガリレイ"
+        },
+        {
+          "ID": 6427,
+          "Title": "ヨハネス・ケプラー"
+        },
+        {
+          "ID": 6566,
+          "Title": "アダム・スミス"
+        },
+        {
+          "ID": 8754,
+          "Title": "ルネ・デカルト"
+        },
+        {
+          "ID": 8757,
+          "Title": "クリストファー・コロンブス"
+        },
+        {
+          "ID": 12443,
+          "Title": "ビル・ゲイツ"
+        },
+        {
+          "ID": 14282,
+          "Title": "ジョセフ・スミス・ジュニア"
+        },
+        {
+          "ID": 16939,
+          "Title": "アイン・ランド"
+        },
+        {
+          "ID": 25737,
+          "Title": "トマス・アクィナス"
+        },
+        {
+          "ID": 31132,
+          "Title": "リヒャルト・ワーグナー"
+        },
+        {
+          "ID": 33901,
+          "Title": "カール・セーガン"
+        },
+        {
+          "ID": 36535,
+          "Title": "エルトン・ジョン"
+        },
+        {
+          "ID": 36834,
+          "Title": "フローレンス・ナイチンゲール"
+        },
+        {
+          "ID": 64324,
+          "Title": "ハリー・フーディーニ"
+        },
+        {
+          "ID": 80383,
+          "Title": "シャイム・スーティン"
+        },
+        {
+          "ID": 86234,
+          "Title": "ルイス・キャロル"
+        },
+        {
+          "ID": 124308,
+          "Title": "ウィリアム・ブレイク"
+        },
+        {
+          "ID": 126235,
+          "Title": "ダニエル・ラドクリフ"
+        },
+        {
+          "ID": 135003,
+          "Title": "オリバー・クロムウェル"
+        },
+        {
+          "ID": 177033,
+          "Title": "アーヴィング・ラングミュア"
+        },
+        {
+          "ID": 180089,
+          "Title": "テオドール・シュワン"
+        },
+        {
+          "ID": 220187,
+          "Title": "リチャード・ドーキンス"
+        },
+        {
+          "ID": 259574,
+          "Title": "アレクサンダー・フレミング"
+        },
+        {
+          "ID": 306681,
+          "Title": "ボブ・ロス"
+        },
+        {
+          "ID": 360089,
+          "Title": "ビッグ・ショー (プロレスラー)"
+        },
+        {
+          "ID": 384980,
+          "Title": "レオナルド・フィボナッチ"
+        },
+        {
+          "ID": 899280,
+          "Title": "シュリニヴァーサ・ラマヌジャン"
+        },
+        {
+          "ID": 944845,
+          "Title": "フランシス・マリオン (軍人)"
+        },
+        {
+          "ID": 1058358,
+          "Title": "ジークムント・フロイト"
+        },
+        {
+          "ID": 1235574,
+          "Title": "カール・フリードリヒ・アーベル"
+        },
+        {
+          "ID": 1255792,
+          "Title": "シュテファン・ロッホナー"
+        },
+        {
+          "ID": 1623443,
+          "Title": "ジョニー・アップルシード"
+        },
+        {
+          "ID": 1825762,
+          "Title": "リング・ラードナー"
+        },
+        {
+          "ID": 1889085,
+          "Title": "アドルフ・ヒトラー"
+        },
+        {
+          "ID": 2028402,
+          "Title": "コリー・モンティス"
+        },
+        {
+          "ID": 2161577,
+          "Title": "ジェイコブ・ブラック"
+        },
+        {
+          "ID": 2399255,
+          "Title": "アンネシュ・ベーリング・ブレイビク"
+        },
+        {
+          "ID": 2869251,
+          "Title": "テッド・クルーズ"
+        },
+        {
+          "ID": 3016408,
+          "Title": "ジャネット・マーゴリン"
+        },
+        {
+          "ID": 3702802,
+          "Title": "バッテンバーグケーキ"
+        }
+      ]
+    },
+    {
+      "ID": 2147483644,
+      "Title": "Philosophy and thinking",
+      "Abstract": "Philosophy has almost as many definitions as there have been philosophers, both as a subject matter and an activity, and no simple definition can do it justice. The issue of the definition of philosophy is thus a controversial subject that is nowadays tackled by Metaphilosophy (or the philosophy of philosophy). The word is derived from the ancient Greek words philo-, to love or to befriend, and -sophia, wisdom. Modern usage of the term is much broader; the concept of philosophy encompasses all of knowledge and all that can be known, including the means by which such knowledge can be acquired. However, in the contemporary English-speaking academic world, the term is often used implicitly to refer to analytic philosophy and, in non-English speaking countries, it often refers implicitly to a different, European strain, continental philosophy. The ancient Greeks organized the subject into five basic categories: metaphysics, epistemology, ethics, politics and aesthetics. This organization of the subject is still largely in use in Western philosophy today.\n\nThought or thinking is a mental process which allows beings to model the world, and so to deal with it effectively according to their goals, plans, ends and desires. Words referring to similar concepts and processes in the English language include cognition, sentience, consciousness, idea, and imagination. Thinking involves the cerebral manipulation of information, as when we form concepts, engage in problem solving, reason and make decisions. Thinking is a higher cognitive function and the analysis of thinking processes is part of cognitive psychology",
+      "Categories": [
+        {
+          "ID": 112644,
+          "Title": "Category:哲学"
+        },
+        {
+          "ID": 262237,
+          "Title": "Category:倫理"
+        },
+        {
+          "ID": 424954,
+          "Title": "Category:思考"
+        },
+        {
+          "ID": 1382294,
+          "Title": "Category:哲学の分野"
+        },
+        {
+          "ID": 1919197,
+          "Title": "Category:哲学の理論"
+        },
+        {
+          "ID": 1919207,
+          "Title": "Category:哲学の学派"
+        },
+        {
+          "ID": 2327680,
+          "Title": "Category:イデオロギー"
+        }
+      ],
+      "Articles": [
+        {
+          "ID": 26826,
+          "Title": "美"
+        },
+        {
+          "ID": 332976,
+          "Title": "幸福"
+        },
+        {
+          "ID": 1217979,
+          "Title": "事実"
+        },
+        {
+          "ID": 1281666,
+          "Title": "自信"
+        },
+        {
+          "ID": 2771747,
+          "Title": "ガスライティング"
+        },
+        {
+          "ID": 2876191,
+          "Title": "ダニング＝クルーガー効果"
+        }
+      ]
+    },
+    {
+      "ID": 2147483645,
+      "Title": "Religion and belief systems",
+      "Abstract": "Religion is the adherence to codified beliefs and rituals that generally involve a faith in a spiritual nature and a study of inherited ancestral traditions, knowledge and wisdom related to understanding human life. The term \"religion\" refers to both the personal practices related to faith as well as to the larger shared systems of belief.\n\nA belief system can refer to a religion or a world view. A world view (or worldview) is a term calqued from the German word Weltanschauung Welt is the German word for 'world,' and Anschauung is the German word for 'view' or 'outlook'. It is a concept fundamental to German philosophy and epistemology and refers to a wide world perception. Additionally, it refers to the framework of ideas and beliefs through which an individual interprets the world and interacts in it",
+      "Categories": [
+        {
+          "ID": 103671,
+          "Title": "Category:宗教"
+        },
+        {
+          "ID": 682644,
+          "Title": "Category:神話学"
+        },
+        {
+          "ID": 1919197,
+          "Title": "Category:哲学の理論"
+        },
+        {
+          "ID": 2051086,
+          "Title": "Category:宗教論争"
+        },
+        {
+          "ID": 2051125,
+          "Title": "Category:宗教批評"
+        },
+        {
+          "ID": 2423835,
+          "Title": "Category:宗教人類学"
+        },
+        {
+          "ID": 2426264,
+          "Title": "Category:各種の宗教"
+        },
+        {
+          "ID": 2904898,
+          "Title": "Category:信念"
+        },
+        {
+          "ID": 3506873,
+          "Title": "Category:世俗主義"
+        },
+        {
+          "ID": 3652969,
+          "Title": "Category:非有神論"
+        }
+      ]
+    },
+    {
+      "ID": 2147483646,
+      "Title": "Society and social sciences",
+      "Abstract": "A society is a group of people who form a semi-closed system. At its simplest, the term society refers to a large group of people sharing their own culture and institutions. A society is a network of relationships between people. The English word society is derived from the French société, which had its origin in the Latin societas, a \"friendly association with others,\" from socius meaning \"companion, associate, comrade or business partner.\" Thus, the meaning of society is closely related to what is considered to be social. Implicit in the meaning of society is that its members may share some mutual concern or interest, a common objective or common characteristics. The social sciences generally use the term society to mean a group of people who form a semi-closed social system, in which most interactions are with other individuals belonging to the group. More abstractly, a society is defined as a network of relationships between social entities. A society is also sometimes defined as an interdependent community, but the sociologist Tönnies sought to draw a contrast between society and community. An important feature of society is social structure, aspects of which include roles and social ranking.\n\nThe social science are a group of academic disciplines that study human aspects of the world. They differ from the arts and the humanities, in that the social science tend to emphasize the use of the scientific method in the study of humanity, including quantitative and qualitative methods",
+      "Categories": [
+        {
+          "ID": 104050,
+          "Title": "Category:社会科学"
+        },
+        {
+          "ID": 139645,
+          "Title": "Category:社会"
+        },
+        {
+          "ID": 192664,
+          "Title": "Category:国際組織"
+        },
+        {
+          "ID": 396423,
+          "Title": "Category:フェミニズム"
+        },
+        {
+          "ID": 560514,
+          "Title": "Category:権利"
+        }
+      ],
+      "Articles": [
+        {
+          "ID": 2374,
+          "Title": "北海道大学"
+        },
+        {
+          "ID": 7152,
+          "Title": "マサチューセッツ工科大学"
+        },
+        {
+          "ID": 8782,
+          "Title": "スタンフォード大学"
+        },
+        {
+          "ID": 15510,
+          "Title": "ゲオルク・アウグスト大学ゲッティンゲン"
+        },
+        {
+          "ID": 15520,
+          "Title": "オックスフォード大学"
+        },
+        {
+          "ID": 16219,
+          "Title": "プリンストン大学"
+        },
+        {
+          "ID": 17563,
+          "Title": "国立大学"
+        },
+        {
+          "ID": 27227,
+          "Title": "グラスゴー大学"
+        },
+        {
+          "ID": 28918,
+          "Title": "立教大学"
+        },
+        {
+          "ID": 29392,
+          "Title": "夏時間"
+        },
+        {
+          "ID": 32816,
+          "Title": "スターバックス"
+        },
+        {
+          "ID": 33840,
+          "Title": "ペンシルベニア大学"
+        },
+        {
+          "ID": 37094,
+          "Title": "アメリカン航空"
+        },
+        {
+          "ID": 46432,
+          "Title": "ケンブリッジ大学"
+        },
+        {
+          "ID": 49429,
+          "Title": "オーストラリアの国旗"
+        },
+        {
+          "ID": 54541,
+          "Title": "公立大学"
+        },
+        {
+          "ID": 67842,
+          "Title": "アリゾナ大学"
+        },
+        {
+          "ID": 68229,
+          "Title": "ライプツィヒ大学"
+        },
+        {
+          "ID": 77286,
+          "Title": "コロンビア大学"
+        },
+        {
+          "ID": 80446,
+          "Title": "南京大学"
+        },
+        {
+          "ID": 94989,
+          "Title": "ドミノ・ピザ"
+        },
+        {
+          "ID": 97831,
+          "Title": "シカゴ大学"
+        },
+        {
+          "ID": 103133,
+          "Title": "ワシントン大学 (ワシントン州)"
+        },
+        {
+          "ID": 103465,
+          "Title": "第三次世界大戦"
+        },
+        {
+          "ID": 117507,
+          "Title": "ニューヨーク・タイムズ"
+        },
+        {
+          "ID": 121100,
+          "Title": "成均館大学校"
+        },
+        {
+          "ID": 121259,
+          "Title": "清華大学"
+        },
+        {
+          "ID": 152633,
+          "Title": "FOXニュース"
+        },
+        {
+          "ID": 156475,
+          "Title": "モンゴル国の軍事"
+        },
+        {
+          "ID": 161331,
+          "Title": "BP (企業)"
+        },
+        {
+          "ID": 170019,
+          "Title": "パドヴァ大学"
+        },
+        {
+          "ID": 173391,
+          "Title": "南カリフォルニア大学"
+        },
+        {
+          "ID": 174914,
+          "Title": "ヘブライ大学"
+        },
+        {
+          "ID": 196144,
+          "Title": "モスクワ大学"
+        },
+        {
+          "ID": 200145,
+          "Title": "パリ大学"
+        },
+        {
+          "ID": 205035,
+          "Title": "春節"
+        },
+        {
+          "ID": 205061,
+          "Title": "ウェット\u0026メッシー"
+        },
+        {
+          "ID": 208774,
+          "Title": "インディアナ大学システム"
+        },
+        {
+          "ID": 209508,
+          "Title": "ニューヨーク市立大学"
+        },
+        {
+          "ID": 213700,
+          "Title": "国際連合環境計画"
+        },
+        {
+          "ID": 219582,
+          "Title": "セント・アンドルーズ大学 (スコットランド)"
+        },
+        {
+          "ID": 224497,
+          "Title": "タンマサート大学"
+        },
+        {
+          "ID": 225985,
+          "Title": "ライン・フリードリヒ・ヴィルヘルム大学ボン"
+        },
+        {
+          "ID": 237127,
+          "Title": "ライス大学"
+        },
+        {
+          "ID": 237857,
+          "Title": "ボローニャ大学"
+        },
+        {
+          "ID": 239180,
+          "Title": "オレゴン大学"
+        },
+        {
+          "ID": 246680,
+          "Title": "アルベルト・ルートヴィヒ大学フライブルク"
+        },
+        {
+          "ID": 258370,
+          "Title": "クイーンズ大学 (カナダ)"
+        },
+        {
+          "ID": 259216,
+          "Title": "バージニア大学"
+        },
+        {
+          "ID": 260381,
+          "Title": "セントルイス・ワシントン大学"
+        },
+        {
+          "ID": 261942,
+          "Title": "ソウル大学校"
+        },
+        {
+          "ID": 265182,
+          "Title": "ボストン大学"
+        },
+        {
+          "ID": 267012,
+          "Title": "ミシガン大学"
+        },
+        {
+          "ID": 268541,
+          "Title": "メリーランド大学カレッジパーク校"
+        },
+        {
+          "ID": 279288,
+          "Title": "ウィーン大学"
+        },
+        {
+          "ID": 293865,
+          "Title": "マニトバ大学"
+        },
+        {
+          "ID": 294024,
+          "Title": "サンクトペテルブルク大学"
+        },
+        {
+          "ID": 295456,
+          "Title": "リーズ大学"
+        },
+        {
+          "ID": 306594,
+          "Title": "ミネソタ大学ツインシティー校"
+        },
+        {
+          "ID": 309721,
+          "Title": "インペリアル・カレッジ・ロンドン"
+        },
+        {
+          "ID": 326733,
+          "Title": "クイーンズランド大学"
+        },
+        {
+          "ID": 327106,
+          "Title": "シドニー大学"
+        },
+        {
+          "ID": 327120,
+          "Title": "ビクトリア大学 (カナダ)"
+        },
+        {
+          "ID": 327215,
+          "Title": "オーストラリア国立大学"
+        },
+        {
+          "ID": 327389,
+          "Title": "タスマニア大学"
+        },
+        {
+          "ID": 327410,
+          "Title": "ラ・トローブ大学"
+        },
+        {
+          "ID": 349859,
+          "Title": "ヴェストファーレン・ヴィルヘルム大学"
+        },
+        {
+          "ID": 370236,
+          "Title": "ウォータールー大学"
+        },
+        {
+          "ID": 381121,
+          "Title": "エバーハルト・カール大学テュービンゲン"
+        },
+        {
+          "ID": 398632,
+          "Title": "ウォーリック大学"
+        },
+        {
+          "ID": 407626,
+          "Title": "マイアミ大学 (オハイオ州)"
+        },
+        {
+          "ID": 424923,
+          "Title": "マンチェスター大学"
+        },
+        {
+          "ID": 429544,
+          "Title": "アメリカン大学"
+        },
+        {
+          "ID": 484924,
+          "Title": "ソーシャルワーク"
+        },
+        {
+          "ID": 488601,
+          "Title": "タコベル"
+        },
+        {
+          "ID": 498023,
+          "Title": "リヴァプール大学"
+        },
+        {
+          "ID": 498498,
+          "Title": "ピザハット"
+        },
+        {
+          "ID": 512606,
+          "Title": "デンバー大学"
+        },
+        {
+          "ID": 538265,
+          "Title": "ウプサラ大学"
+        },
+        {
+          "ID": 563725,
+          "Title": "ウェスタンオンタリオ大学"
+        },
+        {
+          "ID": 591045,
+          "Title": "アメリカ国立公文書記録管理局"
+        },
+        {
+          "ID": 596447,
+          "Title": "マラヤ大学"
+        },
+        {
+          "ID": 601091,
+          "Title": "ナーランダ大学"
+        },
+        {
+          "ID": 602105,
+          "Title": "ブリストル大学"
+        },
+        {
+          "ID": 602122,
+          "Title": "ノッティンガム大学"
+        },
+        {
+          "ID": 610702,
+          "Title": "ヨーテボリ大学"
+        },
+        {
+          "ID": 630373,
+          "Title": "創価大学"
+        },
+        {
+          "ID": 652095,
+          "Title": "西南大学"
+        },
+        {
+          "ID": 668516,
+          "Title": "ミズーリ大学コロンビア校"
+        },
+        {
+          "ID": 679944,
+          "Title": "アラバマ大学"
+        },
+        {
+          "ID": 679947,
+          "Title": "アイオワ大学"
+        },
+        {
+          "ID": 679949,
+          "Title": "テネシー大学"
+        },
+        {
+          "ID": 679952,
+          "Title": "テキサス大学オースティン校"
+        },
+        {
+          "ID": 685673,
+          "Title": "州立大学"
+        },
+        {
+          "ID": 691486,
+          "Title": "サスカチュワン大学"
+        },
+        {
+          "ID": 692509,
+          "Title": "サセックス大学"
+        },
+        {
+          "ID": 716910,
+          "Title": "リヴィウ大学"
+        },
+        {
+          "ID": 717496,
+          "Title": "ストックホルム大学"
+        },
+        {
+          "ID": 719792,
+          "Title": "テヘラン大学"
+        },
+        {
+          "ID": 719905,
+          "Title": "ミラノ大学"
+        },
+        {
+          "ID": 720068,
+          "Title": "バーミンガム大学"
+        },
+        {
+          "ID": 720076,
+          "Title": "イースト・アングリア大学"
+        },
+        {
+          "ID": 722810,
+          "Title": "タルトゥ大学"
+        },
+        {
+          "ID": 730424,
+          "Title": "ユリウス・マクシミリアン大学ヴュルツブルク"
+        },
+        {
+          "ID": 744818,
+          "Title": "イリノイ大学シカゴ校"
+        },
+        {
+          "ID": 759929,
+          "Title": "ウィスコンシン大学ミルウォーキー校"
+        },
+        {
+          "ID": 789441,
+          "Title": "ケルン大学"
+        },
+        {
+          "ID": 815452,
+          "Title": "オークランド大学"
+        },
+        {
+          "ID": 818510,
+          "Title": "ニューカッスル大学 (オーストラリア)"
+        },
+        {
+          "ID": 839255,
+          "Title": "ウメオ大学"
+        },
+        {
+          "ID": 915522,
+          "Title": "サウサンプトン大学"
+        },
+        {
+          "ID": 920546,
+          "Title": "ヴロツワフ大学"
+        },
+        {
+          "ID": 963221,
+          "Title": "リンショーピング大学"
+        },
+        {
+          "ID": 1076722,
+          "Title": "トラスト (企業形態)"
+        },
+        {
+          "ID": 1084249,
+          "Title": "トリノ大学"
+        },
+        {
+          "ID": 1091923,
+          "Title": "エクセター大学"
+        },
+        {
+          "ID": 1097318,
+          "Title": "イランの経済"
+        },
+        {
+          "ID": 1140601,
+          "Title": "シンシナティ大学"
+        },
+        {
+          "ID": 1140744,
+          "Title": "カンタベリー大学 (ニュージーランド)"
+        },
+        {
+          "ID": 1159349,
+          "Title": "ジャワハルラール・ネルー大学"
+        },
+        {
+          "ID": 1167527,
+          "Title": "オタゴ大学"
+        },
+        {
+          "ID": 1271150,
+          "Title": "イスラーム自由大学"
+        },
+        {
+          "ID": 1302307,
+          "Title": "アリーガル・ムスリム大学"
+        },
+        {
+          "ID": 1361397,
+          "Title": "ウーロンゴン大学"
+        },
+        {
+          "ID": 1380964,
+          "Title": "ニューヨーク州立大学バッファロー校"
+        },
+        {
+          "ID": 1511565,
+          "Title": "ロンドン大学"
+        },
+        {
+          "ID": 1511581,
+          "Title": "ハーバード大学"
+        },
+        {
+          "ID": 1554242,
+          "Title": "東京大学"
+        },
+        {
+          "ID": 1598893,
+          "Title": "カルガリー大学"
+        },
+        {
+          "ID": 1627867,
+          "Title": "ザ・タイムズ・オブ・インディア"
+        },
+        {
+          "ID": 1654408,
+          "Title": "禁酒令"
+        },
+        {
+          "ID": 1670539,
+          "Title": "ケント大学"
+        },
+        {
+          "ID": 1699922,
+          "Title": "ノーザンブリア大学"
+        },
+        {
+          "ID": 1699928,
+          "Title": "コヴェントリー大学"
+        },
+        {
+          "ID": 1777083,
+          "Title": "東北大学"
+        },
+        {
+          "ID": 1794582,
+          "Title": "欧州連合"
+        },
+        {
+          "ID": 1832475,
+          "Title": "レスター大学"
+        },
+        {
+          "ID": 1834252,
+          "Title": "オープン大学"
+        },
+        {
+          "ID": 1864335,
+          "Title": "ハートフォードシャー大学"
+        },
+        {
+          "ID": 1864385,
+          "Title": "ハル大学"
+        },
+        {
+          "ID": 1879778,
+          "Title": "大阪大学"
+        },
+        {
+          "ID": 1898141,
+          "Title": "ミクロネーション"
+        },
+        {
+          "ID": 1944701,
+          "Title": "アバディーン大学"
+        },
+        {
+          "ID": 1969138,
+          "Title": "オハイオ州立大学"
+        },
+        {
+          "ID": 2042728,
+          "Title": "モンタナ大学"
+        },
+        {
+          "ID": 2094345,
+          "Title": "シェフィールド大学"
+        },
+        {
+          "ID": 2137125,
+          "Title": "セントルイス大学"
+        },
+        {
+          "ID": 2417678,
+          "Title": "ロンドン大学シティ校"
+        },
+        {
+          "ID": 2526214,
+          "Title": "ミシシッピ大学"
+        },
+        {
+          "ID": 2533080,
+          "Title": "ボアズィチ大学"
+        },
+        {
+          "ID": 2596915,
+          "Title": "ニューファンドランドメモリアル大学"
+        },
+        {
+          "ID": 2706434,
+          "Title": "曁南大学"
+        },
+        {
+          "ID": 2723897,
+          "Title": "東南大学"
+        },
+        {
+          "ID": 2770009,
+          "Title": "コロンボ大学"
+        },
+        {
+          "ID": 3007119,
+          "Title": "バース大学"
+        },
+        {
+          "ID": 3354299,
+          "Title": "ナポリ大学"
+        },
+        {
+          "ID": 3423122,
+          "Title": "レディング大学"
+        },
+        {
+          "ID": 3423134,
+          "Title": "キングストン大学"
+        },
+        {
+          "ID": 3442614,
+          "Title": "ランカスター大学"
+        },
+        {
+          "ID": 3558820,
+          "Title": "もう一つの事実"
+        },
+        {
+          "ID": 3574544,
+          "Title": "2017年ロンドンテロ事件"
+        },
+        {
+          "ID": 3691329,
+          "Title": "テュレーン大学"
+        },
+        {
+          "ID": 3691479,
+          "Title": "コルカタ大学"
+        },
+        {
+          "ID": 3697738,
+          "Title": "ウーディネ大学"
+        },
+        {
+          "ID": 3733129,
+          "Title": "ジェノヴァ大学"
+        },
+        {
+          "ID": 3861437,
+          "Title": "ヴァルパライソ大学"
+        }
+      ]
+    },
+    {
+      "ID": 2147483647,
+      "Title": "Technology and applied sciences",
+      "Abstract": "Technology is an expanded concept that deals with a species' usage and knowledge of tools and crafts, and how it affects a species' ability to control and adapt to its environment. In human civilization, it is a consequence of science and engineering, although several technological advances predate the formalization of these two disciplines. The term can either be applied generally or to specific areas – examples include construction technology, medical technology, or state-of-the-art technology.\n\nThe human race's use of technology began with the conversion of plentiful natural resources into simple tools. The prehistorical discovery of the ability to control fire increased the available sources of food, and the invention of the wheel helped humans in travelling in and controlling their environment. Recent technological developments, including the printing press and the Internet, have lessened physical barriers to communication and allowed humans to interact on a global scale. However, not all technology has been used for peaceful purposes; the development of weapons of ever-increasing destructive power has progressed throughout history, from clubs to nuclear bombs.\n\nApplied science is the application of knowledge from one or more natural scientific fields to solving practical problems. For example, fields of engineering are applied sciences. Applied science is important for technology development. Its use in industrial settings is usually referred to as research and development (R\u0026D)",
+      "Categories": [
+        {
+          "ID": 104056,
+          "Title": "Category:工学"
+        },
+        {
+          "ID": 105248,
+          "Title": "Category:コンピュータ"
+        },
+        {
+          "ID": 111711,
+          "Title": "Category:インターネット"
+        },
+        {
+          "ID": 124935,
+          "Title": "Category:交通"
+        },
+        {
+          "ID": 139641,
+          "Title": "Category:技術"
+        },
+        {
+          "ID": 154979,
+          "Title": "Category:デザイン"
+        },
+        {
+          "ID": 158057,
+          "Title": "Category:兵器"
+        },
+        {
+          "ID": 244125,
+          "Title": "Category:技術史"
+        },
+        {
+          "ID": 741251,
+          "Title": "Category:計算機科学"
+        },
+        {
+          "ID": 1991448,
+          "Title": "Category:応用科学"
+        },
+        {
+          "ID": 3326095,
+          "Title": "Category:エレクトロニクス"
+        },
+        {
+          "ID": 3326099,
+          "Title": "Category:分野別の技術"
+        },
+        {
+          "ID": 3855075,
+          "Title": "Category:モバイルアプリケーション"
+        }
+      ],
+      "Articles": [
+        {
+          "ID": 11110,
+          "Title": "スーパー32X"
+        },
+        {
+          "ID": 33823,
+          "Title": "チューインガム"
+        },
+        {
+          "ID": 57515,
+          "Title": "ペプシコーラ"
+        },
+        {
+          "ID": 157056,
+          "Title": "壁"
+        },
+        {
+          "ID": 262029,
+          "Title": "入浴剤"
+        },
+        {
+          "ID": 338723,
+          "Title": "JR東日本E233系電車"
+        },
+        {
+          "ID": 349009,
+          "Title": "TIG溶接"
+        },
+        {
+          "ID": 413986,
+          "Title": ".xxx"
+        },
+        {
+          "ID": 509497,
+          "Title": "組積造"
+        },
+        {
+          "ID": 735240,
+          "Title": "ホームベーカリー"
+        },
+        {
+          "ID": 1461514,
+          "Title": "マウンテンデュー"
+        },
+        {
+          "ID": 2451476,
+          "Title": "フィジビリティスタディ"
+        }
+      ]
+    }
+  ],
+  "Filters": [
+    {
+      "ID": 148334,
+      "Title": "Category:曖昧さ回避"
+    },
+    {
+      "ID": 1573010,
+      "Title": "Category:隠しカテゴリ"
+    }
+  ]
+}

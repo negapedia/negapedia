@@ -1,0 +1,1752 @@
+{
+  "Language": "nl",
+  "Topics": [
+    {
+      "ID": 2147483637,
+      "Title": "Culture and the arts",
+      "Abstract": "The word culture is derived from the Latin root cultura or cultus meaning to \"inhabit, cultivate, or honour\". In general, culture refers to human activity; different definitions of culture reflect different theories for understanding, or criteria for valuing human activity. Present day Anthropologists use the term to refer to the universal human capacity to classify experiences and to encode and communicate them symbolically. They regard this capacity as a defining feature of the genus Homo. Since culture is learned, people living in different places have different cultures. There can be different cultures in different countries, and there can also be shared cultures among continents.\n\nThe arts are a vast subdivision of culture, composed of many creative endeavors and disciplines. It is a broader term than \"art,\" which as a description of a field usually means only the visual arts. The arts encompasses visual arts, literary arts and the performing arts - music, theatre, dance, spoken word and film, among others.\n\nArt, in its broadest meaning, is the expression of creativity or imagination. The word art comes from the Latin word ars, which, loosely translated, means \"arrangement\". Art is commonly understood as the act of making works (or artworks) which use the human creative impulse and which have meaning beyond simple description. Art is often distinguished from crafts and recreational hobby activities. The term creative arts denotes a collection of disciplines whose principal purpose is the output of material for the viewer or audience to interpret. As such, art may be taken to include forms as diverse as prose writing, poetry, dance, acting or drama, film, music, sculpture, photography, illustration, architecture, collage, painting, craft and fashion. Art may also be understood as relating to creativity, æsthetics and the generation of emotion",
+      "Categories": [
+        {
+          "ID": 63472,
+          "Title": "Categorie:Kunst"
+        },
+        {
+          "ID": 63604,
+          "Title": "Categorie:Sport"
+        },
+        {
+          "ID": 66068,
+          "Title": "Categorie:Cultuur"
+        },
+        {
+          "ID": 68304,
+          "Title": "Categorie:Recreatie"
+        },
+        {
+          "ID": 83860,
+          "Title": "Categorie:Gerecht"
+        },
+        {
+          "ID": 104217,
+          "Title": "Categorie:Amusement"
+        },
+        {
+          "ID": 1702982,
+          "Title": "Categorie:Voedsel"
+        },
+        {
+          "ID": 2310977,
+          "Title": "Categorie:Muziekgroep"
+        }
+      ],
+      "Articles": [
+        {
+          "ID": 437,
+          "Title": "Encyclopedie"
+        },
+        {
+          "ID": 959,
+          "Title": "Koffie"
+        },
+        {
+          "ID": 1869,
+          "Title": "Wikipedia"
+        },
+        {
+          "ID": 3347,
+          "Title": "Pasta (deegwaar)"
+        },
+        {
+          "ID": 10251,
+          "Title": "Buckingham Palace"
+        },
+        {
+          "ID": 14688,
+          "Title": "Chocolade"
+        },
+        {
+          "ID": 14689,
+          "Title": "Chocolademelk"
+        },
+        {
+          "ID": 16579,
+          "Title": "Brood"
+        },
+        {
+          "ID": 18437,
+          "Title": "Fellatio"
+        },
+        {
+          "ID": 19196,
+          "Title": "Ei (voeding)"
+        },
+        {
+          "ID": 29963,
+          "Title": "The World Factbook"
+        },
+        {
+          "ID": 38476,
+          "Title": "Appelmoes"
+        },
+        {
+          "ID": 39904,
+          "Title": "Celibaat"
+        },
+        {
+          "ID": 41728,
+          "Title": "Pizza"
+        },
+        {
+          "ID": 44602,
+          "Title": "Monster van Loch Ness"
+        },
+        {
+          "ID": 47363,
+          "Title": "Pindakaas"
+        },
+        {
+          "ID": 47627,
+          "Title": "Pils"
+        },
+        {
+          "ID": 50922,
+          "Title": "Aqua (danceact)"
+        },
+        {
+          "ID": 59799,
+          "Title": "Led Zeppelin"
+        },
+        {
+          "ID": 77956,
+          "Title": "Consumptie-ijs"
+        },
+        {
+          "ID": 78104,
+          "Title": "Ham (vlees)"
+        },
+        {
+          "ID": 80477,
+          "Title": "Green Day"
+        },
+        {
+          "ID": 84794,
+          "Title": "AC/DC"
+        },
+        {
+          "ID": 98415,
+          "Title": "Spook"
+        },
+        {
+          "ID": 98647,
+          "Title": "Spek"
+        },
+        {
+          "ID": 114791,
+          "Title": "Streetdance"
+        },
+        {
+          "ID": 117870,
+          "Title": "Zweinstein"
+        },
+        {
+          "ID": 146108,
+          "Title": "Taart"
+        },
+        {
+          "ID": 159197,
+          "Title": "Duizendjarig ei"
+        },
+        {
+          "ID": 160981,
+          "Title": "Lijst van alcoholische dranken"
+        },
+        {
+          "ID": 177154,
+          "Title": "XXXX"
+        },
+        {
+          "ID": 224243,
+          "Title": "Babi pangang"
+        },
+        {
+          "ID": 240792,
+          "Title": "Sgt. Pepper's Lonely Hearts Club Band"
+        },
+        {
+          "ID": 255094,
+          "Title": "Kaassoufflé"
+        },
+        {
+          "ID": 255508,
+          "Title": "Fries suikerbrood"
+        },
+        {
+          "ID": 258767,
+          "Title": "Dinosaur Jr."
+        },
+        {
+          "ID": 259993,
+          "Title": "Hotdog"
+        },
+        {
+          "ID": 270199,
+          "Title": "Boterletter"
+        },
+        {
+          "ID": 273345,
+          "Title": "Tomatensoep"
+        },
+        {
+          "ID": 293438,
+          "Title": "Taco"
+        },
+        {
+          "ID": 296911,
+          "Title": "Witte chocolade"
+        },
+        {
+          "ID": 308032,
+          "Title": "Mordred"
+        },
+        {
+          "ID": 311302,
+          "Title": "Chocoladevlokken"
+        },
+        {
+          "ID": 359118,
+          "Title": "Rauwkost"
+        },
+        {
+          "ID": 368778,
+          "Title": "Alcoholvrij bier"
+        },
+        {
+          "ID": 415364,
+          "Title": "Volkorenbrood"
+        },
+        {
+          "ID": 418265,
+          "Title": "Ash Ketchum"
+        },
+        {
+          "ID": 421968,
+          "Title": "Candybar (snoep)"
+        },
+        {
+          "ID": 448742,
+          "Title": "Bacon (vlees)"
+        },
+        {
+          "ID": 518266,
+          "Title": "M\u0026M's"
+        },
+        {
+          "ID": 545352,
+          "Title": "Kuisheid"
+        },
+        {
+          "ID": 556036,
+          "Title": "WWE Championship"
+        },
+        {
+          "ID": 574349,
+          "Title": "Koekje"
+        },
+        {
+          "ID": 592157,
+          "Title": "Lijst van Franse gerechten"
+        },
+        {
+          "ID": 701621,
+          "Title": "Tijgerbrood"
+        },
+        {
+          "ID": 1242428,
+          "Title": "Realisme (literatuur)"
+        },
+        {
+          "ID": 1355719,
+          "Title": "Tomatensaus"
+        },
+        {
+          "ID": 1387969,
+          "Title": "Poet chaj koow"
+        },
+        {
+          "ID": 1400087,
+          "Title": "Bier"
+        },
+        {
+          "ID": 1597548,
+          "Title": "Gebakken rijst"
+        },
+        {
+          "ID": 1615800,
+          "Title": "Sucker Punch"
+        },
+        {
+          "ID": 1777592,
+          "Title": "Gelukskoekje"
+        },
+        {
+          "ID": 1857902,
+          "Title": "Gekookt ei"
+        },
+        {
+          "ID": 1966703,
+          "Title": "Carbonara"
+        },
+        {
+          "ID": 1999636,
+          "Title": "Vogelnestje (eiergerecht)"
+        },
+        {
+          "ID": 2062362,
+          "Title": "The Wanted"
+        },
+        {
+          "ID": 2083956,
+          "Title": "Groundhog Day (feestdag)"
+        },
+        {
+          "ID": 2090845,
+          "Title": "Angry Birds (computerspel)"
+        },
+        {
+          "ID": 2133851,
+          "Title": "Bruidstaart"
+        },
+        {
+          "ID": 2165723,
+          "Title": "Judas (single)"
+        },
+        {
+          "ID": 2991417,
+          "Title": "Angry Birds Seasons"
+        },
+        {
+          "ID": 2991419,
+          "Title": "Angry Birds Rio"
+        },
+        {
+          "ID": 3882032,
+          "Title": "Pitepalt"
+        },
+        {
+          "ID": 3903969,
+          "Title": "Flappy Bird"
+        },
+        {
+          "ID": 4111168,
+          "Title": "PK (film)"
+        },
+        {
+          "ID": 4333218,
+          "Title": "Spiegelei"
+        },
+        {
+          "ID": 4346192,
+          "Title": "Charlie Charlie Challenge"
+        },
+        {
+          "ID": 4439106,
+          "Title": "Chicken tikka masala"
+        },
+        {
+          "ID": 4571215,
+          "Title": "Eurovisiesongfestival 2017"
+        },
+        {
+          "ID": 4807101,
+          "Title": "Tapbier"
+        },
+        {
+          "ID": 4816284,
+          "Title": "Eurovisiesongfestival 2018"
+        },
+        {
+          "ID": 4826431,
+          "Title": "Pizza Hawaï"
+        },
+        {
+          "ID": 4826987,
+          "Title": "Warme chocolademelk"
+        },
+        {
+          "ID": 4838779,
+          "Title": "Bitter (bier)"
+        },
+        {
+          "ID": 4944943,
+          "Title": "Bejeweled"
+        },
+        {
+          "ID": 5082290,
+          "Title": "Cacaomassa"
+        }
+      ]
+    },
+    {
+      "ID": 2147483638,
+      "Title": "Geography and places",
+      "Abstract": "Geography (Greek Geo (γη) or Gaea (γαία), meaning \"Earth\", and graphein (γράφειν) meaning \"to describe\" or \"to write\") is the study of the earth and its features, inhabitants, and phenomena. A literal translation would be \"to describe or write about the Earth\". The first person to use the word \"geography\" was Eratosthenes (275-195 B.C.). Four historical traditions in geographical research are the spatial analysis of natural and human phenomena (geography as a study of distribution), area studies (places and regions), study of man-land relationship, and research in earth sciences. Nonetheless, modern geography is an all-encompassing discipline that foremost seeks to understand the world and all of its human and natural complexities — not merely where objects are, but how they have changed and come to be. As \"the bridge between the human and physical sciences,\" geography is divided into two main branches — human geography and physical geography",
+      "Categories": [
+        {
+          "ID": 63658,
+          "Title": "Categorie:Geografie"
+        },
+        {
+          "ID": 311672,
+          "Title": "Categorie:Planologie"
+        },
+        {
+          "ID": 482136,
+          "Title": "Categorie:Geomorfologie"
+        },
+        {
+          "ID": 1690942,
+          "Title": "Categorie:Geografielijsten"
+        }
+      ],
+      "Articles": [
+        {
+          "ID": 1323,
+          "Title": "Parijs"
+        },
+        {
+          "ID": 10402,
+          "Title": "Venetië (stad)"
+        },
+        {
+          "ID": 13620,
+          "Title": "Myanmar"
+        },
+        {
+          "ID": 29418,
+          "Title": "Queensland"
+        },
+        {
+          "ID": 29634,
+          "Title": "Canberra"
+        },
+        {
+          "ID": 1032238,
+          "Title": "Carlsbad (New Mexico)"
+        }
+      ]
+    },
+    {
+      "ID": 2147483639,
+      "Title": "Health and fitness",
+      "Abstract": "Health is the level of functional or metabolic efficiency of a living organism. In humans it is the ability of individuals or communities to adapt and self-manage when facing physical, mental or social challenges. The most widely accepted definition of good health is that of the World Health Organization Constitution. It states: \"health is a state of complete physical, mental and social well-being and is not merely the absence of disease or infirmity\" (World Health Organization, 1946). In more recent years, this statement has been amplified to include the ability to lead a \"socially and economically productive life.\" The WHO definition is not without criticism, mainly that it is much too broad.\n\nThe most solid aspects of wellness that fit firmly in the realm of medicine are environmental health, nutrition, disease prevention, and public health. These matters can be investigated at length and can assist in measuring well-being. Please see our medical disclaimer for cautions about Wikipedia's limitations",
+      "Categories": [
+        {
+          "ID": 63397,
+          "Title": "Categorie:Geneeskunde"
+        },
+        {
+          "ID": 80097,
+          "Title": "Categorie:Gezondheid"
+        },
+        {
+          "ID": 93115,
+          "Title": "Categorie:Geneeskundig specialisme"
+        },
+        {
+          "ID": 93346,
+          "Title": "Categorie:Erfelijke aandoening"
+        },
+        {
+          "ID": 124302,
+          "Title": "Categorie:Hygiëne"
+        },
+        {
+          "ID": 623852,
+          "Title": "Categorie:Medisch beroep"
+        },
+        {
+          "ID": 1761439,
+          "Title": "Categorie:Lichaamsverzorging"
+        }
+      ],
+      "Articles": [
+        {
+          "ID": 5083247,
+          "Title": "Autonomous sensory meridian response"
+        }
+      ]
+    },
+    {
+      "ID": 2147483640,
+      "Title": "History and events",
+      "Abstract": "History is the interpretation of past events, societies and civilizations. The term history comes from the Greek historia (ἱστορία), \"an account of one's inquiries,\" and shares that etymology with the English word story as narrative. The 1911 Encyclopædia Britannica stated that \"history in the wider sense is all that has happened, not merely all the phenomena of human life, but those of the natural world as well. It is everything that undergoes change; and as modern science has shown that there is nothing absolutely static, therefore, the whole universe, and every part of it, has its history.\" ",
+      "Categories": [
+        {
+          "ID": 63562,
+          "Title": "Categorie:Geschiedenis"
+        },
+        {
+          "ID": 1582541,
+          "Title": "Categorie:Verkiezingen naar jaar"
+        },
+        {
+          "ID": 1685925,
+          "Title": "Categorie:Geschiedenis naar land"
+        },
+        {
+          "ID": 4812818,
+          "Title": "Categorie:Gebeurtenis"
+        }
+      ],
+      "Articles": [
+        {
+          "ID": 2021,
+          "Title": "Aanslagen op 11 september 2001"
+        },
+        {
+          "ID": 10483,
+          "Title": "Trojaanse Oorlog"
+        },
+        {
+          "ID": 37054,
+          "Title": "Geschiedenis van het periodiek systeem"
+        },
+        {
+          "ID": 49898,
+          "Title": "Holocaustontkenning"
+        },
+        {
+          "ID": 1536140,
+          "Title": "Amerikaanse presidentsverkiezingen 2012"
+        },
+        {
+          "ID": 1875347,
+          "Title": "Prairie-indianen"
+        },
+        {
+          "ID": 1900972,
+          "Title": "Olieramp in de Golf van Mexico 2010"
+        },
+        {
+          "ID": 2136025,
+          "Title": "Zeebeving Sendai 2011"
+        },
+        {
+          "ID": 2874816,
+          "Title": "Schietpartij in Aurora"
+        },
+        {
+          "ID": 2991391,
+          "Title": "Bappir"
+        },
+        {
+          "ID": 3049896,
+          "Title": "Coup (indianen)"
+        },
+        {
+          "ID": 4582980,
+          "Title": "Schietpartij in Orlando"
+        }
+      ]
+    },
+    {
+      "ID": 2147483641,
+      "Title": "Mathematics and logic",
+      "Abstract": "Mathematics is the science of quantization. It is also the study of patterns and relationships, including concepts such as quantity, structure, space, uncertainty, and change. It evolved through the use of abstraction and logical reasoning, from counting, calculation, measurement, and the systematic study of positions, shapes and motions of physical objects. Mathematicians explore such concepts, aiming to formulate new conjectures and establish their truth by rigorous deduction from appropriately chosen axioms and definitions.\n\nLogic (from Classical Greek λόγος logos; meaning word, thought, idea, argument, account, reason or principle) is the study of the principles and criteria of valid inference and demonstration. As a formal science, logic investigates and classifies the structure of statements and arguments, both through the study of formal systems of inference and through the study of arguments in natural language. The field of logic ranges from core topics such as the study of fallacies and paradoxes, to specialized analysis of reasoning using probability and to arguments involving causality. Logic is also commonly used today in argumentation theory. Since the mid-nineteenth century formal logic has been studied in the context of the foundations of mathematics",
+      "Categories": [
+        {
+          "ID": 63315,
+          "Title": "Categorie:Wiskunde"
+        },
+        {
+          "ID": 70121,
+          "Title": "Categorie:Statistiek"
+        },
+        {
+          "ID": 81303,
+          "Title": "Categorie:Logica"
+        },
+        {
+          "ID": 302435,
+          "Title": "Categorie:Theoretische informatica"
+        },
+        {
+          "ID": 2986591,
+          "Title": "Categorie:Wiskunde naar deelgebied"
+        }
+      ],
+      "Articles": [
+        {
+          "ID": 11108,
+          "Title": "Lengte (meetkunde)"
+        }
+      ]
+    },
+    {
+      "ID": 2147483642,
+      "Title": "Nature and physical sciences",
+      "Abstract": "The term nature is derived from the Latin word natura, or \"essential qualities, innate disposition\". Natura is a Latin translation of the Greek word physis (φύσις), which originally related to the intrinsic characteristics that plants, animals, and other features of the world develop of their own accord. The concept of nature as a whole, all matter and energy in the universe, is one of several expansions of the original notion.\n\nPhysical science is an encompassing term for the branches of natural science, and science, that study non-living systems, in contrast to the biological sciences. However, the term \"physical\" creates an involuntary, somewhat arbitrary distinction, since many branches of physical science also study biological phenomena",
+      "Categories": [
+        {
+          "ID": 63337,
+          "Title": "Categorie:Natuurkunde"
+        },
+        {
+          "ID": 63432,
+          "Title": "Categorie:Scheikunde"
+        },
+        {
+          "ID": 63481,
+          "Title": "Categorie:Wetenschap"
+        },
+        {
+          "ID": 68387,
+          "Title": "Categorie:Natuur"
+        },
+        {
+          "ID": 72646,
+          "Title": "Categorie:Zoölogie"
+        },
+        {
+          "ID": 102006,
+          "Title": "Categorie:Ramp"
+        },
+        {
+          "ID": 806654,
+          "Title": "Categorie:Natuurwetenschappen"
+        },
+        {
+          "ID": 1387558,
+          "Title": "Categorie:Milieuwetenschappen"
+        }
+      ],
+      "Articles": [
+        {
+          "ID": 8209,
+          "Title": "Teelbal"
+        },
+        {
+          "ID": 9439,
+          "Title": "Masturbatie"
+        },
+        {
+          "ID": 15086,
+          "Title": "Urine"
+        },
+        {
+          "ID": 19128,
+          "Title": "Mayakalender"
+        },
+        {
+          "ID": 20224,
+          "Title": "Eland"
+        },
+        {
+          "ID": 33655,
+          "Title": "Complementaire kleur"
+        },
+        {
+          "ID": 41270,
+          "Title": "Tarwe"
+        },
+        {
+          "ID": 43888,
+          "Title": "Sinaasappel"
+        },
+        {
+          "ID": 44332,
+          "Title": "Citroen (vrucht)"
+        },
+        {
+          "ID": 44430,
+          "Title": "Mais"
+        },
+        {
+          "ID": 48708,
+          "Title": "Ananas"
+        },
+        {
+          "ID": 53351,
+          "Title": "Kieming"
+        },
+        {
+          "ID": 67545,
+          "Title": "Vuur"
+        },
+        {
+          "ID": 92319,
+          "Title": "Bloemkool"
+        },
+        {
+          "ID": 98140,
+          "Title": "Waterkringloop"
+        },
+        {
+          "ID": 99010,
+          "Title": "Suspensie (scheikunde)"
+        },
+        {
+          "ID": 121665,
+          "Title": "Kruisboomkikker"
+        },
+        {
+          "ID": 148999,
+          "Title": "Limoen"
+        },
+        {
+          "ID": 184352,
+          "Title": "Slingerapen"
+        },
+        {
+          "ID": 195399,
+          "Title": "Makreel"
+        },
+        {
+          "ID": 201640,
+          "Title": "Motorische zenuwcel"
+        },
+        {
+          "ID": 206315,
+          "Title": "Voedselketen"
+        },
+        {
+          "ID": 246795,
+          "Title": "Goudsnippen"
+        },
+        {
+          "ID": 261143,
+          "Title": "Kamelen"
+        },
+        {
+          "ID": 312530,
+          "Title": "Bewegingsapparaat"
+        },
+        {
+          "ID": 459676,
+          "Title": "Wolfspinnen"
+        },
+        {
+          "ID": 546454,
+          "Title": "Rood haar"
+        },
+        {
+          "ID": 1405817,
+          "Title": "Kleefrijst"
+        },
+        {
+          "ID": 1434814,
+          "Title": "Penis"
+        },
+        {
+          "ID": 1995898,
+          "Title": "Sula (geslacht)"
+        },
+        {
+          "ID": 1995951,
+          "Title": "Phoenicopterus"
+        },
+        {
+          "ID": 2012616,
+          "Title": "Haackgreerius miopus"
+        },
+        {
+          "ID": 2013251,
+          "Title": "Glaphyromorphus"
+        },
+        {
+          "ID": 2113162,
+          "Title": "Osmunda claytoniana"
+        },
+        {
+          "ID": 2270569,
+          "Title": "Kerstomaat"
+        },
+        {
+          "ID": 2440310,
+          "Title": "Diplocrepis puniceus"
+        },
+        {
+          "ID": 2767904,
+          "Title": "Ophisaurus"
+        },
+        {
+          "ID": 3969783,
+          "Title": "Iraanse rouwmees"
+        },
+        {
+          "ID": 4606955,
+          "Title": "Menselijk spierstelsel"
+        },
+        {
+          "ID": 5085625,
+          "Title": "Rijst"
+        }
+      ]
+    },
+    {
+      "ID": 2147483643,
+      "Title": "People and self",
+      "Abstract": "A collection of people often refers to a general group, such as all humans, an ethnic group or a nation. An individual person is the self, from his or her own perspective. To you, \"self\" is you. To someone else, \"self\" is that person. A biography is a genre of literature or film, which presents a relatively full account of the most interesting and important events of a notable person's life.\n\nLife or personal life or human existence is an individual human's personal, private experience of living (including their employment career, their family life, and other elements). In prehistoric times, life and existence was based on survival. There was little privacy and a person was identified by their role in the group. In modern times, many people have even come to think of their personal lives as if they are separate from their work. This segmentation of \"life areas\" is evident in such phrases as \"work life\", \"home life\", and \"sex life.\" The meaning or role of a person's \"life\" or \"human existence\" is discussed in many religions and philosophies. In Western industrialized countries, there are a variety of service industries that help people improve their personal lives, such as counselling and life coaching companies",
+      "Categories": [
+        {
+          "ID": 69517,
+          "Title": "Categorie:Achternaam"
+        },
+        {
+          "ID": 738070,
+          "Title": "Categorie:Dagelijks leven"
+        },
+        {
+          "ID": 1677948,
+          "Title": "Categorie:Persoon"
+        },
+        {
+          "ID": 1691630,
+          "Title": "Categorie:Personage uit film"
+        },
+        {
+          "ID": 4909534,
+          "Title": "Categorie:Vrouw"
+        }
+      ],
+      "Articles": [
+        {
+          "ID": 8,
+          "Title": "Alan Turing"
+        },
+        {
+          "ID": 83,
+          "Title": "Adolf Hitler"
+        },
+        {
+          "ID": 271,
+          "Title": "Charles Babbage"
+        },
+        {
+          "ID": 622,
+          "Title": "George Harrison"
+        },
+        {
+          "ID": 633,
+          "Title": "Carl Friedrich Gauss"
+        },
+        {
+          "ID": 836,
+          "Title": "Johannes Kepler"
+        },
+        {
+          "ID": 1537,
+          "Title": "René Descartes"
+        },
+        {
+          "ID": 1677,
+          "Title": "Sigmund Freud"
+        },
+        {
+          "ID": 5600,
+          "Title": "Christoffel Columbus"
+        },
+        {
+          "ID": 5985,
+          "Title": "Alexander Fleming"
+        },
+        {
+          "ID": 6464,
+          "Title": "Galileo Galilei"
+        },
+        {
+          "ID": 6823,
+          "Title": "Florence Nightingale"
+        },
+        {
+          "ID": 8755,
+          "Title": "Richard Wagner"
+        },
+        {
+          "ID": 9478,
+          "Title": "John Lennon"
+        },
+        {
+          "ID": 9693,
+          "Title": "Thomas van Aquino"
+        },
+        {
+          "ID": 10822,
+          "Title": "Fibonacci"
+        },
+        {
+          "ID": 14434,
+          "Title": "Elton John"
+        },
+        {
+          "ID": 14481,
+          "Title": "Lewis Carroll"
+        },
+        {
+          "ID": 15107,
+          "Title": "Noam Chomsky"
+        },
+        {
+          "ID": 15856,
+          "Title": "Srinivasa Aaiyangar Ramanujan"
+        },
+        {
+          "ID": 17617,
+          "Title": "Harry Houdini"
+        },
+        {
+          "ID": 23889,
+          "Title": "Bill Gates"
+        },
+        {
+          "ID": 24034,
+          "Title": "Adam Smith"
+        },
+        {
+          "ID": 28877,
+          "Title": "Joseph Smith"
+        },
+        {
+          "ID": 34575,
+          "Title": "Oliver Cromwell"
+        },
+        {
+          "ID": 50747,
+          "Title": "Bob Ross"
+        },
+        {
+          "ID": 68300,
+          "Title": "Carl Sagan"
+        },
+        {
+          "ID": 70720,
+          "Title": "William Blake"
+        },
+        {
+          "ID": 84633,
+          "Title": "Karl Friedrich Abel"
+        },
+        {
+          "ID": 86179,
+          "Title": "Irving Langmuir"
+        },
+        {
+          "ID": 131086,
+          "Title": "Ayn Rand"
+        },
+        {
+          "ID": 146315,
+          "Title": "Daniel Radcliffe"
+        },
+        {
+          "ID": 188606,
+          "Title": "Chaïm Soutine"
+        },
+        {
+          "ID": 236999,
+          "Title": "Theodor Schwann"
+        },
+        {
+          "ID": 282815,
+          "Title": "Richard Dawkins"
+        },
+        {
+          "ID": 352951,
+          "Title": "Stefan Lochner"
+        },
+        {
+          "ID": 386258,
+          "Title": "Paul Wight"
+        },
+        {
+          "ID": 1465387,
+          "Title": "The Big Bang Theory (televisieserie)"
+        },
+        {
+          "ID": 1672811,
+          "Title": "Jacob Black"
+        },
+        {
+          "ID": 1748619,
+          "Title": "Cory Monteith"
+        },
+        {
+          "ID": 1815232,
+          "Title": "Gilles Borrie"
+        },
+        {
+          "ID": 2157864,
+          "Title": "Janet Margolin"
+        },
+        {
+          "ID": 2278493,
+          "Title": "Anders Behring Breivik"
+        },
+        {
+          "ID": 3196547,
+          "Title": "Ted Cruz"
+        },
+        {
+          "ID": 4559843,
+          "Title": "Dorothy Vaughan"
+        },
+        {
+          "ID": 5063823,
+          "Title": "Evan (voornaam)"
+        },
+        {
+          "ID": 5131436,
+          "Title": "Norah McClintock"
+        }
+      ]
+    },
+    {
+      "ID": 2147483644,
+      "Title": "Philosophy and thinking",
+      "Abstract": "Philosophy has almost as many definitions as there have been philosophers, both as a subject matter and an activity, and no simple definition can do it justice. The issue of the definition of philosophy is thus a controversial subject that is nowadays tackled by Metaphilosophy (or the philosophy of philosophy). The word is derived from the ancient Greek words philo-, to love or to befriend, and -sophia, wisdom. Modern usage of the term is much broader; the concept of philosophy encompasses all of knowledge and all that can be known, including the means by which such knowledge can be acquired. However, in the contemporary English-speaking academic world, the term is often used implicitly to refer to analytic philosophy and, in non-English speaking countries, it often refers implicitly to a different, European strain, continental philosophy. The ancient Greeks organized the subject into five basic categories: metaphysics, epistemology, ethics, politics and aesthetics. This organization of the subject is still largely in use in Western philosophy today.\n\nThought or thinking is a mental process which allows beings to model the world, and so to deal with it effectively according to their goals, plans, ends and desires. Words referring to similar concepts and processes in the English language include cognition, sentience, consciousness, idea, and imagination. Thinking involves the cerebral manipulation of information, as when we form concepts, engage in problem solving, reason and make decisions. Thinking is a higher cognitive function and the analysis of thinking processes is part of cognitive psychology",
+      "Categories": [
+        {
+          "ID": 64385,
+          "Title": "Categorie:Filosofie"
+        },
+        {
+          "ID": 67172,
+          "Title": "Categorie:Ethiek"
+        },
+        {
+          "ID": 148839,
+          "Title": "Categorie:Filosofische stroming"
+        },
+        {
+          "ID": 510413,
+          "Title": "Categorie:Filosofisch vakgebied"
+        }
+      ],
+      "Articles": [
+        {
+          "ID": 13169,
+          "Title": "Geluk (emotie)"
+        },
+        {
+          "ID": 91155,
+          "Title": "Schoonheid"
+        },
+        {
+          "ID": 675678,
+          "Title": "Feit"
+        },
+        {
+          "ID": 1892129,
+          "Title": "Dunning-krugereffect"
+        },
+        {
+          "ID": 4947708,
+          "Title": "Gaslighting"
+        }
+      ]
+    },
+    {
+      "ID": 2147483645,
+      "Title": "Religion and belief systems",
+      "Abstract": "Religion is the adherence to codified beliefs and rituals that generally involve a faith in a spiritual nature and a study of inherited ancestral traditions, knowledge and wisdom related to understanding human life. The term \"religion\" refers to both the personal practices related to faith as well as to the larger shared systems of belief.\n\nA belief system can refer to a religion or a world view. A world view (or worldview) is a term calqued from the German word Weltanschauung Welt is the German word for 'world,' and Anschauung is the German word for 'view' or 'outlook'. It is a concept fundamental to German philosophy and epistemology and refers to a wide world perception. Additionally, it refers to the framework of ideas and beliefs through which an individual interprets the world and interacts in it",
+      "Categories": [
+        {
+          "ID": 63305,
+          "Title": "Categorie:Mythologie"
+        },
+        {
+          "ID": 63643,
+          "Title": "Categorie:Religie"
+        },
+        {
+          "ID": 885049,
+          "Title": "Categorie:Religieuze stroming"
+        },
+        {
+          "ID": 1067417,
+          "Title": "Categorie:Religiekritiek"
+        },
+        {
+          "ID": 3842681,
+          "Title": "Categorie:Secularisme"
+        },
+        {
+          "ID": 4358933,
+          "Title": "Categorie:Religieuze antropologie"
+        }
+      ]
+    },
+    {
+      "ID": 2147483646,
+      "Title": "Society and social sciences",
+      "Abstract": "A society is a group of people who form a semi-closed system. At its simplest, the term society refers to a large group of people sharing their own culture and institutions. A society is a network of relationships between people. The English word society is derived from the French société, which had its origin in the Latin societas, a \"friendly association with others,\" from socius meaning \"companion, associate, comrade or business partner.\" Thus, the meaning of society is closely related to what is considered to be social. Implicit in the meaning of society is that its members may share some mutual concern or interest, a common objective or common characteristics. The social sciences generally use the term society to mean a group of people who form a semi-closed social system, in which most interactions are with other individuals belonging to the group. More abstractly, a society is defined as a network of relationships between social entities. A society is also sometimes defined as an interdependent community, but the sociologist Tönnies sought to draw a contrast between society and community. An important feature of society is social structure, aspects of which include roles and social ranking.\n\nThe social science are a group of academic disciplines that study human aspects of the world. They differ from the arts and the humanities, in that the social science tend to emphasize the use of the scientific method in the study of humanity, including quantitative and qualitative methods",
+      "Categories": [
+        {
+          "ID": 67086,
+          "Title": "Categorie:Internationale organisatie"
+        },
+        {
+          "ID": 72308,
+          "Title": "Categorie:Sociale wetenschap"
+        },
+        {
+          "ID": 142921,
+          "Title": "Categorie:Feminisme"
+        },
+        {
+          "ID": 176685,
+          "Title": "Categorie:Mens en maatschappij"
+        }
+      ],
+      "Articles": [
+        {
+          "ID": 409,
+          "Title": "Europese Unie"
+        },
+        {
+          "ID": 10020,
+          "Title": "Zomertijd"
+        },
+        {
+          "ID": 13985,
+          "Title": "Universiteit van Oxford"
+        },
+        {
+          "ID": 13987,
+          "Title": "Universiteit van Cambridge"
+        },
+        {
+          "ID": 30304,
+          "Title": "Universiteit van Parijs"
+        },
+        {
+          "ID": 35437,
+          "Title": "Harvard-universiteit"
+        },
+        {
+          "ID": 36070,
+          "Title": "The New York Times"
+        },
+        {
+          "ID": 42952,
+          "Title": "Massachusetts Institute of Technology"
+        },
+        {
+          "ID": 48747,
+          "Title": "Maatschappelijk werk"
+        },
+        {
+          "ID": 56621,
+          "Title": "Universiteit van Nanjing"
+        },
+        {
+          "ID": 84708,
+          "Title": "Antropogene ramp"
+        },
+        {
+          "ID": 102667,
+          "Title": "Universiteit van Sydney"
+        },
+        {
+          "ID": 114941,
+          "Title": "Chinees Nieuwjaar"
+        },
+        {
+          "ID": 122912,
+          "Title": "Hebreeuwse Universiteit van Jeruzalem"
+        },
+        {
+          "ID": 126572,
+          "Title": "Princeton-universiteit"
+        },
+        {
+          "ID": 126575,
+          "Title": "Universiteit van Genua"
+        },
+        {
+          "ID": 153881,
+          "Title": "Fox News Channel"
+        },
+        {
+          "ID": 199356,
+          "Title": "Universiteit van Triëst"
+        },
+        {
+          "ID": 202277,
+          "Title": "Vlag van Australië"
+        },
+        {
+          "ID": 222730,
+          "Title": "Columbia-universiteit"
+        },
+        {
+          "ID": 226694,
+          "Title": "Pizza Hut"
+        },
+        {
+          "ID": 237830,
+          "Title": "American Airlines"
+        },
+        {
+          "ID": 247396,
+          "Title": "Stanford-universiteit"
+        },
+        {
+          "ID": 272054,
+          "Title": "BP (oliemaatschappij)"
+        },
+        {
+          "ID": 308724,
+          "Title": "Universiteit van Bologna"
+        },
+        {
+          "ID": 347083,
+          "Title": "Universiteit van Umeå"
+        },
+        {
+          "ID": 348094,
+          "Title": "Universiteit van Chicago"
+        },
+        {
+          "ID": 358535,
+          "Title": "Universiteit van Pennsylvania"
+        },
+        {
+          "ID": 393476,
+          "Title": "Universiteit van Wenen"
+        },
+        {
+          "ID": 410340,
+          "Title": "Universiteit van Texas in Austin"
+        },
+        {
+          "ID": 411176,
+          "Title": "Universiteit van Michigan"
+        },
+        {
+          "ID": 416715,
+          "Title": "Universiteit van Virginia"
+        },
+        {
+          "ID": 423885,
+          "Title": "Starbucks"
+        },
+        {
+          "ID": 424017,
+          "Title": "Micronatie"
+        },
+        {
+          "ID": 507170,
+          "Title": "University of Southern California"
+        },
+        {
+          "ID": 517549,
+          "Title": "Universiteit van Londen"
+        },
+        {
+          "ID": 524660,
+          "Title": "Rheinische Friedrich-Wilhelms-Universiteit"
+        },
+        {
+          "ID": 528507,
+          "Title": "Centrum Wiskunde \u0026 Informatica"
+        },
+        {
+          "ID": 540654,
+          "Title": "Taco Bell"
+        },
+        {
+          "ID": 594117,
+          "Title": "Tsinghua-universiteit"
+        },
+        {
+          "ID": 615951,
+          "Title": "Universiteit van Queensland"
+        },
+        {
+          "ID": 649552,
+          "Title": "Universiteit van Uppsala"
+        },
+        {
+          "ID": 666585,
+          "Title": "Universiti Malaya"
+        },
+        {
+          "ID": 733156,
+          "Title": "Domino's Pizza"
+        },
+        {
+          "ID": 761426,
+          "Title": "Coventry-universiteit"
+        },
+        {
+          "ID": 799303,
+          "Title": "The Open University"
+        },
+        {
+          "ID": 843805,
+          "Title": "Universiteit van Keulen"
+        },
+        {
+          "ID": 865540,
+          "Title": "Universiteit van Lincoln"
+        },
+        {
+          "ID": 875342,
+          "Title": "Westfaalse Wilhelms-Universiteit"
+        },
+        {
+          "ID": 884996,
+          "Title": "Staatsuniversiteit van Moskou"
+        },
+        {
+          "ID": 907651,
+          "Title": "City University London"
+        },
+        {
+          "ID": 941462,
+          "Title": "Universiteit van Bern"
+        },
+        {
+          "ID": 960680,
+          "Title": "Universiteit van Stockholm"
+        },
+        {
+          "ID": 974807,
+          "Title": "Universiteit van Göteborg"
+        },
+        {
+          "ID": 1012578,
+          "Title": "Universiteit van Indiana"
+        },
+        {
+          "ID": 1014654,
+          "Title": "Thammasat-universiteit"
+        },
+        {
+          "ID": 1038320,
+          "Title": "VN-Milieuprogramma"
+        },
+        {
+          "ID": 1043024,
+          "Title": "Julius Maximilians-Universiteit"
+        },
+        {
+          "ID": 1076474,
+          "Title": "Georg-August-Universität Göttingen"
+        },
+        {
+          "ID": 1085457,
+          "Title": "Universiteit van Linköping"
+        },
+        {
+          "ID": 1104272,
+          "Title": "Universiteit van Leeds"
+        },
+        {
+          "ID": 1169711,
+          "Title": "National Archives and Records Administration"
+        },
+        {
+          "ID": 1186083,
+          "Title": "Imperial College London"
+        },
+        {
+          "ID": 1226824,
+          "Title": "Staatsuniversiteit van Sint-Petersburg"
+        },
+        {
+          "ID": 1254024,
+          "Title": "Eberhard-Karls-Universiteit"
+        },
+        {
+          "ID": 1257995,
+          "Title": "Universiteit van Osaka"
+        },
+        {
+          "ID": 1318545,
+          "Title": "Rice University"
+        },
+        {
+          "ID": 1349111,
+          "Title": "Universiteit van Milaan"
+        },
+        {
+          "ID": 1360929,
+          "Title": "Universiteit van Washington"
+        },
+        {
+          "ID": 1406968,
+          "Title": "Universiteit van St Andrews"
+        },
+        {
+          "ID": 1416602,
+          "Title": "Universiteit van Wrocław"
+        },
+        {
+          "ID": 1435273,
+          "Title": "Universiteit van Tartu"
+        },
+        {
+          "ID": 1449200,
+          "Title": "Universiteit van Tokio"
+        },
+        {
+          "ID": 1450381,
+          "Title": "Universiteit van Manchester"
+        },
+        {
+          "ID": 1467894,
+          "Title": "Universiteit van Padua"
+        },
+        {
+          "ID": 1489760,
+          "Title": "Universiteit van Glasgow"
+        },
+        {
+          "ID": 1547306,
+          "Title": "Universiteit Leipzig"
+        },
+        {
+          "ID": 1575345,
+          "Title": "Universiteit van Illinois te Chicago"
+        },
+        {
+          "ID": 1585314,
+          "Title": "Universiteit van Delhi"
+        },
+        {
+          "ID": 1586127,
+          "Title": "Universiteit van Arizona"
+        },
+        {
+          "ID": 1586684,
+          "Title": "Universiteit van Missouri"
+        },
+        {
+          "ID": 1587052,
+          "Title": "Ohio State University"
+        },
+        {
+          "ID": 1589067,
+          "Title": "Universiteit van Oregon"
+        },
+        {
+          "ID": 1601438,
+          "Title": "University at Buffalo, The State University of New York"
+        },
+        {
+          "ID": 1618776,
+          "Title": "Universiteit van Birmingham"
+        },
+        {
+          "ID": 1625091,
+          "Title": "Universiteit van Sussex"
+        },
+        {
+          "ID": 1639076,
+          "Title": "Universiteit van Bristol"
+        },
+        {
+          "ID": 1659198,
+          "Title": "Universiteit van Auckland"
+        },
+        {
+          "ID": 1671769,
+          "Title": "Universiteit van Turijn"
+        },
+        {
+          "ID": 1683429,
+          "Title": "Universiteit van Calcutta"
+        },
+        {
+          "ID": 1690055,
+          "Title": "Universiteit van Maryland, College Park"
+        },
+        {
+          "ID": 1741212,
+          "Title": "Universiteit van Warwick"
+        },
+        {
+          "ID": 1759909,
+          "Title": "Universiteit van Liverpool"
+        },
+        {
+          "ID": 1786942,
+          "Title": "Universiteit van East Anglia"
+        },
+        {
+          "ID": 1793917,
+          "Title": "Universiteit van Minnesota"
+        },
+        {
+          "ID": 1795027,
+          "Title": "Universiteit van Napels Federico II"
+        },
+        {
+          "ID": 1819019,
+          "Title": "University college"
+        },
+        {
+          "ID": 1834144,
+          "Title": "Universiteit van Freiburg"
+        },
+        {
+          "ID": 1897978,
+          "Title": "Universiteit van Boston"
+        },
+        {
+          "ID": 1961792,
+          "Title": "Universiteit van Nottingham"
+        },
+        {
+          "ID": 1993741,
+          "Title": "Universiteit van Hull"
+        },
+        {
+          "ID": 1994643,
+          "Title": "Universiteit van Sheffield"
+        },
+        {
+          "ID": 1994944,
+          "Title": "Universiteit van Lancaster"
+        },
+        {
+          "ID": 2007075,
+          "Title": "Alexander Jan Cuza-universiteit van Iași"
+        },
+        {
+          "ID": 2105828,
+          "Title": "Universiteit van Leicester"
+        },
+        {
+          "ID": 2122610,
+          "Title": "Universiteit van Catania"
+        },
+        {
+          "ID": 2179407,
+          "Title": "Universiteit van KwaZoeloe-Natal"
+        },
+        {
+          "ID": 2192318,
+          "Title": "Universiteit van Exeter"
+        },
+        {
+          "ID": 2323656,
+          "Title": "MIT Sloan School of Management"
+        },
+        {
+          "ID": 2548530,
+          "Title": "Queen's University"
+        },
+        {
+          "ID": 2844478,
+          "Title": "Miami-universiteit"
+        },
+        {
+          "ID": 2847085,
+          "Title": "Universiteit van Calgary"
+        },
+        {
+          "ID": 2873966,
+          "Title": "Australian National University"
+        },
+        {
+          "ID": 2880240,
+          "Title": "American University"
+        },
+        {
+          "ID": 3019988,
+          "Title": "City University of New York"
+        },
+        {
+          "ID": 3021756,
+          "Title": "Openbare universiteit"
+        },
+        {
+          "ID": 3195244,
+          "Title": "Universiteit van Wollongong"
+        },
+        {
+          "ID": 3837283,
+          "Title": "Universiteit van Waterloo"
+        },
+        {
+          "ID": 3995924,
+          "Title": "Universiteit van Akron"
+        },
+        {
+          "ID": 4066705,
+          "Title": "Universiteit van Mumbai"
+        },
+        {
+          "ID": 4259346,
+          "Title": "The Times of India"
+        },
+        {
+          "ID": 4370340,
+          "Title": "Universiteit van Aberdeen"
+        },
+        {
+          "ID": 4452543,
+          "Title": "University of Kent"
+        },
+        {
+          "ID": 4562145,
+          "Title": "Plymouth University"
+        },
+        {
+          "ID": 4609916,
+          "Title": "University of Iowa"
+        },
+        {
+          "ID": 4744606,
+          "Title": "Universiteit van Southampton"
+        },
+        {
+          "ID": 4796463,
+          "Title": "Aanslag in Londen op 22 maart 2017"
+        },
+        {
+          "ID": 4799680,
+          "Title": "Washington-universiteit te Saint Louis"
+        },
+        {
+          "ID": 4800506,
+          "Title": "University of Delaware"
+        },
+        {
+          "ID": 4801076,
+          "Title": "Tulane University"
+        },
+        {
+          "ID": 4849048,
+          "Title": "Noordwest-Universiteit"
+        },
+        {
+          "ID": 4869397,
+          "Title": "Derde Wereldoorlog"
+        },
+        {
+          "ID": 4892258,
+          "Title": "University of Tennessee"
+        },
+        {
+          "ID": 4893011,
+          "Title": "University of Alabama"
+        }
+      ]
+    },
+    {
+      "ID": 2147483647,
+      "Title": "Technology and applied sciences",
+      "Abstract": "Technology is an expanded concept that deals with a species' usage and knowledge of tools and crafts, and how it affects a species' ability to control and adapt to its environment. In human civilization, it is a consequence of science and engineering, although several technological advances predate the formalization of these two disciplines. The term can either be applied generally or to specific areas – examples include construction technology, medical technology, or state-of-the-art technology.\n\nThe human race's use of technology began with the conversion of plentiful natural resources into simple tools. The prehistorical discovery of the ability to control fire increased the available sources of food, and the invention of the wheel helped humans in travelling in and controlling their environment. Recent technological developments, including the printing press and the Internet, have lessened physical barriers to communication and allowed humans to interact on a global scale. However, not all technology has been used for peaceful purposes; the development of weapons of ever-increasing destructive power has progressed throughout history, from clubs to nuclear bombs.\n\nApplied science is the application of knowledge from one or more natural scientific fields to solving practical problems. For example, fields of engineering are applied sciences. Applied science is important for technology development. Its use in industrial settings is usually referred to as research and development (R\u0026D)",
+      "Categories": [
+        {
+          "ID": 63316,
+          "Title": "Categorie:Informatica"
+        },
+        {
+          "ID": 63436,
+          "Title": "Categorie:Elektronica"
+        },
+        {
+          "ID": 63440,
+          "Title": "Categorie:Internet"
+        },
+        {
+          "ID": 80542,
+          "Title": "Categorie:Verkeer en vervoer"
+        },
+        {
+          "ID": 80855,
+          "Title": "Categorie:Toegepaste wetenschap"
+        },
+        {
+          "ID": 563863,
+          "Title": "Categorie:Geschiedenis van de techniek"
+        },
+        {
+          "ID": 1840514,
+          "Title": "Categorie:Vormgeving"
+        },
+        {
+          "ID": 2193054,
+          "Title": "Categorie:Militaire apparatuur"
+        },
+        {
+          "ID": 4001060,
+          "Title": "Categorie:Engineering"
+        },
+        {
+          "ID": 4246091,
+          "Title": "Categorie:Toegepaste informatica"
+        },
+        {
+          "ID": 4918004,
+          "Title": "Categorie:Technologie"
+        }
+      ],
+      "Articles": [
+        {
+          "ID": 32778,
+          "Title": "Zwaluwstaartverbinding"
+        },
+        {
+          "ID": 37440,
+          "Title": "Kauwgom"
+        },
+        {
+          "ID": 41546,
+          "Title": "Broodmachine"
+        },
+        {
+          "ID": 70409,
+          "Title": "Monoprint"
+        },
+        {
+          "ID": 85145,
+          "Title": "Muur (bouwsel)"
+        },
+        {
+          "ID": 199269,
+          "Title": "Pepsi"
+        },
+        {
+          "ID": 388306,
+          "Title": "Metselen"
+        },
+        {
+          "ID": 1322232,
+          "Title": "Sega 32X"
+        },
+        {
+          "ID": 1443082,
+          "Title": "Mountain Dew"
+        },
+        {
+          "ID": 1940458,
+          "Title": ".xxx"
+        },
+        {
+          "ID": 1951465,
+          "Title": "Badparel"
+        },
+        {
+          "ID": 2199182,
+          "Title": "TIG-lassen"
+        }
+      ]
+    }
+  ],
+  "Filters": [
+    {
+      "ID": 527932,
+      "Title": "Categorie:Wikipedia:Doorverwijspagina"
+    },
+    {
+      "ID": 1255630,
+      "Title": "Categorie:Wikipedia:Verborgen categorie"
+    }
+  ]
+}

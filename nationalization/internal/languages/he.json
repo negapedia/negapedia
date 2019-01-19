@@ -1,0 +1,1508 @@
+{
+  "Language": "he",
+  "Topics": [
+    {
+      "ID": 2147483637,
+      "Title": "Culture and the arts",
+      "Abstract": "The word culture is derived from the Latin root cultura or cultus meaning to \"inhabit, cultivate, or honour\". In general, culture refers to human activity; different definitions of culture reflect different theories for understanding, or criteria for valuing human activity. Present day Anthropologists use the term to refer to the universal human capacity to classify experiences and to encode and communicate them symbolically. They regard this capacity as a defining feature of the genus Homo. Since culture is learned, people living in different places have different cultures. There can be different cultures in different countries, and there can also be shared cultures among continents.\n\nThe arts are a vast subdivision of culture, composed of many creative endeavors and disciplines. It is a broader term than \"art,\" which as a description of a field usually means only the visual arts. The arts encompasses visual arts, literary arts and the performing arts - music, theatre, dance, spoken word and film, among others.\n\nArt, in its broadest meaning, is the expression of creativity or imagination. The word art comes from the Latin word ars, which, loosely translated, means \"arrangement\". Art is commonly understood as the act of making works (or artworks) which use the human creative impulse and which have meaning beyond simple description. Art is often distinguished from crafts and recreational hobby activities. The term creative arts denotes a collection of disciplines whose principal purpose is the output of material for the viewer or audience to interpret. As such, art may be taken to include forms as diverse as prose writing, poetry, dance, acting or drama, film, music, sculpture, photography, illustration, architecture, collage, painting, craft and fashion. Art may also be understood as relating to creativity, æsthetics and the generation of emotion",
+      "Categories": [
+        {
+          "ID": 20242,
+          "Title": "קטגוריה:תחביבים"
+        },
+        {
+          "ID": 21850,
+          "Title": "קטגוריה:סרטים"
+        },
+        {
+          "ID": 23164,
+          "Title": "קטגוריה:ספורט"
+        },
+        {
+          "ID": 23177,
+          "Title": "קטגוריה:אמנות"
+        },
+        {
+          "ID": 23236,
+          "Title": "קטגוריה:תרבות"
+        },
+        {
+          "ID": 25892,
+          "Title": "קטגוריה:מאכלים"
+        },
+        {
+          "ID": 56687,
+          "Title": "קטגוריה:מטבחים"
+        },
+        {
+          "ID": 106380,
+          "Title": "קטגוריה:בידור"
+        },
+        {
+          "ID": 448041,
+          "Title": "קטגוריה:הרכבים מוזיקליים"
+        },
+        {
+          "ID": 1101144,
+          "Title": "קטגוריה:מיצגים"
+        }
+      ],
+      "Articles": [
+        {
+          "ID": 475,
+          "Title": "אנציקלופדיה"
+        },
+        {
+          "ID": 4912,
+          "Title": "הוגוורטס"
+        },
+        {
+          "ID": 9430,
+          "Title": "לחם"
+        },
+        {
+          "ID": 11501,
+          "Title": "ארמון בקינגהאם"
+        },
+        {
+          "ID": 19949,
+          "Title": "קפה"
+        },
+        {
+          "ID": 21687,
+          "Title": "לד זפלין"
+        },
+        {
+          "ID": 24454,
+          "Title": "שוקולד"
+        },
+        {
+          "ID": 24714,
+          "Title": "פיצה"
+        },
+        {
+          "ID": 25500,
+          "Title": "בירה"
+        },
+        {
+          "ID": 40420,
+          "Title": "רוח רפאים"
+        },
+        {
+          "ID": 46123,
+          "Title": "AC/DC"
+        },
+        {
+          "ID": 69631,
+          "Title": "Sgt. Pepper's Lonely Hearts Club Band"
+        },
+        {
+          "ID": 75965,
+          "Title": "המפלצת מלוך נס"
+        },
+        {
+          "ID": 87635,
+          "Title": "גרין דיי"
+        },
+        {
+          "ID": 93549,
+          "Title": "ג'לאטו"
+        },
+        {
+          "ID": 96386,
+          "Title": "עוגייה"
+        },
+        {
+          "ID": 128196,
+          "Title": "עוגיית מזל"
+        },
+        {
+          "ID": 147100,
+          "Title": "אליפות ה-WWE"
+        },
+        {
+          "ID": 147564,
+          "Title": "פסטה"
+        },
+        {
+          "ID": 176066,
+          "Title": "עוגה"
+        },
+        {
+          "ID": 186126,
+          "Title": "ויקיפדיה"
+        },
+        {
+          "ID": 202184,
+          "Title": "חמאת בוטנים"
+        },
+        {
+          "ID": 224925,
+          "Title": "שוקולד לבן"
+        },
+        {
+          "ID": 233854,
+          "Title": "שוקו"
+        },
+        {
+          "ID": 326695,
+          "Title": "שוקולטה"
+        },
+        {
+          "ID": 332579,
+          "Title": "קותל חזיר"
+        },
+        {
+          "ID": 333263,
+          "Title": "שינקן"
+        },
+        {
+          "ID": 333423,
+          "Title": "ביצת עין"
+        },
+        {
+          "ID": 334710,
+          "Title": "ביצה מבושלת"
+        },
+        {
+          "ID": 340695,
+          "Title": "רוטב אספניול"
+        },
+        {
+          "ID": 341628,
+          "Title": "ביצה (מזון)"
+        },
+        {
+          "ID": 348794,
+          "Title": "עוגת חתונה"
+        },
+        {
+          "ID": 352384,
+          "Title": "אסטרטגיית למידה"
+        },
+        {
+          "ID": 357532,
+          "Title": "ספר העובדות העולמי"
+        },
+        {
+          "ID": 366361,
+          "Title": "M\u0026M's"
+        },
+        {
+          "ID": 367743,
+          "Title": "ביצת מאה השנים"
+        },
+        {
+          "ID": 389592,
+          "Title": "טאקו"
+        },
+        {
+          "ID": 399114,
+          "Title": "נקניקייה בלחמנייה"
+        },
+        {
+          "ID": 453418,
+          "Title": "מרק עגבניות"
+        },
+        {
+          "ID": 481472,
+          "Title": "ידיים רושמות"
+        },
+        {
+          "ID": 506033,
+          "Title": "דינוזאור ג'וניור"
+        },
+        {
+          "ID": 629236,
+          "Title": "עוגת ספוג"
+        },
+        {
+          "ID": 633497,
+          "Title": "יום המרמיטה"
+        },
+        {
+          "ID": 729552,
+          "Title": "לחם סודה"
+        },
+        {
+          "ID": 778802,
+          "Title": "צליבט"
+        },
+        {
+          "ID": 840660,
+          "Title": "סאבלה"
+        },
+        {
+          "ID": 846514,
+          "Title": "עוף טיקה מסאלה"
+        },
+        {
+          "ID": 852019,
+          "Title": "סלט פסטה"
+        },
+        {
+          "ID": 857975,
+          "Title": "ביסקוויט פסחא"
+        },
+        {
+          "ID": 877645,
+          "Title": "אקווה (להקה)"
+        },
+        {
+          "ID": 883291,
+          "Title": "Judas"
+        },
+        {
+          "ID": 890348,
+          "Title": "רסק תפוחים"
+        },
+        {
+          "ID": 898921,
+          "Title": "קרודיטה"
+        },
+        {
+          "ID": 946617,
+          "Title": "עוגיית שוקולד צ'יפס"
+        },
+        {
+          "ID": 950628,
+          "Title": "לחם פרוס"
+        },
+        {
+          "ID": 965346,
+          "Title": "הוונטד"
+        },
+        {
+          "ID": 1077897,
+          "Title": "שוקולד מריר"
+        },
+        {
+          "ID": 1143775,
+          "Title": "עוגת שכבות"
+        },
+        {
+          "ID": 1182531,
+          "Title": "Flappy Bird"
+        },
+        {
+          "ID": 1224658,
+          "Title": "בזין"
+        },
+        {
+          "ID": 1228254,
+          "Title": "Angry Birds (משחק וידאו)"
+        },
+        {
+          "ID": 1244899,
+          "Title": "שבבי שוקולד"
+        },
+        {
+          "ID": 1277097,
+          "Title": "מייוות'ר נגד פקיאו"
+        },
+        {
+          "ID": 1340705,
+          "Title": "רוטב עגבניות"
+        },
+        {
+          "ID": 1375743,
+          "Title": "אירוויזיון 2017"
+        },
+        {
+          "ID": 1395914,
+          "Title": "לחם בננה"
+        },
+        {
+          "ID": 1421317,
+          "Title": "טימבאלו"
+        },
+        {
+          "ID": 1440098,
+          "Title": "ביצה סקוטית"
+        },
+        {
+          "ID": 1481261,
+          "Title": "מורדרד"
+        },
+        {
+          "ID": 1483938,
+          "Title": "אירוויזיון 2018"
+        },
+        {
+          "ID": 1504650,
+          "Title": "אש קטצ'אם"
+        },
+        {
+          "ID": 1545671,
+          "Title": "פיצה בסגנון שיקגו"
+        },
+        {
+          "ID": 1555384,
+          "Title": "חטיף שוקולד"
+        },
+        {
+          "ID": 1594126,
+          "Title": "Angry Birds Rio"
+        },
+        {
+          "ID": 1660182,
+          "Title": "עוגת גנואה"
+        }
+      ]
+    },
+    {
+      "ID": 2147483638,
+      "Title": "Geography and places",
+      "Abstract": "Geography (Greek Geo (γη) or Gaea (γαία), meaning \"Earth\", and graphein (γράφειν) meaning \"to describe\" or \"to write\") is the study of the earth and its features, inhabitants, and phenomena. A literal translation would be \"to describe or write about the Earth\". The first person to use the word \"geography\" was Eratosthenes (275-195 B.C.). Four historical traditions in geographical research are the spatial analysis of natural and human phenomena (geography as a study of distribution), area studies (places and regions), study of man-land relationship, and research in earth sciences. Nonetheless, modern geography is an all-encompassing discipline that foremost seeks to understand the world and all of its human and natural complexities — not merely where objects are, but how they have changed and come to be. As \"the bridge between the human and physical sciences,\" geography is divided into two main branches — human geography and physical geography",
+      "Categories": [
+        {
+          "ID": 22949,
+          "Title": "קטגוריה:גאוגרפיה"
+        },
+        {
+          "ID": 298806,
+          "Title": "קטגוריה:תכנון עירוני"
+        },
+        {
+          "ID": 323471,
+          "Title": "קטגוריה:מקומות ואתרים"
+        },
+        {
+          "ID": 353493,
+          "Title": "קטגוריה:גאומורפולוגיה"
+        }
+      ],
+      "Articles": [
+        {
+          "ID": 9957,
+          "Title": "ונציה"
+        },
+        {
+          "ID": 27565,
+          "Title": "מיאנמר"
+        },
+        {
+          "ID": 42173,
+          "Title": "קנברה"
+        },
+        {
+          "ID": 74106,
+          "Title": "קווינסלנד"
+        },
+        {
+          "ID": 709359,
+          "Title": "פריז"
+        }
+      ]
+    },
+    {
+      "ID": 2147483639,
+      "Title": "Health and fitness",
+      "Abstract": "Health is the level of functional or metabolic efficiency of a living organism. In humans it is the ability of individuals or communities to adapt and self-manage when facing physical, mental or social challenges. The most widely accepted definition of good health is that of the World Health Organization Constitution. It states: \"health is a state of complete physical, mental and social well-being and is not merely the absence of disease or infirmity\" (World Health Organization, 1946). In more recent years, this statement has been amplified to include the ability to lead a \"socially and economically productive life.\" The WHO definition is not without criticism, mainly that it is much too broad.\n\nThe most solid aspects of wellness that fit firmly in the realm of medicine are environmental health, nutrition, disease prevention, and public health. These matters can be investigated at length and can assist in measuring well-being. Please see our medical disclaimer for cautions about Wikipedia's limitations",
+      "Categories": [
+        {
+          "ID": 19539,
+          "Title": "קטגוריה:רפואה"
+        },
+        {
+          "ID": 65371,
+          "Title": "קטגוריה:מקצוע הרפואה"
+        },
+        {
+          "ID": 162388,
+          "Title": "קטגוריה:תחומים ברפואה"
+        },
+        {
+          "ID": 177610,
+          "Title": "קטגוריה:בריאות"
+        },
+        {
+          "ID": 189486,
+          "Title": "קטגוריה:היגיינה"
+        },
+        {
+          "ID": 1201737,
+          "Title": "קטגוריה:מדעי הרפואה"
+        },
+        {
+          "ID": 1615363,
+          "Title": "קטגוריה:מחלות ותסמונות תורשתיות"
+        }
+      ]
+    },
+    {
+      "ID": 2147483640,
+      "Title": "History and events",
+      "Abstract": "History is the interpretation of past events, societies and civilizations. The term history comes from the Greek historia (ἱστορία), \"an account of one's inquiries,\" and shares that etymology with the English word story as narrative. The 1911 Encyclopædia Britannica stated that \"history in the wider sense is all that has happened, not merely all the phenomena of human life, but those of the natural world as well. It is everything that undergoes change; and as modern science has shown that there is nothing absolutely static, therefore, the whole universe, and every part of it, has its history.\" ",
+      "Categories": [
+        {
+          "ID": 21852,
+          "Title": "קטגוריה:היסטוריה"
+        },
+        {
+          "ID": 503973,
+          "Title": "קטגוריה:אירועים"
+        },
+        {
+          "ID": 859191,
+          "Title": "קטגוריה:היסטוריה לפי מדינה"
+        },
+        {
+          "ID": 1431193,
+          "Title": "קטגוריה:בחירות לפי שנים"
+        }
+      ],
+      "Articles": [
+        {
+          "ID": 1705,
+          "Title": "פיגועי 11 בספטמבר"
+        },
+        {
+          "ID": 2490,
+          "Title": "מלחמת טרויה"
+        },
+        {
+          "ID": 14063,
+          "Title": "הכחשת השואה"
+        },
+        {
+          "ID": 109339,
+          "Title": "פטריוטים (המהפכה האמריקנית)"
+        },
+        {
+          "ID": 534498,
+          "Title": "היסטוריה של שיטות המדידה"
+        },
+        {
+          "ID": 781563,
+          "Title": "דליפת הנפט במפרץ מקסיקו (2010)"
+        },
+        {
+          "ID": 875072,
+          "Title": "רעידת האדמה והצונמי בסנדאי (2011)"
+        },
+        {
+          "ID": 882450,
+          "Title": "הבחירות לנשיאות ארצות הברית 2012"
+        },
+        {
+          "ID": 1025629,
+          "Title": "פיגוע הירי באורורה"
+        },
+        {
+          "ID": 1385606,
+          "Title": "פיגוע הירי במועדון הלהט\"ב באורלנדו"
+        },
+        {
+          "ID": 1450044,
+          "Title": "התערבות רוסיה בבחירות לנשיאות ארצות הברית ב-2016"
+        }
+      ]
+    },
+    {
+      "ID": 2147483641,
+      "Title": "Mathematics and logic",
+      "Abstract": "Mathematics is the science of quantization. It is also the study of patterns and relationships, including concepts such as quantity, structure, space, uncertainty, and change. It evolved through the use of abstraction and logical reasoning, from counting, calculation, measurement, and the systematic study of positions, shapes and motions of physical objects. Mathematicians explore such concepts, aiming to formulate new conjectures and establish their truth by rigorous deduction from appropriately chosen axioms and definitions.\n\nLogic (from Classical Greek λόγος logos; meaning word, thought, idea, argument, account, reason or principle) is the study of the principles and criteria of valid inference and demonstration. As a formal science, logic investigates and classifies the structure of statements and arguments, both through the study of formal systems of inference and through the study of arguments in natural language. The field of logic ranges from core topics such as the study of fallacies and paradoxes, to specialized analysis of reasoning using probability and to arguments involving causality. Logic is also commonly used today in argumentation theory. Since the mid-nineteenth century formal logic has been studied in the context of the foundations of mathematics",
+      "Categories": [
+        {
+          "ID": 17940,
+          "Title": "קטגוריה:מתמטיקה"
+        },
+        {
+          "ID": 23095,
+          "Title": "קטגוריה:לוגיקה"
+        },
+        {
+          "ID": 32600,
+          "Title": "קטגוריה:סטטיסטיקה"
+        },
+        {
+          "ID": 840339,
+          "Title": "קטגוריה:מתמטיקה שימושית"
+        },
+        {
+          "ID": 1507848,
+          "Title": "קטגוריה:תחומים במתמטיקה"
+        }
+      ],
+      "Articles": [
+        {
+          "ID": 21955,
+          "Title": "אורך"
+        }
+      ]
+    },
+    {
+      "ID": 2147483642,
+      "Title": "Nature and physical sciences",
+      "Abstract": "The term nature is derived from the Latin word natura, or \"essential qualities, innate disposition\". Natura is a Latin translation of the Greek word physis (φύσις), which originally related to the intrinsic characteristics that plants, animals, and other features of the world develop of their own accord. The concept of nature as a whole, all matter and energy in the universe, is one of several expansions of the original notion.\n\nPhysical science is an encompassing term for the branches of natural science, and science, that study non-living systems, in contrast to the biological sciences. However, the term \"physical\" creates an involuntary, somewhat arbitrary distinction, since many branches of physical science also study biological phenomena",
+      "Categories": [
+        {
+          "ID": 17923,
+          "Title": "קטגוריה:מדעי הטבע"
+        },
+        {
+          "ID": 18164,
+          "Title": "קטגוריה:כימיה"
+        },
+        {
+          "ID": 24917,
+          "Title": "קטגוריה:זואולוגיה"
+        },
+        {
+          "ID": 25240,
+          "Title": "קטגוריה:מדע וטכנולוגיה"
+        },
+        {
+          "ID": 32478,
+          "Title": "קטגוריה:אסונות"
+        },
+        {
+          "ID": 48084,
+          "Title": "קטגוריה:מדעי הסביבה"
+        },
+        {
+          "ID": 54085,
+          "Title": "קטגוריה:פיזיקה"
+        },
+        {
+          "ID": 155640,
+          "Title": "קטגוריה:תרכובות"
+        },
+        {
+          "ID": 1284201,
+          "Title": "קטגוריה:בעלי חיים לפי יבשת"
+        }
+      ],
+      "Articles": [
+        {
+          "ID": 10323,
+          "Title": "אוננות"
+        },
+        {
+          "ID": 11079,
+          "Title": "הדס"
+        },
+        {
+          "ID": 12685,
+          "Title": "שתן"
+        },
+        {
+          "ID": 16781,
+          "Title": "חיטה"
+        },
+        {
+          "ID": 23478,
+          "Title": "אורז"
+        },
+        {
+          "ID": 23901,
+          "Title": "אש"
+        },
+        {
+          "ID": 25980,
+          "Title": "תפוז"
+        },
+        {
+          "ID": 26420,
+          "Title": "גמל"
+        },
+        {
+          "ID": 27805,
+          "Title": "מערכת השרירים"
+        },
+        {
+          "ID": 37556,
+          "Title": "אייל קורא"
+        },
+        {
+          "ID": 39727,
+          "Title": "תירס"
+        },
+        {
+          "ID": 41867,
+          "Title": "מקוריתיים"
+        },
+        {
+          "ID": 53154,
+          "Title": "עורבני"
+        },
+        {
+          "ID": 87476,
+          "Title": "לימון"
+        },
+        {
+          "ID": 138319,
+          "Title": "מחזור המים"
+        },
+        {
+          "ID": 165462,
+          "Title": "ג'ינג'י"
+        },
+        {
+          "ID": 168097,
+          "Title": "אננס"
+        },
+        {
+          "ID": 261662,
+          "Title": "ליים"
+        },
+        {
+          "ID": 312504,
+          "Title": "לוח השנה של המאיה"
+        },
+        {
+          "ID": 358590,
+          "Title": "זאבניים"
+        },
+        {
+          "ID": 377588,
+          "Title": "כרובית"
+        },
+        {
+          "ID": 392658,
+          "Title": "קוקר ספניאל"
+        },
+        {
+          "ID": 509878,
+          "Title": "עגבניית שרי"
+        },
+        {
+          "ID": 671230,
+          "Title": "נביטה"
+        },
+        {
+          "ID": 702719,
+          "Title": "אשך"
+        },
+        {
+          "ID": 907207,
+          "Title": "טיגריס לבן"
+        },
+        {
+          "ID": 980787,
+          "Title": "אקליפטוס פיציפוליה"
+        },
+        {
+          "ID": 1112536,
+          "Title": "מערכת התנועה"
+        },
+        {
+          "ID": 1323417,
+          "Title": "אשוחית אנגלמן"
+        },
+        {
+          "ID": 1419967,
+          "Title": "סולה (סוג)"
+        },
+        {
+          "ID": 1420657,
+          "Title": "פלמינגו (סוג)"
+        },
+        {
+          "ID": 1451742,
+          "Title": "קוף עכביש"
+        }
+      ]
+    },
+    {
+      "ID": 2147483643,
+      "Title": "People and self",
+      "Abstract": "A collection of people often refers to a general group, such as all humans, an ethnic group or a nation. An individual person is the self, from his or her own perspective. To you, \"self\" is you. To someone else, \"self\" is that person. A biography is a genre of literature or film, which presents a relatively full account of the most interesting and important events of a notable person's life.\n\nLife or personal life or human existence is an individual human's personal, private experience of living (including their employment career, their family life, and other elements). In prehistoric times, life and existence was based on survival. There was little privacy and a person was identified by their role in the group. In modern times, many people have even come to think of their personal lives as if they are separate from their work. This segmentation of \"life areas\" is evident in such phrases as \"work life\", \"home life\", and \"sex life.\" The meaning or role of a person's \"life\" or \"human existence\" is discussed in many religions and philosophies. In Western industrialized countries, there are a variety of service industries that help people improve their personal lives, such as counselling and life coaching companies",
+      "Categories": [
+        {
+          "ID": 21812,
+          "Title": "קטגוריה:אישים"
+        },
+        {
+          "ID": 167102,
+          "Title": "קטגוריה:שמות משפחה"
+        },
+        {
+          "ID": 181879,
+          "Title": "קטגוריה:דמויות קולנועיות"
+        },
+        {
+          "ID": 356264,
+          "Title": "קטגוריה:אמנים לפי תחום"
+        },
+        {
+          "ID": 1079650,
+          "Title": "קטגוריה:נשים"
+        },
+        {
+          "ID": 1248951,
+          "Title": "קטגוריה:עצמי"
+        }
+      ],
+      "Articles": [
+        {
+          "ID": 560,
+          "Title": "גלילאו גליליי"
+        },
+        {
+          "ID": 564,
+          "Title": "יוהאנס קפלר"
+        },
+        {
+          "ID": 607,
+          "Title": "אלכסנדר פלמינג"
+        },
+        {
+          "ID": 622,
+          "Title": "כריסטופר קולומבוס"
+        },
+        {
+          "ID": 805,
+          "Title": "קרל פרידריך גאוס"
+        },
+        {
+          "ID": 1094,
+          "Title": "אדולף היטלר"
+        },
+        {
+          "ID": 1712,
+          "Title": "ביל גייטס"
+        },
+        {
+          "ID": 1723,
+          "Title": "זיגמונד פרויד"
+        },
+        {
+          "ID": 1785,
+          "Title": "אדם סמית"
+        },
+        {
+          "ID": 6805,
+          "Title": "פיבונאצ'י"
+        },
+        {
+          "ID": 7518,
+          "Title": "קרל סייגן"
+        },
+        {
+          "ID": 7825,
+          "Title": "איין ראנד"
+        },
+        {
+          "ID": 12235,
+          "Title": "נועם חומסקי"
+        },
+        {
+          "ID": 12327,
+          "Title": "ג'ורג' האריסון"
+        },
+        {
+          "ID": 14422,
+          "Title": "רנה דקארט"
+        },
+        {
+          "ID": 14939,
+          "Title": "ריכרד וגנר"
+        },
+        {
+          "ID": 17485,
+          "Title": "ג'ון לנון"
+        },
+        {
+          "ID": 19954,
+          "Title": "לואיס קרול"
+        },
+        {
+          "ID": 27893,
+          "Title": "אוליבר קרומוול"
+        },
+        {
+          "ID": 31125,
+          "Title": "ויליאם בלייק"
+        },
+        {
+          "ID": 37890,
+          "Title": "דניאל רדקליף"
+        },
+        {
+          "ID": 41525,
+          "Title": "תומאס אקווינס"
+        },
+        {
+          "ID": 47689,
+          "Title": "צ'ארלס בבג'"
+        },
+        {
+          "ID": 48810,
+          "Title": "הארי הודיני"
+        },
+        {
+          "ID": 49890,
+          "Title": "סריניוואסה רמנוג'אן"
+        },
+        {
+          "ID": 127937,
+          "Title": "פול וייט ג'וניור"
+        },
+        {
+          "ID": 128502,
+          "Title": "אלטון ג'ון"
+        },
+        {
+          "ID": 129309,
+          "Title": "ריצ'רד דוקינס"
+        },
+        {
+          "ID": 143446,
+          "Title": "חיים סוטין"
+        },
+        {
+          "ID": 216292,
+          "Title": "פלורנס נייטינגייל"
+        },
+        {
+          "ID": 281107,
+          "Title": "אלן טיורינג"
+        },
+        {
+          "ID": 358525,
+          "Title": "אירווינג לאנגמיור"
+        },
+        {
+          "ID": 552959,
+          "Title": "ג'וזף סמית' הבן"
+        },
+        {
+          "ID": 591351,
+          "Title": "דמדומים (רומן)"
+        },
+        {
+          "ID": 812634,
+          "Title": "קורי מונטית'"
+        },
+        {
+          "ID": 850845,
+          "Title": "עוגת בטנברג"
+        },
+        {
+          "ID": 917005,
+          "Title": "אנדרס ברינג בריוויק"
+        },
+        {
+          "ID": 928851,
+          "Title": "קארל פרידריך אבל"
+        },
+        {
+          "ID": 933252,
+          "Title": "תאודור שוואן"
+        },
+        {
+          "ID": 998244,
+          "Title": "שלדון קופר"
+        },
+        {
+          "ID": 1029098,
+          "Title": "אוליב אן ברנס"
+        },
+        {
+          "ID": 1181985,
+          "Title": "טד קרוז"
+        },
+        {
+          "ID": 1451225,
+          "Title": "דורותי ווהן"
+        }
+      ]
+    },
+    {
+      "ID": 2147483644,
+      "Title": "Philosophy and thinking",
+      "Abstract": "Philosophy has almost as many definitions as there have been philosophers, both as a subject matter and an activity, and no simple definition can do it justice. The issue of the definition of philosophy is thus a controversial subject that is nowadays tackled by Metaphilosophy (or the philosophy of philosophy). The word is derived from the ancient Greek words philo-, to love or to befriend, and -sophia, wisdom. Modern usage of the term is much broader; the concept of philosophy encompasses all of knowledge and all that can be known, including the means by which such knowledge can be acquired. However, in the contemporary English-speaking academic world, the term is often used implicitly to refer to analytic philosophy and, in non-English speaking countries, it often refers implicitly to a different, European strain, continental philosophy. The ancient Greeks organized the subject into five basic categories: metaphysics, epistemology, ethics, politics and aesthetics. This organization of the subject is still largely in use in Western philosophy today.\n\nThought or thinking is a mental process which allows beings to model the world, and so to deal with it effectively according to their goals, plans, ends and desires. Words referring to similar concepts and processes in the English language include cognition, sentience, consciousness, idea, and imagination. Thinking involves the cerebral manipulation of information, as when we form concepts, engage in problem solving, reason and make decisions. Thinking is a higher cognitive function and the analysis of thinking processes is part of cognitive psychology",
+      "Categories": [
+        {
+          "ID": 19213,
+          "Title": "קטגוריה:פילוסופיה"
+        },
+        {
+          "ID": 25476,
+          "Title": "קטגוריה:אתיקה"
+        },
+        {
+          "ID": 125567,
+          "Title": "קטגוריה:זרמים בפילוסופיה"
+        },
+        {
+          "ID": 285310,
+          "Title": "קטגוריה:אידאולוגיות"
+        }
+      ],
+      "Articles": [
+        {
+          "ID": 95416,
+          "Title": "אושר"
+        },
+        {
+          "ID": 98632,
+          "Title": "יופי"
+        },
+        {
+          "ID": 338063,
+          "Title": "עובדה"
+        },
+        {
+          "ID": 826766,
+          "Title": "אפקט דאנינג-קרוגר"
+        }
+      ]
+    },
+    {
+      "ID": 2147483645,
+      "Title": "Religion and belief systems",
+      "Abstract": "Religion is the adherence to codified beliefs and rituals that generally involve a faith in a spiritual nature and a study of inherited ancestral traditions, knowledge and wisdom related to understanding human life. The term \"religion\" refers to both the personal practices related to faith as well as to the larger shared systems of belief.\n\nA belief system can refer to a religion or a world view. A world view (or worldview) is a term calqued from the German word Weltanschauung Welt is the German word for 'world,' and Anschauung is the German word for 'view' or 'outlook'. It is a concept fundamental to German philosophy and epistemology and refers to a wide world perception. Additionally, it refers to the framework of ideas and beliefs through which an individual interprets the world and interacts in it",
+      "Categories": [
+        {
+          "ID": 21607,
+          "Title": "קטגוריה:דתות"
+        },
+        {
+          "ID": 22827,
+          "Title": "קטגוריה:מיתולוגיה"
+        },
+        {
+          "ID": 25239,
+          "Title": "קטגוריה:רוחניות ואמונה"
+        },
+        {
+          "ID": 413363,
+          "Title": "קטגוריה:אנתרופולוגיה של הדת"
+        },
+        {
+          "ID": 685487,
+          "Title": "קטגוריה:דת"
+        },
+        {
+          "ID": 705199,
+          "Title": "קטגוריה:חילוניות"
+        }
+      ],
+      "Articles": [
+        {
+          "ID": 261332,
+          "Title": "גרגרנות"
+        }
+      ]
+    },
+    {
+      "ID": 2147483646,
+      "Title": "Society and social sciences",
+      "Abstract": "A society is a group of people who form a semi-closed system. At its simplest, the term society refers to a large group of people sharing their own culture and institutions. A society is a network of relationships between people. The English word society is derived from the French société, which had its origin in the Latin societas, a \"friendly association with others,\" from socius meaning \"companion, associate, comrade or business partner.\" Thus, the meaning of society is closely related to what is considered to be social. Implicit in the meaning of society is that its members may share some mutual concern or interest, a common objective or common characteristics. The social sciences generally use the term society to mean a group of people who form a semi-closed social system, in which most interactions are with other individuals belonging to the group. More abstractly, a society is defined as a network of relationships between social entities. A society is also sometimes defined as an interdependent community, but the sociologist Tönnies sought to draw a contrast between society and community. An important feature of society is social structure, aspects of which include roles and social ranking.\n\nThe social science are a group of academic disciplines that study human aspects of the world. They differ from the arts and the humanities, in that the social science tend to emphasize the use of the scientific method in the study of humanity, including quantitative and qualitative methods",
+      "Categories": [
+        {
+          "ID": 24042,
+          "Title": "קטגוריה:מדעי החברה"
+        },
+        {
+          "ID": 36392,
+          "Title": "קטגוריה:פמיניזם"
+        },
+        {
+          "ID": 80666,
+          "Title": "קטגוריה:ארגונים בינלאומיים"
+        },
+        {
+          "ID": 353812,
+          "Title": "קטגוריה:חברה"
+        },
+        {
+          "ID": 1592502,
+          "Title": "קטגוריה:זכויות"
+        }
+      ],
+      "Articles": [
+        {
+          "ID": 1060,
+          "Title": "האוניברסיטה העברית בירושלים"
+        },
+        {
+          "ID": 5854,
+          "Title": "האיחוד האירופי"
+        },
+        {
+          "ID": 10805,
+          "Title": "ניו יורק טיימס"
+        },
+        {
+          "ID": 11637,
+          "Title": "שעון קיץ"
+        },
+        {
+          "ID": 18709,
+          "Title": "דגל אוסטרליה"
+        },
+        {
+          "ID": 21964,
+          "Title": "אוניברסיטת אוקספורד"
+        },
+        {
+          "ID": 34233,
+          "Title": "אוניברסיטת הרווארד"
+        },
+        {
+          "ID": 49810,
+          "Title": "אוניברסיטת קיימברידג'"
+        },
+        {
+          "ID": 51209,
+          "Title": "אוניברסיטת בולוניה"
+        },
+        {
+          "ID": 63860,
+          "Title": "המכון הטכנולוגי של מסצ'וסטס"
+        },
+        {
+          "ID": 68784,
+          "Title": "סטארבקס"
+        },
+        {
+          "ID": 72849,
+          "Title": "אוניברסיטת קולומביה"
+        },
+        {
+          "ID": 72954,
+          "Title": "אוניברסיטת פרינסטון"
+        },
+        {
+          "ID": 91551,
+          "Title": "עבודה סוציאלית"
+        },
+        {
+          "ID": 94701,
+          "Title": "אוניברסיטת טוקיו"
+        },
+        {
+          "ID": 97989,
+          "Title": "מדינה לכאורה"
+        },
+        {
+          "ID": 105054,
+          "Title": "חוק יובש"
+        },
+        {
+          "ID": 105083,
+          "Title": "התיקון הרביעי לחוקת ארצות הברית"
+        },
+        {
+          "ID": 106606,
+          "Title": "אוניברסיטת שיקגו"
+        },
+        {
+          "ID": 107874,
+          "Title": "טאקו בל"
+        },
+        {
+          "ID": 127117,
+          "Title": "דומינו'ס פיצה"
+        },
+        {
+          "ID": 143392,
+          "Title": "אוניברסיטת גטינגן"
+        },
+        {
+          "ID": 200289,
+          "Title": "אוניברסיטת מינסטר"
+        },
+        {
+          "ID": 217782,
+          "Title": "אוניברסיטת ווטרלו"
+        },
+        {
+          "ID": 218455,
+          "Title": "אוניברסיטת סטנפורד"
+        },
+        {
+          "ID": 221593,
+          "Title": "אוניברסיטת פנסילבניה"
+        },
+        {
+          "ID": 222510,
+          "Title": "אוניברסיטת וינה"
+        },
+        {
+          "ID": 273219,
+          "Title": "פוקס ניוז"
+        },
+        {
+          "ID": 292818,
+          "Title": "אוניברסיטת מוסקבה"
+        },
+        {
+          "ID": 293978,
+          "Title": "אוניברסיטת סנקט פטרבורג"
+        },
+        {
+          "ID": 323575,
+          "Title": "פיצה האט"
+        },
+        {
+          "ID": 330439,
+          "Title": "אמריקן איירליינס"
+        },
+        {
+          "ID": 347620,
+          "Title": "מלחמת עולם שלישית"
+        },
+        {
+          "ID": 355310,
+          "Title": "אוניברסיטת בריסטול"
+        },
+        {
+          "ID": 366402,
+          "Title": "חברת וילי וונקה"
+        },
+        {
+          "ID": 367902,
+          "Title": "BP"
+        },
+        {
+          "ID": 386918,
+          "Title": "אוניברסיטת אורגון"
+        },
+        {
+          "ID": 387629,
+          "Title": "אוניברסיטת ליברפול"
+        },
+        {
+          "ID": 388182,
+          "Title": "אוניברסיטת וושינגטון בסנט לואיס"
+        },
+        {
+          "ID": 399342,
+          "Title": "אוניברסיטת טנסי"
+        },
+        {
+          "ID": 403788,
+          "Title": "אוניברסיטת לייפציג"
+        },
+        {
+          "ID": 437734,
+          "Title": "אוניברסיטת טהראן"
+        },
+        {
+          "ID": 475065,
+          "Title": "אוניברסיטת אופסלה"
+        },
+        {
+          "ID": 485790,
+          "Title": "אוניברסיטת וירג'יניה"
+        },
+        {
+          "ID": 496813,
+          "Title": "אוניברסיטת מישיגן"
+        },
+        {
+          "ID": 497771,
+          "Title": "אוניברסיטת בוסטון"
+        },
+        {
+          "ID": 500279,
+          "Title": "אוניברסיטת ברן"
+        },
+        {
+          "ID": 538251,
+          "Title": "אוניברסיטת לונדון"
+        },
+        {
+          "ID": 565022,
+          "Title": "אוניברסיטת טיבינגן"
+        },
+        {
+          "ID": 588635,
+          "Title": "אוניברסיטת פדובה"
+        },
+        {
+          "ID": 590471,
+          "Title": "אוניברסיטת אריזונה"
+        },
+        {
+          "ID": 592059,
+          "Title": "אוניברסיטת אוקלנד"
+        },
+        {
+          "ID": 593164,
+          "Title": "אימפריאל קולג'"
+        },
+        {
+          "ID": 623241,
+          "Title": "אוניברסיטת טקסס באוסטין"
+        },
+        {
+          "ID": 636026,
+          "Title": "אוניברסיטת פרארה"
+        },
+        {
+          "ID": 680833,
+          "Title": "אוניברסיטת דרום קליפורניה"
+        },
+        {
+          "ID": 698421,
+          "Title": "האוניברסיטה הלאומית של אוסטרליה"
+        },
+        {
+          "ID": 698993,
+          "Title": "אוניברסיטת טרטו"
+        },
+        {
+          "ID": 707216,
+          "Title": "אוניברסיטת בון"
+        },
+        {
+          "ID": 709361,
+          "Title": "סורבון"
+        },
+        {
+          "ID": 718288,
+          "Title": "אוניברסיטת קווינסלנד"
+        },
+        {
+          "ID": 759695,
+          "Title": "אוניברסיטת ירדן"
+        },
+        {
+          "ID": 769040,
+          "Title": "אוניברסיטת מנצ'סטר"
+        },
+        {
+          "ID": 776155,
+          "Title": "אוניברסיטת אינדיאנה"
+        },
+        {
+          "ID": 786744,
+          "Title": "כלכלת איראן"
+        },
+        {
+          "ID": 791972,
+          "Title": "אוניברסיטת קלן"
+        },
+        {
+          "ID": 810668,
+          "Title": "אוניברסיטת אברדין"
+        },
+        {
+          "ID": 811270,
+          "Title": "אוניברסיטת נאפולי פדריקו השני"
+        },
+        {
+          "ID": 823159,
+          "Title": "אוניברסיטת סידני"
+        },
+        {
+          "ID": 823995,
+          "Title": "אוניברסיטה ציבורית"
+        },
+        {
+          "ID": 844600,
+          "Title": "אוניברסיטת מינסוטה"
+        },
+        {
+          "ID": 898084,
+          "Title": "אוניברסיטת סנט אנדרוז"
+        },
+        {
+          "ID": 930516,
+          "Title": "אוניברסיטת וושינגטון"
+        },
+        {
+          "ID": 957599,
+          "Title": "ראש השנה הסינית"
+        },
+        {
+          "ID": 988315,
+          "Title": "אוניברסיטת מרילנד"
+        },
+        {
+          "ID": 1053245,
+          "Title": "אוניברסיטת איווה"
+        },
+        {
+          "ID": 1078952,
+          "Title": "התוכנית הסביבתית של האו\"ם"
+        },
+        {
+          "ID": 1081220,
+          "Title": "אוניברסיטה לאומית"
+        },
+        {
+          "ID": 1113016,
+          "Title": "אוניברסיטת העיר ניו יורק"
+        },
+        {
+          "ID": 1151290,
+          "Title": "אוניברסיטת לסטר"
+        },
+        {
+          "ID": 1201713,
+          "Title": "אוניברסיטת פרייבורג"
+        },
+        {
+          "ID": 1210297,
+          "Title": "אוניברסיטת אוטגו"
+        },
+        {
+          "ID": 1222499,
+          "Title": "אוניברסיטת וירצבורג"
+        },
+        {
+          "ID": 1223917,
+          "Title": "אוניברסיטת בואזיצ'י"
+        },
+        {
+          "ID": 1240676,
+          "Title": "אוניברסיטת המדינה של אוהיו"
+        },
+        {
+          "ID": 1278462,
+          "Title": "אוניברסיטת אקסטר"
+        },
+        {
+          "ID": 1288434,
+          "Title": "אוניברסיטת מיזורי"
+        },
+        {
+          "ID": 1292061,
+          "Title": "אוניברסיטת יאשי"
+        },
+        {
+          "ID": 1381238,
+          "Title": "אוניברסיטת אלבמה"
+        },
+        {
+          "ID": 1384819,
+          "Title": "טיימס אוף אינדיה"
+        },
+        {
+          "ID": 1396098,
+          "Title": "הארכיון הלאומי של ארצות הברית"
+        },
+        {
+          "ID": 1411784,
+          "Title": "אוניברסיטת לינשפינג"
+        },
+        {
+          "ID": 1438628,
+          "Title": "אוניברסיטת נוטינגהאם"
+        },
+        {
+          "ID": 1469961,
+          "Title": "הפיגוע בווסטמינסטר (2017)"
+        },
+        {
+          "ID": 1477587,
+          "Title": "אוניברסיטת לבוב"
+        },
+        {
+          "ID": 1515721,
+          "Title": "אוניברסיטת רייס"
+        },
+        {
+          "ID": 1524458,
+          "Title": "אוניברסיטת שפילד"
+        },
+        {
+          "ID": 1551680,
+          "Title": "אוניברסיטת וורוויק"
+        },
+        {
+          "ID": 1572802,
+          "Title": "אוניברסיטת גלאזגו"
+        },
+        {
+          "ID": 1665739,
+          "Title": "אוניברסיטת סטוקהולם"
+        }
+      ]
+    },
+    {
+      "ID": 2147483647,
+      "Title": "Technology and applied sciences",
+      "Abstract": "Technology is an expanded concept that deals with a species' usage and knowledge of tools and crafts, and how it affects a species' ability to control and adapt to its environment. In human civilization, it is a consequence of science and engineering, although several technological advances predate the formalization of these two disciplines. The term can either be applied generally or to specific areas – examples include construction technology, medical technology, or state-of-the-art technology.\n\nThe human race's use of technology began with the conversion of plentiful natural resources into simple tools. The prehistorical discovery of the ability to control fire increased the available sources of food, and the invention of the wheel helped humans in travelling in and controlling their environment. Recent technological developments, including the printing press and the Internet, have lessened physical barriers to communication and allowed humans to interact on a global scale. However, not all technology has been used for peaceful purposes; the development of weapons of ever-increasing destructive power has progressed throughout history, from clubs to nuclear bombs.\n\nApplied science is the application of knowledge from one or more natural scientific fields to solving practical problems. For example, fields of engineering are applied sciences. Applied science is important for technology development. Its use in industrial settings is usually referred to as research and development (R\u0026D)",
+      "Categories": [
+        {
+          "ID": 19165,
+          "Title": "קטגוריה:מדעי המחשב"
+        },
+        {
+          "ID": 21728,
+          "Title": "קטגוריה:טכנולוגיה"
+        },
+        {
+          "ID": 23097,
+          "Title": "קטגוריה:תחבורה"
+        },
+        {
+          "ID": 25610,
+          "Title": "קטגוריה:אלקטרוניקה"
+        },
+        {
+          "ID": 25612,
+          "Title": "קטגוריה:הנדסה"
+        },
+        {
+          "ID": 26364,
+          "Title": "קטגוריה:אינטרנט"
+        },
+        {
+          "ID": 86091,
+          "Title": "קטגוריה:עיצוב"
+        },
+        {
+          "ID": 281954,
+          "Title": "קטגוריה:מחשוב"
+        },
+        {
+          "ID": 545962,
+          "Title": "קטגוריה:טכנולוגיה לפי שימוש"
+        },
+        {
+          "ID": 676680,
+          "Title": "קטגוריה:מדע שימושי"
+        },
+        {
+          "ID": 1604090,
+          "Title": "קטגוריה:ציוד צבאי"
+        }
+      ],
+      "Articles": [
+        {
+          "ID": 221616,
+          "Title": "מסטיק"
+        },
+        {
+          "ID": 275280,
+          "Title": "פפסי"
+        },
+        {
+          "ID": 327527,
+          "Title": "בנייה בלבנים"
+        },
+        {
+          "ID": 358634,
+          "Title": "קיר"
+        },
+        {
+          "ID": 603308,
+          "Title": "אופה לחם"
+        },
+        {
+          "ID": 1198742,
+          "Title": ".xxx"
+        }
+      ]
+    }
+  ],
+  "Filters": [
+    {
+      "ID": 26446,
+      "Title": "קטגוריה:פירושונים"
+    },
+    {
+      "ID": 504284,
+      "Title": "קטגוריה:קטגוריות מוסתרות"
+    }
+  ]
+}

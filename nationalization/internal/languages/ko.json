@@ -1,0 +1,1972 @@
+{
+  "Language": "ko",
+  "Topics": [
+    {
+      "ID": 2147483637,
+      "Title": "Culture and the arts",
+      "Abstract": "The word culture is derived from the Latin root cultura or cultus meaning to \"inhabit, cultivate, or honour\". In general, culture refers to human activity; different definitions of culture reflect different theories for understanding, or criteria for valuing human activity. Present day Anthropologists use the term to refer to the universal human capacity to classify experiences and to encode and communicate them symbolically. They regard this capacity as a defining feature of the genus Homo. Since culture is learned, people living in different places have different cultures. There can be different cultures in different countries, and there can also be shared cultures among continents.\n\nThe arts are a vast subdivision of culture, composed of many creative endeavors and disciplines. It is a broader term than \"art,\" which as a description of a field usually means only the visual arts. The arts encompasses visual arts, literary arts and the performing arts - music, theatre, dance, spoken word and film, among others.\n\nArt, in its broadest meaning, is the expression of creativity or imagination. The word art comes from the Latin word ars, which, loosely translated, means \"arrangement\". Art is commonly understood as the act of making works (or artworks) which use the human creative impulse and which have meaning beyond simple description. Art is often distinguished from crafts and recreational hobby activities. The term creative arts denotes a collection of disciplines whose principal purpose is the output of material for the viewer or audience to interpret. As such, art may be taken to include forms as diverse as prose writing, poetry, dance, acting or drama, film, music, sculpture, photography, illustration, architecture, collage, painting, craft and fashion. Art may also be understood as relating to creativity, æsthetics and the generation of emotion",
+      "Categories": [
+        {
+          "ID": 4393,
+          "Title": "분류:예술"
+        },
+        {
+          "ID": 8865,
+          "Title": "분류:스포츠"
+        },
+        {
+          "ID": 11876,
+          "Title": "분류:문화"
+        },
+        {
+          "ID": 15592,
+          "Title": "분류:요리"
+        },
+        {
+          "ID": 15625,
+          "Title": "분류:오락"
+        },
+        {
+          "ID": 38639,
+          "Title": "분류:취미"
+        },
+        {
+          "ID": 102146,
+          "Title": "분류:영화 작품"
+        },
+        {
+          "ID": 107193,
+          "Title": "분류:음악 그룹"
+        },
+        {
+          "ID": 156956,
+          "Title": "분류:레크리에이션"
+        },
+        {
+          "ID": 507263,
+          "Title": "분류:식품"
+        }
+      ],
+      "Articles": [
+        {
+          "ID": 145,
+          "Title": "위키백과"
+        },
+        {
+          "ID": 453,
+          "Title": "백과사전"
+        },
+        {
+          "ID": 2351,
+          "Title": "록 밴드 (비디오 게임)"
+        },
+        {
+          "ID": 3755,
+          "Title": "맥주"
+        },
+        {
+          "ID": 11009,
+          "Title": "쿠키"
+        },
+        {
+          "ID": 15907,
+          "Title": "커피"
+        },
+        {
+          "ID": 44293,
+          "Title": "초콜릿"
+        },
+        {
+          "ID": 56081,
+          "Title": "AC/DC"
+        },
+        {
+          "ID": 56248,
+          "Title": "레드 제플린"
+        },
+        {
+          "ID": 66498,
+          "Title": "빵"
+        },
+        {
+          "ID": 72061,
+          "Title": "피자"
+        },
+        {
+          "ID": 75429,
+          "Title": "그린 데이"
+        },
+        {
+          "ID": 82623,
+          "Title": "케이크"
+        },
+        {
+          "ID": 84720,
+          "Title": "핫도그"
+        },
+        {
+          "ID": 87923,
+          "Title": "월드 팩트북"
+        },
+        {
+          "ID": 93072,
+          "Title": "아쿠아 (밴드)"
+        },
+        {
+          "ID": 100056,
+          "Title": "호그와트"
+        },
+        {
+          "ID": 108165,
+          "Title": "베이컨"
+        },
+        {
+          "ID": 108294,
+          "Title": "달라"
+        },
+        {
+          "ID": 112417,
+          "Title": "네스호의 괴물"
+        },
+        {
+          "ID": 113139,
+          "Title": "버킹엄궁"
+        },
+        {
+          "ID": 123618,
+          "Title": "펠라티오"
+        },
+        {
+          "ID": 144026,
+          "Title": "금욕"
+        },
+        {
+          "ID": 145290,
+          "Title": "피테팔트"
+        },
+        {
+          "ID": 146700,
+          "Title": "볶음밥"
+        },
+        {
+          "ID": 151386,
+          "Title": "파스타"
+        },
+        {
+          "ID": 151627,
+          "Title": "햄"
+        },
+        {
+          "ID": 152348,
+          "Title": "포춘 쿠키"
+        },
+        {
+          "ID": 166857,
+          "Title": "그라운드호그 데이"
+        },
+        {
+          "ID": 167815,
+          "Title": "사실주의"
+        },
+        {
+          "ID": 191854,
+          "Title": "화이트 초콜릿"
+        },
+        {
+          "ID": 215803,
+          "Title": "카르보나라"
+        },
+        {
+          "ID": 229325,
+          "Title": "타코"
+        },
+        {
+          "ID": 258279,
+          "Title": "초콜릿 칩"
+        },
+        {
+          "ID": 260450,
+          "Title": "스펀지 케이크"
+        },
+        {
+          "ID": 286013,
+          "Title": "스트리트댄스"
+        },
+        {
+          "ID": 286350,
+          "Title": "항얀벵"
+        },
+        {
+          "ID": 328181,
+          "Title": "토마토 소스"
+        },
+        {
+          "ID": 519040,
+          "Title": "웨딩 케이크"
+        },
+        {
+          "ID": 521996,
+          "Title": "젤라토"
+        },
+        {
+          "ID": 541839,
+          "Title": "땅콩버터"
+        },
+        {
+          "ID": 541845,
+          "Title": "사과 소스"
+        },
+        {
+          "ID": 554667,
+          "Title": "달걀 프라이"
+        },
+        {
+          "ID": 562179,
+          "Title": "하와이안 피자"
+        },
+        {
+          "ID": 564721,
+          "Title": "수플리"
+        },
+        {
+          "ID": 570030,
+          "Title": "삶은 달걀"
+        },
+        {
+          "ID": 576569,
+          "Title": "한지우 (포켓몬스터)"
+        },
+        {
+          "ID": 617553,
+          "Title": "로봇 (2010년 영화)"
+        },
+        {
+          "ID": 619171,
+          "Title": "피단"
+        },
+        {
+          "ID": 625181,
+          "Title": "앵그리버드 리오"
+        },
+        {
+          "ID": 642165,
+          "Title": "Judas"
+        },
+        {
+          "ID": 650682,
+          "Title": "초콜릿 우유"
+        },
+        {
+          "ID": 650689,
+          "Title": "핫초콜릿"
+        },
+        {
+          "ID": 657980,
+          "Title": "파스타 에 파졸리"
+        },
+        {
+          "ID": 679605,
+          "Title": "M\u0026M's"
+        },
+        {
+          "ID": 688139,
+          "Title": "푸지"
+        },
+        {
+          "ID": 688141,
+          "Title": "제멜리"
+        },
+        {
+          "ID": 688146,
+          "Title": "란테르네"
+        },
+        {
+          "ID": 688356,
+          "Title": "로텔레"
+        },
+        {
+          "ID": 688357,
+          "Title": "로티니"
+        },
+        {
+          "ID": 689131,
+          "Title": "파스타 샐러드"
+        },
+        {
+          "ID": 689529,
+          "Title": "앵그리버드 시즌스"
+        },
+        {
+          "ID": 692521,
+          "Title": "Sgt. Pepper's Lonely Hearts Club Band"
+        },
+        {
+          "ID": 700811,
+          "Title": "순결"
+        },
+        {
+          "ID": 721629,
+          "Title": "모드레드"
+        },
+        {
+          "ID": 734912,
+          "Title": "바나나빵"
+        },
+        {
+          "ID": 760502,
+          "Title": "다이너소어 주니어"
+        },
+        {
+          "ID": 770102,
+          "Title": "아카시야키"
+        },
+        {
+          "ID": 808681,
+          "Title": "저알코올 음료"
+        },
+        {
+          "ID": 837082,
+          "Title": "토마토 수프"
+        },
+        {
+          "ID": 844152,
+          "Title": "더 원티드"
+        },
+        {
+          "ID": 873248,
+          "Title": "바인 바오"
+        },
+        {
+          "ID": 880801,
+          "Title": "써커 펀치"
+        },
+        {
+          "ID": 908662,
+          "Title": "카카오 매스"
+        },
+        {
+          "ID": 966848,
+          "Title": "식빵"
+        },
+        {
+          "ID": 1001617,
+          "Title": "필스너"
+        },
+        {
+          "ID": 1028736,
+          "Title": "훈제란"
+        },
+        {
+          "ID": 1028837,
+          "Title": "WWE 챔피언십"
+        },
+        {
+          "ID": 1032962,
+          "Title": "카오 팟"
+        },
+        {
+          "ID": 1056384,
+          "Title": "하츠네 미쿠 and Future Stars Project mirai"
+        },
+        {
+          "ID": 1058310,
+          "Title": "플래피 버드"
+        },
+        {
+          "ID": 1068408,
+          "Title": "브라 (치즈)"
+        },
+        {
+          "ID": 1068753,
+          "Title": "카초 에 페페"
+        },
+        {
+          "ID": 1069051,
+          "Title": "파스타 프리마베라"
+        },
+        {
+          "ID": 1069870,
+          "Title": "카폰 마그로"
+        },
+        {
+          "ID": 1069890,
+          "Title": "브루티보니"
+        },
+        {
+          "ID": 1069955,
+          "Title": "파스타 알 포모도로"
+        },
+        {
+          "ID": 1069968,
+          "Title": "바스테다"
+        },
+        {
+          "ID": 1093174,
+          "Title": "초코 칩 쿠키"
+        },
+        {
+          "ID": 1230024,
+          "Title": "코피아 페라레세"
+        },
+        {
+          "ID": 1239495,
+          "Title": "소다빵"
+        },
+        {
+          "ID": 1240414,
+          "Title": "호랑이빵"
+        },
+        {
+          "ID": 1240724,
+          "Title": "비엔나 빵"
+        },
+        {
+          "ID": 1293765,
+          "Title": "플로이드 메이웨더 주니어 대 매니 파키아오"
+        },
+        {
+          "ID": 1306003,
+          "Title": "레이어 케이크"
+        },
+        {
+          "ID": 1332119,
+          "Title": "초콜릿 바"
+        },
+        {
+          "ID": 1332983,
+          "Title": "피케이: 별에서 온 얼간이"
+        },
+        {
+          "ID": 1337776,
+          "Title": "앵그리버드 (비디오 게임)"
+        },
+        {
+          "ID": 1359661,
+          "Title": "생맥주"
+        },
+        {
+          "ID": 1362620,
+          "Title": "워 룸 (2015년 영화)"
+        },
+        {
+          "ID": 1578575,
+          "Title": "푸페이귄"
+        },
+        {
+          "ID": 1590026,
+          "Title": "셴야단"
+        },
+        {
+          "ID": 1590028,
+          "Title": "알 (식품)"
+        },
+        {
+          "ID": 1773023,
+          "Title": "유로비전 송 콘테스트 2017"
+        },
+        {
+          "ID": 1800070,
+          "Title": "예잡고"
+        },
+        {
+          "ID": 1808700,
+          "Title": "공부 방법"
+        },
+        {
+          "ID": 1821985,
+          "Title": "커피 소스"
+        },
+        {
+          "ID": 1836099,
+          "Title": "치킨 티카 마살라"
+        },
+        {
+          "ID": 1838228,
+          "Title": "시카고식 피자"
+        },
+        {
+          "ID": 1871227,
+          "Title": "수란"
+        },
+        {
+          "ID": 1983302,
+          "Title": "볶음국수"
+        },
+        {
+          "ID": 2023275,
+          "Title": "갈색빵"
+        }
+      ]
+    },
+    {
+      "ID": 2147483638,
+      "Title": "Geography and places",
+      "Abstract": "Geography (Greek Geo (γη) or Gaea (γαία), meaning \"Earth\", and graphein (γράφειν) meaning \"to describe\" or \"to write\") is the study of the earth and its features, inhabitants, and phenomena. A literal translation would be \"to describe or write about the Earth\". The first person to use the word \"geography\" was Eratosthenes (275-195 B.C.). Four historical traditions in geographical research are the spatial analysis of natural and human phenomena (geography as a study of distribution), area studies (places and regions), study of man-land relationship, and research in earth sciences. Nonetheless, modern geography is an all-encompassing discipline that foremost seeks to understand the world and all of its human and natural complexities — not merely where objects are, but how they have changed and come to be. As \"the bridge between the human and physical sciences,\" geography is divided into two main branches — human geography and physical geography",
+      "Categories": [
+        {
+          "ID": 8922,
+          "Title": "분류:지리"
+        },
+        {
+          "ID": 89153,
+          "Title": "분류:도시 계획"
+        },
+        {
+          "ID": 154042,
+          "Title": "분류:지역별 통화"
+        },
+        {
+          "ID": 289046,
+          "Title": "분류:장소"
+        },
+        {
+          "ID": 397698,
+          "Title": "분류:지형학"
+        },
+        {
+          "ID": 597518,
+          "Title": "분류:지리에 관한 목록"
+        }
+      ],
+      "Articles": [
+        {
+          "ID": 7567,
+          "Title": "파리 (프랑스)"
+        },
+        {
+          "ID": 9280,
+          "Title": "미얀마"
+        },
+        {
+          "ID": 11770,
+          "Title": "베네치아"
+        },
+        {
+          "ID": 22888,
+          "Title": "퀸즐랜드주"
+        },
+        {
+          "ID": 28845,
+          "Title": "캔버라"
+        },
+        {
+          "ID": 76383,
+          "Title": "바운더리 거리"
+        },
+        {
+          "ID": 593645,
+          "Title": "만달레이 언덕"
+        },
+        {
+          "ID": 806631,
+          "Title": "칼즈배드 (뉴멕시코주)"
+        }
+      ]
+    },
+    {
+      "ID": 2147483639,
+      "Title": "Health and fitness",
+      "Abstract": "Health is the level of functional or metabolic efficiency of a living organism. In humans it is the ability of individuals or communities to adapt and self-manage when facing physical, mental or social challenges. The most widely accepted definition of good health is that of the World Health Organization Constitution. It states: \"health is a state of complete physical, mental and social well-being and is not merely the absence of disease or infirmity\" (World Health Organization, 1946). In more recent years, this statement has been amplified to include the ability to lead a \"socially and economically productive life.\" The WHO definition is not without criticism, mainly that it is much too broad.\n\nThe most solid aspects of wellness that fit firmly in the realm of medicine are environmental health, nutrition, disease prevention, and public health. These matters can be investigated at length and can assist in measuring well-being. Please see our medical disclaimer for cautions about Wikipedia's limitations",
+      "Categories": [
+        {
+          "ID": 11731,
+          "Title": "분류:의학"
+        },
+        {
+          "ID": 48482,
+          "Title": "분류:의학 분야"
+        },
+        {
+          "ID": 48996,
+          "Title": "분류:건강"
+        },
+        {
+          "ID": 66262,
+          "Title": "분류:유전병"
+        },
+        {
+          "ID": 131172,
+          "Title": "분류:위생"
+        },
+        {
+          "ID": 274293,
+          "Title": "분류:의료 관련 직업"
+        },
+        {
+          "ID": 595685,
+          "Title": "분류:건강과학"
+        }
+      ],
+      "Articles": [
+        {
+          "ID": 1423378,
+          "Title": "자율 감각 쾌락 반응"
+        }
+      ]
+    },
+    {
+      "ID": 2147483640,
+      "Title": "History and events",
+      "Abstract": "History is the interpretation of past events, societies and civilizations. The term history comes from the Greek historia (ἱστορία), \"an account of one's inquiries,\" and shares that etymology with the English word story as narrative. The 1911 Encyclopædia Britannica stated that \"history in the wider sense is all that has happened, not merely all the phenomena of human life, but those of the natural world as well. It is everything that undergoes change; and as modern science has shown that there is nothing absolutely static, therefore, the whole universe, and every part of it, has its history.\" ",
+      "Categories": [
+        {
+          "ID": 8923,
+          "Title": "분류:역사"
+        },
+        {
+          "ID": 22671,
+          "Title": "분류:나라별 역사"
+        },
+        {
+          "ID": 23502,
+          "Title": "분류:기념일"
+        },
+        {
+          "ID": 65441,
+          "Title": "분류:연도별 선거"
+        },
+        {
+          "ID": 254852,
+          "Title": "분류:사건"
+        }
+      ],
+      "Articles": [
+        {
+          "ID": 1430,
+          "Title": "9·11 테러"
+        },
+        {
+          "ID": 7568,
+          "Title": "트로이아 전쟁"
+        },
+        {
+          "ID": 483915,
+          "Title": "딥워터 허라이즌 기름 유출 사고"
+        },
+        {
+          "ID": 616693,
+          "Title": "도호쿠 지방 태평양 해역 지진"
+        },
+        {
+          "ID": 699571,
+          "Title": "2012년 미국 대통령 선거"
+        },
+        {
+          "ID": 739001,
+          "Title": "홀로코스트 부정론"
+        },
+        {
+          "ID": 818217,
+          "Title": "2012년 오로라 총기 난사 사건"
+        },
+        {
+          "ID": 962040,
+          "Title": "공유지 조례 (1785년)"
+        },
+        {
+          "ID": 1510864,
+          "Title": "2016년 올랜도 나이트클럽 총기 난사 사건"
+        },
+        {
+          "ID": 2299627,
+          "Title": "하람베 (고릴라)"
+        }
+      ]
+    },
+    {
+      "ID": 2147483641,
+      "Title": "Mathematics and logic",
+      "Abstract": "Mathematics is the science of quantization. It is also the study of patterns and relationships, including concepts such as quantity, structure, space, uncertainty, and change. It evolved through the use of abstraction and logical reasoning, from counting, calculation, measurement, and the systematic study of positions, shapes and motions of physical objects. Mathematicians explore such concepts, aiming to formulate new conjectures and establish their truth by rigorous deduction from appropriately chosen axioms and definitions.\n\nLogic (from Classical Greek λόγος logos; meaning word, thought, idea, argument, account, reason or principle) is the study of the principles and criteria of valid inference and demonstration. As a formal science, logic investigates and classifies the structure of statements and arguments, both through the study of formal systems of inference and through the study of arguments in natural language. The field of logic ranges from core topics such as the study of fallacies and paradoxes, to specialized analysis of reasoning using probability and to arguments involving causality. Logic is also commonly used today in argumentation theory. Since the mid-nineteenth century formal logic has been studied in the context of the foundations of mathematics",
+      "Categories": [
+        {
+          "ID": 8550,
+          "Title": "분류:수학"
+        },
+        {
+          "ID": 15144,
+          "Title": "분류:통계학"
+        },
+        {
+          "ID": 19756,
+          "Title": "분류:응용수학"
+        },
+        {
+          "ID": 32963,
+          "Title": "분류:확률과 통계"
+        },
+        {
+          "ID": 50766,
+          "Title": "분류:논리학"
+        },
+        {
+          "ID": 159928,
+          "Title": "분류:이론 전산학"
+        },
+        {
+          "ID": 837868,
+          "Title": "분류:수학의 분과"
+        },
+        {
+          "ID": 1797372,
+          "Title": "분류:수학 개념"
+        }
+      ],
+      "Articles": [
+        {
+          "ID": 21486,
+          "Title": "길이"
+        }
+      ]
+    },
+    {
+      "ID": 2147483642,
+      "Title": "Nature and physical sciences",
+      "Abstract": "The term nature is derived from the Latin word natura, or \"essential qualities, innate disposition\". Natura is a Latin translation of the Greek word physis (φύσις), which originally related to the intrinsic characteristics that plants, animals, and other features of the world develop of their own accord. The concept of nature as a whole, all matter and energy in the universe, is one of several expansions of the original notion.\n\nPhysical science is an encompassing term for the branches of natural science, and science, that study non-living systems, in contrast to the biological sciences. However, the term \"physical\" creates an involuntary, somewhat arbitrary distinction, since many branches of physical science also study biological phenomena",
+      "Categories": [
+        {
+          "ID": 10480,
+          "Title": "분류:과학"
+        },
+        {
+          "ID": 10482,
+          "Title": "분류:물리학"
+        },
+        {
+          "ID": 12062,
+          "Title": "분류:화학"
+        },
+        {
+          "ID": 12309,
+          "Title": "분류:동물학"
+        },
+        {
+          "ID": 27944,
+          "Title": "분류:자연"
+        },
+        {
+          "ID": 31627,
+          "Title": "분류:화합물"
+        },
+        {
+          "ID": 112145,
+          "Title": "분류:환경과학"
+        },
+        {
+          "ID": 168591,
+          "Title": "분류:자연과학"
+        },
+        {
+          "ID": 262598,
+          "Title": "분류:재난"
+        },
+        {
+          "ID": 734118,
+          "Title": "분류:대륙별 동물상"
+        },
+        {
+          "ID": 1285766,
+          "Title": "분류:물상과학"
+        }
+      ],
+      "Articles": [
+        {
+          "ID": 5581,
+          "Title": "불"
+        },
+        {
+          "ID": 8046,
+          "Title": "낙타"
+        },
+        {
+          "ID": 23366,
+          "Title": "쌀"
+        },
+        {
+          "ID": 29250,
+          "Title": "호사도요과"
+        },
+        {
+          "ID": 46929,
+          "Title": "딸기"
+        },
+        {
+          "ID": 47895,
+          "Title": "자위행위"
+        },
+        {
+          "ID": 71350,
+          "Title": "라임"
+        },
+        {
+          "ID": 77672,
+          "Title": "밀"
+        },
+        {
+          "ID": 96378,
+          "Title": "레몬"
+        },
+        {
+          "ID": 96397,
+          "Title": "당귤나무"
+        },
+        {
+          "ID": 103727,
+          "Title": "흰호랑이"
+        },
+        {
+          "ID": 110197,
+          "Title": "보색"
+        },
+        {
+          "ID": 120907,
+          "Title": "얼가니새"
+        },
+        {
+          "ID": 128079,
+          "Title": "오줌"
+        },
+        {
+          "ID": 129417,
+          "Title": "옥수수"
+        },
+        {
+          "ID": 148759,
+          "Title": "파인애플"
+        },
+        {
+          "ID": 215911,
+          "Title": "물의 순환"
+        },
+        {
+          "ID": 255492,
+          "Title": "먹이 사슬"
+        },
+        {
+          "ID": 255822,
+          "Title": "말코손바닥사슴"
+        },
+        {
+          "ID": 278442,
+          "Title": "홍학"
+        },
+        {
+          "ID": 292514,
+          "Title": "고환"
+        },
+        {
+          "ID": 317307,
+          "Title": "거미원숭이"
+        },
+        {
+          "ID": 347129,
+          "Title": "현탁액"
+        },
+        {
+          "ID": 368459,
+          "Title": "대서양고등어"
+        },
+        {
+          "ID": 373069,
+          "Title": "찹쌀"
+        },
+        {
+          "ID": 374574,
+          "Title": "마야 달력"
+        },
+        {
+          "ID": 424936,
+          "Title": "방울토마토"
+        },
+        {
+          "ID": 587531,
+          "Title": "코커 스패니얼"
+        },
+        {
+          "ID": 867255,
+          "Title": "발아"
+        },
+        {
+          "ID": 877803,
+          "Title": "콜리플라워"
+        },
+        {
+          "ID": 964258,
+          "Title": "적모"
+        },
+        {
+          "ID": 1089881,
+          "Title": "근육계통"
+        },
+        {
+          "ID": 1168917,
+          "Title": "청개구리과"
+        },
+        {
+          "ID": 1405270,
+          "Title": "왕겨"
+        },
+        {
+          "ID": 1814833,
+          "Title": "음경"
+        },
+        {
+          "ID": 1844145,
+          "Title": "오렌지"
+        },
+        {
+          "ID": 1890557,
+          "Title": "망고"
+        },
+        {
+          "ID": 2304989,
+          "Title": "우족"
+        }
+      ]
+    },
+    {
+      "ID": 2147483643,
+      "Title": "People and self",
+      "Abstract": "A collection of people often refers to a general group, such as all humans, an ethnic group or a nation. An individual person is the self, from his or her own perspective. To you, \"self\" is you. To someone else, \"self\" is that person. A biography is a genre of literature or film, which presents a relatively full account of the most interesting and important events of a notable person's life.\n\nLife or personal life or human existence is an individual human's personal, private experience of living (including their employment career, their family life, and other elements). In prehistoric times, life and existence was based on survival. There was little privacy and a person was identified by their role in the group. In modern times, many people have even come to think of their personal lives as if they are separate from their work. This segmentation of \"life areas\" is evident in such phrases as \"work life\", \"home life\", and \"sex life.\" The meaning or role of a person's \"life\" or \"human existence\" is discussed in many religions and philosophies. In Western industrialized countries, there are a variety of service industries that help people improve their personal lives, such as counselling and life coaching companies",
+      "Categories": [
+        {
+          "ID": 15596,
+          "Title": "분류:생활"
+        },
+        {
+          "ID": 37928,
+          "Title": "분류:사람"
+        },
+        {
+          "ID": 81899,
+          "Title": "분류:여성"
+        },
+        {
+          "ID": 84383,
+          "Title": "분류:자아"
+        },
+        {
+          "ID": 117146,
+          "Title": "분류:영화 등장인물"
+        },
+        {
+          "ID": 315055,
+          "Title": "분류:성씨"
+        },
+        {
+          "ID": 1459748,
+          "Title": "분류:매체별 미술가"
+        }
+      ],
+      "Articles": [
+        {
+          "ID": 339,
+          "Title": "리처드 도킨스"
+        },
+        {
+          "ID": 760,
+          "Title": "빌 게이츠"
+        },
+        {
+          "ID": 2819,
+          "Title": "요하네스 케플러"
+        },
+        {
+          "ID": 3533,
+          "Title": "르네 데카르트"
+        },
+        {
+          "ID": 3768,
+          "Title": "앨런 튜링"
+        },
+        {
+          "ID": 3844,
+          "Title": "토마스 아퀴나스"
+        },
+        {
+          "ID": 4955,
+          "Title": "애덤 스미스"
+        },
+        {
+          "ID": 5168,
+          "Title": "갈릴레오 갈릴레이"
+        },
+        {
+          "ID": 6210,
+          "Title": "칼 세이건"
+        },
+        {
+          "ID": 7753,
+          "Title": "아돌프 히틀러"
+        },
+        {
+          "ID": 7953,
+          "Title": "카를 프리드리히 가우스"
+        },
+        {
+          "ID": 9016,
+          "Title": "지그문트 프로이트"
+        },
+        {
+          "ID": 10165,
+          "Title": "노엄 촘스키"
+        },
+        {
+          "ID": 14277,
+          "Title": "크리스토퍼 콜럼버스"
+        },
+        {
+          "ID": 24865,
+          "Title": "스리니바사 라마누잔"
+        },
+        {
+          "ID": 29807,
+          "Title": "레오나르도 피보나치"
+        },
+        {
+          "ID": 31577,
+          "Title": "알렉산더 플레밍"
+        },
+        {
+          "ID": 37830,
+          "Title": "조셉 스미스 주니어"
+        },
+        {
+          "ID": 37833,
+          "Title": "찰스 배비지"
+        },
+        {
+          "ID": 39677,
+          "Title": "존 레논"
+        },
+        {
+          "ID": 41331,
+          "Title": "리하르트 바그너"
+        },
+        {
+          "ID": 42288,
+          "Title": "플로렌스 나이팅게일"
+        },
+        {
+          "ID": 42385,
+          "Title": "올리버 크롬웰"
+        },
+        {
+          "ID": 61343,
+          "Title": "조지 해리슨"
+        },
+        {
+          "ID": 61763,
+          "Title": "밥 로스"
+        },
+        {
+          "ID": 66769,
+          "Title": "윌리엄 블레이크"
+        },
+        {
+          "ID": 90487,
+          "Title": "루이스 캐럴"
+        },
+        {
+          "ID": 143157,
+          "Title": "조니 애플시드"
+        },
+        {
+          "ID": 263679,
+          "Title": "엘튼 존"
+        },
+        {
+          "ID": 355020,
+          "Title": "어빙 랭뮤어"
+        },
+        {
+          "ID": 359702,
+          "Title": "대니얼 래드클리프"
+        },
+        {
+          "ID": 422666,
+          "Title": "아인 랜드"
+        },
+        {
+          "ID": 473139,
+          "Title": "빅 쇼"
+        },
+        {
+          "ID": 514943,
+          "Title": "미라 크래프트"
+        },
+        {
+          "ID": 622839,
+          "Title": "해리 후디니"
+        },
+        {
+          "ID": 659804,
+          "Title": "테오도어 슈반"
+        },
+        {
+          "ID": 665395,
+          "Title": "아네르스 베링 브레이비크"
+        },
+        {
+          "ID": 702379,
+          "Title": "코리 몬티스"
+        },
+        {
+          "ID": 744923,
+          "Title": "링 라드너"
+        },
+        {
+          "ID": 779440,
+          "Title": "제이콥 블랙"
+        },
+        {
+          "ID": 885243,
+          "Title": "셸던 쿠퍼"
+        },
+        {
+          "ID": 1009990,
+          "Title": "테드 크루즈"
+        },
+        {
+          "ID": 1815659,
+          "Title": "카임 수틴"
+        }
+      ]
+    },
+    {
+      "ID": 2147483644,
+      "Title": "Philosophy and thinking",
+      "Abstract": "Philosophy has almost as many definitions as there have been philosophers, both as a subject matter and an activity, and no simple definition can do it justice. The issue of the definition of philosophy is thus a controversial subject that is nowadays tackled by Metaphilosophy (or the philosophy of philosophy). The word is derived from the ancient Greek words philo-, to love or to befriend, and -sophia, wisdom. Modern usage of the term is much broader; the concept of philosophy encompasses all of knowledge and all that can be known, including the means by which such knowledge can be acquired. However, in the contemporary English-speaking academic world, the term is often used implicitly to refer to analytic philosophy and, in non-English speaking countries, it often refers implicitly to a different, European strain, continental philosophy. The ancient Greeks organized the subject into five basic categories: metaphysics, epistemology, ethics, politics and aesthetics. This organization of the subject is still largely in use in Western philosophy today.\n\nThought or thinking is a mental process which allows beings to model the world, and so to deal with it effectively according to their goals, plans, ends and desires. Words referring to similar concepts and processes in the English language include cognition, sentience, consciousness, idea, and imagination. Thinking involves the cerebral manipulation of information, as when we form concepts, engage in problem solving, reason and make decisions. Thinking is a higher cognitive function and the analysis of thinking processes is part of cognitive psychology",
+      "Categories": [
+        {
+          "ID": 4386,
+          "Title": "분류:철학"
+        },
+        {
+          "ID": 44399,
+          "Title": "분류:생각"
+        },
+        {
+          "ID": 107165,
+          "Title": "분류:철학의 분과"
+        },
+        {
+          "ID": 153907,
+          "Title": "분류:이념"
+        },
+        {
+          "ID": 197333,
+          "Title": "분류:철학 학파"
+        },
+        {
+          "ID": 275043,
+          "Title": "분류:윤리학"
+        },
+        {
+          "ID": 542365,
+          "Title": "분류:철학 이론"
+        }
+      ],
+      "Articles": [
+        {
+          "ID": 114015,
+          "Title": "행복"
+        },
+        {
+          "ID": 149478,
+          "Title": "사실"
+        },
+        {
+          "ID": 274433,
+          "Title": "미"
+        },
+        {
+          "ID": 655492,
+          "Title": "더닝-크루거 효과"
+        },
+        {
+          "ID": 1630571,
+          "Title": "가스라이팅"
+        }
+      ]
+    },
+    {
+      "ID": 2147483645,
+      "Title": "Religion and belief systems",
+      "Abstract": "Religion is the adherence to codified beliefs and rituals that generally involve a faith in a spiritual nature and a study of inherited ancestral traditions, knowledge and wisdom related to understanding human life. The term \"religion\" refers to both the personal practices related to faith as well as to the larger shared systems of belief.\n\nA belief system can refer to a religion or a world view. A world view (or worldview) is a term calqued from the German word Weltanschauung Welt is the German word for 'world,' and Anschauung is the German word for 'view' or 'outlook'. It is a concept fundamental to German philosophy and epistemology and refers to a wide world perception. Additionally, it refers to the framework of ideas and beliefs through which an individual interprets the world and interacts in it",
+      "Categories": [
+        {
+          "ID": 4390,
+          "Title": "분류:종교"
+        },
+        {
+          "ID": 44398,
+          "Title": "분류:믿음"
+        },
+        {
+          "ID": 50747,
+          "Title": "분류:세속주의"
+        },
+        {
+          "ID": 156935,
+          "Title": "분류:신화학"
+        },
+        {
+          "ID": 530356,
+          "Title": "분류:종교 인류학"
+        },
+        {
+          "ID": 542365,
+          "Title": "분류:철학 이론"
+        },
+        {
+          "ID": 548406,
+          "Title": "분류:비유신론"
+        },
+        {
+          "ID": 548416,
+          "Title": "분류:종교 비판"
+        },
+        {
+          "ID": 1049258,
+          "Title": "분류:종교 논쟁"
+        }
+      ]
+    },
+    {
+      "ID": 2147483646,
+      "Title": "Society and social sciences",
+      "Abstract": "A society is a group of people who form a semi-closed system. At its simplest, the term society refers to a large group of people sharing their own culture and institutions. A society is a network of relationships between people. The English word society is derived from the French société, which had its origin in the Latin societas, a \"friendly association with others,\" from socius meaning \"companion, associate, comrade or business partner.\" Thus, the meaning of society is closely related to what is considered to be social. Implicit in the meaning of society is that its members may share some mutual concern or interest, a common objective or common characteristics. The social sciences generally use the term society to mean a group of people who form a semi-closed social system, in which most interactions are with other individuals belonging to the group. More abstractly, a society is defined as a network of relationships between social entities. A society is also sometimes defined as an interdependent community, but the sociologist Tönnies sought to draw a contrast between society and community. An important feature of society is social structure, aspects of which include roles and social ranking.\n\nThe social science are a group of academic disciplines that study human aspects of the world. They differ from the arts and the humanities, in that the social science tend to emphasize the use of the scientific method in the study of humanity, including quantitative and qualitative methods",
+      "Categories": [
+        {
+          "ID": 11959,
+          "Title": "분류:국제 기구"
+        },
+        {
+          "ID": 31673,
+          "Title": "분류:사회"
+        },
+        {
+          "ID": 44038,
+          "Title": "분류:권리"
+        },
+        {
+          "ID": 291423,
+          "Title": "분류:여성주의"
+        },
+        {
+          "ID": 758761,
+          "Title": "분류:사회과학"
+        }
+      ],
+      "Articles": [
+        {
+          "ID": 2719,
+          "Title": "유럽 연합"
+        },
+        {
+          "ID": 7123,
+          "Title": "서울대학교"
+        },
+        {
+          "ID": 7137,
+          "Title": "성균관대학교"
+        },
+        {
+          "ID": 9204,
+          "Title": "스타벅스"
+        },
+        {
+          "ID": 13155,
+          "Title": "웁살라 대학교"
+        },
+        {
+          "ID": 13190,
+          "Title": "괴팅겐 대학교"
+        },
+        {
+          "ID": 22891,
+          "Title": "하버드 대학교"
+        },
+        {
+          "ID": 22892,
+          "Title": "매사추세츠 공과대학교"
+        },
+        {
+          "ID": 22893,
+          "Title": "프린스턴 대학교"
+        },
+        {
+          "ID": 22900,
+          "Title": "스탠퍼드 대학교"
+        },
+        {
+          "ID": 22934,
+          "Title": "컬럼비아 대학교"
+        },
+        {
+          "ID": 33806,
+          "Title": "빈 대학교"
+        },
+        {
+          "ID": 34052,
+          "Title": "케임브리지 대학교"
+        },
+        {
+          "ID": 34386,
+          "Title": "시카고 대학교"
+        },
+        {
+          "ID": 34436,
+          "Title": "도쿄 대학"
+        },
+        {
+          "ID": 35558,
+          "Title": "펜실베이니아 대학교"
+        },
+        {
+          "ID": 37870,
+          "Title": "볼로냐 대학교"
+        },
+        {
+          "ID": 37947,
+          "Title": "일광 절약 시간제"
+        },
+        {
+          "ID": 41257,
+          "Title": "모스크바 국립 대학교"
+        },
+        {
+          "ID": 44238,
+          "Title": "런던 대학교"
+        },
+        {
+          "ID": 46573,
+          "Title": "옥스퍼드 대학교"
+        },
+        {
+          "ID": 47206,
+          "Title": "뉴욕 타임스"
+        },
+        {
+          "ID": 47516,
+          "Title": "마이크로네이션"
+        },
+        {
+          "ID": 63564,
+          "Title": "국립 상트페테르부르크 대학교"
+        },
+        {
+          "ID": 70773,
+          "Title": "오스트레일리아의 국기"
+        },
+        {
+          "ID": 72785,
+          "Title": "아메리칸 항공"
+        },
+        {
+          "ID": 81368,
+          "Title": "파리 대학교"
+        },
+        {
+          "ID": 85927,
+          "Title": "피자헛"
+        },
+        {
+          "ID": 86117,
+          "Title": "도미노피자"
+        },
+        {
+          "ID": 86744,
+          "Title": "타코벨"
+        },
+        {
+          "ID": 97656,
+          "Title": "워털루 대학교"
+        },
+        {
+          "ID": 98618,
+          "Title": "금주법"
+        },
+        {
+          "ID": 99405,
+          "Title": "스톡홀름 대학교"
+        },
+        {
+          "ID": 107447,
+          "Title": "보스턴 대학교"
+        },
+        {
+          "ID": 111749,
+          "Title": "워싱턴 대학교"
+        },
+        {
+          "ID": 116380,
+          "Title": "미시간 대학교"
+        },
+        {
+          "ID": 116690,
+          "Title": "시드니 대학교"
+        },
+        {
+          "ID": 117679,
+          "Title": "미국 수정 헌법 제4조"
+        },
+        {
+          "ID": 121131,
+          "Title": "오사카 대학"
+        },
+        {
+          "ID": 137285,
+          "Title": "유엔 환경 계획"
+        },
+        {
+          "ID": 141551,
+          "Title": "프라이부르크 대학교"
+        },
+        {
+          "ID": 144949,
+          "Title": "노팅엄 대학교"
+        },
+        {
+          "ID": 145592,
+          "Title": "임페리얼 칼리지 런던"
+        },
+        {
+          "ID": 147198,
+          "Title": "도호쿠 대학"
+        },
+        {
+          "ID": 174745,
+          "Title": "릿쿄 대학"
+        },
+        {
+          "ID": 177041,
+          "Title": "칭화 대학"
+        },
+        {
+          "ID": 185213,
+          "Title": "BP (기업)"
+        },
+        {
+          "ID": 187182,
+          "Title": "홋카이도 대학"
+        },
+        {
+          "ID": 207534,
+          "Title": "서리 대학교"
+        },
+        {
+          "ID": 214763,
+          "Title": "파도바 대학교"
+        },
+        {
+          "ID": 214765,
+          "Title": "웨스턴온타리오 대학교"
+        },
+        {
+          "ID": 253796,
+          "Title": "버지니아 대학교"
+        },
+        {
+          "ID": 253823,
+          "Title": "텍사스 대학교 오스틴"
+        },
+        {
+          "ID": 253839,
+          "Title": "라이스 대학교"
+        },
+        {
+          "ID": 253842,
+          "Title": "워싱턴 대학교 세인트루이스"
+        },
+        {
+          "ID": 269492,
+          "Title": "덴버 대학교"
+        },
+        {
+          "ID": 282419,
+          "Title": "마이애미 대학교 (오하이오주)"
+        },
+        {
+          "ID": 292811,
+          "Title": "국립 대학"
+        },
+        {
+          "ID": 316017,
+          "Title": "워릭 대학교"
+        },
+        {
+          "ID": 322680,
+          "Title": "애리조나 대학교"
+        },
+        {
+          "ID": 324436,
+          "Title": "공립 대학"
+        },
+        {
+          "ID": 334006,
+          "Title": "미네소타 대학교"
+        },
+        {
+          "ID": 334023,
+          "Title": "아이오와 대학교"
+        },
+        {
+          "ID": 335299,
+          "Title": "메릴랜드 대학교"
+        },
+        {
+          "ID": 339734,
+          "Title": "인디애나 대학교 블루밍턴"
+        },
+        {
+          "ID": 345571,
+          "Title": "인디애나 대학교"
+        },
+        {
+          "ID": 360614,
+          "Title": "본 대학교"
+        },
+        {
+          "ID": 368924,
+          "Title": "오리건 대학교"
+        },
+        {
+          "ID": 368930,
+          "Title": "서던캘리포니아 대학교"
+        },
+        {
+          "ID": 375440,
+          "Title": "애크런 대학교"
+        },
+        {
+          "ID": 382447,
+          "Title": "난징 대학"
+        },
+        {
+          "ID": 383815,
+          "Title": "예루살렘 히브리 대학교"
+        },
+        {
+          "ID": 385994,
+          "Title": "글래스고 대학교"
+        },
+        {
+          "ID": 387686,
+          "Title": "말라야 대학교"
+        },
+        {
+          "ID": 388010,
+          "Title": "델리 대학교"
+        },
+        {
+          "ID": 388696,
+          "Title": "오클랜드 대학교"
+        },
+        {
+          "ID": 388930,
+          "Title": "주립 대학"
+        },
+        {
+          "ID": 389928,
+          "Title": "오하이오 주립 대학교"
+        },
+        {
+          "ID": 390694,
+          "Title": "자와할랄 네루 대학교"
+        },
+        {
+          "ID": 391455,
+          "Title": "토리노 대학교"
+        },
+        {
+          "ID": 392169,
+          "Title": "오스트레일리아 국립 대학교"
+        },
+        {
+          "ID": 392336,
+          "Title": "밀라노 대학교"
+        },
+        {
+          "ID": 399087,
+          "Title": "일리노이 대학교 시카고"
+        },
+        {
+          "ID": 400371,
+          "Title": "퀸즐랜드 대학교"
+        },
+        {
+          "ID": 406851,
+          "Title": "사우샘프턴 대학교"
+        },
+        {
+          "ID": 425556,
+          "Title": "아메리칸 대학교"
+        },
+        {
+          "ID": 475779,
+          "Title": "툴레인 대학교"
+        },
+        {
+          "ID": 523199,
+          "Title": "애버딘 대학교"
+        },
+        {
+          "ID": 561531,
+          "Title": "앨라배마 대학교"
+        },
+        {
+          "ID": 562686,
+          "Title": "탐마삿 대학교"
+        },
+        {
+          "ID": 566104,
+          "Title": "브리스틀 대학교"
+        },
+        {
+          "ID": 567939,
+          "Title": "폭스 뉴스 채널"
+        },
+        {
+          "ID": 574300,
+          "Title": "라이프치히 대학교"
+        },
+        {
+          "ID": 579814,
+          "Title": "캔터베리 대학교"
+        },
+        {
+          "ID": 580177,
+          "Title": "오타고 대학교"
+        },
+        {
+          "ID": 596624,
+          "Title": "태즈메이니아 대학교"
+        },
+        {
+          "ID": 622472,
+          "Title": "뷔르츠부르크 대학교"
+        },
+        {
+          "ID": 634255,
+          "Title": "뮌스터 대학교"
+        },
+        {
+          "ID": 647319,
+          "Title": "튀빙겐 대학교"
+        },
+        {
+          "ID": 647428,
+          "Title": "쾰른 대학교"
+        },
+        {
+          "ID": 658766,
+          "Title": "사회사업"
+        },
+        {
+          "ID": 674489,
+          "Title": "리즈 대학교"
+        },
+        {
+          "ID": 674533,
+          "Title": "캘거리 대학교"
+        },
+        {
+          "ID": 674545,
+          "Title": "매니토바 대학교"
+        },
+        {
+          "ID": 677291,
+          "Title": "뉴캐슬 대학교 (오스트레일리아)"
+        },
+        {
+          "ID": 686140,
+          "Title": "델라웨어 대학교"
+        },
+        {
+          "ID": 694365,
+          "Title": "춘절"
+        },
+        {
+          "ID": 712203,
+          "Title": "세인트앤드루스 대학교"
+        },
+        {
+          "ID": 715344,
+          "Title": "타임스 오브 인디아"
+        },
+        {
+          "ID": 736823,
+          "Title": "맨체스터 대학교"
+        },
+        {
+          "ID": 745014,
+          "Title": "미국 국립문서기록관리청"
+        },
+        {
+          "ID": 832967,
+          "Title": "이스트 앵글리아 대학교"
+        },
+        {
+          "ID": 837296,
+          "Title": "뉴욕 시립 대학교"
+        },
+        {
+          "ID": 857321,
+          "Title": "셰필드 대학교"
+        },
+        {
+          "ID": 857323,
+          "Title": "버밍엄 대학교"
+        },
+        {
+          "ID": 857327,
+          "Title": "리버풀 대학교"
+        },
+        {
+          "ID": 857494,
+          "Title": "미시시피 대학교"
+        },
+        {
+          "ID": 857643,
+          "Title": "제3차 세계 대전"
+        },
+        {
+          "ID": 884578,
+          "Title": "궬프 대학교"
+        },
+        {
+          "ID": 896270,
+          "Title": "미주리 대학교"
+        },
+        {
+          "ID": 904808,
+          "Title": "버펄로 대학교"
+        },
+        {
+          "ID": 904929,
+          "Title": "시티 대학교 런던"
+        },
+        {
+          "ID": 912135,
+          "Title": "울런공 대학교"
+        },
+        {
+          "ID": 924874,
+          "Title": "코번트리 대학교"
+        },
+        {
+          "ID": 949892,
+          "Title": "퀸스 대학교 (캐나다)"
+        },
+        {
+          "ID": 959493,
+          "Title": "랭커스터 대학교"
+        },
+        {
+          "ID": 991348,
+          "Title": "베른 대학교"
+        },
+        {
+          "ID": 991790,
+          "Title": "유니버시티 칼리지"
+        },
+        {
+          "ID": 1062157,
+          "Title": "뉴펀들랜드 메모리얼 대학교"
+        },
+        {
+          "ID": 1159836,
+          "Title": "우메오 대학교"
+        },
+        {
+          "ID": 1165861,
+          "Title": "빅토리아 대학교 (캐나다)"
+        },
+        {
+          "ID": 1199450,
+          "Title": "캘커타 대학교"
+        },
+        {
+          "ID": 1199452,
+          "Title": "뭄바이 대학교"
+        },
+        {
+          "ID": 1297053,
+          "Title": "타르투 대학교"
+        },
+        {
+          "ID": 1417177,
+          "Title": "몽골군"
+        },
+        {
+          "ID": 1453384,
+          "Title": "오픈 대학교"
+        },
+        {
+          "ID": 1475168,
+          "Title": "서스캐처원 대학교"
+        },
+        {
+          "ID": 1591442,
+          "Title": "엑서터 대학교"
+        },
+        {
+          "ID": 1625980,
+          "Title": "리비우 대학교"
+        },
+        {
+          "ID": 1700851,
+          "Title": "레스터 대학교"
+        },
+        {
+          "ID": 1707649,
+          "Title": "일리노이 주립 대학교"
+        },
+        {
+          "ID": 1744891,
+          "Title": "2017년 웨스트민스터 테러"
+        },
+        {
+          "ID": 1747697,
+          "Title": "지난 대학 (광저우 시)"
+        },
+        {
+          "ID": 1788860,
+          "Title": "테네시 대학교"
+        },
+        {
+          "ID": 1814519,
+          "Title": "브로츠와프 대학교"
+        },
+        {
+          "ID": 1879645,
+          "Title": "소카 대학"
+        },
+        {
+          "ID": 1949354,
+          "Title": "노섬브리아 대학교"
+        },
+        {
+          "ID": 1988318,
+          "Title": "노스-웨스트 대학교"
+        }
+      ]
+    },
+    {
+      "ID": 2147483647,
+      "Title": "Technology and applied sciences",
+      "Abstract": "Technology is an expanded concept that deals with a species' usage and knowledge of tools and crafts, and how it affects a species' ability to control and adapt to its environment. In human civilization, it is a consequence of science and engineering, although several technological advances predate the formalization of these two disciplines. The term can either be applied generally or to specific areas – examples include construction technology, medical technology, or state-of-the-art technology.\n\nThe human race's use of technology began with the conversion of plentiful natural resources into simple tools. The prehistorical discovery of the ability to control fire increased the available sources of food, and the invention of the wheel helped humans in travelling in and controlling their environment. Recent technological developments, including the printing press and the Internet, have lessened physical barriers to communication and allowed humans to interact on a global scale. However, not all technology has been used for peaceful purposes; the development of weapons of ever-increasing destructive power has progressed throughout history, from clubs to nuclear bombs.\n\nApplied science is the application of knowledge from one or more natural scientific fields to solving practical problems. For example, fields of engineering are applied sciences. Applied science is important for technology development. Its use in industrial settings is usually referred to as research and development (R\u0026D)",
+      "Categories": [
+        {
+          "ID": 11440,
+          "Title": "분류:공학"
+        },
+        {
+          "ID": 11780,
+          "Title": "분류:인터넷"
+        },
+        {
+          "ID": 11844,
+          "Title": "분류:교통"
+        },
+        {
+          "ID": 15132,
+          "Title": "분류:기술"
+        },
+        {
+          "ID": 33660,
+          "Title": "분류:디자인"
+        },
+        {
+          "ID": 42962,
+          "Title": "분류:응용과학"
+        },
+        {
+          "ID": 83993,
+          "Title": "분류:군사 장비"
+        },
+        {
+          "ID": 289113,
+          "Title": "분류:기술사"
+        },
+        {
+          "ID": 352272,
+          "Title": "분류:컴퓨터 과학"
+        },
+        {
+          "ID": 509632,
+          "Title": "분류:유형별 기술"
+        },
+        {
+          "ID": 706184,
+          "Title": "분류:컴퓨팅"
+        },
+        {
+          "ID": 1122372,
+          "Title": "분류:일렉트로닉스"
+        },
+        {
+          "ID": 1594236,
+          "Title": "분류:모바일 애플리케이션"
+        }
+      ],
+      "Articles": [
+        {
+          "ID": 61003,
+          "Title": "슈퍼 32X"
+        },
+        {
+          "ID": 76244,
+          "Title": "펩시"
+        },
+        {
+          "ID": 127180,
+          "Title": "동일본 여객철도 E233계 전동차"
+        },
+        {
+          "ID": 145000,
+          "Title": "벽"
+        },
+        {
+          "ID": 235933,
+          "Title": "껌"
+        },
+        {
+          "ID": 382229,
+          "Title": "조적조"
+        },
+        {
+          "ID": 640620,
+          "Title": ".xxx"
+        },
+        {
+          "ID": 657866,
+          "Title": "타당성 조사"
+        },
+        {
+          "ID": 710737,
+          "Title": "마운틴 듀"
+        },
+        {
+          "ID": 1273048,
+          "Title": "가스 텅스텐 아크 용접"
+        },
+        {
+          "ID": 1986027,
+          "Title": "배스 밤"
+        }
+      ]
+    }
+  ],
+  "Filters": [
+    {
+      "ID": 63205,
+      "Title": "분류:동음이의어 문서"
+    },
+    {
+      "ID": 185895,
+      "Title": "분류:숨은 분류"
+    }
+  ]
+}

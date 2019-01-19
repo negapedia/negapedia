@@ -1,0 +1,1060 @@
+{
+  "Language": "sr",
+  "Topics": [
+    {
+      "ID": 2147483637,
+      "Title": "Culture and the arts",
+      "Abstract": "The word culture is derived from the Latin root cultura or cultus meaning to \"inhabit, cultivate, or honour\". In general, culture refers to human activity; different definitions of culture reflect different theories for understanding, or criteria for valuing human activity. Present day Anthropologists use the term to refer to the universal human capacity to classify experiences and to encode and communicate them symbolically. They regard this capacity as a defining feature of the genus Homo. Since culture is learned, people living in different places have different cultures. There can be different cultures in different countries, and there can also be shared cultures among continents.\n\nThe arts are a vast subdivision of culture, composed of many creative endeavors and disciplines. It is a broader term than \"art,\" which as a description of a field usually means only the visual arts. The arts encompasses visual arts, literary arts and the performing arts - music, theatre, dance, spoken word and film, among others.\n\nArt, in its broadest meaning, is the expression of creativity or imagination. The word art comes from the Latin word ars, which, loosely translated, means \"arrangement\". Art is commonly understood as the act of making works (or artworks) which use the human creative impulse and which have meaning beyond simple description. Art is often distinguished from crafts and recreational hobby activities. The term creative arts denotes a collection of disciplines whose principal purpose is the output of material for the viewer or audience to interpret. As such, art may be taken to include forms as diverse as prose writing, poetry, dance, acting or drama, film, music, sculpture, photography, illustration, architecture, collage, painting, craft and fashion. Art may also be understood as relating to creativity, æsthetics and the generation of emotion",
+      "Categories": [
+        {
+          "ID": 12521,
+          "Title": "Категорија:Уметност"
+        },
+        {
+          "ID": 13971,
+          "Title": "Категорија:Спорт"
+        },
+        {
+          "ID": 16001,
+          "Title": "Категорија:Култура"
+        },
+        {
+          "ID": 16965,
+          "Title": "Категорија:Музичке групе"
+        },
+        {
+          "ID": 19998,
+          "Title": "Категорија:Храна"
+        },
+        {
+          "ID": 20382,
+          "Title": "Категорија:Забава"
+        },
+        {
+          "ID": 20574,
+          "Title": "Категорија:Хоби"
+        },
+        {
+          "ID": 21471,
+          "Title": "Категорија:Кухиња"
+        },
+        {
+          "ID": 21545,
+          "Title": "Категорија:Филмови"
+        },
+        {
+          "ID": 76565,
+          "Title": "Категорија:Рекреација"
+        }
+      ],
+      "Articles": [
+        {
+          "ID": 2072,
+          "Title": "Википедија"
+        },
+        {
+          "ID": 8833,
+          "Title": "Енциклопедија"
+        },
+        {
+          "ID": 11286,
+          "Title": "Целибат"
+        },
+        {
+          "ID": 14549,
+          "Title": "Пиво"
+        },
+        {
+          "ID": 18917,
+          "Title": "Кафа"
+        },
+        {
+          "ID": 25362,
+          "Title": "Хогвортс"
+        },
+        {
+          "ID": 33510,
+          "Title": "Чоколада"
+        },
+        {
+          "ID": 42350,
+          "Title": "Хлеб"
+        },
+        {
+          "ID": 75449,
+          "Title": "Чудовиште из Лох Неса"
+        },
+        {
+          "ID": 81819,
+          "Title": "Топла чоколада"
+        },
+        {
+          "ID": 109085,
+          "Title": "Лед зепелин"
+        },
+        {
+          "ID": 116636,
+          "Title": "AC/DC"
+        },
+        {
+          "ID": 138811,
+          "Title": "Пица"
+        },
+        {
+          "ID": 140865,
+          "Title": "Grin dej"
+        },
+        {
+          "ID": 146980,
+          "Title": "Književni realizam"
+        },
+        {
+          "ID": 185347,
+          "Title": "Sgt. Pepper's Lonely Hearts Club Band"
+        },
+        {
+          "ID": 190471,
+          "Title": "Бакингамска палата"
+        },
+        {
+          "ID": 241720,
+          "Title": "Street dance"
+        },
+        {
+          "ID": 398498,
+          "Title": "Такос"
+        },
+        {
+          "ID": 519660,
+          "Title": "Фелацио"
+        },
+        {
+          "ID": 561459,
+          "Title": "Сланина"
+        },
+        {
+          "ID": 636941,
+          "Title": "Jaja na oko"
+        },
+        {
+          "ID": 753585,
+          "Title": "Јаје (храна)"
+        },
+        {
+          "ID": 768068,
+          "Title": "Босански лонац"
+        },
+        {
+          "ID": 781382,
+          "Title": "Путер од кикирикија"
+        },
+        {
+          "ID": 914503,
+          "Title": "Flappy Bird"
+        },
+        {
+          "ID": 929403,
+          "Title": "Дух (приказа)"
+        },
+        {
+          "ID": 938144,
+          "Title": "Шунка"
+        },
+        {
+          "ID": 1362883,
+          "Title": "Колачић судбине"
+        },
+        {
+          "ID": 1389088,
+          "Title": "Песма Евровизије 2017."
+        },
+        {
+          "ID": 1449671,
+          "Title": "Pasta"
+        },
+        {
+          "ID": 1594991,
+          "Title": "Песма Евровизије 2018."
+        },
+        {
+          "ID": 3893584,
+          "Title": "Hot dog"
+        }
+      ]
+    },
+    {
+      "ID": 2147483638,
+      "Title": "Geography and places",
+      "Abstract": "Geography (Greek Geo (γη) or Gaea (γαία), meaning \"Earth\", and graphein (γράφειν) meaning \"to describe\" or \"to write\") is the study of the earth and its features, inhabitants, and phenomena. A literal translation would be \"to describe or write about the Earth\". The first person to use the word \"geography\" was Eratosthenes (275-195 B.C.). Four historical traditions in geographical research are the spatial analysis of natural and human phenomena (geography as a study of distribution), area studies (places and regions), study of man-land relationship, and research in earth sciences. Nonetheless, modern geography is an all-encompassing discipline that foremost seeks to understand the world and all of its human and natural complexities — not merely where objects are, but how they have changed and come to be. As \"the bridge between the human and physical sciences,\" geography is divided into two main branches — human geography and physical geography",
+      "Categories": [
+        {
+          "ID": 15820,
+          "Title": "Категорија:Географија"
+        },
+        {
+          "ID": 75713,
+          "Title": "Категорија:Геоморфологија"
+        },
+        {
+          "ID": 75973,
+          "Title": "Категорија:Спискови везани за географију"
+        },
+        {
+          "ID": 167840,
+          "Title": "Категорија:Просторно и урбанистичко планирање"
+        }
+      ],
+      "Articles": [
+        {
+          "ID": 1949,
+          "Title": "Канбера"
+        },
+        {
+          "ID": 6045,
+          "Title": "Венеција"
+        },
+        {
+          "ID": 7752,
+          "Title": "Париз"
+        },
+        {
+          "ID": 32055,
+          "Title": "Мјанмар"
+        },
+        {
+          "ID": 144640,
+          "Title": "Квинсленд"
+        },
+        {
+          "ID": 770496,
+          "Title": "Карлсбад (Нови Мексико)"
+        }
+      ]
+    },
+    {
+      "ID": 2147483639,
+      "Title": "Health and fitness",
+      "Abstract": "Health is the level of functional or metabolic efficiency of a living organism. In humans it is the ability of individuals or communities to adapt and self-manage when facing physical, mental or social challenges. The most widely accepted definition of good health is that of the World Health Organization Constitution. It states: \"health is a state of complete physical, mental and social well-being and is not merely the absence of disease or infirmity\" (World Health Organization, 1946). In more recent years, this statement has been amplified to include the ability to lead a \"socially and economically productive life.\" The WHO definition is not without criticism, mainly that it is much too broad.\n\nThe most solid aspects of wellness that fit firmly in the realm of medicine are environmental health, nutrition, disease prevention, and public health. These matters can be investigated at length and can assist in measuring well-being. Please see our medical disclaimer for cautions about Wikipedia's limitations",
+      "Categories": [
+        {
+          "ID": 11859,
+          "Title": "Категорија:Медицина"
+        },
+        {
+          "ID": 28249,
+          "Title": "Категорија:Здравље"
+        },
+        {
+          "ID": 83220,
+          "Title": "Категорија:Хигијена"
+        },
+        {
+          "ID": 460963,
+          "Title": "Категорија:Медицинске специјалности"
+        },
+        {
+          "ID": 576605,
+          "Title": "Категорија:Науке о здрављу"
+        }
+      ]
+    },
+    {
+      "ID": 2147483640,
+      "Title": "History and events",
+      "Abstract": "History is the interpretation of past events, societies and civilizations. The term history comes from the Greek historia (ἱστορία), \"an account of one's inquiries,\" and shares that etymology with the English word story as narrative. The 1911 Encyclopædia Britannica stated that \"history in the wider sense is all that has happened, not merely all the phenomena of human life, but those of the natural world as well. It is everything that undergoes change; and as modern science has shown that there is nothing absolutely static, therefore, the whole universe, and every part of it, has its history.\" ",
+      "Categories": [
+        {
+          "ID": 15817,
+          "Title": "Категорија:Историја"
+        },
+        {
+          "ID": 28394,
+          "Title": "Категорија:Празници"
+        },
+        {
+          "ID": 116262,
+          "Title": "Категорија:Историја по државама"
+        },
+        {
+          "ID": 300288,
+          "Title": "Категорија:Избори по годинама"
+        }
+      ],
+      "Articles": [
+        {
+          "ID": 27515,
+          "Title": "Тројански рат"
+        },
+        {
+          "ID": 30505,
+          "Title": "Напади 11. септембра 2001."
+        },
+        {
+          "ID": 521652,
+          "Title": "Земљотрес и цунами у Тохокуу 2011."
+        },
+        {
+          "ID": 545161,
+          "Title": "Председнички избори у САД 2012."
+        },
+        {
+          "ID": 643948,
+          "Title": "Порицање Холокауста"
+        },
+        {
+          "ID": 684131,
+          "Title": "Патриоти (Америчка револуција)"
+        },
+        {
+          "ID": 1620148,
+          "Title": "Историја периодног система"
+        }
+      ]
+    },
+    {
+      "ID": 2147483641,
+      "Title": "Mathematics and logic",
+      "Abstract": "Mathematics is the science of quantization. It is also the study of patterns and relationships, including concepts such as quantity, structure, space, uncertainty, and change. It evolved through the use of abstraction and logical reasoning, from counting, calculation, measurement, and the systematic study of positions, shapes and motions of physical objects. Mathematicians explore such concepts, aiming to formulate new conjectures and establish their truth by rigorous deduction from appropriately chosen axioms and definitions.\n\nLogic (from Classical Greek λόγος logos; meaning word, thought, idea, argument, account, reason or principle) is the study of the principles and criteria of valid inference and demonstration. As a formal science, logic investigates and classifies the structure of statements and arguments, both through the study of formal systems of inference and through the study of arguments in natural language. The field of logic ranges from core topics such as the study of fallacies and paradoxes, to specialized analysis of reasoning using probability and to arguments involving causality. Logic is also commonly used today in argumentation theory. Since the mid-nineteenth century formal logic has been studied in the context of the foundations of mathematics",
+      "Categories": [
+        {
+          "ID": 8502,
+          "Title": "Категорија:Математика"
+        },
+        {
+          "ID": 16717,
+          "Title": "Категорија:Статистика"
+        },
+        {
+          "ID": 19130,
+          "Title": "Категорија:Логика"
+        },
+        {
+          "ID": 26544,
+          "Title": "Категорија:Примењена математика"
+        },
+        {
+          "ID": 253047,
+          "Title": "Категорија:Теоријско рачунарство"
+        },
+        {
+          "ID": 454396,
+          "Title": "Категорија:Вероватноћа и статистика"
+        },
+        {
+          "ID": 742446,
+          "Title": "Категорија:Математички концепти"
+        }
+      ],
+      "Articles": [
+        {
+          "ID": 97537,
+          "Title": "Дужина"
+        }
+      ]
+    },
+    {
+      "ID": 2147483642,
+      "Title": "Nature and physical sciences",
+      "Abstract": "The term nature is derived from the Latin word natura, or \"essential qualities, innate disposition\". Natura is a Latin translation of the Greek word physis (φύσις), which originally related to the intrinsic characteristics that plants, animals, and other features of the world develop of their own accord. The concept of nature as a whole, all matter and energy in the universe, is one of several expansions of the original notion.\n\nPhysical science is an encompassing term for the branches of natural science, and science, that study non-living systems, in contrast to the biological sciences. However, the term \"physical\" creates an involuntary, somewhat arbitrary distinction, since many branches of physical science also study biological phenomena",
+      "Categories": [
+        {
+          "ID": 10603,
+          "Title": "Категорија:Хемија"
+        },
+        {
+          "ID": 14749,
+          "Title": "Категорија:Наука"
+        },
+        {
+          "ID": 15989,
+          "Title": "Категорија:Зоологија"
+        },
+        {
+          "ID": 16028,
+          "Title": "Категорија:Физика"
+        },
+        {
+          "ID": 16714,
+          "Title": "Категорија:Природне науке"
+        },
+        {
+          "ID": 26709,
+          "Title": "Категорија:Природа"
+        },
+        {
+          "ID": 30798,
+          "Title": "Категорија:Хемијска једињења"
+        },
+        {
+          "ID": 76514,
+          "Title": "Категорија:Науке о животној средини"
+        },
+        {
+          "ID": 135108,
+          "Title": "Категорија:Катастрофе"
+        },
+        {
+          "ID": 395651,
+          "Title": "Категорија:Фауна по континентима"
+        }
+      ],
+      "Articles": [
+        {
+          "ID": 12049,
+          "Title": "Лос"
+        },
+        {
+          "ID": 26591,
+          "Title": "Ватра"
+        },
+        {
+          "ID": 27293,
+          "Title": "Limun"
+        },
+        {
+          "ID": 27296,
+          "Title": "Наранџа"
+        },
+        {
+          "ID": 33802,
+          "Title": "Кукуруз"
+        },
+        {
+          "ID": 36095,
+          "Title": "Тестис"
+        },
+        {
+          "ID": 40044,
+          "Title": "Мишићни систем"
+        },
+        {
+          "ID": 43593,
+          "Title": "Камила"
+        },
+        {
+          "ID": 58259,
+          "Title": "Мастурбација"
+        },
+        {
+          "ID": 62593,
+          "Title": "Пиринач"
+        },
+        {
+          "ID": 77574,
+          "Title": "Hidrološki ciklus"
+        },
+        {
+          "ID": 78399,
+          "Title": "Пирамидални пут"
+        },
+        {
+          "ID": 83228,
+          "Title": "Ланац исхране"
+        },
+        {
+          "ID": 85870,
+          "Title": "Комплементарне боје"
+        },
+        {
+          "ID": 97195,
+          "Title": "Пенис"
+        },
+        {
+          "ID": 146370,
+          "Title": "Ananas comosus"
+        },
+        {
+          "ID": 168709,
+          "Title": "Скуша"
+        },
+        {
+          "ID": 177576,
+          "Title": "Пшеница"
+        },
+        {
+          "ID": 241967,
+          "Title": "Карфиол"
+        },
+        {
+          "ID": 294902,
+          "Title": "Клијање семена"
+        },
+        {
+          "ID": 304364,
+          "Title": "Мокраћа"
+        },
+        {
+          "ID": 399911,
+          "Title": "Мајански календар"
+        },
+        {
+          "ID": 623363,
+          "Title": "Лимета"
+        },
+        {
+          "ID": 1420681,
+          "Title": "Suspenzija (hemija)"
+        },
+        {
+          "ID": 3889816,
+          "Title": "Енгелманова смрча"
+        }
+      ]
+    },
+    {
+      "ID": 2147483643,
+      "Title": "People and self",
+      "Abstract": "A collection of people often refers to a general group, such as all humans, an ethnic group or a nation. An individual person is the self, from his or her own perspective. To you, \"self\" is you. To someone else, \"self\" is that person. A biography is a genre of literature or film, which presents a relatively full account of the most interesting and important events of a notable person's life.\n\nLife or personal life or human existence is an individual human's personal, private experience of living (including their employment career, their family life, and other elements). In prehistoric times, life and existence was based on survival. There was little privacy and a person was identified by their role in the group. In modern times, many people have even come to think of their personal lives as if they are separate from their work. This segmentation of \"life areas\" is evident in such phrases as \"work life\", \"home life\", and \"sex life.\" The meaning or role of a person's \"life\" or \"human existence\" is discussed in many religions and philosophies. In Western industrialized countries, there are a variety of service industries that help people improve their personal lives, such as counselling and life coaching companies",
+      "Categories": [
+        {
+          "ID": 22517,
+          "Title": "Категорија:Људи"
+        },
+        {
+          "ID": 35107,
+          "Title": "Категорија:Презимена"
+        },
+        {
+          "ID": 76433,
+          "Title": "Категорија:Лични живот"
+        },
+        {
+          "ID": 76460,
+          "Title": "Категорија:Сопство"
+        },
+        {
+          "ID": 306830,
+          "Title": "Категорија:Филмски ликови"
+        }
+      ],
+      "Articles": [
+        {
+          "ID": 7889,
+          "Title": "Галилео Галилеј"
+        },
+        {
+          "ID": 9434,
+          "Title": "Адолф Хитлер"
+        },
+        {
+          "ID": 9584,
+          "Title": "Кристифор Колумбо"
+        },
+        {
+          "ID": 10105,
+          "Title": "Бил Гејтс"
+        },
+        {
+          "ID": 14650,
+          "Title": "Рене Декарт"
+        },
+        {
+          "ID": 16958,
+          "Title": "Џон Ленон"
+        },
+        {
+          "ID": 18182,
+          "Title": "Тома Аквински"
+        },
+        {
+          "ID": 18325,
+          "Title": "Сигмунд Фројд"
+        },
+        {
+          "ID": 22869,
+          "Title": "Чарлс Бебиџ"
+        },
+        {
+          "ID": 32071,
+          "Title": "Ноам Чомски"
+        },
+        {
+          "ID": 32465,
+          "Title": "Адам Смит"
+        },
+        {
+          "ID": 34710,
+          "Title": "Алан Тјуринг"
+        },
+        {
+          "ID": 35706,
+          "Title": "Луис Керол"
+        },
+        {
+          "ID": 36968,
+          "Title": "Оливер Кромвел"
+        },
+        {
+          "ID": 38507,
+          "Title": "Флоренс Најтингејл"
+        },
+        {
+          "ID": 40987,
+          "Title": "Вилијам Блејк"
+        },
+        {
+          "ID": 43199,
+          "Title": "Леонардо Фибоначи"
+        },
+        {
+          "ID": 66683,
+          "Title": "Карл Фридрих Гаус"
+        },
+        {
+          "ID": 73638,
+          "Title": "Ирвинг Лангмјур"
+        },
+        {
+          "ID": 96040,
+          "Title": "Рихард Вагнер"
+        },
+        {
+          "ID": 108876,
+          "Title": "Џорџ Харисон"
+        },
+        {
+          "ID": 110801,
+          "Title": "Јохан Кеплер"
+        },
+        {
+          "ID": 112793,
+          "Title": "Александар Флеминг"
+        },
+        {
+          "ID": 147953,
+          "Title": "Сриниваса Рамануџан"
+        },
+        {
+          "ID": 193348,
+          "Title": "Хаим Сутин"
+        },
+        {
+          "ID": 197385,
+          "Title": "Теодор Шван"
+        },
+        {
+          "ID": 219695,
+          "Title": "Данијел Радклиф"
+        },
+        {
+          "ID": 272991,
+          "Title": "Ричард Докинс"
+        },
+        {
+          "ID": 307916,
+          "Title": "Карл Сејган"
+        },
+        {
+          "ID": 428704,
+          "Title": "Елтон Џон"
+        },
+        {
+          "ID": 457956,
+          "Title": "Хари Худини"
+        },
+        {
+          "ID": 525751,
+          "Title": "Ajn Rand"
+        },
+        {
+          "ID": 546940,
+          "Title": "Андерс Беринг Брејвик"
+        },
+        {
+          "ID": 582168,
+          "Title": "Шелдон Купер"
+        },
+        {
+          "ID": 785584,
+          "Title": "Кори Монтит"
+        },
+        {
+          "ID": 850549,
+          "Title": "Џозеф Смит"
+        },
+        {
+          "ID": 1357432,
+          "Title": "Боб Рос"
+        }
+      ]
+    },
+    {
+      "ID": 2147483644,
+      "Title": "Philosophy and thinking",
+      "Abstract": "Philosophy has almost as many definitions as there have been philosophers, both as a subject matter and an activity, and no simple definition can do it justice. The issue of the definition of philosophy is thus a controversial subject that is nowadays tackled by Metaphilosophy (or the philosophy of philosophy). The word is derived from the ancient Greek words philo-, to love or to befriend, and -sophia, wisdom. Modern usage of the term is much broader; the concept of philosophy encompasses all of knowledge and all that can be known, including the means by which such knowledge can be acquired. However, in the contemporary English-speaking academic world, the term is often used implicitly to refer to analytic philosophy and, in non-English speaking countries, it often refers implicitly to a different, European strain, continental philosophy. The ancient Greeks organized the subject into five basic categories: metaphysics, epistemology, ethics, politics and aesthetics. This organization of the subject is still largely in use in Western philosophy today.\n\nThought or thinking is a mental process which allows beings to model the world, and so to deal with it effectively according to their goals, plans, ends and desires. Words referring to similar concepts and processes in the English language include cognition, sentience, consciousness, idea, and imagination. Thinking involves the cerebral manipulation of information, as when we form concepts, engage in problem solving, reason and make decisions. Thinking is a higher cognitive function and the analysis of thinking processes is part of cognitive psychology",
+      "Categories": [
+        {
+          "ID": 11857,
+          "Title": "Категорија:Филозофија"
+        },
+        {
+          "ID": 15901,
+          "Title": "Категорија:Етика"
+        },
+        {
+          "ID": 76464,
+          "Title": "Категорија:Мисао"
+        },
+        {
+          "ID": 76477,
+          "Title": "Категорија:Филозофске школе и традиције"
+        },
+        {
+          "ID": 115801,
+          "Title": "Категорија:Идеологије"
+        },
+        {
+          "ID": 122759,
+          "Title": "Категорија:Гране филозофије"
+        },
+        {
+          "ID": 495567,
+          "Title": "Категорија:Филозофске теорије"
+        }
+      ],
+      "Articles": [
+        {
+          "ID": 140628,
+          "Title": "Срећа"
+        },
+        {
+          "ID": 232671,
+          "Title": "Лепота"
+        },
+        {
+          "ID": 619986,
+          "Title": "Daning—Krugerov efekt"
+        }
+      ]
+    },
+    {
+      "ID": 2147483645,
+      "Title": "Religion and belief systems",
+      "Abstract": "Religion is the adherence to codified beliefs and rituals that generally involve a faith in a spiritual nature and a study of inherited ancestral traditions, knowledge and wisdom related to understanding human life. The term \"religion\" refers to both the personal practices related to faith as well as to the larger shared systems of belief.\n\nA belief system can refer to a religion or a world view. A world view (or worldview) is a term calqued from the German word Weltanschauung Welt is the German word for 'world,' and Anschauung is the German word for 'view' or 'outlook'. It is a concept fundamental to German philosophy and epistemology and refers to a wide world perception. Additionally, it refers to the framework of ideas and beliefs through which an individual interprets the world and interacts in it",
+      "Categories": [
+        {
+          "ID": 11626,
+          "Title": "Категорија:Митологија"
+        },
+        {
+          "ID": 15828,
+          "Title": "Категорија:Религија"
+        },
+        {
+          "ID": 253954,
+          "Title": "Категорија:Верске традиције и покрети"
+        },
+        {
+          "ID": 495567,
+          "Title": "Категорија:Филозофске теорије"
+        },
+        {
+          "ID": 524564,
+          "Title": "Категорија:Критика религије"
+        },
+        {
+          "ID": 621822,
+          "Title": "Категорија:Нонтеизам"
+        },
+        {
+          "ID": 621828,
+          "Title": "Категорија:Секуларизам"
+        }
+      ],
+      "Articles": [
+        {
+          "ID": 3929751,
+          "Title": "Proždrljivost"
+        }
+      ]
+    },
+    {
+      "ID": 2147483646,
+      "Title": "Society and social sciences",
+      "Abstract": "A society is a group of people who form a semi-closed system. At its simplest, the term society refers to a large group of people sharing their own culture and institutions. A society is a network of relationships between people. The English word society is derived from the French société, which had its origin in the Latin societas, a \"friendly association with others,\" from socius meaning \"companion, associate, comrade or business partner.\" Thus, the meaning of society is closely related to what is considered to be social. Implicit in the meaning of society is that its members may share some mutual concern or interest, a common objective or common characteristics. The social sciences generally use the term society to mean a group of people who form a semi-closed social system, in which most interactions are with other individuals belonging to the group. More abstractly, a society is defined as a network of relationships between social entities. A society is also sometimes defined as an interdependent community, but the sociologist Tönnies sought to draw a contrast between society and community. An important feature of society is social structure, aspects of which include roles and social ranking.\n\nThe social science are a group of academic disciplines that study human aspects of the world. They differ from the arts and the humanities, in that the social science tend to emphasize the use of the scientific method in the study of humanity, including quantitative and qualitative methods",
+      "Categories": [
+        {
+          "ID": 11942,
+          "Title": "Категорија:Међународне организације"
+        },
+        {
+          "ID": 12504,
+          "Title": "Категорија:Друштвене науке"
+        },
+        {
+          "ID": 15897,
+          "Title": "Категорија:Друштво"
+        },
+        {
+          "ID": 115944,
+          "Title": "Категорија:Феминизам"
+        }
+      ],
+      "Articles": [
+        {
+          "ID": 10693,
+          "Title": "Сорбона"
+        },
+        {
+          "ID": 31102,
+          "Title": "Универзитет Лестер"
+        },
+        {
+          "ID": 90072,
+          "Title": "Застава Аустралије"
+        },
+        {
+          "ID": 93883,
+          "Title": "Летње рачунање времена"
+        },
+        {
+          "ID": 114842,
+          "Title": "Прохибиција"
+        },
+        {
+          "ID": 115039,
+          "Title": "Социјални рад"
+        },
+        {
+          "ID": 130960,
+          "Title": "Московски државни универзитет Ломоносов"
+        },
+        {
+          "ID": 134095,
+          "Title": "Универзитет Пенсилваније"
+        },
+        {
+          "ID": 139007,
+          "Title": "Американ ерлајнс"
+        },
+        {
+          "ID": 146784,
+          "Title": "Универзитет у Бечу"
+        },
+        {
+          "ID": 207374,
+          "Title": "Масачусетски технолошки институт"
+        },
+        {
+          "ID": 209914,
+          "Title": "Универзитет Алберт Лудвигс"
+        },
+        {
+          "ID": 220473,
+          "Title": "Универзитет у Токију"
+        },
+        {
+          "ID": 220507,
+          "Title": "Универзитет у Техерану"
+        },
+        {
+          "ID": 228396,
+          "Title": "Аустралијски национални универзитет"
+        },
+        {
+          "ID": 238360,
+          "Title": "Универзитет у Сиднеју"
+        },
+        {
+          "ID": 242960,
+          "Title": "Универзитет у Лајпцигу"
+        },
+        {
+          "ID": 278928,
+          "Title": "Њујорк тајмс"
+        },
+        {
+          "ID": 288199,
+          "Title": "Универзитет у Чикагу"
+        },
+        {
+          "ID": 338204,
+          "Title": "Универзитет у Кембриџу"
+        },
+        {
+          "ID": 338205,
+          "Title": "Универзитет у Оксфорду"
+        },
+        {
+          "ID": 397823,
+          "Title": "Универзитет Харвард"
+        },
+        {
+          "ID": 411514,
+          "Title": "Универзитет Принстон"
+        },
+        {
+          "ID": 434491,
+          "Title": "Универзитет у Гетингену"
+        },
+        {
+          "ID": 456553,
+          "Title": "Универзитет у Падови"
+        },
+        {
+          "ID": 456698,
+          "Title": "Универзитет у Болоњи"
+        },
+        {
+          "ID": 519526,
+          "Title": "Универзитет у Тибингену"
+        },
+        {
+          "ID": 576394,
+          "Title": "Трећи светски рат"
+        },
+        {
+          "ID": 623090,
+          "Title": "Универзитет у Бону"
+        },
+        {
+          "ID": 677852,
+          "Title": "Univerzitet Stanford"
+        },
+        {
+          "ID": 728936,
+          "Title": "Европска унија"
+        },
+        {
+          "ID": 772070,
+          "Title": "Јуниверсити ет Бафало"
+        },
+        {
+          "ID": 880009,
+          "Title": "Универзитет Колумбија"
+        },
+        {
+          "ID": 911207,
+          "Title": "Микронација"
+        },
+        {
+          "ID": 918223,
+          "Title": "Универзитет у Лондону"
+        },
+        {
+          "ID": 920387,
+          "Title": "Хебрејски универзитет у Јерусалиму"
+        },
+        {
+          "ID": 927963,
+          "Title": "Пандио универзитет"
+        },
+        {
+          "ID": 952334,
+          "Title": "Пица хат"
+        },
+        {
+          "ID": 1607113,
+          "Title": "Универзитет у Лавову"
+        },
+        {
+          "ID": 1986240,
+          "Title": "Старбакс"
+        },
+        {
+          "ID": 1993593,
+          "Title": "Универзитет у Тартуу"
+        },
+        {
+          "ID": 2092923,
+          "Title": "Универзитет у Вашингтону"
+        },
+        {
+          "ID": 3932212,
+          "Title": "Кинеска Нова година"
+        },
+        {
+          "ID": 3934107,
+          "Title": "Univerzitet u Nankingu"
+        },
+        {
+          "ID": 3941536,
+          "Title": "Univerzitet u Virdžiniji"
+        },
+        {
+          "ID": 4004022,
+          "Title": "Санктпетербуршки државни универзитет"
+        }
+      ]
+    },
+    {
+      "ID": 2147483647,
+      "Title": "Technology and applied sciences",
+      "Abstract": "Technology is an expanded concept that deals with a species' usage and knowledge of tools and crafts, and how it affects a species' ability to control and adapt to its environment. In human civilization, it is a consequence of science and engineering, although several technological advances predate the formalization of these two disciplines. The term can either be applied generally or to specific areas – examples include construction technology, medical technology, or state-of-the-art technology.\n\nThe human race's use of technology began with the conversion of plentiful natural resources into simple tools. The prehistorical discovery of the ability to control fire increased the available sources of food, and the invention of the wheel helped humans in travelling in and controlling their environment. Recent technological developments, including the printing press and the Internet, have lessened physical barriers to communication and allowed humans to interact on a global scale. However, not all technology has been used for peaceful purposes; the development of weapons of ever-increasing destructive power has progressed throughout history, from clubs to nuclear bombs.\n\nApplied science is the application of knowledge from one or more natural scientific fields to solving practical problems. For example, fields of engineering are applied sciences. Applied science is important for technology development. Its use in industrial settings is usually referred to as research and development (R\u0026D)",
+      "Categories": [
+        {
+          "ID": 15906,
+          "Title": "Категорија:Саобраћај"
+        },
+        {
+          "ID": 15997,
+          "Title": "Категорија:Информатика"
+        },
+        {
+          "ID": 18350,
+          "Title": "Категорија:Инжењерство"
+        },
+        {
+          "ID": 19138,
+          "Title": "Категорија:Интернет"
+        },
+        {
+          "ID": 19965,
+          "Title": "Категорија:Технологија"
+        },
+        {
+          "ID": 20078,
+          "Title": "Категорија:Дизајн"
+        },
+        {
+          "ID": 21420,
+          "Title": "Категорија:Електроника"
+        },
+        {
+          "ID": 73585,
+          "Title": "Категорија:Историја технологије"
+        },
+        {
+          "ID": 75121,
+          "Title": "Категорија:Примењене науке"
+        },
+        {
+          "ID": 76574,
+          "Title": "Категорија:Рачунање"
+        },
+        {
+          "ID": 456214,
+          "Title": "Категорија:Технологија по типу"
+        }
+      ],
+      "Articles": [
+        {
+          "ID": 138734,
+          "Title": "Пепси"
+        },
+        {
+          "ID": 306368,
+          "Title": "Зид"
+        },
+        {
+          "ID": 915136,
+          "Title": "Žvaka"
+        },
+        {
+          "ID": 1498638,
+          "Title": ".xxx"
+        }
+      ]
+    }
+  ],
+  "Filters": [
+    {
+      "ID": 12667,
+      "Title": "Категорија:Вишезначне одреднице"
+    },
+    {
+      "ID": 245822,
+      "Title": "Категорија:Скривене категорије"
+    }
+  ]
+}

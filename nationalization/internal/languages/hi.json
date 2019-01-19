@@ -1,0 +1,1090 @@
+{
+  "Language": "hi",
+  "Topics": [
+    {
+      "ID": 2147483637,
+      "Title": "Culture and the arts",
+      "Abstract": "The word culture is derived from the Latin root cultura or cultus meaning to \"inhabit, cultivate, or honour\". In general, culture refers to human activity; different definitions of culture reflect different theories for understanding, or criteria for valuing human activity. Present day Anthropologists use the term to refer to the universal human capacity to classify experiences and to encode and communicate them symbolically. They regard this capacity as a defining feature of the genus Homo. Since culture is learned, people living in different places have different cultures. There can be different cultures in different countries, and there can also be shared cultures among continents.\n\nThe arts are a vast subdivision of culture, composed of many creative endeavors and disciplines. It is a broader term than \"art,\" which as a description of a field usually means only the visual arts. The arts encompasses visual arts, literary arts and the performing arts - music, theatre, dance, spoken word and film, among others.\n\nArt, in its broadest meaning, is the expression of creativity or imagination. The word art comes from the Latin word ars, which, loosely translated, means \"arrangement\". Art is commonly understood as the act of making works (or artworks) which use the human creative impulse and which have meaning beyond simple description. Art is often distinguished from crafts and recreational hobby activities. The term creative arts denotes a collection of disciplines whose principal purpose is the output of material for the viewer or audience to interpret. As such, art may be taken to include forms as diverse as prose writing, poetry, dance, acting or drama, film, music, sculpture, photography, illustration, architecture, collage, painting, craft and fashion. Art may also be understood as relating to creativity, æsthetics and the generation of emotion",
+      "Categories": [
+        {
+          "ID": 1521,
+          "Title": "श्रेणी:कला"
+        },
+        {
+          "ID": 1524,
+          "Title": "श्रेणी:मनोरंजन"
+        },
+        {
+          "ID": 4525,
+          "Title": "श्रेणी:संस्कृति"
+        },
+        {
+          "ID": 4998,
+          "Title": "श्रेणी:खेल"
+        },
+        {
+          "ID": 104774,
+          "Title": "श्रेणी:भोजन"
+        },
+        {
+          "ID": 711085,
+          "Title": "श्रेणी:फ़िल्में"
+        },
+        {
+          "ID": 718346,
+          "Title": "श्रेणी:रुचियाँ"
+        },
+        {
+          "ID": 718352,
+          "Title": "श्रेणी:पाकशैलियाँ"
+        },
+        {
+          "ID": 722379,
+          "Title": "श्रेणी:मनोविनोद"
+        },
+        {
+          "ID": 989352,
+          "Title": "श्रेणी:संगीत बैंड"
+        }
+      ],
+      "Articles": [
+        {
+          "ID": 1554,
+          "Title": "विश्वज्ञानकोश"
+        },
+        {
+          "ID": 5151,
+          "Title": "हॉगवर्ट्स"
+        },
+        {
+          "ID": 23367,
+          "Title": "पिज़्ज़ा"
+        },
+        {
+          "ID": 24200,
+          "Title": "कॉफ़ी"
+        },
+        {
+          "ID": 51176,
+          "Title": "डबलरोटी"
+        },
+        {
+          "ID": 102687,
+          "Title": "रोबोट (फ़िल्म)"
+        },
+        {
+          "ID": 162776,
+          "Title": "फेलाशियो"
+        },
+        {
+          "ID": 179753,
+          "Title": "विकिपीडिया"
+        },
+        {
+          "ID": 185796,
+          "Title": "ग्रीन डे"
+        },
+        {
+          "ID": 193731,
+          "Title": "बियर"
+        },
+        {
+          "ID": 220499,
+          "Title": "बकिंघॅम पैलस"
+        },
+        {
+          "ID": 222778,
+          "Title": "हॉट डॉग"
+        },
+        {
+          "ID": 248267,
+          "Title": "चॉकलेट"
+        },
+        {
+          "ID": 381659,
+          "Title": "कुकी (एक प्रकार का बिस्कुट)"
+        },
+        {
+          "ID": 382237,
+          "Title": "केक"
+        },
+        {
+          "ID": 397315,
+          "Title": "भूत-प्रेत"
+        },
+        {
+          "ID": 462883,
+          "Title": "पास्ता"
+        },
+        {
+          "ID": 463978,
+          "Title": "लॉक नेस दानव"
+        },
+        {
+          "ID": 469911,
+          "Title": "सकर पंच"
+        },
+        {
+          "ID": 472690,
+          "Title": "उबले हुए अंडे"
+        },
+        {
+          "ID": 478977,
+          "Title": "एसी/डीसी"
+        },
+        {
+          "ID": 500010,
+          "Title": "जब तक है जान"
+        },
+        {
+          "ID": 576126,
+          "Title": "किक (२०१४ फिल्म)"
+        },
+        {
+          "ID": 579481,
+          "Title": "पीके (फ़िल्म)"
+        },
+        {
+          "ID": 665328,
+          "Title": "डब्ल्यूडब्ल्यूई वर्ल्ड हेवीवेट चैंपियनशिप"
+        },
+        {
+          "ID": 729106,
+          "Title": "काबिल"
+        },
+        {
+          "ID": 767997,
+          "Title": "अण्डा (खाद्य)"
+        },
+        {
+          "ID": 955849,
+          "Title": "साहित्यिक यथार्थवाद"
+        }
+      ]
+    },
+    {
+      "ID": 2147483638,
+      "Title": "Geography and places",
+      "Abstract": "Geography (Greek Geo (γη) or Gaea (γαία), meaning \"Earth\", and graphein (γράφειν) meaning \"to describe\" or \"to write\") is the study of the earth and its features, inhabitants, and phenomena. A literal translation would be \"to describe or write about the Earth\". The first person to use the word \"geography\" was Eratosthenes (275-195 B.C.). Four historical traditions in geographical research are the spatial analysis of natural and human phenomena (geography as a study of distribution), area studies (places and regions), study of man-land relationship, and research in earth sciences. Nonetheless, modern geography is an all-encompassing discipline that foremost seeks to understand the world and all of its human and natural complexities — not merely where objects are, but how they have changed and come to be. As \"the bridge between the human and physical sciences,\" geography is divided into two main branches — human geography and physical geography",
+      "Categories": [
+        {
+          "ID": 1522,
+          "Title": "श्रेणी:भूगोल"
+        },
+        {
+          "ID": 72298,
+          "Title": "श्रेणी:स्थान"
+        },
+        {
+          "ID": 572044,
+          "Title": "श्रेणी:भू-आकृति विज्ञान"
+        },
+        {
+          "ID": 609771,
+          "Title": "श्रेणी:नगरीय नियोजन"
+        },
+        {
+          "ID": 643407,
+          "Title": "श्रेणी:भूगोल-सम्बंधित सूचियाँ"
+        }
+      ],
+      "Articles": [
+        {
+          "ID": 2293,
+          "Title": "कैनबरा"
+        },
+        {
+          "ID": 5483,
+          "Title": "पेरिस"
+        },
+        {
+          "ID": 12676,
+          "Title": "वेनिस"
+        },
+        {
+          "ID": 13288,
+          "Title": "म्यान्मार"
+        },
+        {
+          "ID": 14422,
+          "Title": "क्वीन्सलैण्ड"
+        }
+      ]
+    },
+    {
+      "ID": 2147483639,
+      "Title": "Health and fitness",
+      "Abstract": "Health is the level of functional or metabolic efficiency of a living organism. In humans it is the ability of individuals or communities to adapt and self-manage when facing physical, mental or social challenges. The most widely accepted definition of good health is that of the World Health Organization Constitution. It states: \"health is a state of complete physical, mental and social well-being and is not merely the absence of disease or infirmity\" (World Health Organization, 1946). In more recent years, this statement has been amplified to include the ability to lead a \"socially and economically productive life.\" The WHO definition is not without criticism, mainly that it is much too broad.\n\nThe most solid aspects of wellness that fit firmly in the realm of medicine are environmental health, nutrition, disease prevention, and public health. These matters can be investigated at length and can assist in measuring well-being. Please see our medical disclaimer for cautions about Wikipedia's limitations",
+      "Categories": [
+        {
+          "ID": 10812,
+          "Title": "श्रेणी:आयुर्विज्ञान"
+        },
+        {
+          "ID": 19354,
+          "Title": "श्रेणी:स्वास्थ्यविज्ञान"
+        },
+        {
+          "ID": 43389,
+          "Title": "श्रेणी:स्वास्थ्य"
+        },
+        {
+          "ID": 509559,
+          "Title": "श्रेणी:स्वास्थ्य सेवा व्यवसाय"
+        },
+        {
+          "ID": 656155,
+          "Title": "श्रेणी:स्वच्छता"
+        },
+        {
+          "ID": 656160,
+          "Title": "श्रेणी:निजी देखभाल"
+        },
+        {
+          "ID": 657034,
+          "Title": "श्रेणी:आयुर्विज्ञान की शाखाएँ"
+        }
+      ]
+    },
+    {
+      "ID": 2147483640,
+      "Title": "History and events",
+      "Abstract": "History is the interpretation of past events, societies and civilizations. The term history comes from the Greek historia (ἱστορία), \"an account of one's inquiries,\" and shares that etymology with the English word story as narrative. The 1911 Encyclopædia Britannica stated that \"history in the wider sense is all that has happened, not merely all the phenomena of human life, but those of the natural world as well. It is everything that undergoes change; and as modern science has shown that there is nothing absolutely static, therefore, the whole universe, and every part of it, has its history.\" ",
+      "Categories": [
+        {
+          "ID": 1540,
+          "Title": "श्रेणी:इतिहास"
+        },
+        {
+          "ID": 520364,
+          "Title": "श्रेणी:देशानुसार इतिहास"
+        },
+        {
+          "ID": 660256,
+          "Title": "श्रेणी:घटनाएँ"
+        },
+        {
+          "ID": 740717,
+          "Title": "श्रेणी:रीति पालन"
+        }
+      ],
+      "Articles": [
+        {
+          "ID": 27686,
+          "Title": "ट्रॉय का युद्ध"
+        },
+        {
+          "ID": 211397,
+          "Title": "मापन का इतिहास"
+        },
+        {
+          "ID": 222026,
+          "Title": "11 सितम्बर 2001 के हमले"
+        },
+        {
+          "ID": 262019,
+          "Title": "२०११ सेन्दाई भूकम्प और सुनामी"
+        },
+        {
+          "ID": 382557,
+          "Title": "संचार का इतिहास"
+        },
+        {
+          "ID": 488730,
+          "Title": "२०१२ औरोरा गोलीबारी"
+        },
+        {
+          "ID": 565948,
+          "Title": "परिवहन का इतिहास"
+        },
+        {
+          "ID": 569866,
+          "Title": "संयुक्त राज्य राष्ट्रपति चुनाव, 2012"
+        },
+        {
+          "ID": 719850,
+          "Title": "ऑरलैंडो नाइट क्लब गोलीबारी"
+        },
+        {
+          "ID": 719869,
+          "Title": "डॉनल्ड ट्रम्प का राष्ट्रपति चुनाव अभियान"
+        },
+        {
+          "ID": 763837,
+          "Title": "हरम्बे हत्याकाण्ड"
+        },
+        {
+          "ID": 989772,
+          "Title": "आवर्त सारणी का इतिहास"
+        }
+      ]
+    },
+    {
+      "ID": 2147483641,
+      "Title": "Mathematics and logic",
+      "Abstract": "Mathematics is the science of quantization. It is also the study of patterns and relationships, including concepts such as quantity, structure, space, uncertainty, and change. It evolved through the use of abstraction and logical reasoning, from counting, calculation, measurement, and the systematic study of positions, shapes and motions of physical objects. Mathematicians explore such concepts, aiming to formulate new conjectures and establish their truth by rigorous deduction from appropriately chosen axioms and definitions.\n\nLogic (from Classical Greek λόγος logos; meaning word, thought, idea, argument, account, reason or principle) is the study of the principles and criteria of valid inference and demonstration. As a formal science, logic investigates and classifies the structure of statements and arguments, both through the study of formal systems of inference and through the study of arguments in natural language. The field of logic ranges from core topics such as the study of fallacies and paradoxes, to specialized analysis of reasoning using probability and to arguments involving causality. Logic is also commonly used today in argumentation theory. Since the mid-nineteenth century formal logic has been studied in the context of the foundations of mathematics",
+      "Categories": [
+        {
+          "ID": 3235,
+          "Title": "श्रेणी:गणित"
+        },
+        {
+          "ID": 465215,
+          "Title": "श्रेणी:प्रायिकता एवं सांख्यिकी"
+        },
+        {
+          "ID": 486587,
+          "Title": "श्रेणी:तर्कशास्त्र"
+        },
+        {
+          "ID": 603955,
+          "Title": "श्रेणी:सांख्यिकी"
+        },
+        {
+          "ID": 659462,
+          "Title": "श्रेणी:गणित की शाखाएँ"
+        },
+        {
+          "ID": 701605,
+          "Title": "श्रेणी:व्यावहारिक गणित"
+        },
+        {
+          "ID": 737823,
+          "Title": "श्रेणी:गणितीय अवधारणाएँ"
+        },
+        {
+          "ID": 899083,
+          "Title": "श्रेणी:सैद्धांतिक कम्प्यूटर विज्ञान"
+        }
+      ],
+      "Articles": [
+        {
+          "ID": 41880,
+          "Title": "लम्बाई"
+        }
+      ]
+    },
+    {
+      "ID": 2147483642,
+      "Title": "Nature and physical sciences",
+      "Abstract": "The term nature is derived from the Latin word natura, or \"essential qualities, innate disposition\". Natura is a Latin translation of the Greek word physis (φύσις), which originally related to the intrinsic characteristics that plants, animals, and other features of the world develop of their own accord. The concept of nature as a whole, all matter and energy in the universe, is one of several expansions of the original notion.\n\nPhysical science is an encompassing term for the branches of natural science, and science, that study non-living systems, in contrast to the biological sciences. However, the term \"physical\" creates an involuntary, somewhat arbitrary distinction, since many branches of physical science also study biological phenomena",
+      "Categories": [
+        {
+          "ID": 4684,
+          "Title": "श्रेणी:विज्ञान"
+        },
+        {
+          "ID": 5422,
+          "Title": "श्रेणी:प्रकृति"
+        },
+        {
+          "ID": 8473,
+          "Title": "श्रेणी:भौतिकी"
+        },
+        {
+          "ID": 10813,
+          "Title": "श्रेणी:रसायन शास्त्र"
+        },
+        {
+          "ID": 47124,
+          "Title": "श्रेणी:प्राणी विज्ञान"
+        },
+        {
+          "ID": 58952,
+          "Title": "श्रेणी:रासायनिक यौगिक"
+        },
+        {
+          "ID": 72228,
+          "Title": "श्रेणी:आपदाएँ"
+        },
+        {
+          "ID": 493288,
+          "Title": "श्रेणी:महाद्वीप के अनुसार प्राणी"
+        },
+        {
+          "ID": 519314,
+          "Title": "श्रेणी:प्राकृतिक विज्ञान"
+        },
+        {
+          "ID": 656181,
+          "Title": "श्रेणी:पर्यावरणीय विज्ञान"
+        },
+        {
+          "ID": 659548,
+          "Title": "श्रेणी:भौतिक विज्ञान"
+        }
+      ],
+      "Articles": [
+        {
+          "ID": 7906,
+          "Title": "संतरा (फल)"
+        },
+        {
+          "ID": 8250,
+          "Title": "ऊँट"
+        },
+        {
+          "ID": 8899,
+          "Title": "चावल"
+        },
+        {
+          "ID": 8902,
+          "Title": "गेहूँ"
+        },
+        {
+          "ID": 8903,
+          "Title": "मक्का (अनाज)"
+        },
+        {
+          "ID": 15844,
+          "Title": "मूत्र"
+        },
+        {
+          "ID": 35278,
+          "Title": "फूल गोभी"
+        },
+        {
+          "ID": 39074,
+          "Title": "हस्तमैथुन"
+        },
+        {
+          "ID": 48833,
+          "Title": "शिश्न"
+        },
+        {
+          "ID": 63055,
+          "Title": "नीबू"
+        },
+        {
+          "ID": 97977,
+          "Title": "गोबर"
+        },
+        {
+          "ID": 99340,
+          "Title": "आग"
+        },
+        {
+          "ID": 181973,
+          "Title": "जल चक्र"
+        },
+        {
+          "ID": 189501,
+          "Title": "अनानास"
+        },
+        {
+          "ID": 189505,
+          "Title": "स्ट्रॉबेरी"
+        },
+        {
+          "ID": 194130,
+          "Title": "वृषण"
+        },
+        {
+          "ID": 195287,
+          "Title": "सफ़ेद बाघ"
+        },
+        {
+          "ID": 217745,
+          "Title": "पेशीतन्त्र"
+        },
+        {
+          "ID": 221507,
+          "Title": "खाद्य शृंखला"
+        },
+        {
+          "ID": 650381,
+          "Title": "अंकुरण क्रिया"
+        },
+        {
+          "ID": 804685,
+          "Title": "आम"
+        }
+      ]
+    },
+    {
+      "ID": 2147483643,
+      "Title": "People and self",
+      "Abstract": "A collection of people often refers to a general group, such as all humans, an ethnic group or a nation. An individual person is the self, from his or her own perspective. To you, \"self\" is you. To someone else, \"self\" is that person. A biography is a genre of literature or film, which presents a relatively full account of the most interesting and important events of a notable person's life.\n\nLife or personal life or human existence is an individual human's personal, private experience of living (including their employment career, their family life, and other elements). In prehistoric times, life and existence was based on survival. There was little privacy and a person was identified by their role in the group. In modern times, many people have even come to think of their personal lives as if they are separate from their work. This segmentation of \"life areas\" is evident in such phrases as \"work life\", \"home life\", and \"sex life.\" The meaning or role of a person's \"life\" or \"human existence\" is discussed in many religions and philosophies. In Western industrialized countries, there are a variety of service industries that help people improve their personal lives, such as counselling and life coaching companies",
+      "Categories": [
+        {
+          "ID": 2143,
+          "Title": "श्रेणी:व्यक्तिगत जीवन"
+        },
+        {
+          "ID": 72223,
+          "Title": "श्रेणी:लोग"
+        },
+        {
+          "ID": 459381,
+          "Title": "श्रेणी:उपनाम"
+        },
+        {
+          "ID": 492674,
+          "Title": "श्रेणी:स्वयं"
+        }
+      ],
+      "Articles": [
+        {
+          "ID": 11381,
+          "Title": "श्रीनिवास रामानुजन्"
+        },
+        {
+          "ID": 11649,
+          "Title": "क्रिस्टोफ़र कोलम्बस"
+        },
+        {
+          "ID": 11666,
+          "Title": "बिल गेट्स"
+        },
+        {
+          "ID": 12363,
+          "Title": "अलेक्ज़ांडर फ्लेमिङ"
+        },
+        {
+          "ID": 12512,
+          "Title": "एडोल्फ़ हिटलर"
+        },
+        {
+          "ID": 12570,
+          "Title": "सिग्मुंड फ़्रोइड"
+        },
+        {
+          "ID": 12576,
+          "Title": "योहानेस केप्लर"
+        },
+        {
+          "ID": 12579,
+          "Title": "एलेन ट्यूरिंग"
+        },
+        {
+          "ID": 12807,
+          "Title": "फ़्लोरेन्स नाइटिंगेल"
+        },
+        {
+          "ID": 12815,
+          "Title": "थामस एक्विनास"
+        },
+        {
+          "ID": 13567,
+          "Title": "जार्ज हरिसन"
+        },
+        {
+          "ID": 14155,
+          "Title": "ऑलिवर क्रॉमवेल"
+        },
+        {
+          "ID": 25325,
+          "Title": "लुइस कैरल"
+        },
+        {
+          "ID": 30748,
+          "Title": "डैनियल रैड्क्लिफ़"
+        },
+        {
+          "ID": 30836,
+          "Title": "एडम स्मिथ"
+        },
+        {
+          "ID": 31956,
+          "Title": "नोआम चाम्सकी"
+        },
+        {
+          "ID": 34460,
+          "Title": "कार्ल सेगन"
+        },
+        {
+          "ID": 59936,
+          "Title": "गैलीलियो गैलिली"
+        },
+        {
+          "ID": 192766,
+          "Title": "विलियम ब्लेक"
+        },
+        {
+          "ID": 193525,
+          "Title": "आयन रैंड"
+        },
+        {
+          "ID": 213546,
+          "Title": "बिग शो"
+        },
+        {
+          "ID": 443248,
+          "Title": "रेने देकार्त"
+        },
+        {
+          "ID": 477139,
+          "Title": "रिचर्ड डॉकिन्स"
+        },
+        {
+          "ID": 514889,
+          "Title": "रिशार्द वाग्नर"
+        },
+        {
+          "ID": 521478,
+          "Title": "कार्ल फ्रेडरिक गाउस"
+        },
+        {
+          "ID": 522979,
+          "Title": "चार्ल्स बैबेज"
+        },
+        {
+          "ID": 551455,
+          "Title": "हॅरी हुडीनी"
+        },
+        {
+          "ID": 690862,
+          "Title": "जॉन लेनन"
+        },
+        {
+          "ID": 809520,
+          "Title": "ईविंग लैंगम्यूर"
+        }
+      ]
+    },
+    {
+      "ID": 2147483644,
+      "Title": "Philosophy and thinking",
+      "Abstract": "Philosophy has almost as many definitions as there have been philosophers, both as a subject matter and an activity, and no simple definition can do it justice. The issue of the definition of philosophy is thus a controversial subject that is nowadays tackled by Metaphilosophy (or the philosophy of philosophy). The word is derived from the ancient Greek words philo-, to love or to befriend, and -sophia, wisdom. Modern usage of the term is much broader; the concept of philosophy encompasses all of knowledge and all that can be known, including the means by which such knowledge can be acquired. However, in the contemporary English-speaking academic world, the term is often used implicitly to refer to analytic philosophy and, in non-English speaking countries, it often refers implicitly to a different, European strain, continental philosophy. The ancient Greeks organized the subject into five basic categories: metaphysics, epistemology, ethics, politics and aesthetics. This organization of the subject is still largely in use in Western philosophy today.\n\nThought or thinking is a mental process which allows beings to model the world, and so to deal with it effectively according to their goals, plans, ends and desires. Words referring to similar concepts and processes in the English language include cognition, sentience, consciousness, idea, and imagination. Thinking involves the cerebral manipulation of information, as when we form concepts, engage in problem solving, reason and make decisions. Thinking is a higher cognitive function and the analysis of thinking processes is part of cognitive psychology",
+      "Categories": [
+        {
+          "ID": 4868,
+          "Title": "श्रेणी:दर्शन"
+        },
+        {
+          "ID": 5216,
+          "Title": "श्रेणी:विचारधाराएँ"
+        },
+        {
+          "ID": 387093,
+          "Title": "श्रेणी:नीतिशास्त्र"
+        },
+        {
+          "ID": 387095,
+          "Title": "श्रेणी:विचार"
+        },
+        {
+          "ID": 527840,
+          "Title": "श्रेणी:दर्शन की शाखाएँ"
+        },
+        {
+          "ID": 660163,
+          "Title": "श्रेणी:दार्शनिक सिद्धान्त"
+        },
+        {
+          "ID": 660166,
+          "Title": "श्रेणी:दार्शनिक सम्प्रदाय और परम्पराएँ"
+        }
+      ],
+      "Articles": [
+        {
+          "ID": 191273,
+          "Title": "सुन्दरता"
+        },
+        {
+          "ID": 926293,
+          "Title": "तथ्य"
+        },
+        {
+          "ID": 952379,
+          "Title": "प्रसन्नता"
+        }
+      ]
+    },
+    {
+      "ID": 2147483645,
+      "Title": "Religion and belief systems",
+      "Abstract": "Religion is the adherence to codified beliefs and rituals that generally involve a faith in a spiritual nature and a study of inherited ancestral traditions, knowledge and wisdom related to understanding human life. The term \"religion\" refers to both the personal practices related to faith as well as to the larger shared systems of belief.\n\nA belief system can refer to a religion or a world view. A world view (or worldview) is a term calqued from the German word Weltanschauung Welt is the German word for 'world,' and Anschauung is the German word for 'view' or 'outlook'. It is a concept fundamental to German philosophy and epistemology and refers to a wide world perception. Additionally, it refers to the framework of ideas and beliefs through which an individual interprets the world and interacts in it",
+      "Categories": [
+        {
+          "ID": 4787,
+          "Title": "श्रेणी:धर्म"
+        },
+        {
+          "ID": 11030,
+          "Title": "श्रेणी:पौराणिक कथाएँ"
+        },
+        {
+          "ID": 475295,
+          "Title": "श्रेणी:विश्वास"
+        },
+        {
+          "ID": 507900,
+          "Title": "श्रेणी:धर्मनिरपेक्षता"
+        },
+        {
+          "ID": 637544,
+          "Title": "श्रेणी:धर्म की समालोचना"
+        },
+        {
+          "ID": 660163,
+          "Title": "श्रेणी:दार्शनिक सिद्धान्त"
+        },
+        {
+          "ID": 720255,
+          "Title": "श्रेणी:धर्म का मानवशास्त्र"
+        },
+        {
+          "ID": 914869,
+          "Title": "श्रेणी:धर्मिक वादानुवाद"
+        }
+      ]
+    },
+    {
+      "ID": 2147483646,
+      "Title": "Society and social sciences",
+      "Abstract": "A society is a group of people who form a semi-closed system. At its simplest, the term society refers to a large group of people sharing their own culture and institutions. A society is a network of relationships between people. The English word society is derived from the French société, which had its origin in the Latin societas, a \"friendly association with others,\" from socius meaning \"companion, associate, comrade or business partner.\" Thus, the meaning of society is closely related to what is considered to be social. Implicit in the meaning of society is that its members may share some mutual concern or interest, a common objective or common characteristics. The social sciences generally use the term society to mean a group of people who form a semi-closed social system, in which most interactions are with other individuals belonging to the group. More abstractly, a society is defined as a network of relationships between social entities. A society is also sometimes defined as an interdependent community, but the sociologist Tönnies sought to draw a contrast between society and community. An important feature of society is social structure, aspects of which include roles and social ranking.\n\nThe social science are a group of academic disciplines that study human aspects of the world. They differ from the arts and the humanities, in that the social science tend to emphasize the use of the scientific method in the study of humanity, including quantitative and qualitative methods",
+      "Categories": [
+        {
+          "ID": 4760,
+          "Title": "श्रेणी:समाज"
+        },
+        {
+          "ID": 72025,
+          "Title": "श्रेणी:अधिकार"
+        },
+        {
+          "ID": 212661,
+          "Title": "श्रेणी:नारीवाद"
+        },
+        {
+          "ID": 475290,
+          "Title": "श्रेणी:सामाजिक विज्ञान"
+        },
+        {
+          "ID": 765539,
+          "Title": "श्रेणी:अन्तरराष्ट्रीय संगठन"
+        }
+      ],
+      "Articles": [
+        {
+          "ID": 2302,
+          "Title": "दिल्ली विश्‍वविद्यालय"
+        },
+        {
+          "ID": 2974,
+          "Title": "यूरोपीय संघ"
+        },
+        {
+          "ID": 5223,
+          "Title": "पंजाब विश्वविद्यालय"
+        },
+        {
+          "ID": 10170,
+          "Title": "यादवपुर विश्वविद्यालय"
+        },
+        {
+          "ID": 10177,
+          "Title": "कलकत्ता विश्वविद्यालय"
+        },
+        {
+          "ID": 14631,
+          "Title": "चीनी नववर्ष"
+        },
+        {
+          "ID": 15408,
+          "Title": "जवाहरलाल नेहरू विश्वविद्यालय"
+        },
+        {
+          "ID": 19010,
+          "Title": "अलीगढ़ मुस्लिम विश्वविद्यालय"
+        },
+        {
+          "ID": 19019,
+          "Title": "चौधरी चरण सिंह विश्वविद्यालय"
+        },
+        {
+          "ID": 20737,
+          "Title": "येरुशलम का इब्रानी विश्वविद्यालय"
+        },
+        {
+          "ID": 21012,
+          "Title": "कैम्ब्रिज विश्वविद्यालय"
+        },
+        {
+          "ID": 24269,
+          "Title": "दि न्यू यॉर्क टाइम्स"
+        },
+        {
+          "ID": 25368,
+          "Title": "ऑक्सफ़र्ड विश्वविद्यालय"
+        },
+        {
+          "ID": 32076,
+          "Title": "पेन्सिल्वेनिया विश्वविद्यालय"
+        },
+        {
+          "ID": 32078,
+          "Title": "शिकागो विश्वविद्यालय"
+        },
+        {
+          "ID": 32079,
+          "Title": "कोलंबिया विश्वविद्यालय"
+        },
+        {
+          "ID": 32600,
+          "Title": "मैसाचुसेट्स प्रौद्योगिकी संस्थान"
+        },
+        {
+          "ID": 33769,
+          "Title": "इंडियाना विश्वविद्यालय"
+        },
+        {
+          "ID": 33770,
+          "Title": "वाशिंगटन विश्वविद्यालय"
+        },
+        {
+          "ID": 33771,
+          "Title": "वर्जिनिया विश्वविद्यालय"
+        },
+        {
+          "ID": 48021,
+          "Title": "मुंबई विश्वविद्यालय"
+        },
+        {
+          "ID": 58075,
+          "Title": "द टाइम्स ऑफ़ इण्डिया"
+        },
+        {
+          "ID": 65350,
+          "Title": "फॉक्स न्यूज चैनल"
+        },
+        {
+          "ID": 80198,
+          "Title": "पैरिस विश्वविद्यालय"
+        },
+        {
+          "ID": 94284,
+          "Title": "उप्साला विश्वविद्यालय"
+        },
+        {
+          "ID": 98009,
+          "Title": "गुरु गोबिन्द सिंह इन्द्रप्रस्थ विश्वविद्यालय"
+        },
+        {
+          "ID": 102926,
+          "Title": "बोस्टन विश्वविद्यालय"
+        },
+        {
+          "ID": 105072,
+          "Title": "अण्णा विश्वविद्यालय"
+        },
+        {
+          "ID": 150438,
+          "Title": "ऑस्ट्रेलिया का ध्वज"
+        },
+        {
+          "ID": 180002,
+          "Title": "मुक्त विश्वविद्यालय"
+        },
+        {
+          "ID": 183824,
+          "Title": "संयुक्त राष्ट्र पर्यावरण कार्यक्रम"
+        },
+        {
+          "ID": 186697,
+          "Title": "हार्वर्ड विश्वविद्यालय"
+        },
+        {
+          "ID": 191007,
+          "Title": "नानजींग विश्वविद्यालय"
+        },
+        {
+          "ID": 191988,
+          "Title": "तृतीय विश्व युद्ध"
+        },
+        {
+          "ID": 211866,
+          "Title": "स्टैनफोर्ड विश्वविद्यालय"
+        },
+        {
+          "ID": 213548,
+          "Title": "पिज़्ज़ा हट"
+        },
+        {
+          "ID": 217601,
+          "Title": "अमेरिकन एयरलाइंस"
+        },
+        {
+          "ID": 219375,
+          "Title": "लंदन विश्वविद्यालय"
+        },
+        {
+          "ID": 219382,
+          "Title": "इंपीरियल कॉलेज लंदन"
+        },
+        {
+          "ID": 219385,
+          "Title": "प्रिंसटन विश्वविद्यालय"
+        },
+        {
+          "ID": 248358,
+          "Title": "बीपी"
+        },
+        {
+          "ID": 262323,
+          "Title": "सूक्ष्मराष्ट्र"
+        },
+        {
+          "ID": 303361,
+          "Title": "स्टारबक्स"
+        },
+        {
+          "ID": 435754,
+          "Title": "डोमिनोज़ पिज़्ज़ा"
+        },
+        {
+          "ID": 484383,
+          "Title": "मानव - निर्मित आपदा"
+        },
+        {
+          "ID": 488940,
+          "Title": "दिवालोक बचत समय"
+        },
+        {
+          "ID": 513560,
+          "Title": "वॉलोन्गॉन्ग विश्वविद्यालय"
+        },
+        {
+          "ID": 521269,
+          "Title": "क्वींसलैंड विश्वविद्यालय"
+        },
+        {
+          "ID": 550854,
+          "Title": "ग्लासगो विश्वविद्यालय"
+        },
+        {
+          "ID": 552188,
+          "Title": "समाज कार्य"
+        },
+        {
+          "ID": 564300,
+          "Title": "ऊमेओ विश्वविद्यालय"
+        },
+        {
+          "ID": 583828,
+          "Title": "कोलोन विश्वविद्यालय"
+        },
+        {
+          "ID": 630366,
+          "Title": "टोक्यो विश्वविद्यालय"
+        },
+        {
+          "ID": 639373,
+          "Title": "वियना विश्वविद्यालय"
+        },
+        {
+          "ID": 656630,
+          "Title": "ओसाका विश्वविद्यालय"
+        },
+        {
+          "ID": 678516,
+          "Title": "मास्को राज्य विश्वविद्यालय"
+        },
+        {
+          "ID": 678987,
+          "Title": "बोलोना विश्वविद्यालय"
+        },
+        {
+          "ID": 679482,
+          "Title": "ओहायो राज्य विश्वविद्यालय"
+        },
+        {
+          "ID": 726815,
+          "Title": "नालन्दा विश्वविद्यालय"
+        },
+        {
+          "ID": 738357,
+          "Title": "जिओ"
+        },
+        {
+          "ID": 797831,
+          "Title": "मैनचेस्टर विश्वविद्यालय"
+        },
+        {
+          "ID": 954314,
+          "Title": "जॉर्डन विश्वविद्यालय"
+        }
+      ]
+    },
+    {
+      "ID": 2147483647,
+      "Title": "Technology and applied sciences",
+      "Abstract": "Technology is an expanded concept that deals with a species' usage and knowledge of tools and crafts, and how it affects a species' ability to control and adapt to its environment. In human civilization, it is a consequence of science and engineering, although several technological advances predate the formalization of these two disciplines. The term can either be applied generally or to specific areas – examples include construction technology, medical technology, or state-of-the-art technology.\n\nThe human race's use of technology began with the conversion of plentiful natural resources into simple tools. The prehistorical discovery of the ability to control fire increased the available sources of food, and the invention of the wheel helped humans in travelling in and controlling their environment. Recent technological developments, including the printing press and the Internet, have lessened physical barriers to communication and allowed humans to interact on a global scale. However, not all technology has been used for peaceful purposes; the development of weapons of ever-increasing destructive power has progressed throughout history, from clubs to nuclear bombs.\n\nApplied science is the application of knowledge from one or more natural scientific fields to solving practical problems. For example, fields of engineering are applied sciences. Applied science is important for technology development. Its use in industrial settings is usually referred to as research and development (R\u0026D)",
+      "Categories": [
+        {
+          "ID": 10846,
+          "Title": "श्रेणी:इलेक्ट्रॉनिक्स"
+        },
+        {
+          "ID": 21009,
+          "Title": "श्रेणी:अंतरजाल"
+        },
+        {
+          "ID": 33588,
+          "Title": "श्रेणी:यातायात"
+        },
+        {
+          "ID": 36269,
+          "Title": "श्रेणी:प्रौद्योगिकी"
+        },
+        {
+          "ID": 181218,
+          "Title": "श्रेणी:अभियान्त्रिकी"
+        },
+        {
+          "ID": 442626,
+          "Title": "श्रेणी:प्रौद्योगिकी का इतिहास"
+        },
+        {
+          "ID": 656295,
+          "Title": "श्रेणी:व्यावहारिक विज्ञान"
+        },
+        {
+          "ID": 657044,
+          "Title": "श्रेणी:प्रकारानुसार प्रौद्योगिकी"
+        },
+        {
+          "ID": 703498,
+          "Title": "श्रेणी:डिज़ाइन"
+        },
+        {
+          "ID": 706546,
+          "Title": "श्रेणी:अभिकलन"
+        },
+        {
+          "ID": 706547,
+          "Title": "श्रेणी:कम्प्यूटर विज्ञान"
+        },
+        {
+          "ID": 798492,
+          "Title": "श्रेणी:सैन्य उपकरण"
+        }
+      ],
+      "Articles": [
+        {
+          "ID": 46863,
+          "Title": "पेप्सी"
+        },
+        {
+          "ID": 247088,
+          "Title": "राजगीरी"
+        },
+        {
+          "ID": 491621,
+          "Title": "दीवार"
+        }
+      ]
+    }
+  ],
+  "Filters": [
+    {
+      "ID": 4542,
+      "Title": "श्रेणी:बहुविकल्पी शब्द"
+    },
+    {
+      "ID": 432392,
+      "Title": "श्रेणी:छुपाई हुई श्रेणियाँ"
+    }
+  ]
+}

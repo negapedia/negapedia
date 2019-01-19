@@ -1,0 +1,1570 @@
+{
+  "Language": "ca",
+  "Topics": [
+    {
+      "ID": 2147483637,
+      "Title": "Culture and the arts",
+      "Abstract": "The word culture is derived from the Latin root cultura or cultus meaning to \"inhabit, cultivate, or honour\". In general, culture refers to human activity; different definitions of culture reflect different theories for understanding, or criteria for valuing human activity. Present day Anthropologists use the term to refer to the universal human capacity to classify experiences and to encode and communicate them symbolically. They regard this capacity as a defining feature of the genus Homo. Since culture is learned, people living in different places have different cultures. There can be different cultures in different countries, and there can also be shared cultures among continents.\n\nThe arts are a vast subdivision of culture, composed of many creative endeavors and disciplines. It is a broader term than \"art,\" which as a description of a field usually means only the visual arts. The arts encompasses visual arts, literary arts and the performing arts - music, theatre, dance, spoken word and film, among others.\n\nArt, in its broadest meaning, is the expression of creativity or imagination. The word art comes from the Latin word ars, which, loosely translated, means \"arrangement\". Art is commonly understood as the act of making works (or artworks) which use the human creative impulse and which have meaning beyond simple description. Art is often distinguished from crafts and recreational hobby activities. The term creative arts denotes a collection of disciplines whose principal purpose is the output of material for the viewer or audience to interpret. As such, art may be taken to include forms as diverse as prose writing, poetry, dance, acting or drama, film, music, sculpture, photography, illustration, architecture, collage, painting, craft and fashion. Art may also be understood as relating to creativity, æsthetics and the generation of emotion",
+      "Categories": [
+        {
+          "ID": 12691,
+          "Title": "Categoria:Art"
+        },
+        {
+          "ID": 12968,
+          "Title": "Categoria:Cultura"
+        },
+        {
+          "ID": 13567,
+          "Title": "Categoria:Grups de música"
+        },
+        {
+          "ID": 18131,
+          "Title": "Categoria:Pel·lícules"
+        },
+        {
+          "ID": 19331,
+          "Title": "Categoria:Entreteniment"
+        },
+        {
+          "ID": 19901,
+          "Title": "Categoria:Aliments"
+        },
+        {
+          "ID": 20744,
+          "Title": "Categoria:Espectacles"
+        },
+        {
+          "ID": 457594,
+          "Title": "Categoria:Aficions"
+        },
+        {
+          "ID": 815150,
+          "Title": "Categoria:Esport"
+        }
+      ],
+      "Articles": [
+        {
+          "ID": 445,
+          "Title": "Cafè"
+        },
+        {
+          "ID": 970,
+          "Title": "Enciclopèdia"
+        },
+        {
+          "ID": 2343,
+          "Title": "Pa"
+        },
+        {
+          "ID": 9312,
+          "Title": "Viquipèdia"
+        },
+        {
+          "ID": 12154,
+          "Title": "Fel·lació"
+        },
+        {
+          "ID": 18907,
+          "Title": "Cervesa"
+        },
+        {
+          "ID": 20396,
+          "Title": "Xocolata"
+        },
+        {
+          "ID": 22202,
+          "Title": "Ou (aliment)"
+        },
+        {
+          "ID": 29855,
+          "Title": "Mantega de cacauet"
+        },
+        {
+          "ID": 31210,
+          "Title": "Literatura realista"
+        },
+        {
+          "ID": 39020,
+          "Title": "Celibat"
+        },
+        {
+          "ID": 60179,
+          "Title": "Green Day"
+        },
+        {
+          "ID": 60930,
+          "Title": "Led Zeppelin"
+        },
+        {
+          "ID": 71620,
+          "Title": "Hogwarts"
+        },
+        {
+          "ID": 71910,
+          "Title": "AC/DC"
+        },
+        {
+          "ID": 89746,
+          "Title": "Palau de Buckingham"
+        },
+        {
+          "ID": 104994,
+          "Title": "Pizza"
+        },
+        {
+          "ID": 114068,
+          "Title": "Sgt. Pepper's Lonely Hearts Club Band"
+        },
+        {
+          "ID": 121267,
+          "Title": "Pastís"
+        },
+        {
+          "ID": 122800,
+          "Title": "Castedat"
+        },
+        {
+          "ID": 127518,
+          "Title": "Fantasma"
+        },
+        {
+          "ID": 146608,
+          "Title": "Dinosaur Jr"
+        },
+        {
+          "ID": 147657,
+          "Title": "Carbonara"
+        },
+        {
+          "ID": 147914,
+          "Title": "Pasta"
+        },
+        {
+          "ID": 167685,
+          "Title": "Giuditta Pasta"
+        },
+        {
+          "ID": 171525,
+          "Title": "Rock Band (videojoc)"
+        },
+        {
+          "ID": 171567,
+          "Title": "Campionat WWE"
+        },
+        {
+          "ID": 178913,
+          "Title": "Pa de pessic"
+        },
+        {
+          "ID": 201553,
+          "Title": "Mordred"
+        },
+        {
+          "ID": 274648,
+          "Title": "Monstre del llac Ness"
+        },
+        {
+          "ID": 287640,
+          "Title": "Pernil"
+        },
+        {
+          "ID": 301291,
+          "Title": "Pasta con le sarde"
+        },
+        {
+          "ID": 417557,
+          "Title": "Cansalada"
+        },
+        {
+          "ID": 441829,
+          "Title": "Pastís de noces"
+        },
+        {
+          "ID": 443102,
+          "Title": "Pa de motlle"
+        },
+        {
+          "ID": 478453,
+          "Title": "Salsa de tomàquet"
+        },
+        {
+          "ID": 510521,
+          "Title": "Ou centenari"
+        },
+        {
+          "ID": 523420,
+          "Title": "Ou bullit"
+        },
+        {
+          "ID": 594613,
+          "Title": "Tècniques d'estudi"
+        },
+        {
+          "ID": 606769,
+          "Title": "Xocolata blanca"
+        },
+        {
+          "ID": 679017,
+          "Title": "Taco"
+        },
+        {
+          "ID": 738094,
+          "Title": "Panellet de llavor de lotus"
+        },
+        {
+          "ID": 738103,
+          "Title": "Barra de coco"
+        },
+        {
+          "ID": 738112,
+          "Title": "Fun guo"
+        },
+        {
+          "ID": 766204,
+          "Title": "Dansa urbana"
+        },
+        {
+          "ID": 788434,
+          "Title": "Crudités"
+        },
+        {
+          "ID": 797236,
+          "Title": "Ou ferrat"
+        },
+        {
+          "ID": 811274,
+          "Title": "Salsa espanyola"
+        },
+        {
+          "ID": 816673,
+          "Title": "Frankfurt (entrepà)"
+        },
+        {
+          "ID": 822822,
+          "Title": "Angry Birds"
+        },
+        {
+          "ID": 869317,
+          "Title": "Judas (cançó)"
+        },
+        {
+          "ID": 893283,
+          "Title": "Pa integral"
+        },
+        {
+          "ID": 893288,
+          "Title": "Pa de soda"
+        },
+        {
+          "ID": 941606,
+          "Title": "The Wanted"
+        },
+        {
+          "ID": 946525,
+          "Title": "Ou d'ànec en salaó"
+        },
+        {
+          "ID": 968186,
+          "Title": "Cervesa sense alcohol"
+        },
+        {
+          "ID": 989127,
+          "Title": "Llet amb cacau"
+        },
+        {
+          "ID": 993504,
+          "Title": "Napolitana (galeta)"
+        },
+        {
+          "ID": 1018317,
+          "Title": "Drawing Hands"
+        },
+        {
+          "ID": 1056680,
+          "Title": "Dia de la marmota"
+        },
+        {
+          "ID": 1081031,
+          "Title": "Bra (formatge)"
+        },
+        {
+          "ID": 1101415,
+          "Title": "Rotlle de tofu"
+        },
+        {
+          "ID": 1123352,
+          "Title": "The World Factbook"
+        },
+        {
+          "ID": 1192304,
+          "Title": "Gelat italià"
+        },
+        {
+          "ID": 1269908,
+          "Title": "Caldo gallec"
+        },
+        {
+          "ID": 1280478,
+          "Title": "Inundacions del Nil"
+        },
+        {
+          "ID": 1293579,
+          "Title": "Ash Ketchum"
+        },
+        {
+          "ID": 1296224,
+          "Title": "Nokul"
+        },
+        {
+          "ID": 1309710,
+          "Title": "Sucker Punch"
+        },
+        {
+          "ID": 1406388,
+          "Title": "Festival de la Cançó d'Eurovisió 2017"
+        },
+        {
+          "ID": 1493193,
+          "Title": "Galeta amb xips de xocolata"
+        },
+        {
+          "ID": 1551113,
+          "Title": "Bescuit xinès"
+        },
+        {
+          "ID": 1562734,
+          "Title": "Pa de coco"
+        },
+        {
+          "ID": 1571860,
+          "Title": "Bazin (menjar)"
+        },
+        {
+          "ID": 1583933,
+          "Title": "Festival de la Cançó d'Eurovisió 2018"
+        }
+      ]
+    },
+    {
+      "ID": 2147483638,
+      "Title": "Geography and places",
+      "Abstract": "Geography (Greek Geo (γη) or Gaea (γαία), meaning \"Earth\", and graphein (γράφειν) meaning \"to describe\" or \"to write\") is the study of the earth and its features, inhabitants, and phenomena. A literal translation would be \"to describe or write about the Earth\". The first person to use the word \"geography\" was Eratosthenes (275-195 B.C.). Four historical traditions in geographical research are the spatial analysis of natural and human phenomena (geography as a study of distribution), area studies (places and regions), study of man-land relationship, and research in earth sciences. Nonetheless, modern geography is an all-encompassing discipline that foremost seeks to understand the world and all of its human and natural complexities — not merely where objects are, but how they have changed and come to be. As \"the bridge between the human and physical sciences,\" geography is divided into two main branches — human geography and physical geography",
+      "Categories": [
+        {
+          "ID": 13525,
+          "Title": "Categoria:Geografia"
+        },
+        {
+          "ID": 31515,
+          "Title": "Categoria:Urbanisme"
+        },
+        {
+          "ID": 58228,
+          "Title": "Categoria:Llistes de geografia"
+        },
+        {
+          "ID": 121389,
+          "Title": "Categoria:Geomorfologia"
+        },
+        {
+          "ID": 1023911,
+          "Title": "Categoria:Llocs"
+        }
+      ],
+      "Articles": [
+        {
+          "ID": 8851,
+          "Title": "París"
+        },
+        {
+          "ID": 27544,
+          "Title": "Venècia"
+        },
+        {
+          "ID": 35990,
+          "Title": "Birmània"
+        },
+        {
+          "ID": 37267,
+          "Title": "Canberra"
+        },
+        {
+          "ID": 59569,
+          "Title": "Queensland"
+        },
+        {
+          "ID": 696801,
+          "Title": "Carlsbad (Nou Mèxic)"
+        }
+      ]
+    },
+    {
+      "ID": 2147483639,
+      "Title": "Health and fitness",
+      "Abstract": "Health is the level of functional or metabolic efficiency of a living organism. In humans it is the ability of individuals or communities to adapt and self-manage when facing physical, mental or social challenges. The most widely accepted definition of good health is that of the World Health Organization Constitution. It states: \"health is a state of complete physical, mental and social well-being and is not merely the absence of disease or infirmity\" (World Health Organization, 1946). In more recent years, this statement has been amplified to include the ability to lead a \"socially and economically productive life.\" The WHO definition is not without criticism, mainly that it is much too broad.\n\nThe most solid aspects of wellness that fit firmly in the realm of medicine are environmental health, nutrition, disease prevention, and public health. These matters can be investigated at length and can assist in measuring well-being. Please see our medical disclaimer for cautions about Wikipedia's limitations",
+      "Categories": [
+        {
+          "ID": 16351,
+          "Title": "Categoria:Ciències de la salut"
+        },
+        {
+          "ID": 18438,
+          "Title": "Categoria:Medicina"
+        },
+        {
+          "ID": 498206,
+          "Title": "Categoria:Especialitats de la medicina"
+        },
+        {
+          "ID": 511623,
+          "Title": "Categoria:Salut i benestar social"
+        },
+        {
+          "ID": 627185,
+          "Title": "Categoria:Higiene"
+        },
+        {
+          "ID": 1052663,
+          "Title": "Categoria:Malalties i trastorns genètics"
+        },
+        {
+          "ID": 1364925,
+          "Title": "Categoria:Professions sanitàries"
+        }
+      ],
+      "Articles": [
+        {
+          "ID": 1229381,
+          "Title": "Resposta sensorial meridiana autònoma"
+        }
+      ]
+    },
+    {
+      "ID": 2147483640,
+      "Title": "History and events",
+      "Abstract": "History is the interpretation of past events, societies and civilizations. The term history comes from the Greek historia (ἱστορία), \"an account of one's inquiries,\" and shares that etymology with the English word story as narrative. The 1911 Encyclopædia Britannica stated that \"history in the wider sense is all that has happened, not merely all the phenomena of human life, but those of the natural world as well. It is everything that undergoes change; and as modern science has shown that there is nothing absolutely static, therefore, the whole universe, and every part of it, has its history.\" ",
+      "Categories": [
+        {
+          "ID": 13625,
+          "Title": "Categoria:Història"
+        },
+        {
+          "ID": 320218,
+          "Title": "Categoria:Eleccions per any"
+        },
+        {
+          "ID": 583871,
+          "Title": "Categoria:Esdeveniments"
+        }
+      ],
+      "Articles": [
+        {
+          "ID": 67271,
+          "Title": "Guerra de Troia"
+        },
+        {
+          "ID": 84601,
+          "Title": "Atemptats de l'11 de setembre de 2001"
+        },
+        {
+          "ID": 234630,
+          "Title": "Història de la taula periòdica"
+        },
+        {
+          "ID": 247567,
+          "Title": "Cultura de les grans planúries americanes"
+        },
+        {
+          "ID": 532184,
+          "Title": "Negació de l'Holocaust"
+        },
+        {
+          "ID": 825414,
+          "Title": "Terratrèmol i tsunami del Japó del 2011"
+        },
+        {
+          "ID": 986896,
+          "Title": "Història del transport"
+        },
+        {
+          "ID": 1026912,
+          "Title": "Massacre d'Aurora de 2012"
+        },
+        {
+          "ID": 1036708,
+          "Title": "Eleccions presidencials dels Estats Units de 2012"
+        },
+        {
+          "ID": 1224155,
+          "Title": "Cop que compta"
+        },
+        {
+          "ID": 1413010,
+          "Title": "Massacre de la discoteca Pulse d'Orlando de 2016"
+        },
+        {
+          "ID": 1423420,
+          "Title": "Campanya presidencial de Donald Trump de 2016"
+        },
+        {
+          "ID": 1428694,
+          "Title": "Història d'Àfrica Occidental"
+        }
+      ]
+    },
+    {
+      "ID": 2147483641,
+      "Title": "Mathematics and logic",
+      "Abstract": "Mathematics is the science of quantization. It is also the study of patterns and relationships, including concepts such as quantity, structure, space, uncertainty, and change. It evolved through the use of abstraction and logical reasoning, from counting, calculation, measurement, and the systematic study of positions, shapes and motions of physical objects. Mathematicians explore such concepts, aiming to formulate new conjectures and establish their truth by rigorous deduction from appropriately chosen axioms and definitions.\n\nLogic (from Classical Greek λόγος logos; meaning word, thought, idea, argument, account, reason or principle) is the study of the principles and criteria of valid inference and demonstration. As a formal science, logic investigates and classifies the structure of statements and arguments, both through the study of formal systems of inference and through the study of arguments in natural language. The field of logic ranges from core topics such as the study of fallacies and paradoxes, to specialized analysis of reasoning using probability and to arguments involving causality. Logic is also commonly used today in argumentation theory. Since the mid-nineteenth century formal logic has been studied in the context of the foundations of mathematics",
+      "Categories": [
+        {
+          "ID": 13774,
+          "Title": "Categoria:Matemàtiques"
+        },
+        {
+          "ID": 29308,
+          "Title": "Categoria:Estadística"
+        },
+        {
+          "ID": 35170,
+          "Title": "Categoria:Lògica"
+        },
+        {
+          "ID": 259625,
+          "Title": "Categoria:Informàtica teòrica"
+        },
+        {
+          "ID": 404374,
+          "Title": "Categoria:Matemàtica aplicada"
+        },
+        {
+          "ID": 1141399,
+          "Title": "Categoria:Branques de les matemàtiques"
+        }
+      ],
+      "Articles": [
+        {
+          "ID": 149804,
+          "Title": "Longitud"
+        }
+      ]
+    },
+    {
+      "ID": 2147483642,
+      "Title": "Nature and physical sciences",
+      "Abstract": "The term nature is derived from the Latin word natura, or \"essential qualities, innate disposition\". Natura is a Latin translation of the Greek word physis (φύσις), which originally related to the intrinsic characteristics that plants, animals, and other features of the world develop of their own accord. The concept of nature as a whole, all matter and energy in the universe, is one of several expansions of the original notion.\n\nPhysical science is an encompassing term for the branches of natural science, and science, that study non-living systems, in contrast to the biological sciences. However, the term \"physical\" creates an involuntary, somewhat arbitrary distinction, since many branches of physical science also study biological phenomena",
+      "Categories": [
+        {
+          "ID": 12418,
+          "Title": "Categoria:Química"
+        },
+        {
+          "ID": 12670,
+          "Title": "Categoria:Física"
+        },
+        {
+          "ID": 12716,
+          "Title": "Categoria:Ciències naturals"
+        },
+        {
+          "ID": 13735,
+          "Title": "Categoria:Compostos químics"
+        },
+        {
+          "ID": 18975,
+          "Title": "Categoria:Zoologia"
+        },
+        {
+          "ID": 591034,
+          "Title": "Categoria:Ciència"
+        },
+        {
+          "ID": 1176345,
+          "Title": "Categoria:Ciències ambientals"
+        },
+        {
+          "ID": 1200482,
+          "Title": "Categoria:Natura"
+        },
+        {
+          "ID": 1264852,
+          "Title": "Categoria:Catàstrofes"
+        },
+        {
+          "ID": 1633735,
+          "Title": "Categoria:Fauna per continent"
+        }
+      ],
+      "Articles": [
+        {
+          "ID": 390,
+          "Title": "Blat"
+        },
+        {
+          "ID": 613,
+          "Title": "Cicle hidrològic"
+        },
+        {
+          "ID": 15455,
+          "Title": "Llimona dolça"
+        },
+        {
+          "ID": 15457,
+          "Title": "Taronja"
+        },
+        {
+          "ID": 16354,
+          "Title": "Arròs"
+        },
+        {
+          "ID": 16763,
+          "Title": "Dacsa"
+        },
+        {
+          "ID": 19798,
+          "Title": "Foc"
+        },
+        {
+          "ID": 24186,
+          "Title": "Masturbació"
+        },
+        {
+          "ID": 30126,
+          "Title": "Taronger"
+        },
+        {
+          "ID": 46137,
+          "Title": "Llimoner"
+        },
+        {
+          "ID": 78894,
+          "Title": "Coliflor"
+        },
+        {
+          "ID": 84173,
+          "Title": "Ananàs"
+        },
+        {
+          "ID": 90607,
+          "Title": "Flamencs (animal)"
+        },
+        {
+          "ID": 96199,
+          "Title": "Maduixot"
+        },
+        {
+          "ID": 136307,
+          "Title": "Testicle"
+        },
+        {
+          "ID": 138851,
+          "Title": "Licòsids"
+        },
+        {
+          "ID": 150877,
+          "Title": "Granota arborícola"
+        },
+        {
+          "ID": 176388,
+          "Title": "Verat"
+        },
+        {
+          "ID": 242001,
+          "Title": "Orina"
+        },
+        {
+          "ID": 251048,
+          "Title": "Ant"
+        },
+        {
+          "ID": 252847,
+          "Title": "Pseudacris crucifer"
+        },
+        {
+          "ID": 260670,
+          "Title": "Suspensió (mescla)"
+        },
+        {
+          "ID": 327272,
+          "Title": "Pèl-roig"
+        },
+        {
+          "ID": 333487,
+          "Title": "Aparell locomotor"
+        },
+        {
+          "ID": 333489,
+          "Title": "Sistema muscular"
+        },
+        {
+          "ID": 350356,
+          "Title": "Colors complementaris"
+        },
+        {
+          "ID": 546275,
+          "Title": "Germinació"
+        },
+        {
+          "ID": 555481,
+          "Title": "Becadell pintat"
+        },
+        {
+          "ID": 595902,
+          "Title": "Calendari maia"
+        },
+        {
+          "ID": 684520,
+          "Title": "Arròs glutinós"
+        },
+        {
+          "ID": 752266,
+          "Title": "Sula (gènere)"
+        },
+        {
+          "ID": 777753,
+          "Title": "Pícea d'Engelmann"
+        },
+        {
+          "ID": 915627,
+          "Title": "Mantell (anatomia)"
+        },
+        {
+          "ID": 917299,
+          "Title": "Mona aranya"
+        },
+        {
+          "ID": 923152,
+          "Title": "Gran fèlid"
+        },
+        {
+          "ID": 967392,
+          "Title": "Motoneurona"
+        },
+        {
+          "ID": 977398,
+          "Title": "Tigre blanc"
+        },
+        {
+          "ID": 1151193,
+          "Title": "Corymbia ficifolia"
+        },
+        {
+          "ID": 1153133,
+          "Title": "Savina turífera"
+        },
+        {
+          "ID": 1214516,
+          "Title": "Penis"
+        },
+        {
+          "ID": 1224655,
+          "Title": "Camell"
+        }
+      ]
+    },
+    {
+      "ID": 2147483643,
+      "Title": "People and self",
+      "Abstract": "A collection of people often refers to a general group, such as all humans, an ethnic group or a nation. An individual person is the self, from his or her own perspective. To you, \"self\" is you. To someone else, \"self\" is that person. A biography is a genre of literature or film, which presents a relatively full account of the most interesting and important events of a notable person's life.\n\nLife or personal life or human existence is an individual human's personal, private experience of living (including their employment career, their family life, and other elements). In prehistoric times, life and existence was based on survival. There was little privacy and a person was identified by their role in the group. In modern times, many people have even come to think of their personal lives as if they are separate from their work. This segmentation of \"life areas\" is evident in such phrases as \"work life\", \"home life\", and \"sex life.\" The meaning or role of a person's \"life\" or \"human existence\" is discussed in many religions and philosophies. In Western industrialized countries, there are a variety of service industries that help people improve their personal lives, such as counselling and life coaching companies",
+      "Categories": [
+        {
+          "ID": 16117,
+          "Title": "Categoria:Biografies"
+        },
+        {
+          "ID": 183463,
+          "Title": "Categoria:Personatges de cinema"
+        },
+        {
+          "ID": 198221,
+          "Title": "Categoria:Artistes per especialitat"
+        },
+        {
+          "ID": 213851,
+          "Title": "Categoria:Cognoms"
+        }
+      ],
+      "Articles": [
+        {
+          "ID": 686,
+          "Title": "Cristòfor Colom"
+        },
+        {
+          "ID": 1208,
+          "Title": "Alexander Fleming"
+        },
+        {
+          "ID": 1347,
+          "Title": "Galileo Galilei"
+        },
+        {
+          "ID": 3165,
+          "Title": "Richard Wagner"
+        },
+        {
+          "ID": 8870,
+          "Title": "Adolf Hitler"
+        },
+        {
+          "ID": 9427,
+          "Title": "Charles Babbage"
+        },
+        {
+          "ID": 12111,
+          "Title": "John Lennon"
+        },
+        {
+          "ID": 16470,
+          "Title": "Alan Turing"
+        },
+        {
+          "ID": 18124,
+          "Title": "Sigmund Freud"
+        },
+        {
+          "ID": 19198,
+          "Title": "René Descartes"
+        },
+        {
+          "ID": 19709,
+          "Title": "Bill Gates"
+        },
+        {
+          "ID": 21562,
+          "Title": "Johannes Kepler"
+        },
+        {
+          "ID": 23527,
+          "Title": "Adam Smith"
+        },
+        {
+          "ID": 25801,
+          "Title": "Carl Friedrich Gauß"
+        },
+        {
+          "ID": 28898,
+          "Title": "Tomàs d'Aquino"
+        },
+        {
+          "ID": 39328,
+          "Title": "Florence Nightingale"
+        },
+        {
+          "ID": 40112,
+          "Title": "Carl Sagan"
+        },
+        {
+          "ID": 50839,
+          "Title": "George Harrison"
+        },
+        {
+          "ID": 60544,
+          "Title": "Noam Chomsky"
+        },
+        {
+          "ID": 61667,
+          "Title": "Elton John"
+        },
+        {
+          "ID": 83214,
+          "Title": "Harry Houdini"
+        },
+        {
+          "ID": 98450,
+          "Title": "Richard Dawkins"
+        },
+        {
+          "ID": 113036,
+          "Title": "Oliver Cromwell"
+        },
+        {
+          "ID": 116172,
+          "Title": "Lewis Carroll"
+        },
+        {
+          "ID": 121867,
+          "Title": "Irving Langmuir"
+        },
+        {
+          "ID": 140908,
+          "Title": "Daniel Radcliffe"
+        },
+        {
+          "ID": 158945,
+          "Title": "Karl Friedrich Abel"
+        },
+        {
+          "ID": 186785,
+          "Title": "William Blake"
+        },
+        {
+          "ID": 244093,
+          "Title": "Srinivasa Ramanujan"
+        },
+        {
+          "ID": 247508,
+          "Title": "Leonardo de Pisa"
+        },
+        {
+          "ID": 327418,
+          "Title": "The Big Show"
+        },
+        {
+          "ID": 332522,
+          "Title": "Joseph Smith"
+        },
+        {
+          "ID": 346046,
+          "Title": "Theodor Schwann"
+        },
+        {
+          "ID": 520386,
+          "Title": "Ayn Rand"
+        },
+        {
+          "ID": 576333,
+          "Title": "Chaïm Soutine"
+        },
+        {
+          "ID": 589853,
+          "Title": "Jacob Black"
+        },
+        {
+          "ID": 905071,
+          "Title": "Anders Behring Breivik"
+        },
+        {
+          "ID": 925915,
+          "Title": "Stephan Lochner"
+        },
+        {
+          "ID": 1055213,
+          "Title": "John Chapman"
+        },
+        {
+          "ID": 1193679,
+          "Title": "Sheldon Cooper"
+        },
+        {
+          "ID": 1348054,
+          "Title": "Ted Cruz"
+        },
+        {
+          "ID": 1463401,
+          "Title": "Dorothy Vaughan"
+        }
+      ]
+    },
+    {
+      "ID": 2147483644,
+      "Title": "Philosophy and thinking",
+      "Abstract": "Philosophy has almost as many definitions as there have been philosophers, both as a subject matter and an activity, and no simple definition can do it justice. The issue of the definition of philosophy is thus a controversial subject that is nowadays tackled by Metaphilosophy (or the philosophy of philosophy). The word is derived from the ancient Greek words philo-, to love or to befriend, and -sophia, wisdom. Modern usage of the term is much broader; the concept of philosophy encompasses all of knowledge and all that can be known, including the means by which such knowledge can be acquired. However, in the contemporary English-speaking academic world, the term is often used implicitly to refer to analytic philosophy and, in non-English speaking countries, it often refers implicitly to a different, European strain, continental philosophy. The ancient Greeks organized the subject into five basic categories: metaphysics, epistemology, ethics, politics and aesthetics. This organization of the subject is still largely in use in Western philosophy today.\n\nThought or thinking is a mental process which allows beings to model the world, and so to deal with it effectively according to their goals, plans, ends and desires. Words referring to similar concepts and processes in the English language include cognition, sentience, consciousness, idea, and imagination. Thinking involves the cerebral manipulation of information, as when we form concepts, engage in problem solving, reason and make decisions. Thinking is a higher cognitive function and the analysis of thinking processes is part of cognitive psychology",
+      "Categories": [
+        {
+          "ID": 13780,
+          "Title": "Categoria:Filosofia"
+        },
+        {
+          "ID": 30200,
+          "Title": "Categoria:Ètica"
+        },
+        {
+          "ID": 196869,
+          "Title": "Categoria:Disciplines filosòfiques"
+        },
+        {
+          "ID": 882316,
+          "Title": "Categoria:Escoles i corrents filosòfics"
+        },
+        {
+          "ID": 1073380,
+          "Title": "Categoria:Pensament"
+        }
+      ],
+      "Articles": [
+        {
+          "ID": 34488,
+          "Title": "Bellesa"
+        },
+        {
+          "ID": 40451,
+          "Title": "Felicitat"
+        },
+        {
+          "ID": 538460,
+          "Title": "Fet (filosofia)"
+        },
+        {
+          "ID": 1257588,
+          "Title": "Efecte Dunning-Kruger"
+        },
+        {
+          "ID": 1527911,
+          "Title": "Fer llum de gas"
+        }
+      ]
+    },
+    {
+      "ID": 2147483645,
+      "Title": "Religion and belief systems",
+      "Abstract": "Religion is the adherence to codified beliefs and rituals that generally involve a faith in a spiritual nature and a study of inherited ancestral traditions, knowledge and wisdom related to understanding human life. The term \"religion\" refers to both the personal practices related to faith as well as to the larger shared systems of belief.\n\nA belief system can refer to a religion or a world view. A world view (or worldview) is a term calqued from the German word Weltanschauung Welt is the German word for 'world,' and Anschauung is the German word for 'view' or 'outlook'. It is a concept fundamental to German philosophy and epistemology and refers to a wide world perception. Additionally, it refers to the framework of ideas and beliefs through which an individual interprets the world and interacts in it",
+      "Categories": [
+        {
+          "ID": 12394,
+          "Title": "Categoria:Mitologia"
+        },
+        {
+          "ID": 13788,
+          "Title": "Categoria:Religions"
+        },
+        {
+          "ID": 28501,
+          "Title": "Categoria:Religió"
+        },
+        {
+          "ID": 28649,
+          "Title": "Categoria:Creences"
+        },
+        {
+          "ID": 903384,
+          "Title": "Categoria:Crítica a la religió"
+        }
+      ],
+      "Articles": [
+        {
+          "ID": 554428,
+          "Title": "Gola (pecat)"
+        }
+      ]
+    },
+    {
+      "ID": 2147483646,
+      "Title": "Society and social sciences",
+      "Abstract": "A society is a group of people who form a semi-closed system. At its simplest, the term society refers to a large group of people sharing their own culture and institutions. A society is a network of relationships between people. The English word society is derived from the French société, which had its origin in the Latin societas, a \"friendly association with others,\" from socius meaning \"companion, associate, comrade or business partner.\" Thus, the meaning of society is closely related to what is considered to be social. Implicit in the meaning of society is that its members may share some mutual concern or interest, a common objective or common characteristics. The social sciences generally use the term society to mean a group of people who form a semi-closed social system, in which most interactions are with other individuals belonging to the group. More abstractly, a society is defined as a network of relationships between social entities. A society is also sometimes defined as an interdependent community, but the sociologist Tönnies sought to draw a contrast between society and community. An important feature of society is social structure, aspects of which include roles and social ranking.\n\nThe social science are a group of academic disciplines that study human aspects of the world. They differ from the arts and the humanities, in that the social science tend to emphasize the use of the scientific method in the study of humanity, including quantitative and qualitative methods",
+      "Categories": [
+        {
+          "ID": 12842,
+          "Title": "Categoria:Organitzacions internacionals"
+        },
+        {
+          "ID": 13526,
+          "Title": "Categoria:Ciències socials"
+        },
+        {
+          "ID": 24443,
+          "Title": "Categoria:Societat"
+        },
+        {
+          "ID": 25167,
+          "Title": "Categoria:Feminisme"
+        }
+      ],
+      "Articles": [
+        {
+          "ID": 1416,
+          "Title": "Horari d'estiu"
+        },
+        {
+          "ID": 3020,
+          "Title": "Unió Europea"
+        },
+        {
+          "ID": 24123,
+          "Title": "Massachusetts Institute of Technology"
+        },
+        {
+          "ID": 30060,
+          "Title": "Universitat Harvard"
+        },
+        {
+          "ID": 49507,
+          "Title": "The New York Times"
+        },
+        {
+          "ID": 82346,
+          "Title": "Micronació"
+        },
+        {
+          "ID": 98750,
+          "Title": "Universitat de Pennsilvània"
+        },
+        {
+          "ID": 106392,
+          "Title": "Universitat de Cambridge"
+        },
+        {
+          "ID": 141487,
+          "Title": "Universitat d'Oxford"
+        },
+        {
+          "ID": 146042,
+          "Title": "Universitat de Chicago"
+        },
+        {
+          "ID": 153696,
+          "Title": "Universitat de Colúmbia"
+        },
+        {
+          "ID": 157548,
+          "Title": "Universitat de Bolonya"
+        },
+        {
+          "ID": 158014,
+          "Title": "Universitat de Viena"
+        },
+        {
+          "ID": 167222,
+          "Title": "BP"
+        },
+        {
+          "ID": 170318,
+          "Title": "Universitat de Princeton"
+        },
+        {
+          "ID": 170425,
+          "Title": "Universitat de Texas"
+        },
+        {
+          "ID": 176789,
+          "Title": "Universitat de Rice"
+        },
+        {
+          "ID": 176800,
+          "Title": "Universitat de Stanford"
+        },
+        {
+          "ID": 177436,
+          "Title": "American Airlines"
+        },
+        {
+          "ID": 189121,
+          "Title": "Universitat de Torí"
+        },
+        {
+          "ID": 194550,
+          "Title": "Universitat de Manchester"
+        },
+        {
+          "ID": 194867,
+          "Title": "Universitat d'Uppsala"
+        },
+        {
+          "ID": 199032,
+          "Title": "Bandera d'Austràlia"
+        },
+        {
+          "ID": 199320,
+          "Title": "Universitat de Bonn"
+        },
+        {
+          "ID": 199568,
+          "Title": "Universitat de Glasgow"
+        },
+        {
+          "ID": 201174,
+          "Title": "Universitat de Londres"
+        },
+        {
+          "ID": 201177,
+          "Title": "Universitat d'Estocolm"
+        },
+        {
+          "ID": 244759,
+          "Title": "Starbucks"
+        },
+        {
+          "ID": 257941,
+          "Title": "Llei seca"
+        },
+        {
+          "ID": 266601,
+          "Title": "Trust"
+        },
+        {
+          "ID": 271979,
+          "Title": "Economia de Barbados"
+        },
+        {
+          "ID": 371783,
+          "Title": "Universitat de Tübingen"
+        },
+        {
+          "ID": 377815,
+          "Title": "Universitat d'Aberdeen"
+        },
+        {
+          "ID": 423035,
+          "Title": "Programa de les Nacions Unides per al Medi Ambient"
+        },
+        {
+          "ID": 454915,
+          "Title": "Universitat de Würzburg"
+        },
+        {
+          "ID": 455389,
+          "Title": "Universitat de Pàdua"
+        },
+        {
+          "ID": 460485,
+          "Title": "Universitat de Virgínia"
+        },
+        {
+          "ID": 511530,
+          "Title": "Universitat Estatal d'Ohio"
+        },
+        {
+          "ID": 532049,
+          "Title": "Universitat de Tòquio"
+        },
+        {
+          "ID": 552271,
+          "Title": "Universitat de Nàpols Frederic II"
+        },
+        {
+          "ID": 552847,
+          "Title": "Treball social"
+        },
+        {
+          "ID": 586623,
+          "Title": "Universitat de Maryland"
+        },
+        {
+          "ID": 587929,
+          "Title": "Universitat de St Andrews"
+        },
+        {
+          "ID": 602508,
+          "Title": "Universitat de Queensland"
+        },
+        {
+          "ID": 610672,
+          "Title": "Any nou xinès"
+        },
+        {
+          "ID": 631655,
+          "Title": "Universitat de Friburg de Brisgòvia"
+        },
+        {
+          "ID": 646700,
+          "Title": "Economia d'Iran"
+        },
+        {
+          "ID": 646881,
+          "Title": "Universitat d'Alabama"
+        },
+        {
+          "ID": 699256,
+          "Title": "Universitat d'Arizona"
+        },
+        {
+          "ID": 717069,
+          "Title": "Universitat Alexandru Ioan Cuza"
+        },
+        {
+          "ID": 738462,
+          "Title": "Universitat de Boston"
+        },
+        {
+          "ID": 752470,
+          "Title": "Universitat del Sud de Califòrnia"
+        },
+        {
+          "ID": 772712,
+          "Title": "Universitat Tsinghua"
+        },
+        {
+          "ID": 775046,
+          "Title": "Universitat Estatal de Sant Petersburg"
+        },
+        {
+          "ID": 776797,
+          "Title": "Universitat Estatal de Moscou"
+        },
+        {
+          "ID": 781473,
+          "Title": "Universitat de Berna"
+        },
+        {
+          "ID": 790986,
+          "Title": "Universitat de París"
+        },
+        {
+          "ID": 884008,
+          "Title": "Universitat Georg-August de Göttingen"
+        },
+        {
+          "ID": 892234,
+          "Title": "Universitat de Washington"
+        },
+        {
+          "ID": 944453,
+          "Title": "Fox News Channel"
+        },
+        {
+          "ID": 987027,
+          "Title": "Universitat de Leipzig"
+        },
+        {
+          "ID": 1013515,
+          "Title": "Universitat Hebrea de Jerusalem"
+        },
+        {
+          "ID": 1024104,
+          "Title": "Tercera Guerra Mundial"
+        },
+        {
+          "ID": 1024832,
+          "Title": "Universitat d'Indiana"
+        },
+        {
+          "ID": 1024847,
+          "Title": "Universitat de Buffalo"
+        },
+        {
+          "ID": 1025235,
+          "Title": "Universitat de Michigan"
+        },
+        {
+          "ID": 1051157,
+          "Title": "Imperial College London"
+        },
+        {
+          "ID": 1056604,
+          "Title": "Universitat de Colònia"
+        },
+        {
+          "ID": 1059157,
+          "Title": "Universitat de Gènova"
+        },
+        {
+          "ID": 1066896,
+          "Title": "Pizza Hut"
+        },
+        {
+          "ID": 1068390,
+          "Title": "Universitat de Linköping"
+        },
+        {
+          "ID": 1068587,
+          "Title": "Universitat de Liverpool"
+        },
+        {
+          "ID": 1102180,
+          "Title": "Universitat d'Auckland"
+        },
+        {
+          "ID": 1102187,
+          "Title": "Universitat d'Otago"
+        },
+        {
+          "ID": 1102202,
+          "Title": "Universitat de Canterbury"
+        },
+        {
+          "ID": 1105154,
+          "Title": "Universitat de Cincinnati"
+        },
+        {
+          "ID": 1207731,
+          "Title": "Universitat de Warwick"
+        },
+        {
+          "ID": 1224136,
+          "Title": "Universitat de Nottingham"
+        },
+        {
+          "ID": 1228523,
+          "Title": "Universitat de Milà"
+        },
+        {
+          "ID": 1264233,
+          "Title": "Quarta esmena de la Constitució dels Estats Units"
+        },
+        {
+          "ID": 1264609,
+          "Title": "National Archives and Records Administration"
+        },
+        {
+          "ID": 1283693,
+          "Title": "Universitat de Sydney"
+        },
+        {
+          "ID": 1287000,
+          "Title": "The Times of India"
+        },
+        {
+          "ID": 1295748,
+          "Title": "Universitat Tulane"
+        },
+        {
+          "ID": 1331517,
+          "Title": "Universitat de Bristol"
+        },
+        {
+          "ID": 1333638,
+          "Title": "Universitat de Regina"
+        },
+        {
+          "ID": 1343357,
+          "Title": "Jawaharlal Nehru University"
+        },
+        {
+          "ID": 1347767,
+          "Title": "Universitat de Montana"
+        },
+        {
+          "ID": 1365438,
+          "Title": "Universitat de Reading"
+        },
+        {
+          "ID": 1368135,
+          "Title": "Universitat de Sheffield"
+        },
+        {
+          "ID": 1368522,
+          "Title": "Centre de Matemàtiques i Informàtica"
+        },
+        {
+          "ID": 1373657,
+          "Title": "Universitat de Missouri"
+        },
+        {
+          "ID": 1416533,
+          "Title": "Universitat de Northumbria"
+        },
+        {
+          "ID": 1443676,
+          "Title": "Universitat de Minnesota"
+        },
+        {
+          "ID": 1482687,
+          "Title": "Atemptat de Westminster de 2017"
+        },
+        {
+          "ID": 1502526,
+          "Title": "Universitat de Leeds"
+        },
+        {
+          "ID": 1502578,
+          "Title": "Universitat de Hull"
+        },
+        {
+          "ID": 1512625,
+          "Title": "Domino's Pizza"
+        },
+        {
+          "ID": 1526611,
+          "Title": "Universitat de Kingston"
+        },
+        {
+          "ID": 1550302,
+          "Title": "Universitat Washington a Saint Louis"
+        },
+        {
+          "ID": 1633237,
+          "Title": "Universitat pública"
+        }
+      ]
+    },
+    {
+      "ID": 2147483647,
+      "Title": "Technology and applied sciences",
+      "Abstract": "Technology is an expanded concept that deals with a species' usage and knowledge of tools and crafts, and how it affects a species' ability to control and adapt to its environment. In human civilization, it is a consequence of science and engineering, although several technological advances predate the formalization of these two disciplines. The term can either be applied generally or to specific areas – examples include construction technology, medical technology, or state-of-the-art technology.\n\nThe human race's use of technology began with the conversion of plentiful natural resources into simple tools. The prehistorical discovery of the ability to control fire increased the available sources of food, and the invention of the wheel helped humans in travelling in and controlling their environment. Recent technological developments, including the printing press and the Internet, have lessened physical barriers to communication and allowed humans to interact on a global scale. However, not all technology has been used for peaceful purposes; the development of weapons of ever-increasing destructive power has progressed throughout history, from clubs to nuclear bombs.\n\nApplied science is the application of knowledge from one or more natural scientific fields to solving practical problems. For example, fields of engineering are applied sciences. Applied science is important for technology development. Its use in industrial settings is usually referred to as research and development (R\u0026D)",
+      "Categories": [
+        {
+          "ID": 12667,
+          "Title": "Categoria:Electrònica"
+        },
+        {
+          "ID": 13173,
+          "Title": "Categoria:Internet"
+        },
+        {
+          "ID": 13684,
+          "Title": "Categoria:Informàtica"
+        },
+        {
+          "ID": 15278,
+          "Title": "Categoria:Enginyeria"
+        },
+        {
+          "ID": 15279,
+          "Title": "Categoria:Tecnologia"
+        },
+        {
+          "ID": 15546,
+          "Title": "Categoria:Ciències aplicades"
+        },
+        {
+          "ID": 19819,
+          "Title": "Categoria:Transport"
+        },
+        {
+          "ID": 124787,
+          "Title": "Categoria:Disseny"
+        },
+        {
+          "ID": 645798,
+          "Title": "Categoria:Història de la tecnologia"
+        },
+        {
+          "ID": 832526,
+          "Title": "Categoria:Tecnologia per tipus"
+        },
+        {
+          "ID": 914679,
+          "Title": "Categoria:Indumentària militar"
+        },
+        {
+          "ID": 1096095,
+          "Title": "Categoria:Aplicacions mòbils"
+        }
+      ],
+      "Articles": [
+        {
+          "ID": 37666,
+          "Title": "Paret"
+        },
+        {
+          "ID": 45012,
+          "Title": "Maçoneria"
+        },
+        {
+          "ID": 126876,
+          "Title": "Xiclet"
+        },
+        {
+          "ID": 169807,
+          "Title": ".xxx"
+        },
+        {
+          "ID": 548156,
+          "Title": "Màquina de fer pa"
+        },
+        {
+          "ID": 597271,
+          "Title": "Soldadura TIG"
+        },
+        {
+          "ID": 679094,
+          "Title": "Pepsi"
+        },
+        {
+          "ID": 823588,
+          "Title": "Cua d'oreneta"
+        }
+      ]
+    }
+  ],
+  "Filters": [
+    {
+      "ID": 289337,
+      "Title": "Categoria:Categories ocultes"
+    },
+    {
+      "ID": 437565,
+      "Title": "Categoria:Pàgines de desambiguació"
+    }
+  ]
+}

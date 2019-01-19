@@ -1,0 +1,2102 @@
+{
+  "Language": "ru",
+  "Topics": [
+    {
+      "ID": 2147483637,
+      "Title": "Culture and the arts",
+      "Abstract": "The word culture is derived from the Latin root cultura or cultus meaning to \"inhabit, cultivate, or honour\". In general, culture refers to human activity; different definitions of culture reflect different theories for understanding, or criteria for valuing human activity. Present day Anthropologists use the term to refer to the universal human capacity to classify experiences and to encode and communicate them symbolically. They regard this capacity as a defining feature of the genus Homo. Since culture is learned, people living in different places have different cultures. There can be different cultures in different countries, and there can also be shared cultures among continents.\n\nThe arts are a vast subdivision of culture, composed of many creative endeavors and disciplines. It is a broader term than \"art,\" which as a description of a field usually means only the visual arts. The arts encompasses visual arts, literary arts and the performing arts - music, theatre, dance, spoken word and film, among others.\n\nArt, in its broadest meaning, is the expression of creativity or imagination. The word art comes from the Latin word ars, which, loosely translated, means \"arrangement\". Art is commonly understood as the act of making works (or artworks) which use the human creative impulse and which have meaning beyond simple description. Art is often distinguished from crafts and recreational hobby activities. The term creative arts denotes a collection of disciplines whose principal purpose is the output of material for the viewer or audience to interpret. As such, art may be taken to include forms as diverse as prose writing, poetry, dance, acting or drama, film, music, sculpture, photography, illustration, architecture, collage, painting, craft and fashion. Art may also be understood as relating to creativity, æsthetics and the generation of emotion",
+      "Categories": [
+        {
+          "ID": 7980,
+          "Title": "Категория:Искусство"
+        },
+        {
+          "ID": 8037,
+          "Title": "Категория:Спорт"
+        },
+        {
+          "ID": 9036,
+          "Title": "Категория:Фильмы"
+        },
+        {
+          "ID": 9298,
+          "Title": "Категория:Культура"
+        },
+        {
+          "ID": 10195,
+          "Title": "Категория:Хобби"
+        },
+        {
+          "ID": 10196,
+          "Title": "Категория:Развлечения"
+        },
+        {
+          "ID": 11699,
+          "Title": "Категория:Пища"
+        },
+        {
+          "ID": 12097,
+          "Title": "Категория:Кухня"
+        },
+        {
+          "ID": 90533,
+          "Title": "Категория:Музыкальные коллективы"
+        },
+        {
+          "ID": 162797,
+          "Title": "Категория:Спектакли"
+        },
+        {
+          "ID": 181033,
+          "Title": "Категория:Отдых"
+        }
+      ],
+      "Articles": [
+        {
+          "ID": 997,
+          "Title": "Википедия"
+        },
+        {
+          "ID": 1127,
+          "Title": "Энциклопедия"
+        },
+        {
+          "ID": 10593,
+          "Title": "Минет"
+        },
+        {
+          "ID": 10662,
+          "Title": "Led Zeppelin"
+        },
+        {
+          "ID": 18339,
+          "Title": "Яйцо (пищевой продукт)"
+        },
+        {
+          "ID": 36960,
+          "Title": "Пиво"
+        },
+        {
+          "ID": 40998,
+          "Title": "Целибат"
+        },
+        {
+          "ID": 43910,
+          "Title": "Кофе"
+        },
+        {
+          "ID": 47838,
+          "Title": "Пильзнер"
+        },
+        {
+          "ID": 50633,
+          "Title": "Пицца"
+        },
+        {
+          "ID": 55347,
+          "Title": "Букингемский дворец"
+        },
+        {
+          "ID": 82788,
+          "Title": "Всемирная книга фактов ЦРУ"
+        },
+        {
+          "ID": 121234,
+          "Title": "Шоколад"
+        },
+        {
+          "ID": 122129,
+          "Title": "День сурка"
+        },
+        {
+          "ID": 122991,
+          "Title": "Хогвартс"
+        },
+        {
+          "ID": 124060,
+          "Title": "Green Day"
+        },
+        {
+          "ID": 129329,
+          "Title": "Хлеб"
+        },
+        {
+          "ID": 151481,
+          "Title": "AC/DC"
+        },
+        {
+          "ID": 164794,
+          "Title": "Лох-несское чудовище"
+        },
+        {
+          "ID": 166619,
+          "Title": "Макаронные изделия"
+        },
+        {
+          "ID": 189140,
+          "Title": "Английское пиво"
+        },
+        {
+          "ID": 198013,
+          "Title": "Привидение"
+        },
+        {
+          "ID": 226392,
+          "Title": "Реализм (литература)"
+        },
+        {
+          "ID": 286335,
+          "Title": "Sgt. Pepper’s Lonely Hearts Club Band"
+        },
+        {
+          "ID": 302986,
+          "Title": "Морс"
+        },
+        {
+          "ID": 345244,
+          "Title": "Мордред"
+        },
+        {
+          "ID": 401084,
+          "Title": "Фарш"
+        },
+        {
+          "ID": 448035,
+          "Title": "Чемпион WWE"
+        },
+        {
+          "ID": 485180,
+          "Title": "Хот-дог"
+        },
+        {
+          "ID": 610535,
+          "Title": "Aqua (группа)"
+        },
+        {
+          "ID": 639347,
+          "Title": "Печенье"
+        },
+        {
+          "ID": 663351,
+          "Title": "Безалкогольное пиво"
+        },
+        {
+          "ID": 683828,
+          "Title": "Пирожное"
+        },
+        {
+          "ID": 747123,
+          "Title": "Рисующие руки"
+        },
+        {
+          "ID": 880751,
+          "Title": "Бекон"
+        },
+        {
+          "ID": 928273,
+          "Title": "Ветчина"
+        },
+        {
+          "ID": 941252,
+          "Title": "Яичница"
+        },
+        {
+          "ID": 965256,
+          "Title": "Тако"
+        },
+        {
+          "ID": 1052321,
+          "Title": "Паста, Джудитта"
+        },
+        {
+          "ID": 1118850,
+          "Title": "Арахисовая паста"
+        },
+        {
+          "ID": 1294859,
+          "Title": "Бисквит"
+        },
+        {
+          "ID": 1346584,
+          "Title": "Какао (напиток)"
+        },
+        {
+          "ID": 1357080,
+          "Title": "Жареный рис"
+        },
+        {
+          "ID": 1656558,
+          "Title": "Яблочное пюре"
+        },
+        {
+          "ID": 1667954,
+          "Title": "Целомудрие"
+        },
+        {
+          "ID": 1767671,
+          "Title": "Карбонара"
+        },
+        {
+          "ID": 2189198,
+          "Title": "Свадебный торт"
+        },
+        {
+          "ID": 2199155,
+          "Title": "Банановый хлеб"
+        },
+        {
+          "ID": 2215930,
+          "Title": "M\u0026M’s"
+        },
+        {
+          "ID": 2278596,
+          "Title": "Томатный суп"
+        },
+        {
+          "ID": 2330276,
+          "Title": "Эш Кетчум"
+        },
+        {
+          "ID": 2369662,
+          "Title": "Кулоло"
+        },
+        {
+          "ID": 2628119,
+          "Title": "Запрещённый приём (фильм, 2011)"
+        },
+        {
+          "ID": 2723981,
+          "Title": "Курица тикка масала"
+        },
+        {
+          "ID": 3025979,
+          "Title": "Робот (фильм)"
+        },
+        {
+          "ID": 3134727,
+          "Title": "Dinosaur Jr."
+        },
+        {
+          "ID": 3198046,
+          "Title": "Judas"
+        },
+        {
+          "ID": 3289266,
+          "Title": "Столетнее яйцо"
+        },
+        {
+          "ID": 3390912,
+          "Title": "Содовый хлеб"
+        },
+        {
+          "ID": 3584196,
+          "Title": "The Wanted"
+        },
+        {
+          "ID": 4106773,
+          "Title": "Шоколадное молоко"
+        },
+        {
+          "ID": 4157010,
+          "Title": "Яйцо по-шотландски"
+        },
+        {
+          "ID": 4223112,
+          "Title": "Прорыв (настольная игра)"
+        },
+        {
+          "ID": 4235778,
+          "Title": "Мякишевый хлеб"
+        },
+        {
+          "ID": 4713504,
+          "Title": "Имбирное пиво"
+        },
+        {
+          "ID": 4870455,
+          "Title": "Тёртое какао"
+        },
+        {
+          "ID": 4901996,
+          "Title": "Белый шоколад"
+        },
+        {
+          "ID": 4910388,
+          "Title": "Flappy Bird"
+        },
+        {
+          "ID": 4954608,
+          "Title": "Джелато"
+        },
+        {
+          "ID": 5176701,
+          "Title": "Мясо рукокрылых"
+        },
+        {
+          "ID": 5398522,
+          "Title": "Печенье с предсказанием"
+        },
+        {
+          "ID": 5456345,
+          "Title": "Флойд Мейвезер — Мэнни Пакьяо"
+        },
+        {
+          "ID": 5948473,
+          "Title": "Опара (тесто)"
+        },
+        {
+          "ID": 6119885,
+          "Title": "Сабле (печенье)"
+        },
+        {
+          "ID": 6166741,
+          "Title": "Опера (торт)"
+        },
+        {
+          "ID": 6232457,
+          "Title": "Тигровый хлеб"
+        },
+        {
+          "ID": 6300510,
+          "Title": "Евровидение-2017"
+        },
+        {
+          "ID": 6426208,
+          "Title": "Уличный танец"
+        },
+        {
+          "ID": 6504901,
+          "Title": "Предводитель (фильм)"
+        },
+        {
+          "ID": 6505953,
+          "Title": "Тонсенг"
+        },
+        {
+          "ID": 6510768,
+          "Title": "Кинжал (фильм)"
+        },
+        {
+          "ID": 6697225,
+          "Title": "Инжирный кекс"
+        },
+        {
+          "ID": 6700560,
+          "Title": "Mendiant"
+        },
+        {
+          "ID": 6722929,
+          "Title": "Пикей"
+        },
+        {
+          "ID": 6733136,
+          "Title": "Фруктовый суп"
+        },
+        {
+          "ID": 6741153,
+          "Title": "Бьер-де-Гард"
+        },
+        {
+          "ID": 6741720,
+          "Title": "Биттер (пиво)"
+        },
+        {
+          "ID": 6743927,
+          "Title": "Мягкий эль"
+        },
+        {
+          "ID": 6873297,
+          "Title": "Евровидение-2018"
+        },
+        {
+          "ID": 7199751,
+          "Title": "Бун банг фай"
+        },
+        {
+          "ID": 7284013,
+          "Title": "Angry Birds (игра)"
+        },
+        {
+          "ID": 7284086,
+          "Title": "Angry Birds Seasons"
+        },
+        {
+          "ID": 7284749,
+          "Title": "Angry Birds Rio"
+        },
+        {
+          "ID": 7312779,
+          "Title": "Квашеные лимоны"
+        },
+        {
+          "ID": 7384540,
+          "Title": "Бубур-аям"
+        },
+        {
+          "ID": 7642223,
+          "Title": "Пока я жив"
+        }
+      ]
+    },
+    {
+      "ID": 2147483638,
+      "Title": "Geography and places",
+      "Abstract": "Geography (Greek Geo (γη) or Gaea (γαία), meaning \"Earth\", and graphein (γράφειν) meaning \"to describe\" or \"to write\") is the study of the earth and its features, inhabitants, and phenomena. A literal translation would be \"to describe or write about the Earth\". The first person to use the word \"geography\" was Eratosthenes (275-195 B.C.). Four historical traditions in geographical research are the spatial analysis of natural and human phenomena (geography as a study of distribution), area studies (places and regions), study of man-land relationship, and research in earth sciences. Nonetheless, modern geography is an all-encompassing discipline that foremost seeks to understand the world and all of its human and natural complexities — not merely where objects are, but how they have changed and come to be. As \"the bridge between the human and physical sciences,\" geography is divided into two main branches — human geography and physical geography",
+      "Categories": [
+        {
+          "ID": 7931,
+          "Title": "Категория:География"
+        },
+        {
+          "ID": 11982,
+          "Title": "Категория:Геоморфология"
+        },
+        {
+          "ID": 901646,
+          "Title": "Категория:Градостроительство"
+        },
+        {
+          "ID": 1470567,
+          "Title": "Категория:Валюты по регионам"
+        },
+        {
+          "ID": 1819350,
+          "Title": "Категория:Списки:География"
+        },
+        {
+          "ID": 7611106,
+          "Title": "Категория:Места"
+        }
+      ],
+      "Articles": [
+        {
+          "ID": 64,
+          "Title": "Венеция"
+        },
+        {
+          "ID": 2845,
+          "Title": "Мьянма"
+        },
+        {
+          "ID": 6214,
+          "Title": "Париж"
+        },
+        {
+          "ID": 50024,
+          "Title": "Канберра"
+        },
+        {
+          "ID": 106302,
+          "Title": "Квинсленд"
+        },
+        {
+          "ID": 1653472,
+          "Title": "Карлсбад (Нью-Мексико)"
+        }
+      ]
+    },
+    {
+      "ID": 2147483639,
+      "Title": "Health and fitness",
+      "Abstract": "Health is the level of functional or metabolic efficiency of a living organism. In humans it is the ability of individuals or communities to adapt and self-manage when facing physical, mental or social challenges. The most widely accepted definition of good health is that of the World Health Organization Constitution. It states: \"health is a state of complete physical, mental and social well-being and is not merely the absence of disease or infirmity\" (World Health Organization, 1946). In more recent years, this statement has been amplified to include the ability to lead a \"socially and economically productive life.\" The WHO definition is not without criticism, mainly that it is much too broad.\n\nThe most solid aspects of wellness that fit firmly in the realm of medicine are environmental health, nutrition, disease prevention, and public health. These matters can be investigated at length and can assist in measuring well-being. Please see our medical disclaimer for cautions about Wikipedia's limitations",
+      "Categories": [
+        {
+          "ID": 8104,
+          "Title": "Категория:Медицина"
+        },
+        {
+          "ID": 11731,
+          "Title": "Категория:Здоровье"
+        },
+        {
+          "ID": 54940,
+          "Title": "Категория:Гигиена"
+        },
+        {
+          "ID": 436393,
+          "Title": "Категория:Клинические разделы медицины"
+        },
+        {
+          "ID": 1009386,
+          "Title": "Категория:Медицинские профессии"
+        },
+        {
+          "ID": 2192549,
+          "Title": "Категория:Генные болезни"
+        },
+        {
+          "ID": 7011728,
+          "Title": "Категория:Медицинские науки"
+        }
+      ],
+      "Articles": [
+        {
+          "ID": 4586359,
+          "Title": "Автономная сенсорная меридиональная реакция"
+        }
+      ]
+    },
+    {
+      "ID": 2147483640,
+      "Title": "History and events",
+      "Abstract": "History is the interpretation of past events, societies and civilizations. The term history comes from the Greek historia (ἱστορία), \"an account of one's inquiries,\" and shares that etymology with the English word story as narrative. The 1911 Encyclopædia Britannica stated that \"history in the wider sense is all that has happened, not merely all the phenomena of human life, but those of the natural world as well. It is everything that undergoes change; and as modern science has shown that there is nothing absolutely static, therefore, the whole universe, and every part of it, has its history.\" ",
+      "Categories": [
+        {
+          "ID": 7918,
+          "Title": "Категория:История"
+        },
+        {
+          "ID": 9267,
+          "Title": "Категория:События"
+        },
+        {
+          "ID": 48730,
+          "Title": "Категория:История по странам"
+        },
+        {
+          "ID": 939969,
+          "Title": "Категория:Выборы по годам"
+        },
+        {
+          "ID": 7155937,
+          "Title": "Категория:Торжественные дни"
+        }
+      ],
+      "Articles": [
+        {
+          "ID": 90996,
+          "Title": "Террористические акты 11 сентября 2001 года"
+        },
+        {
+          "ID": 91394,
+          "Title": "Троянская война"
+        },
+        {
+          "ID": 119184,
+          "Title": "Древние единицы измерения"
+        },
+        {
+          "ID": 289182,
+          "Title": "Рейды Палмера"
+        },
+        {
+          "ID": 293160,
+          "Title": "Отрицание Холокоста"
+        },
+        {
+          "ID": 1980523,
+          "Title": "Индейцы Великих равнин"
+        },
+        {
+          "ID": 2827402,
+          "Title": "История Западной Африки"
+        },
+        {
+          "ID": 3118284,
+          "Title": "Землетрясение в Японии (2011)"
+        },
+        {
+          "ID": 3182671,
+          "Title": "Президентские выборы в США (2012)"
+        },
+        {
+          "ID": 3996325,
+          "Title": "Ку (ритуал доблести)"
+        },
+        {
+          "ID": 4018139,
+          "Title": "Массовое убийство в городе Орора"
+        },
+        {
+          "ID": 6385475,
+          "Title": "Президентская кампания Дональда Трампа"
+        },
+        {
+          "ID": 6435589,
+          "Title": "Массовое убийство в Орландо"
+        },
+        {
+          "ID": 7665841,
+          "Title": "Харамбе"
+        }
+      ]
+    },
+    {
+      "ID": 2147483641,
+      "Title": "Mathematics and logic",
+      "Abstract": "Mathematics is the science of quantization. It is also the study of patterns and relationships, including concepts such as quantity, structure, space, uncertainty, and change. It evolved through the use of abstraction and logical reasoning, from counting, calculation, measurement, and the systematic study of positions, shapes and motions of physical objects. Mathematicians explore such concepts, aiming to formulate new conjectures and establish their truth by rigorous deduction from appropriately chosen axioms and definitions.\n\nLogic (from Classical Greek λόγος logos; meaning word, thought, idea, argument, account, reason or principle) is the study of the principles and criteria of valid inference and demonstration. As a formal science, logic investigates and classifies the structure of statements and arguments, both through the study of formal systems of inference and through the study of arguments in natural language. The field of logic ranges from core topics such as the study of fallacies and paradoxes, to specialized analysis of reasoning using probability and to arguments involving causality. Logic is also commonly used today in argumentation theory. Since the mid-nineteenth century formal logic has been studied in the context of the foundations of mathematics",
+      "Categories": [
+        {
+          "ID": 8201,
+          "Title": "Категория:Математика"
+        },
+        {
+          "ID": 11745,
+          "Title": "Категория:Логика"
+        },
+        {
+          "ID": 16410,
+          "Title": "Категория:Прикладная математика"
+        },
+        {
+          "ID": 19303,
+          "Title": "Категория:Статистика"
+        },
+        {
+          "ID": 1562527,
+          "Title": "Категория:Теория вероятностей и математическая статистика"
+        },
+        {
+          "ID": 5124380,
+          "Title": "Категория:Разделы математики"
+        },
+        {
+          "ID": 7010316,
+          "Title": "Категория:Теоретическая информатика"
+        }
+      ],
+      "Articles": [
+        {
+          "ID": 317932,
+          "Title": "Длина"
+        }
+      ]
+    },
+    {
+      "ID": 2147483642,
+      "Title": "Nature and physical sciences",
+      "Abstract": "The term nature is derived from the Latin word natura, or \"essential qualities, innate disposition\". Natura is a Latin translation of the Greek word physis (φύσις), which originally related to the intrinsic characteristics that plants, animals, and other features of the world develop of their own accord. The concept of nature as a whole, all matter and energy in the universe, is one of several expansions of the original notion.\n\nPhysical science is an encompassing term for the branches of natural science, and science, that study non-living systems, in contrast to the biological sciences. However, the term \"physical\" creates an involuntary, somewhat arbitrary distinction, since many branches of physical science also study biological phenomena",
+      "Categories": [
+        {
+          "ID": 8059,
+          "Title": "Категория:Химия"
+        },
+        {
+          "ID": 8101,
+          "Title": "Категория:Физика"
+        },
+        {
+          "ID": 8358,
+          "Title": "Категория:Зоология"
+        },
+        {
+          "ID": 10553,
+          "Title": "Категория:Наука"
+        },
+        {
+          "ID": 12522,
+          "Title": "Категория:Природа"
+        },
+        {
+          "ID": 13971,
+          "Title": "Категория:Естественные науки"
+        },
+        {
+          "ID": 40810,
+          "Title": "Категория:Катастрофы"
+        },
+        {
+          "ID": 401905,
+          "Title": "Категория:Фауна по континентам"
+        },
+        {
+          "ID": 1313608,
+          "Title": "Категория:Физические науки"
+        },
+        {
+          "ID": 6974337,
+          "Title": "Категория:Химические соединения"
+        }
+      ],
+      "Articles": [
+        {
+          "ID": 23010,
+          "Title": "Пшеница"
+        },
+        {
+          "ID": 24589,
+          "Title": "Суспензия"
+        },
+        {
+          "ID": 34669,
+          "Title": "Мастурбация"
+        },
+        {
+          "ID": 43602,
+          "Title": "Моча"
+        },
+        {
+          "ID": 45258,
+          "Title": "Календарь майя"
+        },
+        {
+          "ID": 46283,
+          "Title": "Огонь"
+        },
+        {
+          "ID": 53342,
+          "Title": "Лось"
+        },
+        {
+          "ID": 56475,
+          "Title": "Мышечная система"
+        },
+        {
+          "ID": 62133,
+          "Title": "Яички"
+        },
+        {
+          "ID": 89597,
+          "Title": "Пищевая цепь"
+        },
+        {
+          "ID": 133804,
+          "Title": "Верблюды"
+        },
+        {
+          "ID": 159902,
+          "Title": "Апельсин"
+        },
+        {
+          "ID": 167166,
+          "Title": "Лимон"
+        },
+        {
+          "ID": 206096,
+          "Title": "Мантия моллюсков"
+        },
+        {
+          "ID": 272011,
+          "Title": "Земляника ананасная"
+        },
+        {
+          "ID": 289773,
+          "Title": "Манго (фрукт)"
+        },
+        {
+          "ID": 345513,
+          "Title": "Фламинго"
+        },
+        {
+          "ID": 352938,
+          "Title": "Ананас"
+        },
+        {
+          "ID": 693225,
+          "Title": "Дополнительные цвета"
+        },
+        {
+          "ID": 757740,
+          "Title": "Олуши"
+        },
+        {
+          "ID": 772958,
+          "Title": "Опорно-двигательная система"
+        },
+        {
+          "ID": 882007,
+          "Title": "Цветная капуста"
+        },
+        {
+          "ID": 920312,
+          "Title": "Мотонейрон"
+        },
+        {
+          "ID": 1038778,
+          "Title": "Круговорот воды в природе"
+        },
+        {
+          "ID": 1282361,
+          "Title": "Первичная сукцессия"
+        },
+        {
+          "ID": 1714366,
+          "Title": "Пауки-волки"
+        },
+        {
+          "ID": 1746135,
+          "Title": "Цветные бекасы"
+        },
+        {
+          "ID": 1768949,
+          "Title": "Атлантическая скумбрия"
+        },
+        {
+          "ID": 1874050,
+          "Title": "Можжевельник ладанный"
+        },
+        {
+          "ID": 2210569,
+          "Title": "Бахчевые культуры"
+        },
+        {
+          "ID": 2413749,
+          "Title": "Пенис у животных"
+        },
+        {
+          "ID": 2483445,
+          "Title": "Сойки (значения)"
+        },
+        {
+          "ID": 2512059,
+          "Title": "Томат черри"
+        },
+        {
+          "ID": 2635995,
+          "Title": "Магнолия лилиецветная"
+        },
+        {
+          "ID": 2647094,
+          "Title": "Кукуруза"
+        },
+        {
+          "ID": 2717978,
+          "Title": "Коаты"
+        },
+        {
+          "ID": 3683860,
+          "Title": "Ель Энгельмана"
+        },
+        {
+          "ID": 3780110,
+          "Title": "Прорастание семян"
+        },
+        {
+          "ID": 3942480,
+          "Title": "Белый тигр"
+        },
+        {
+          "ID": 4233135,
+          "Title": "Клейкий рис"
+        },
+        {
+          "ID": 4932412,
+          "Title": "Лайм (плод)"
+        },
+        {
+          "ID": 5059056,
+          "Title": "Рис (зерно)"
+        },
+        {
+          "ID": 5376603,
+          "Title": "Свистящая квакша"
+        },
+        {
+          "ID": 6036533,
+          "Title": "Апельсин (плод)"
+        },
+        {
+          "ID": 6289161,
+          "Title": "Рыжие волосы"
+        },
+        {
+          "ID": 7453227,
+          "Title": "Сосна островная"
+        }
+      ]
+    },
+    {
+      "ID": 2147483643,
+      "Title": "People and self",
+      "Abstract": "A collection of people often refers to a general group, such as all humans, an ethnic group or a nation. An individual person is the self, from his or her own perspective. To you, \"self\" is you. To someone else, \"self\" is that person. A biography is a genre of literature or film, which presents a relatively full account of the most interesting and important events of a notable person's life.\n\nLife or personal life or human existence is an individual human's personal, private experience of living (including their employment career, their family life, and other elements). In prehistoric times, life and existence was based on survival. There was little privacy and a person was identified by their role in the group. In modern times, many people have even come to think of their personal lives as if they are separate from their work. This segmentation of \"life areas\" is evident in such phrases as \"work life\", \"home life\", and \"sex life.\" The meaning or role of a person's \"life\" or \"human existence\" is discussed in many religions and philosophies. In Western industrialized countries, there are a variety of service industries that help people improve their personal lives, such as counselling and life coaching companies",
+      "Categories": [
+        {
+          "ID": 20276,
+          "Title": "Категория:Персонажи фильмов"
+        },
+        {
+          "ID": 54337,
+          "Title": "Категория:Фамилии"
+        },
+        {
+          "ID": 201758,
+          "Title": "Категория:Женщины"
+        },
+        {
+          "ID": 246361,
+          "Title": "Категория:Личная жизнь"
+        },
+        {
+          "ID": 304943,
+          "Title": "Категория:Люди"
+        }
+      ],
+      "Articles": [
+        {
+          "ID": 8842,
+          "Title": "Кеплер, Иоганн"
+        },
+        {
+          "ID": 9730,
+          "Title": "Тьюринг, Алан"
+        },
+        {
+          "ID": 18627,
+          "Title": "Колумб, Христофор"
+        },
+        {
+          "ID": 18808,
+          "Title": "Блейк, Уильям"
+        },
+        {
+          "ID": 18935,
+          "Title": "Гитлер, Адольф"
+        },
+        {
+          "ID": 19176,
+          "Title": "Хомский, Ноам"
+        },
+        {
+          "ID": 19339,
+          "Title": "Харрисон, Джордж"
+        },
+        {
+          "ID": 19414,
+          "Title": "Вагнер, Рихард"
+        },
+        {
+          "ID": 22221,
+          "Title": "Смит, Адам"
+        },
+        {
+          "ID": 24806,
+          "Title": "Смит, Джозеф"
+        },
+        {
+          "ID": 25591,
+          "Title": "Декарт, Рене"
+        },
+        {
+          "ID": 30128,
+          "Title": "Гаусс, Карл Фридрих"
+        },
+        {
+          "ID": 30860,
+          "Title": "Галилей, Галилео"
+        },
+        {
+          "ID": 32130,
+          "Title": "Гейтс, Билл"
+        },
+        {
+          "ID": 34633,
+          "Title": "Льюис Кэрролл"
+        },
+        {
+          "ID": 36584,
+          "Title": "Леннон, Джон"
+        },
+        {
+          "ID": 36860,
+          "Title": "Ларднер, Рингголд Уилмер"
+        },
+        {
+          "ID": 54072,
+          "Title": "Кромвель, Оливер"
+        },
+        {
+          "ID": 57318,
+          "Title": "Фрейд, Зигмунд"
+        },
+        {
+          "ID": 69852,
+          "Title": "Бэббидж, Чарлз"
+        },
+        {
+          "ID": 77673,
+          "Title": "Абель, Карл Фридрих"
+        },
+        {
+          "ID": 82171,
+          "Title": "Флеминг, Александр"
+        },
+        {
+          "ID": 124530,
+          "Title": "Фибоначчи"
+        },
+        {
+          "ID": 129996,
+          "Title": "Саган, Карл"
+        },
+        {
+          "ID": 153771,
+          "Title": "Гарри Гудини"
+        },
+        {
+          "ID": 172286,
+          "Title": "Лохнер, Штефан"
+        },
+        {
+          "ID": 222924,
+          "Title": "Джон, Элтон"
+        },
+        {
+          "ID": 256090,
+          "Title": "Найтингейл, Флоренс"
+        },
+        {
+          "ID": 269342,
+          "Title": "Айн Рэнд"
+        },
+        {
+          "ID": 278078,
+          "Title": "Сутин, Хаим Соломонович"
+        },
+        {
+          "ID": 315093,
+          "Title": "Рэдклифф, Дэниел"
+        },
+        {
+          "ID": 363577,
+          "Title": "Докинз, Ричард"
+        },
+        {
+          "ID": 366175,
+          "Title": "Сриниваса Рамануджан Айенгор"
+        },
+        {
+          "ID": 424466,
+          "Title": "Биг Шоу"
+        },
+        {
+          "ID": 746992,
+          "Title": "Ленгмюр, Ирвинг"
+        },
+        {
+          "ID": 1212053,
+          "Title": "Шванн, Теодор"
+        },
+        {
+          "ID": 1650784,
+          "Title": "Джейкоб Блэк"
+        },
+        {
+          "ID": 2190420,
+          "Title": "Баттенберг (торт)"
+        },
+        {
+          "ID": 2303217,
+          "Title": "Мэрион, Фрэнсис"
+        },
+        {
+          "ID": 2717842,
+          "Title": "Монтейт, Кори"
+        },
+        {
+          "ID": 2725212,
+          "Title": "Шелдон Купер"
+        },
+        {
+          "ID": 3368897,
+          "Title": "Брейвик, Андерс Беринг"
+        },
+        {
+          "ID": 3507608,
+          "Title": "Росс, Боб"
+        },
+        {
+          "ID": 3726728,
+          "Title": "Джонни Эпплсид"
+        },
+        {
+          "ID": 4293886,
+          "Title": "Круз, Тед"
+        },
+        {
+          "ID": 4489911,
+          "Title": "Лемон, Медоуларк"
+        },
+        {
+          "ID": 4976354,
+          "Title": "Паркс, Генри"
+        },
+        {
+          "ID": 5341813,
+          "Title": "Фома Аквинский"
+        },
+        {
+          "ID": 6648687,
+          "Title": "Макклинток, Нора"
+        },
+        {
+          "ID": 6761144,
+          "Title": "Берк, Мик"
+        },
+        {
+          "ID": 7084188,
+          "Title": "Воган, Дороти"
+        },
+        {
+          "ID": 7623942,
+          "Title": "Марголин, Джанет"
+        }
+      ]
+    },
+    {
+      "ID": 2147483644,
+      "Title": "Philosophy and thinking",
+      "Abstract": "Philosophy has almost as many definitions as there have been philosophers, both as a subject matter and an activity, and no simple definition can do it justice. The issue of the definition of philosophy is thus a controversial subject that is nowadays tackled by Metaphilosophy (or the philosophy of philosophy). The word is derived from the ancient Greek words philo-, to love or to befriend, and -sophia, wisdom. Modern usage of the term is much broader; the concept of philosophy encompasses all of knowledge and all that can be known, including the means by which such knowledge can be acquired. However, in the contemporary English-speaking academic world, the term is often used implicitly to refer to analytic philosophy and, in non-English speaking countries, it often refers implicitly to a different, European strain, continental philosophy. The ancient Greeks organized the subject into five basic categories: metaphysics, epistemology, ethics, politics and aesthetics. This organization of the subject is still largely in use in Western philosophy today.\n\nThought or thinking is a mental process which allows beings to model the world, and so to deal with it effectively according to their goals, plans, ends and desires. Words referring to similar concepts and processes in the English language include cognition, sentience, consciousness, idea, and imagination. Thinking involves the cerebral manipulation of information, as when we form concepts, engage in problem solving, reason and make decisions. Thinking is a higher cognitive function and the analysis of thinking processes is part of cognitive psychology",
+      "Categories": [
+        {
+          "ID": 8033,
+          "Title": "Категория:Философия"
+        },
+        {
+          "ID": 13576,
+          "Title": "Категория:Идеологии"
+        },
+        {
+          "ID": 23730,
+          "Title": "Категория:Этика"
+        },
+        {
+          "ID": 168971,
+          "Title": "Категория:Философские направления и школы"
+        },
+        {
+          "ID": 209311,
+          "Title": "Категория:Мышление"
+        },
+        {
+          "ID": 385044,
+          "Title": "Категория:Разделы философии"
+        },
+        {
+          "ID": 3149300,
+          "Title": "Категория:Философские теории"
+        }
+      ],
+      "Articles": [
+        {
+          "ID": 91583,
+          "Title": "Красота"
+        },
+        {
+          "ID": 99768,
+          "Title": "Факт"
+        },
+        {
+          "ID": 176522,
+          "Title": "Счастье"
+        },
+        {
+          "ID": 2094148,
+          "Title": "Эффект Даннинга — Крюгера"
+        },
+        {
+          "ID": 6196345,
+          "Title": "Газлайтинг"
+        }
+      ]
+    },
+    {
+      "ID": 2147483645,
+      "Title": "Religion and belief systems",
+      "Abstract": "Religion is the adherence to codified beliefs and rituals that generally involve a faith in a spiritual nature and a study of inherited ancestral traditions, knowledge and wisdom related to understanding human life. The term \"religion\" refers to both the personal practices related to faith as well as to the larger shared systems of belief.\n\nA belief system can refer to a religion or a world view. A world view (or worldview) is a term calqued from the German word Weltanschauung Welt is the German word for 'world,' and Anschauung is the German word for 'view' or 'outlook'. It is a concept fundamental to German philosophy and epistemology and refers to a wide world perception. Additionally, it refers to the framework of ideas and beliefs through which an individual interprets the world and interacts in it",
+      "Categories": [
+        {
+          "ID": 7868,
+          "Title": "Категория:Мифология"
+        },
+        {
+          "ID": 7976,
+          "Title": "Категория:Религия"
+        },
+        {
+          "ID": 1267868,
+          "Title": "Категория:Критика религии"
+        },
+        {
+          "ID": 1806630,
+          "Title": "Категория:Вера"
+        },
+        {
+          "ID": 2207310,
+          "Title": "Категория:Индийские религии"
+        },
+        {
+          "ID": 2605389,
+          "Title": "Категория:Религии"
+        },
+        {
+          "ID": 3149300,
+          "Title": "Категория:Философские теории"
+        },
+        {
+          "ID": 4803973,
+          "Title": "Категория:Религиозные споры"
+        },
+        {
+          "ID": 5663928,
+          "Title": "Категория:Секуляризм"
+        },
+        {
+          "ID": 6090867,
+          "Title": "Категория:Антропология религии"
+        }
+      ],
+      "Articles": [
+        {
+          "ID": 81057,
+          "Title": "Обжорство"
+        }
+      ]
+    },
+    {
+      "ID": 2147483646,
+      "Title": "Society and social sciences",
+      "Abstract": "A society is a group of people who form a semi-closed system. At its simplest, the term society refers to a large group of people sharing their own culture and institutions. A society is a network of relationships between people. The English word society is derived from the French société, which had its origin in the Latin societas, a \"friendly association with others,\" from socius meaning \"companion, associate, comrade or business partner.\" Thus, the meaning of society is closely related to what is considered to be social. Implicit in the meaning of society is that its members may share some mutual concern or interest, a common objective or common characteristics. The social sciences generally use the term society to mean a group of people who form a semi-closed social system, in which most interactions are with other individuals belonging to the group. More abstractly, a society is defined as a network of relationships between social entities. A society is also sometimes defined as an interdependent community, but the sociologist Tönnies sought to draw a contrast between society and community. An important feature of society is social structure, aspects of which include roles and social ranking.\n\nThe social science are a group of academic disciplines that study human aspects of the world. They differ from the arts and the humanities, in that the social science tend to emphasize the use of the scientific method in the study of humanity, including quantitative and qualitative methods",
+      "Categories": [
+        {
+          "ID": 8989,
+          "Title": "Категория:Международные организации"
+        },
+        {
+          "ID": 10263,
+          "Title": "Категория:Общество"
+        },
+        {
+          "ID": 202091,
+          "Title": "Категория:Общественные науки"
+        },
+        {
+          "ID": 264956,
+          "Title": "Категория:Феминизм"
+        }
+      ],
+      "Articles": [
+        {
+          "ID": 4388,
+          "Title": "Нанкинский университет"
+        },
+        {
+          "ID": 5301,
+          "Title": "Европейский союз"
+        },
+        {
+          "ID": 7253,
+          "Title": "Московский государственный университет"
+        },
+        {
+          "ID": 18336,
+          "Title": "Колумбийский университет"
+        },
+        {
+          "ID": 20639,
+          "Title": "Львовский национальный университет имени Ивана Франко"
+        },
+        {
+          "ID": 22194,
+          "Title": "Летнее время"
+        },
+        {
+          "ID": 23302,
+          "Title": "Пенсильванский университет"
+        },
+        {
+          "ID": 27023,
+          "Title": "Санкт-Петербургский государственный университет"
+        },
+        {
+          "ID": 43975,
+          "Title": "Открытый университет (Великобритания)"
+        },
+        {
+          "ID": 47597,
+          "Title": "Принстонский университет"
+        },
+        {
+          "ID": 52137,
+          "Title": "Массачусетский технологический институт"
+        },
+        {
+          "ID": 71429,
+          "Title": "Национальное управление архивов и документации (США)"
+        },
+        {
+          "ID": 74804,
+          "Title": "Оксфордский университет"
+        },
+        {
+          "ID": 74819,
+          "Title": "Кембриджский университет"
+        },
+        {
+          "ID": 76028,
+          "Title": "Стэнфордский университет"
+        },
+        {
+          "ID": 92330,
+          "Title": "Парижский университет"
+        },
+        {
+          "ID": 94696,
+          "Title": "Сухой закон"
+        },
+        {
+          "ID": 123266,
+          "Title": "Виртуальное государство"
+        },
+        {
+          "ID": 150406,
+          "Title": "Трест"
+        },
+        {
+          "ID": 181269,
+          "Title": "Вестфальский университет имени Вильгельма"
+        },
+        {
+          "ID": 189320,
+          "Title": "BP"
+        },
+        {
+          "ID": 201915,
+          "Title": "Университет Глазго"
+        },
+        {
+          "ID": 205133,
+          "Title": "Starbucks"
+        },
+        {
+          "ID": 207105,
+          "Title": "Чикагский университет"
+        },
+        {
+          "ID": 209068,
+          "Title": "Сент-Эндрюсский университет"
+        },
+        {
+          "ID": 248181,
+          "Title": "The New York Times"
+        },
+        {
+          "ID": 264744,
+          "Title": "Уппсальский университет"
+        },
+        {
+          "ID": 269804,
+          "Title": "Еврейский университет в Иерусалиме"
+        },
+        {
+          "ID": 278007,
+          "Title": "Токийский университет"
+        },
+        {
+          "ID": 304995,
+          "Title": "Университет штата"
+        },
+        {
+          "ID": 342850,
+          "Title": "Кингстонский университет"
+        },
+        {
+          "ID": 367793,
+          "Title": "Лидский университет"
+        },
+        {
+          "ID": 386994,
+          "Title": "Тартуский университет"
+        },
+        {
+          "ID": 401541,
+          "Title": "Одесский национальный университет имени И. И. Мечникова"
+        },
+        {
+          "ID": 418750,
+          "Title": "Сеульский университет"
+        },
+        {
+          "ID": 438859,
+          "Title": "Третья мировая война"
+        },
+        {
+          "ID": 466028,
+          "Title": "Тюбингенский университет"
+        },
+        {
+          "ID": 540659,
+          "Title": "Виргинский университет"
+        },
+        {
+          "ID": 662585,
+          "Title": "Ливерпульский университет"
+        },
+        {
+          "ID": 712173,
+          "Title": "Экономика Барбадоса"
+        },
+        {
+          "ID": 715230,
+          "Title": "Экономика Ирана"
+        },
+        {
+          "ID": 723356,
+          "Title": "Университет штата Огайо"
+        },
+        {
+          "ID": 737407,
+          "Title": "Лондонский городской университет"
+        },
+        {
+          "ID": 749902,
+          "Title": "Австралийский национальный университет"
+        },
+        {
+          "ID": 751080,
+          "Title": "Квинслендский университет"
+        },
+        {
+          "ID": 756121,
+          "Title": "Флаг Австралии"
+        },
+        {
+          "ID": 771274,
+          "Title": "Сиднейский университет"
+        },
+        {
+          "ID": 772743,
+          "Title": "Университет Суррея"
+        },
+        {
+          "ID": 870505,
+          "Title": "Болонский университет"
+        },
+        {
+          "ID": 878042,
+          "Title": "Программа ООН по окружающей среде"
+        },
+        {
+          "ID": 919108,
+          "Title": "Лейпцигский университет"
+        },
+        {
+          "ID": 944489,
+          "Title": "Гёттингенский университет"
+        },
+        {
+          "ID": 958582,
+          "Title": "Гётеборгский университет"
+        },
+        {
+          "ID": 981929,
+          "Title": "Венский университет"
+        },
+        {
+          "ID": 1066449,
+          "Title": "Осакский университет"
+        },
+        {
+          "ID": 1095454,
+          "Title": "Университет штата Иллинойс"
+        },
+        {
+          "ID": 1099968,
+          "Title": "Тегеранский университет"
+        },
+        {
+          "ID": 1109411,
+          "Title": "Университет Куинс в Кингстоне"
+        },
+        {
+          "ID": 1157677,
+          "Title": "Лондонский университет"
+        },
+        {
+          "ID": 1162971,
+          "Title": "Социальная работа"
+        },
+        {
+          "ID": 1197890,
+          "Title": "Стокгольмский университет"
+        },
+        {
+          "ID": 1270413,
+          "Title": "Пицца Хат"
+        },
+        {
+          "ID": 1279345,
+          "Title": "Taco Bell"
+        },
+        {
+          "ID": 1283031,
+          "Title": "Калькуттский университет"
+        },
+        {
+          "ID": 1315077,
+          "Title": "Мэрилендский университет в Колледж-Парке"
+        },
+        {
+          "ID": 1353319,
+          "Title": "Университет Цинхуа"
+        },
+        {
+          "ID": 1380657,
+          "Title": "Мичиганский университет"
+        },
+        {
+          "ID": 1387951,
+          "Title": "Бостонский университет"
+        },
+        {
+          "ID": 1422635,
+          "Title": "American Airlines"
+        },
+        {
+          "ID": 1490356,
+          "Title": "The Times of India"
+        },
+        {
+          "ID": 1501788,
+          "Title": "Имперский колледж Лондона"
+        },
+        {
+          "ID": 1510003,
+          "Title": "Вашингтонский университет"
+        },
+        {
+          "ID": 1553825,
+          "Title": "Domino’s Pizza"
+        },
+        {
+          "ID": 1628160,
+          "Title": "Вюрцбургский университет"
+        },
+        {
+          "ID": 1651121,
+          "Title": "Падуанский университет"
+        },
+        {
+          "ID": 1710184,
+          "Title": "Нортумбрийский университет"
+        },
+        {
+          "ID": 1723195,
+          "Title": "Университет Тасмании"
+        },
+        {
+          "ID": 1758603,
+          "Title": "Техасский университет в Остине"
+        },
+        {
+          "ID": 1811825,
+          "Title": "Фрайбургский университет"
+        },
+        {
+          "ID": 1846469,
+          "Title": "Манчестерский университет"
+        },
+        {
+          "ID": 1907153,
+          "Title": "Кёльнский университет"
+        },
+        {
+          "ID": 1918290,
+          "Title": "Тулейнский университет"
+        },
+        {
+          "ID": 1923996,
+          "Title": "WAM-фетиш"
+        },
+        {
+          "ID": 1947491,
+          "Title": "Миссурийский университет"
+        },
+        {
+          "ID": 1957470,
+          "Title": "Аризонский университет"
+        },
+        {
+          "ID": 2036966,
+          "Title": "Катанийский университет"
+        },
+        {
+          "ID": 2062202,
+          "Title": "Вооружённые силы Монголии"
+        },
+        {
+          "ID": 2074115,
+          "Title": "Университет Малайя"
+        },
+        {
+          "ID": 2096480,
+          "Title": "Айовский университет"
+        },
+        {
+          "ID": 2123829,
+          "Title": "Университет Умео"
+        },
+        {
+          "ID": 2160823,
+          "Title": "Бернский университет"
+        },
+        {
+          "ID": 2179139,
+          "Title": "Университет Генуи"
+        },
+        {
+          "ID": 2185831,
+          "Title": "Боннский университет"
+        },
+        {
+          "ID": 2266105,
+          "Title": "Абердинский университет"
+        },
+        {
+          "ID": 2279814,
+          "Title": "Университет Акадия"
+        },
+        {
+          "ID": 2333784,
+          "Title": "Университет Уотерлу"
+        },
+        {
+          "ID": 2408447,
+          "Title": "Университет Южной Калифорнии"
+        },
+        {
+          "ID": 2409838,
+          "Title": "Университет Халла"
+        },
+        {
+          "ID": 2412242,
+          "Title": "Эксетерский университет"
+        },
+        {
+          "ID": 2513916,
+          "Title": "Орегонский университет"
+        },
+        {
+          "ID": 2548417,
+          "Title": "Неаполитанский университет"
+        },
+        {
+          "ID": 2591194,
+          "Title": "Викторианский университет"
+        },
+        {
+          "ID": 2592419,
+          "Title": "Бирмингемский университет"
+        },
+        {
+          "ID": 2667596,
+          "Title": "Исламский университет Азад"
+        },
+        {
+          "ID": 2717374,
+          "Title": "Вроцлавский университет"
+        },
+        {
+          "ID": 2755876,
+          "Title": "Fox News Channel"
+        },
+        {
+          "ID": 2766230,
+          "Title": "Туринский университет"
+        },
+        {
+          "ID": 2839050,
+          "Title": "Бристольский университет"
+        },
+        {
+          "ID": 2839062,
+          "Title": "Саутгемптонский университет"
+        },
+        {
+          "ID": 2839080,
+          "Title": "Ноттингемский университет"
+        },
+        {
+          "ID": 3018800,
+          "Title": "Уорикский университет"
+        },
+        {
+          "ID": 3060430,
+          "Title": "Гарвардский университет"
+        },
+        {
+          "ID": 3101027,
+          "Title": "Китайский Новый год"
+        },
+        {
+          "ID": 3125570,
+          "Title": "Университет Тохоку"
+        },
+        {
+          "ID": 3167349,
+          "Title": "Университет Хоккайдо"
+        },
+        {
+          "ID": 3182940,
+          "Title": "Университет Линнеус"
+        },
+        {
+          "ID": 3189011,
+          "Title": "Университет Райса"
+        },
+        {
+          "ID": 3285195,
+          "Title": "Университет штата Нью-Йорк в Буффало"
+        },
+        {
+          "ID": 3292514,
+          "Title": "Миннесотский университет"
+        },
+        {
+          "ID": 3366315,
+          "Title": "Университет Карачи"
+        },
+        {
+          "ID": 3379472,
+          "Title": "Хьюстонский университет"
+        },
+        {
+          "ID": 3394311,
+          "Title": "Университет Вашингтона в Сент-Луисе"
+        },
+        {
+          "ID": 3405897,
+          "Title": "Университет Саскачевана"
+        },
+        {
+          "ID": 3418279,
+          "Title": "Центр математики и информатики"
+        },
+        {
+          "ID": 3420420,
+          "Title": "Индианский университет в Блумингтоне"
+        },
+        {
+          "ID": 3465702,
+          "Title": "Индианский университет"
+        },
+        {
+          "ID": 3470107,
+          "Title": "Университет Западного Онтарио"
+        },
+        {
+          "ID": 3555929,
+          "Title": "Оклендский университет"
+        },
+        {
+          "ID": 3563489,
+          "Title": "Вохопто"
+        },
+        {
+          "ID": 3569792,
+          "Title": "Иллинойсский университет в Чикаго"
+        },
+        {
+          "ID": 3677383,
+          "Title": "Джадавпурский университет"
+        },
+        {
+          "ID": 3691454,
+          "Title": "MIT Sloan школа менеджмента"
+        },
+        {
+          "ID": 3743991,
+          "Title": "Делийский университет"
+        },
+        {
+          "ID": 3747652,
+          "Title": "Университет Джавахарлала Неру"
+        },
+        {
+          "ID": 3747735,
+          "Title": "Мумбайский университет"
+        },
+        {
+          "ID": 3762489,
+          "Title": "Миссисипский университет"
+        },
+        {
+          "ID": 3764324,
+          "Title": "Денверский университет"
+        },
+        {
+          "ID": 3807738,
+          "Title": "Университет Пантеон"
+        },
+        {
+          "ID": 3822731,
+          "Title": "Сент-Луисский университет"
+        },
+        {
+          "ID": 4148102,
+          "Title": "Лестерский университет"
+        },
+        {
+          "ID": 4173909,
+          "Title": "Миланский университет"
+        },
+        {
+          "ID": 4302343,
+          "Title": "Университет Кентербери"
+        },
+        {
+          "ID": 4326953,
+          "Title": "Университет Отаго"
+        },
+        {
+          "ID": 4341177,
+          "Title": "Ясский университет"
+        },
+        {
+          "ID": 4422939,
+          "Title": "Университет Вуллонгонг"
+        },
+        {
+          "ID": 4441743,
+          "Title": "Университет Квазулу-Натал"
+        },
+        {
+          "ID": 4443714,
+          "Title": "Северо-Западный университет (ЮАР)"
+        },
+        {
+          "ID": 4446508,
+          "Title": "Алигархский мусульманский университет"
+        },
+        {
+          "ID": 4574186,
+          "Title": "Ланкастерский университет"
+        },
+        {
+          "ID": 4656374,
+          "Title": "Босфорский университет"
+        },
+        {
+          "ID": 4811095,
+          "Title": "Университет Сонгюнгван"
+        },
+        {
+          "ID": 4853194,
+          "Title": "Университет Калгари"
+        },
+        {
+          "ID": 4864823,
+          "Title": "Университет Теннесси"
+        },
+        {
+          "ID": 4919670,
+          "Title": "Алабамский университет"
+        },
+        {
+          "ID": 4949572,
+          "Title": "Американский университет"
+        },
+        {
+          "ID": 5267865,
+          "Title": "Университет Пенджаба"
+        },
+        {
+          "ID": 5315972,
+          "Title": "Делавэрский университет"
+        },
+        {
+          "ID": 5373086,
+          "Title": "Шеффилдский университет"
+        },
+        {
+          "ID": 5678650,
+          "Title": "Четвёртая поправка к Конституции США"
+        },
+        {
+          "ID": 5789953,
+          "Title": "Городской университет Нью-Йорка"
+        },
+        {
+          "ID": 5800558,
+          "Title": "Университет Майами (Огайо)"
+        },
+        {
+          "ID": 5918105,
+          "Title": "Ольстерский университет"
+        },
+        {
+          "ID": 5923795,
+          "Title": "Манитобский университет"
+        },
+        {
+          "ID": 6396564,
+          "Title": "Эдинбургский университет Нейпира"
+        },
+        {
+          "ID": 6415360,
+          "Title": "Абертейский университет"
+        },
+        {
+          "ID": 6432839,
+          "Title": "Университет Ла Троба"
+        },
+        {
+          "ID": 6583614,
+          "Title": "Линчёпингский университет"
+        },
+        {
+          "ID": 6658930,
+          "Title": "Университет Анны"
+        },
+        {
+          "ID": 6687692,
+          "Title": "Университет Мэриленда в Балтиморе"
+        },
+        {
+          "ID": 6730194,
+          "Title": "Гуэлфский университет"
+        },
+        {
+          "ID": 6842983,
+          "Title": "Теракт на Вестминстерском мосту в Лондоне"
+        },
+        {
+          "ID": 7091891,
+          "Title": "Университет Цинциннати"
+        },
+        {
+          "ID": 7189840,
+          "Title": "Университет Таммасат"
+        },
+        {
+          "ID": 7293063,
+          "Title": "Университет Восточной Англии"
+        },
+        {
+          "ID": 7322996,
+          "Title": "Мемориальный университет Ньюфаундленда"
+        },
+        {
+          "ID": 7405613,
+          "Title": "Университет Реджайны"
+        },
+        {
+          "ID": 7469372,
+          "Title": "Общественный университет"
+        },
+        {
+          "ID": 7480804,
+          "Title": "Университет Риккио"
+        },
+        {
+          "ID": 7728751,
+          "Title": "Университет Триеста"
+        }
+      ]
+    },
+    {
+      "ID": 2147483647,
+      "Title": "Technology and applied sciences",
+      "Abstract": "Technology is an expanded concept that deals with a species' usage and knowledge of tools and crafts, and how it affects a species' ability to control and adapt to its environment. In human civilization, it is a consequence of science and engineering, although several technological advances predate the formalization of these two disciplines. The term can either be applied generally or to specific areas – examples include construction technology, medical technology, or state-of-the-art technology.\n\nThe human race's use of technology began with the conversion of plentiful natural resources into simple tools. The prehistorical discovery of the ability to control fire increased the available sources of food, and the invention of the wheel helped humans in travelling in and controlling their environment. Recent technological developments, including the printing press and the Internet, have lessened physical barriers to communication and allowed humans to interact on a global scale. However, not all technology has been used for peaceful purposes; the development of weapons of ever-increasing destructive power has progressed throughout history, from clubs to nuclear bombs.\n\nApplied science is the application of knowledge from one or more natural scientific fields to solving practical problems. For example, fields of engineering are applied sciences. Applied science is important for technology development. Its use in industrial settings is usually referred to as research and development (R\u0026D)",
+      "Categories": [
+        {
+          "ID": 7974,
+          "Title": "Категория:Информатика"
+        },
+        {
+          "ID": 8482,
+          "Title": "Категория:Интернет"
+        },
+        {
+          "ID": 8672,
+          "Title": "Категория:Транспорт"
+        },
+        {
+          "ID": 9210,
+          "Title": "Категория:Электроника"
+        },
+        {
+          "ID": 11755,
+          "Title": "Категория:Дизайн"
+        },
+        {
+          "ID": 13980,
+          "Title": "Категория:Технология"
+        },
+        {
+          "ID": 16375,
+          "Title": "Категория:Прикладные науки"
+        },
+        {
+          "ID": 354849,
+          "Title": "Категория:История технологий"
+        },
+        {
+          "ID": 1474477,
+          "Title": "Категория:Технологии по типу"
+        },
+        {
+          "ID": 1543711,
+          "Title": "Категория:Хронология технологий"
+        },
+        {
+          "ID": 2751372,
+          "Title": "Категория:Инженерия"
+        },
+        {
+          "ID": 4322817,
+          "Title": "Категория:Цифровые вычисления"
+        },
+        {
+          "ID": 6530484,
+          "Title": "Категория:Военная продукция"
+        }
+      ],
+      "Articles": [
+        {
+          "ID": 11853,
+          "Title": "Каменная кладка"
+        },
+        {
+          "ID": 132413,
+          "Title": "Стена"
+        },
+        {
+          "ID": 164672,
+          "Title": "Пепси"
+        },
+        {
+          "ID": 208449,
+          "Title": ".xxx"
+        },
+        {
+          "ID": 353863,
+          "Title": "Жевательная резинка"
+        },
+        {
+          "ID": 865650,
+          "Title": "Хлебопечка"
+        },
+        {
+          "ID": 1259059,
+          "Title": "Sega 32X"
+        },
+        {
+          "ID": 1852652,
+          "Title": "Mountain Dew"
+        },
+        {
+          "ID": 2592743,
+          "Title": "Технико-экономическое обоснование"
+        },
+        {
+          "ID": 2755606,
+          "Title": "Ласточкин хвост (механика)"
+        },
+        {
+          "ID": 6339646,
+          "Title": "Сварка неплавящимся электродом"
+        }
+      ]
+    }
+  ],
+  "Filters": [
+    {
+      "ID": 190947,
+      "Title": "Категория:Страницы значений"
+    },
+    {
+      "ID": 1031457,
+      "Title": "Категория:Скрытые категории"
+    }
+  ]
+}

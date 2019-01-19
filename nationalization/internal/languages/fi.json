@@ -1,0 +1,1592 @@
+{
+  "Language": "fi",
+  "Topics": [
+    {
+      "ID": 2147483637,
+      "Title": "Culture and the arts",
+      "Abstract": "The word culture is derived from the Latin root cultura or cultus meaning to \"inhabit, cultivate, or honour\". In general, culture refers to human activity; different definitions of culture reflect different theories for understanding, or criteria for valuing human activity. Present day Anthropologists use the term to refer to the universal human capacity to classify experiences and to encode and communicate them symbolically. They regard this capacity as a defining feature of the genus Homo. Since culture is learned, people living in different places have different cultures. There can be different cultures in different countries, and there can also be shared cultures among continents.\n\nThe arts are a vast subdivision of culture, composed of many creative endeavors and disciplines. It is a broader term than \"art,\" which as a description of a field usually means only the visual arts. The arts encompasses visual arts, literary arts and the performing arts - music, theatre, dance, spoken word and film, among others.\n\nArt, in its broadest meaning, is the expression of creativity or imagination. The word art comes from the Latin word ars, which, loosely translated, means \"arrangement\". Art is commonly understood as the act of making works (or artworks) which use the human creative impulse and which have meaning beyond simple description. Art is often distinguished from crafts and recreational hobby activities. The term creative arts denotes a collection of disciplines whose principal purpose is the output of material for the viewer or audience to interpret. As such, art may be taken to include forms as diverse as prose writing, poetry, dance, acting or drama, film, music, sculpture, photography, illustration, architecture, collage, painting, craft and fashion. Art may also be understood as relating to creativity, æsthetics and the generation of emotion",
+      "Categories": [
+        {
+          "ID": 18692,
+          "Title": "Luokka:Urheilu"
+        },
+        {
+          "ID": 18761,
+          "Title": "Luokka:Elokuvat"
+        },
+        {
+          "ID": 20666,
+          "Title": "Luokka:Taide"
+        },
+        {
+          "ID": 20667,
+          "Title": "Luokka:Kulttuuri"
+        },
+        {
+          "ID": 21513,
+          "Title": "Luokka:Harrastukset"
+        },
+        {
+          "ID": 23298,
+          "Title": "Luokka:Ruoka"
+        },
+        {
+          "ID": 26791,
+          "Title": "Luokka:Yhtyeet"
+        },
+        {
+          "ID": 27898,
+          "Title": "Luokka:Viihde"
+        },
+        {
+          "ID": 210624,
+          "Title": "Luokka:Ruokakulttuuri"
+        },
+        {
+          "ID": 1277298,
+          "Title": "Luokka:Virkistys"
+        }
+      ],
+      "Articles": [
+        {
+          "ID": 1259,
+          "Title": "Tietosanakirja"
+        },
+        {
+          "ID": 5552,
+          "Title": "Buckinghamin palatsi"
+        },
+        {
+          "ID": 7379,
+          "Title": "Tylypahka"
+        },
+        {
+          "ID": 8030,
+          "Title": "Kahvi"
+        },
+        {
+          "ID": 9347,
+          "Title": "Olut"
+        },
+        {
+          "ID": 12905,
+          "Title": "Leipä"
+        },
+        {
+          "ID": 15661,
+          "Title": "Pilsner"
+        },
+        {
+          "ID": 17555,
+          "Title": "Led Zeppelin"
+        },
+        {
+          "ID": 24456,
+          "Title": "Kummitus"
+        },
+        {
+          "ID": 24553,
+          "Title": "Suklaa"
+        },
+        {
+          "ID": 28133,
+          "Title": "Green Day"
+        },
+        {
+          "ID": 30001,
+          "Title": "Jäätelö"
+        },
+        {
+          "ID": 30522,
+          "Title": "Selibaatti"
+        },
+        {
+          "ID": 31395,
+          "Title": "Loch Nessin hirviö"
+        },
+        {
+          "ID": 32879,
+          "Title": "AC/DC"
+        },
+        {
+          "ID": 34047,
+          "Title": "Pasta"
+        },
+        {
+          "ID": 53981,
+          "Title": "Mordred"
+        },
+        {
+          "ID": 63195,
+          "Title": "Sgt. Pepper’s Lonely Hearts Club Band"
+        },
+        {
+          "ID": 68404,
+          "Title": "Pekoni"
+        },
+        {
+          "ID": 100329,
+          "Title": "Kakku"
+        },
+        {
+          "ID": 105493,
+          "Title": "Kinkku"
+        },
+        {
+          "ID": 136080,
+          "Title": "Keksi"
+        },
+        {
+          "ID": 158721,
+          "Title": "Nakkisämpylä"
+        },
+        {
+          "ID": 158845,
+          "Title": "Street dance"
+        },
+        {
+          "ID": 171587,
+          "Title": "Bière de Garde"
+        },
+        {
+          "ID": 219571,
+          "Title": "Valkoinen suklaa"
+        },
+        {
+          "ID": 219812,
+          "Title": "Aqua"
+        },
+        {
+          "ID": 221768,
+          "Title": "Ash Ketchum"
+        },
+        {
+          "ID": 285937,
+          "Title": "Taco"
+        },
+        {
+          "ID": 335882,
+          "Title": "The World Factbook"
+        },
+        {
+          "ID": 354421,
+          "Title": "Dinosaur Jr."
+        },
+        {
+          "ID": 372158,
+          "Title": "Wikipedia"
+        },
+        {
+          "ID": 411069,
+          "Title": "Suklaapatukka"
+        },
+        {
+          "ID": 427381,
+          "Title": "Rock Band"
+        },
+        {
+          "ID": 499137,
+          "Title": "WWE Championship"
+        },
+        {
+          "ID": 531767,
+          "Title": "M\u0026M’s"
+        },
+        {
+          "ID": 604097,
+          "Title": "Maapähkinävoi"
+        },
+        {
+          "ID": 612959,
+          "Title": "Keitetty muna"
+        },
+        {
+          "ID": 626309,
+          "Title": "Groundhog Day"
+        },
+        {
+          "ID": 655559,
+          "Title": "Bejeweled"
+        },
+        {
+          "ID": 656813,
+          "Title": "Bejeweled 2"
+        },
+        {
+          "ID": 705938,
+          "Title": "Pizza"
+        },
+        {
+          "ID": 776229,
+          "Title": "Realismi (kirjallisuus)"
+        },
+        {
+          "ID": 827787,
+          "Title": "Carbonara"
+        },
+        {
+          "ID": 841228,
+          "Title": "Kaakaojuoma"
+        },
+        {
+          "ID": 865987,
+          "Title": "Angry Birds (videopeli)"
+        },
+        {
+          "ID": 922866,
+          "Title": "Angry Birds Seasons"
+        },
+        {
+          "ID": 922867,
+          "Title": "Angry Birds Rio"
+        },
+        {
+          "ID": 925262,
+          "Title": "Judas (Lady Gagan kappale)"
+        },
+        {
+          "ID": 930153,
+          "Title": "Sucker Punch (vuoden 2011 elokuva)"
+        },
+        {
+          "ID": 969188,
+          "Title": "Giuditta Pasta"
+        },
+        {
+          "ID": 970625,
+          "Title": "The Wanted"
+        },
+        {
+          "ID": 1030805,
+          "Title": "Huutokaupan metsästäjät"
+        },
+        {
+          "ID": 1054143,
+          "Title": "Breakthrough"
+        },
+        {
+          "ID": 1055323,
+          "Title": "Jab Tak Hai Jaan"
+        },
+        {
+          "ID": 1113612,
+          "Title": "Enthiran"
+        },
+        {
+          "ID": 1150948,
+          "Title": "Flappy Bird"
+        },
+        {
+          "ID": 1218091,
+          "Title": "PK (elokuva)"
+        },
+        {
+          "ID": 1307966,
+          "Title": "Raakasuklaa"
+        },
+        {
+          "ID": 1311224,
+          "Title": "Alfabeto"
+        },
+        {
+          "ID": 1325262,
+          "Title": "Eurovision laulukilpailu 2017"
+        },
+        {
+          "ID": 1332321,
+          "Title": "Onnenkeksi"
+        },
+        {
+          "ID": 1370378,
+          "Title": "Eurovision laulukilpailu 2018"
+        },
+        {
+          "ID": 1453971,
+          "Title": "Kana tikka masala"
+        },
+        {
+          "ID": 1482355,
+          "Title": "Luettelo Italian nimisuojatuista juustoista"
+        }
+      ]
+    },
+    {
+      "ID": 2147483638,
+      "Title": "Geography and places",
+      "Abstract": "Geography (Greek Geo (γη) or Gaea (γαία), meaning \"Earth\", and graphein (γράφειν) meaning \"to describe\" or \"to write\") is the study of the earth and its features, inhabitants, and phenomena. A literal translation would be \"to describe or write about the Earth\". The first person to use the word \"geography\" was Eratosthenes (275-195 B.C.). Four historical traditions in geographical research are the spatial analysis of natural and human phenomena (geography as a study of distribution), area studies (places and regions), study of man-land relationship, and research in earth sciences. Nonetheless, modern geography is an all-encompassing discipline that foremost seeks to understand the world and all of its human and natural complexities — not merely where objects are, but how they have changed and come to be. As \"the bridge between the human and physical sciences,\" geography is divided into two main branches — human geography and physical geography",
+      "Categories": [
+        {
+          "ID": 20136,
+          "Title": "Luokka:Maantiede"
+        },
+        {
+          "ID": 68922,
+          "Title": "Luokka:Geomorfologia"
+        },
+        {
+          "ID": 78900,
+          "Title": "Luokka:Kaupunkisuunnittelu"
+        },
+        {
+          "ID": 83190,
+          "Title": "Luokka:Luettelot maantieteestä"
+        }
+      ],
+      "Articles": [
+        {
+          "ID": 960,
+          "Title": "Pariisi"
+        },
+        {
+          "ID": 11727,
+          "Title": "Myanmar"
+        },
+        {
+          "ID": 14340,
+          "Title": "Canberra"
+        },
+        {
+          "ID": 30040,
+          "Title": "Venetsia"
+        },
+        {
+          "ID": 44089,
+          "Title": "Queensland"
+        }
+      ]
+    },
+    {
+      "ID": 2147483639,
+      "Title": "Health and fitness",
+      "Abstract": "Health is the level of functional or metabolic efficiency of a living organism. In humans it is the ability of individuals or communities to adapt and self-manage when facing physical, mental or social challenges. The most widely accepted definition of good health is that of the World Health Organization Constitution. It states: \"health is a state of complete physical, mental and social well-being and is not merely the absence of disease or infirmity\" (World Health Organization, 1946). In more recent years, this statement has been amplified to include the ability to lead a \"socially and economically productive life.\" The WHO definition is not without criticism, mainly that it is much too broad.\n\nThe most solid aspects of wellness that fit firmly in the realm of medicine are environmental health, nutrition, disease prevention, and public health. These matters can be investigated at length and can assist in measuring well-being. Please see our medical disclaimer for cautions about Wikipedia's limitations",
+      "Categories": [
+        {
+          "ID": 19814,
+          "Title": "Luokka:Lääketiede"
+        },
+        {
+          "ID": 40378,
+          "Title": "Luokka:Hygienia"
+        },
+        {
+          "ID": 59309,
+          "Title": "Luokka:Perinnölliset sairaudet"
+        },
+        {
+          "ID": 209689,
+          "Title": "Luokka:Terveys"
+        },
+        {
+          "ID": 209747,
+          "Title": "Luokka:Terveystieteet"
+        },
+        {
+          "ID": 223292,
+          "Title": "Luokka:Terveydenhuollon ammatit"
+        },
+        {
+          "ID": 645775,
+          "Title": "Luokka:Lääketieteen erikoisalat"
+        }
+      ],
+      "Articles": [
+        {
+          "ID": 1280624,
+          "Title": "ASMR"
+        }
+      ]
+    },
+    {
+      "ID": 2147483640,
+      "Title": "History and events",
+      "Abstract": "History is the interpretation of past events, societies and civilizations. The term history comes from the Greek historia (ἱστορία), \"an account of one's inquiries,\" and shares that etymology with the English word story as narrative. The 1911 Encyclopædia Britannica stated that \"history in the wider sense is all that has happened, not merely all the phenomena of human life, but those of the natural world as well. It is everything that undergoes change; and as modern science has shown that there is nothing absolutely static, therefore, the whole universe, and every part of it, has its history.\" ",
+      "Categories": [
+        {
+          "ID": 18187,
+          "Title": "Luokka:Historia"
+        },
+        {
+          "ID": 40730,
+          "Title": "Luokka:Juhlapäivät"
+        },
+        {
+          "ID": 72261,
+          "Title": "Luokka:Tapahtumat"
+        },
+        {
+          "ID": 342986,
+          "Title": "Luokka:Vaalit vuosittain"
+        },
+        {
+          "ID": 1063598,
+          "Title": "Luokka:Historia maittain"
+        }
+      ],
+      "Articles": [
+        {
+          "ID": 11182,
+          "Title": "Syyskuun 11. päivän terroriteot"
+        },
+        {
+          "ID": 31577,
+          "Title": "Troijan sota"
+        },
+        {
+          "ID": 131869,
+          "Title": "Holokaustin kiistäminen"
+        },
+        {
+          "ID": 636268,
+          "Title": "Yhdysvaltain presidentinvaalit 2012"
+        },
+        {
+          "ID": 691261,
+          "Title": "Tasankointiaanit"
+        },
+        {
+          "ID": 815031,
+          "Title": "Meksikonlahden öljyonnettomuus 2010"
+        },
+        {
+          "ID": 869046,
+          "Title": "Patriootti (Amerikan vallankumous)"
+        },
+        {
+          "ID": 913776,
+          "Title": "Tōhokun maanjäristys ja tsunami"
+        },
+        {
+          "ID": 1031342,
+          "Title": "Auroran elokuvateatteriammuskelu"
+        },
+        {
+          "ID": 1291052,
+          "Title": "Palmerin ratsiat"
+        },
+        {
+          "ID": 1329675,
+          "Title": "Orlandon yökerhoammuskelu 2016"
+        },
+        {
+          "ID": 1361696,
+          "Title": "Venäjän sekaantuminen Yhdysvaltain vaaleihin 2016"
+        }
+      ]
+    },
+    {
+      "ID": 2147483641,
+      "Title": "Mathematics and logic",
+      "Abstract": "Mathematics is the science of quantization. It is also the study of patterns and relationships, including concepts such as quantity, structure, space, uncertainty, and change. It evolved through the use of abstraction and logical reasoning, from counting, calculation, measurement, and the systematic study of positions, shapes and motions of physical objects. Mathematicians explore such concepts, aiming to formulate new conjectures and establish their truth by rigorous deduction from appropriately chosen axioms and definitions.\n\nLogic (from Classical Greek λόγος logos; meaning word, thought, idea, argument, account, reason or principle) is the study of the principles and criteria of valid inference and demonstration. As a formal science, logic investigates and classifies the structure of statements and arguments, both through the study of formal systems of inference and through the study of arguments in natural language. The field of logic ranges from core topics such as the study of fallacies and paradoxes, to specialized analysis of reasoning using probability and to arguments involving causality. Logic is also commonly used today in argumentation theory. Since the mid-nineteenth century formal logic has been studied in the context of the foundations of mathematics",
+      "Categories": [
+        {
+          "ID": 17872,
+          "Title": "Luokka:Matematiikka"
+        },
+        {
+          "ID": 25317,
+          "Title": "Luokka:Logiikka"
+        },
+        {
+          "ID": 27976,
+          "Title": "Luokka:Tilastotiede"
+        },
+        {
+          "ID": 168765,
+          "Title": "Luokka:Sovellettu matematiikka"
+        },
+        {
+          "ID": 243863,
+          "Title": "Luokka:Tietojenkäsittelyteoria"
+        }
+      ],
+      "Articles": [
+        {
+          "ID": 8176,
+          "Title": "Pituus"
+        }
+      ]
+    },
+    {
+      "ID": 2147483642,
+      "Title": "Nature and physical sciences",
+      "Abstract": "The term nature is derived from the Latin word natura, or \"essential qualities, innate disposition\". Natura is a Latin translation of the Greek word physis (φύσις), which originally related to the intrinsic characteristics that plants, animals, and other features of the world develop of their own accord. The concept of nature as a whole, all matter and energy in the universe, is one of several expansions of the original notion.\n\nPhysical science is an encompassing term for the branches of natural science, and science, that study non-living systems, in contrast to the biological sciences. However, the term \"physical\" creates an involuntary, somewhat arbitrary distinction, since many branches of physical science also study biological phenomena",
+      "Categories": [
+        {
+          "ID": 17898,
+          "Title": "Luokka:Fysiikka"
+        },
+        {
+          "ID": 17972,
+          "Title": "Luokka:Kemia"
+        },
+        {
+          "ID": 19816,
+          "Title": "Luokka:Tiede"
+        },
+        {
+          "ID": 25089,
+          "Title": "Luokka:Luonnontieteet"
+        },
+        {
+          "ID": 25324,
+          "Title": "Luokka:Eläintiede"
+        },
+        {
+          "ID": 27547,
+          "Title": "Luokka:Yhdisteet"
+        },
+        {
+          "ID": 28052,
+          "Title": "Luokka:Luonto"
+        },
+        {
+          "ID": 275176,
+          "Title": "Luokka:Ympäristötiede"
+        }
+      ],
+      "Articles": [
+        {
+          "ID": 4994,
+          "Title": "Itsetyydytys"
+        },
+        {
+          "ID": 5524,
+          "Title": "Hirvi"
+        },
+        {
+          "ID": 6331,
+          "Title": "Tuli"
+        },
+        {
+          "ID": 17662,
+          "Title": "Siitin"
+        },
+        {
+          "ID": 21820,
+          "Title": "Riisi"
+        },
+        {
+          "ID": 23968,
+          "Title": "Appelsiinipuu"
+        },
+        {
+          "ID": 27178,
+          "Title": "Sitruuna"
+        },
+        {
+          "ID": 28893,
+          "Title": "Virtsa"
+        },
+        {
+          "ID": 30042,
+          "Title": "Ananas"
+        },
+        {
+          "ID": 37167,
+          "Title": "Maissi"
+        },
+        {
+          "ID": 40059,
+          "Title": "Limetti"
+        },
+        {
+          "ID": 43014,
+          "Title": "Puutarhamansikka"
+        },
+        {
+          "ID": 49793,
+          "Title": "Veden kiertokulku"
+        },
+        {
+          "ID": 53484,
+          "Title": "Mayakalenteri"
+        },
+        {
+          "ID": 55328,
+          "Title": "Rewantiikeri"
+        },
+        {
+          "ID": 68792,
+          "Title": "Kamelit (suku)"
+        },
+        {
+          "ID": 74542,
+          "Title": "Kives"
+        },
+        {
+          "ID": 83060,
+          "Title": "Engelmanninkuusi"
+        },
+        {
+          "ID": 122416,
+          "Title": "Kirsikkatomaatti"
+        },
+        {
+          "ID": 140526,
+          "Title": "Ravintoketju"
+        },
+        {
+          "ID": 148570,
+          "Title": "Suspensio"
+        },
+        {
+          "ID": 175622,
+          "Title": "Flamingot"
+        },
+        {
+          "ID": 185723,
+          "Title": "Makrilli"
+        },
+        {
+          "ID": 202762,
+          "Title": "Kukkakaali"
+        },
+        {
+          "ID": 359149,
+          "Title": "Punahiuksisuus"
+        },
+        {
+          "ID": 392294,
+          "Title": "Vastaväri"
+        },
+        {
+          "ID": 509272,
+          "Title": "Vehnät"
+        },
+        {
+          "ID": 585937,
+          "Title": "Juoksuhämähäkit"
+        },
+        {
+          "ID": 770409,
+          "Title": "Ruskosuulat"
+        },
+        {
+          "ID": 791806,
+          "Title": "Kurpot"
+        },
+        {
+          "ID": 819060,
+          "Title": "Itäminen"
+        },
+        {
+          "ID": 836412,
+          "Title": "Tuki- ja liikuntaelin"
+        },
+        {
+          "ID": 992530,
+          "Title": "Merijuolavehnä"
+        },
+        {
+          "ID": 1264430,
+          "Title": "Appelsiini (hedelmä)"
+        },
+        {
+          "ID": 1334897,
+          "Title": "Lasivaskitsat"
+        },
+        {
+          "ID": 1349628,
+          "Title": "Mango (hedelmä)"
+        },
+        {
+          "ID": 1483171,
+          "Title": "Ateles"
+        }
+      ]
+    },
+    {
+      "ID": 2147483643,
+      "Title": "People and self",
+      "Abstract": "A collection of people often refers to a general group, such as all humans, an ethnic group or a nation. An individual person is the self, from his or her own perspective. To you, \"self\" is you. To someone else, \"self\" is that person. A biography is a genre of literature or film, which presents a relatively full account of the most interesting and important events of a notable person's life.\n\nLife or personal life or human existence is an individual human's personal, private experience of living (including their employment career, their family life, and other elements). In prehistoric times, life and existence was based on survival. There was little privacy and a person was identified by their role in the group. In modern times, many people have even come to think of their personal lives as if they are separate from their work. This segmentation of \"life areas\" is evident in such phrases as \"work life\", \"home life\", and \"sex life.\" The meaning or role of a person's \"life\" or \"human existence\" is discussed in many religions and philosophies. In Western industrialized countries, there are a variety of service industries that help people improve their personal lives, such as counselling and life coaching companies",
+      "Categories": [
+        {
+          "ID": 23256,
+          "Title": "Luokka:Henkilöt"
+        },
+        {
+          "ID": 201771,
+          "Title": "Luokka:Elokuvahahmot"
+        },
+        {
+          "ID": 232057,
+          "Title": "Luokka:Sukunimet"
+        },
+        {
+          "ID": 286985,
+          "Title": "Luokka:Nainen"
+        }
+      ],
+      "Articles": [
+        {
+          "ID": 74,
+          "Title": "Adolf Hitler"
+        },
+        {
+          "ID": 107,
+          "Title": "Bill Gates"
+        },
+        {
+          "ID": 135,
+          "Title": "Kristoffer Kolumbus"
+        },
+        {
+          "ID": 1045,
+          "Title": "Srinivasa Ramanujan"
+        },
+        {
+          "ID": 5629,
+          "Title": "Tuomas Akvinolainen"
+        },
+        {
+          "ID": 5654,
+          "Title": "René Descartes"
+        },
+        {
+          "ID": 7561,
+          "Title": "Ayn Rand"
+        },
+        {
+          "ID": 8496,
+          "Title": "Galileo Galilei"
+        },
+        {
+          "ID": 9468,
+          "Title": "Noam Chomsky"
+        },
+        {
+          "ID": 9636,
+          "Title": "Stefan Lochner"
+        },
+        {
+          "ID": 11069,
+          "Title": "Sigmund Freud"
+        },
+        {
+          "ID": 11217,
+          "Title": "Adam Smith"
+        },
+        {
+          "ID": 14142,
+          "Title": "Alan Turing"
+        },
+        {
+          "ID": 16281,
+          "Title": "Johannes Kepler"
+        },
+        {
+          "ID": 16972,
+          "Title": "Harry Houdini"
+        },
+        {
+          "ID": 21803,
+          "Title": "Lewis Carroll"
+        },
+        {
+          "ID": 21839,
+          "Title": "John Lennon"
+        },
+        {
+          "ID": 24651,
+          "Title": "William Blake"
+        },
+        {
+          "ID": 26883,
+          "Title": "Florence Nightingale"
+        },
+        {
+          "ID": 34765,
+          "Title": "Joseph Smith"
+        },
+        {
+          "ID": 34783,
+          "Title": "Richard Wagner"
+        },
+        {
+          "ID": 35777,
+          "Title": "Carl Friedrich Gauss"
+        },
+        {
+          "ID": 35874,
+          "Title": "Richard Dawkins"
+        },
+        {
+          "ID": 36223,
+          "Title": "Charles Babbage"
+        },
+        {
+          "ID": 38570,
+          "Title": "George Harrison"
+        },
+        {
+          "ID": 40638,
+          "Title": "Carl Sagan"
+        },
+        {
+          "ID": 43170,
+          "Title": "Alexander Fleming"
+        },
+        {
+          "ID": 53548,
+          "Title": "Oliver Cromwell"
+        },
+        {
+          "ID": 59631,
+          "Title": "Daniel Radcliffe"
+        },
+        {
+          "ID": 60941,
+          "Title": "Elton John"
+        },
+        {
+          "ID": 63582,
+          "Title": "Fibonacci"
+        },
+        {
+          "ID": 127300,
+          "Title": "Karl Friedrich Abel"
+        },
+        {
+          "ID": 165483,
+          "Title": "Big Show"
+        },
+        {
+          "ID": 239973,
+          "Title": "Irving Langmuir"
+        },
+        {
+          "ID": 286094,
+          "Title": "Axel Anderberg"
+        },
+        {
+          "ID": 433261,
+          "Title": "Janet Margolin"
+        },
+        {
+          "ID": 654115,
+          "Title": "Jacob Black"
+        },
+        {
+          "ID": 828525,
+          "Title": "Cory Monteith"
+        },
+        {
+          "ID": 948797,
+          "Title": "Anders Behring Breivik"
+        },
+        {
+          "ID": 1065798,
+          "Title": "Bob Ross"
+        },
+        {
+          "ID": 1125656,
+          "Title": "Johnny Appleseed"
+        },
+        {
+          "ID": 1271409,
+          "Title": "Ted Cruz"
+        },
+        {
+          "ID": 1310024,
+          "Title": "Chaïm Soutine"
+        }
+      ]
+    },
+    {
+      "ID": 2147483644,
+      "Title": "Philosophy and thinking",
+      "Abstract": "Philosophy has almost as many definitions as there have been philosophers, both as a subject matter and an activity, and no simple definition can do it justice. The issue of the definition of philosophy is thus a controversial subject that is nowadays tackled by Metaphilosophy (or the philosophy of philosophy). The word is derived from the ancient Greek words philo-, to love or to befriend, and -sophia, wisdom. Modern usage of the term is much broader; the concept of philosophy encompasses all of knowledge and all that can be known, including the means by which such knowledge can be acquired. However, in the contemporary English-speaking academic world, the term is often used implicitly to refer to analytic philosophy and, in non-English speaking countries, it often refers implicitly to a different, European strain, continental philosophy. The ancient Greeks organized the subject into five basic categories: metaphysics, epistemology, ethics, politics and aesthetics. This organization of the subject is still largely in use in Western philosophy today.\n\nThought or thinking is a mental process which allows beings to model the world, and so to deal with it effectively according to their goals, plans, ends and desires. Words referring to similar concepts and processes in the English language include cognition, sentience, consciousness, idea, and imagination. Thinking involves the cerebral manipulation of information, as when we form concepts, engage in problem solving, reason and make decisions. Thinking is a higher cognitive function and the analysis of thinking processes is part of cognitive psychology",
+      "Categories": [
+        {
+          "ID": 20448,
+          "Title": "Luokka:Filosofia"
+        },
+        {
+          "ID": 20822,
+          "Title": "Luokka:Etiikka"
+        },
+        {
+          "ID": 55866,
+          "Title": "Luokka:Filosofian koulukunnat"
+        },
+        {
+          "ID": 55868,
+          "Title": "Luokka:Filosofian osa-alueet"
+        },
+        {
+          "ID": 279575,
+          "Title": "Luokka:Ajattelu"
+        },
+        {
+          "ID": 674872,
+          "Title": "Luokka:Filosofiset teoriat"
+        }
+      ],
+      "Articles": [
+        {
+          "ID": 195505,
+          "Title": "Kauneus"
+        },
+        {
+          "ID": 199094,
+          "Title": "Onnellisuus"
+        },
+        {
+          "ID": 279083,
+          "Title": "Tosiasia"
+        },
+        {
+          "ID": 469794,
+          "Title": "Luottamus"
+        },
+        {
+          "ID": 908182,
+          "Title": "Gaslighting"
+        },
+        {
+          "ID": 1274671,
+          "Title": "Ylivertaisuusvinouma"
+        }
+      ]
+    },
+    {
+      "ID": 2147483645,
+      "Title": "Religion and belief systems",
+      "Abstract": "Religion is the adherence to codified beliefs and rituals that generally involve a faith in a spiritual nature and a study of inherited ancestral traditions, knowledge and wisdom related to understanding human life. The term \"religion\" refers to both the personal practices related to faith as well as to the larger shared systems of belief.\n\nA belief system can refer to a religion or a world view. A world view (or worldview) is a term calqued from the German word Weltanschauung Welt is the German word for 'world,' and Anschauung is the German word for 'view' or 'outlook'. It is a concept fundamental to German philosophy and epistemology and refers to a wide world perception. Additionally, it refers to the framework of ideas and beliefs through which an individual interprets the world and interacts in it",
+      "Categories": [
+        {
+          "ID": 18727,
+          "Title": "Luokka:Uskonnot"
+        },
+        {
+          "ID": 20367,
+          "Title": "Luokka:Uskonto"
+        },
+        {
+          "ID": 23775,
+          "Title": "Luokka:Mytologia"
+        },
+        {
+          "ID": 217315,
+          "Title": "Luokka:Sekularismi"
+        },
+        {
+          "ID": 219186,
+          "Title": "Luokka:Uskontokritiikki"
+        },
+        {
+          "ID": 563573,
+          "Title": "Luokka:Uskontoon liittyvät kiistat"
+        },
+        {
+          "ID": 674872,
+          "Title": "Luokka:Filosofiset teoriat"
+        },
+        {
+          "ID": 798629,
+          "Title": "Luokka:Uskontoantropologia"
+        },
+        {
+          "ID": 1452288,
+          "Title": "Luokka:Nonteismi"
+        }
+      ]
+    },
+    {
+      "ID": 2147483646,
+      "Title": "Society and social sciences",
+      "Abstract": "A society is a group of people who form a semi-closed system. At its simplest, the term society refers to a large group of people sharing their own culture and institutions. A society is a network of relationships between people. The English word society is derived from the French société, which had its origin in the Latin societas, a \"friendly association with others,\" from socius meaning \"companion, associate, comrade or business partner.\" Thus, the meaning of society is closely related to what is considered to be social. Implicit in the meaning of society is that its members may share some mutual concern or interest, a common objective or common characteristics. The social sciences generally use the term society to mean a group of people who form a semi-closed social system, in which most interactions are with other individuals belonging to the group. More abstractly, a society is defined as a network of relationships between social entities. A society is also sometimes defined as an interdependent community, but the sociologist Tönnies sought to draw a contrast between society and community. An important feature of society is social structure, aspects of which include roles and social ranking.\n\nThe social science are a group of academic disciplines that study human aspects of the world. They differ from the arts and the humanities, in that the social science tend to emphasize the use of the scientific method in the study of humanity, including quantitative and qualitative methods",
+      "Categories": [
+        {
+          "ID": 18091,
+          "Title": "Luokka:Kansainväliset järjestöt"
+        },
+        {
+          "ID": 23764,
+          "Title": "Luokka:Yhteiskunta"
+        },
+        {
+          "ID": 152461,
+          "Title": "Luokka:Feminismi"
+        },
+        {
+          "ID": 596189,
+          "Title": "Luokka:Yhteiskuntatieteet"
+        }
+      ],
+      "Articles": [
+        {
+          "ID": 198,
+          "Title": "Euroopan unioni"
+        },
+        {
+          "ID": 500,
+          "Title": "Kesäaika"
+        },
+        {
+          "ID": 1068,
+          "Title": "Sosiaalityö"
+        },
+        {
+          "ID": 12473,
+          "Title": "Kolmas maailmansota"
+        },
+        {
+          "ID": 27840,
+          "Title": "Australian lippu"
+        },
+        {
+          "ID": 29215,
+          "Title": "Kiinalainen uusivuosi"
+        },
+        {
+          "ID": 31596,
+          "Title": "Kieltolaki"
+        },
+        {
+          "ID": 48259,
+          "Title": "Oxfordin yliopisto"
+        },
+        {
+          "ID": 49252,
+          "Title": "Columbian yliopisto"
+        },
+        {
+          "ID": 49901,
+          "Title": "Pariisin yliopisto"
+        },
+        {
+          "ID": 59227,
+          "Title": "Chicagon yliopisto"
+        },
+        {
+          "ID": 61412,
+          "Title": "Princetonin yliopisto"
+        },
+        {
+          "ID": 68426,
+          "Title": "Mikrovaltio"
+        },
+        {
+          "ID": 71926,
+          "Title": "Wienin yliopisto"
+        },
+        {
+          "ID": 75748,
+          "Title": "Harvardin yliopisto"
+        },
+        {
+          "ID": 83304,
+          "Title": "Cambridgen yliopisto"
+        },
+        {
+          "ID": 84237,
+          "Title": "American Airlines"
+        },
+        {
+          "ID": 86704,
+          "Title": "BP (yritys)"
+        },
+        {
+          "ID": 89240,
+          "Title": "The New York Times"
+        },
+        {
+          "ID": 93779,
+          "Title": "Massachusetts Institute of Technology"
+        },
+        {
+          "ID": 103433,
+          "Title": "Pizza Hut"
+        },
+        {
+          "ID": 104808,
+          "Title": "Sheffieldin yliopisto"
+        },
+        {
+          "ID": 114088,
+          "Title": "Tukholman yliopisto"
+        },
+        {
+          "ID": 140903,
+          "Title": "Pennsylvanian yliopisto"
+        },
+        {
+          "ID": 141075,
+          "Title": "Michiganin yliopisto"
+        },
+        {
+          "ID": 153118,
+          "Title": "Göttingenin Georg-August-yliopisto"
+        },
+        {
+          "ID": 155635,
+          "Title": "Uppsalan yliopisto"
+        },
+        {
+          "ID": 155800,
+          "Title": "Göteborgin yliopisto"
+        },
+        {
+          "ID": 155827,
+          "Title": "Linköpingin yliopisto"
+        },
+        {
+          "ID": 155830,
+          "Title": "Uumajan yliopisto"
+        },
+        {
+          "ID": 160010,
+          "Title": "Virginian yliopisto"
+        },
+        {
+          "ID": 169480,
+          "Title": "Glasgow’n yliopisto"
+        },
+        {
+          "ID": 170126,
+          "Title": "Ricen yliopisto"
+        },
+        {
+          "ID": 172535,
+          "Title": "St Andrewsin yliopisto"
+        },
+        {
+          "ID": 177491,
+          "Title": "Tsinghua-yliopisto"
+        },
+        {
+          "ID": 177881,
+          "Title": "Moskovan valtionyliopisto"
+        },
+        {
+          "ID": 190654,
+          "Title": "Bolognan yliopisto"
+        },
+        {
+          "ID": 191804,
+          "Title": "Milanon yliopisto"
+        },
+        {
+          "ID": 194224,
+          "Title": "Kentin yliopisto"
+        },
+        {
+          "ID": 196882,
+          "Title": "Stanfordin yliopisto"
+        },
+        {
+          "ID": 200039,
+          "Title": "Birminghamin yliopisto"
+        },
+        {
+          "ID": 207495,
+          "Title": "Tarton yliopisto"
+        },
+        {
+          "ID": 213926,
+          "Title": "Aberdeenin yliopisto"
+        },
+        {
+          "ID": 230197,
+          "Title": "Starbucks"
+        },
+        {
+          "ID": 264913,
+          "Title": "Padovan yliopisto"
+        },
+        {
+          "ID": 283183,
+          "Title": "Lontoon yliopisto"
+        },
+        {
+          "ID": 292448,
+          "Title": "Leipzigin yliopisto"
+        },
+        {
+          "ID": 330006,
+          "Title": "Jerusalemin heprealainen yliopisto"
+        },
+        {
+          "ID": 333999,
+          "Title": "Manchesterin yliopisto"
+        },
+        {
+          "ID": 337780,
+          "Title": "Bernin yliopisto"
+        },
+        {
+          "ID": 340924,
+          "Title": "The Times of India"
+        },
+        {
+          "ID": 371542,
+          "Title": "Tokion yliopisto"
+        },
+        {
+          "ID": 375046,
+          "Title": "Yhdistyneiden kansakuntien ympäristöohjelma"
+        },
+        {
+          "ID": 376995,
+          "Title": "Liverpoolin yliopisto"
+        },
+        {
+          "ID": 389498,
+          "Title": "Bonnin yliopisto"
+        },
+        {
+          "ID": 417672,
+          "Title": "Bristolin yliopisto"
+        },
+        {
+          "ID": 442557,
+          "Title": "Bostonin yliopisto"
+        },
+        {
+          "ID": 516612,
+          "Title": "Australian kansallinen yliopisto"
+        },
+        {
+          "ID": 521851,
+          "Title": "Northumbrian yliopisto"
+        },
+        {
+          "ID": 529810,
+          "Title": "Tulanen yliopisto"
+        },
+        {
+          "ID": 553618,
+          "Title": "Pietarin valtionyliopisto"
+        },
+        {
+          "ID": 563541,
+          "Title": "Taco Bell"
+        },
+        {
+          "ID": 587542,
+          "Title": "Tübingenin yliopisto"
+        },
+        {
+          "ID": 600250,
+          "Title": "Illinoisin yliopisto, Chicago"
+        },
+        {
+          "ID": 602646,
+          "Title": "Guelphin yliopisto"
+        },
+        {
+          "ID": 606861,
+          "Title": "Toledon yliopisto"
+        },
+        {
+          "ID": 609113,
+          "Title": "Cincinnatin yliopisto"
+        },
+        {
+          "ID": 614918,
+          "Title": "Houstonin yliopisto"
+        },
+        {
+          "ID": 616235,
+          "Title": "Texasin yliopisto, Austin"
+        },
+        {
+          "ID": 650037,
+          "Title": "Kölnin yliopisto"
+        },
+        {
+          "ID": 661327,
+          "Title": "Wisconsinin yliopisto, Milwaukee"
+        },
+        {
+          "ID": 667396,
+          "Title": "Iowan yliopisto"
+        },
+        {
+          "ID": 692914,
+          "Title": "Nanjingin yliopisto"
+        },
+        {
+          "ID": 708363,
+          "Title": "Torinon yliopisto"
+        },
+        {
+          "ID": 720124,
+          "Title": "Open University"
+        },
+        {
+          "ID": 735362,
+          "Title": "Tōhokun yliopisto"
+        },
+        {
+          "ID": 753133,
+          "Title": "Albert-Ludwigs-Universität Freiburg"
+        },
+        {
+          "ID": 757879,
+          "Title": "Arizonan yliopisto"
+        },
+        {
+          "ID": 757929,
+          "Title": "Miamin yliopisto (Ohio)"
+        },
+        {
+          "ID": 757933,
+          "Title": "Saint Louisin yliopisto"
+        },
+        {
+          "ID": 758253,
+          "Title": "Valparaison yliopisto"
+        },
+        {
+          "ID": 761036,
+          "Title": "Fox News Channel"
+        },
+        {
+          "ID": 822785,
+          "Title": "Ohion osavaltionyliopisto"
+        },
+        {
+          "ID": 833739,
+          "Title": "Etelä-Kalifornian yliopisto"
+        },
+        {
+          "ID": 867125,
+          "Title": "Imperial College London"
+        },
+        {
+          "ID": 869469,
+          "Title": "Sydneyn yliopisto"
+        },
+        {
+          "ID": 893751,
+          "Title": "Southamptonin yliopisto"
+        },
+        {
+          "ID": 922852,
+          "Title": "Delawaren yliopisto"
+        },
+        {
+          "ID": 937862,
+          "Title": "Ferraran yliopisto"
+        },
+        {
+          "ID": 940338,
+          "Title": "Marylandin yliopisto (College Park)"
+        },
+        {
+          "ID": 941393,
+          "Title": "Indianan yliopisto"
+        },
+        {
+          "ID": 941575,
+          "Title": "Minnesotan yliopisto"
+        },
+        {
+          "ID": 972329,
+          "Title": "Warwickin yliopisto"
+        },
+        {
+          "ID": 977697,
+          "Title": "Indianan yliopisto Bloomingtonissa"
+        },
+        {
+          "ID": 1008586,
+          "Title": "Delhin yliopisto"
+        },
+        {
+          "ID": 1026916,
+          "Title": "Yhdysvaltain perustuslain neljäs lisäys"
+        },
+        {
+          "ID": 1035552,
+          "Title": "Würzburgin yliopisto"
+        },
+        {
+          "ID": 1037498,
+          "Title": "Oregonin yliopisto"
+        },
+        {
+          "ID": 1062485,
+          "Title": "Alabaman yliopisto"
+        },
+        {
+          "ID": 1063395,
+          "Title": "Tennesseen yliopisto"
+        },
+        {
+          "ID": 1065320,
+          "Title": "Missourin yliopisto"
+        },
+        {
+          "ID": 1139289,
+          "Title": "Akronin yliopisto"
+        },
+        {
+          "ID": 1152862,
+          "Title": "Mongolian asevoimat"
+        },
+        {
+          "ID": 1201386,
+          "Title": "Lvivin yliopisto"
+        },
+        {
+          "ID": 1208071,
+          "Title": "Panteion-yliopisto"
+        },
+        {
+          "ID": 1217271,
+          "Title": "Domino’s Pizza"
+        },
+        {
+          "ID": 1220222,
+          "Title": "Washingtonin yliopisto"
+        },
+        {
+          "ID": 1220343,
+          "Title": "Teheranin yliopisto"
+        },
+        {
+          "ID": 1220609,
+          "Title": "Soulin valtionyliopisto"
+        },
+        {
+          "ID": 1251167,
+          "Title": "Linné-yliopisto"
+        },
+        {
+          "ID": 1348987,
+          "Title": "University at Buffalo"
+        },
+        {
+          "ID": 1349073,
+          "Title": "Washington University in St. Louis"
+        },
+        {
+          "ID": 1362370,
+          "Title": "Bathin yliopisto"
+        },
+        {
+          "ID": 1374438,
+          "Title": "Montanan yliopisto"
+        },
+        {
+          "ID": 1375600,
+          "Title": "Lontoon terrori-isku 22. maaliskuuta 2017"
+        },
+        {
+          "ID": 1388684,
+          "Title": "Leicesterin yliopisto"
+        },
+        {
+          "ID": 1442802,
+          "Title": "Kalkutan yliopisto"
+        },
+        {
+          "ID": 1442803,
+          "Title": "Mumbain yliopisto"
+        },
+        {
+          "ID": 1459547,
+          "Title": "KwaZulu-Natalin yliopisto"
+        },
+        {
+          "ID": 1460205,
+          "Title": "Jawaharlal Nehrun yliopisto"
+        },
+        {
+          "ID": 1491364,
+          "Title": "Trusti (taloustiede)"
+        },
+        {
+          "ID": 1491828,
+          "Title": "Queenslandin yliopisto"
+        }
+      ]
+    },
+    {
+      "ID": 2147483647,
+      "Title": "Technology and applied sciences",
+      "Abstract": "Technology is an expanded concept that deals with a species' usage and knowledge of tools and crafts, and how it affects a species' ability to control and adapt to its environment. In human civilization, it is a consequence of science and engineering, although several technological advances predate the formalization of these two disciplines. The term can either be applied generally or to specific areas – examples include construction technology, medical technology, or state-of-the-art technology.\n\nThe human race's use of technology began with the conversion of plentiful natural resources into simple tools. The prehistorical discovery of the ability to control fire increased the available sources of food, and the invention of the wheel helped humans in travelling in and controlling their environment. Recent technological developments, including the printing press and the Internet, have lessened physical barriers to communication and allowed humans to interact on a global scale. However, not all technology has been used for peaceful purposes; the development of weapons of ever-increasing destructive power has progressed throughout history, from clubs to nuclear bombs.\n\nApplied science is the application of knowledge from one or more natural scientific fields to solving practical problems. For example, fields of engineering are applied sciences. Applied science is important for technology development. Its use in industrial settings is usually referred to as research and development (R\u0026D)",
+      "Categories": [
+        {
+          "ID": 18334,
+          "Title": "Luokka:Elektroniikka"
+        },
+        {
+          "ID": 21059,
+          "Title": "Luokka:Liikenne"
+        },
+        {
+          "ID": 21514,
+          "Title": "Luokka:Internet"
+        },
+        {
+          "ID": 32411,
+          "Title": "Luokka:Muotoilu"
+        },
+        {
+          "ID": 37539,
+          "Title": "Luokka:Tietojenkäsittelytiede"
+        },
+        {
+          "ID": 58091,
+          "Title": "Luokka:Sotilaskalusto"
+        },
+        {
+          "ID": 206434,
+          "Title": "Luokka:Sovellettu tiede"
+        },
+        {
+          "ID": 234229,
+          "Title": "Luokka:Tekniikan historia"
+        }
+      ],
+      "Articles": [
+        {
+          "ID": 29759,
+          "Title": "Purukumi"
+        },
+        {
+          "ID": 37937,
+          "Title": "Mountain Dew"
+        },
+        {
+          "ID": 37967,
+          "Title": "Pepsi"
+        },
+        {
+          "ID": 38194,
+          "Title": "Seinä"
+        },
+        {
+          "ID": 73724,
+          "Title": "Leipäkone"
+        },
+        {
+          "ID": 151835,
+          "Title": "Sega 32X"
+        },
+        {
+          "ID": 302109,
+          "Title": "TIG-hitsaus"
+        },
+        {
+          "ID": 919743,
+          "Title": ".xxx"
+        }
+      ]
+    }
+  ],
+  "Filters": [
+    {
+      "ID": 21499,
+      "Title": "Luokka:Täsmennyssivut"
+    },
+    {
+      "ID": 488927,
+      "Title": "Luokka:Piilotetut luokat"
+    }
+  ]
+}

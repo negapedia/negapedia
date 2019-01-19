@@ -1,0 +1,1228 @@
+{
+  "Language": "bg",
+  "Topics": [
+    {
+      "ID": 2147483637,
+      "Title": "Culture and the arts",
+      "Abstract": "The word culture is derived from the Latin root cultura or cultus meaning to \"inhabit, cultivate, or honour\". In general, culture refers to human activity; different definitions of culture reflect different theories for understanding, or criteria for valuing human activity. Present day Anthropologists use the term to refer to the universal human capacity to classify experiences and to encode and communicate them symbolically. They regard this capacity as a defining feature of the genus Homo. Since culture is learned, people living in different places have different cultures. There can be different cultures in different countries, and there can also be shared cultures among continents.\n\nThe arts are a vast subdivision of culture, composed of many creative endeavors and disciplines. It is a broader term than \"art,\" which as a description of a field usually means only the visual arts. The arts encompasses visual arts, literary arts and the performing arts - music, theatre, dance, spoken word and film, among others.\n\nArt, in its broadest meaning, is the expression of creativity or imagination. The word art comes from the Latin word ars, which, loosely translated, means \"arrangement\". Art is commonly understood as the act of making works (or artworks) which use the human creative impulse and which have meaning beyond simple description. Art is often distinguished from crafts and recreational hobby activities. The term creative arts denotes a collection of disciplines whose principal purpose is the output of material for the viewer or audience to interpret. As such, art may be taken to include forms as diverse as prose writing, poetry, dance, acting or drama, film, music, sculpture, photography, illustration, architecture, collage, painting, craft and fashion. Art may also be understood as relating to creativity, æsthetics and the generation of emotion",
+      "Categories": [
+        {
+          "ID": 15908,
+          "Title": "Категория:Филми"
+        },
+        {
+          "ID": 15911,
+          "Title": "Категория:Забавление"
+        },
+        {
+          "ID": 16042,
+          "Title": "Категория:Култура"
+        },
+        {
+          "ID": 19862,
+          "Title": "Категория:Хобита"
+        },
+        {
+          "ID": 20699,
+          "Title": "Категория:Спорт"
+        },
+        {
+          "ID": 26296,
+          "Title": "Категория:Храни"
+        },
+        {
+          "ID": 26693,
+          "Title": "Категория:Музикални групи"
+        },
+        {
+          "ID": 28834,
+          "Title": "Категория:Кухня"
+        },
+        {
+          "ID": 491048,
+          "Title": "Категория:Изкуство"
+        }
+      ],
+      "Articles": [
+        {
+          "ID": 2669,
+          "Title": "Уикипедия"
+        },
+        {
+          "ID": 3044,
+          "Title": "Енциклопедия"
+        },
+        {
+          "ID": 26900,
+          "Title": "Бира"
+        },
+        {
+          "ID": 34531,
+          "Title": "Шоколад"
+        },
+        {
+          "ID": 47236,
+          "Title": "Лед Цепелин"
+        },
+        {
+          "ID": 52191,
+          "Title": "Кафе"
+        },
+        {
+          "ID": 65629,
+          "Title": "Хляб"
+        },
+        {
+          "ID": 72142,
+          "Title": "Фелацио"
+        },
+        {
+          "ID": 82146,
+          "Title": "Хогуортс"
+        },
+        {
+          "ID": 95033,
+          "Title": "Грийн Дей"
+        },
+        {
+          "ID": 97912,
+          "Title": "Бъкингамски дворец"
+        },
+        {
+          "ID": 105649,
+          "Title": "CIA World Factbook"
+        },
+        {
+          "ID": 108577,
+          "Title": "Яйце (храна)"
+        },
+        {
+          "ID": 110216,
+          "Title": "Ей Си/Ди Си"
+        },
+        {
+          "ID": 127460,
+          "Title": "Целибат"
+        },
+        {
+          "ID": 136707,
+          "Title": "Дух (призрак)"
+        },
+        {
+          "ID": 143390,
+          "Title": "Аш Кечъм"
+        },
+        {
+          "ID": 158844,
+          "Title": "Пица"
+        },
+        {
+          "ID": 159010,
+          "Title": "Бекон"
+        },
+        {
+          "ID": 174501,
+          "Title": "Неси"
+        },
+        {
+          "ID": 181073,
+          "Title": "Хотдог"
+        },
+        {
+          "ID": 182672,
+          "Title": "Аква"
+        },
+        {
+          "ID": 193423,
+          "Title": "Целомъдрие"
+        },
+        {
+          "ID": 212092,
+          "Title": "Мордред"
+        },
+        {
+          "ID": 259950,
+          "Title": "Пилзнер"
+        },
+        {
+          "ID": 261330,
+          "Title": "Доматен сос"
+        },
+        {
+          "ID": 271256,
+          "Title": "Шунка"
+        },
+        {
+          "ID": 273171,
+          "Title": "Фъстъчено масло"
+        },
+        {
+          "ID": 310059,
+          "Title": "Паста (кулинария)"
+        },
+        {
+          "ID": 310971,
+          "Title": "Литературен реализъм"
+        },
+        {
+          "ID": 314483,
+          "Title": "Sucker Punch: Измислен свят"
+        },
+        {
+          "ID": 340249,
+          "Title": "Бисквита"
+        },
+        {
+          "ID": 357236,
+          "Title": "Angry Birds"
+        },
+        {
+          "ID": 371188,
+          "Title": "Тако"
+        },
+        {
+          "ID": 377390,
+          "Title": "Безалкохолна бира"
+        },
+        {
+          "ID": 378044,
+          "Title": "Sgt. Pepper's Lonely Hearts Club Band"
+        },
+        {
+          "ID": 391648,
+          "Title": "Джудита Паста"
+        },
+        {
+          "ID": 433178,
+          "Title": "Битър"
+        },
+        {
+          "ID": 433431,
+          "Title": "Майлд ейл"
+        },
+        {
+          "ID": 447895,
+          "Title": "Бира дьо Гард"
+        },
+        {
+          "ID": 450195,
+          "Title": "Горещ шоколад"
+        },
+        {
+          "ID": 469805,
+          "Title": "Черен хляб"
+        },
+        {
+          "ID": 474069,
+          "Title": "Шоколадово блокче"
+        },
+        {
+          "ID": 585256,
+          "Title": "Паста Карбонара"
+        },
+        {
+          "ID": 621610,
+          "Title": "Евровизия 2017"
+        },
+        {
+          "ID": 659657,
+          "Title": "Евровизия 2018"
+        },
+        {
+          "ID": 662046,
+          "Title": "Хавайска пица"
+        },
+        {
+          "ID": 680539,
+          "Title": "Бананов хляб"
+        }
+      ]
+    },
+    {
+      "ID": 2147483638,
+      "Title": "Geography and places",
+      "Abstract": "Geography (Greek Geo (γη) or Gaea (γαία), meaning \"Earth\", and graphein (γράφειν) meaning \"to describe\" or \"to write\") is the study of the earth and its features, inhabitants, and phenomena. A literal translation would be \"to describe or write about the Earth\". The first person to use the word \"geography\" was Eratosthenes (275-195 B.C.). Four historical traditions in geographical research are the spatial analysis of natural and human phenomena (geography as a study of distribution), area studies (places and regions), study of man-land relationship, and research in earth sciences. Nonetheless, modern geography is an all-encompassing discipline that foremost seeks to understand the world and all of its human and natural complexities — not merely where objects are, but how they have changed and come to be. As \"the bridge between the human and physical sciences,\" geography is divided into two main branches — human geography and physical geography",
+      "Categories": [
+        {
+          "ID": 17496,
+          "Title": "Категория:География"
+        },
+        {
+          "ID": 124981,
+          "Title": "Категория:Геоморфология"
+        },
+        {
+          "ID": 146372,
+          "Title": "Категория:Места"
+        },
+        {
+          "ID": 290052,
+          "Title": "Категория:Градоустройство"
+        }
+      ],
+      "Articles": [
+        {
+          "ID": 9580,
+          "Title": "Париж"
+        },
+        {
+          "ID": 27021,
+          "Title": "Венеция"
+        },
+        {
+          "ID": 58077,
+          "Title": "Мианмар"
+        },
+        {
+          "ID": 87330,
+          "Title": "Куинсланд"
+        },
+        {
+          "ID": 114790,
+          "Title": "Канбера"
+        }
+      ]
+    },
+    {
+      "ID": 2147483639,
+      "Title": "Health and fitness",
+      "Abstract": "Health is the level of functional or metabolic efficiency of a living organism. In humans it is the ability of individuals or communities to adapt and self-manage when facing physical, mental or social challenges. The most widely accepted definition of good health is that of the World Health Organization Constitution. It states: \"health is a state of complete physical, mental and social well-being and is not merely the absence of disease or infirmity\" (World Health Organization, 1946). In more recent years, this statement has been amplified to include the ability to lead a \"socially and economically productive life.\" The WHO definition is not without criticism, mainly that it is much too broad.\n\nThe most solid aspects of wellness that fit firmly in the realm of medicine are environmental health, nutrition, disease prevention, and public health. These matters can be investigated at length and can assist in measuring well-being. Please see our medical disclaimer for cautions about Wikipedia's limitations",
+      "Categories": [
+        {
+          "ID": 19783,
+          "Title": "Категория:Медицина"
+        },
+        {
+          "ID": 26608,
+          "Title": "Категория:Медицински специалности"
+        },
+        {
+          "ID": 26832,
+          "Title": "Категория:Здраве"
+        },
+        {
+          "ID": 46668,
+          "Title": "Категория:Хигиена"
+        },
+        {
+          "ID": 572900,
+          "Title": "Категория:Медицински науки"
+        },
+        {
+          "ID": 704208,
+          "Title": "Категория:Медицински професии"
+        }
+      ]
+    },
+    {
+      "ID": 2147483640,
+      "Title": "History and events",
+      "Abstract": "History is the interpretation of past events, societies and civilizations. The term history comes from the Greek historia (ἱστορία), \"an account of one's inquiries,\" and shares that etymology with the English word story as narrative. The 1911 Encyclopædia Britannica stated that \"history in the wider sense is all that has happened, not merely all the phenomena of human life, but those of the natural world as well. It is everything that undergoes change; and as modern science has shown that there is nothing absolutely static, therefore, the whole universe, and every part of it, has its history.\" ",
+      "Categories": [
+        {
+          "ID": 19737,
+          "Title": "Категория:История"
+        },
+        {
+          "ID": 23515,
+          "Title": "Категория:История по страна"
+        },
+        {
+          "ID": 443015,
+          "Title": "Категория:Избори по година"
+        },
+        {
+          "ID": 446573,
+          "Title": "Категория:Събития"
+        }
+      ],
+      "Articles": [
+        {
+          "ID": 71165,
+          "Title": "Троянска война"
+        },
+        {
+          "ID": 73119,
+          "Title": "Атентати от 11 септември 2001 г."
+        },
+        {
+          "ID": 219745,
+          "Title": "Доналд Тръмп"
+        },
+        {
+          "ID": 308309,
+          "Title": "Отричане на Холокоста"
+        },
+        {
+          "ID": 309146,
+          "Title": "Нефтен разлив в Мексиканския залив"
+        },
+        {
+          "ID": 346159,
+          "Title": "Земетресение в регион Тохоку (2011)"
+        },
+        {
+          "ID": 402167,
+          "Title": "Президентски избори в САЩ (2012)"
+        },
+        {
+          "ID": 405926,
+          "Title": "Масово убийство в Аурора"
+        },
+        {
+          "ID": 624642,
+          "Title": "Масово убийство в Орландо"
+        },
+        {
+          "ID": 658089,
+          "Title": "Ку-система"
+        }
+      ]
+    },
+    {
+      "ID": 2147483641,
+      "Title": "Mathematics and logic",
+      "Abstract": "Mathematics is the science of quantization. It is also the study of patterns and relationships, including concepts such as quantity, structure, space, uncertainty, and change. It evolved through the use of abstraction and logical reasoning, from counting, calculation, measurement, and the systematic study of positions, shapes and motions of physical objects. Mathematicians explore such concepts, aiming to formulate new conjectures and establish their truth by rigorous deduction from appropriately chosen axioms and definitions.\n\nLogic (from Classical Greek λόγος logos; meaning word, thought, idea, argument, account, reason or principle) is the study of the principles and criteria of valid inference and demonstration. As a formal science, logic investigates and classifies the structure of statements and arguments, both through the study of formal systems of inference and through the study of arguments in natural language. The field of logic ranges from core topics such as the study of fallacies and paradoxes, to specialized analysis of reasoning using probability and to arguments involving causality. Logic is also commonly used today in argumentation theory. Since the mid-nineteenth century formal logic has been studied in the context of the foundations of mathematics",
+      "Categories": [
+        {
+          "ID": 19428,
+          "Title": "Категория:Математика"
+        },
+        {
+          "ID": 19787,
+          "Title": "Категория:Логика"
+        },
+        {
+          "ID": 27309,
+          "Title": "Категория:Теоретична информатика"
+        },
+        {
+          "ID": 28150,
+          "Title": "Категория:Приложна математика"
+        },
+        {
+          "ID": 110183,
+          "Title": "Категория:Статистика"
+        },
+        {
+          "ID": 490570,
+          "Title": "Категория:Математически концепции"
+        }
+      ],
+      "Articles": [
+        {
+          "ID": 95468,
+          "Title": "Дължина"
+        }
+      ]
+    },
+    {
+      "ID": 2147483642,
+      "Title": "Nature and physical sciences",
+      "Abstract": "The term nature is derived from the Latin word natura, or \"essential qualities, innate disposition\". Natura is a Latin translation of the Greek word physis (φύσις), which originally related to the intrinsic characteristics that plants, animals, and other features of the world develop of their own accord. The concept of nature as a whole, all matter and energy in the universe, is one of several expansions of the original notion.\n\nPhysical science is an encompassing term for the branches of natural science, and science, that study non-living systems, in contrast to the biological sciences. However, the term \"physical\" creates an involuntary, somewhat arbitrary distinction, since many branches of physical science also study biological phenomena",
+      "Categories": [
+        {
+          "ID": 17500,
+          "Title": "Категория:Естествени науки"
+        },
+        {
+          "ID": 17503,
+          "Title": "Категория:Природа"
+        },
+        {
+          "ID": 17976,
+          "Title": "Категория:Химия"
+        },
+        {
+          "ID": 17984,
+          "Title": "Категория:Физика"
+        },
+        {
+          "ID": 19760,
+          "Title": "Категория:Химични съединения"
+        },
+        {
+          "ID": 25706,
+          "Title": "Категория:Наука"
+        },
+        {
+          "ID": 26016,
+          "Title": "Категория:Зоология"
+        },
+        {
+          "ID": 479460,
+          "Title": "Категория:Бедствия и катастрофи"
+        },
+        {
+          "ID": 481779,
+          "Title": "Категория:Науки за околната среда"
+        }
+      ],
+      "Articles": [
+        {
+          "ID": 9622,
+          "Title": "Царевица"
+        },
+        {
+          "ID": 14386,
+          "Title": "Пшеница"
+        },
+        {
+          "ID": 22528,
+          "Title": "Ориз"
+        },
+        {
+          "ID": 26233,
+          "Title": "Лимон"
+        },
+        {
+          "ID": 46612,
+          "Title": "Хранителна верига"
+        },
+        {
+          "ID": 47275,
+          "Title": "Огън"
+        },
+        {
+          "ID": 50147,
+          "Title": "Пенис"
+        },
+        {
+          "ID": 50686,
+          "Title": "Мастурбация"
+        },
+        {
+          "ID": 64247,
+          "Title": "Тестис"
+        },
+        {
+          "ID": 81401,
+          "Title": "Кръговрат на водата"
+        },
+        {
+          "ID": 89604,
+          "Title": "Ананас"
+        },
+        {
+          "ID": 91511,
+          "Title": "Карфиол"
+        },
+        {
+          "ID": 92168,
+          "Title": "Скумрия"
+        },
+        {
+          "ID": 129873,
+          "Title": "Змиегущери"
+        },
+        {
+          "ID": 136520,
+          "Title": "Мускулна система"
+        },
+        {
+          "ID": 136959,
+          "Title": "Зелен лимон"
+        },
+        {
+          "ID": 171290,
+          "Title": "Портокал"
+        },
+        {
+          "ID": 188902,
+          "Title": "Камили"
+        },
+        {
+          "ID": 206543,
+          "Title": "Лос"
+        },
+        {
+          "ID": 225375,
+          "Title": "Урина"
+        },
+        {
+          "ID": 226299,
+          "Title": "Суспензия"
+        },
+        {
+          "ID": 351703,
+          "Title": "Календар на маите"
+        },
+        {
+          "ID": 376922,
+          "Title": "Опорно-двигателна система"
+        },
+        {
+          "ID": 399274,
+          "Title": "Рижа коса"
+        },
+        {
+          "ID": 440668,
+          "Title": "Фламинги"
+        },
+        {
+          "ID": 468315,
+          "Title": "Мантия (орган)"
+        },
+        {
+          "ID": 570212,
+          "Title": "Pseudacris crucifer"
+        },
+        {
+          "ID": 623474,
+          "Title": "Покълване"
+        },
+        {
+          "ID": 648026,
+          "Title": "Градинска ягода"
+        }
+      ]
+    },
+    {
+      "ID": 2147483643,
+      "Title": "People and self",
+      "Abstract": "A collection of people often refers to a general group, such as all humans, an ethnic group or a nation. An individual person is the self, from his or her own perspective. To you, \"self\" is you. To someone else, \"self\" is that person. A biography is a genre of literature or film, which presents a relatively full account of the most interesting and important events of a notable person's life.\n\nLife or personal life or human existence is an individual human's personal, private experience of living (including their employment career, their family life, and other elements). In prehistoric times, life and existence was based on survival. There was little privacy and a person was identified by their role in the group. In modern times, many people have even come to think of their personal lives as if they are separate from their work. This segmentation of \"life areas\" is evident in such phrases as \"work life\", \"home life\", and \"sex life.\" The meaning or role of a person's \"life\" or \"human existence\" is discussed in many religions and philosophies. In Western industrialized countries, there are a variety of service industries that help people improve their personal lives, such as counselling and life coaching companies",
+      "Categories": [
+        {
+          "ID": 15821,
+          "Title": "Категория:Хора"
+        },
+        {
+          "ID": 25381,
+          "Title": "Категория:Личен живот"
+        },
+        {
+          "ID": 66968,
+          "Title": "Категория:Фамилни имена"
+        },
+        {
+          "ID": 179638,
+          "Title": "Категория:Филмови герои"
+        },
+        {
+          "ID": 314114,
+          "Title": "Категория:Жени"
+        }
+      ],
+      "Articles": [
+        {
+          "ID": 3002,
+          "Title": "Алън Тюринг"
+        },
+        {
+          "ID": 3827,
+          "Title": "Ноам Чомски"
+        },
+        {
+          "ID": 9510,
+          "Title": "Адолф Хитлер"
+        },
+        {
+          "ID": 10416,
+          "Title": "Йохан Кеплер"
+        },
+        {
+          "ID": 18732,
+          "Title": "Луис Карол"
+        },
+        {
+          "ID": 27094,
+          "Title": "Христофор Колумб"
+        },
+        {
+          "ID": 27429,
+          "Title": "Рене Декарт"
+        },
+        {
+          "ID": 27649,
+          "Title": "Чарлз Бабидж"
+        },
+        {
+          "ID": 28486,
+          "Title": "Галилео Галилей"
+        },
+        {
+          "ID": 30039,
+          "Title": "Джон Ленън"
+        },
+        {
+          "ID": 45005,
+          "Title": "Тома Аквински"
+        },
+        {
+          "ID": 47760,
+          "Title": "Адам Смит"
+        },
+        {
+          "ID": 52849,
+          "Title": "Карл Фридрих Гаус"
+        },
+        {
+          "ID": 65063,
+          "Title": "Бил Гейтс"
+        },
+        {
+          "ID": 71106,
+          "Title": "Зигмунд Фройд"
+        },
+        {
+          "ID": 76154,
+          "Title": "Елтън Джон"
+        },
+        {
+          "ID": 85702,
+          "Title": "Уилям Блейк"
+        },
+        {
+          "ID": 87722,
+          "Title": "Рихард Вагнер"
+        },
+        {
+          "ID": 89693,
+          "Title": "Карл Сейгън"
+        },
+        {
+          "ID": 103245,
+          "Title": "Ричард Докинс"
+        },
+        {
+          "ID": 108705,
+          "Title": "Джоузеф Смит"
+        },
+        {
+          "ID": 132798,
+          "Title": "Джордж Харисън"
+        },
+        {
+          "ID": 146814,
+          "Title": "Даниъл Радклиф"
+        },
+        {
+          "ID": 151584,
+          "Title": "Хари Худини"
+        },
+        {
+          "ID": 154940,
+          "Title": "Айн Ранд"
+        },
+        {
+          "ID": 155850,
+          "Title": "Александър Флеминг"
+        },
+        {
+          "ID": 172318,
+          "Title": "Оливър Кромуел"
+        },
+        {
+          "ID": 194522,
+          "Title": "Теодор Шван"
+        },
+        {
+          "ID": 249026,
+          "Title": "Грамадата"
+        },
+        {
+          "ID": 270494,
+          "Title": "Джейкъб Блек"
+        },
+        {
+          "ID": 282804,
+          "Title": "Леонардо Фибоначи"
+        },
+        {
+          "ID": 351865,
+          "Title": "Флорънс Найтингейл"
+        },
+        {
+          "ID": 398244,
+          "Title": "Андеш Брайвик"
+        },
+        {
+          "ID": 433453,
+          "Title": "Ървинг Лангмюр"
+        },
+        {
+          "ID": 452224,
+          "Title": "Кори Монтийт"
+        },
+        {
+          "ID": 666872,
+          "Title": "Тед Круз"
+        },
+        {
+          "ID": 677833,
+          "Title": "Сриниваса Рамануджан"
+        }
+      ]
+    },
+    {
+      "ID": 2147483644,
+      "Title": "Philosophy and thinking",
+      "Abstract": "Philosophy has almost as many definitions as there have been philosophers, both as a subject matter and an activity, and no simple definition can do it justice. The issue of the definition of philosophy is thus a controversial subject that is nowadays tackled by Metaphilosophy (or the philosophy of philosophy). The word is derived from the ancient Greek words philo-, to love or to befriend, and -sophia, wisdom. Modern usage of the term is much broader; the concept of philosophy encompasses all of knowledge and all that can be known, including the means by which such knowledge can be acquired. However, in the contemporary English-speaking academic world, the term is often used implicitly to refer to analytic philosophy and, in non-English speaking countries, it often refers implicitly to a different, European strain, continental philosophy. The ancient Greeks organized the subject into five basic categories: metaphysics, epistemology, ethics, politics and aesthetics. This organization of the subject is still largely in use in Western philosophy today.\n\nThought or thinking is a mental process which allows beings to model the world, and so to deal with it effectively according to their goals, plans, ends and desires. Words referring to similar concepts and processes in the English language include cognition, sentience, consciousness, idea, and imagination. Thinking involves the cerebral manipulation of information, as when we form concepts, engage in problem solving, reason and make decisions. Thinking is a higher cognitive function and the analysis of thinking processes is part of cognitive psychology",
+      "Categories": [
+        {
+          "ID": 19788,
+          "Title": "Категория:Философия"
+        },
+        {
+          "ID": 26352,
+          "Title": "Категория:Етика"
+        },
+        {
+          "ID": 26353,
+          "Title": "Категория:Дялове на философията"
+        },
+        {
+          "ID": 230686,
+          "Title": "Категория:Идеологии"
+        },
+        {
+          "ID": 277816,
+          "Title": "Категория:Философски теории"
+        },
+        {
+          "ID": 340844,
+          "Title": "Категория:Философски направления и школи"
+        },
+        {
+          "ID": 394259,
+          "Title": "Категория:Мислене"
+        }
+      ],
+      "Articles": [
+        {
+          "ID": 117986,
+          "Title": "Факт"
+        },
+        {
+          "ID": 163554,
+          "Title": "Щастие"
+        },
+        {
+          "ID": 173023,
+          "Title": "Красота"
+        },
+        {
+          "ID": 409174,
+          "Title": "Ефект на Дънинг-Крюгер"
+        }
+      ]
+    },
+    {
+      "ID": 2147483645,
+      "Title": "Religion and belief systems",
+      "Abstract": "Religion is the adherence to codified beliefs and rituals that generally involve a faith in a spiritual nature and a study of inherited ancestral traditions, knowledge and wisdom related to understanding human life. The term \"religion\" refers to both the personal practices related to faith as well as to the larger shared systems of belief.\n\nA belief system can refer to a religion or a world view. A world view (or worldview) is a term calqued from the German word Weltanschauung Welt is the German word for 'world,' and Anschauung is the German word for 'view' or 'outlook'. It is a concept fundamental to German philosophy and epistemology and refers to a wide world perception. Additionally, it refers to the framework of ideas and beliefs through which an individual interprets the world and interacts in it",
+      "Categories": [
+        {
+          "ID": 18239,
+          "Title": "Категория:Религия"
+        },
+        {
+          "ID": 26035,
+          "Title": "Категория:Митология"
+        },
+        {
+          "ID": 26970,
+          "Title": "Категория:Религиозни системи"
+        },
+        {
+          "ID": 68143,
+          "Title": "Категория:Вяра"
+        },
+        {
+          "ID": 277816,
+          "Title": "Категория:Философски теории"
+        },
+        {
+          "ID": 432126,
+          "Title": "Категория:Критика на религията"
+        },
+        {
+          "ID": 448051,
+          "Title": "Категория:Секуларизъм"
+        },
+        {
+          "ID": 453616,
+          "Title": "Категория:Антропология на религията"
+        }
+      ],
+      "Articles": [
+        {
+          "ID": 626763,
+          "Title": "Чревоугодничество"
+        }
+      ]
+    },
+    {
+      "ID": 2147483646,
+      "Title": "Society and social sciences",
+      "Abstract": "A society is a group of people who form a semi-closed system. At its simplest, the term society refers to a large group of people sharing their own culture and institutions. A society is a network of relationships between people. The English word society is derived from the French société, which had its origin in the Latin societas, a \"friendly association with others,\" from socius meaning \"companion, associate, comrade or business partner.\" Thus, the meaning of society is closely related to what is considered to be social. Implicit in the meaning of society is that its members may share some mutual concern or interest, a common objective or common characteristics. The social sciences generally use the term society to mean a group of people who form a semi-closed social system, in which most interactions are with other individuals belonging to the group. More abstractly, a society is defined as a network of relationships between social entities. A society is also sometimes defined as an interdependent community, but the sociologist Tönnies sought to draw a contrast between society and community. An important feature of society is social structure, aspects of which include roles and social ranking.\n\nThe social science are a group of academic disciplines that study human aspects of the world. They differ from the arts and the humanities, in that the social science tend to emphasize the use of the scientific method in the study of humanity, including quantitative and qualitative methods",
+      "Categories": [
+        {
+          "ID": 19738,
+          "Title": "Категория:Социални науки"
+        },
+        {
+          "ID": 25789,
+          "Title": "Категория:Международни организации"
+        },
+        {
+          "ID": 27186,
+          "Title": "Категория:Общество"
+        },
+        {
+          "ID": 82242,
+          "Title": "Категория:Феминизъм"
+        },
+        {
+          "ID": 498660,
+          "Title": "Категория:Права"
+        }
+      ],
+      "Articles": [
+        {
+          "ID": 19203,
+          "Title": "Европейски съюз"
+        },
+        {
+          "ID": 54611,
+          "Title": "Оксфордски университет"
+        },
+        {
+          "ID": 54614,
+          "Title": "Кеймбриджки университет"
+        },
+        {
+          "ID": 57425,
+          "Title": "Ню Йорк Таймс"
+        },
+        {
+          "ID": 58072,
+          "Title": "Фетишизъм към измокряне и изцапване"
+        },
+        {
+          "ID": 60423,
+          "Title": "Еврейски университет в Йерусалим"
+        },
+        {
+          "ID": 62061,
+          "Title": "Парижки университет"
+        },
+        {
+          "ID": 62806,
+          "Title": "Харвардски университет"
+        },
+        {
+          "ID": 69059,
+          "Title": "Станфордски университет"
+        },
+        {
+          "ID": 75100,
+          "Title": "Лятно часово време"
+        },
+        {
+          "ID": 84644,
+          "Title": "Държавно устройство на Чили"
+        },
+        {
+          "ID": 98445,
+          "Title": "Колумбийски университет"
+        },
+        {
+          "ID": 104418,
+          "Title": "Падуански университет"
+        },
+        {
+          "ID": 112995,
+          "Title": "Трета световна война"
+        },
+        {
+          "ID": 120102,
+          "Title": "Сух режим"
+        },
+        {
+          "ID": 124237,
+          "Title": "Масачузетски технологичен институт"
+        },
+        {
+          "ID": 126312,
+          "Title": "Московски държавен университет"
+        },
+        {
+          "ID": 138067,
+          "Title": "Въоръжени сили на Монголия"
+        },
+        {
+          "ID": 141207,
+          "Title": "Санктпетербургски държавен университет"
+        },
+        {
+          "ID": 144309,
+          "Title": "Вюрцбургски университет"
+        },
+        {
+          "ID": 150592,
+          "Title": "Виенски университет"
+        },
+        {
+          "ID": 172591,
+          "Title": "Принстънски университет"
+        },
+        {
+          "ID": 178500,
+          "Title": "Китайска Нова година"
+        },
+        {
+          "ID": 182047,
+          "Title": "Пица Хът"
+        },
+        {
+          "ID": 187325,
+          "Title": "Тюбингенски университет"
+        },
+        {
+          "ID": 198958,
+          "Title": "Бонски университет"
+        },
+        {
+          "ID": 209706,
+          "Title": "Глазгоуски университет"
+        },
+        {
+          "ID": 215962,
+          "Title": "Мичигански университет"
+        },
+        {
+          "ID": 221663,
+          "Title": "Плимутски университет"
+        },
+        {
+          "ID": 223927,
+          "Title": "Гьотингенски университет"
+        },
+        {
+          "ID": 241705,
+          "Title": "Социални дейности"
+        },
+        {
+          "ID": 249069,
+          "Title": "Вирджински университет"
+        },
+        {
+          "ID": 280902,
+          "Title": "Старбъкс"
+        },
+        {
+          "ID": 290302,
+          "Title": "Чикагски университет"
+        },
+        {
+          "ID": 313396,
+          "Title": "BP"
+        },
+        {
+          "ID": 314088,
+          "Title": "Одески национален университет"
+        },
+        {
+          "ID": 329441,
+          "Title": "Университет на Сейнт Андрюс"
+        },
+        {
+          "ID": 329981,
+          "Title": "Лондонски университет"
+        },
+        {
+          "ID": 343459,
+          "Title": "Линшьопингски университет"
+        },
+        {
+          "ID": 346647,
+          "Title": "Национално знаме на Австралия"
+        },
+        {
+          "ID": 361942,
+          "Title": "Болонски университет"
+        },
+        {
+          "ID": 369090,
+          "Title": "Пенсилвански университет"
+        },
+        {
+          "ID": 371200,
+          "Title": "Тако Бел"
+        },
+        {
+          "ID": 382765,
+          "Title": "Лайпцигски университет"
+        },
+        {
+          "ID": 419515,
+          "Title": "Южнокалифорнийски университет"
+        },
+        {
+          "ID": 448396,
+          "Title": "Алигархски мюсюлмански университет"
+        },
+        {
+          "ID": 464711,
+          "Title": "Милански университет"
+        },
+        {
+          "ID": 491765,
+          "Title": "Университет в Упсала"
+        },
+        {
+          "ID": 499187,
+          "Title": "Бостънски университет"
+        },
+        {
+          "ID": 522899,
+          "Title": "Университет на Източна Англия"
+        },
+        {
+          "ID": 522912,
+          "Title": "Ланкастърски университет"
+        },
+        {
+          "ID": 522956,
+          "Title": "Манчестърски университет"
+        },
+        {
+          "ID": 522999,
+          "Title": "Ексетърски университет"
+        },
+        {
+          "ID": 523035,
+          "Title": "Редингски университет"
+        },
+        {
+          "ID": 523564,
+          "Title": "Вроцлавски университет"
+        },
+        {
+          "ID": 523735,
+          "Title": "Бернски университет"
+        },
+        {
+          "ID": 528318,
+          "Title": "Торински университет"
+        },
+        {
+          "ID": 529184,
+          "Title": "Яшки университет"
+        },
+        {
+          "ID": 549587,
+          "Title": "Неаполски университет Федерико Втори"
+        },
+        {
+          "ID": 589192,
+          "Title": "Тартуски университет"
+        },
+        {
+          "ID": 597974,
+          "Title": "Бирмингамски университет"
+        },
+        {
+          "ID": 599221,
+          "Title": "Кьолнски университет"
+        },
+        {
+          "ID": 638915,
+          "Title": "Техерански университет"
+        },
+        {
+          "ID": 639364,
+          "Title": "Делхийски университет"
+        },
+        {
+          "ID": 652446,
+          "Title": "Босфорски университет"
+        },
+        {
+          "ID": 704040,
+          "Title": "Лвовски университет"
+        }
+      ]
+    },
+    {
+      "ID": 2147483647,
+      "Title": "Technology and applied sciences",
+      "Abstract": "Technology is an expanded concept that deals with a species' usage and knowledge of tools and crafts, and how it affects a species' ability to control and adapt to its environment. In human civilization, it is a consequence of science and engineering, although several technological advances predate the formalization of these two disciplines. The term can either be applied generally or to specific areas – examples include construction technology, medical technology, or state-of-the-art technology.\n\nThe human race's use of technology began with the conversion of plentiful natural resources into simple tools. The prehistorical discovery of the ability to control fire increased the available sources of food, and the invention of the wheel helped humans in travelling in and controlling their environment. Recent technological developments, including the printing press and the Internet, have lessened physical barriers to communication and allowed humans to interact on a global scale. However, not all technology has been used for peaceful purposes; the development of weapons of ever-increasing destructive power has progressed throughout history, from clubs to nuclear bombs.\n\nApplied science is the application of knowledge from one or more natural scientific fields to solving practical problems. For example, fields of engineering are applied sciences. Applied science is important for technology development. Its use in industrial settings is usually referred to as research and development (R\u0026D)",
+      "Categories": [
+        {
+          "ID": 17475,
+          "Title": "Категория:Интернет"
+        },
+        {
+          "ID": 19735,
+          "Title": "Категория:Транспорт"
+        },
+        {
+          "ID": 19736,
+          "Title": "Категория:Технология"
+        },
+        {
+          "ID": 19740,
+          "Title": "Категория:Информатика"
+        },
+        {
+          "ID": 19784,
+          "Title": "Категория:Приложни науки"
+        },
+        {
+          "ID": 27038,
+          "Title": "Категория:Електроника"
+        },
+        {
+          "ID": 27040,
+          "Title": "Категория:Инженерство"
+        },
+        {
+          "ID": 27166,
+          "Title": "Категория:Дизайн"
+        },
+        {
+          "ID": 81327,
+          "Title": "Категория:Военна техника"
+        },
+        {
+          "ID": 458364,
+          "Title": "Категория:История на техниката"
+        },
+        {
+          "ID": 481287,
+          "Title": "Категория:Технология по тип"
+        }
+      ],
+      "Articles": [
+        {
+          "ID": 34473,
+          "Title": "Пепси"
+        },
+        {
+          "ID": 58517,
+          "Title": "Стена"
+        },
+        {
+          "ID": 173139,
+          "Title": "Дъвка"
+        },
+        {
+          "ID": 175913,
+          "Title": "Предпроектно проучване"
+        },
+        {
+          "ID": 676135,
+          "Title": "Зидария"
+        }
+      ]
+    }
+  ],
+  "Filters": [
+    {
+      "ID": 25792,
+      "Title": "Категория:Пояснителни страници"
+    }
+  ]
+}

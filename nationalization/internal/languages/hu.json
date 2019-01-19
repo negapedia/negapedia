@@ -1,0 +1,1090 @@
+{
+  "Language": "hu",
+  "Topics": [
+    {
+      "ID": 2147483637,
+      "Title": "Culture and the arts",
+      "Abstract": "The word culture is derived from the Latin root cultura or cultus meaning to \"inhabit, cultivate, or honour\". In general, culture refers to human activity; different definitions of culture reflect different theories for understanding, or criteria for valuing human activity. Present day Anthropologists use the term to refer to the universal human capacity to classify experiences and to encode and communicate them symbolically. They regard this capacity as a defining feature of the genus Homo. Since culture is learned, people living in different places have different cultures. There can be different cultures in different countries, and there can also be shared cultures among continents.\n\nThe arts are a vast subdivision of culture, composed of many creative endeavors and disciplines. It is a broader term than \"art,\" which as a description of a field usually means only the visual arts. The arts encompasses visual arts, literary arts and the performing arts - music, theatre, dance, spoken word and film, among others.\n\nArt, in its broadest meaning, is the expression of creativity or imagination. The word art comes from the Latin word ars, which, loosely translated, means \"arrangement\". Art is commonly understood as the act of making works (or artworks) which use the human creative impulse and which have meaning beyond simple description. Art is often distinguished from crafts and recreational hobby activities. The term creative arts denotes a collection of disciplines whose principal purpose is the output of material for the viewer or audience to interpret. As such, art may be taken to include forms as diverse as prose writing, poetry, dance, acting or drama, film, music, sculpture, photography, illustration, architecture, collage, painting, craft and fashion. Art may also be understood as relating to creativity, æsthetics and the generation of emotion",
+      "Categories": [
+        {
+          "ID": 4672,
+          "Title": "Kategória:Filmek"
+        },
+        {
+          "ID": 9429,
+          "Title": "Kategória:Sport"
+        },
+        {
+          "ID": 13453,
+          "Title": "Kategória:Együttesek"
+        },
+        {
+          "ID": 21471,
+          "Title": "Kategória:Művészet"
+        },
+        {
+          "ID": 32098,
+          "Title": "Kategória:Kultúra"
+        },
+        {
+          "ID": 34857,
+          "Title": "Kategória:Élelmiszerek"
+        },
+        {
+          "ID": 34858,
+          "Title": "Kategória:Ételek"
+        },
+        {
+          "ID": 1470091,
+          "Title": "Kategória:Konyhaművészet"
+        }
+      ],
+      "Articles": [
+        {
+          "ID": 70,
+          "Title": "Wikipédia"
+        },
+        {
+          "ID": 299,
+          "Title": "Enciklopédia"
+        },
+        {
+          "ID": 4819,
+          "Title": "AC/DC"
+        },
+        {
+          "ID": 20408,
+          "Title": "Sgt. Pepper’s Lonely Hearts Club Band"
+        },
+        {
+          "ID": 21204,
+          "Title": "Loch Ness-i szörny"
+        },
+        {
+          "ID": 23228,
+          "Title": "Led Zeppelin"
+        },
+        {
+          "ID": 37490,
+          "Title": "Green Day"
+        },
+        {
+          "ID": 50428,
+          "Title": "Kávé"
+        },
+        {
+          "ID": 50786,
+          "Title": "Pizza"
+        },
+        {
+          "ID": 51509,
+          "Title": "Kísértet"
+        },
+        {
+          "ID": 71512,
+          "Title": "Francia konyhaművészet"
+        },
+        {
+          "ID": 75380,
+          "Title": "Sör"
+        },
+        {
+          "ID": 88651,
+          "Title": "Cölibátus"
+        },
+        {
+          "ID": 99434,
+          "Title": "Sonka"
+        },
+        {
+          "ID": 109545,
+          "Title": "Roxfort"
+        },
+        {
+          "ID": 125484,
+          "Title": "Kenyér"
+        },
+        {
+          "ID": 128029,
+          "Title": "Orális szex"
+        },
+        {
+          "ID": 150986,
+          "Title": "Aqua (együttes)"
+        },
+        {
+          "ID": 162297,
+          "Title": "Csokoládé"
+        },
+        {
+          "ID": 204900,
+          "Title": "Tojás (gasztronómia és kultúra)"
+        },
+        {
+          "ID": 348411,
+          "Title": "Fehér csokoládé"
+        },
+        {
+          "ID": 387838,
+          "Title": "Tükörtojás"
+        },
+        {
+          "ID": 420985,
+          "Title": "Buckingham-palota"
+        },
+        {
+          "ID": 525096,
+          "Title": "Keksz"
+        },
+        {
+          "ID": 565247,
+          "Title": "Hot dog"
+        },
+        {
+          "ID": 605056,
+          "Title": "Nápolyi ostya"
+        },
+        {
+          "ID": 616883,
+          "Title": "Száznapos tojás"
+        },
+        {
+          "ID": 754785,
+          "Title": "Hawaii pizza"
+        },
+        {
+          "ID": 786648,
+          "Title": "Judas (dal)"
+        },
+        {
+          "ID": 832000,
+          "Title": "Mordred"
+        },
+        {
+          "ID": 1020600,
+          "Title": "The World Factbook"
+        },
+        {
+          "ID": 1069947,
+          "Title": "Álomháború"
+        },
+        {
+          "ID": 1127028,
+          "Title": "Taco"
+        },
+        {
+          "ID": 1171712,
+          "Title": "Ash Ketchum"
+        },
+        {
+          "ID": 1171938,
+          "Title": "Raktár-háborúk"
+        },
+        {
+          "ID": 1362028,
+          "Title": "Coyota"
+        },
+        {
+          "ID": 1370659,
+          "Title": "2017-es Eurovíziós Dalfesztivál"
+        },
+        {
+          "ID": 1439047,
+          "Title": "2018-as Eurovíziós Dalfesztivál"
+        },
+        {
+          "ID": 1500782,
+          "Title": "Étcsokoládé"
+        },
+        {
+          "ID": 1514900,
+          "Title": "Pasta"
+        },
+        {
+          "ID": 1531540,
+          "Title": "Dinosaur Jr."
+        }
+      ]
+    },
+    {
+      "ID": 2147483638,
+      "Title": "Geography and places",
+      "Abstract": "Geography (Greek Geo (γη) or Gaea (γαία), meaning \"Earth\", and graphein (γράφειν) meaning \"to describe\" or \"to write\") is the study of the earth and its features, inhabitants, and phenomena. A literal translation would be \"to describe or write about the Earth\". The first person to use the word \"geography\" was Eratosthenes (275-195 B.C.). Four historical traditions in geographical research are the spatial analysis of natural and human phenomena (geography as a study of distribution), area studies (places and regions), study of man-land relationship, and research in earth sciences. Nonetheless, modern geography is an all-encompassing discipline that foremost seeks to understand the world and all of its human and natural complexities — not merely where objects are, but how they have changed and come to be. As \"the bridge between the human and physical sciences,\" geography is divided into two main branches — human geography and physical geography",
+      "Categories": [
+        {
+          "ID": 27709,
+          "Title": "Kategória:Földrajz"
+        },
+        {
+          "ID": 100889,
+          "Title": "Kategória:Geomorfológia"
+        },
+        {
+          "ID": 125624,
+          "Title": "Kategória:Településtudomány"
+        },
+        {
+          "ID": 164305,
+          "Title": "Kategória:Földrajzi listák"
+        },
+        {
+          "ID": 1352036,
+          "Title": "Kategória:Helyszínek"
+        }
+      ],
+      "Articles": [
+        {
+          "ID": 11833,
+          "Title": "Velence (Olaszország)"
+        },
+        {
+          "ID": 23164,
+          "Title": "Mianmar"
+        },
+        {
+          "ID": 28476,
+          "Title": "Párizs"
+        },
+        {
+          "ID": 216577,
+          "Title": "Canberra"
+        },
+        {
+          "ID": 469269,
+          "Title": "Queensland"
+        }
+      ]
+    },
+    {
+      "ID": 2147483639,
+      "Title": "Health and fitness",
+      "Abstract": "Health is the level of functional or metabolic efficiency of a living organism. In humans it is the ability of individuals or communities to adapt and self-manage when facing physical, mental or social challenges. The most widely accepted definition of good health is that of the World Health Organization Constitution. It states: \"health is a state of complete physical, mental and social well-being and is not merely the absence of disease or infirmity\" (World Health Organization, 1946). In more recent years, this statement has been amplified to include the ability to lead a \"socially and economically productive life.\" The WHO definition is not without criticism, mainly that it is much too broad.\n\nThe most solid aspects of wellness that fit firmly in the realm of medicine are environmental health, nutrition, disease prevention, and public health. These matters can be investigated at length and can assist in measuring well-being. Please see our medical disclaimer for cautions about Wikipedia's limitations",
+      "Categories": [
+        {
+          "ID": 12746,
+          "Title": "Kategória:Orvostudomány"
+        },
+        {
+          "ID": 38805,
+          "Title": "Kategória:Genetikai betegségek"
+        },
+        {
+          "ID": 272277,
+          "Title": "Kategória:Higiénia"
+        }
+      ]
+    },
+    {
+      "ID": 2147483640,
+      "Title": "History and events",
+      "Abstract": "History is the interpretation of past events, societies and civilizations. The term history comes from the Greek historia (ἱστορία), \"an account of one's inquiries,\" and shares that etymology with the English word story as narrative. The 1911 Encyclopædia Britannica stated that \"history in the wider sense is all that has happened, not merely all the phenomena of human life, but those of the natural world as well. It is everything that undergoes change; and as modern science has shown that there is nothing absolutely static, therefore, the whole universe, and every part of it, has its history.\" ",
+      "Categories": [
+        {
+          "ID": 4220,
+          "Title": "Kategória:Történelem"
+        },
+        {
+          "ID": 80226,
+          "Title": "Kategória:Események"
+        },
+        {
+          "ID": 1273576,
+          "Title": "Kategória:Történelem országok szerint"
+        },
+        {
+          "ID": 1512096,
+          "Title": "Kategória:Választások évek szerint"
+        }
+      ],
+      "Articles": [
+        {
+          "ID": 7917,
+          "Title": "2001. szeptember 11-ei terrortámadások"
+        },
+        {
+          "ID": 80950,
+          "Title": "Trójai háború"
+        },
+        {
+          "ID": 169952,
+          "Title": "Holokauszttagadás"
+        },
+        {
+          "ID": 460721,
+          "Title": "A közlekedés története"
+        },
+        {
+          "ID": 557781,
+          "Title": "Síksági indiánok"
+        },
+        {
+          "ID": 777898,
+          "Title": "2011-es tóhokui földrengés és cunami"
+        },
+        {
+          "ID": 807070,
+          "Title": "2012-es amerikai elnökválasztás"
+        },
+        {
+          "ID": 947532,
+          "Title": "2012-es aurorai lövöldözés"
+        },
+        {
+          "ID": 1395076,
+          "Title": "2016-os orlandói terrortámadás"
+        }
+      ]
+    },
+    {
+      "ID": 2147483641,
+      "Title": "Mathematics and logic",
+      "Abstract": "Mathematics is the science of quantization. It is also the study of patterns and relationships, including concepts such as quantity, structure, space, uncertainty, and change. It evolved through the use of abstraction and logical reasoning, from counting, calculation, measurement, and the systematic study of positions, shapes and motions of physical objects. Mathematicians explore such concepts, aiming to formulate new conjectures and establish their truth by rigorous deduction from appropriately chosen axioms and definitions.\n\nLogic (from Classical Greek λόγος logos; meaning word, thought, idea, argument, account, reason or principle) is the study of the principles and criteria of valid inference and demonstration. As a formal science, logic investigates and classifies the structure of statements and arguments, both through the study of formal systems of inference and through the study of arguments in natural language. The field of logic ranges from core topics such as the study of fallacies and paradoxes, to specialized analysis of reasoning using probability and to arguments involving causality. Logic is also commonly used today in argumentation theory. Since the mid-nineteenth century formal logic has been studied in the context of the foundations of mathematics",
+      "Categories": [
+        {
+          "ID": 4219,
+          "Title": "Kategória:Matematika"
+        },
+        {
+          "ID": 7591,
+          "Title": "Kategória:Logika"
+        },
+        {
+          "ID": 71617,
+          "Title": "Kategória:Statisztika"
+        },
+        {
+          "ID": 71619,
+          "Title": "Kategória:Valószínűségszámítás"
+        },
+        {
+          "ID": 114486,
+          "Title": "Kategória:Alkalmazott matematika"
+        }
+      ],
+      "Articles": [
+        {
+          "ID": 74667,
+          "Title": "Hosszúság"
+        }
+      ]
+    },
+    {
+      "ID": 2147483642,
+      "Title": "Nature and physical sciences",
+      "Abstract": "The term nature is derived from the Latin word natura, or \"essential qualities, innate disposition\". Natura is a Latin translation of the Greek word physis (φύσις), which originally related to the intrinsic characteristics that plants, animals, and other features of the world develop of their own accord. The concept of nature as a whole, all matter and energy in the universe, is one of several expansions of the original notion.\n\nPhysical science is an encompassing term for the branches of natural science, and science, that study non-living systems, in contrast to the biological sciences. However, the term \"physical\" creates an involuntary, somewhat arbitrary distinction, since many branches of physical science also study biological phenomena",
+      "Categories": [
+        {
+          "ID": 4211,
+          "Title": "Kategória:Fizika"
+        },
+        {
+          "ID": 4217,
+          "Title": "Kategória:Kémia"
+        },
+        {
+          "ID": 4218,
+          "Title": "Kategória:Tudomány"
+        },
+        {
+          "ID": 8489,
+          "Title": "Kategória:Természettudományok"
+        },
+        {
+          "ID": 32122,
+          "Title": "Kategória:Természet"
+        },
+        {
+          "ID": 68976,
+          "Title": "Kategória:Zoológia"
+        },
+        {
+          "ID": 89178,
+          "Title": "Kategória:Katasztrófák"
+        }
+      ],
+      "Articles": [
+        {
+          "ID": 21654,
+          "Title": "Farkaspókfélék"
+        },
+        {
+          "ID": 27610,
+          "Title": "Kiegészítő színpárok"
+        },
+        {
+          "ID": 30002,
+          "Title": "Citrom"
+        },
+        {
+          "ID": 30101,
+          "Title": "Narancs"
+        },
+        {
+          "ID": 31328,
+          "Title": "Rizs"
+        },
+        {
+          "ID": 31329,
+          "Title": "Búza"
+        },
+        {
+          "ID": 31337,
+          "Title": "Kukorica (növényfaj)"
+        },
+        {
+          "ID": 32342,
+          "Title": "Karfiol"
+        },
+        {
+          "ID": 51532,
+          "Title": "Maja naptár"
+        },
+        {
+          "ID": 51773,
+          "Title": "Teve"
+        },
+        {
+          "ID": 104348,
+          "Title": "Előcsíráztatás"
+        },
+        {
+          "ID": 113401,
+          "Title": "Mozgásrendszer"
+        },
+        {
+          "ID": 115584,
+          "Title": "Jávorszarvas"
+        },
+        {
+          "ID": 122312,
+          "Title": "Guvatszalonkafélék"
+        },
+        {
+          "ID": 122438,
+          "Title": "Vízkörforgás"
+        },
+        {
+          "ID": 213315,
+          "Title": "Kínai liliomfa"
+        },
+        {
+          "ID": 266925,
+          "Title": "Szuszpenzió"
+        },
+        {
+          "ID": 269630,
+          "Title": "Sula"
+        },
+        {
+          "ID": 272273,
+          "Title": "Tűz"
+        },
+        {
+          "ID": 277385,
+          "Title": "Önkielégítés"
+        },
+        {
+          "ID": 311855,
+          "Title": "Vizelet"
+        },
+        {
+          "ID": 458704,
+          "Title": "Közönséges makréla"
+        },
+        {
+          "ID": 477884,
+          "Title": "Tápláléklánc"
+        },
+        {
+          "ID": 510889,
+          "Title": "Fehér tigris"
+        },
+        {
+          "ID": 534909,
+          "Title": "Hímvessző"
+        },
+        {
+          "ID": 567676,
+          "Title": "Here (anatómia)"
+        },
+        {
+          "ID": 587992,
+          "Title": "Ateles"
+        },
+        {
+          "ID": 690419,
+          "Title": "Glaphyromorphus"
+        },
+        {
+          "ID": 733121,
+          "Title": "Termesztett ananász"
+        },
+        {
+          "ID": 1019040,
+          "Title": "Ragacsos rizs"
+        },
+        {
+          "ID": 1040904,
+          "Title": "Eper (növényfaj)"
+        },
+        {
+          "ID": 1460505,
+          "Title": "Köpeny (anatómia)"
+        }
+      ]
+    },
+    {
+      "ID": 2147483643,
+      "Title": "People and self",
+      "Abstract": "A collection of people often refers to a general group, such as all humans, an ethnic group or a nation. An individual person is the self, from his or her own perspective. To you, \"self\" is you. To someone else, \"self\" is that person. A biography is a genre of literature or film, which presents a relatively full account of the most interesting and important events of a notable person's life.\n\nLife or personal life or human existence is an individual human's personal, private experience of living (including their employment career, their family life, and other elements). In prehistoric times, life and existence was based on survival. There was little privacy and a person was identified by their role in the group. In modern times, many people have even come to think of their personal lives as if they are separate from their work. This segmentation of \"life areas\" is evident in such phrases as \"work life\", \"home life\", and \"sex life.\" The meaning or role of a person's \"life\" or \"human existence\" is discussed in many religions and philosophies. In Western industrialized countries, there are a variety of service industries that help people improve their personal lives, such as counselling and life coaching companies",
+      "Categories": [
+        {
+          "ID": 7905,
+          "Title": "Kategória:Személyek"
+        },
+        {
+          "ID": 130288,
+          "Title": "Kategória:Filmszereplők"
+        },
+        {
+          "ID": 212436,
+          "Title": "Kategória:Nő"
+        },
+        {
+          "ID": 336437,
+          "Title": "Kategória:Vezetéknevek"
+        },
+        {
+          "ID": 388848,
+          "Title": "Kategória:Mindennapi élet"
+        }
+      ],
+      "Articles": [
+        {
+          "ID": 1153,
+          "Title": "Charles Babbage"
+        },
+        {
+          "ID": 1158,
+          "Title": "Alan Turing"
+        },
+        {
+          "ID": 3159,
+          "Title": "Bill Gates"
+        },
+        {
+          "ID": 5036,
+          "Title": "Adam Smith"
+        },
+        {
+          "ID": 5153,
+          "Title": "Galileo Galilei"
+        },
+        {
+          "ID": 9018,
+          "Title": "Johannes Kepler"
+        },
+        {
+          "ID": 10097,
+          "Title": "Alexander Fleming"
+        },
+        {
+          "ID": 17547,
+          "Title": "John Lennon"
+        },
+        {
+          "ID": 17648,
+          "Title": "George Harrison"
+        },
+        {
+          "ID": 18990,
+          "Title": "Adolf Hitler"
+        },
+        {
+          "ID": 20736,
+          "Title": "Richard Dawkins"
+        },
+        {
+          "ID": 33835,
+          "Title": "Aquinói Szent Tamás"
+        },
+        {
+          "ID": 33939,
+          "Title": "Carl Sagan"
+        },
+        {
+          "ID": 37939,
+          "Title": "Sigmund Freud"
+        },
+        {
+          "ID": 49746,
+          "Title": "René Descartes"
+        },
+        {
+          "ID": 51452,
+          "Title": "Kolumbusz Kristóf"
+        },
+        {
+          "ID": 57684,
+          "Title": "Ayn Rand"
+        },
+        {
+          "ID": 76225,
+          "Title": "Richard Wagner (zeneszerző)"
+        },
+        {
+          "ID": 76472,
+          "Title": "Carl Friedrich Gauss"
+        },
+        {
+          "ID": 85320,
+          "Title": "William Blake"
+        },
+        {
+          "ID": 98569,
+          "Title": "Noam Chomsky"
+        },
+        {
+          "ID": 116452,
+          "Title": "Lewis Carroll"
+        },
+        {
+          "ID": 130024,
+          "Title": "Oliver Cromwell"
+        },
+        {
+          "ID": 167385,
+          "Title": "Joseph Smith (mormon)"
+        },
+        {
+          "ID": 194449,
+          "Title": "Daniel Radcliffe"
+        },
+        {
+          "ID": 200723,
+          "Title": "Srínivásza Rámánudzsan"
+        },
+        {
+          "ID": 267263,
+          "Title": "Fibonacci"
+        },
+        {
+          "ID": 276843,
+          "Title": "Elton John"
+        },
+        {
+          "ID": 318753,
+          "Title": "Florence Nightingale"
+        },
+        {
+          "ID": 319434,
+          "Title": "Stephan Lochner"
+        },
+        {
+          "ID": 391409,
+          "Title": "Harry Houdini"
+        },
+        {
+          "ID": 621253,
+          "Title": "Sheldon Cooper"
+        },
+        {
+          "ID": 650236,
+          "Title": "Jacob Black"
+        },
+        {
+          "ID": 692617,
+          "Title": "Chaim Soutine"
+        },
+        {
+          "ID": 921755,
+          "Title": "Anders Behring Breivik"
+        },
+        {
+          "ID": 1152363,
+          "Title": "Ted Cruz"
+        },
+        {
+          "ID": 1251556,
+          "Title": "Carl Friedrich Abel"
+        },
+        {
+          "ID": 1276123,
+          "Title": "Big Show"
+        },
+        {
+          "ID": 1361764,
+          "Title": "Bob Ross"
+        },
+        {
+          "ID": 1455597,
+          "Title": "Norah McClintock"
+        },
+        {
+          "ID": 1528085,
+          "Title": "Janet Margolin"
+        }
+      ]
+    },
+    {
+      "ID": 2147483644,
+      "Title": "Philosophy and thinking",
+      "Abstract": "Philosophy has almost as many definitions as there have been philosophers, both as a subject matter and an activity, and no simple definition can do it justice. The issue of the definition of philosophy is thus a controversial subject that is nowadays tackled by Metaphilosophy (or the philosophy of philosophy). The word is derived from the ancient Greek words philo-, to love or to befriend, and -sophia, wisdom. Modern usage of the term is much broader; the concept of philosophy encompasses all of knowledge and all that can be known, including the means by which such knowledge can be acquired. However, in the contemporary English-speaking academic world, the term is often used implicitly to refer to analytic philosophy and, in non-English speaking countries, it often refers implicitly to a different, European strain, continental philosophy. The ancient Greeks organized the subject into five basic categories: metaphysics, epistemology, ethics, politics and aesthetics. This organization of the subject is still largely in use in Western philosophy today.\n\nThought or thinking is a mental process which allows beings to model the world, and so to deal with it effectively according to their goals, plans, ends and desires. Words referring to similar concepts and processes in the English language include cognition, sentience, consciousness, idea, and imagination. Thinking involves the cerebral manipulation of information, as when we form concepts, engage in problem solving, reason and make decisions. Thinking is a higher cognitive function and the analysis of thinking processes is part of cognitive psychology",
+      "Categories": [
+        {
+          "ID": 7583,
+          "Title": "Kategória:Filozófia"
+        },
+        {
+          "ID": 226606,
+          "Title": "Kategória:Etika"
+        },
+        {
+          "ID": 248400,
+          "Title": "Kategória:Ideológiák"
+        }
+      ],
+      "Articles": [
+        {
+          "ID": 11154,
+          "Title": "Tény"
+        },
+        {
+          "ID": 193926,
+          "Title": "Dunning–Kruger-hatás"
+        },
+        {
+          "ID": 778002,
+          "Title": "Boldogság"
+        },
+        {
+          "ID": 1042143,
+          "Title": "Szépség"
+        }
+      ]
+    },
+    {
+      "ID": 2147483645,
+      "Title": "Religion and belief systems",
+      "Abstract": "Religion is the adherence to codified beliefs and rituals that generally involve a faith in a spiritual nature and a study of inherited ancestral traditions, knowledge and wisdom related to understanding human life. The term \"religion\" refers to both the personal practices related to faith as well as to the larger shared systems of belief.\n\nA belief system can refer to a religion or a world view. A world view (or worldview) is a term calqued from the German word Weltanschauung Welt is the German word for 'world,' and Anschauung is the German word for 'view' or 'outlook'. It is a concept fundamental to German philosophy and epistemology and refers to a wide world perception. Additionally, it refers to the framework of ideas and beliefs through which an individual interprets the world and interacts in it",
+      "Categories": [
+        {
+          "ID": 6677,
+          "Title": "Kategória:Vallás"
+        },
+        {
+          "ID": 12339,
+          "Title": "Kategória:Mitológia"
+        },
+        {
+          "ID": 364523,
+          "Title": "Kategória:Valláskritika"
+        }
+      ]
+    },
+    {
+      "ID": 2147483646,
+      "Title": "Society and social sciences",
+      "Abstract": "A society is a group of people who form a semi-closed system. At its simplest, the term society refers to a large group of people sharing their own culture and institutions. A society is a network of relationships between people. The English word society is derived from the French société, which had its origin in the Latin societas, a \"friendly association with others,\" from socius meaning \"companion, associate, comrade or business partner.\" Thus, the meaning of society is closely related to what is considered to be social. Implicit in the meaning of society is that its members may share some mutual concern or interest, a common objective or common characteristics. The social sciences generally use the term society to mean a group of people who form a semi-closed social system, in which most interactions are with other individuals belonging to the group. More abstractly, a society is defined as a network of relationships between social entities. A society is also sometimes defined as an interdependent community, but the sociologist Tönnies sought to draw a contrast between society and community. An important feature of society is social structure, aspects of which include roles and social ranking.\n\nThe social science are a group of academic disciplines that study human aspects of the world. They differ from the arts and the humanities, in that the social science tend to emphasize the use of the scientific method in the study of humanity, including quantitative and qualitative methods",
+      "Categories": [
+        {
+          "ID": 14564,
+          "Title": "Kategória:Társadalomtudományok"
+        },
+        {
+          "ID": 16400,
+          "Title": "Kategória:Nemzetközi szervezetek"
+        },
+        {
+          "ID": 32096,
+          "Title": "Kategória:Társadalom"
+        },
+        {
+          "ID": 730789,
+          "Title": "Kategória:Feminizmus"
+        }
+      ],
+      "Articles": [
+        {
+          "ID": 2107,
+          "Title": "Európai Unió"
+        },
+        {
+          "ID": 4654,
+          "Title": "Columbia Egyetem"
+        },
+        {
+          "ID": 6647,
+          "Title": "Cambridge-i Egyetem"
+        },
+        {
+          "ID": 8252,
+          "Title": "Oxfordi Egyetem"
+        },
+        {
+          "ID": 12904,
+          "Title": "Stanford Egyetem"
+        },
+        {
+          "ID": 16147,
+          "Title": "Nyári időszámítás"
+        },
+        {
+          "ID": 19388,
+          "Title": "Taco Bell"
+        },
+        {
+          "ID": 21243,
+          "Title": "Pizza Hut"
+        },
+        {
+          "ID": 32992,
+          "Title": "Harvard Egyetem"
+        },
+        {
+          "ID": 35808,
+          "Title": "Princetoni Egyetem"
+        },
+        {
+          "ID": 40014,
+          "Title": "Chicagói Egyetem"
+        },
+        {
+          "ID": 40015,
+          "Title": "Massachusetts Institute of Technology"
+        },
+        {
+          "ID": 53627,
+          "Title": "Az ENSZ Környezetvédelmi Programja"
+        },
+        {
+          "ID": 71962,
+          "Title": "Holdújév"
+        },
+        {
+          "ID": 75623,
+          "Title": "St. Andrews-i Egyetem"
+        },
+        {
+          "ID": 85114,
+          "Title": "Ausztrália zászlaja"
+        },
+        {
+          "ID": 122205,
+          "Title": "Mongólia hadereje"
+        },
+        {
+          "ID": 126161,
+          "Title": "Wam"
+        },
+        {
+          "ID": 203238,
+          "Title": "The New York Times"
+        },
+        {
+          "ID": 245848,
+          "Title": "Harmadik világháború"
+        },
+        {
+          "ID": 311468,
+          "Title": "American Airlines"
+        },
+        {
+          "ID": 343394,
+          "Title": "Mikronemzet"
+        },
+        {
+          "ID": 434330,
+          "Title": "Szesztilalom"
+        },
+        {
+          "ID": 450327,
+          "Title": "BP"
+        },
+        {
+          "ID": 512151,
+          "Title": "Moszkvai Állami Egyetem"
+        },
+        {
+          "ID": 516147,
+          "Title": "Bécsi Egyetem"
+        },
+        {
+          "ID": 588789,
+          "Title": "Csinghua Egyetem"
+        },
+        {
+          "ID": 656901,
+          "Title": "Szociális munka"
+        },
+        {
+          "ID": 752424,
+          "Title": "Lancasteri Egyetem"
+        },
+        {
+          "ID": 762608,
+          "Title": "Starbucks"
+        },
+        {
+          "ID": 771789,
+          "Title": "University of Minnesota"
+        },
+        {
+          "ID": 780985,
+          "Title": "Göteborgi Egyetem"
+        },
+        {
+          "ID": 788262,
+          "Title": "Bolognai Egyetem"
+        },
+        {
+          "ID": 886315,
+          "Title": "Manchesteri Egyetem"
+        },
+        {
+          "ID": 1017187,
+          "Title": "Tübingeni Egyetem"
+        },
+        {
+          "ID": 1095989,
+          "Title": "Tokió Egyetem"
+        },
+        {
+          "ID": 1097674,
+          "Title": "Umeåi Egyetem"
+        },
+        {
+          "ID": 1130048,
+          "Title": "Tartui Egyetem"
+        },
+        {
+          "ID": 1241336,
+          "Title": "Ivan Franko Nemzeti Egyetem Lviv"
+        },
+        {
+          "ID": 1416765,
+          "Title": "Washingtoni Egyetem"
+        },
+        {
+          "ID": 1442575,
+          "Title": "Tulane Egyetem"
+        },
+        {
+          "ID": 1452174,
+          "Title": "2017-es londoni terrortámadás (Westminster)"
+        },
+        {
+          "ID": 1532133,
+          "Title": "Padovai Egyetem"
+        },
+        {
+          "ID": 1543324,
+          "Title": "Indianai Egyetem"
+        },
+        {
+          "ID": 1574096,
+          "Title": "Torinói Egyetem"
+        },
+        {
+          "ID": 1581298,
+          "Title": "Bonni Egyetem"
+        },
+        {
+          "ID": 1595117,
+          "Title": "Ferrarai Egyetem"
+        }
+      ]
+    },
+    {
+      "ID": 2147483647,
+      "Title": "Technology and applied sciences",
+      "Abstract": "Technology is an expanded concept that deals with a species' usage and knowledge of tools and crafts, and how it affects a species' ability to control and adapt to its environment. In human civilization, it is a consequence of science and engineering, although several technological advances predate the formalization of these two disciplines. The term can either be applied generally or to specific areas – examples include construction technology, medical technology, or state-of-the-art technology.\n\nThe human race's use of technology began with the conversion of plentiful natural resources into simple tools. The prehistorical discovery of the ability to control fire increased the available sources of food, and the invention of the wheel helped humans in travelling in and controlling their environment. Recent technological developments, including the printing press and the Internet, have lessened physical barriers to communication and allowed humans to interact on a global scale. However, not all technology has been used for peaceful purposes; the development of weapons of ever-increasing destructive power has progressed throughout history, from clubs to nuclear bombs.\n\nApplied science is the application of knowledge from one or more natural scientific fields to solving practical problems. For example, fields of engineering are applied sciences. Applied science is important for technology development. Its use in industrial settings is usually referred to as research and development (R\u0026D)",
+      "Categories": [
+        {
+          "ID": 4111,
+          "Title": "Kategória:Informatika"
+        },
+        {
+          "ID": 4112,
+          "Title": "Kategória:Számítástechnika"
+        },
+        {
+          "ID": 10105,
+          "Title": "Kategória:Elektronika"
+        },
+        {
+          "ID": 14862,
+          "Title": "Kategória:Közlekedés"
+        },
+        {
+          "ID": 20276,
+          "Title": "Kategória:Internet"
+        },
+        {
+          "ID": 34475,
+          "Title": "Kategória:Alkalmazott tudományok"
+        },
+        {
+          "ID": 61752,
+          "Title": "Kategória:Haditechnika"
+        },
+        {
+          "ID": 106596,
+          "Title": "Kategória:Formatervezés"
+        },
+        {
+          "ID": 195226,
+          "Title": "Kategória:Technikatörténet"
+        },
+        {
+          "ID": 231132,
+          "Title": "Kategória:Mérnöki tudományok"
+        },
+        {
+          "ID": 422390,
+          "Title": "Kategória:Technológia"
+        }
+      ],
+      "Articles": [
+        {
+          "ID": 213955,
+          "Title": ".xxx"
+        },
+        {
+          "ID": 595728,
+          "Title": "Fal"
+        },
+        {
+          "ID": 630295,
+          "Title": "JR E233 sorozat"
+        },
+        {
+          "ID": 930725,
+          "Title": "Megvalósíthatósági tanulmány"
+        },
+        {
+          "ID": 960517,
+          "Title": "Rágógumi"
+        },
+        {
+          "ID": 1029670,
+          "Title": "Pepsi"
+        },
+        {
+          "ID": 1412031,
+          "Title": "Mountain Dew"
+        }
+      ]
+    }
+  ],
+  "Filters": [
+    {
+      "ID": 10077,
+      "Title": "Kategória:Egyértelműsítő lapok"
+    },
+    {
+      "ID": 293640,
+      "Title": "Kategória:Rejtett kategóriák"
+    }
+  ]
+}
