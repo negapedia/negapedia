@@ -196,6 +196,10 @@
         {
           "ID": 59403,
           "Title": "Kategori:Byplanlegging"
+        },
+        {
+          "ID": 130664,
+          "Title": "Kategori:Minnesmerke"
         }
       ],
       "Articles": [
@@ -210,6 +214,10 @@
         {
           "ID": 22868,
           "Title": "Venezia"
+        },
+        {
+          "ID": 36613,
+          "Title": "Pyramidar"
         },
         {
           "ID": 37036,
@@ -512,6 +520,10 @@
           "Title": "Kategori:Folk"
         },
         {
+          "ID": 296642,
+          "Title": "Kategori:Einskildkvinner"
+        },
+        {
           "ID": 337864,
           "Title": "Kategori:Kunstnarar etter medium"
         }
@@ -704,10 +716,6 @@
           "Title": "Kategori:Religion og livssyn"
         },
         {
-          "ID": 3117,
-          "Title": "Kategori:Mytologi"
-        },
-        {
           "ID": 68735,
           "Title": "Kategori:Tru"
         },
@@ -718,10 +726,6 @@
         {
           "ID": 99375,
           "Title": "Kategori:Sekularisering"
-        },
-        {
-          "ID": 129522,
-          "Title": "Kategori:Filosofiske teoriar"
         },
         {
           "ID": 203235,
@@ -748,6 +752,10 @@
         {
           "ID": 119037,
           "Title": "Kategori:Feminisme"
+        },
+        {
+          "ID": 334642,
+          "Title": "Kategori:Universitet og høgskular etter land"
         }
       ],
       "Articles": [

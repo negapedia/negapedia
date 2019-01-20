@@ -200,6 +200,10 @@
           "Title": "Sepong"
         },
         {
+          "ID": 395197,
+          "Title": "Bigfoot"
+        },
+        {
           "ID": 548041,
           "Title": "WWE Championship"
         },
@@ -356,6 +360,10 @@
           "Title": "Kontes Lagu Eurovision 2017"
         },
         {
+          "ID": 2467566,
+          "Title": "Kerak nasi"
+        },
+        {
           "ID": 2490303,
           "Title": "Babi kecap"
         },
@@ -422,6 +430,10 @@
           "Title": "Kategori:Geografi"
         },
         {
+          "ID": 27956,
+          "Title": "Kategori:Monumen"
+        },
+        {
           "ID": 51924,
           "Title": "Kategori:Geomorfologi"
         },
@@ -446,6 +458,10 @@
         {
           "ID": 4472,
           "Title": "Myanmar"
+        },
+        {
+          "ID": 10881,
+          "Title": "Piramida"
         },
         {
           "ID": 11270,
@@ -784,6 +800,10 @@
           "Title": "Kategori:Tokoh"
         },
         {
+          "ID": 93800,
+          "Title": "Kategori:Wanita"
+        },
+        {
           "ID": 133071,
           "Title": "Kategori:Seniman menurut medium"
         },
@@ -1028,10 +1048,6 @@
           "Title": "Kategori:Agama"
         },
         {
-          "ID": 8556,
-          "Title": "Kategori:Mitologi"
-        },
-        {
           "ID": 10899,
           "Title": "Kategori:Kepercayaan"
         },
@@ -1040,18 +1056,8 @@
           "Title": "Kategori:Kritik agama"
         },
         {
-          "ID": 1437897,
-          "Title": "Kategori:Teori filosofis"
-        },
-        {
           "ID": 2707286,
           "Title": "Kategori:Kepercayaan, tradisi, dan pergerakan agama"
-        }
-      ],
-      "Articles": [
-        {
-          "ID": 1854322,
-          "Title": "Kerakusan"
         }
       ]
     },

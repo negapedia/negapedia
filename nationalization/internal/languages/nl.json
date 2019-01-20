@@ -22,6 +22,10 @@
           "Title": "Categorie:Recreatie"
         },
         {
+          "ID": 83860,
+          "Title": "Categorie:Gerecht"
+        },
+        {
           "ID": 104217,
           "Title": "Categorie:Amusement"
         },
@@ -42,6 +46,10 @@
         {
           "ID": 959,
           "Title": "Koffie"
+        },
+        {
+          "ID": 1538,
+          "Title": "Realisme (kunststroming)"
         },
         {
           "ID": 1869,
@@ -78,6 +86,10 @@
         {
           "ID": 29963,
           "Title": "The World Factbook"
+        },
+        {
+          "ID": 34065,
+          "Title": "Bigfoot (cryptide)"
         },
         {
           "ID": 38476,
@@ -256,6 +268,10 @@
           "Title": "Tijgerbrood"
         },
         {
+          "ID": 1199686,
+          "Title": "Nurungji"
+        },
+        {
           "ID": 1242428,
           "Title": "Realisme (literatuur)"
         },
@@ -390,6 +406,10 @@
           "Title": "Categorie:Geografie"
         },
         {
+          "ID": 226089,
+          "Title": "Categorie:Monument"
+        },
+        {
           "ID": 311672,
           "Title": "Categorie:Planologie"
         },
@@ -422,6 +442,10 @@
         {
           "ID": 29634,
           "Title": "Canberra"
+        },
+        {
+          "ID": 77219,
+          "Title": "Piramide (bouwwerk)"
         },
         {
           "ID": 1032238,
@@ -476,10 +500,6 @@
         {
           "ID": 63562,
           "Title": "Categorie:Geschiedenis"
-        },
-        {
-          "ID": 80491,
-          "Title": "Categorie:Geschiedenis naar plaats"
         },
         {
           "ID": 1582541,
@@ -588,10 +608,6 @@
         {
           "ID": 63432,
           "Title": "Categorie:Scheikunde"
-        },
-        {
-          "ID": 63456,
-          "Title": "Categorie:Chemische stof"
         },
         {
           "ID": 63481,
@@ -764,6 +780,10 @@
           "Title": "Diplocrepis puniceus"
         },
         {
+          "ID": 2735974,
+          "Title": "Phoenix (geslacht)"
+        },
+        {
           "ID": 2767904,
           "Title": "Ophisaurus"
         },
@@ -800,6 +820,10 @@
         {
           "ID": 1691630,
           "Title": "Categorie:Personage uit film"
+        },
+        {
+          "ID": 4909534,
+          "Title": "Categorie:Vrouw"
         }
       ],
       "Articles": [
@@ -1042,10 +1066,6 @@
       "Title": "Religion and belief systems",
       "Categories": [
         {
-          "ID": 63305,
-          "Title": "Categorie:Mythologie"
-        },
-        {
           "ID": 63643,
           "Title": "Categorie:Religie"
         },
@@ -1086,6 +1106,10 @@
         {
           "ID": 176685,
           "Title": "Categorie:Mens en maatschappij"
+        },
+        {
+          "ID": 842971,
+          "Title": "Categorie:Hogeronderwijsinstelling naar land"
         }
       ],
       "Articles": [
@@ -1096,10 +1120,6 @@
         {
           "ID": 10020,
           "Title": "Zomertijd"
-        },
-        {
-          "ID": 11004,
-          "Title": "Trust (rechtsvorm)"
         },
         {
           "ID": 13985,

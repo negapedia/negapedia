@@ -52,6 +52,10 @@
           "Title": "Sauce"
         },
         {
+          "ID": 10576,
+          "Title": "Realismus (Kunst)"
+        },
+        {
           "ID": 10959,
           "Title": "Pizza"
         },
@@ -82,10 +86,6 @@
         {
           "ID": 50257,
           "Title": "Gespenst"
-        },
-        {
-          "ID": 52835,
-          "Title": "Handlungsorte der Harry-Potter-Romane"
         },
         {
           "ID": 60079,
@@ -364,6 +364,10 @@
           "Title": "Rigatoni con la pajata"
         },
         {
+          "ID": 4213741,
+          "Title": "Bigfoot"
+        },
+        {
           "ID": 4303345,
           "Title": "Brot"
         },
@@ -508,6 +512,10 @@
           "Title": "Panera Bread"
         },
         {
+          "ID": 9873203,
+          "Title": "Tahdig"
+        },
+        {
           "ID": 9884090,
           "Title": "Storage Wars – Die Geschäftemacher"
         },
@@ -538,6 +546,10 @@
           "Title": "Kategorie:Geographie"
         },
         {
+          "ID": 243956,
+          "Title": "Kategorie:Denkmal"
+        },
+        {
           "ID": 676986,
           "Title": "Kategorie:Liste (Geographie)"
         },
@@ -562,6 +574,10 @@
         {
           "ID": 869475,
           "Title": "Venedig"
+        },
+        {
+          "ID": 1033681,
+          "Title": "Pyramide (Bauwerk)"
         },
         {
           "ID": 1320005,
@@ -868,6 +884,10 @@
           "Title": "Maya-Kalender"
         },
         {
+          "ID": 162714,
+          "Title": "Dattelpalmen"
+        },
+        {
           "ID": 216144,
           "Title": "Wasserkreislauf"
         },
@@ -996,6 +1016,10 @@
         {
           "ID": 595902,
           "Title": "Kategorie:Alltagskultur"
+        },
+        {
+          "ID": 6697147,
+          "Title": "Kategorie:Frauen"
         }
       ],
       "Articles": [
@@ -1262,10 +1286,6 @@
       "Title": "Religion and belief systems",
       "Categories": [
         {
-          "ID": 235329,
-          "Title": "Kategorie:Mythologie"
-        },
-        {
           "ID": 235991,
           "Title": "Kategorie:Religion"
         },
@@ -1284,12 +1304,6 @@
         {
           "ID": 8990515,
           "Title": "Kategorie:Religiöser Konflikt"
-        }
-      ],
-      "Articles": [
-        {
-          "ID": 884396,
-          "Title": "Völlerei"
         }
       ]
     },
@@ -1312,6 +1326,10 @@
         {
           "ID": 851000,
           "Title": "Kategorie:Sozialwissenschaft"
+        },
+        {
+          "ID": 5474084,
+          "Title": "Kategorie:Hochschule nach Staat"
         }
       ],
       "Articles": [

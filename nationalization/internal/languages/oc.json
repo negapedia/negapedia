@@ -76,6 +76,10 @@
           "Title": "Pan"
         },
         {
+          "ID": 147053,
+          "Title": "Sasquatch"
+        },
+        {
           "ID": 147055,
           "Title": "Mostre del lac Ness"
         },
@@ -96,6 +100,10 @@
         {
           "ID": 6215,
           "Title": "Categoria:Urbanisme"
+        },
+        {
+          "ID": 13313,
+          "Title": "Categoria:Monument"
         },
         {
           "ID": 34651,
@@ -126,6 +134,10 @@
         {
           "ID": 25922,
           "Title": "Queensland"
+        },
+        {
+          "ID": 47911,
+          "Title": "Piramida (arquitectura)"
         }
       ]
     },
@@ -504,10 +516,6 @@
         {
           "ID": 10606,
           "Title": "Categoria:Antropologia de las religions"
-        },
-        {
-          "ID": 20155,
-          "Title": "Categoria:Mitologia"
         },
         {
           "ID": 34762,

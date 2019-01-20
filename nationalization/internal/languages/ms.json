@@ -176,6 +176,10 @@
           "Title": "Telur celur"
         },
         {
+          "ID": 770665,
+          "Title": "Realisme"
+        },
+        {
           "ID": 771305,
           "Title": "Adhirasam"
         },
@@ -228,12 +232,20 @@
           "Title": "Likuor coklat"
         },
         {
+          "ID": 890944,
+          "Title": "Kerak nasi"
+        },
+        {
           "ID": 941308,
           "Title": "Kek kahwin"
         },
         {
           "ID": 948275,
           "Title": "M\u0026M's"
+        },
+        {
+          "ID": 953241,
+          "Title": "Bigfoot"
         },
         {
           "ID": 953508,
@@ -268,9 +280,17 @@
         {
           "ID": 349457,
           "Title": "Kategori:Senarai berkaitan dengan geografi"
+        },
+        {
+          "ID": 662697,
+          "Title": "Kategori:Tugu peringatan"
         }
       ],
       "Articles": [
+        {
+          "ID": 163,
+          "Title": "Piramid"
+        },
         {
           "ID": 2943,
           "Title": "Myanmar"
@@ -592,6 +612,10 @@
           "Title": "Kategori:Watak filem"
         },
         {
+          "ID": 167740,
+          "Title": "Kategori:Wanita"
+        },
+        {
           "ID": 661791,
           "Title": "Kategori:Diri"
         }
@@ -768,16 +792,8 @@
           "Title": "Kategori:Sekularisme"
         },
         {
-          "ID": 153905,
-          "Title": "Kategori:Teori falsafah"
-        },
-        {
           "ID": 162012,
           "Title": "Kategori:Kepercayaan, tradisi, dan gerakan agama"
-        },
-        {
-          "ID": 162252,
-          "Title": "Kategori:Mitologi"
         },
         {
           "ID": 162659,
@@ -812,6 +828,10 @@
         {
           "ID": 128049,
           "Title": "Kategori:Feminisme"
+        },
+        {
+          "ID": 165020,
+          "Title": "Kategori:Universiti dan kolej mengikut negara"
         }
       ],
       "Articles": [

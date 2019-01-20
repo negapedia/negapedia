@@ -100,10 +100,6 @@
           "Title": "Bejeweled"
         },
         {
-          "ID": 102616,
-          "Title": "Oral seks"
-        },
-        {
           "ID": 145239,
           "Title": "AC/DC"
         },
@@ -134,6 +130,10 @@
         {
           "ID": 301021,
           "Title": "WWE Championship"
+        },
+        {
+          "ID": 346894,
+          "Title": "Sasquatch"
         },
         {
           "ID": 405545,
@@ -314,6 +314,10 @@
         {
           "ID": 2379767,
           "Title": "Yüzyıl yumurtası"
+        },
+        {
+          "ID": 2380182,
+          "Title": "Kavrulmuş pirinç"
         }
       ]
     },
@@ -332,6 +336,10 @@
         {
           "ID": 55038,
           "Title": "Kategori:Şehir planlaması"
+        },
+        {
+          "ID": 83952,
+          "Title": "Kategori:Anıtlar"
         },
         {
           "ID": 151798,
@@ -358,6 +366,10 @@
         {
           "ID": 51109,
           "Title": "Venedik"
+        },
+        {
+          "ID": 68459,
+          "Title": "Piramit"
         },
         {
           "ID": 235861,
@@ -718,6 +730,10 @@
       "Title": "People and self",
       "Categories": [
         {
+          "ID": 11846,
+          "Title": "Kategori:Kadın"
+        },
+        {
           "ID": 12513,
           "Title": "Kategori:Kişiler"
         },
@@ -982,20 +998,12 @@
       "Title": "Religion and belief systems",
       "Categories": [
         {
-          "ID": 6469,
-          "Title": "Kategori:Mitoloji"
-        },
-        {
           "ID": 7198,
           "Title": "Kategori:Din"
         },
         {
           "ID": 7224,
           "Title": "Kategori:İnanç"
-        },
-        {
-          "ID": 187878,
-          "Title": "Kategori:Felsefi teoriler"
         },
         {
           "ID": 696470,

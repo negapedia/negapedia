@@ -148,6 +148,10 @@
           "Title": "Šunka"
         },
         {
+          "ID": 374019,
+          "Title": "Bigfoot"
+        },
+        {
           "ID": 383545,
           "Title": "Aqua (hudobná skupina)"
         },
@@ -178,6 +182,10 @@
           "Title": "Kategória:Geomorfológia"
         },
         {
+          "ID": 88385,
+          "Title": "Kategória:Pamätníky"
+        },
+        {
           "ID": 180653,
           "Title": "Kategória:Geografické zoznamy"
         },
@@ -194,6 +202,10 @@
         {
           "ID": 2979,
           "Title": "Mjanmarsko"
+        },
+        {
+          "ID": 14579,
+          "Title": "Pyramída"
         },
         {
           "ID": 20180,
@@ -664,10 +676,6 @@
       "Title": "Religion and belief systems",
       "Categories": [
         {
-          "ID": 8197,
-          "Title": "Kategória:Mytológia"
-        },
-        {
           "ID": 23113,
           "Title": "Kategória:Náboženstvo"
         },
@@ -680,18 +688,8 @@
           "Title": "Kategória:Náboženské smery"
         },
         {
-          "ID": 217237,
-          "Title": "Kategória:Filozofické teórie"
-        },
-        {
           "ID": 331047,
           "Title": "Kategória:Viera"
-        }
-      ],
-      "Articles": [
-        {
-          "ID": 32395,
-          "Title": "Obžerstvo"
         }
       ]
     },
@@ -714,6 +712,10 @@
         {
           "ID": 61384,
           "Title": "Kategória:Spoločnosť"
+        },
+        {
+          "ID": 136274,
+          "Title": "Kategória:Vysoké školy podľa štátu"
         }
       ],
       "Articles": [

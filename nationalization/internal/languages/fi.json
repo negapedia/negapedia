@@ -136,6 +136,10 @@
           "Title": "Kinkku"
         },
         {
+          "ID": 106975,
+          "Title": "Isojalka"
+        },
+        {
           "ID": 136080,
           "Title": "Keksi"
         },
@@ -332,6 +336,10 @@
         {
           "ID": 83190,
           "Title": "Luokka:Luettelot maantieteestä"
+        },
+        {
+          "ID": 953436,
+          "Title": "Luokka:Muistomerkit"
         }
       ],
       "Articles": [
@@ -350,6 +358,10 @@
         {
           "ID": 30040,
           "Title": "Venetsia"
+        },
+        {
+          "ID": 33574,
+          "Title": "Pyramidi"
         },
         {
           "ID": 44089,
@@ -672,6 +684,10 @@
           "Title": "Tuki- ja liikuntaelin"
         },
         {
+          "ID": 841913,
+          "Title": "Taatelit"
+        },
+        {
           "ID": 992530,
           "Title": "Merijuolavehnä"
         },
@@ -708,6 +724,10 @@
         {
           "ID": 232057,
           "Title": "Luokka:Sukunimet"
+        },
+        {
+          "ID": 286985,
+          "Title": "Luokka:Nainen"
         }
       ],
       "Articles": [
@@ -954,10 +974,6 @@
           "Title": "Luokka:Uskonto"
         },
         {
-          "ID": 23775,
-          "Title": "Luokka:Mytologia"
-        },
-        {
           "ID": 217315,
           "Title": "Luokka:Sekularismi"
         },
@@ -968,10 +984,6 @@
         {
           "ID": 563573,
           "Title": "Luokka:Uskontoon liittyvät kiistat"
-        },
-        {
-          "ID": 674872,
-          "Title": "Luokka:Filosofiset teoriat"
         },
         {
           "ID": 798629,
@@ -998,6 +1010,10 @@
         {
           "ID": 152461,
           "Title": "Luokka:Feminismi"
+        },
+        {
+          "ID": 227521,
+          "Title": "Luokka:Yliopistot ja korkeakoulut maittain"
         },
         {
           "ID": 596189,

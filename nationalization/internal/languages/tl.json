@@ -108,12 +108,20 @@
           "Title": "Pagsubo sa ari ng lalaki"
         },
         {
+          "ID": 123479,
+          "Title": "Nurungji"
+        },
+        {
           "ID": 126063,
           "Title": "Itlog"
         },
         {
           "ID": 135701,
           "Title": "Palasyo ng Buckingham"
+        },
+        {
+          "ID": 153735,
+          "Title": "Bigfoot"
         },
         {
           "ID": 166166,
@@ -174,6 +182,10 @@
           "Title": "Kategorya:Heograpiya"
         },
         {
+          "ID": 77745,
+          "Title": "Kategorya:Bantayog"
+        },
+        {
           "ID": 128711,
           "Title": "Kategorya:Mga lugar"
         },
@@ -198,6 +210,10 @@
         {
           "ID": 37940,
           "Title": "Queensland"
+        },
+        {
+          "ID": 73139,
+          "Title": "Piramide"
         },
         {
           "ID": 201517,
@@ -440,6 +456,10 @@
           "Title": "Kategorya:Pansariling buhay"
         },
         {
+          "ID": 43290,
+          "Title": "Kategorya:Babae"
+        },
+        {
           "ID": 145140,
           "Title": "Kategorya:Mga tao"
         },
@@ -612,10 +632,6 @@
       "Title": "Religion and belief systems",
       "Categories": [
         {
-          "ID": 1958,
-          "Title": "Kategorya:Mitolohiya"
-        },
-        {
           "ID": 110899,
           "Title": "Kategorya:Sekularismo"
         },
@@ -632,22 +648,12 @@
           "Title": "Kategorya:Antropolohiya ng relihiyon"
         },
         {
-          "ID": 186725,
-          "Title": "Kategorya:Mga teoriyang pilosopikal"
-        },
-        {
           "ID": 212845,
           "Title": "Kategorya:Mga pananampalataya, tradisyon, at kilusang panrelihiyon"
         },
         {
           "ID": 224376,
           "Title": "Kategorya:Pagbatikos ng relihiyon"
-        }
-      ],
-      "Articles": [
-        {
-          "ID": 89058,
-          "Title": "Katakawan"
         }
       ]
     },

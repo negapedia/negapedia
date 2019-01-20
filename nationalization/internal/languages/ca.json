@@ -192,6 +192,10 @@
           "Title": "Salsa de tomàquet"
         },
         {
+          "ID": 488792,
+          "Title": "Peus grans"
+        },
+        {
           "ID": 510521,
           "Title": "Ou centenari"
         },
@@ -358,6 +362,10 @@
           "Title": "Categoria:Geografia"
         },
         {
+          "ID": 31139,
+          "Title": "Categoria:Monuments"
+        },
+        {
           "ID": 31515,
           "Title": "Categoria:Urbanisme"
         },
@@ -394,6 +402,10 @@
         {
           "ID": 59569,
           "Title": "Queensland"
+        },
+        {
+          "ID": 350350,
+          "Title": "Piràmide (arquitectura)"
         },
         {
           "ID": 696801,
@@ -712,8 +724,16 @@
           "Title": "Calendari maia"
         },
         {
+          "ID": 613997,
+          "Title": "Vent dominant"
+        },
+        {
           "ID": 684520,
           "Title": "Arròs glutinós"
+        },
+        {
+          "ID": 705535,
+          "Title": "Phoenix (planta)"
         },
         {
           "ID": 752266,
@@ -1006,10 +1026,6 @@
       "Title": "Religion and belief systems",
       "Categories": [
         {
-          "ID": 12394,
-          "Title": "Categoria:Mitologia"
-        },
-        {
           "ID": 13788,
           "Title": "Categoria:Religions"
         },
@@ -1024,12 +1040,6 @@
         {
           "ID": 903384,
           "Title": "Categoria:Crítica a la religió"
-        }
-      ],
-      "Articles": [
-        {
-          "ID": 554428,
-          "Title": "Gola (pecat)"
         }
       ]
     },

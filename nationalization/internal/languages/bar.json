@@ -132,6 +132,10 @@
         {
           "ID": 16133,
           "Title": "Kategorie:Stadtplanung"
+        },
+        {
+          "ID": 16888,
+          "Title": "Kategorie:Denkmal"
         }
       ],
       "Articles": [
@@ -142,6 +146,10 @@
         {
           "ID": 26560,
           "Title": "Myanmar"
+        },
+        {
+          "ID": 35976,
+          "Title": "Pyramidn (Bauwerk)"
         },
         {
           "ID": 97551,
@@ -310,6 +318,10 @@
         {
           "ID": 46847,
           "Title": "Kategorie:Familienname"
+        },
+        {
+          "ID": 91694,
+          "Title": "Kategorie:Frauen"
         }
       ],
       "Articles": [
@@ -382,10 +394,6 @@
         {
           "ID": 5881,
           "Title": "Kategorie:Religion"
-        },
-        {
-          "ID": 8042,
-          "Title": "Kategorie:Mythologie"
         },
         {
           "ID": 18882,

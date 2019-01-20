@@ -14,6 +14,10 @@
           "Title": "Kategoria:Sztuka"
         },
         {
+          "ID": 66340,
+          "Title": "Kategoria:Sztuka kulinarna"
+        },
+        {
           "ID": 66363,
           "Title": "Kategoria:Sport"
         },
@@ -162,6 +166,10 @@
         {
           "ID": 518514,
           "Title": "Masło orzechowe"
+        },
+        {
+          "ID": 535334,
+          "Title": "Wielka Stopa (zwierzę)"
         },
         {
           "ID": 603558,
@@ -338,6 +346,10 @@
           "Title": "Kategoria:Geomorfologia"
         },
         {
+          "ID": 79544,
+          "Title": "Kategoria:Pomniki"
+        },
+        {
           "ID": 4158041,
           "Title": "Kategoria:Listy związane z geografią"
         }
@@ -350,6 +362,10 @@
         {
           "ID": 867,
           "Title": "Canberra"
+        },
+        {
+          "ID": 4879,
+          "Title": "Piramida"
         },
         {
           "ID": 15367,
@@ -608,6 +624,10 @@
           "Title": "Cytryna zwyczajna"
         },
         {
+          "ID": 69663,
+          "Title": "Daktylowiec"
+        },
+        {
           "ID": 71575,
           "Title": "Wielbłąd"
         },
@@ -722,16 +742,16 @@
           "Title": "Kategoria:Biografie"
         },
         {
-          "ID": 93429,
-          "Title": "Kategoria:Życie codzienne"
-        },
-        {
           "ID": 210228,
           "Title": "Kategoria:Postacie filmowe"
         },
         {
           "ID": 560803,
           "Title": "Kategoria:Nazwiska"
+        },
+        {
+          "ID": 2500776,
+          "Title": "Kategoria:Kobieta"
         }
       ],
       "Articles": [
@@ -958,10 +978,6 @@
           "Title": "Kategoria:Religie"
         },
         {
-          "ID": 66334,
-          "Title": "Kategoria:Mitologia"
-        },
-        {
           "ID": 1001190,
           "Title": "Kategoria:Antropologia religii"
         },
@@ -972,12 +988,6 @@
         {
           "ID": 2959884,
           "Title": "Kategoria:Krytyka religii"
-        }
-      ],
-      "Articles": [
-        {
-          "ID": 2825785,
-          "Title": "Łakomstwo"
         }
       ]
     },
@@ -1000,6 +1010,10 @@
         {
           "ID": 474179,
           "Title": "Kategoria:Społeczeństwo"
+        },
+        {
+          "ID": 2710108,
+          "Title": "Kategoria:Uczelnie według państw"
         }
       ],
       "Articles": [

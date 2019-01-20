@@ -60,6 +60,10 @@
           "Title": "Chocolate"
         },
         {
+          "ID": 19207,
+          "Title": "Realismo"
+        },
+        {
           "ID": 23796,
           "Title": "Pizza"
         },
@@ -130,6 +134,10 @@
         {
           "ID": 135332,
           "Title": "Dia da Marmota"
+        },
+        {
+          "ID": 151055,
+          "Title": "Pé-grande"
         },
         {
           "ID": 157655,
@@ -442,6 +450,10 @@
           "Title": "Categoria:Geografia"
         },
         {
+          "ID": 21640,
+          "Title": "Categoria:Monumentos"
+        },
+        {
           "ID": 54320,
           "Title": "Categoria:Urbanismo"
         },
@@ -482,6 +494,10 @@
         {
           "ID": 874568,
           "Title": "Carlsbad (Novo México)"
+        },
+        {
+          "ID": 2235336,
+          "Title": "Pirâmide (arquitetura)"
         },
         {
           "ID": 2679238,
@@ -796,6 +812,10 @@
           "Title": "Rostratulidae"
         },
         {
+          "ID": 231865,
+          "Title": "Phoenix (género)"
+        },
+        {
           "ID": 233210,
           "Title": "Sistema locomotor"
         },
@@ -864,6 +884,10 @@
           "Title": "Tomate-cereja"
         },
         {
+          "ID": 3628198,
+          "Title": "Vento dominante"
+        },
+        {
           "ID": 4561078,
           "Title": "Scomber scombrus"
         },
@@ -904,6 +928,10 @@
         {
           "ID": 643737,
           "Title": "Categoria:Personagens de filmes"
+        },
+        {
+          "ID": 1434825,
+          "Title": "Categoria:Mulher"
         },
         {
           "ID": 2270850,
@@ -1170,20 +1198,12 @@
           "Title": "Categoria:Religião"
         },
         {
-          "ID": 15071,
-          "Title": "Categoria:Mitologia"
-        },
-        {
           "ID": 1908161,
           "Title": "Categoria:Antropologia da religião"
         },
         {
           "ID": 2009545,
           "Title": "Categoria:Secularismo"
-        },
-        {
-          "ID": 2254997,
-          "Title": "Categoria:Teorias filosóficas"
         },
         {
           "ID": 2538328,
@@ -1209,12 +1229,6 @@
           "ID": 4355182,
           "Title": "Categoria:Crenças, tradições e movimentos religiosos"
         }
-      ],
-      "Articles": [
-        {
-          "ID": 131985,
-          "Title": "Gula"
-        }
       ]
     },
     {
@@ -1236,6 +1250,10 @@
         {
           "ID": 37522,
           "Title": "Categoria:Sociedade"
+        },
+        {
+          "ID": 1329098,
+          "Title": "Categoria:Instituições de ensino superior por país"
         },
         {
           "ID": 3550174,

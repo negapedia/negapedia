@@ -1,0 +1,473 @@
+{
+  "Language": "ilo",
+  "Topics": [
+    {
+      "ID": 2147483637,
+      "Title": "Culture and the arts",
+      "Categories": [
+        {
+          "ID": 124,
+          "Title": "Kategoria:Arte"
+        },
+        {
+          "ID": 18088,
+          "Title": "Kategoria:Kultura"
+        },
+        {
+          "ID": 18090,
+          "Title": "Kategoria:Palpaliwa"
+        },
+        {
+          "ID": 18140,
+          "Title": "Kategoria:Dagiti apision"
+        },
+        {
+          "ID": 21620,
+          "Title": "Kategoria:Makmakan"
+        },
+        {
+          "ID": 22803,
+          "Title": "Kategoria:Luto"
+        },
+        {
+          "ID": 33236,
+          "Title": "Kategoria:Dagiti grupo ti agkankanta"
+        }
+      ],
+      "Articles": [
+        {
+          "ID": 23,
+          "Title": "Wikipedia"
+        },
+        {
+          "ID": 276,
+          "Title": "Ensiklopedia"
+        },
+        {
+          "ID": 17054,
+          "Title": "Kape"
+        },
+        {
+          "ID": 22813,
+          "Title": "Tinapay"
+        },
+        {
+          "ID": 27011,
+          "Title": "Tsokolate"
+        }
+      ]
+    },
+    {
+      "ID": 2147483638,
+      "Title": "Geography and places",
+      "Categories": [
+        {
+          "ID": 12862,
+          "Title": "Kategoria:Heograpia"
+        },
+        {
+          "ID": 18121,
+          "Title": "Kategoria:Luglugar"
+        },
+        {
+          "ID": 25723,
+          "Title": "Kategoria:Heomorpolohia"
+        }
+      ],
+      "Articles": [
+        {
+          "ID": 2349,
+          "Title": "Myanmar"
+        },
+        {
+          "ID": 4340,
+          "Title": "Paris"
+        },
+        {
+          "ID": 25563,
+          "Title": "Piramida"
+        }
+      ]
+    },
+    {
+      "ID": 2147483639,
+      "Title": "Health and fitness",
+      "Categories": [
+        {
+          "ID": 144,
+          "Title": "Kategoria:Salun-at"
+        },
+        {
+          "ID": 2079,
+          "Title": "Kategoria:Medisina"
+        },
+        {
+          "ID": 21950,
+          "Title": "Kategoria:Dagiti siensia ti salun-at"
+        },
+        {
+          "ID": 22052,
+          "Title": "Kategoria:Dagiti espesialidad ti medisina"
+        }
+      ]
+    },
+    {
+      "ID": 2147483640,
+      "Title": "History and events",
+      "Categories": [
+        {
+          "ID": 2076,
+          "Title": "Kategoria:Pakasaritaan"
+        },
+        {
+          "ID": 20535,
+          "Title": "Kategoria:Paspasamak"
+        },
+        {
+          "ID": 24825,
+          "Title": "Kategoria:Pakasaritaan babaen ti pagilian"
+        }
+      ]
+    },
+    {
+      "ID": 2147483641,
+      "Title": "Mathematics and logic",
+      "Categories": [
+        {
+          "ID": 2074,
+          "Title": "Kategoria:Lohika"
+        },
+        {
+          "ID": 5261,
+          "Title": "Kategoria:Matematika"
+        },
+        {
+          "ID": 21623,
+          "Title": "Kategoria:Dagiti pagobraan ti matematika"
+        },
+        {
+          "ID": 21845,
+          "Title": "Kategoria:Dagiti matematiko a konsepto"
+        }
+      ]
+    },
+    {
+      "ID": 2147483642,
+      "Title": "Nature and physical sciences",
+      "Categories": [
+        {
+          "ID": 16241,
+          "Title": "Kategoria:Pisika"
+        },
+        {
+          "ID": 16242,
+          "Title": "Kategoria:Dagiti masna a siensia"
+        },
+        {
+          "ID": 16245,
+          "Title": "Kategoria:Kimika"
+        },
+        {
+          "ID": 16246,
+          "Title": "Kategoria:Dagiti maipapan ti bagi a siensia"
+        },
+        {
+          "ID": 18087,
+          "Title": "Kategoria:Siensia"
+        },
+        {
+          "ID": 18098,
+          "Title": "Kategoria:Katutubo"
+        },
+        {
+          "ID": 21971,
+          "Title": "Kategoria:Soolohia"
+        },
+        {
+          "ID": 22364,
+          "Title": "Kategoria:Dagiti didigra"
+        },
+        {
+          "ID": 24059,
+          "Title": "Kategoria:Dagiti kimiko a kompuesto"
+        }
+      ],
+      "Articles": [
+        {
+          "ID": 491,
+          "Title": "Buto"
+        },
+        {
+          "ID": 15167,
+          "Title": "Dalandan"
+        },
+        {
+          "ID": 22820,
+          "Title": "Mais"
+        },
+        {
+          "ID": 22940,
+          "Title": "Limon"
+        },
+        {
+          "ID": 24980,
+          "Title": "Apuy"
+        },
+        {
+          "ID": 25579,
+          "Title": "Kamelio"
+        },
+        {
+          "ID": 25656,
+          "Title": "Mangga"
+        },
+        {
+          "ID": 25746,
+          "Title": "Trigo"
+        },
+        {
+          "ID": 25905,
+          "Title": "Saleng"
+        }
+      ]
+    },
+    {
+      "ID": 2147483643,
+      "Title": "People and self",
+      "Categories": [
+        {
+          "ID": 141,
+          "Title": "Kategoria:Tattao"
+        },
+        {
+          "ID": 18141,
+          "Title": "Kategoria:Kabukbukodan a biag"
+        },
+        {
+          "ID": 20471,
+          "Title": "Kategoria:Babbai"
+        }
+      ],
+      "Articles": [
+        {
+          "ID": 1919,
+          "Title": "Joseph Smith, Jr."
+        },
+        {
+          "ID": 3367,
+          "Title": "Bill Gates"
+        },
+        {
+          "ID": 12597,
+          "Title": "Adolf Hitler"
+        },
+        {
+          "ID": 16690,
+          "Title": "Galileo Galilei"
+        },
+        {
+          "ID": 16844,
+          "Title": "Sigmund Freud"
+        },
+        {
+          "ID": 16848,
+          "Title": "Christopher Columbus"
+        },
+        {
+          "ID": 16926,
+          "Title": "Richard Wagner"
+        },
+        {
+          "ID": 18626,
+          "Title": "Fibonacci"
+        },
+        {
+          "ID": 18629,
+          "Title": "Carl Friedrich Gauss"
+        },
+        {
+          "ID": 18633,
+          "Title": "Johannes Kepler"
+        },
+        {
+          "ID": 18643,
+          "Title": "Alan Turing"
+        },
+        {
+          "ID": 18654,
+          "Title": "Adam Smith"
+        },
+        {
+          "ID": 18663,
+          "Title": "Noam Chomsky"
+        },
+        {
+          "ID": 18665,
+          "Title": "René Descartes"
+        },
+        {
+          "ID": 18724,
+          "Title": "Tomas Aquino"
+        }
+      ]
+    },
+    {
+      "ID": 2147483644,
+      "Title": "Philosophy and thinking",
+      "Categories": [
+        {
+          "ID": 12855,
+          "Title": "Kategoria:Pilosopia"
+        },
+        {
+          "ID": 18102,
+          "Title": "Kategoria:Dagiti sanga ti pilosopia"
+        },
+        {
+          "ID": 19646,
+          "Title": "Kategoria:Panunot"
+        },
+        {
+          "ID": 20647,
+          "Title": "Kategoria:Etika"
+        },
+        {
+          "ID": 20723,
+          "Title": "Kategoria:Dagiti ideolohia"
+        },
+        {
+          "ID": 24699,
+          "Title": "Kategoria:Dagiti pilosopiko a teoria"
+        }
+      ],
+      "Articles": [
+        {
+          "ID": 18732,
+          "Title": "Pintas"
+        }
+      ]
+    },
+    {
+      "ID": 2147483645,
+      "Title": "Religion and belief systems",
+      "Categories": [
+        {
+          "ID": 15489,
+          "Title": "Kategoria:Panagdillaw iti relihion"
+        },
+        {
+          "ID": 16201,
+          "Title": "Kategoria:Relihion"
+        },
+        {
+          "ID": 18404,
+          "Title": "Kategoria:Dagiti Indiano a relihion"
+        },
+        {
+          "ID": 18405,
+          "Title": "Kategoria:Dagiti relihioso a pammati, tradision, ken tignay"
+        },
+        {
+          "ID": 21690,
+          "Title": "Kategoria:Pammati"
+        },
+        {
+          "ID": 24115,
+          "Title": "Kategoria:Sekularismo"
+        },
+        {
+          "ID": 25774,
+          "Title": "Kategoria:Antropolohia ti relihion"
+        }
+      ]
+    },
+    {
+      "ID": 2147483646,
+      "Title": "Society and social sciences",
+      "Categories": [
+        {
+          "ID": 18093,
+          "Title": "Kategoria:Kagimongan"
+        },
+        {
+          "ID": 18103,
+          "Title": "Kategoria:Dagiti siensia sosial"
+        },
+        {
+          "ID": 21750,
+          "Title": "Kategoria:Dagiti gunglo ti sangalubongan"
+        },
+        {
+          "ID": 25846,
+          "Title": "Kategoria:Peminismo"
+        }
+      ],
+      "Articles": [
+        {
+          "ID": 12075,
+          "Title": "Kappon ti Europa"
+        },
+        {
+          "ID": 25567,
+          "Title": "Oras a panagin-inut ti lawag"
+        }
+      ]
+    },
+    {
+      "ID": 2147483647,
+      "Title": "Technology and applied sciences",
+      "Categories": [
+        {
+          "ID": 2023,
+          "Title": "Kategoria:Inhenieria"
+        },
+        {
+          "ID": 2141,
+          "Title": "Kategoria:Teknolohia"
+        },
+        {
+          "ID": 8535,
+          "Title": "Kategoria:Internet"
+        },
+        {
+          "ID": 12857,
+          "Title": "Kategoria:Elektronika"
+        },
+        {
+          "ID": 18113,
+          "Title": "Kategoria:Dagiti naipakat a siensia"
+        },
+        {
+          "ID": 21790,
+          "Title": "Kategoria:Teknolohia babaen ti kita"
+        },
+        {
+          "ID": 23198,
+          "Title": "Kategoria:Pakasaritaan ti teknolohia"
+        },
+        {
+          "ID": 23421,
+          "Title": "Kategoria:Pagluganan"
+        },
+        {
+          "ID": 23565,
+          "Title": "Kategoria:Aruaten ti militar"
+        },
+        {
+          "ID": 33564,
+          "Title": "Kategoria:Komputado"
+        }
+      ]
+    }
+  ],
+  "Filters": [
+    {
+      "ID": 17729,
+      "Title": "Kategoria:Nailemmeng a katkategoria"
+    },
+    {
+      "ID": 27205,
+      "Title": "Kategoria:Panangilawlawag a pampanid"
+    }
+  ]
+}

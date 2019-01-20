@@ -38,6 +38,10 @@
           "Title": "Categorie:Spectacole"
         },
         {
+          "ID": 751366,
+          "Title": "Categorie:Formații muzicale"
+        },
+        {
           "ID": 1060958,
           "Title": "Categorie:Grupuri muzicale"
         },
@@ -62,6 +66,10 @@
         {
           "ID": 12555,
           "Title": "Ciocolată"
+        },
+        {
+          "ID": 13794,
+          "Title": "Realism (artă)"
         },
         {
           "ID": 19708,
@@ -154,6 +162,10 @@
         {
           "ID": 943875,
           "Title": "Enthiran"
+        },
+        {
+          "ID": 977395,
+          "Title": "Bigfoot"
         },
         {
           "ID": 990534,
@@ -254,6 +266,10 @@
           "Title": "Categorie:Geografie"
         },
         {
+          "ID": 23113,
+          "Title": "Categorie:Monumente"
+        },
+        {
           "ID": 40670,
           "Title": "Categorie:Geomorfologie"
         },
@@ -294,6 +310,10 @@
         {
           "ID": 914177,
           "Title": "Carlsbad, New Mexico"
+        },
+        {
+          "ID": 937078,
+          "Title": "Piramidă (mormânt)"
         }
       ]
     },
@@ -612,6 +632,10 @@
           "Title": "Categorie:Nume de familie"
         },
         {
+          "ID": 53145,
+          "Title": "Categorie:Femei"
+        },
+        {
           "ID": 187762,
           "Title": "Categorie:Sine"
         },
@@ -848,20 +872,12 @@
       "Title": "Religion and belief systems",
       "Categories": [
         {
-          "ID": 13884,
-          "Title": "Categorie:Mitologie"
-        },
-        {
           "ID": 20394,
           "Title": "Categorie:Religie"
         },
         {
           "ID": 39732,
           "Title": "Categorie:Secularism"
-        },
-        {
-          "ID": 110666,
-          "Title": "Categorie:Teorii filozofice"
         },
         {
           "ID": 172449,
@@ -912,6 +928,10 @@
         {
           "ID": 901904,
           "Title": "Categorie:Drepturi"
+        },
+        {
+          "ID": 1112201,
+          "Title": "Categorie:Instituții de învățământ superior după țară"
         }
       ],
       "Articles": [

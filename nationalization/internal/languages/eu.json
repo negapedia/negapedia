@@ -168,6 +168,10 @@
           "Title": "The World Factbook"
         },
         {
+          "ID": 436537,
+          "Title": "Oin Handi"
+        },
+        {
           "ID": 533435,
           "Title": "Taco"
         },
@@ -262,6 +266,10 @@
           "Title": "Kategoria:Geografia"
         },
         {
+          "ID": 5802,
+          "Title": "Kategoria:Monumentuak"
+        },
+        {
           "ID": 7863,
           "Title": "Kategoria:Hirigintza"
         },
@@ -294,6 +302,10 @@
         {
           "ID": 64358,
           "Title": "Queensland"
+        },
+        {
+          "ID": 482857,
+          "Title": "Piramide (arkitektura)"
         },
         {
           "ID": 698228,
@@ -616,6 +628,10 @@
           "Title": "Kategoria:Biografiak"
         },
         {
+          "ID": 102211,
+          "Title": "Kategoria:Emakumea"
+        },
+        {
           "ID": 103918,
           "Title": "Kategoria:Abizenak"
         },
@@ -836,14 +852,6 @@
       "Title": "Religion and belief systems",
       "Categories": [
         {
-          "ID": 6711,
-          "Title": "Kategoria:Mitologia"
-        },
-        {
-          "ID": 105589,
-          "Title": "Kategoria:Teoria filosofikoak"
-        },
-        {
           "ID": 140798,
           "Title": "Kategoria:Sinesmenak"
         },
@@ -866,12 +874,6 @@
         {
           "ID": 713430,
           "Title": "Kategoria:Laizismoa"
-        }
-      ],
-      "Articles": [
-        {
-          "ID": 602161,
-          "Title": "Sabelkeria"
         }
       ]
     },

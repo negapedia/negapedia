@@ -3,7 +3,7 @@
   "Topics": [
     {
       "ID": 2147483637,
-      "Title": "Culture and the arts",
+      "Title": "Cultura ed arte",
       "Categories": [
         {
           "ID": 24741,
@@ -44,6 +44,10 @@
         {
           "ID": 2047954,
           "Title": "Categoria:Cultura"
+        },
+        {
+          "ID": 5299452,
+          "Title": "Categoria:Attività ricreative e sportive"
         }
       ],
       "Articles": [
@@ -158,6 +162,10 @@
         {
           "ID": 425774,
           "Title": "Aqua (gruppo musicale)"
+        },
+        {
+          "ID": 427345,
+          "Title": "Bigfoot"
         },
         {
           "ID": 430435,
@@ -455,7 +463,7 @@
     },
     {
       "ID": 2147483638,
-      "Title": "Geography and places",
+      "Title": "Geografia e luoghi",
       "Categories": [
         {
           "ID": 24992,
@@ -464,6 +472,10 @@
         {
           "ID": 60716,
           "Title": "Categoria:Urbanistica"
+        },
+        {
+          "ID": 86638,
+          "Title": "Categoria:Monumenti"
         },
         {
           "ID": 463693,
@@ -478,6 +490,10 @@
         {
           "ID": 3198,
           "Title": "Parigi"
+        },
+        {
+          "ID": 127212,
+          "Title": "Piramide"
         },
         {
           "ID": 217185,
@@ -511,7 +527,7 @@
     },
     {
       "ID": 2147483639,
-      "Title": "Health and fitness",
+      "Title": "Salute e benessere",
       "Categories": [
         {
           "ID": 27684,
@@ -551,7 +567,7 @@
     },
     {
       "ID": 2147483640,
-      "Title": "History and events",
+      "Title": "Storia ed eventi",
       "Categories": [
         {
           "ID": 24848,
@@ -615,7 +631,7 @@
     },
     {
       "ID": 2147483641,
-      "Title": "Mathematics and logic",
+      "Title": "Matematica e logica",
       "Categories": [
         {
           "ID": 24852,
@@ -647,7 +663,7 @@
     },
     {
       "ID": 2147483642,
-      "Title": "Nature and physical sciences",
+      "Title": "Scienze naturali e fisiche",
       "Categories": [
         {
           "ID": 24566,
@@ -668,6 +684,10 @@
         {
           "ID": 52701,
           "Title": "Categoria:Catastrofi"
+        },
+        {
+          "ID": 269321,
+          "Title": "Categoria:Scienze dello spazio"
         },
         {
           "ID": 1106438,
@@ -691,6 +711,10 @@
         }
       ],
       "Articles": [
+        {
+          "ID": 80706,
+          "Title": "Phoenix (botanica)"
+        },
         {
           "ID": 86174,
           "Title": "Alces alces"
@@ -843,7 +867,7 @@
     },
     {
       "ID": 2147483643,
-      "Title": "People and self",
+      "Title": "Persone e se stessi",
       "Categories": [
         {
           "ID": 27066,
@@ -860,6 +884,14 @@
         {
           "ID": 3097777,
           "Title": "Categoria:Artisti per disciplina"
+        },
+        {
+          "ID": 5286346,
+          "Title": "Categoria:Donne"
+        },
+        {
+          "ID": 5300176,
+          "Title": "Categoria:Attività relative alla cura delle persone"
         }
       ],
       "Articles": [
@@ -1067,7 +1099,7 @@
     },
     {
       "ID": 2147483644,
-      "Title": "Philosophy and thinking",
+      "Title": "Filosofia e pensiero",
       "Categories": [
         {
           "ID": 24638,
@@ -1123,19 +1155,11 @@
     },
     {
       "ID": 2147483645,
-      "Title": "Religion and belief systems",
+      "Title": "Religioni e credenze",
       "Categories": [
-        {
-          "ID": 33147,
-          "Title": "Categoria:Mitologia"
-        },
         {
           "ID": 55906,
           "Title": "Categoria:Religione"
-        },
-        {
-          "ID": 210754,
-          "Title": "Categoria:Posizioni e teorie filosofiche"
         },
         {
           "ID": 250486,
@@ -1154,8 +1178,16 @@
           "Title": "Categoria:Antropologia religiosa"
         },
         {
+          "ID": 2817978,
+          "Title": "Categoria:Secolarizzazione"
+        },
+        {
           "ID": 3283925,
           "Title": "Categoria:Controversie religiose"
+        },
+        {
+          "ID": 3474584,
+          "Title": "Categoria:Personalità religiose"
         },
         {
           "ID": 5404155,
@@ -1165,17 +1197,11 @@
           "ID": 7701897,
           "Title": "Categoria:Critiche alla religione"
         }
-      ],
-      "Articles": [
-        {
-          "ID": 2928522,
-          "Title": "Gola (ingordigia)"
-        }
       ]
     },
     {
       "ID": 2147483646,
-      "Title": "Society and social sciences",
+      "Title": "Società e scienze sociali",
       "Categories": [
         {
           "ID": 43272,
@@ -1811,7 +1837,7 @@
     },
     {
       "ID": 2147483647,
-      "Title": "Technology and applied sciences",
+      "Title": "Tecnologie e scienze applicate",
       "Categories": [
         {
           "ID": 24695,

@@ -96,6 +96,10 @@
           "Title": "AC/DC"
         },
         {
+          "ID": 77957,
+          "Title": "Realizam (umetnost)"
+        },
+        {
           "ID": 78562,
           "Title": "Realizam (književnost)"
         },
@@ -144,6 +148,10 @@
           "Title": "Pasta"
         },
         {
+          "ID": 220027,
+          "Title": "Bigfoot"
+        },
+        {
           "ID": 256627,
           "Title": "Giuditta Pasta"
         },
@@ -190,6 +198,10 @@
           "Title": "Kategorija:Geografija"
         },
         {
+          "ID": 46933,
+          "Title": "Kategorija:Spomenici"
+        },
+        {
           "ID": 72871,
           "Title": "Kategorija:Urbanizam"
         },
@@ -222,6 +234,10 @@
         {
           "ID": 25415,
           "Title": "Queensland"
+        },
+        {
+          "ID": 40686,
+          "Title": "Piramide"
         },
         {
           "ID": 643485,
@@ -512,6 +528,10 @@
           "Title": "Kategorija:Svakodnevica"
         },
         {
+          "ID": 189526,
+          "Title": "Kategorija:Žene"
+        },
+        {
           "ID": 216838,
           "Title": "Kategorija:Sopstvo"
         },
@@ -728,10 +748,6 @@
           "Title": "Kategorija:Religija"
         },
         {
-          "ID": 2540,
-          "Title": "Kategorija:Mitologija"
-        },
-        {
           "ID": 55682,
           "Title": "Kategorija:Sekularizam"
         },
@@ -746,16 +762,6 @@
         {
           "ID": 222556,
           "Title": "Kategorija:Nonteizam"
-        },
-        {
-          "ID": 3555629,
-          "Title": "Kategorija:Filozofske teorije"
-        }
-      ],
-      "Articles": [
-        {
-          "ID": 4615633,
-          "Title": "Proždrljivost"
         }
       ]
     },

@@ -108,6 +108,10 @@
           "Title": "Biskvito"
         },
         {
+          "ID": 52331,
+          "Title": "Saskvaĉo"
+        },
+        {
           "ID": 54056,
           "Title": "Fraŭleco"
         },
@@ -208,6 +212,10 @@
           "Title": "Finna pano"
         },
         {
+          "ID": 555989,
+          "Title": "Realismo (arto)"
+        },
+        {
           "ID": 562764,
           "Title": "Babi pangang"
         },
@@ -242,6 +250,10 @@
           "Title": "Kategorio:Geomorfologio"
         },
         {
+          "ID": 284082,
+          "Title": "Kategorio:Monumentoj"
+        },
+        {
           "ID": 392311,
           "Title": "Kategorio:Geografiaj lokoj"
         },
@@ -262,6 +274,10 @@
         {
           "ID": 7048,
           "Title": "Venecio"
+        },
+        {
+          "ID": 23614,
+          "Title": "Piramido"
         },
         {
           "ID": 34368,
@@ -594,6 +610,10 @@
           "Title": "Ĥasi-pino"
         },
         {
+          "ID": 432418,
+          "Title": "Hegemoniaj ventoj"
+        },
+        {
           "ID": 516731,
           "Title": "Ĝermado"
         },
@@ -611,6 +631,10 @@
       "ID": 2147483643,
       "Title": "People and self",
       "Categories": [
+        {
+          "ID": 66283,
+          "Title": "Kategorio:Virinoj"
+        },
         {
           "ID": 131041,
           "Title": "Kategorio:Familiaj nomoj"
@@ -852,14 +876,6 @@
           "Title": "Kategorio:Religio"
         },
         {
-          "ID": 23350,
-          "Title": "Kategorio:Mitologio"
-        },
-        {
-          "ID": 83364,
-          "Title": "Kategorio:Filozofiaj teorioj"
-        },
-        {
           "ID": 434541,
           "Title": "Kategorio:Religiaj kredoj, tradicioj kaj movadoj"
         },
@@ -887,12 +903,6 @@
           "ID": 483505,
           "Title": "Kategorio:Neteismo"
         }
-      ],
-      "Articles": [
-        {
-          "ID": 212837,
-          "Title": "Glutemeco"
-        }
       ]
     },
     {
@@ -918,6 +928,10 @@
         {
           "ID": 293001,
           "Title": "Kategorio:Socia scienco"
+        },
+        {
+          "ID": 490376,
+          "Title": "Kategorio:Universitatoj kaj altlernejoj laŭ landoj"
         }
       ],
       "Articles": [

@@ -284,6 +284,10 @@
           "Title": "Fellation"
         },
         {
+          "ID": 2834465,
+          "Title": "Bigfoot"
+        },
+        {
           "ID": 2884020,
           "Title": "Opéra (pâtisserie)"
         },
@@ -410,6 +414,10 @@
         {
           "ID": 5893812,
           "Title": "Pépite de chocolat"
+        },
+        {
+          "ID": 5953424,
+          "Title": "Réalisme (arts)"
         },
         {
           "ID": 5994653,
@@ -564,6 +572,10 @@
           "Title": "Mendiant en chocolat"
         },
         {
+          "ID": 10422394,
+          "Title": "Croûte de riz"
+        },
+        {
           "ID": 10553031,
           "Title": "Caldo gallego"
         },
@@ -626,6 +638,10 @@
           "Title": "Catégorie:Urbanisme"
         },
         {
+          "ID": 87354,
+          "Title": "Catégorie:Monument"
+        },
+        {
           "ID": 182884,
           "Title": "Catégorie:Géomorphologie"
         },
@@ -658,6 +674,10 @@
         {
           "ID": 681159,
           "Title": "Paris"
+        },
+        {
+          "ID": 916554,
+          "Title": "Pyramide (architecture)"
         },
         {
           "ID": 1094841,
@@ -720,10 +740,6 @@
         {
           "ID": 82297,
           "Title": "Catégorie:Histoire"
-        },
-        {
-          "ID": 83792,
-          "Title": "Catégorie:Histoire nationale"
         },
         {
           "ID": 399764,
@@ -964,6 +980,10 @@
           "Title": "Oranger"
         },
         {
+          "ID": 243191,
+          "Title": "Phoenix (palmier)"
+        },
+        {
           "ID": 256612,
           "Title": "Atèle"
         },
@@ -1092,6 +1112,10 @@
           "Title": "Grenouille arboricole"
         },
         {
+          "ID": 4889544,
+          "Title": "Vent dominant"
+        },
+        {
           "ID": 5184228,
           "Title": "Fragaria ×ananassa"
         },
@@ -1124,6 +1148,10 @@
         {
           "ID": 87521,
           "Title": "Catégorie:Vie quotidienne"
+        },
+        {
+          "ID": 157847,
+          "Title": "Catégorie:Femme"
         },
         {
           "ID": 327250,
@@ -1422,10 +1450,6 @@
       "Title": "Religion and belief systems",
       "Categories": [
         {
-          "ID": 83151,
-          "Title": "Catégorie:Mythologie"
-        },
-        {
           "ID": 84974,
           "Title": "Catégorie:Religion"
         },
@@ -1452,12 +1476,10 @@
         {
           "ID": 1830799,
           "Title": "Catégorie:Controverse en religion"
-        }
-      ],
-      "Articles": [
+        },
         {
-          "ID": 317079,
-          "Title": "Gourmandise"
+          "ID": 6200508,
+          "Title": "Catégorie:Personnalité religieuse"
         }
       ]
     },
@@ -1476,6 +1498,10 @@
         {
           "ID": 144879,
           "Title": "Catégorie:Féminisme"
+        },
+        {
+          "ID": 1111669,
+          "Title": "Catégorie:Établissement d'enseignement supérieur par pays"
         }
       ],
       "Articles": [

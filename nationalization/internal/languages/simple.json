@@ -72,6 +72,10 @@
           "Title": "Led Zeppelin"
         },
         {
+          "ID": 9552,
+          "Title": "Bigfoot"
+        },
+        {
           "ID": 12300,
           "Title": "Chocolate"
         },
@@ -294,6 +298,10 @@
           "Title": "Category:Geography"
         },
         {
+          "ID": 79398,
+          "Title": "Category:Monuments and memorials"
+        },
+        {
           "ID": 160913,
           "Title": "Category:Geography-related lists"
         },
@@ -318,6 +326,10 @@
         {
           "ID": 5198,
           "Title": "Venice"
+        },
+        {
+          "ID": 8616,
+          "Title": "Pyramid"
         },
         {
           "ID": 20380,
@@ -682,6 +694,10 @@
         {
           "ID": 305860,
           "Title": "Category:Movie characters"
+        },
+        {
+          "ID": 308913,
+          "Title": "Category:Women"
         }
       ],
       "Articles": [
@@ -908,10 +924,6 @@
           "Title": "Category:Religion"
         },
         {
-          "ID": 6544,
-          "Title": "Category:Mythology"
-        },
-        {
           "ID": 186695,
           "Title": "Category:Indian religions"
         },
@@ -922,12 +934,6 @@
         {
           "ID": 290221,
           "Title": "Category:Secularism"
-        }
-      ],
-      "Articles": [
-        {
-          "ID": 19812,
-          "Title": "Gluttony"
         }
       ]
     },
@@ -954,6 +960,10 @@
         {
           "ID": 67541,
           "Title": "Category:Rights"
+        },
+        {
+          "ID": 103233,
+          "Title": "Category:Colleges and universities by country"
         }
       ],
       "Articles": [

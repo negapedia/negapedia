@@ -104,6 +104,10 @@
           "Title": "AC/DC"
         },
         {
+          "ID": 55027,
+          "Title": "Troedfawr"
+        },
+        {
           "ID": 65193,
           "Title": "Ysbryd"
         },
@@ -130,6 +134,10 @@
         {
           "ID": 96719,
           "Title": "Hogwarts"
+        },
+        {
+          "ID": 104576,
+          "Title": "Realaeth (celfyddyd)"
         },
         {
           "ID": 136910,
@@ -172,6 +180,10 @@
         {
           "ID": 69720,
           "Title": "Categori:Lleoedd"
+        },
+        {
+          "ID": 94755,
+          "Title": "Categori:Cofebion"
         }
       ],
       "Articles": [
@@ -194,6 +206,10 @@
         {
           "ID": 25340,
           "Title": "Canberra"
+        },
+        {
+          "ID": 28194,
+          "Title": "Pyramid"
         },
         {
           "ID": 100738,
@@ -640,10 +656,6 @@
       "Title": "Religion and belief systems",
       "Categories": [
         {
-          "ID": 12882,
-          "Title": "Categori:Mytholeg"
-        },
-        {
           "ID": 13512,
           "Title": "Categori:Cred"
         },
@@ -662,10 +674,6 @@
         {
           "ID": 31869,
           "Title": "Categori:Anthropoleg grefyddol"
-        },
-        {
-          "ID": 169814,
-          "Title": "Categori:Damcaniaethau athronyddol"
         }
       ]
     },

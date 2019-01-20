@@ -60,6 +60,10 @@
           "Title": "Kahva"
         },
         {
+          "ID": 10540,
+          "Title": "Bigfoot"
+        },
+        {
           "ID": 10890,
           "Title": "Bosanski lonac"
         },
@@ -144,6 +148,10 @@
         {
           "ID": 92673,
           "Title": "Kategorija:Spiskovi vezani za geografiju"
+        },
+        {
+          "ID": 143852,
+          "Title": "Kategorija:Spomenici"
         }
       ],
       "Articles": [
@@ -162,6 +170,10 @@
         {
           "ID": 14454,
           "Title": "Mjanmar"
+        },
+        {
+          "ID": 19517,
+          "Title": "Piramida (arhitektura)"
         },
         {
           "ID": 150368,
@@ -590,10 +602,6 @@
         {
           "ID": 12515,
           "Title": "Kategorija:Religije"
-        },
-        {
-          "ID": 16727,
-          "Title": "Kategorija:Mitologija"
         }
       ]
     },
@@ -612,6 +620,10 @@
         {
           "ID": 46013,
           "Title": "Kategorija:Društvo"
+        },
+        {
+          "ID": 77711,
+          "Title": "Kategorija:Univerziteti i koledži po državama"
         },
         {
           "ID": 82578,

@@ -166,6 +166,10 @@
           "Title": "Kategorija:Geografija"
         },
         {
+          "ID": 27052,
+          "Title": "Kategorija:Spomeniki"
+        },
+        {
           "ID": 33782,
           "Title": "Kategorija:Urbanizem"
         },
@@ -202,6 +206,10 @@
         {
           "ID": 87191,
           "Title": "Queensland"
+        },
+        {
+          "ID": 111439,
+          "Title": "Piramida"
         }
       ]
     },
@@ -476,6 +484,10 @@
       "Title": "People and self",
       "Categories": [
         {
+          "ID": 31465,
+          "Title": "Kategorija:Ženske"
+        },
+        {
           "ID": 52112,
           "Title": "Kategorija:Ljudje"
         },
@@ -692,10 +704,6 @@
           "Title": "Kategorija:Religija"
         },
         {
-          "ID": 15194,
-          "Title": "Kategorija:Mitologija"
-        },
-        {
           "ID": 120721,
           "Title": "Kategorija:Prepričanje"
         },
@@ -710,10 +718,6 @@
         {
           "ID": 170425,
           "Title": "Kategorija:Neteizem"
-        },
-        {
-          "ID": 171457,
-          "Title": "Kategorija:Filozofske teorije"
         },
         {
           "ID": 171483,
@@ -744,6 +748,10 @@
         {
           "ID": 52113,
           "Title": "Kategorija:Pravice"
+        },
+        {
+          "ID": 115654,
+          "Title": "Kategorija:Visoko šolstvo po državah"
         }
       ],
       "Articles": [

@@ -188,6 +188,10 @@
           "Title": "The World Factbook"
         },
         {
+          "ID": 271472,
+          "Title": "Bigfoot"
+        },
+        {
           "ID": 291794,
           "Title": "Bryllupskage"
         },
@@ -286,6 +290,10 @@
           "Title": "Kategori:Byplanlægning"
         },
         {
+          "ID": 107672,
+          "Title": "Kategori:Monumenter"
+        },
+        {
           "ID": 301229,
           "Title": "Kategori:Steder"
         },
@@ -314,6 +322,10 @@
         {
           "ID": 325358,
           "Title": "Paris"
+        },
+        {
+          "ID": 727644,
+          "Title": "Pyramide (konstruktion)"
         },
         {
           "ID": 759382,
@@ -572,6 +584,10 @@
           "Title": "Havejordbær"
         },
         {
+          "ID": 174552,
+          "Title": "Daddelpalme"
+        },
+        {
           "ID": 251306,
           "Title": "Bevægeapparatet"
         },
@@ -608,6 +624,10 @@
         {
           "ID": 47001,
           "Title": "Kategori:Efternavne"
+        },
+        {
+          "ID": 209104,
+          "Title": "Kategori:Kvinder"
         },
         {
           "ID": 232153,
@@ -822,22 +842,12 @@
           "Title": "Kategori:Religion"
         },
         {
-          "ID": 32562,
-          "Title": "Kategori:Mytologi"
-        },
-        {
           "ID": 886796,
           "Title": "Kategori:Religioner"
         },
         {
           "ID": 971076,
           "Title": "Kategori:Tro"
-        }
-      ],
-      "Articles": [
-        {
-          "ID": 371277,
-          "Title": "Fråseri"
         }
       ]
     },

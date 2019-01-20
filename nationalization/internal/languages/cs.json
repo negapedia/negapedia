@@ -156,6 +156,10 @@
           "Title": "Hot dog"
         },
         {
+          "ID": 291455,
+          "Title": "Bigfoot"
+        },
+        {
           "ID": 296320,
           "Title": "The World Factbook"
         },
@@ -290,6 +294,10 @@
           "Title": "Kategorie:Urbanismus"
         },
         {
+          "ID": 116453,
+          "Title": "Kategorie:Pomníky a památníky"
+        },
+        {
           "ID": 222641,
           "Title": "Kategorie:Geografické seznamy"
         },
@@ -314,6 +322,10 @@
         {
           "ID": 37453,
           "Title": "Canberra"
+        },
+        {
+          "ID": 37470,
+          "Title": "Pyramida"
         },
         {
           "ID": 182446,
@@ -578,6 +590,10 @@
           "Title": "Mango"
         },
         {
+          "ID": 496137,
+          "Title": "Datlovník"
+        },
+        {
           "ID": 524033,
           "Title": "Klíčení semene"
         },
@@ -638,6 +654,10 @@
         {
           "ID": 77279,
           "Title": "Kategorie:Příjmení"
+        },
+        {
+          "ID": 290343,
+          "Title": "Kategorie:Ženy"
         }
       ],
       "Articles": [
@@ -874,16 +894,6 @@
         {
           "ID": 1156332,
           "Title": "Kategorie:Kritika náboženství"
-        },
-        {
-          "ID": 1384799,
-          "Title": "Kategorie:Mýty a pověsti"
-        }
-      ],
-      "Articles": [
-        {
-          "ID": 237727,
-          "Title": "Nestřídmost"
         }
       ]
     },
@@ -902,6 +912,10 @@
         {
           "ID": 22623,
           "Title": "Kategorie:Feminismus"
+        },
+        {
+          "ID": 218687,
+          "Title": "Kategorie:Vysoké školy podle zemí"
         },
         {
           "ID": 1365109,

@@ -89,9 +89,9 @@ func langlinks(lang string, from nationalization.Page, namespace int) (lang2Page
 		return
 	case page.ID != from.ID:
 		fmt.Printf("Changed ID of %v in %v\n", from.Title, lang)
-	default:
-		lang2Page[lang] = nationalization.Page{ID: page.ID, Title: page.Title}
 	}
+
+	lang2Page[lang] = nationalization.Page{ID: page.ID, Title: page.Title}
 
 	for _, langLink := range page.LangLinks {
 		p := get(queryFrom(langLinksBase, langLink.Lang, []interface{}{langLink.Title}))
@@ -118,15 +118,14 @@ func mynationalization(lang string) (result *nationalization.Nationalization) {
 
 	if err == nil {
 		for _, t := range n.Topics {
-			sort.Slice(t.Categories, func(i, j int) bool { return t.Categories[i].ID < t.Categories[j].ID })
-			sort.Slice(t.Articles, func(i, j int) bool { return t.Articles[i].ID < t.Articles[j].ID })
+			sortByID(t.Categories)
+			sortByID(t.Articles)
 		}
-		sort.Slice(n.Filters, func(i, j int) bool { return n.Filters[i].ID < n.Filters[j].ID })
+		sortByID(n.Filters)
 	} else {
 		n, _ = nationalization.New("en")
 		n.Language = lang
 		for i := range n.Topics {
-			n.Topics[i].Abstract = ""
 			n.Topics[i].Categories = nil
 			n.Topics[i].Articles = nil
 		}
@@ -151,6 +150,10 @@ func mynationalization(lang string) (result *nationalization.Nationalization) {
 	return
 }
 
+func sortByID(pages []nationalization.Page) {
+	sort.Slice(pages, func(i, j int) bool { return pages[i].ID < pages[j].ID })
+}
+
 func queryFrom(base string, lang string, infos []interface{}) (query string) {
 	infoString := make([]string, len(infos))
 	for i, info := range infos {
@@ -173,8 +176,8 @@ func get(query string) (page mayMissingPage) {
 		case err != nil:
 			page.Missing = true
 		case len(pd.Query.Pages) == 0:
-			err = errors.Errorf("No pages for the following query: %v", query)
 			page.Missing = true
+			return
 		default:
 			page = pd.Query.Pages[0]
 			_query2PageCache[query] = page

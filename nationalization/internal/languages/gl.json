@@ -68,6 +68,10 @@
           "Title": "Ovo (alimento)"
         },
         {
+          "ID": 20734,
+          "Title": "Realismo"
+        },
+        {
           "ID": 28005,
           "Title": "Dinosaur Jr."
         },
@@ -158,6 +162,10 @@
         {
           "ID": 187008,
           "Title": "Judas (canción)"
+        },
+        {
+          "ID": 207360,
+          "Title": "Pé grande"
         },
         {
           "ID": 225730,
@@ -264,6 +272,10 @@
         {
           "ID": 108147,
           "Title": "Categoría:Xeomorfoloxía"
+        },
+        {
+          "ID": 260111,
+          "Title": "Categoría:Monumentos"
         }
       ],
       "Articles": [
@@ -286,6 +298,10 @@
         {
           "ID": 78809,
           "Title": "Queensland"
+        },
+        {
+          "ID": 168928,
+          "Title": "Pirámide (construción)"
         }
       ]
     },
@@ -528,6 +544,10 @@
           "Title": "Urina"
         },
         {
+          "ID": 225972,
+          "Title": "Phoenix (xénero)"
+        },
+        {
           "ID": 234973,
           "Title": "Lima (froita)"
         },
@@ -572,6 +592,10 @@
         {
           "ID": 185171,
           "Title": "Categoría:Apelidos"
+        },
+        {
+          "ID": 260013,
+          "Title": "Categoría:Muller"
         }
       ],
       "Articles": [
@@ -746,10 +770,6 @@
       "Title": "Religion and belief systems",
       "Categories": [
         {
-          "ID": 3905,
-          "Title": "Categoría:Mitoloxía"
-        },
-        {
           "ID": 8709,
           "Title": "Categoría:Relixión"
         },
@@ -760,12 +780,6 @@
         {
           "ID": 320931,
           "Title": "Categoría:Non teísmo"
-        }
-      ],
-      "Articles": [
-        {
-          "ID": 323832,
-          "Title": "Gula"
         }
       ]
     },

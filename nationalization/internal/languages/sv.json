@@ -168,6 +168,10 @@
           "Title": "Skinka"
         },
         {
+          "ID": 107589,
+          "Title": "Bigfoot"
+        },
+        {
           "ID": 117530,
           "Title": "Vit choklad"
         },
@@ -346,6 +350,10 @@
         {
           "ID": 8021638,
           "Title": "Eurovision Song Contest 2018"
+        },
+        {
+          "ID": 8204817,
+          "Title": "Realism (bildkonst)"
         }
       ]
     },
@@ -372,6 +380,10 @@
         {
           "ID": 1444531,
           "Title": "Kategori:Platser"
+        },
+        {
+          "ID": 3902103,
+          "Title": "Kategori:Minnesmärken"
         }
       ],
       "Articles": [
@@ -398,6 +410,10 @@
         {
           "ID": 123711,
           "Title": "Carlsbad, New Mexico"
+        },
+        {
+          "ID": 401703,
+          "Title": "Pyramid"
         },
         {
           "ID": 6634416,
@@ -680,6 +696,10 @@
           "Title": "Komplementfärg"
         },
         {
+          "ID": 436700,
+          "Title": "Förhärskande vind"
+        },
+        {
           "ID": 437075,
           "Title": "Spindelapor"
         },
@@ -726,6 +746,10 @@
         {
           "ID": 2482046,
           "Title": "Sula (släkte)"
+        },
+        {
+          "ID": 3994136,
+          "Title": "Phoenix (växter)"
         },
         {
           "ID": 4122521,
@@ -788,6 +812,10 @@
         {
           "ID": 541215,
           "Title": "Kategori:Filmfigurer"
+        },
+        {
+          "ID": 865075,
+          "Title": "Kategori:Kvinnor"
         },
         {
           "ID": 4908798,
@@ -1050,20 +1078,12 @@
       "Title": "Religion and belief systems",
       "Categories": [
         {
-          "ID": 51011,
-          "Title": "Kategori:Mytologi"
-        },
-        {
           "ID": 52023,
           "Title": "Kategori:Religion"
         },
         {
           "ID": 242924,
           "Title": "Kategori:Religioner"
-        },
-        {
-          "ID": 405594,
-          "Title": "Kategori:Filosofiska teorier"
         },
         {
           "ID": 536491,
@@ -1080,12 +1100,6 @@
         {
           "ID": 8088485,
           "Title": "Kategori:Religiösa kontroverser"
-        }
-      ],
-      "Articles": [
-        {
-          "ID": 445810,
-          "Title": "Frosseri"
         }
       ]
     },
@@ -1112,6 +1126,10 @@
         {
           "ID": 695396,
           "Title": "Kategori:Rättigheter"
+        },
+        {
+          "ID": 1390560,
+          "Title": "Kategori:Universitet och högskolor efter land"
         }
       ],
       "Articles": [
