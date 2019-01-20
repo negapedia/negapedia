@@ -8,6 +8,10 @@ func (v View) transformPage(i Info) interface{} {
 	p := viewInfo(i)
 	p.Page.Abstract = smartTruncate(p.Page.Abstract, 512)
 
+	if p.Page.Type == _topic {
+		p.Page.Title = Topic.UniversalFullFrom(p.Page.ID)
+	}
+
 	return &struct {
 		mData
 		CanonicalLink

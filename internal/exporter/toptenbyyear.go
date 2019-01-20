@@ -9,17 +9,19 @@ import (
 )
 
 func (v View) transformTopTen(r SplittedAnnualIndexRanking) interface{} {
-	title := fmt.Sprint("Top Ten - ", strings.Title(r.Index))
+	span := fmt.Sprint(r.Year)
+	title := span
+	if r.Year == 0 {
+		span = "all"
+		title = "All Time"
+	}
+
+	title += " Top Ten of " + strings.Title(r.Index)
+
 	topic := "all"
 	if r.TopicID != 0 {
 		topic = Topic.UniversalFrom(r.TopicID)
-		title += " - " + Topic.FullFrom(v.model.Lang(), r.TopicID)
-	}
-	span := fmt.Sprint(r.Year)
-	if r.Year == 0 {
-		span = "all"
-	} else {
-		title += " - " + span
+		title += " for " + strings.Title(topic)
 	}
 
 	for i, p := range r.Ranking {

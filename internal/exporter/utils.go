@@ -16,14 +16,13 @@ func init() {
 	}
 	type title struct{ Title, FullTitle string }
 	ID2Title := map[langID]title{}
-	for _, lang := range nationalization.List() {
-		data, err := nationalization.New(lang)
-		if err != nil {
-			panic(err)
-		}
-		for _, topic := range data.Topics {
-			ID2Title[langID{lang, topic.ID}] = title{strings.ToLower(strings.Split(topic.Title, " ")[0]), topic.Title}
-		}
+	lang := "en"
+	data, err := nationalization.New(lang)
+	if err != nil {
+		panic(err)
+	}
+	for _, topic := range data.Topics {
+		ID2Title[langID{lang, topic.ID}] = title{strings.ToLower(strings.Split(topic.Title, " ")[0]), topic.Title}
 	}
 
 	Topic = func(lang string, ID uint32) (topic, fullTopic string) {
@@ -33,16 +32,6 @@ func init() {
 }
 
 type topicData func(lang string, ID uint32) (topic, fullTopic string)
-
-func (d topicData) From(lang string, ID uint32) string {
-	topic, _ := d(lang, ID)
-	return topic
-}
-
-func (d topicData) FullFrom(lang string, ID uint32) string {
-	_, topic := d(lang, ID)
-	return topic
-}
 
 func (d topicData) UniversalFrom(ID uint32) string {
 	topic, _ := d("en", ID)
