@@ -36,7 +36,7 @@ func (p preprocessor) exportCSV(ctx context.Context, articles <-chan article, bo
 
 		for _, t := range p.Topics { //dump topics
 			select {
-			case csvPageChan <- &csvPage{ID: t.ID, Title: t.Title, Abstract: t.Abstract}:
+			case csvPageChan <- &csvPage{ID: t.ID, Title: t.Title}:
 			//proceed
 			case <-ctx.Done():
 				return
