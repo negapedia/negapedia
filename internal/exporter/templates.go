@@ -6,6 +6,9 @@ import (
 	"net/http"
 	"path/filepath"
 	"regexp"
+	"time"
+
+	"github.com/pkg/errors"
 
 	"github.com/ebonetti/overpedia/nationalization"
 )
@@ -31,16 +34,29 @@ const (
 func addHomepages(t *template.Template, baseDomain string) (err error) {
 	r := regexp.MustCompile(pattern)
 
+	var webpage []byte
+
 	defaultHomepageTemplate := baseHomepageTemplate
 	//Default to English homepage template if exist
-	if webpage, err := get("http://en." + baseDomain); err == nil {
+	webpage, err = stubbornGet("http://en." + baseDomain)
+	switch {
+	case err != nil:
+		return
+	case !r.Match(webpage):
+		return errors.New("English negapedia homepage doesn't seem to contain graph data")
+	default:
 		defaultHomepageTemplate = r.ReplaceAllString(string(webpage), baseHomepageTemplate)
 	}
 
 	for _, lang := range nationalization.List() {
-		homepageTemplate := defaultHomepageTemplate
-		if webpage, err := get("http://" + lang + "." + baseDomain); err == nil {
-			//replace old data with template
+		homepageTemplate := ""
+		webpage, err = stubbornGet("http://" + lang + "." + baseDomain)
+		switch {
+		case err != nil:
+			return
+		case !r.Match(webpage):
+			homepageTemplate = defaultHomepageTemplate
+		default:
 			homepageTemplate = r.ReplaceAllString(string(webpage), baseHomepageTemplate)
 		}
 
@@ -53,6 +69,15 @@ func addHomepages(t *template.Template, baseDomain string) (err error) {
 
 func nameHomepage(lang string) string {
 	return lang + "homepage.html"
+}
+
+func stubbornGet(query string) (body []byte, err error) {
+	for t := time.Second; t < time.Minute; t = t * 2 { //exponential backoff
+		if body, err = get(query); err == nil {
+			return
+		}
+	}
+	return
 }
 
 func get(query string) (body []byte, err error) {
