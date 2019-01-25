@@ -3,7 +3,9 @@ package exporter
 import (
 	"html/template"
 	"io/ioutil"
+	"net"
 	"net/http"
+	"net/url"
 	"path/filepath"
 	"regexp"
 	"time"
@@ -82,9 +84,20 @@ func stubbornGet(query string) (body []byte, err error) {
 
 func get(query string) (body []byte, err error) {
 	resp, err := http.Get(query)
+
+	//Return if it's a dial tcp lookup error
+	if err, ok := err.(*url.Error); ok {
+		if err, ok := err.Err.(*net.OpError); ok {
+			if _, ok := err.Err.(*net.DNSError); ok {
+				return nil, nil
+			}
+		}
+	}
+
 	if err != nil {
 		return
 	}
+
 	defer resp.Body.Close()
 
 	return ioutil.ReadAll(resp.Body)
