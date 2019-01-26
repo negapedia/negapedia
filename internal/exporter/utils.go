@@ -55,7 +55,7 @@ func pageUrl(p Page) string {
 		p.Title = p.Title[:245]
 		fallthrough
 	default:
-		return "../articles/" + urlsRules.Replace(p.Title)[:240] + ".html"
+		return "../articles/" + urlsRules.Replace(p.Title) + ".html"
 	}
 }
 
