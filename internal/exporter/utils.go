@@ -46,13 +46,16 @@ func (d topicData) UniversalFullFrom(ID uint32) string {
 var urlsRules = strings.NewReplacer(" ", "_", "/", "∕" /*<-- http://www.fileformat.info/info/unicode/char/2215/index.htm*/)
 
 func pageUrl(p Page) string {
-	switch p.Type {
-	case _homepage:
+	switch {
+	case p.Type == _homepage:
 		return "../index.html"
-	case _topic:
+	case p.Type == _topic:
 		return "../categories/" + urlsRules.Replace(Topic.UniversalFullFrom(p.ID)) + ".html"
+	case len(p.Title) > 245: //truncate to 245 chars
+		p.Title = p.Title[:245]
+		fallthrough
 	default:
-		return "../articles/" + urlsRules.Replace(p.Title) + ".html"
+		return "../articles/" + urlsRules.Replace(p.Title)[:240] + ".html"
 	}
 }
 
