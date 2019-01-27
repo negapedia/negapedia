@@ -51,8 +51,15 @@ func pageUrl(p Page) string {
 		return "../index.html"
 	case p.Type == _topic:
 		return "../categories/" + urlsRules.Replace(Topic.UniversalFullFrom(p.ID)) + ".html"
-	case len(p.Title) > 245: //truncate to 245 chars
-		p.Title = p.Title[:245]
+	case len(p.Title) > 245: //truncate to 245 chars or less
+		title := p.Title
+		for index := range title { //range over runes - each may span over multiple characters
+			if index < 246 {
+				p.Title = title[:index]
+			} else {
+				break
+			}
+		}
 		fallthrough
 	default:
 		return "../articles/" + urlsRules.Replace(p.Title) + ".html"
