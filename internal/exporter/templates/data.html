@@ -1,3 +1,5 @@
 var NEGARANKS = [{{range .Rankings}}
     [{{.Rank}},{{.Percentile}},{{.DensePercentile}},{{.Index}},{{.Among}},{{.Span}},{{.Value}}],{{end}}
 ];
+
+var minWiki = {{.BoundingYears.MinTimestamp.Unix}}, maxWiki = {{.BoundingYears.MaxTimestamp.Unix}};
