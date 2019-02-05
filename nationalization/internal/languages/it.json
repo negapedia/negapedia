@@ -38,12 +38,28 @@
           "Title": "Categoria:Hobby"
         },
         {
+          "ID": 55301,
+          "Title": "Categoria:Alimentazione"
+        },
+        {
+          "ID": 603796,
+          "Title": "Categoria:Portate di cucina"
+        },
+        {
           "ID": 1494108,
           "Title": "Categoria:Alimenti"
         },
         {
           "ID": 2047954,
           "Title": "Categoria:Cultura"
+        },
+        {
+          "ID": 5270770,
+          "Title": "Categoria:Nutrizione"
+        },
+        {
+          "ID": 5285024,
+          "Title": "Categoria:Piatti per ingrediente principale"
         },
         {
           "ID": 5299452,
@@ -66,6 +82,10 @@
         {
           "ID": 21771,
           "Title": "CIA World Factbook"
+        },
+        {
+          "ID": 48842,
+          "Title": "Gelato"
         },
         {
           "ID": 71840,
@@ -96,8 +116,20 @@
           "Title": "XXXX"
         },
         {
+          "ID": 128560,
+          "Title": "Salsa (gastronomia)"
+        },
+        {
           "ID": 164729,
           "Title": "Pilsener"
+        },
+        {
+          "ID": 188388,
+          "Title": "Luoghi di Harry Potter"
+        },
+        {
+          "ID": 203951,
+          "Title": "Realtà"
         },
         {
           "ID": 228282,
@@ -134,6 +166,14 @@
         {
           "ID": 285051,
           "Title": "Mostro di Loch Ness"
+        },
+        {
+          "ID": 293549,
+          "Title": "Realismo"
+        },
+        {
+          "ID": 303802,
+          "Title": "Gruppo musicale"
         },
         {
           "ID": 306642,
@@ -184,6 +224,10 @@
           "Title": "Mordred"
         },
         {
+          "ID": 643949,
+          "Title": "Torta"
+        },
+        {
           "ID": 674361,
           "Title": "Pasta con le sarde"
         },
@@ -196,8 +240,16 @@
           "Title": "Taco"
         },
         {
+          "ID": 767182,
+          "Title": "Creature magiche di Harry Potter"
+        },
+        {
           "ID": 832733,
           "Title": "Caffè"
+        },
+        {
+          "ID": 1080363,
+          "Title": "Cracker"
         },
         {
           "ID": 1111475,
@@ -208,12 +260,20 @@
           "Title": "Tipi di pasta"
         },
         {
+          "ID": 1280333,
+          "Title": "Biscotto"
+        },
+        {
           "ID": 1397677,
           "Title": "Rock Band"
         },
         {
           "ID": 1464062,
           "Title": "Spillatura"
+        },
+        {
+          "ID": 1465212,
+          "Title": "Lievito naturale"
         },
         {
           "ID": 1465853,
@@ -268,6 +328,10 @@
           "Title": "Mild ale"
         },
         {
+          "ID": 2034334,
+          "Title": "Rock Band (serie)"
+        },
+        {
           "ID": 2059062,
           "Title": "Pasta alla carbonara"
         },
@@ -276,12 +340,20 @@
           "Title": "Wafer (biscotto)"
         },
         {
+          "ID": 2172673,
+          "Title": "Pirog"
+        },
+        {
           "ID": 2393396,
           "Title": "Pandolce"
         },
         {
           "ID": 2416134,
           "Title": "Realismo (arte)"
+        },
+        {
+          "ID": 2417957,
+          "Title": "Realismo (filosofia)"
         },
         {
           "ID": 2422577,
@@ -294,6 +366,10 @@
         {
           "ID": 2498287,
           "Title": "Biscotto della fortuna"
+        },
+        {
+          "ID": 2660288,
+          "Title": "Cucina francese"
         },
         {
           "ID": 2688093,
@@ -408,6 +484,10 @@
           "Title": "Ginger beer"
         },
         {
+          "ID": 5345976,
+          "Title": "Ripieno"
+        },
+        {
           "ID": 5458533,
           "Title": "Floyd Mayweather Jr. vs. Manny Pacquiao"
         },
@@ -448,6 +528,10 @@
           "Title": "Affari al buio"
         },
         {
+          "ID": 6593304,
+          "Title": "Carne macinata"
+        },
+        {
           "ID": 6930921,
           "Title": "Le armi del cuore"
         },
@@ -484,6 +568,10 @@
         {
           "ID": 785776,
           "Title": "Categoria:Geomorfologia"
+        },
+        {
+          "ID": 4339765,
+          "Title": "Categoria:Design urbano"
         }
       ],
       "Articles": [
@@ -586,6 +674,10 @@
           "Title": "Categoria:Eventi"
         },
         {
+          "ID": 1082646,
+          "Title": "Categoria:Eventi culturali"
+        },
+        {
           "ID": 2979727,
           "Title": "Categoria:Elezioni per anno"
         }
@@ -602,6 +694,10 @@
         {
           "ID": 444617,
           "Title": "Negazionismo dell'Olocausto"
+        },
+        {
+          "ID": 567589,
+          "Title": "Donald Trump"
         },
         {
           "ID": 2941775,
@@ -708,9 +804,17 @@
         {
           "ID": 2630789,
           "Title": "Categoria:Fauna per continente"
+        },
+        {
+          "ID": 4172533,
+          "Title": "Categoria:Sostanze chimiche"
         }
       ],
       "Articles": [
+        {
+          "ID": 39050,
+          "Title": "Rete alimentare"
+        },
         {
           "ID": 80706,
           "Title": "Phoenix (botanica)"
@@ -722,6 +826,10 @@
         {
           "ID": 108207,
           "Title": "Sospensione (chimica)"
+        },
+        {
+          "ID": 110507,
+          "Title": "Muscolo"
         },
         {
           "ID": 146876,
@@ -736,8 +844,16 @@
           "Title": "Citrus limon"
         },
         {
+          "ID": 201191,
+          "Title": "Cucumis melo"
+        },
+        {
           "ID": 208379,
           "Title": "Citrus sinensis"
+        },
+        {
+          "ID": 218211,
+          "Title": "Mangifera indica"
         },
         {
           "ID": 229456,
@@ -746,6 +862,14 @@
         {
           "ID": 304498,
           "Title": "Phoenicopterus"
+        },
+        {
+          "ID": 402043,
+          "Title": "Garrulus"
+        },
+        {
+          "ID": 410848,
+          "Title": "Fragola"
         },
         {
           "ID": 473024,
@@ -758,6 +882,10 @@
         {
           "ID": 503794,
           "Title": "Calendario maya"
+        },
+        {
+          "ID": 514355,
+          "Title": "Eunectes murinus"
         },
         {
           "ID": 565844,
@@ -776,6 +904,10 @@
           "Title": "Scomber scombrus"
         },
         {
+          "ID": 672222,
+          "Title": "Pantherinae"
+        },
+        {
           "ID": 688966,
           "Title": "Zea mays"
         },
@@ -784,8 +916,16 @@
           "Title": "Urina"
         },
         {
+          "ID": 692748,
+          "Title": "Triticum"
+        },
+        {
           "ID": 717903,
           "Title": "Sistema muscolare"
+        },
+        {
+          "ID": 720421,
+          "Title": "Solanum lycopersicum"
         },
         {
           "ID": 851159,
@@ -812,6 +952,10 @@
           "Title": "Pseudacris crucifer"
         },
         {
+          "ID": 1454037,
+          "Title": "Hylidae"
+        },
+        {
           "ID": 1550769,
           "Title": "Riso glutinoso"
         },
@@ -820,12 +964,20 @@
           "Title": "Camelus"
         },
         {
+          "ID": 1807244,
+          "Title": "Lolla"
+        },
+        {
           "ID": 1837854,
           "Title": "Lycosidae"
         },
         {
           "ID": 1885462,
           "Title": "Ateles"
+        },
+        {
+          "ID": 2038863,
+          "Title": "Tentacolo"
         },
         {
           "ID": 2062554,
@@ -852,8 +1004,20 @@
           "Title": "Picea engelmannii"
         },
         {
+          "ID": 2855050,
+          "Title": "Eunectes"
+        },
+        {
+          "ID": 2912456,
+          "Title": "Myrtus"
+        },
+        {
           "ID": 3936510,
           "Title": "Brassica oleracea var. botrytis"
+        },
+        {
+          "ID": 4191284,
+          "Title": "Melone verde"
         },
         {
           "ID": 5876262,
@@ -1008,6 +1172,10 @@
           "Title": "Daniel Radcliffe"
         },
         {
+          "ID": 1147037,
+          "Title": "The Big Bang Theory"
+        },
+        {
           "ID": 1177938,
           "Title": "Ring Lardner"
         },
@@ -1042,6 +1210,10 @@
         {
           "ID": 2126430,
           "Title": "Sigmund Freud"
+        },
+        {
+          "ID": 2236909,
+          "Title": "Twilight (romanzo)"
         },
         {
           "ID": 2266725,
@@ -1088,6 +1260,10 @@
           "Title": "Francis Marion"
         },
         {
+          "ID": 4587630,
+          "Title": "Evan"
+        },
+        {
           "ID": 4692995,
           "Title": "Ted Cruz"
         },
@@ -1126,6 +1302,10 @@
           "Title": "Categoria:Posizioni e teorie filosofiche"
         },
         {
+          "ID": 296610,
+          "Title": "Categoria:Teorie politiche"
+        },
+        {
           "ID": 2662229,
           "Title": "Categoria:Pensiero"
         }
@@ -1144,12 +1324,20 @@
           "Title": "Felicità"
         },
         {
+          "ID": 873212,
+          "Title": "Fede"
+        },
+        {
           "ID": 3412236,
           "Title": "Gaslighting"
         },
         {
           "ID": 4467152,
           "Title": "Effetto Dunning-Kruger"
+        },
+        {
+          "ID": 4941622,
+          "Title": "Fiducia (sentimento)"
         }
       ]
     },
@@ -1208,6 +1396,10 @@
           "Title": "Categoria:Società"
         },
         {
+          "ID": 47358,
+          "Title": "Categoria:Diritto"
+        },
+        {
           "ID": 51051,
           "Title": "Categoria:Scienze sociali"
         },
@@ -1220,8 +1412,16 @@
           "Title": "Categoria:Femminismo"
         },
         {
+          "ID": 363637,
+          "Title": "Categoria:Leggi"
+        },
+        {
           "ID": 1588868,
           "Title": "Categoria:Diritti"
+        },
+        {
+          "ID": 1893253,
+          "Title": "Categoria:Scienze umanistiche"
         }
       ],
       "Articles": [
@@ -1268,6 +1468,10 @@
         {
           "ID": 26691,
           "Title": "Università di Londra"
+        },
+        {
+          "ID": 76054,
+          "Title": "Barbados"
         },
         {
           "ID": 77878,
@@ -1362,6 +1566,10 @@
           "Title": "Programma delle Nazioni Unite per l'ambiente"
         },
         {
+          "ID": 691181,
+          "Title": "Cile"
+        },
+        {
           "ID": 704296,
           "Title": "Università Alexandru Ioan Cuza"
         },
@@ -1376,6 +1584,10 @@
         {
           "ID": 746247,
           "Title": "Taco Bell"
+        },
+        {
+          "ID": 794576,
+          "Title": "Società fiduciaria"
         },
         {
           "ID": 820901,
@@ -1454,6 +1666,10 @@
           "Title": "Capodanno cinese"
         },
         {
+          "ID": 1530964,
+          "Title": "Capodanno lunare"
+        },
+        {
           "ID": 1533253,
           "Title": "Università di Berna"
         },
@@ -1530,6 +1746,10 @@
           "Title": "Fox News Channel"
         },
         {
+          "ID": 1934347,
+          "Title": "Trust (disambigua)"
+        },
+        {
           "ID": 2011592,
           "Title": "Università Ebraica di Gerusalemme"
         },
@@ -1564,6 +1784,10 @@
         {
           "ID": 2504838,
           "Title": "Università di Friburgo in Brisgovia"
+        },
+        {
+          "ID": 2531534,
+          "Title": "Iran"
         },
         {
           "ID": 2539961,
@@ -1646,6 +1870,10 @@
           "Title": "Università di Würzburg"
         },
         {
+          "ID": 3622364,
+          "Title": "Wetlook"
+        },
+        {
           "ID": 3622458,
           "Title": "Università dell'Alabama"
         },
@@ -1688,6 +1916,10 @@
         {
           "ID": 4203117,
           "Title": "Università del Tōhoku"
+        },
+        {
+          "ID": 4293902,
+          "Title": "Pac-12 Conference"
         },
         {
           "ID": 4382097,
@@ -1890,6 +2122,10 @@
       ],
       "Articles": [
         {
+          "ID": 25508,
+          "Title": "Dominio di primo livello"
+        },
+        {
           "ID": 96586,
           "Title": "Muratura"
         },
@@ -1920,6 +2156,10 @@
         {
           "ID": 2122085,
           "Title": "Studio di fattibilità"
+        },
+        {
+          "ID": 2222570,
+          "Title": "Saldatura"
         },
         {
           "ID": 4565280,

@@ -55,7 +55,7 @@ func main() {
 LOOP:
 	for lang, i18n := range lang2NationalizationCache {
 		for _, topic := range i18n.Topics {
-			if len(topic.Categories) < 3 {
+			if len(topic.Categories) < 2 {
 				continue LOOP
 			}
 		}

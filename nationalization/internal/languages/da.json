@@ -14,6 +14,10 @@
           "Title": "Kategori:Sport"
         },
         {
+          "ID": 32569,
+          "Title": "Kategori:Mad og drikke"
+        },
+        {
           "ID": 32570,
           "Title": "Kategori:Kultur"
         },
@@ -30,12 +34,20 @@
           "Title": "Kategori:Musikgrupper"
         },
         {
+          "ID": 123368,
+          "Title": "Kategori:Ernæring"
+        },
+        {
           "ID": 154680,
           "Title": "Kategori:Rekreation"
         },
         {
           "ID": 300624,
           "Title": "Kategori:Fødevarer"
+        },
+        {
+          "ID": 300695,
+          "Title": "Kategori:Madretter"
         }
       ],
       "Articles": [
@@ -54,6 +66,10 @@
         {
           "ID": 4251,
           "Title": "Cølibat"
+        },
+        {
+          "ID": 5033,
+          "Title": "Is (fødevare)"
         },
         {
           "ID": 7223,
@@ -88,6 +104,14 @@
           "Title": "Fellatio"
         },
         {
+          "ID": 25826,
+          "Title": "Sovs"
+        },
+        {
+          "ID": 27278,
+          "Title": "Virkelighed"
+        },
+        {
           "ID": 35379,
           "Title": "Pilsner"
         },
@@ -98,6 +122,10 @@
         {
           "ID": 37412,
           "Title": "Loch Ness-uhyret"
+        },
+        {
+          "ID": 52842,
+          "Title": "Det franske køkken"
         },
         {
           "ID": 54714,
@@ -124,12 +152,20 @@
           "Title": "Aqua (band)"
         },
         {
+          "ID": 72916,
+          "Title": "Surdej"
+        },
+        {
           "ID": 79401,
           "Title": "Hogwarts"
         },
         {
           "ID": 87988,
           "Title": "Green Day"
+        },
+        {
+          "ID": 89929,
+          "Title": "Kiks"
         },
         {
           "ID": 95385,
@@ -140,12 +176,20 @@
           "Title": "Spejlæg"
         },
         {
+          "ID": 106882,
+          "Title": "Svinekød"
+        },
+        {
           "ID": 107921,
           "Title": "AC/DC"
         },
         {
           "ID": 112756,
           "Title": "Bacon"
+        },
+        {
+          "ID": 117141,
+          "Title": "Realisme"
         },
         {
           "ID": 120744,
@@ -158,6 +202,14 @@
         {
           "ID": 130445,
           "Title": "M\u0026M's"
+        },
+        {
+          "ID": 157483,
+          "Title": "Pie"
+        },
+        {
+          "ID": 169336,
+          "Title": "Ensemble"
         },
         {
           "ID": 183944,
@@ -174,6 +226,10 @@
         {
           "ID": 223159,
           "Title": "Pigelus"
+        },
+        {
+          "ID": 233634,
+          "Title": "Realisme (filosofi)"
         },
         {
           "ID": 236654,
@@ -210,6 +266,18 @@
         {
           "ID": 338970,
           "Title": "Dinosaur Jr"
+        },
+        {
+          "ID": 346728,
+          "Title": "Rock Band"
+        },
+        {
+          "ID": 374311,
+          "Title": "Magiske væsner i Harry Potter-universet"
+        },
+        {
+          "ID": 378241,
+          "Title": "Steder i Harry Potter-universet"
         },
         {
           "ID": 451020,
@@ -258,6 +326,10 @@
         {
           "ID": 789698,
           "Title": "Akashiyaki"
+        },
+        {
+          "ID": 853114,
+          "Title": "Hakkekød"
         },
         {
           "ID": 879115,
@@ -390,6 +462,10 @@
           "Title": "Kategori:Begivenheder"
         },
         {
+          "ID": 886076,
+          "Title": "Kategori:Kulturelle begivenheder"
+        },
+        {
           "ID": 935731,
           "Title": "Kategori:Historie efter land"
         }
@@ -402,6 +478,10 @@
         {
           "ID": 30699,
           "Title": "Den trojanske krig"
+        },
+        {
+          "ID": 91934,
+          "Title": "Donald Trump"
         },
         {
           "ID": 184439,
@@ -512,12 +592,20 @@
           "Title": "Fødekæde"
         },
         {
+          "ID": 5620,
+          "Title": "Hvede"
+        },
+        {
           "ID": 13172,
           "Title": "Onani"
         },
         {
           "ID": 14017,
           "Title": "Ris"
+        },
+        {
+          "ID": 15000,
+          "Title": "Jordbær (frugt)"
         },
         {
           "ID": 15696,
@@ -532,12 +620,20 @@
           "Title": "Lime"
         },
         {
+          "ID": 16512,
+          "Title": "Fangarm"
+        },
+        {
           "ID": 18427,
           "Title": "Penis"
         },
         {
           "ID": 20636,
           "Title": "Majs"
+        },
+        {
+          "ID": 25259,
+          "Title": "Fødenet"
         },
         {
           "ID": 27366,
@@ -568,8 +664,28 @@
           "Title": "Elg"
         },
         {
+          "ID": 52826,
+          "Title": "Muskel"
+        },
+        {
+          "ID": 57403,
+          "Title": "Anakonda"
+        },
+        {
           "ID": 73359,
           "Title": "Almindelig ananas"
+        },
+        {
+          "ID": 93611,
+          "Title": "Tomat"
+        },
+        {
+          "ID": 111376,
+          "Title": "Løvfrøer"
+        },
+        {
+          "ID": 112091,
+          "Title": "Melon"
         },
         {
           "ID": 117323,
@@ -588,12 +704,24 @@
           "Title": "Daddelpalme"
         },
         {
+          "ID": 176019,
+          "Title": "Myrte"
+        },
+        {
           "ID": 251306,
           "Title": "Bevægeapparatet"
         },
         {
+          "ID": 281447,
+          "Title": "Stor anakonda"
+        },
+        {
           "ID": 339549,
           "Title": "Makrel"
+        },
+        {
+          "ID": 517735,
+          "Title": "Store katte"
         },
         {
           "ID": 692623,
@@ -768,8 +896,16 @@
           "Title": "Johnny Appleseed"
         },
         {
+          "ID": 339205,
+          "Title": "Twilight"
+        },
+        {
           "ID": 346026,
           "Title": "Jacob Black"
+        },
+        {
+          "ID": 377737,
+          "Title": "The Big Bang Theory"
         },
         {
           "ID": 407090,
@@ -810,6 +946,10 @@
           "Title": "Kategori:Ideologier"
         },
         {
+          "ID": 159594,
+          "Title": "Kategori:Politiske teorier"
+        },
+        {
           "ID": 888371,
           "Title": "Kategori:Tænkning"
         }
@@ -818,6 +958,14 @@
         {
           "ID": 13686,
           "Title": "Skønhed"
+        },
+        {
+          "ID": 37417,
+          "Title": "Tillid"
+        },
+        {
+          "ID": 42683,
+          "Title": "Tro"
         },
         {
           "ID": 279091,
@@ -856,6 +1004,10 @@
       "Title": "Society and social sciences",
       "Categories": [
         {
+          "ID": 32246,
+          "Title": "Kategori:Humaniora"
+        },
+        {
           "ID": 32250,
           "Title": "Kategori:Samfundsvidenskab"
         },
@@ -868,6 +1020,14 @@
           "Title": "Kategori:Internationale organisationer"
         },
         {
+          "ID": 125815,
+          "Title": "Kategori:Jura"
+        },
+        {
+          "ID": 131285,
+          "Title": "Kategori:Love"
+        },
+        {
           "ID": 196381,
           "Title": "Kategori:Feminisme"
         }
@@ -878,8 +1038,16 @@
           "Title": "Den Europæiske Union"
         },
         {
+          "ID": 1310,
+          "Title": "Chile"
+        },
+        {
           "ID": 5495,
           "Title": "Harvard University"
+        },
+        {
+          "ID": 5831,
+          "Title": "Iran"
         },
         {
           "ID": 7440,
@@ -896,6 +1064,10 @@
         {
           "ID": 27831,
           "Title": "Massachusetts Institute of Technology"
+        },
+        {
+          "ID": 59059,
+          "Title": "Barbados"
         },
         {
           "ID": 61296,
@@ -968,6 +1140,10 @@
         {
           "ID": 190703,
           "Title": "Domino's Pizza"
+        },
+        {
+          "ID": 192923,
+          "Title": "Pacific-10 Conference"
         },
         {
           "ID": 211533,
@@ -1276,6 +1452,10 @@
         {
           "ID": 202824,
           "Title": "Væg"
+        },
+        {
+          "ID": 216655,
+          "Title": "Svejsning"
         },
         {
           "ID": 407229,

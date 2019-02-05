@@ -38,6 +38,10 @@
           "Title": "Kategorio:Kuirarto"
         },
         {
+          "ID": 46294,
+          "Title": "Kategorio:Nutrado"
+        },
+        {
           "ID": 55348,
           "Title": "Kategorio:Libera tempo"
         },
@@ -48,6 +52,14 @@
         {
           "ID": 282780,
           "Title": "Kategorio:Spektakloj"
+        },
+        {
+          "ID": 554242,
+          "Title": "Kategorio:Manĝaĵoj kaj trinkaĵoj"
+        },
+        {
+          "ID": 592859,
+          "Title": "Kategorio:Kuiraĵoj laŭ ĉefaj ingrediencoj"
         }
       ],
       "Articles": [
@@ -84,12 +96,24 @@
           "Title": "Pano"
         },
         {
+          "ID": 17913,
+          "Title": "Restaĵa homeculo"
+        },
+        {
           "ID": 18632,
           "Title": "Pico"
         },
         {
+          "ID": 20035,
+          "Title": "Franca kuirarto"
+        },
+        {
           "ID": 20088,
           "Title": "Ĉokolado"
+        },
+        {
+          "ID": 21847,
+          "Title": "Realo"
         },
         {
           "ID": 24398,
@@ -100,12 +124,36 @@
           "Title": "Midzo"
         },
         {
+          "ID": 32770,
+          "Title": "Realismo"
+        },
+        {
           "ID": 42718,
           "Title": "Monstro de Loch Ness"
         },
         {
           "ID": 42870,
           "Title": "Biskvito"
+        },
+        {
+          "ID": 43195,
+          "Title": "Biskoto"
+        },
+        {
+          "ID": 44620,
+          "Title": "Torto"
+        },
+        {
+          "ID": 47344,
+          "Title": "Muzikgrupo"
+        },
+        {
+          "ID": 47668,
+          "Title": "Saŭco"
+        },
+        {
+          "ID": 51448,
+          "Title": "Glaciaĵo"
         },
         {
           "ID": 52331,
@@ -132,6 +180,10 @@
           "Title": "Led Zeppelin"
         },
         {
+          "ID": 122335,
+          "Title": "Viandhaketaĵo"
+        },
+        {
           "ID": 130079,
           "Title": "Arakida butero"
         },
@@ -140,8 +192,16 @@
           "Title": "Sgt. Pepper's Lonely Hearts Club Band"
         },
         {
+          "ID": 170250,
+          "Title": "Saloo"
+        },
+        {
           "ID": 210093,
           "Title": "Tako"
+        },
+        {
+          "ID": 215481,
+          "Title": "Porkaĵo"
         },
         {
           "ID": 233868,
@@ -164,8 +224,16 @@
           "Title": "Fortuno-biskvito"
         },
         {
+          "ID": 292773,
+          "Title": "Farĉo"
+        },
+        {
           "ID": 295622,
           "Title": "Kolbasobulko"
+        },
+        {
+          "ID": 309826,
+          "Title": "Acidpasto"
         },
         {
           "ID": 310178,
@@ -174,6 +242,10 @@
         {
           "ID": 331328,
           "Title": "WWE Championship"
+        },
+        {
+          "ID": 377353,
+          "Title": "Lardo"
         },
         {
           "ID": 380528,
@@ -322,6 +394,10 @@
           "Title": "Kategorio:Genetikaj malsanoj"
         },
         {
+          "ID": 580965,
+          "Title": "Kategorio:Heredaj malsanoj"
+        },
+        {
           "ID": 609344,
           "Title": "Kategorio:Sanservaj profesioj"
         }
@@ -350,6 +426,10 @@
         {
           "ID": 399612,
           "Title": "Kategorio:Memortagoj"
+        },
+        {
+          "ID": 447283,
+          "Title": "Kategorio:Kulturaj eventoj"
         }
       ],
       "Articles": [
@@ -376,6 +456,10 @@
         {
           "ID": 388523,
           "Title": "Usona prezidanta elekto de 2012"
+        },
+        {
+          "ID": 530024,
+          "Title": "Donald Trump"
         },
         {
           "ID": 568929,
@@ -460,6 +544,10 @@
           "Title": "Kategorio:Kemiaj kombinaĵoj"
         },
         {
+          "ID": 104811,
+          "Title": "Kategorio:Substancoj"
+        },
+        {
           "ID": 127921,
           "Title": "Kategorio:Faŭno laŭ kontinentoj"
         },
@@ -492,6 +580,18 @@
         {
           "ID": 16819,
           "Title": "Kamelo"
+        },
+        {
+          "ID": 18622,
+          "Title": "Tomato"
+        },
+        {
+          "ID": 22095,
+          "Title": "Muskolo"
+        },
+        {
+          "ID": 22278,
+          "Title": "Frago"
         },
         {
           "ID": 24714,
@@ -538,6 +638,10 @@
           "Title": "Mango (frukto)"
         },
         {
+          "ID": 79991,
+          "Title": "Mangarbo"
+        },
+        {
           "ID": 81087,
           "Title": "Testiko"
         },
@@ -550,6 +654,10 @@
           "Title": "Akva ciklo"
         },
         {
+          "ID": 181810,
+          "Title": "Tentaklo"
+        },
+        {
           "ID": 188586,
           "Title": "Oranĝarbo"
         },
@@ -560,6 +668,10 @@
         {
           "ID": 188803,
           "Title": "Oranĝo (frukto)"
+        },
+        {
+          "ID": 205533,
+          "Title": "Melono (frukto)"
         },
         {
           "ID": 215257,
@@ -576,6 +688,10 @@
         {
           "ID": 255550,
           "Title": "Majaa kalendaro"
+        },
+        {
+          "ID": 278439,
+          "Title": "Garolo (genro)"
         },
         {
           "ID": 279499,
@@ -610,12 +726,24 @@
           "Title": "Ĥasi-pino"
         },
         {
+          "ID": 425972,
+          "Title": "Manĝoreto"
+        },
+        {
           "ID": 432418,
           "Title": "Hegemoniaj ventoj"
         },
         {
+          "ID": 506240,
+          "Title": "Anakondo"
+        },
+        {
           "ID": 516731,
           "Title": "Ĝermado"
+        },
+        {
+          "ID": 560709,
+          "Title": "Hiledoj"
         },
         {
           "ID": 570619,
@@ -646,6 +774,10 @@
         {
           "ID": 318496,
           "Title": "Kategorio:Ĉiutaga vivo"
+        },
+        {
+          "ID": 332387,
+          "Title": "Kategorio:Virino"
         },
         {
           "ID": 437221,
@@ -794,6 +926,10 @@
           "Title": "Anders Behring Breivik"
         },
         {
+          "ID": 398370,
+          "Title": "The Big Bang Theory"
+        },
+        {
           "ID": 520805,
           "Title": "Ĥaim Sutin"
         },
@@ -838,6 +974,10 @@
         {
           "ID": 436599,
           "Title": "Kategorio:Pensado"
+        },
+        {
+          "ID": 437197,
+          "Title": "Kategorio:Politikaj teorioj"
         }
       ],
       "Articles": [
@@ -910,6 +1050,14 @@
       "Title": "Society and social sciences",
       "Categories": [
         {
+          "ID": 30586,
+          "Title": "Kategorio:Homa scienco"
+        },
+        {
+          "ID": 37824,
+          "Title": "Kategorio:Juro"
+        },
+        {
           "ID": 42286,
           "Title": "Kategorio:Feminismo"
         },
@@ -930,14 +1078,30 @@
           "Title": "Kategorio:Socia scienco"
         },
         {
+          "ID": 446007,
+          "Title": "Kategorio:Leĝaro"
+        },
+        {
           "ID": 490376,
           "Title": "Kategorio:Universitatoj kaj altlernejoj laŭ landoj"
         }
       ],
       "Articles": [
         {
+          "ID": 514,
+          "Title": "Barbado"
+        },
+        {
+          "ID": 679,
+          "Title": "Ĉilio"
+        },
+        {
           "ID": 961,
           "Title": "Eŭropa Unio"
+        },
+        {
+          "ID": 1791,
+          "Title": "Irano"
         },
         {
           "ID": 2778,
@@ -1356,8 +1520,16 @@
           "Title": "Muro"
         },
         {
+          "ID": 22204,
+          "Title": "Veldado"
+        },
+        {
           "ID": 52645,
           "Title": "Maĉgumo"
+        },
+        {
+          "ID": 59015,
+          "Title": "Domajno de plej alta nivelo"
         },
         {
           "ID": 454199,

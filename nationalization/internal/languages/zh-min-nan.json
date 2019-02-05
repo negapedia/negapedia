@@ -22,12 +22,24 @@
           "Title": "Lūi-pia̍t:Ga̍k-thoân"
         },
         {
+          "ID": 7693,
+          "Title": "Lūi-pia̍t:Chia̍h-mi̍h"
+        },
+        {
+          "ID": 490869,
+          "Title": "Lūi-pia̍t:Êng-ióng-ha̍k"
+        },
+        {
           "ID": 584326,
           "Title": "Lūi-pia̍t:Hèng-chhù"
         },
         {
           "ID": 584493,
           "Title": "Lūi-pia̍t:Gû-lo̍k"
+        },
+        {
+          "ID": 729798,
+          "Title": "Lūi-pia̍t:Su-pó͘-chuh"
         }
       ],
       "Articles": [
@@ -60,6 +72,18 @@
           "Title": "Pizza"
         },
         {
+          "ID": 9978,
+          "Title": "Peng-kî-lîm"
+        },
+        {
+          "ID": 18751,
+          "Title": "Ti-bah"
+        },
+        {
+          "ID": 23171,
+          "Title": "Hiān-si̍t-chú-gī"
+        },
+        {
           "ID": 24993,
           "Title": "Bì-luh"
         },
@@ -74,6 +98,10 @@
         {
           "ID": 27165,
           "Title": "Phî-tàn"
+        },
+        {
+          "ID": 373822,
+          "Title": "Hiān-si̍t"
         },
         {
           "ID": 468611,
@@ -208,6 +236,10 @@
         {
           "ID": 27465,
           "Title": "911 Sū-kiāⁿ"
+        },
+        {
+          "ID": 410904,
+          "Title": "Donald Trump"
         }
       ]
     },
@@ -276,6 +308,10 @@
           "Title": "Lūi-pia̍t:Khoân-kéng kho-ha̍k"
         },
         {
+          "ID": 587123,
+          "Title": "Lūi-pia̍t:Hoà-ha̍k bu̍t-chit"
+        },
+        {
           "ID": 625488,
           "Title": "Lūi-pia̍t:Hòa-ha̍p-bu̍t"
         }
@@ -288,6 +324,10 @@
         {
           "ID": 1912,
           "Title": "Lān-hu̍t"
+        },
+        {
+          "ID": 3358,
+          "Title": "Me-lóng"
         },
         {
           "ID": 6143,
@@ -310,6 +350,10 @@
           "Title": "Hoe-chhài"
         },
         {
+          "ID": 10338,
+          "Title": "Kam-á-bi̍t"
+        },
+        {
           "ID": 10673,
           "Title": "Liú-teng"
         },
@@ -320,6 +364,10 @@
         {
           "ID": 10737,
           "Title": "Lān-chiáu"
+        },
+        {
+          "ID": 26585,
+          "Title": "Chia̍h-mi̍h bāng"
         },
         {
           "ID": 26866,
@@ -338,12 +386,20 @@
           "Title": "Hoat-gê"
         },
         {
+          "ID": 28818,
+          "Title": "Kin-bah"
+        },
+        {
           "ID": 28820,
           "Title": "Kin-bah hē-thóng"
         },
         {
           "ID": 36121,
           "Title": "Chháu-m̂"
+        },
+        {
+          "ID": 627310,
+          "Title": "Pà-á-kho"
         },
         {
           "ID": 630312,
@@ -470,6 +526,10 @@
           "Title": "Oliver Cromwell"
         },
         {
+          "ID": 467988,
+          "Title": "The Big Bang Theory"
+        },
+        {
           "ID": 468637,
           "Title": "Charles Babbage"
         },
@@ -514,6 +574,10 @@
           "Title": "Súi"
         },
         {
+          "ID": 673865,
+          "Title": "Sìn-gióng"
+        },
+        {
           "ID": 730284,
           "Title": "Hoaⁿ-hí"
         }
@@ -546,6 +610,10 @@
           "Title": "Lūi-pia̍t:Siā-hōe kho-ha̍k"
         },
         {
+          "ID": 2646,
+          "Title": "Lūi-pia̍t:Hoat-lu̍t"
+        },
+        {
           "ID": 2672,
           "Title": "Lūi-pia̍t:Siā-hōe"
         },
@@ -564,8 +632,20 @@
           "Title": "Au-chiu Liân-bêng"
         },
         {
+          "ID": 1235,
+          "Title": "Iran"
+        },
+        {
+          "ID": 2307,
+          "Title": "Chile"
+        },
+        {
           "ID": 2936,
           "Title": "Chheng-hôa Tāi-ha̍k"
+        },
+        {
+          "ID": 3606,
+          "Title": "Barbados"
         },
         {
           "ID": 7571,
@@ -684,6 +764,10 @@
           "Title": "Pak-hái-tō Tāi-ha̍k"
         },
         {
+          "ID": 628157,
+          "Title": "Sin-chiaⁿ"
+        },
+        {
           "ID": 722546,
           "Title": "Starbucks"
         },
@@ -740,12 +824,20 @@
       ],
       "Articles": [
         {
+          "ID": 27544,
+          "Title": "Pha tiān-ku"
+        },
+        {
           "ID": 37267,
           "Title": "Chhiū-leng-thn̂g"
         },
         {
           "ID": 628122,
           "Title": "Piah"
+        },
+        {
+          "ID": 629978,
+          "Title": "Siōng-téng domain"
         },
         {
           "ID": 722792,

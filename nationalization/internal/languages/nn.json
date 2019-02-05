@@ -26,6 +26,10 @@
           "Title": "Kategori:Rekreasjon"
         },
         {
+          "ID": 29372,
+          "Title": "Kategori:Matretter"
+        },
+        {
           "ID": 32445,
           "Title": "Kategori:Musikkgrupper"
         },
@@ -34,12 +38,24 @@
           "Title": "Kategori:Filmar"
         },
         {
+          "ID": 99190,
+          "Title": "Kategori:Ernæring"
+        },
+        {
           "ID": 148777,
           "Title": "Kategori:Idrett"
         },
         {
           "ID": 204582,
           "Title": "Kategori:Hobbyar"
+        },
+        {
+          "ID": 291645,
+          "Title": "Kategori:Mat og drikke"
+        },
+        {
+          "ID": 354907,
+          "Title": "Kategori:Matretter etter ingrediens"
         }
       ],
       "Articles": [
@@ -54,6 +70,10 @@
         {
           "ID": 6145,
           "Title": "Led Zeppelin"
+        },
+        {
+          "ID": 6227,
+          "Title": "Iskrem"
         },
         {
           "ID": 7596,
@@ -132,8 +152,24 @@
           "Title": "Buckingham Palace"
         },
         {
+          "ID": 101202,
+          "Title": "Kjeks"
+        },
+        {
+          "ID": 106114,
+          "Title": "Realisme"
+        },
+        {
           "ID": 116306,
           "Title": "Sgt. Pepper’s Lonely Hearts Club Band"
+        },
+        {
+          "ID": 127949,
+          "Title": "Surdeig"
+        },
+        {
+          "ID": 134117,
+          "Title": "Røyndom"
         },
         {
           "ID": 158836,
@@ -144,8 +180,20 @@
           "Title": "M\u0026M’s"
         },
         {
+          "ID": 209076,
+          "Title": "Vesen i Harry Potter-serien"
+        },
+        {
+          "ID": 214625,
+          "Title": "Pai"
+        },
+        {
           "ID": 221289,
           "Title": "Spøkelse"
+        },
+        {
+          "ID": 226308,
+          "Title": "Stader i Harry Potter-serien"
         },
         {
           "ID": 277923,
@@ -166,6 +214,10 @@
         {
           "ID": 331655,
           "Title": "Eurovision Song Contest 2018"
+        },
+        {
+          "ID": 338065,
+          "Title": "Saus"
         },
         {
           "ID": 339535,
@@ -312,6 +364,10 @@
         {
           "ID": 221548,
           "Title": "Aurora-massakren"
+        },
+        {
+          "ID": 310994,
+          "Title": "Donald Trump"
         }
       ]
     },
@@ -352,6 +408,10 @@
         {
           "ID": 168002,
           "Title": "Lengd"
+        },
+        {
+          "ID": 265860,
+          "Title": "Lengdeeining"
         }
       ]
     },
@@ -390,6 +450,10 @@
         {
           "ID": 73140,
           "Title": "Kategori:Katastrofar"
+        },
+        {
+          "ID": 99189,
+          "Title": "Kategori:Kjemiske stoff"
         },
         {
           "ID": 111309,
@@ -438,8 +502,16 @@
           "Title": "Elg"
         },
         {
+          "ID": 32460,
+          "Title": "Muskel"
+        },
+        {
           "ID": 41252,
           "Title": "Onani"
+        },
+        {
+          "ID": 42501,
+          "Title": "Tentakel"
         },
         {
           "ID": 51838,
@@ -474,8 +546,16 @@
           "Title": "Phoenicopterus"
         },
         {
+          "ID": 137640,
+          "Title": "Tomat"
+        },
+        {
           "ID": 141925,
           "Title": "Riksesniper"
+        },
+        {
+          "ID": 152970,
+          "Title": "Mango"
         },
         {
           "ID": 186697,
@@ -484,6 +564,10 @@
         {
           "ID": 191367,
           "Title": "Hagejordbær"
+        },
+        {
+          "ID": 257949,
+          "Title": "Melon"
         },
         {
           "ID": 262767,
@@ -496,6 +580,10 @@
         {
           "ID": 330334,
           "Title": "Edderkoppapar"
+        },
+        {
+          "ID": 341500,
+          "Title": "Myrteslekta"
         }
       ]
     },
@@ -510,6 +598,10 @@
         {
           "ID": 16772,
           "Title": "Kategori:Slektsnamn"
+        },
+        {
+          "ID": 29652,
+          "Title": "Kategori:Kvinner"
         },
         {
           "ID": 68650,
@@ -642,6 +734,10 @@
           "Title": "Daniel Radcliffe"
         },
         {
+          "ID": 261309,
+          "Title": "The Big Bang Theory"
+        },
+        {
           "ID": 263903,
           "Title": "Carl Sagan"
         },
@@ -678,6 +774,10 @@
         {
           "ID": 68655,
           "Title": "Kategori:Filosofi etter tema"
+        },
+        {
+          "ID": 68692,
+          "Title": "Kategori:Politiske teoriar"
         },
         {
           "ID": 114013,
@@ -738,12 +838,24 @@
       "Title": "Society and social sciences",
       "Categories": [
         {
+          "ID": 3030,
+          "Title": "Kategori:Lover"
+        },
+        {
           "ID": 3242,
           "Title": "Kategori:Samfunn"
         },
         {
+          "ID": 3528,
+          "Title": "Kategori:Rettsvitskap"
+        },
+        {
           "ID": 6495,
           "Title": "Kategori:Internasjonale organisasjonar"
+        },
+        {
+          "ID": 9426,
+          "Title": "Kategori:Humaniora"
         },
         {
           "ID": 33587,
@@ -764,8 +876,16 @@
           "Title": "Sommartid"
         },
         {
+          "ID": 13391,
+          "Title": "Chile"
+        },
+        {
           "ID": 15544,
           "Title": "Massachusetts Institute of Technology"
+        },
+        {
+          "ID": 15948,
+          "Title": "Iran"
         },
         {
           "ID": 18716,
@@ -774,6 +894,10 @@
         {
           "ID": 18931,
           "Title": "Den europeiske unionen"
+        },
+        {
+          "ID": 24407,
+          "Title": "Barbados"
         },
         {
           "ID": 25257,
@@ -954,6 +1078,10 @@
           "Title": "Kategori:Ingeniørfag"
         },
         {
+          "ID": 127532,
+          "Title": "Kategori:Militærteknologi"
+        },
+        {
           "ID": 140636,
           "Title": "Kategori:Teknologihistorie"
         },
@@ -980,12 +1108,20 @@
       ],
       "Articles": [
         {
+          "ID": 14084,
+          "Title": "Toppnivådomene"
+        },
+        {
           "ID": 38661,
           "Title": "Pepsi"
         },
         {
           "ID": 71280,
           "Title": "Mountain Dew"
+        },
+        {
+          "ID": 177070,
+          "Title": "Sveising"
         },
         {
           "ID": 344975,

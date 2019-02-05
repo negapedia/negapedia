@@ -22,12 +22,20 @@
           "Title": "Kategorya:Lutuin"
         },
         {
+          "ID": 7646,
+          "Title": "Kategorya:Pagkain at inumin"
+        },
+        {
           "ID": 21305,
           "Title": "Kategorya:Pagkain"
         },
         {
           "ID": 73262,
           "Title": "Kategorya:Paglilibang"
+        },
+        {
+          "ID": 78417,
+          "Title": "Kategorya:Nutrisyon"
         },
         {
           "ID": 153896,
@@ -76,6 +84,10 @@
           "Title": "Sinangag"
         },
         {
+          "ID": 40678,
+          "Title": "Sarsa"
+        },
+        {
           "ID": 40825,
           "Title": "Latik"
         },
@@ -100,8 +112,16 @@
           "Title": "Tinapay"
         },
         {
+          "ID": 76050,
+          "Title": "Lutuing Pranses"
+        },
+        {
           "ID": 105363,
           "Title": "Tako"
+        },
+        {
+          "ID": 116173,
+          "Title": "Sorbetes"
         },
         {
           "ID": 118236,
@@ -126,6 +146,10 @@
         {
           "ID": 166166,
           "Title": "Judas (awit)"
+        },
+        {
+          "ID": 176298,
+          "Title": "Galyetas"
         },
         {
           "ID": 176418,
@@ -168,8 +192,24 @@
           "Title": "Realismong pampanitikan"
         },
         {
+          "ID": 245297,
+          "Title": "Realismo"
+        },
+        {
+          "ID": 245298,
+          "Title": "Realismong pilosopiko"
+        },
+        {
+          "ID": 279608,
+          "Title": "Kue"
+        },
+        {
           "ID": 281531,
           "Title": "Multo"
+        },
+        {
+          "ID": 282152,
+          "Title": "Biskwit"
         }
       ]
     },
@@ -276,6 +316,10 @@
         {
           "ID": 202908,
           "Title": "Digmaang Troya"
+        },
+        {
+          "ID": 245679,
+          "Title": "Donald Trump"
         }
       ]
     },
@@ -336,6 +380,10 @@
           "Title": "Kategorya:Sakuna"
         },
         {
+          "ID": 212994,
+          "Title": "Kategorya:Mga sustansiyang kimikal"
+        },
+        {
           "ID": 215419,
           "Title": "Kategorya:Agham pangkalikasan"
         },
@@ -366,8 +414,16 @@
           "Title": "Pagsasalsal"
         },
         {
+          "ID": 2447,
+          "Title": "Masel"
+        },
+        {
           "ID": 4817,
           "Title": "Palay"
+        },
+        {
+          "ID": 7610,
+          "Title": "Alumahan (paglilinaw)"
         },
         {
           "ID": 10305,
@@ -384,6 +440,10 @@
         {
           "ID": 32192,
           "Title": "Sistemang pangkalamnan"
+        },
+        {
+          "ID": 40010,
+          "Title": "Kamatis"
         },
         {
           "ID": 40481,
@@ -406,6 +466,10 @@
           "Title": "Mais"
         },
         {
+          "ID": 41336,
+          "Title": "Anakonda"
+        },
+        {
           "ID": 43121,
           "Title": "Kamelyo"
         },
@@ -426,20 +490,40 @@
           "Title": "Koliplor"
         },
         {
+          "ID": 107273,
+          "Title": "Mirto"
+        },
+        {
           "ID": 107499,
           "Title": "Ibong salta"
+        },
+        {
+          "ID": 107950,
+          "Title": "Milong lunti"
         },
         {
           "ID": 109899,
           "Title": "Plamengko"
         },
         {
+          "ID": 169223,
+          "Title": "Titi ng tao"
+        },
+        {
           "ID": 179053,
           "Title": "Polenisador"
         },
         {
+          "ID": 189088,
+          "Title": "Pantherinae"
+        },
+        {
           "ID": 189091,
           "Title": "Butiking salamin"
+        },
+        {
+          "ID": 263328,
+          "Title": "Mangifera indica"
         },
         {
           "ID": 281104,
@@ -550,6 +634,10 @@
           "Title": "George Harrison"
         },
         {
+          "ID": 186606,
+          "Title": "Takipsilim (nobela)"
+        },
+        {
           "ID": 188067,
           "Title": "Richard Dawkins"
         },
@@ -582,6 +670,10 @@
           "Title": "Alexander Fleming"
         },
         {
+          "ID": 282734,
+          "Title": "The Big Bang Theory"
+        },
+        {
           "ID": 283192,
           "Title": "Noam Chomsky"
         }
@@ -604,6 +696,10 @@
           "Title": "Kategorya:Mga sangay ng pilosopiya"
         },
         {
+          "ID": 6007,
+          "Title": "Kategorya:Mga teoriyang pampolitika"
+        },
+        {
           "ID": 101945,
           "Title": "Kategorya:Ideolohiya"
         },
@@ -624,6 +720,10 @@
         {
           "ID": 111417,
           "Title": "Kagandahan"
+        },
+        {
+          "ID": 208481,
+          "Title": "Pananampalataya"
         }
       ]
     },
@@ -662,6 +762,10 @@
       "Title": "Society and social sciences",
       "Categories": [
         {
+          "ID": 1879,
+          "Title": "Kategorya:Batas"
+        },
+        {
           "ID": 4129,
           "Title": "Kategorya:Lipunan"
         },
@@ -678,14 +782,30 @@
           "Title": "Kategorya:Peminismo"
         },
         {
+          "ID": 172953,
+          "Title": "Kategorya:Agham pantao"
+        },
+        {
           "ID": 227476,
           "Title": "Kategorya:Mga internasyonal na organisasyon"
         }
       ],
       "Articles": [
         {
+          "ID": 2399,
+          "Title": "Chile"
+        },
+        {
           "ID": 3296,
           "Title": "Unyong Europeo"
+        },
+        {
+          "ID": 4661,
+          "Title": "Iran"
+        },
+        {
+          "ID": 6780,
+          "Title": "Barbados"
         },
         {
           "ID": 19867,
@@ -1194,6 +1314,14 @@
         {
           "ID": 285209,
           "Title": "Pamantasang Thammasat"
+        },
+        {
+          "ID": 285919,
+          "Title": "Unibersidad ng Houston"
+        },
+        {
+          "ID": 285921,
+          "Title": "Unibersidad ng Hull"
         }
       ]
     },
@@ -1242,6 +1370,10 @@
         {
           "ID": 40365,
           "Title": "Dingding"
+        },
+        {
+          "ID": 41606,
+          "Title": "Paghihinang"
         },
         {
           "ID": 251559,

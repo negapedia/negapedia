@@ -22,6 +22,10 @@
           "Title": "Kategoria:Sport"
         },
         {
+          "ID": 80058,
+          "Title": "Kategoria:Odżywianie"
+        },
+        {
           "ID": 93893,
           "Title": "Kategoria:Hobby"
         },
@@ -38,8 +42,20 @@
           "Title": "Kategoria:Rekreacja"
         },
         {
+          "ID": 1111321,
+          "Title": "Kategoria:Potrawy"
+        },
+        {
+          "ID": 2070879,
+          "Title": "Kategoria:Potrawy według głównych składników"
+        },
+        {
           "ID": 2960311,
           "Title": "Kategoria:Zespoły muzyczne"
+        },
+        {
+          "ID": 3462139,
+          "Title": "Kategoria:Kultura odżywiania"
         }
       ],
       "Articles": [
@@ -56,6 +72,10 @@
           "Title": "Piwo"
         },
         {
+          "ID": 5192,
+          "Title": "Realizm"
+        },
+        {
           "ID": 6562,
           "Title": "Wikipedia"
         },
@@ -66,6 +86,14 @@
         {
           "ID": 8863,
           "Title": "Encyklopedia"
+        },
+        {
+          "ID": 14266,
+          "Title": "Sos"
+        },
+        {
+          "ID": 14609,
+          "Title": "Wieprzowina"
         },
         {
           "ID": 21548,
@@ -100,12 +128,20 @@
           "Title": "Green Day"
         },
         {
+          "ID": 76511,
+          "Title": "Słonina"
+        },
+        {
           "ID": 86366,
           "Title": "Pizza"
         },
         {
           "ID": 90588,
           "Title": "Ciasto biszkoptowe"
+        },
+        {
+          "ID": 90788,
+          "Title": "Tort"
         },
         {
           "ID": 98743,
@@ -144,6 +180,14 @@
           "Title": "Siemieniotka"
         },
         {
+          "ID": 302556,
+          "Title": "Rzeczywistość"
+        },
+        {
+          "ID": 306256,
+          "Title": "Zakwas chlebowy"
+        },
+        {
           "ID": 421649,
           "Title": "Dzień Świstaka (święto)"
         },
@@ -154,6 +198,14 @@
         {
           "ID": 461101,
           "Title": "Zupa pomidorowa"
+        },
+        {
+          "ID": 463777,
+          "Title": "Proziaki"
+        },
+        {
+          "ID": 482374,
+          "Title": "Kuchnia francuska"
         },
         {
           "ID": 491099,
@@ -172,6 +224,10 @@
           "Title": "Wielka Stopa (zwierzę)"
         },
         {
+          "ID": 553441,
+          "Title": "Lody"
+        },
+        {
           "ID": 603558,
           "Title": "Ciasto (deser)"
         },
@@ -188,12 +244,20 @@
           "Title": "Ash Ketchum"
         },
         {
+          "ID": 701964,
+          "Title": "Farsz"
+        },
+        {
           "ID": 716884,
           "Title": "Boczek"
         },
         {
           "ID": 767379,
           "Title": "M\u0026M's"
+        },
+        {
+          "ID": 820441,
+          "Title": "Powieść realistyczna"
         },
         {
           "ID": 1003257,
@@ -232,6 +296,10 @@
           "Title": "Kurczak tikka masala"
         },
         {
+          "ID": 1543705,
+          "Title": "Pieróg (danie)"
+        },
+        {
           "ID": 1593756,
           "Title": "Cookie Crisp"
         },
@@ -246,6 +314,10 @@
         {
           "ID": 1752252,
           "Title": "Pinus cembroides"
+        },
+        {
+          "ID": 2062143,
+          "Title": "Herbatnik"
         },
         {
           "ID": 2132230,
@@ -272,12 +344,20 @@
           "Title": "Giuditta Pasta"
         },
         {
+          "ID": 2535636,
+          "Title": "Krakers"
+        },
+        {
           "ID": 2638919,
           "Title": "Hogwart"
         },
         {
           "ID": 2733746,
           "Title": "Kiszone cytryny"
+        },
+        {
+          "ID": 2737430,
+          "Title": "Mięso mielone"
         },
         {
           "ID": 2741001,
@@ -456,12 +536,20 @@
           "Title": "Zamach z 11 września 2001 roku"
         },
         {
+          "ID": 37840,
+          "Title": "Miary rzymskie"
+        },
+        {
           "ID": 62426,
           "Title": "Wojna trojańska"
         },
         {
           "ID": 122182,
           "Title": "Kłamstwo oświęcimskie"
+        },
+        {
+          "ID": 239875,
+          "Title": "Donald Trump"
         },
         {
           "ID": 1142740,
@@ -556,6 +644,10 @@
         {
           "ID": 782141,
           "Title": "Kategoria:Zwierzęta według kontynentów i regionów Ziemi"
+        },
+        {
+          "ID": 2306206,
+          "Title": "Kategoria:Substancje chemiczne"
         }
       ],
       "Articles": [
@@ -580,6 +672,10 @@
           "Title": "Truskawka"
         },
         {
+          "ID": 14467,
+          "Title": "Pomidor zwyczajny"
+        },
+        {
           "ID": 15831,
           "Title": "Prącie"
         },
@@ -594,6 +690,10 @@
         {
           "ID": 26942,
           "Title": "Narząd ruchu"
+        },
+        {
+          "ID": 26961,
+          "Title": "Mięsień"
         },
         {
           "ID": 47836,
@@ -636,6 +736,10 @@
           "Title": "Ogień"
         },
         {
+          "ID": 78554,
+          "Title": "Eunectes"
+        },
+        {
           "ID": 85571,
           "Title": "Pomarańcza"
         },
@@ -656,8 +760,16 @@
           "Title": "Jądro (anatomia)"
         },
         {
+          "ID": 284808,
+          "Title": "Ogórek melon"
+        },
+        {
           "ID": 362665,
           "Title": "Płaszcz (anatomia)"
+        },
+        {
+          "ID": 368811,
+          "Title": "Mango indyjskie"
         },
         {
           "ID": 379997,
@@ -668,20 +780,44 @@
           "Title": "Kiełkowanie"
         },
         {
+          "ID": 425836,
+          "Title": "Rzekotkowate"
+        },
+        {
           "ID": 457567,
           "Title": "Magnolia purpurowa"
+        },
+        {
+          "ID": 554122,
+          "Title": "Anakonda zielona"
         },
         {
           "ID": 557807,
           "Title": "Kał krowi"
         },
         {
+          "ID": 584870,
+          "Title": "Sieczka (pasza)"
+        },
+        {
+          "ID": 588977,
+          "Title": "Plewa"
+        },
+        {
           "ID": 616467,
           "Title": "Motoneuron"
         },
         {
+          "ID": 629006,
+          "Title": "Mirt"
+        },
+        {
           "ID": 911413,
           "Title": "Makrela atlantycka"
+        },
+        {
+          "ID": 917985,
+          "Title": "Sieć troficzna"
         },
         {
           "ID": 1078958,
@@ -716,6 +852,10 @@
           "Title": "Phoenicopterus"
         },
         {
+          "ID": 1943368,
+          "Title": "Garrulus"
+        },
+        {
           "ID": 2399796,
           "Title": "Sosna wiotka"
         },
@@ -724,12 +864,24 @@
           "Title": "Perz sitowy"
         },
         {
+          "ID": 3502684,
+          "Title": "Pantery"
+        },
+        {
+          "ID": 3532974,
+          "Title": "Prącie człowieka"
+        },
+        {
           "ID": 4159683,
           "Title": "Mango (owoc)"
         },
         {
           "ID": 4373072,
           "Title": "Świerk Engelmanna"
+        },
+        {
+          "ID": 4454061,
+          "Title": "Glaphyromorphus"
         }
       ]
     },
@@ -740,6 +892,10 @@
         {
           "ID": 65702,
           "Title": "Kategoria:Biografie"
+        },
+        {
+          "ID": 93429,
+          "Title": "Kategoria:Życie codzienne"
         },
         {
           "ID": 210228,
@@ -884,6 +1040,10 @@
           "Title": "Irving Langmuir"
         },
         {
+          "ID": 366440,
+          "Title": "Evan"
+        },
+        {
           "ID": 598676,
           "Title": "Harry Houdini"
         },
@@ -902,6 +1062,14 @@
         {
           "ID": 1294704,
           "Title": "Big Show"
+        },
+        {
+          "ID": 1406677,
+          "Title": "Zmierzch (powieść)"
+        },
+        {
+          "ID": 1630857,
+          "Title": "Teoria wielkiego podrywu"
         },
         {
           "ID": 1875008,
@@ -948,12 +1116,20 @@
         {
           "ID": 444819,
           "Title": "Kategoria:Kierunki filozoficzne"
+        },
+        {
+          "ID": 1158227,
+          "Title": "Kategoria:Teoria polityki"
         }
       ],
       "Articles": [
         {
           "ID": 1597,
           "Title": "Fakt"
+        },
+        {
+          "ID": 6794,
+          "Title": "Wiara religijna"
         },
         {
           "ID": 114894,
@@ -964,8 +1140,16 @@
           "Title": "Efekt Dunninga-Krugera"
         },
         {
+          "ID": 438973,
+          "Title": "Zaufanie"
+        },
+        {
           "ID": 464231,
           "Title": "Piękno"
+        },
+        {
+          "ID": 749748,
+          "Title": "Złudzenie ponadprzeciętności"
         }
       ]
     },
@@ -996,8 +1180,16 @@
       "Title": "Society and social sciences",
       "Categories": [
         {
+          "ID": 64582,
+          "Title": "Kategoria:Nauki humanistyczne"
+        },
+        {
           "ID": 66374,
           "Title": "Kategoria:Organizacje międzynarodowe"
+        },
+        {
+          "ID": 69796,
+          "Title": "Kategoria:Prawo"
         },
         {
           "ID": 111276,
@@ -1012,11 +1204,19 @@
           "Title": "Kategoria:Społeczeństwo"
         },
         {
+          "ID": 755621,
+          "Title": "Kategoria:Ustawy"
+        },
+        {
           "ID": 2710108,
           "Title": "Kategoria:Uczelnie według państw"
         }
       ],
       "Articles": [
+        {
+          "ID": 794,
+          "Title": "Chile"
+        },
         {
           "ID": 3784,
           "Title": "Massachusetts Institute of Technology"
@@ -1030,12 +1230,20 @@
           "Title": "Uniwersytet Harvarda"
         },
         {
+          "ID": 17496,
+          "Title": "Iran"
+        },
+        {
           "ID": 34123,
           "Title": "Flaga Australii"
         },
         {
           "ID": 41362,
           "Title": "Uniwersytet Lwowski"
+        },
+        {
+          "ID": 44038,
+          "Title": "Barbados"
         },
         {
           "ID": 44908,
@@ -1199,7 +1407,7 @@
         },
         {
           "ID": 676809,
-          "Title": "Uniwersytet Auckland"
+          "Title": "Uniwersytet w Auckland"
         },
         {
           "ID": 687984,
@@ -1251,7 +1459,7 @@
         },
         {
           "ID": 992003,
-          "Title": "Washington University in St. Louis"
+          "Title": "Uniwersytet Waszyngtona w St. Louis"
         },
         {
           "ID": 993471,
@@ -1382,8 +1590,12 @@
           "Title": "Uniwersytet Wschodniej Anglii"
         },
         {
+          "ID": 1880060,
+          "Title": "Pacific-12 Conference"
+        },
+        {
           "ID": 1885238,
-          "Title": "University of Iowa"
+          "Title": "Uniwersytet Iowa"
         },
         {
           "ID": 1889227,
@@ -1436,6 +1648,10 @@
         {
           "ID": 2494129,
           "Title": "University of Akron"
+        },
+        {
+          "ID": 2527675,
+          "Title": "Trust"
         },
         {
           "ID": 2532772,
@@ -1571,7 +1787,7 @@
         },
         {
           "ID": 3936258,
-          "Title": "University of Alabama"
+          "Title": "Uniwersytet Alabamy"
         },
         {
           "ID": 3937194,
@@ -1632,6 +1848,10 @@
           "Title": "Kategoria:Wzornictwo"
         },
         {
+          "ID": 1332174,
+          "Title": "Kategoria:Technika wojskowa"
+        },
+        {
           "ID": 2866036,
           "Title": "Kategoria:Sprzęt wojskowy"
         },
@@ -1642,8 +1862,16 @@
       ],
       "Articles": [
         {
+          "ID": 15392,
+          "Title": "Połączenie spawane"
+        },
+        {
           "ID": 17970,
           "Title": "Mur"
+        },
+        {
+          "ID": 23173,
+          "Title": "Domena najwyższego poziomu"
         },
         {
           "ID": 25855,

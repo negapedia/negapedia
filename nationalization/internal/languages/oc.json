@@ -14,6 +14,10 @@
           "Title": "Categoria:Art"
         },
         {
+          "ID": 7094,
+          "Title": "Categoria:Alimentacion"
+        },
+        {
           "ID": 10945,
           "Title": "Categoria:Grop de musica"
         },
@@ -22,12 +26,20 @@
           "Title": "Categoria:Espòrt"
         },
         {
+          "ID": 11615,
+          "Title": "Categoria:Nutricion"
+        },
+        {
           "ID": 12840,
           "Title": "Categoria:Aliment"
         },
         {
           "ID": 56186,
           "Title": "Categoria:Filme"
+        },
+        {
+          "ID": 60977,
+          "Title": "Categoria:Preparacion culinària"
         }
       ],
       "Articles": [
@@ -76,6 +88,10 @@
           "Title": "Pan"
         },
         {
+          "ID": 72448,
+          "Title": "Realitat"
+        },
+        {
           "ID": 147053,
           "Title": "Sasquatch"
         },
@@ -86,6 +102,10 @@
         {
           "ID": 169239,
           "Title": "Chocolat caud"
+        },
+        {
+          "ID": 169273,
+          "Title": "Torta"
         }
       ]
     },
@@ -198,6 +218,10 @@
           "Title": "Atemptats de l'11 de setembre de 2001"
         },
         {
+          "ID": 158952,
+          "Title": "Donald Trump"
+        },
+        {
           "ID": 160169,
           "Title": "Fusilhada del 12 de junh de 2016 a Orlando"
         }
@@ -246,6 +270,10 @@
           "Title": "Categoria:Zoologia"
         },
         {
+          "ID": 7097,
+          "Title": "Categoria:Compausat quimic"
+        },
+        {
           "ID": 8127,
           "Title": "Categoria:Natura"
         },
@@ -264,12 +292,24 @@
           "Title": "Cicle de l'aiga"
         },
         {
+          "ID": 8375,
+          "Title": "Pantherinae"
+        },
+        {
+          "ID": 20087,
+          "Title": "Tomata"
+        },
+        {
           "ID": 22254,
           "Title": "Camèl"
         },
         {
           "ID": 27291,
           "Title": "Milh"
+        },
+        {
+          "ID": 33010,
+          "Title": "Hylidae"
         },
         {
           "ID": 38133,
@@ -296,8 +336,16 @@
           "Title": "Ris"
         },
         {
+          "ID": 79012,
+          "Title": "Muscle"
+        },
+        {
           "ID": 113169,
           "Title": "Irange"
+        },
+        {
+          "ID": 116481,
+          "Title": "Melon"
         },
         {
           "ID": 117475,
@@ -312,6 +360,10 @@
           "Title": "Tigre blanc"
         },
         {
+          "ID": 152096,
+          "Title": "Nèrta"
+        },
+        {
           "ID": 165219,
           "Title": "Vairat"
         },
@@ -322,6 +374,10 @@
         {
           "ID": 167500,
           "Title": "Citronier"
+        },
+        {
+          "ID": 167546,
+          "Title": "Ret trofic"
         }
       ]
     },
@@ -336,6 +392,10 @@
         {
           "ID": 7651,
           "Title": "Categoria:Personalitat"
+        },
+        {
+          "ID": 9977,
+          "Title": "Categoria:Femna"
         },
         {
           "ID": 15032,
@@ -444,6 +504,10 @@
           "Title": "Carl Sagan"
         },
         {
+          "ID": 136341,
+          "Title": "The Big Bang Theory"
+        },
+        {
           "ID": 144644,
           "Title": "Srinivasa Ramanujan"
         },
@@ -498,6 +562,10 @@
         {
           "ID": 165112,
           "Title": "Bonaür"
+        },
+        {
+          "ID": 166395,
+          "Title": "Fe"
         }
       ]
     },
@@ -528,6 +596,10 @@
       "Title": "Society and social sciences",
       "Categories": [
         {
+          "ID": 5974,
+          "Title": "Categoria:Drech"
+        },
+        {
           "ID": 6344,
           "Title": "Categoria:Sciéncias umanas"
         },
@@ -542,9 +614,25 @@
         {
           "ID": 17241,
           "Title": "Categoria:Organizacion internacionala"
+        },
+        {
+          "ID": 44035,
+          "Title": "Categoria:Sciéncias umanas e socialas"
         }
       ],
       "Articles": [
+        {
+          "ID": 2726,
+          "Title": "Iran"
+        },
+        {
+          "ID": 2964,
+          "Title": "Barbados"
+        },
+        {
+          "ID": 7592,
+          "Title": "Chile"
+        },
         {
           "ID": 7818,
           "Title": "Union Europèa"
@@ -657,6 +745,10 @@
         }
       ],
       "Articles": [
+        {
+          "ID": 73369,
+          "Title": "Domeni de primièr nivèl"
+        },
         {
           "ID": 132138,
           "Title": "Goma de mastolhar"

@@ -38,8 +38,16 @@
           "Title": "Categorie:Spectacole"
         },
         {
+          "ID": 748204,
+          "Title": "Categorie:Alimentație"
+        },
+        {
           "ID": 751366,
           "Title": "Categorie:Formații muzicale"
+        },
+        {
+          "ID": 758094,
+          "Title": "Categorie:Nutriție"
         },
         {
           "ID": 1060958,
@@ -84,6 +92,10 @@
           "Title": "Led Zeppelin"
         },
         {
+          "ID": 98200,
+          "Title": "Realism (dezambiguizare)"
+        },
+        {
           "ID": 119274,
           "Title": "AC/DC"
         },
@@ -100,8 +112,20 @@
           "Title": "Cafea"
         },
         {
+          "ID": 165773,
+          "Title": "Ansamblu muzical"
+        },
+        {
+          "ID": 179093,
+          "Title": "Realitate"
+        },
+        {
           "ID": 193837,
           "Title": "WWE Championship"
+        },
+        {
+          "ID": 197604,
+          "Title": "Slănină"
         },
         {
           "ID": 201603,
@@ -116,12 +140,20 @@
           "Title": "Monstrul din Loch Ness"
         },
         {
+          "ID": 326870,
+          "Title": "Înghețată"
+        },
+        {
           "ID": 339636,
           "Title": "Green Day"
         },
         {
           "ID": 429130,
           "Title": "Jambon"
+        },
+        {
+          "ID": 489989,
+          "Title": "Realism (filozofie)"
         },
         {
           "ID": 504525,
@@ -156,12 +188,20 @@
           "Title": "Bacon"
         },
         {
+          "ID": 899540,
+          "Title": "Hogsmeade"
+        },
+        {
           "ID": 935646,
           "Title": "Baicoli"
         },
         {
           "ID": 943875,
           "Title": "Enthiran"
+        },
+        {
+          "ID": 969307,
+          "Title": "Bucătăria franceză"
         },
         {
           "ID": 977395,
@@ -172,8 +212,16 @@
           "Title": "Paste făinoase"
         },
         {
+          "ID": 1042246,
+          "Title": "Sos (gastronomie)"
+        },
+        {
           "ID": 1115298,
           "Title": "Bondost"
+        },
+        {
+          "ID": 1169398,
+          "Title": "Tort"
         },
         {
           "ID": 1169405,
@@ -202,6 +250,10 @@
         {
           "ID": 1328735,
           "Title": "Angry Birds Seasons"
+        },
+        {
+          "ID": 1334097,
+          "Title": "Biscuit"
         },
         {
           "ID": 1351387,
@@ -284,6 +336,10 @@
         {
           "ID": 872950,
           "Title": "Categorie:Locuri"
+        },
+        {
+          "ID": 1292979,
+          "Title": "Categorie:Design urban"
         }
       ],
       "Articles": [
@@ -364,6 +420,10 @@
           "Title": "Categorie:Istorie"
         },
         {
+          "ID": 41093,
+          "Title": "Categorie:Istorie după ţară"
+        },
+        {
           "ID": 119641,
           "Title": "Categorie:Alegeri după an"
         },
@@ -374,6 +434,10 @@
         {
           "ID": 752994,
           "Title": "Categorie:Istorie după țară"
+        },
+        {
+          "ID": 1548546,
+          "Title": "Categorie:Evenimente culturale"
         }
       ],
       "Articles": [
@@ -384,6 +448,10 @@
         {
           "ID": 108557,
           "Title": "Războiul troian"
+        },
+        {
+          "ID": 230612,
+          "Title": "Donald Trump"
         },
         {
           "ID": 847077,
@@ -484,6 +552,10 @@
           "Title": "Categorie:Compuși chimici"
         },
         {
+          "ID": 760265,
+          "Title": "Categorie:Substanțe chimice"
+        },
+        {
           "ID": 761041,
           "Title": "Categorie:Științele naturii"
         },
@@ -538,6 +610,10 @@
           "Title": "Anaconda"
         },
         {
+          "ID": 220127,
+          "Title": "Roșie"
+        },
+        {
           "ID": 226626,
           "Title": "Cămilă"
         },
@@ -554,8 +630,16 @@
           "Title": "Portocal"
         },
         {
+          "ID": 272728,
+          "Title": "Pepene galben"
+        },
+        {
           "ID": 300470,
           "Title": "Elan"
+        },
+        {
+          "ID": 381392,
+          "Title": "Mușchi (anatomie)"
         },
         {
           "ID": 385654,
@@ -602,6 +686,26 @@
           "Title": "Conopidă"
         },
         {
+          "ID": 891020,
+          "Title": "Mirt"
+        },
+        {
+          "ID": 991950,
+          "Title": "Pantherinae"
+        },
+        {
+          "ID": 1222239,
+          "Title": "Scrumbie"
+        },
+        {
+          "ID": 1232946,
+          "Title": "Rețea trofică"
+        },
+        {
+          "ID": 1325921,
+          "Title": "Manghier"
+        },
+        {
           "ID": 1329687,
           "Title": "Suspensie (chimie)"
         },
@@ -610,8 +714,24 @@
           "Title": "Magnolia liliiflora"
         },
         {
+          "ID": 1575169,
+          "Title": "Eunectes"
+        },
+        {
+          "ID": 1604658,
+          "Title": "Tentacul"
+        },
+        {
+          "ID": 1652477,
+          "Title": "Honeydew"
+        },
+        {
           "ID": 1707331,
           "Title": "Glaphyromorphus"
+        },
+        {
+          "ID": 1790260,
+          "Title": "Hilide"
         }
       ]
     },
@@ -778,8 +898,16 @@
           "Title": "Theodor Schwann"
         },
         {
+          "ID": 378936,
+          "Title": "Amurg (roman)"
+        },
+        {
           "ID": 429403,
           "Title": "Jacob Black"
+        },
+        {
+          "ID": 457059,
+          "Title": "Teoria Big Bang"
         },
         {
           "ID": 466928,
@@ -787,7 +915,7 @@
         },
         {
           "ID": 650224,
-          "Title": "Fibonacci"
+          "Title": "Leonardo Fibonacci"
         },
         {
           "ID": 792856,
@@ -815,6 +943,10 @@
       "ID": 2147483644,
       "Title": "Philosophy and thinking",
       "Categories": [
+        {
+          "ID": 13773,
+          "Title": "Categorie:Teorii politice"
+        },
         {
           "ID": 13793,
           "Title": "Categorie:Filozofie"
@@ -845,6 +977,10 @@
         }
       ],
       "Articles": [
+        {
+          "ID": 222154,
+          "Title": "Credință religioasă"
+        },
         {
           "ID": 248490,
           "Title": "Frumusețe"
@@ -910,6 +1046,18 @@
       "Title": "Society and social sciences",
       "Categories": [
         {
+          "ID": 14468,
+          "Title": "Categorie:Organizaţii internaţionale"
+        },
+        {
+          "ID": 19804,
+          "Title": "Categorie:Drept"
+        },
+        {
+          "ID": 22914,
+          "Title": "Categorie:Acte normative"
+        },
+        {
           "ID": 23611,
           "Title": "Categorie:Societate"
         },
@@ -924,6 +1072,10 @@
         {
           "ID": 761038,
           "Title": "Categorie:Științe sociale"
+        },
+        {
+          "ID": 761039,
+          "Title": "Categorie:Științe umane"
         },
         {
           "ID": 901904,
@@ -954,6 +1106,18 @@
         {
           "ID": 10691,
           "Title": "Universitatea Stanford"
+        },
+        {
+          "ID": 17689,
+          "Title": "Barbados"
+        },
+        {
+          "ID": 17701,
+          "Title": "Chile"
+        },
+        {
+          "ID": 17735,
+          "Title": "Iran"
         },
         {
           "ID": 27907,
@@ -1058,6 +1222,10 @@
         {
           "ID": 587467,
           "Title": "CUNY"
+        },
+        {
+          "ID": 647600,
+          "Title": "Trust"
         },
         {
           "ID": 664743,
@@ -1246,14 +1414,26 @@
           "Title": "Categorie:Științe aplicate"
         },
         {
+          "ID": 831566,
+          "Title": "Categorie:Tehnologie militară"
+        },
+        {
           "ID": 1651689,
           "Title": "Categorie:Informatică aplicată"
         }
       ],
       "Articles": [
         {
+          "ID": 16193,
+          "Title": "TLD"
+        },
+        {
           "ID": 150414,
           "Title": ".xxx"
+        },
+        {
+          "ID": 228901,
+          "Title": "Sudare"
         },
         {
           "ID": 312776,

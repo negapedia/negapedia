@@ -26,8 +26,20 @@
           "Title": "Kategoria:Makmakan"
         },
         {
+          "ID": 21621,
+          "Title": "Kategoria:Makan ken mainum"
+        },
+        {
           "ID": 22803,
           "Title": "Kategoria:Luto"
+        },
+        {
+          "ID": 22806,
+          "Title": "Kategoria:Kultura ti taraon"
+        },
+        {
+          "ID": 22808,
+          "Title": "Kategoria:Nutrision"
         },
         {
           "ID": 33236,
@@ -46,6 +58,10 @@
         {
           "ID": 17054,
           "Title": "Kape"
+        },
+        {
+          "ID": 20710,
+          "Title": "Kinapudno"
         },
         {
           "ID": 22813,
@@ -127,6 +143,12 @@
           "ID": 24825,
           "Title": "Kategoria:Pakasaritaan babaen ti pagilian"
         }
+      ],
+      "Articles": [
+        {
+          "ID": 51134,
+          "Title": "Donald Trump"
+        }
       ]
     },
     {
@@ -164,6 +186,10 @@
           "Title": "Kategoria:Dagiti masna a siensia"
         },
         {
+          "ID": 16244,
+          "Title": "Kategoria:Dagiti kimiko a sustansia"
+        },
+        {
           "ID": 16245,
           "Title": "Kategoria:Kimika"
         },
@@ -194,6 +220,10 @@
       ],
       "Articles": [
         {
+          "ID": 320,
+          "Title": "Kamatis"
+        },
+        {
           "ID": 491,
           "Title": "Buto"
         },
@@ -208,6 +238,10 @@
         {
           "ID": 22940,
           "Title": "Limon"
+        },
+        {
+          "ID": 24954,
+          "Title": "Piskel"
         },
         {
           "ID": 24980,
@@ -228,6 +262,10 @@
         {
           "ID": 25905,
           "Title": "Saleng"
+        },
+        {
+          "ID": 38235,
+          "Title": "Mangifera indica"
         }
       ]
     },
@@ -235,6 +273,10 @@
       "ID": 2147483643,
       "Title": "People and self",
       "Categories": [
+        {
+          "ID": 61,
+          "Title": "Kategoria:Biografia"
+        },
         {
           "ID": 141,
           "Title": "Kategoria:Tattao"
@@ -332,6 +374,10 @@
           "Title": "Kategoria:Etika"
         },
         {
+          "ID": 20672,
+          "Title": "Kategoria:Dagiti politikal a teoria"
+        },
+        {
           "ID": 20723,
           "Title": "Kategoria:Dagiti ideolohia"
         },
@@ -394,6 +440,10 @@
           "Title": "Kategoria:Dagiti siensia sosial"
         },
         {
+          "ID": 18134,
+          "Title": "Kategoria:Linteg"
+        },
+        {
           "ID": 21750,
           "Title": "Kategoria:Dagiti gunglo ti sangalubongan"
         },
@@ -403,6 +453,18 @@
         }
       ],
       "Articles": [
+        {
+          "ID": 4925,
+          "Title": "Barbados"
+        },
+        {
+          "ID": 4939,
+          "Title": "Chile"
+        },
+        {
+          "ID": 4971,
+          "Title": "Iran"
+        },
         {
           "ID": 12075,
           "Title": "Kappon ti Europa"
@@ -452,6 +514,10 @@
         {
           "ID": 23565,
           "Title": "Kategoria:Aruaten ti militar"
+        },
+        {
+          "ID": 23569,
+          "Title": "Kategoria:Teknolohia ti militar"
         },
         {
           "ID": 33564,

@@ -26,6 +26,14 @@
           "Title": "Categoria:Alimentos"
         },
         {
+          "ID": 40393,
+          "Title": "Categoria:Nutrição"
+        },
+        {
+          "ID": 41629,
+          "Title": "Categoria:Alimentação"
+        },
+        {
           "ID": 69904,
           "Title": "Categoria:Entretenimento"
         },
@@ -44,6 +52,10 @@
         {
           "ID": 2220654,
           "Title": "Categoria:Espetáculos"
+        },
+        {
+          "ID": 4142065,
+          "Title": "Categoria:Pratos por ingrediente principal"
         }
       ],
       "Articles": [
@@ -96,12 +108,20 @@
           "Title": "AC/DC"
         },
         {
+          "ID": 58335,
+          "Title": "Realidade"
+        },
+        {
           "ID": 61528,
           "Title": "Mordred"
         },
         {
           "ID": 70406,
           "Title": "Escola de Magia e Bruxaria de Hogwarts"
+        },
+        {
+          "ID": 71634,
+          "Title": "Culinária da França"
         },
         {
           "ID": 75054,
@@ -126,6 +146,10 @@
         {
           "ID": 110540,
           "Title": "M\u0026M's"
+        },
+        {
+          "ID": 111877,
+          "Title": "Molho"
         },
         {
           "ID": 124469,
@@ -166,6 +190,18 @@
         {
           "ID": 211092,
           "Title": "Celibato"
+        },
+        {
+          "ID": 217691,
+          "Title": "Biscoito"
+        },
+        {
+          "ID": 220605,
+          "Title": "Sorvete"
+        },
+        {
+          "ID": 224308,
+          "Title": "Criaturas em Harry Potter"
         },
         {
           "ID": 239076,
@@ -248,6 +284,10 @@
           "Title": "Curau"
         },
         {
+          "ID": 2012455,
+          "Title": "Carne de porco"
+        },
+        {
           "ID": 2204452,
           "Title": "Bolo de arroz"
         },
@@ -256,8 +296,16 @@
           "Title": "Chocolate quente"
         },
         {
+          "ID": 2285492,
+          "Title": "Rock Band"
+        },
+        {
           "ID": 2301077,
           "Title": "Pasta con le sarde"
+        },
+        {
+          "ID": 2374976,
+          "Title": "Torta"
         },
         {
           "ID": 2527758,
@@ -278,6 +326,10 @@
         {
           "ID": 3181510,
           "Title": "Judas (canção de Lady Gaga)"
+        },
+        {
+          "ID": 3218114,
+          "Title": "Realismo filosófico"
         },
         {
           "ID": 3274866,
@@ -324,6 +376,10 @@
           "Title": "Angry Birds Rio"
         },
         {
+          "ID": 4089058,
+          "Title": "Massa lêveda"
+        },
+        {
           "ID": 4090019,
           "Title": "Timpano"
         },
@@ -336,12 +392,28 @@
           "Title": "Pasta e fagioli"
         },
         {
+          "ID": 4165443,
+          "Title": "Lista de lugares da série Harry Potter"
+        },
+        {
           "ID": 4166962,
           "Title": "Angry Birds (jogo eletrónico)"
         },
         {
+          "ID": 4243257,
+          "Title": "Recheio"
+        },
+        {
           "ID": 4245933,
           "Title": "Ovo (alimento)"
+        },
+        {
+          "ID": 4275019,
+          "Title": "Fatback"
+        },
+        {
+          "ID": 4276663,
+          "Title": "Salo"
         },
         {
           "ID": 4303384,
@@ -374,6 +446,10 @@
         {
           "ID": 5008552,
           "Title": "Chocolate belga"
+        },
+        {
+          "ID": 5070829,
+          "Title": "Realismo (desambiguação)"
         },
         {
           "ID": 5085469,
@@ -468,6 +544,10 @@
         {
           "ID": 736691,
           "Title": "Categoria:Lugares"
+        },
+        {
+          "ID": 5581392,
+          "Title": "Categoria:Desenho urbano"
         }
       ],
       "Articles": [
@@ -576,6 +656,10 @@
           "Title": "Ataques de 11 de setembro de 2001"
         },
         {
+          "ID": 42470,
+          "Title": "Donald Trump"
+        },
+        {
           "ID": 143564,
           "Title": "Negacionismo do Holocausto"
         },
@@ -662,6 +746,10 @@
         {
           "ID": 560,
           "Title": "Comprimento"
+        },
+        {
+          "ID": 2107454,
+          "Title": "Unidades de comprimento"
         }
       ]
     },
@@ -712,6 +800,10 @@
         {
           "ID": 2214246,
           "Title": "Categoria:Ciência ambiental"
+        },
+        {
+          "ID": 5439470,
+          "Title": "Categoria:Substâncias químicas"
         }
       ],
       "Articles": [
@@ -728,6 +820,10 @@
           "Title": "Urina"
         },
         {
+          "ID": 3446,
+          "Title": "Músculo"
+        },
+        {
           "ID": 13248,
           "Title": "Sistema muscular"
         },
@@ -738,6 +834,10 @@
         {
           "ID": 15012,
           "Title": "Morango"
+        },
+        {
+          "ID": 19000,
+          "Title": "Tentáculo"
         },
         {
           "ID": 20407,
@@ -776,8 +876,24 @@
           "Title": "Masturbação"
         },
         {
+          "ID": 53104,
+          "Title": "Melão"
+        },
+        {
+          "ID": 54242,
+          "Title": "Tomate"
+        },
+        {
           "ID": 55080,
           "Title": "Ciclo hidrológico"
+        },
+        {
+          "ID": 62599,
+          "Title": "Pantherinae"
+        },
+        {
+          "ID": 66192,
+          "Title": "Sucuri"
         },
         {
           "ID": 66231,
@@ -786,6 +902,10 @@
         {
           "ID": 66410,
           "Title": "Camelo"
+        },
+        {
+          "ID": 71528,
+          "Title": "Hylidae"
         },
         {
           "ID": 99062,
@@ -824,8 +944,16 @@
           "Title": "Pinus kesiya"
         },
         {
+          "ID": 270136,
+          "Title": "Mangifera indica"
+        },
+        {
           "ID": 335848,
           "Title": "Ateles"
+        },
+        {
+          "ID": 383103,
+          "Title": "Triticum"
         },
         {
           "ID": 389262,
@@ -858,6 +986,14 @@
         {
           "ID": 1451719,
           "Title": "Juniperus thurifera"
+        },
+        {
+          "ID": 1561604,
+          "Title": "Cavalinha (peixe)"
+        },
+        {
+          "ID": 1678612,
+          "Title": "Sucuri-verde"
         },
         {
           "ID": 1700405,
@@ -896,8 +1032,16 @@
           "Title": "Elymus farctus"
         },
         {
+          "ID": 4710887,
+          "Title": "Rede trófica"
+        },
+        {
           "ID": 5067117,
           "Title": "Pseudacris crucifer"
+        },
+        {
+          "ID": 5166792,
+          "Title": "Pénis humano"
         },
         {
           "ID": 5359480,
@@ -936,6 +1080,10 @@
         {
           "ID": 2270850,
           "Title": "Categoria:Ego"
+        },
+        {
+          "ID": 2519134,
+          "Title": "Categoria:Mulheres"
         },
         {
           "ID": 4287098,
@@ -1088,6 +1236,14 @@
           "Title": "Janet Margolin"
         },
         {
+          "ID": 1440586,
+          "Title": "The Big Bang Theory"
+        },
+        {
+          "ID": 1762304,
+          "Title": "Crepúsculo (romance)"
+        },
+        {
           "ID": 1829154,
           "Title": "Jacob Black"
         },
@@ -1162,6 +1318,10 @@
           "Title": "Categoria:Teorias filosóficas"
         },
         {
+          "ID": 2619477,
+          "Title": "Categoria:Teorias políticas"
+        },
+        {
           "ID": 2894173,
           "Title": "Categoria:Divisões da filosofia"
         },
@@ -1172,12 +1332,20 @@
       ],
       "Articles": [
         {
+          "ID": 5275,
+          "Title": "Fé"
+        },
+        {
           "ID": 29560,
           "Title": "Felicidade"
         },
         {
           "ID": 176147,
           "Title": "Beleza"
+        },
+        {
+          "ID": 486639,
+          "Title": "Confiança"
         },
         {
           "ID": 1323832,
@@ -1236,6 +1404,10 @@
       "Title": "Society and social sciences",
       "Categories": [
         {
+          "ID": 15064,
+          "Title": "Categoria:Direito"
+        },
+        {
           "ID": 15662,
           "Title": "Categoria:Ciências sociais"
         },
@@ -1250,6 +1422,14 @@
         {
           "ID": 37522,
           "Title": "Categoria:Sociedade"
+        },
+        {
+          "ID": 90430,
+          "Title": "Categoria:Ciências humanas"
+        },
+        {
+          "ID": 152533,
+          "Title": "Categoria:Leis"
         },
         {
           "ID": 1329098,
@@ -1270,8 +1450,16 @@
           "Title": "União Europeia"
         },
         {
+          "ID": 3877,
+          "Title": "Irão"
+        },
+        {
           "ID": 4771,
           "Title": "Chile"
+        },
+        {
+          "ID": 4828,
+          "Title": "Barbados"
         },
         {
           "ID": 8332,
@@ -1838,6 +2026,14 @@
           "Title": "Universidade de Lineu"
         },
         {
+          "ID": 4827703,
+          "Title": "Pacific-12 Conference"
+        },
+        {
+          "ID": 4891091,
+          "Title": "Trust"
+        },
+        {
           "ID": 4940379,
           "Title": "Universidade de Calcutá"
         },
@@ -1900,6 +2096,10 @@
         {
           "ID": 5873634,
           "Title": "Jio"
+        },
+        {
+          "ID": 5910982,
+          "Title": "National Archives and Records Administration"
         }
       ]
     },
@@ -1956,6 +2156,10 @@
           "Title": "Categoria:Tecnologia por tipo"
         },
         {
+          "ID": 3152026,
+          "Title": "Categoria:Tecnologia militar"
+        },
+        {
           "ID": 3161028,
           "Title": "Categoria:Cronologias de tecnologia"
         },
@@ -1965,6 +2169,10 @@
         }
       ],
       "Articles": [
+        {
+          "ID": 7316,
+          "Title": "Domínio de topo"
+        },
         {
           "ID": 65924,
           "Title": "Pepsi"
@@ -1976,6 +2184,10 @@
         {
           "ID": 109527,
           "Title": "Alvenaria"
+        },
+        {
+          "ID": 118298,
+          "Title": "Solda"
         },
         {
           "ID": 390096,

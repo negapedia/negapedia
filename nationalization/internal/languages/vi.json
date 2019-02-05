@@ -30,6 +30,10 @@
           "Title": "Thể loại:Thể thao"
         },
         {
+          "ID": 16701,
+          "Title": "Thể loại:Dinh dưỡng"
+        },
+        {
           "ID": 23615,
           "Title": "Thể loại:Tiêu khiển"
         },
@@ -44,6 +48,18 @@
         {
           "ID": 442736,
           "Title": "Thể loại:Sở thích"
+        },
+        {
+          "ID": 444426,
+          "Title": "Thể loại:Văn hóa ẩm thực"
+        },
+        {
+          "ID": 494980,
+          "Title": "Thể loại:Ăn uống"
+        },
+        {
+          "ID": 2414729,
+          "Title": "Thể loại:Món ăn theo thành phần chính"
         }
       ],
       "Articles": [
@@ -116,8 +132,20 @@
           "Title": "Cung điện Buckingham"
         },
         {
+          "ID": 184489,
+          "Title": "Ẩm thực Pháp"
+        },
+        {
+          "ID": 187862,
+          "Title": "Thịt mỡ"
+        },
+        {
           "ID": 188604,
           "Title": "Green Day"
+        },
+        {
+          "ID": 193737,
+          "Title": "Thịt lợn"
         },
         {
           "ID": 197851,
@@ -132,12 +160,28 @@
           "Title": "Trứng luộc"
         },
         {
+          "ID": 241115,
+          "Title": "Sinh vật huyền bí trong Harry Potter"
+        },
+        {
+          "ID": 292171,
+          "Title": "Kem (thực phẩm)"
+        },
+        {
           "ID": 334340,
           "Title": "Bánh pía"
         },
         {
           "ID": 405833,
           "Title": "Chủ nghĩa hiện thực"
+        },
+        {
+          "ID": 455836,
+          "Title": "Địa điểm trong Harry Potter"
+        },
+        {
+          "ID": 469422,
+          "Title": "Thực tế"
         },
         {
           "ID": 528985,
@@ -182,6 +226,10 @@
         {
           "ID": 824157,
           "Title": "Sgt. Pepper's Lonely Hearts Club Band"
+        },
+        {
+          "ID": 824880,
+          "Title": "Mỡ muối"
         },
         {
           "ID": 825016,
@@ -264,6 +312,14 @@
           "Title": "Sô-cô-la nóng"
         },
         {
+          "ID": 2455680,
+          "Title": "Xốt"
+        },
+        {
+          "ID": 2459716,
+          "Title": "Chủ nghĩa duy thực"
+        },
+        {
           "ID": 2461334,
           "Title": "Angry Birds Seasons"
         },
@@ -290,6 +346,10 @@
         {
           "ID": 3244804,
           "Title": "Bejeweled"
+        },
+        {
+          "ID": 3246592,
+          "Title": "Pie"
         },
         {
           "ID": 3274427,
@@ -376,6 +436,10 @@
         {
           "ID": 1698425,
           "Title": "Thể loại:Nơi chốn"
+        },
+        {
+          "ID": 3181496,
+          "Title": "Thể loại:Thiết kế đô thị"
         },
         {
           "ID": 12475415,
@@ -466,6 +530,10 @@
         {
           "ID": 68192,
           "Title": "Thể loại:Sự kiện"
+        },
+        {
+          "ID": 3424592,
+          "Title": "Thể loại:Sự kiện văn hóa"
         }
       ],
       "Articles": [
@@ -476,6 +544,10 @@
         {
           "ID": 51174,
           "Title": "Chiến tranh thành Troia"
+        },
+        {
+          "ID": 250885,
+          "Title": "Donald Trump"
         },
         {
           "ID": 514776,
@@ -544,6 +616,10 @@
         {
           "ID": 2644,
           "Title": "Chiều dài"
+        },
+        {
+          "ID": 3288,
+          "Title": "Đơn vị đo chiều dài"
         }
       ]
     },
@@ -582,6 +658,10 @@
         {
           "ID": 56496,
           "Title": "Thể loại:Khoa học môi trường"
+        },
+        {
+          "ID": 59544,
+          "Title": "Thể loại:Hóa chất"
         },
         {
           "ID": 73231,
@@ -634,12 +714,40 @@
           "Title": "Vòng tuần hoàn nước"
         },
         {
+          "ID": 54582,
+          "Title": "Cơ (sinh học)"
+        },
+        {
+          "ID": 62046,
+          "Title": "Trăn anaconda"
+        },
+        {
           "ID": 63663,
           "Title": "Thông ba lá"
         },
         {
+          "ID": 68936,
+          "Title": "Xôi"
+        },
+        {
+          "ID": 90616,
+          "Title": "Cá thu"
+        },
+        {
+          "ID": 97190,
+          "Title": "Cà chua"
+        },
+        {
+          "ID": 107742,
+          "Title": "Phân họ Báo"
+        },
+        {
           "ID": 119971,
           "Title": "Ngô"
+        },
+        {
+          "ID": 146335,
+          "Title": "Họ Nhái bén"
         },
         {
           "ID": 148098,
@@ -694,12 +802,20 @@
           "Title": "Gạo nếp"
         },
         {
+          "ID": 732375,
+          "Title": "Dưa bở"
+        },
+        {
           "ID": 781424,
           "Title": "Lịch Maya"
         },
         {
           "ID": 864065,
           "Title": "Cà chua bi"
+        },
+        {
+          "ID": 1058817,
+          "Title": "Dương vật người"
         },
         {
           "ID": 1262065,
@@ -726,8 +842,20 @@
           "Title": "Ateles"
         },
         {
+          "ID": 1733051,
+          "Title": "Garrulus"
+        },
+        {
           "ID": 1746494,
           "Title": "Mèo lớn"
+        },
+        {
+          "ID": 1766005,
+          "Title": "Eunectes murinus"
+        },
+        {
+          "ID": 1775041,
+          "Title": "Haackgreerius miopus"
         },
         {
           "ID": 1828069,
@@ -752,6 +880,10 @@
         {
           "ID": 2372533,
           "Title": "Byrsonima lucida"
+        },
+        {
+          "ID": 2390110,
+          "Title": "Mangifera indica"
         },
         {
           "ID": 2424303,
@@ -786,6 +918,10 @@
           "Title": "Sự nảy mầm"
         },
         {
+          "ID": 3226095,
+          "Title": "Dưa lê"
+        },
+        {
           "ID": 3240131,
           "Title": "Nai sừng tấm Á-Âu"
         },
@@ -794,12 +930,20 @@
           "Title": "Dê lùn Nigeria"
         },
         {
+          "ID": 3280704,
+          "Title": "Myrtus"
+        },
+        {
           "ID": 3428607,
           "Title": "Phân bò"
         },
         {
           "ID": 3431334,
           "Title": "Trấu"
+        },
+        {
+          "ID": 3434762,
+          "Title": "Lưới thức ăn"
         },
         {
           "ID": 3653505,
@@ -834,6 +978,10 @@
         {
           "ID": 49587,
           "Title": "Thể loại:Họ tên"
+        },
+        {
+          "ID": 53839,
+          "Title": "Thể loại:Phụ nữ"
         },
         {
           "ID": 831920,
@@ -946,6 +1094,10 @@
           "Title": "Oliver Cromwell"
         },
         {
+          "ID": 308845,
+          "Title": "Chạng vạng (tiểu thuyết)"
+        },
+        {
           "ID": 321161,
           "Title": "George Harrison"
         },
@@ -998,6 +1150,10 @@
           "Title": "Joseph Smith"
         },
         {
+          "ID": 2442642,
+          "Title": "The Big Bang Theory"
+        },
+        {
           "ID": 3311663,
           "Title": "Ted Cruz"
         },
@@ -1018,6 +1174,10 @@
         {
           "ID": 6845,
           "Title": "Thể loại:Triết học"
+        },
+        {
+          "ID": 48836,
+          "Title": "Thể loại:Học thuyết chính trị"
         },
         {
           "ID": 62165,
@@ -1045,6 +1205,10 @@
         }
       ],
       "Articles": [
+        {
+          "ID": 6250,
+          "Title": "Tín ngưỡng"
+        },
         {
           "ID": 101634,
           "Title": "Đẹp"
@@ -1118,6 +1282,10 @@
           "Title": "Thể loại:Xã hội"
         },
         {
+          "ID": 7508,
+          "Title": "Thể loại:Luật pháp"
+        },
+        {
           "ID": 32787,
           "Title": "Thể loại:Khoa học xã hội"
         },
@@ -1130,8 +1298,16 @@
           "Title": "Thể loại:Quyền"
         },
         {
+          "ID": 3150124,
+          "Title": "Thể loại:Luật thành văn"
+        },
+        {
           "ID": 3156295,
           "Title": "Thể loại:Chủ nghĩa nữ giới"
+        },
+        {
+          "ID": 3527143,
+          "Title": "Thể loại:Khoa học nhân văn"
         }
       ],
       "Articles": [
@@ -1156,6 +1332,14 @@
           "Title": "The New York Times"
         },
         {
+          "ID": 36688,
+          "Title": "Iran"
+        },
+        {
+          "ID": 38294,
+          "Title": "Chile"
+        },
+        {
           "ID": 46843,
           "Title": "Đại học Harvard"
         },
@@ -1170,6 +1354,10 @@
         {
           "ID": 51203,
           "Title": "Đại học Columbia"
+        },
+        {
+          "ID": 54914,
+          "Title": "Barbados"
         },
         {
           "ID": 57895,
@@ -1580,12 +1768,24 @@
         {
           "ID": 3121928,
           "Title": "Thể loại:Thời biểu công nghệ"
+        },
+        {
+          "ID": 7624018,
+          "Title": "Thể loại:Công nghệ quân sự"
         }
       ],
       "Articles": [
         {
+          "ID": 9824,
+          "Title": "Hàn (công nghệ)"
+        },
+        {
           "ID": 81563,
           "Title": "Kẹo cao su"
+        },
+        {
+          "ID": 104952,
+          "Title": "Tên miền cấp cao nhất"
         },
         {
           "ID": 281435,

@@ -14,6 +14,10 @@
           "Title": "Kategoria:Elikagaiak"
         },
         {
+          "ID": 5964,
+          "Title": "Kategoria:Elikadura"
+        },
+        {
           "ID": 6558,
           "Title": "Kategoria:Musika taldeak"
         },
@@ -40,6 +44,14 @@
         {
           "ID": 158938,
           "Title": "Kategoria:Jolasa"
+        },
+        {
+          "ID": 297829,
+          "Title": "Kategoria:Janariak eta edariak"
+        },
+        {
+          "ID": 674888,
+          "Title": "Kategoria:Platerak osagaien arabera"
         }
       ],
       "Articles": [
@@ -116,8 +128,20 @@
           "Title": "Felazio"
         },
         {
+          "ID": 116210,
+          "Title": "Gaileta"
+        },
+        {
           "ID": 116277,
           "Title": "Urdaiazpiko"
+        },
+        {
+          "ID": 118273,
+          "Title": "Errealismo"
+        },
+        {
+          "ID": 128811,
+          "Title": "Errealitate"
         },
         {
           "ID": 142905,
@@ -140,6 +164,10 @@
           "Title": "Ikasteko teknikak"
         },
         {
+          "ID": 227013,
+          "Title": "Izozki"
+        },
+        {
           "ID": 240346,
           "Title": "Judas (abestia)"
         },
@@ -160,12 +188,20 @@
           "Title": "Gozopil"
         },
         {
+          "ID": 344969,
+          "Title": "Saltsa"
+        },
+        {
           "ID": 379691,
           "Title": "Urdai"
         },
         {
           "ID": 386798,
           "Title": "The World Factbook"
+        },
+        {
+          "ID": 434016,
+          "Title": "Txerriki"
         },
         {
           "ID": 436537,
@@ -186,6 +222,10 @@
         {
           "ID": 597409,
           "Title": "Marmotaren eguna"
+        },
+        {
+          "ID": 612295,
+          "Title": "Frantziako gastronomia"
         },
         {
           "ID": 631872,
@@ -222,6 +262,10 @@
         {
           "ID": 674762,
           "Title": "Kakahuete-gurin"
+        },
+        {
+          "ID": 674885,
+          "Title": "Haragi xehetu"
         },
         {
           "ID": 711878,
@@ -338,6 +382,10 @@
           "Title": "Kategoria:Higienea"
         },
         {
+          "ID": 83268,
+          "Title": "Kategoria:Gaixotasun hereditarioak"
+        },
+        {
           "ID": 83336,
           "Title": "Kategoria:Gaixotasun genetikoak"
         },
@@ -370,6 +418,10 @@
         {
           "ID": 96497,
           "Title": "Kategoria:Gertaerak"
+        },
+        {
+          "ID": 157480,
+          "Title": "Kategoria:Kultura ekitaldiak"
         }
       ],
       "Articles": [
@@ -392,6 +444,10 @@
         {
           "ID": 365173,
           "Title": "2012ko Ameriketako Estatu Batuetako hauteskundeak"
+        },
+        {
+          "ID": 647329,
+          "Title": "Donald Trump"
         },
         {
           "ID": 657648,
@@ -472,6 +528,10 @@
           "Title": "Kategoria:Konposatu kimikoak"
         },
         {
+          "ID": 76014,
+          "Title": "Kategoria:Substantzia kimikoak"
+        },
+        {
           "ID": 241855,
           "Title": "Kategoria:Fauna kontinentearen arabera"
         },
@@ -484,6 +544,10 @@
         {
           "ID": 5719,
           "Title": "Su"
+        },
+        {
+          "ID": 6378,
+          "Title": "Tomate"
         },
         {
           "ID": 9414,
@@ -502,8 +566,16 @@
           "Title": "Lokomozio-aparatu"
         },
         {
+          "ID": 23967,
+          "Title": "Muskulu"
+        },
+        {
           "ID": 36266,
           "Title": "Zakil"
+        },
+        {
+          "ID": 45596,
+          "Title": "Anakonda"
         },
         {
           "ID": 55402,
@@ -534,6 +606,10 @@
           "Title": "Laranja"
         },
         {
+          "ID": 70169,
+          "Title": "Mangifera indica"
+        },
+        {
           "ID": 72439,
           "Title": "Barrabil"
         },
@@ -552,6 +628,10 @@
         {
           "ID": 128841,
           "Title": "Anana"
+        },
+        {
+          "ID": 130743,
+          "Title": "Meloi"
         },
         {
           "ID": 130937,
@@ -578,6 +658,22 @@
           "Title": "Intsentsu-sabina"
         },
         {
+          "ID": 348933,
+          "Title": "Anakonda arrunt"
+        },
+        {
+          "ID": 356111,
+          "Title": "Haackgreerius miopus"
+        },
+        {
+          "ID": 375905,
+          "Title": "Bazka sare"
+        },
+        {
+          "ID": 395800,
+          "Title": "Pantherinae"
+        },
+        {
           "ID": 412112,
           "Title": "Pseudacris crucifer"
         },
@@ -592,6 +688,10 @@
         {
           "ID": 428698,
           "Title": "Ophisaurus"
+        },
+        {
+          "ID": 449664,
+          "Title": "Hylidae"
         },
         {
           "ID": 464657,
@@ -614,8 +714,20 @@
           "Title": "Baratze-marrubi"
         },
         {
+          "ID": 648143,
+          "Title": "Garrulus"
+        },
+        {
+          "ID": 648314,
+          "Title": "Tentakulu"
+        },
+        {
           "ID": 737468,
           "Title": "Mango"
+        },
+        {
+          "ID": 755031,
+          "Title": "Giza zakila"
         }
       ]
     },
@@ -754,6 +866,10 @@
           "Title": "Lewis Carroll"
         },
         {
+          "ID": 111990,
+          "Title": "The Big Bang Theory"
+        },
+        {
           "ID": 225752,
           "Title": "Anders Behring Breivik"
         },
@@ -830,6 +946,10 @@
         {
           "ID": 105625,
           "Title": "Kategoria:Eskola filosofikoak"
+        },
+        {
+          "ID": 679022,
+          "Title": "Kategoria:Teoria politikoak"
         }
       ],
       "Articles": [
@@ -838,8 +958,16 @@
           "Title": "Edertasun"
         },
         {
+          "ID": 77191,
+          "Title": "Fede"
+        },
+        {
           "ID": 158834,
           "Title": "Zorion"
+        },
+        {
+          "ID": 335831,
+          "Title": "Konfiantza"
         },
         {
           "ID": 573986,
@@ -886,6 +1014,10 @@
           "Title": "Kategoria:Gizarte zientziak"
         },
         {
+          "ID": 5736,
+          "Title": "Kategoria:Zuzenbidea"
+        },
+        {
           "ID": 6005,
           "Title": "Kategoria:Gizartea"
         },
@@ -894,18 +1026,38 @@
           "Title": "Kategoria:Nazioarteko erakundeak"
         },
         {
+          "ID": 9540,
+          "Title": "Kategoria:Legeak"
+        },
+        {
           "ID": 35422,
           "Title": "Kategoria:Feminismoa"
         },
         {
           "ID": 98830,
           "Title": "Kategoria:Eskubideak"
+        },
+        {
+          "ID": 655111,
+          "Title": "Kategoria:Humanitateak"
         }
       ],
       "Articles": [
         {
           "ID": 3484,
           "Title": "Europar Batasuna"
+        },
+        {
+          "ID": 5371,
+          "Title": "Iran"
+        },
+        {
+          "ID": 5458,
+          "Title": "Barbados"
+        },
+        {
+          "ID": 5485,
+          "Title": "Txile"
         },
         {
           "ID": 9523,
@@ -1006,6 +1158,10 @@
         {
           "ID": 293006,
           "Title": "New York Hiriko Unibertsitatea"
+        },
+        {
+          "ID": 296587,
+          "Title": "Pacific-12 Conference"
         },
         {
           "ID": 338904,
@@ -1134,14 +1290,26 @@
           "Title": "Kategoria:Tresneria militarra"
         },
         {
+          "ID": 678980,
+          "Title": "Kategoria:Teknologia militarra"
+        },
+        {
           "ID": 731978,
           "Title": "Kategoria:Mugikor aplikazioak"
         }
       ],
       "Articles": [
         {
+          "ID": 19983,
+          "Title": "Goi mailako domeinu"
+        },
+        {
           "ID": 33414,
           "Title": ".xxx"
+        },
+        {
+          "ID": 95800,
+          "Title": "Soldadura"
         },
         {
           "ID": 114963,

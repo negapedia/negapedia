@@ -14,12 +14,20 @@
           "Title": "Catégorie:Cuisine"
         },
         {
+          "ID": 84920,
+          "Title": "Catégorie:Nutrition"
+        },
+        {
           "ID": 84923,
           "Title": "Catégorie:Sport"
         },
         {
           "ID": 84986,
           "Title": "Catégorie:Culture"
+        },
+        {
+          "ID": 87520,
+          "Title": "Catégorie:Alimentation"
         },
         {
           "ID": 87775,
@@ -44,12 +52,28 @@
         {
           "ID": 3157419,
           "Title": "Catégorie:Spectacle"
+        },
+        {
+          "ID": 3257048,
+          "Title": "Catégorie:Préparation culinaire"
+        },
+        {
+          "ID": 6030049,
+          "Title": "Catégorie:Spécialité par ingrédient principal"
         }
       ],
       "Articles": [
         {
+          "ID": 572,
+          "Title": "Cuisine française"
+        },
+        {
           "ID": 604,
           "Title": "The World Factbook"
+        },
+        {
+          "ID": 1070,
+          "Title": "Ensemble musical"
         },
         {
           "ID": 5258,
@@ -74,6 +98,10 @@
         {
           "ID": 27162,
           "Title": "Pils (bière)"
+        },
+        {
+          "ID": 27327,
+          "Title": "Sauce"
         },
         {
           "ID": 27589,
@@ -108,6 +136,10 @@
           "Title": "Sacha (Pokémon)"
         },
         {
+          "ID": 57893,
+          "Title": "Réalité"
+        },
+        {
           "ID": 61047,
           "Title": "Pâtes à la carbonara"
         },
@@ -126,6 +158,10 @@
         {
           "ID": 93874,
           "Title": "Green Day"
+        },
+        {
+          "ID": 115379,
+          "Title": "Crème glacée"
         },
         {
           "ID": 122236,
@@ -212,8 +248,20 @@
           "Title": "WWE Championship"
         },
         {
+          "ID": 758111,
+          "Title": "Biscuit"
+        },
+        {
+          "ID": 931377,
+          "Title": "Réalisme"
+        },
+        {
           "ID": 957631,
           "Title": "Bière de gingembre"
+        },
+        {
+          "ID": 1006275,
+          "Title": "Farce (cuisine)"
         },
         {
           "ID": 1063981,
@@ -236,6 +284,10 @@
           "Title": "Giuditta Pasta"
         },
         {
+          "ID": 1380118,
+          "Title": "Réalisme (philosophie)"
+        },
+        {
           "ID": 1427613,
           "Title": "Navarin (cuisine)"
         },
@@ -246,6 +298,14 @@
         {
           "ID": 1609928,
           "Title": "Scotch egg"
+        },
+        {
+          "ID": 1722873,
+          "Title": "Tourte (plat)"
+        },
+        {
+          "ID": 1883149,
+          "Title": "Cracker (biscuit)"
         },
         {
           "ID": 1885978,
@@ -296,6 +356,10 @@
           "Title": "Chocolat chaud"
         },
         {
+          "ID": 3407012,
+          "Title": "Viande hachée"
+        },
+        {
           "ID": 3410548,
           "Title": "Sauce espagnole"
         },
@@ -318,6 +382,14 @@
         {
           "ID": 3632232,
           "Title": "Jour de la marmotte"
+        },
+        {
+          "ID": 3698091,
+          "Title": "Liste des créatures du monde des sorciers de J. K. Rowling"
+        },
+        {
+          "ID": 3701272,
+          "Title": "Lieux de Harry Potter"
         },
         {
           "ID": 3843876,
@@ -344,6 +416,10 @@
           "Title": "Pain de Gênes"
         },
         {
+          "ID": 4449473,
+          "Title": "Rock Band (série)"
+        },
+        {
           "ID": 4466991,
           "Title": "Pain complet"
         },
@@ -362,6 +438,14 @@
         {
           "ID": 4649608,
           "Title": "Ricciarelli di Siena"
+        },
+        {
+          "ID": 4688500,
+          "Title": "Dünnbier"
+        },
+        {
+          "ID": 4731985,
+          "Title": "Bière light"
         },
         {
           "ID": 4796021,
@@ -476,6 +560,10 @@
           "Title": "Thalaivaa"
         },
         {
+          "ID": 7393915,
+          "Title": "Porc (viande)"
+        },
+        {
           "ID": 7662567,
           "Title": "Fête des fusées"
         },
@@ -534,6 +622,10 @@
         {
           "ID": 9622232,
           "Title": "Rouleau de tofu"
+        },
+        {
+          "ID": 9636198,
+          "Title": "Plätzchen"
         },
         {
           "ID": 9656473,
@@ -742,6 +834,10 @@
           "Title": "Catégorie:Histoire"
         },
         {
+          "ID": 83792,
+          "Title": "Catégorie:Histoire nationale"
+        },
+        {
           "ID": 399764,
           "Title": "Catégorie:Événement"
         },
@@ -758,6 +854,10 @@
         {
           "ID": 3428,
           "Title": "Attentats du 11 septembre 2001"
+        },
+        {
+          "ID": 222336,
+          "Title": "Donald Trump"
         },
         {
           "ID": 898131,
@@ -848,6 +948,10 @@
       ],
       "Articles": [
         {
+          "ID": 52793,
+          "Title": "Unité de longueur"
+        },
+        {
           "ID": 71455,
           "Title": "Longueur"
         }
@@ -894,11 +998,19 @@
           "Title": "Catégorie:Faune par continent"
         },
         {
+          "ID": 4817319,
+          "Title": "Catégorie:Produit chimique"
+        },
+        {
           "ID": 5537928,
           "Title": "Catégorie:Science de l'environnement"
         }
       ],
       "Articles": [
+        {
+          "ID": 5262,
+          "Title": "Muscle"
+        },
         {
           "ID": 12382,
           "Title": "Masturbation"
@@ -920,12 +1032,24 @@
           "Title": "Ananas"
         },
         {
+          "ID": 25043,
+          "Title": "Fraise"
+        },
+        {
+          "ID": 29115,
+          "Title": "Manguier"
+        },
+        {
           "ID": 30972,
           "Title": "Système musculaire"
         },
         {
           "ID": 37859,
           "Title": "Cycle de l'eau"
+        },
+        {
+          "ID": 50186,
+          "Title": "Tomate"
         },
         {
           "ID": 52720,
@@ -968,6 +1092,10 @@
           "Title": "Fauve"
         },
         {
+          "ID": 205993,
+          "Title": "Hylidae"
+        },
+        {
           "ID": 209996,
           "Title": "Lime (fruit)"
         },
@@ -984,6 +1112,14 @@
           "Title": "Phoenix (palmier)"
         },
         {
+          "ID": 247782,
+          "Title": "Triticum"
+        },
+        {
+          "ID": 252208,
+          "Title": "Myrtus"
+        },
+        {
           "ID": 256612,
           "Title": "Atèle"
         },
@@ -994,6 +1130,10 @@
         {
           "ID": 270856,
           "Title": "Geai"
+        },
+        {
+          "ID": 271948,
+          "Title": "Pantherinae"
         },
         {
           "ID": 341842,
@@ -1020,6 +1160,10 @@
           "Title": "Calendrier maya"
         },
         {
+          "ID": 831886,
+          "Title": "Eunectes murinus"
+        },
+        {
           "ID": 957575,
           "Title": "Bouse"
         },
@@ -1028,12 +1172,20 @@
           "Title": "Riz gluant"
         },
         {
+          "ID": 999712,
+          "Title": "Tentacule"
+        },
+        {
           "ID": 1028983,
           "Title": "Osmonde de Clayton"
         },
         {
           "ID": 1286412,
           "Title": "Suspension (chimie)"
+        },
+        {
+          "ID": 1346009,
+          "Title": "Garrulus"
         },
         {
           "ID": 1348171,
@@ -1056,6 +1208,10 @@
           "Title": "Magnolia liliiflora"
         },
         {
+          "ID": 1619206,
+          "Title": "Melon (plante)"
+        },
+        {
           "ID": 1669963,
           "Title": "Pseudacris crucifer"
         },
@@ -1070,6 +1226,10 @@
         {
           "ID": 2330280,
           "Title": "Épinette d'Engelmann"
+        },
+        {
+          "ID": 2807912,
+          "Title": "Maquereau"
         },
         {
           "ID": 2954945,
@@ -1088,6 +1248,10 @@
           "Title": "Rousseur"
         },
         {
+          "ID": 3933892,
+          "Title": "Réseau trophique"
+        },
+        {
           "ID": 4271969,
           "Title": "Pinus kesiya"
         },
@@ -1104,8 +1268,20 @@
           "Title": "Glaphyromorphus"
         },
         {
+          "ID": 4626318,
+          "Title": "Haackgreerius miopus"
+        },
+        {
+          "ID": 4726139,
+          "Title": "Balle (céréale)"
+        },
+        {
           "ID": 4733216,
           "Title": "Balle de riz"
+        },
+        {
+          "ID": 4792503,
+          "Title": "Eunectes"
         },
         {
           "ID": 4862049,
@@ -1122,6 +1298,10 @@
         {
           "ID": 5391357,
           "Title": "Couleur complémentaire"
+        },
+        {
+          "ID": 5633756,
+          "Title": "Pénis humain"
         },
         {
           "ID": 6619373,
@@ -1156,6 +1336,10 @@
         {
           "ID": 327250,
           "Title": "Catégorie:Patronyme"
+        },
+        {
+          "ID": 383357,
+          "Title": "Catégorie:Personnalité féminine"
         },
         {
           "ID": 9265165,
@@ -1336,6 +1520,10 @@
           "Title": "Ring Lardner"
         },
         {
+          "ID": 3573791,
+          "Title": "Fascination (roman)"
+        },
+        {
           "ID": 3789113,
           "Title": "Sheldon Cooper"
         },
@@ -1346,6 +1534,10 @@
         {
           "ID": 3972997,
           "Title": "Galilée (savant)"
+        },
+        {
+          "ID": 4028949,
+          "Title": "The Big Bang Theory"
         },
         {
           "ID": 4341910,
@@ -1420,12 +1612,24 @@
         {
           "ID": 957179,
           "Title": "Catégorie:Courant philosophique"
+        },
+        {
+          "ID": 1233067,
+          "Title": "Catégorie:Idée politique"
         }
       ],
       "Articles": [
         {
+          "ID": 17314,
+          "Title": "Foi"
+        },
+        {
           "ID": 114976,
           "Title": "Beau"
+        },
+        {
+          "ID": 275498,
+          "Title": "Confiance"
         },
         {
           "ID": 1815614,
@@ -1442,6 +1646,10 @@
         {
           "ID": 9698499,
           "Title": "Gaslighting"
+        },
+        {
+          "ID": 11911020,
+          "Title": "Supériorité illusoire"
         }
       ]
     },
@@ -1488,8 +1696,16 @@
       "Title": "Society and social sciences",
       "Categories": [
         {
+          "ID": 84954,
+          "Title": "Catégorie:Droit"
+        },
+        {
           "ID": 96531,
           "Title": "Catégorie:Organisation internationale"
+        },
+        {
+          "ID": 96824,
+          "Title": "Catégorie:Loi"
         },
         {
           "ID": 108395,
@@ -1502,9 +1718,25 @@
         {
           "ID": 1111669,
           "Title": "Catégorie:Établissement d'enseignement supérieur par pays"
+        },
+        {
+          "ID": 2320561,
+          "Title": "Catégorie:Sciences humaines et sociales"
         }
       ],
       "Articles": [
+        {
+          "ID": 494,
+          "Title": "Barbade"
+        },
+        {
+          "ID": 576,
+          "Title": "Chili"
+        },
+        {
+          "ID": 1510,
+          "Title": "Iran"
+        },
         {
           "ID": 2028,
           "Title": "Massachusetts Institute of Technology"
@@ -1902,6 +2134,10 @@
           "Title": "Université Jawaharlal-Nehru"
         },
         {
+          "ID": 936181,
+          "Title": "Trust"
+        },
+        {
           "ID": 943971,
           "Title": "Université de St Andrews"
         },
@@ -1916,6 +2152,10 @@
         {
           "ID": 977657,
           "Title": "Université de Victoria"
+        },
+        {
+          "ID": 982480,
+          "Title": "Pacific-12 Conference"
         },
         {
           "ID": 986954,
@@ -2142,6 +2382,10 @@
           "Title": "Université de Houston"
         },
         {
+          "ID": 3409845,
+          "Title": "Société fiduciaire"
+        },
+        {
           "ID": 3436978,
           "Title": "Université du Montana"
         },
@@ -2318,6 +2562,10 @@
           "Title": "The Willy Wonka Candy Company"
         },
         {
+          "ID": 7028337,
+          "Title": "Wetlook"
+        },
+        {
           "ID": 7142512,
           "Title": "Université de Mumbai"
         },
@@ -2344,6 +2592,10 @@
         {
           "ID": 8237968,
           "Title": "Université islamique Azad"
+        },
+        {
+          "ID": 8783304,
+          "Title": "Nouvel An lunaire"
         },
         {
           "ID": 9090102,
@@ -2422,6 +2674,10 @@
         {
           "ID": 3951846,
           "Title": "Catégorie:Application de l'informatique"
+        },
+        {
+          "ID": 10998374,
+          "Title": "Catégorie:Technologie militaire"
         }
       ],
       "Articles": [
@@ -2432,6 +2688,10 @@
         {
           "ID": 27507,
           "Title": "Mur"
+        },
+        {
+          "ID": 58161,
+          "Title": "Soudage"
         },
         {
           "ID": 91996,
@@ -2460,6 +2720,10 @@
         {
           "ID": 1508660,
           "Title": "Mountain Dew (marque de boisson)"
+        },
+        {
+          "ID": 3573325,
+          "Title": "Domaine de premier niveau"
         },
         {
           "ID": 3860573,

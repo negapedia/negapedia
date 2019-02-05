@@ -26,6 +26,14 @@
           "Title": "Category:Recreation"
         },
         {
+          "ID": 70421,
+          "Title": "Category:Nutreetion"
+        },
+        {
+          "ID": 70422,
+          "Title": "Category:Fuid an drink"
+        },
+        {
           "ID": 75747,
           "Title": "Category:Sports"
         },
@@ -100,12 +108,20 @@
           "Title": "AC/DC"
         },
         {
+          "ID": 10397,
+          "Title": "Reality"
+        },
+        {
           "ID": 50652,
           "Title": "Pizza"
         },
         {
           "ID": 50720,
           "Title": "Cake"
+        },
+        {
+          "ID": 63619,
+          "Title": "Ice cream"
         },
         {
           "ID": 82577,
@@ -136,6 +152,10 @@
           "Title": "Chicken tikka masala"
         },
         {
+          "ID": 142019,
+          "Title": "Pork"
+        },
+        {
           "ID": 143090,
           "Title": "Taco"
         },
@@ -150,6 +170,10 @@
         {
           "ID": 151268,
           "Title": "Ham"
+        },
+        {
+          "ID": 154090,
+          "Title": "Pie"
         },
         {
           "ID": 155748,
@@ -260,6 +284,10 @@
         {
           "ID": 197273,
           "Title": "Category:Healcare thrifts"
+        },
+        {
+          "ID": 204089,
+          "Title": "Category:Halthcare thrifts"
         }
       ]
     },
@@ -292,6 +320,10 @@
         {
           "ID": 50618,
           "Title": "Unitit States presidential election, 2012"
+        },
+        {
+          "ID": 95207,
+          "Title": "Donald Trump"
         },
         {
           "ID": 131346,
@@ -392,6 +424,10 @@
           "Title": "Category:Fauna bi continent"
         },
         {
+          "ID": 70851,
+          "Title": "Category:Chemical substances"
+        },
+        {
           "ID": 126188,
           "Title": "Category:Disasters"
         }
@@ -430,12 +466,24 @@
           "Title": "Lemon"
         },
         {
+          "ID": 62734,
+          "Title": "Tomata"
+        },
+        {
           "ID": 62748,
           "Title": "Lime (fruit)"
         },
         {
           "ID": 64877,
           "Title": "Watter cycle"
+        },
+        {
+          "ID": 74520,
+          "Title": "Hylidae"
+        },
+        {
+          "ID": 75050,
+          "Title": "Pantherinae"
         },
         {
           "ID": 75373,
@@ -454,6 +502,10 @@
           "Title": "Suspension (chemistry)"
         },
         {
+          "ID": 133535,
+          "Title": "Muscle"
+        },
+        {
           "ID": 133548,
           "Title": "Urine"
         },
@@ -462,12 +514,28 @@
           "Title": "Mango"
         },
         {
+          "ID": 140438,
+          "Title": "Mangifera indica"
+        },
+        {
           "ID": 143573,
           "Title": "Masturbation"
         },
         {
+          "ID": 155469,
+          "Title": "Eunectes"
+        },
+        {
+          "ID": 155473,
+          "Title": "Green anaconda"
+        },
+        {
           "ID": 156195,
           "Title": "Testicle"
+        },
+        {
+          "ID": 156376,
+          "Title": "Human penis"
         },
         {
           "ID": 157773,
@@ -622,6 +690,10 @@
           "Title": "John Lennon"
         },
         {
+          "ID": 156280,
+          "Title": "The Big Bang Theory"
+        },
+        {
           "ID": 158073,
           "Title": "Ayn Rand"
         },
@@ -660,6 +732,10 @@
       "Title": "Philosophy and thinking",
       "Categories": [
         {
+          "ID": 44254,
+          "Title": "Category:Poleetical theories"
+        },
+        {
           "ID": 71133,
           "Title": "Category:Branches o filosofie"
         },
@@ -685,6 +761,10 @@
         }
       ],
       "Articles": [
+        {
+          "ID": 84361,
+          "Title": "Faith"
+        },
         {
           "ID": 94621,
           "Title": "Happiness"
@@ -738,6 +818,10 @@
       "Title": "Society and social sciences",
       "Categories": [
         {
+          "ID": 6400,
+          "Title": "Category:Law"
+        },
+        {
           "ID": 7513,
           "Title": "Category:Internaitional organisations"
         },
@@ -780,6 +864,10 @@
           "Title": "Varsity o Aiberdeen"
         },
         {
+          "ID": 7819,
+          "Title": "Iran"
+        },
+        {
           "ID": 9221,
           "Title": "Edinburgh Napier Varsity"
         },
@@ -790,6 +878,14 @@
         {
           "ID": 10854,
           "Title": "Glesga Varsity"
+        },
+        {
+          "ID": 10917,
+          "Title": "Chile"
+        },
+        {
+          "ID": 15048,
+          "Title": "Barbados"
         },
         {
           "ID": 38716,
@@ -998,6 +1094,10 @@
           "Title": "Category:Technology bi teep"
         },
         {
+          "ID": 149235,
+          "Title": "Category:Militar technology"
+        },
+        {
           "ID": 149238,
           "Title": "Category:Militar equipment"
         },
@@ -1012,8 +1112,16 @@
           "Title": "Pepsi"
         },
         {
+          "ID": 7583,
+          "Title": "Tap-level domain"
+        },
+        {
           "ID": 9146,
           "Title": "Waw"
+        },
+        {
+          "ID": 164945,
+          "Title": "Waldin"
         },
         {
           "ID": 170128,

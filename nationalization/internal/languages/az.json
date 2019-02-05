@@ -34,8 +34,16 @@
           "Title": "Kateqoriya:Musiqi qrupları"
         },
         {
+          "ID": 96380,
+          "Title": "Kateqoriya:Xörəklər"
+        },
+        {
           "ID": 125731,
           "Title": "Kateqoriya:Filmlər"
+        },
+        {
+          "ID": 127437,
+          "Title": "Kateqoriya:Qidalanma"
         },
         {
           "ID": 216381,
@@ -80,12 +88,28 @@
           "Title": "Pivə"
         },
         {
+          "ID": 71764,
+          "Title": "Realizm"
+        },
+        {
           "ID": 77097,
           "Title": "Pitsa"
         },
         {
+          "ID": 79734,
+          "Title": "Dondurma"
+        },
+        {
           "ID": 80934,
           "Title": "Külçə (yemək)"
+        },
+        {
+          "ID": 81064,
+          "Title": "Tort"
+        },
+        {
+          "ID": 84352,
+          "Title": "Biskvit"
         },
         {
           "ID": 86065,
@@ -96,6 +120,10 @@
           "Title": "Makaron"
         },
         {
+          "ID": 95015,
+          "Title": "Sous"
+        },
+        {
           "ID": 104947,
           "Title": "Green Day"
         },
@@ -104,12 +132,20 @@
           "Title": "Südlü kakao"
         },
         {
+          "ID": 112990,
+          "Title": "Kakao ağacı"
+        },
+        {
           "ID": 132483,
           "Title": "Bukingem sarayı"
         },
         {
           "ID": 133996,
           "Title": "Led Zeppelin"
+        },
+        {
+          "ID": 153869,
+          "Title": "Gerçəklik"
         },
         {
           "ID": 160345,
@@ -130,6 +166,10 @@
         {
           "ID": 284580,
           "Title": "AC/DC"
+        },
+        {
+          "ID": 288292,
+          "Title": "Fransa mətbəxi"
         },
         {
           "ID": 293730,
@@ -184,8 +224,16 @@
           "Title": "Bolo de rolo"
         },
         {
+          "ID": 486425,
+          "Title": "Harri Potter romanlarındakı yerlər"
+        },
+        {
           "ID": 489911,
           "Title": "2018 Avroviziya Mahnı Müsabiqəsi"
+        },
+        {
+          "ID": 527315,
+          "Title": "Donuz əti"
         },
         {
           "ID": 535855,
@@ -202,6 +250,10 @@
         {
           "ID": 537261,
           "Title": "Əncir keksi"
+        },
+        {
+          "ID": 537268,
+          "Title": "Salo"
         },
         {
           "ID": 537348,
@@ -290,6 +342,10 @@
           "Title": "Kateqoriya:Tibb"
         },
         {
+          "ID": 101127,
+          "Title": "Kateqoriya:İrsi xəstəliklər"
+        },
+        {
           "ID": 106967,
           "Title": "Kateqoriya:Sağlamlıq"
         },
@@ -312,12 +368,20 @@
           "Title": "Kateqoriya:Tarix"
         },
         {
+          "ID": 6805,
+          "Title": "Kateqoriya:Millətlərinə görə tarix"
+        },
+        {
           "ID": 27927,
           "Title": "Kateqoriya:Ölkələrinə görə tarix"
         },
         {
           "ID": 147287,
           "Title": "Kateqoriya:Hadisələr"
+        },
+        {
+          "ID": 299204,
+          "Title": "Kateqoriya:Mədəni həyat"
         }
       ],
       "Articles": [
@@ -336,6 +400,10 @@
         {
           "ID": 279182,
           "Title": "ABŞ Prezident seçkiləri (2012)"
+        },
+        {
+          "ID": 415171,
+          "Title": "Donald Tramp"
         },
         {
           "ID": 451268,
@@ -404,6 +472,10 @@
           "Title": "Kateqoriya:Təbiət elmləri"
         },
         {
+          "ID": 101186,
+          "Title": "Kateqoriya:Kimyəvi maddələr"
+        },
+        {
           "ID": 265561,
           "Title": "Kateqoriya:Fizika elmləri"
         },
@@ -422,8 +494,16 @@
       ],
       "Articles": [
         {
+          "ID": 33574,
+          "Title": "Ağacqurbağaları"
+        },
+        {
           "ID": 36647,
           "Title": "Penis"
+        },
+        {
+          "ID": 53785,
+          "Title": "Pomidor"
         },
         {
           "ID": 66804,
@@ -454,6 +534,14 @@
           "Title": "Buğda"
         },
         {
+          "ID": 92419,
+          "Title": "Əzələlər"
+        },
+        {
+          "ID": 94609,
+          "Title": "Yemiş"
+        },
+        {
           "ID": 98217,
           "Title": "Qarğıdalı"
         },
@@ -462,12 +550,20 @@
           "Title": "Dayaq və hərəkət sistemi (Anatomiya)"
         },
         {
+          "ID": 110785,
+          "Title": "Böyük pişiklər"
+        },
+        {
           "ID": 118955,
           "Title": "Sığın"
         },
         {
           "ID": 139159,
           "Title": "Bağ çiyələyi"
+        },
+        {
+          "ID": 141801,
+          "Title": "Mərsin"
         },
         {
           "ID": 150413,
@@ -484,6 +580,10 @@
         {
           "ID": 160366,
           "Title": "Pinus kesiya"
+        },
+        {
+          "ID": 179093,
+          "Title": "Hindistan mangiferası"
         },
         {
           "ID": 179766,
@@ -514,8 +614,16 @@
           "Title": "Talış arıquşu"
         },
         {
+          "ID": 492368,
+          "Title": "Anakondalar"
+        },
+        {
           "ID": 524209,
           "Title": "Zanbaqçiçək maqnoliya"
+        },
+        {
+          "ID": 561598,
+          "Title": "Anakonda"
         }
       ]
     },
@@ -526,6 +634,10 @@
         {
           "ID": 5305,
           "Title": "Kateqoriya:Şəxslər"
+        },
+        {
+          "ID": 36869,
+          "Title": "Kateqoriya:Qadın"
         },
         {
           "ID": 107215,
@@ -658,6 +770,14 @@
           "Title": "Harri Hudini"
         },
         {
+          "ID": 313206,
+          "Title": "Alatoran (roman)"
+        },
+        {
+          "ID": 316505,
+          "Title": "Böyük partlayış nəzəriyyəsi (teleserial, 2007)"
+        },
+        {
           "ID": 320501,
           "Title": "Riçard Dokinz"
         },
@@ -718,6 +838,10 @@
         {
           "ID": 106564,
           "Title": "Kateqoriya:Təfəkkür"
+        },
+        {
+          "ID": 111759,
+          "Title": "Kateqoriya:Siyasi nəzəriyyələr"
         },
         {
           "ID": 167963,
@@ -790,12 +914,20 @@
           "Title": "Kateqoriya:Sosial elmlər"
         },
         {
+          "ID": 6622,
+          "Title": "Kateqoriya:Hüquq"
+        },
+        {
           "ID": 33338,
           "Title": "Kateqoriya:Beynəlxalq təşkilatlar"
         },
         {
           "ID": 49465,
           "Title": "Kateqoriya:Feminizm"
+        },
+        {
+          "ID": 72737,
+          "Title": "Kateqoriya:Humanitar elmlər"
         },
         {
           "ID": 73968,
@@ -808,8 +940,20 @@
       ],
       "Articles": [
         {
+          "ID": 1564,
+          "Title": "İran"
+        },
+        {
           "ID": 5409,
           "Title": "Avropa İttifaqı"
+        },
+        {
+          "ID": 5762,
+          "Title": "Çili"
+        },
+        {
+          "ID": 5763,
+          "Title": "Barbados"
         },
         {
           "ID": 18696,
@@ -1170,6 +1314,10 @@
         {
           "ID": 553650,
           "Title": "Birləşmiş Millətlər Təşkilatının Ətraf Mühit Proqramı"
+        },
+        {
+          "ID": 577111,
+          "Title": "The Times of India"
         }
       ]
     },
@@ -1218,6 +1366,10 @@
           "Title": "Kateqoriya:Dizayn"
         },
         {
+          "ID": 259363,
+          "Title": "Kateqoriya:Hərbi texnologiyalar"
+        },
+        {
           "ID": 259364,
           "Title": "Kateqoriya:Növünə görə texnologiyalar"
         },
@@ -1227,6 +1379,10 @@
         }
       ],
       "Articles": [
+        {
+          "ID": 50790,
+          "Title": "Qaynaq (texnika)"
+        },
         {
           "ID": 79732,
           "Title": "Saqqız"
@@ -1238,6 +1394,10 @@
         {
           "ID": 276796,
           "Title": "Bənna"
+        },
+        {
+          "ID": 322374,
+          "Title": "Yüksək səviyyəli domenlər"
         },
         {
           "ID": 537897,
