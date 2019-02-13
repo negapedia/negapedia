@@ -26,6 +26,10 @@
           "Title": "Lūi-pia̍t:Chia̍h-mi̍h"
         },
         {
+          "ID": 8418,
+          "Title": "Lūi-pia̍t:Sek-chhái"
+        },
+        {
           "ID": 490869,
           "Title": "Lūi-pia̍t:Êng-ióng-ha̍k"
         },
@@ -34,8 +38,16 @@
           "Title": "Lūi-pia̍t:Hèng-chhù"
         },
         {
+          "ID": 584328,
+          "Title": "Lūi-pia̍t:Hiu-hân"
+        },
+        {
           "ID": 584493,
           "Title": "Lūi-pia̍t:Gû-lo̍k"
+        },
+        {
+          "ID": 721073,
+          "Title": "Lūi-pia̍t:Ūn-tōng"
         },
         {
           "ID": 729798,
@@ -56,8 +68,20 @@
           "Title": "Ka-pi"
         },
         {
+          "ID": 8264,
+          "Title": "Soaⁿ-ti"
+        },
+        {
+          "ID": 8265,
+          "Title": "Ti"
+        },
+        {
           "ID": 8876,
           "Title": "Chi-ku-la̍t"
+        },
+        {
+          "ID": 8946,
+          "Title": "Chi-ku-la̍t-châng"
         },
         {
           "ID": 9712,
@@ -76,6 +100,10 @@
           "Title": "Peng-kî-lîm"
         },
         {
+          "ID": 11068,
+          "Title": "Ti-sio̍k"
+        },
+        {
           "ID": 18751,
           "Title": "Ti-bah"
         },
@@ -92,12 +120,20 @@
           "Title": "Pasta"
         },
         {
+          "ID": 27154,
+          "Title": "Nn̄g"
+        },
+        {
           "ID": 27155,
           "Title": "Nn̄g (chia̍h-mi̍h)"
         },
         {
           "ID": 27165,
           "Title": "Phî-tàn"
+        },
+        {
+          "ID": 231254,
+          "Title": "Ga̍k-thoân"
         },
         {
           "ID": 373822,
@@ -128,6 +164,10 @@
           "Title": "Hiān-si̍t-chú-gī (gē-su̍t)"
         },
         {
+          "ID": 653026,
+          "Title": "Hiān-si̍t-chú-gī (gē-su̍t ūn-tōng)"
+        },
+        {
           "ID": 722609,
           "Title": "Hoan-á-piáⁿ"
         }
@@ -152,8 +192,16 @@
       ],
       "Articles": [
         {
+          "ID": 1817,
+          "Title": "Ò-chiu"
+        },
+        {
           "ID": 1823,
           "Title": "Canberra"
+        },
+        {
+          "ID": 1873,
+          "Title": "Lâng"
         },
         {
           "ID": 6897,
@@ -334,6 +382,14 @@
           "Title": "Ông-lâi"
         },
         {
+          "ID": 7620,
+          "Title": "Chhì-pho"
+        },
+        {
+          "ID": 9171,
+          "Title": "Seⁿ-si̍t hē-thóng"
+        },
+        {
           "ID": 9513,
           "Title": "Lo̍k-tô"
         },
@@ -374,6 +430,10 @@
           "Title": "Hóe"
         },
         {
+          "ID": 27406,
+          "Title": "Scomber"
+        },
+        {
           "ID": 27559,
           "Title": "Chúi sûn-khoân"
         },
@@ -408,6 +468,10 @@
         {
           "ID": 630641,
           "Title": "Phah-chhiú-chhèng"
+        },
+        {
+          "ID": 630782,
+          "Title": "Seⁿ-si̍t-khì"
         }
       ]
     },
@@ -420,6 +484,10 @@
           "Title": "Lūi-pia̍t:Jîn-bu̍t"
         },
         {
+          "ID": 13501,
+          "Title": "Lūi-pia̍t:Seng-o̍ah"
+        },
+        {
           "ID": 22688,
           "Title": "Lūi-pia̍t:Seng-oa̍h"
         },
@@ -428,8 +496,16 @@
           "Title": "Lūi-pia̍t:Sèⁿ-sī"
         },
         {
+          "ID": 490867,
+          "Title": "Lūi-pia̍t:Sèⁿ-miā"
+        },
+        {
           "ID": 587156,
           "Title": "Lūi-pia̍t:Lú-sèng"
+        },
+        {
+          "ID": 723409,
+          "Title": "Lūi-pia̍t:Toān-kì"
         }
       ],
       "Articles": [
@@ -578,6 +654,10 @@
           "Title": "Sìn-gióng"
         },
         {
+          "ID": 673866,
+          "Title": "Sìn-liām"
+        },
+        {
           "ID": 730284,
           "Title": "Hoaⁿ-hí"
         }
@@ -606,6 +686,10 @@
       "Title": "Society and social sciences",
       "Categories": [
         {
+          "ID": 2234,
+          "Title": "Lūi-pia̍t:Kok-chè cho·-chit"
+        },
+        {
           "ID": 2562,
           "Title": "Lūi-pia̍t:Siā-hōe kho-ha̍k"
         },
@@ -624,6 +708,14 @@
         {
           "ID": 22453,
           "Title": "Lūi-pia̍t:Lú-sèng-chú-gī"
+        },
+        {
+          "ID": 626783,
+          "Title": "Lūi-pia̍t:Kok-chè ki-koan"
+        },
+        {
+          "ID": 627790,
+          "Title": "Lūi-pia̍t:Jîn-bûn-ha̍k"
         }
       ],
       "Articles": [
@@ -790,6 +882,14 @@
           "Title": "Lūi-pia̍t:Ki-su̍t"
         },
         {
+          "ID": 2564,
+          "Title": "Lūi-pia̍t:Tiān-náu"
+        },
+        {
+          "ID": 2674,
+          "Title": "Lūi-pia̍t:Kang-têng-ha̍k"
+        },
+        {
           "ID": 13486,
           "Title": "Lūi-pia̍t:Tiān-chú-ha̍k"
         },
@@ -820,6 +920,14 @@
         {
           "ID": 623958,
           "Title": "Lūi-pia̍t:Internet"
+        },
+        {
+          "ID": 629859,
+          "Title": "Lūi-pia̍t:Chu-liāu koán-lí"
+        },
+        {
+          "ID": 661633,
+          "Title": "Lūi-pia̍t:Chu-liāu-khò͘"
         }
       ],
       "Articles": [

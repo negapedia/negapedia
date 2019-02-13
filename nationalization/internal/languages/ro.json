@@ -30,8 +30,24 @@
           "Title": "Categorie:Hobby"
         },
         {
+          "ID": 38619,
+          "Title": "Categorie:Timp liber"
+        },
+        {
           "ID": 41669,
           "Title": "Categorie:Produse alimentare"
+        },
+        {
+          "ID": 69652,
+          "Title": "Categorie:Culori"
+        },
+        {
+          "ID": 124360,
+          "Title": "Categorie:Gastronomie"
+        },
+        {
+          "ID": 178098,
+          "Title": "Categorie:Culoare"
         },
         {
           "ID": 430804,
@@ -48,6 +64,18 @@
         {
           "ID": 758094,
           "Title": "Categorie:Nutriție"
+        },
+        {
+          "ID": 946124,
+          "Title": "Categorie:Sporturi după tip"
+        },
+        {
+          "ID": 953073,
+          "Title": "Categorie:Tehnici culinare"
+        },
+        {
+          "ID": 981649,
+          "Title": "Categorie:Exerciții fizice"
         },
         {
           "ID": 1060958,
@@ -88,12 +116,24 @@
           "Title": "Palatul Buckingham"
         },
         {
+          "ID": 58140,
+          "Title": "Sanie"
+        },
+        {
           "ID": 82112,
           "Title": "Led Zeppelin"
         },
         {
           "ID": 98200,
           "Title": "Realism (dezambiguizare)"
+        },
+        {
+          "ID": 110445,
+          "Title": "Mistreț"
+        },
+        {
+          "ID": 113103,
+          "Title": "Formație (muzică)"
         },
         {
           "ID": 119274,
@@ -128,6 +168,10 @@
           "Title": "Slănină"
         },
         {
+          "ID": 201143,
+          "Title": "Porc domestic"
+        },
+        {
           "ID": 201603,
           "Title": "Realism literar"
         },
@@ -140,12 +184,24 @@
           "Title": "Monstrul din Loch Ness"
         },
         {
+          "ID": 294705,
+          "Title": "Arborele de cacao"
+        },
+        {
           "ID": 326870,
           "Title": "Înghețată"
         },
         {
           "ID": 339636,
           "Title": "Green Day"
+        },
+        {
+          "ID": 414748,
+          "Title": "Sex oral"
+        },
+        {
+          "ID": 418892,
+          "Title": "Ou"
         },
         {
           "ID": 429130,
@@ -192,12 +248,20 @@
           "Title": "Hogsmeade"
         },
         {
+          "ID": 935641,
+          "Title": "Biscuit cu sare"
+        },
+        {
           "ID": 935646,
           "Title": "Baicoli"
         },
         {
           "ID": 943875,
           "Title": "Enthiran"
+        },
+        {
+          "ID": 945029,
+          "Title": "Arborele de cafea"
         },
         {
           "ID": 969307,
@@ -226,6 +290,10 @@
         {
           "ID": 1169405,
           "Title": "Prăjitură"
+        },
+        {
+          "ID": 1213913,
+          "Title": "Coffea arabica"
         },
         {
           "ID": 1232983,
@@ -262,6 +330,10 @@
         {
           "ID": 1357943,
           "Title": "Angry Birds (joc video)"
+        },
+        {
+          "ID": 1361317,
+          "Title": "Sus"
         },
         {
           "ID": 1502808,
@@ -348,6 +420,14 @@
           "Title": "Paris"
         },
         {
+          "ID": 6482,
+          "Title": "Om"
+        },
+        {
+          "ID": 7600,
+          "Title": "Australia"
+        },
+        {
           "ID": 8082,
           "Title": "Veneția"
         },
@@ -358,6 +438,10 @@
         {
           "ID": 18173,
           "Title": "Myanmar"
+        },
+        {
+          "ID": 75985,
+          "Title": "Homo sapiens"
         },
         {
           "ID": 134614,
@@ -402,6 +486,10 @@
           "Title": "Categorie:Științe pentru sănătate"
         },
         {
+          "ID": 889220,
+          "Title": "Categorie:Îngrijirea sănătății"
+        },
+        {
           "ID": 1329802,
           "Title": "Categorie:Îngrijire de sine"
         },
@@ -418,6 +506,10 @@
         {
           "ID": 20699,
           "Title": "Categorie:Istorie"
+        },
+        {
+          "ID": 22507,
+          "Title": "Categorie:Ştiinţe sociale"
         },
         {
           "ID": 41093,
@@ -438,6 +530,10 @@
         {
           "ID": 1548546,
           "Title": "Categorie:Evenimente culturale"
+        },
+        {
+          "ID": 1636072,
+          "Title": "Categorie:Istorie după loc"
         }
       ],
       "Articles": [
@@ -468,6 +564,10 @@
         {
           "ID": 1053493,
           "Title": "Alegeri prezidențiale în Statele Unite ale Americii, 2012"
+        },
+        {
+          "ID": 1222976,
+          "Title": "Unități de măsură în Roma Antică"
         },
         {
           "ID": 1939276,
@@ -552,6 +652,10 @@
           "Title": "Categorie:Compuși chimici"
         },
         {
+          "ID": 750628,
+          "Title": "Categorie:Discipline științifice"
+        },
+        {
           "ID": 760265,
           "Title": "Categorie:Substanțe chimice"
         },
@@ -594,8 +698,16 @@
           "Title": "Circuitul apei în natură"
         },
         {
+          "ID": 115494,
+          "Title": "Hidrologie"
+        },
+        {
           "ID": 129756,
           "Title": "Sistemul muscular"
+        },
+        {
+          "ID": 157535,
+          "Title": "Oryza sativa"
         },
         {
           "ID": 203250,
@@ -630,6 +742,10 @@
           "Title": "Portocal"
         },
         {
+          "ID": 269292,
+          "Title": "Dovleac"
+        },
+        {
           "ID": 272728,
           "Title": "Pepene galben"
         },
@@ -638,8 +754,16 @@
           "Title": "Elan"
         },
         {
+          "ID": 312640,
+          "Title": "Frag"
+        },
+        {
           "ID": 381392,
           "Title": "Mușchi (anatomie)"
+        },
+        {
+          "ID": 383947,
+          "Title": "Fragaria"
         },
         {
           "ID": 385654,
@@ -670,6 +794,10 @@
           "Title": "Lycosidae"
         },
         {
+          "ID": 667443,
+          "Title": "Aparatul reproducător"
+        },
+        {
           "ID": 827705,
           "Title": "Lămâie verde"
         },
@@ -690,8 +818,16 @@
           "Title": "Mirt"
         },
         {
+          "ID": 977826,
+          "Title": "Cantalup"
+        },
+        {
           "ID": 991950,
           "Title": "Pantherinae"
+        },
+        {
+          "ID": 1192914,
+          "Title": "Organ sexual"
         },
         {
           "ID": 1222239,
@@ -740,6 +876,10 @@
       "Title": "People and self",
       "Categories": [
         {
+          "ID": 13345,
+          "Title": "Categorie:Biografii"
+        },
+        {
           "ID": 24641,
           "Title": "Categorie:Oameni"
         },
@@ -760,12 +900,24 @@
           "Title": "Categorie:Sine"
         },
         {
+          "ID": 265573,
+          "Title": "Categorie:Biografi"
+        },
+        {
+          "ID": 760559,
+          "Title": "Categorie:Viață"
+        },
+        {
           "ID": 760561,
           "Title": "Categorie:Viață privată"
         },
         {
           "ID": 961088,
           "Title": "Categorie:Artiști plastici după mediu"
+        },
+        {
+          "ID": 975224,
+          "Title": "Categorie:Personalitate"
         }
       ],
       "Articles": [
@@ -986,12 +1138,20 @@
           "Title": "Frumusețe"
         },
         {
+          "ID": 956559,
+          "Title": "Bucurie"
+        },
+        {
           "ID": 960600,
           "Title": "Fericire"
         },
         {
           "ID": 1187220,
           "Title": "Efectul Dunning-Kruger"
+        },
+        {
+          "ID": 1936470,
+          "Title": "Credință"
         },
         {
           "ID": 1937294,
@@ -1256,6 +1416,10 @@
           "Title": "Universitatea din Londra"
         },
         {
+          "ID": 901896,
+          "Title": "Fiducia"
+        },
+        {
           "ID": 907078,
           "Title": "Universitatea Ebraică din Ierusalim"
         },
@@ -1378,6 +1542,10 @@
           "Title": "Categorie:Internet"
         },
         {
+          "ID": 12215,
+          "Title": "Categorie:Computer"
+        },
+        {
           "ID": 16914,
           "Title": "Categorie:Electronică"
         },
@@ -1398,12 +1566,24 @@
           "Title": "Categorie:Design"
         },
         {
+          "ID": 39867,
+          "Title": "Categorie:Computere"
+        },
+        {
           "ID": 175303,
           "Title": "Categorie:Echipament militar"
         },
         {
+          "ID": 186302,
+          "Title": "Categorie:Baze de date"
+        },
+        {
           "ID": 243359,
           "Title": "Categorie:Istoria tehnologiei"
+        },
+        {
+          "ID": 384916,
+          "Title": "Categorie:Tehnică"
         },
         {
           "ID": 392254,
@@ -1412,6 +1592,10 @@
         {
           "ID": 761030,
           "Title": "Categorie:Științe aplicate"
+        },
+        {
+          "ID": 822634,
+          "Title": "Categorie:Administrarea datelor"
         },
         {
           "ID": 831566,

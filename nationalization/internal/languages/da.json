@@ -26,6 +26,10 @@
           "Title": "Kategori:Underholdning"
         },
         {
+          "ID": 36144,
+          "Title": "Kategori:Farver"
+        },
+        {
           "ID": 36525,
           "Title": "Kategori:Hobby"
         },
@@ -42,12 +46,24 @@
           "Title": "Kategori:Rekreation"
         },
         {
+          "ID": 270726,
+          "Title": "Kategori:Sportsgrene"
+        },
+        {
+          "ID": 285592,
+          "Title": "Kategori:Motion"
+        },
+        {
           "ID": 300624,
           "Title": "Kategori:Fødevarer"
         },
         {
           "ID": 300695,
           "Title": "Kategori:Madretter"
+        },
+        {
+          "ID": 900820,
+          "Title": "Kategori:Gastronomi"
         }
       ],
       "Articles": [
@@ -62,6 +78,10 @@
         {
           "ID": 3107,
           "Title": "Øl"
+        },
+        {
+          "ID": 3178,
+          "Title": "Band"
         },
         {
           "ID": 4251,
@@ -100,6 +120,10 @@
           "Title": "Tusindårsæg"
         },
         {
+          "ID": 25771,
+          "Title": "Oralsex"
+        },
+        {
           "ID": 25775,
           "Title": "Fellatio"
         },
@@ -114,6 +138,10 @@
         {
           "ID": 35379,
           "Title": "Pilsner"
+        },
+        {
+          "ID": 36200,
+          "Title": "Tvebakker"
         },
         {
           "ID": 36411,
@@ -140,8 +168,20 @@
           "Title": "Chokolade"
         },
         {
+          "ID": 58045,
+          "Title": "Arabicakaffe"
+        },
+        {
+          "ID": 58564,
+          "Title": "Tamsvin"
+        },
+        {
           "ID": 60244,
           "Title": "Spaghetti carbonara"
+        },
+        {
+          "ID": 61604,
+          "Title": "Bånd"
         },
         {
           "ID": 64902,
@@ -152,12 +192,32 @@
           "Title": "Aqua (band)"
         },
         {
+          "ID": 67467,
+          "Title": "Tærte"
+        },
+        {
           "ID": 72916,
           "Title": "Surdej"
         },
         {
+          "ID": 72929,
+          "Title": "Vildsvin"
+        },
+        {
           "ID": 79401,
           "Title": "Hogwarts"
+        },
+        {
+          "ID": 80074,
+          "Title": "Kakao"
+        },
+        {
+          "ID": 81403,
+          "Title": "Æg"
+        },
+        {
+          "ID": 87173,
+          "Title": "Kaffe-slægten"
         },
         {
           "ID": 87988,
@@ -262,6 +322,10 @@
         {
           "ID": 325571,
           "Title": "Taco"
+        },
+        {
+          "ID": 329365,
+          "Title": "Slæde"
         },
         {
           "ID": 338970,
@@ -376,8 +440,16 @@
       ],
       "Articles": [
         {
+          "ID": 1144,
+          "Title": "Australien"
+        },
+        {
           "ID": 3955,
           "Title": "Canberra"
+        },
+        {
+          "ID": 6658,
+          "Title": "Menneske"
         },
         {
           "ID": 7582,
@@ -420,6 +492,10 @@
         {
           "ID": 55518,
           "Title": "Kategori:Hygiejne"
+        },
+        {
+          "ID": 59651,
+          "Title": "Kategori:Sundhedsvæsen"
         },
         {
           "ID": 468497,
@@ -624,6 +700,10 @@
           "Title": "Fangarm"
         },
         {
+          "ID": 16521,
+          "Title": "Kønsorgan"
+        },
+        {
           "ID": 18427,
           "Title": "Penis"
         },
@@ -648,8 +728,16 @@
           "Title": "Jagtedderkopper"
         },
         {
+          "ID": 35486,
+          "Title": "Jordbær-slægten"
+        },
+        {
           "ID": 36534,
           "Title": "Spiring (plante)"
+        },
+        {
+          "ID": 37067,
+          "Title": "Brødhvede"
         },
         {
           "ID": 37644,
@@ -670,6 +758,10 @@
         {
           "ID": 57403,
           "Title": "Anakonda"
+        },
+        {
+          "ID": 72686,
+          "Title": "Hydrologi"
         },
         {
           "ID": 73359,
@@ -712,12 +804,24 @@
           "Title": "Bevægeapparatet"
         },
         {
+          "ID": 271915,
+          "Title": "Anaconda"
+        },
+        {
           "ID": 281447,
           "Title": "Stor anakonda"
         },
         {
           "ID": 339549,
           "Title": "Makrel"
+        },
+        {
+          "ID": 346739,
+          "Title": "Skovjordbær"
+        },
+        {
+          "ID": 363822,
+          "Title": "Almindelig myrte"
         },
         {
           "ID": 517735,
@@ -752,6 +856,14 @@
         {
           "ID": 47001,
           "Title": "Kategori:Efternavne"
+        },
+        {
+          "ID": 55719,
+          "Title": "Kategori:Biografier"
+        },
+        {
+          "ID": 58427,
+          "Title": "Kategori:Liv"
         },
         {
           "ID": 209104,
@@ -966,6 +1078,14 @@
         {
           "ID": 42683,
           "Title": "Tro"
+        },
+        {
+          "ID": 80882,
+          "Title": "Hit"
+        },
+        {
+          "ID": 177869,
+          "Title": "Glæde"
         },
         {
           "ID": 279091,
@@ -1416,6 +1536,14 @@
           "Title": "Kategori:Design"
         },
         {
+          "ID": 133632,
+          "Title": "Kategori:Databaser"
+        },
+        {
+          "ID": 165863,
+          "Title": "Kategori:Teknik"
+        },
+        {
           "ID": 173915,
           "Title": "Kategori:Militærudstyr"
         },
@@ -1426,6 +1554,14 @@
         {
           "ID": 685544,
           "Title": "Kategori:Ingeniørvidenskab"
+        },
+        {
+          "ID": 716662,
+          "Title": "Kategori:Dataforvaltning"
+        },
+        {
+          "ID": 823404,
+          "Title": "Kategori:Computere"
         },
         {
           "ID": 888996,
@@ -1440,6 +1576,10 @@
         {
           "ID": 31647,
           "Title": "Tyggegummi"
+        },
+        {
+          "ID": 53944,
+          "Title": "PepsiCo"
         },
         {
           "ID": 53952,

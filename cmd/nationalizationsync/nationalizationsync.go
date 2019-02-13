@@ -52,17 +52,7 @@ func main() {
 		}
 	}
 
-LOOP:
 	for lang, i18n := range lang2NationalizationCache {
-		for _, topic := range i18n.Topics {
-			if len(topic.Categories) < 2 {
-				continue LOOP
-			}
-		}
-		if len(i18n.Filters) < 1 {
-			continue LOOP
-		}
-
 		json, err := json.MarshalIndent(i18n, "", "  ")
 		if err != nil {
 			panic(err.Error())

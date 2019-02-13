@@ -38,6 +38,18 @@
           "Title": "Kategorija:Zabava"
         },
         {
+          "ID": 45316,
+          "Title": "Kategorija:Barve"
+        },
+        {
+          "ID": 48040,
+          "Title": "Kategorija:Prosti čas"
+        },
+        {
+          "ID": 50246,
+          "Title": "Kategorija:Športi"
+        },
+        {
           "ID": 61232,
           "Title": "Kategorija:Konjički"
         },
@@ -52,6 +64,10 @@
         {
           "ID": 134752,
           "Title": "Kategorija:Rekreacija"
+        },
+        {
+          "ID": 153488,
+          "Title": "Kategorija:Barva"
         }
       ],
       "Articles": [
@@ -62,6 +78,10 @@
         {
           "ID": 5421,
           "Title": "Enciklopedija"
+        },
+        {
+          "ID": 13699,
+          "Title": "Kavovec"
         },
         {
           "ID": 19294,
@@ -80,6 +100,10 @@
           "Title": "Led Zeppelin"
         },
         {
+          "ID": 20034,
+          "Title": "Divja svinja"
+        },
+        {
           "ID": 25190,
           "Title": "Buckinghamska palača"
         },
@@ -92,12 +116,20 @@
           "Title": "Pivo"
         },
         {
+          "ID": 31279,
+          "Title": "Pekorino"
+        },
+        {
           "ID": 48406,
           "Title": "Kruh"
         },
         {
           "ID": 61188,
           "Title": "Čokolada"
+        },
+        {
+          "ID": 63176,
+          "Title": "Glasbena skupina"
         },
         {
           "ID": 63213,
@@ -124,6 +156,14 @@
           "Title": "Celibat"
         },
         {
+          "ID": 85765,
+          "Title": "Oralni spolni odnos"
+        },
+        {
+          "ID": 96039,
+          "Title": "Yūrei"
+        },
+        {
           "ID": 99325,
           "Title": "Duh"
         },
@@ -136,8 +176,16 @@
           "Title": "Realizem"
         },
         {
+          "ID": 127153,
+          "Title": "Jajce"
+        },
+        {
           "ID": 140117,
           "Title": "Nessie"
+        },
+        {
+          "ID": 150493,
+          "Title": "Domači prašič"
         },
         {
           "ID": 167489,
@@ -160,12 +208,20 @@
           "Title": "Slanina"
         },
         {
+          "ID": 221865,
+          "Title": "Sus"
+        },
+        {
           "ID": 235974,
           "Title": "Sgt. Pepper's Lonely Hearts Club Band"
         },
         {
           "ID": 261867,
           "Title": "Realnost"
+        },
+        {
+          "ID": 335773,
+          "Title": "Arabski kavovec"
         },
         {
           "ID": 421145,
@@ -212,8 +268,16 @@
           "Title": "Benetke"
         },
         {
+          "ID": 5389,
+          "Title": "Avstralija"
+        },
+        {
           "ID": 6198,
           "Title": "Mjanmar"
+        },
+        {
+          "ID": 8421,
+          "Title": "Človek"
         },
         {
           "ID": 11085,
@@ -244,6 +308,10 @@
         {
           "ID": 55335,
           "Title": "Kategorija:Medicinske specializacije"
+        },
+        {
+          "ID": 60483,
+          "Title": "Kategorija:Zdravstvo"
         },
         {
           "ID": 62185,
@@ -304,6 +372,10 @@
         {
           "ID": 299038,
           "Title": "Zanikanje holokavsta"
+        },
+        {
+          "ID": 360862,
+          "Title": "Antične rimske merske enote"
         },
         {
           "ID": 382042,
@@ -410,6 +482,10 @@
         {
           "ID": 151046,
           "Title": "Kategorija:Katastrofe"
+        },
+        {
+          "ID": 354104,
+          "Title": "Kategorija:Znanstvene discipline"
         }
       ],
       "Articles": [
@@ -418,12 +494,20 @@
           "Title": "Plamenci"
         },
         {
+          "ID": 19015,
+          "Title": "Hidrologija"
+        },
+        {
           "ID": 20736,
           "Title": "Limeta"
         },
         {
           "ID": 30547,
           "Title": "Penis"
+        },
+        {
+          "ID": 35095,
+          "Title": "Spolni organ"
         },
         {
           "ID": 35653,
@@ -440,6 +524,10 @@
         {
           "ID": 48822,
           "Title": "Mišica"
+        },
+        {
+          "ID": 57254,
+          "Title": "Razmnoževalni sistem"
         },
         {
           "ID": 61884,
@@ -494,6 +582,10 @@
           "Title": "Samozadovoljevanje"
         },
         {
+          "ID": 162466,
+          "Title": "Jagodnjak"
+        },
+        {
           "ID": 175842,
           "Title": "Velblod"
         },
@@ -516,6 +608,10 @@
         {
           "ID": 234719,
           "Title": "Prehranjevalna veriga"
+        },
+        {
+          "ID": 372484,
+          "Title": "Navadna pšenica"
         }
       ]
     },
@@ -523,6 +619,10 @@
       "ID": 2147483643,
       "Title": "People and self",
       "Categories": [
+        {
+          "ID": 19924,
+          "Title": "Kategorija:Življenje"
+        },
         {
           "ID": 31465,
           "Title": "Kategorija:Ženske"
@@ -540,8 +640,16 @@
           "Title": "Kategorija:Osebno življenje"
         },
         {
+          "ID": 123120,
+          "Title": "Kategorija:Osebnost"
+        },
+        {
           "ID": 123121,
           "Title": "Kategorija:Jaz"
+        },
+        {
+          "ID": 162234,
+          "Title": "Kategorija:Biografija"
         },
         {
           "ID": 448876,
@@ -738,6 +846,10 @@
           "Title": "Lepota"
         },
         {
+          "ID": 345399,
+          "Title": "Veselje"
+        },
+        {
           "ID": 383312,
           "Title": "Dunning-Krugerjev učinek"
         }
@@ -808,6 +920,14 @@
         {
           "ID": 115654,
           "Title": "Kategorija:Visoko šolstvo po državah"
+        },
+        {
+          "ID": 120347,
+          "Title": "Kategorija:Humanistične vede"
+        },
+        {
+          "ID": 236431,
+          "Title": "Kategorija:Humanistika"
         },
         {
           "ID": 354632,
@@ -982,6 +1102,10 @@
           "Title": "Kategorija:Računalništvo"
         },
         {
+          "ID": 13345,
+          "Title": "Kategorija:Tehnika"
+        },
+        {
           "ID": 15987,
           "Title": "Kategorija:Promet"
         },
@@ -1006,6 +1130,14 @@
           "Title": "Kategorija:Inženirstvo"
         },
         {
+          "ID": 48093,
+          "Title": "Kategorija:Računalniki"
+        },
+        {
+          "ID": 136099,
+          "Title": "Kategorija:Upravljanje s podatki"
+        },
+        {
           "ID": 152081,
           "Title": "Kategorija:Uporabne vede"
         },
@@ -1016,6 +1148,10 @@
         {
           "ID": 158207,
           "Title": "Kategorija:Vojaška tehnika"
+        },
+        {
+          "ID": 353896,
+          "Title": "Kategorija:Podatkovne zbirke"
         }
       ],
       "Articles": [

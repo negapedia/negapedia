@@ -6,6 +6,10 @@
       "Title": "Culture and the arts",
       "Categories": [
         {
+          "ID": 12668,
+          "Title": "Categoria:Colors"
+        },
+        {
           "ID": 12691,
           "Title": "Categoria:Art"
         },
@@ -46,6 +50,14 @@
           "Title": "Categoria:Plats"
         },
         {
+          "ID": 377704,
+          "Title": "Categoria:Color"
+        },
+        {
+          "ID": 444426,
+          "Title": "Categoria:Tècniques culinàries"
+        },
+        {
           "ID": 457594,
           "Title": "Categoria:Aficions"
         },
@@ -56,6 +68,10 @@
         {
           "ID": 816707,
           "Title": "Categoria:Plats per ingredient"
+        },
+        {
+          "ID": 865214,
+          "Title": "Categoria:Esports"
         }
       ],
       "Articles": [
@@ -88,6 +104,10 @@
           "Title": "Xocolata"
         },
         {
+          "ID": 22200,
+          "Title": "Ou (biologia)"
+        },
+        {
           "ID": 22202,
           "Title": "Ou (aliment)"
         },
@@ -104,8 +124,24 @@
           "Title": "Realitat"
         },
         {
+          "ID": 35777,
+          "Title": "Cacau"
+        },
+        {
           "ID": 39020,
           "Title": "Celibat"
+        },
+        {
+          "ID": 39922,
+          "Title": "Sexe oral"
+        },
+        {
+          "ID": 45750,
+          "Title": "Porc"
+        },
+        {
+          "ID": 53974,
+          "Title": "Senglar"
         },
         {
           "ID": 60179,
@@ -134,6 +170,14 @@
         {
           "ID": 114068,
           "Title": "Sgt. Pepper's Lonely Hearts Club Band"
+        },
+        {
+          "ID": 114504,
+          "Title": "Coffea arabica"
+        },
+        {
+          "ID": 116184,
+          "Title": "Trineu"
         },
         {
           "ID": 121267,
@@ -216,8 +260,16 @@
           "Title": "Gastronomia de França"
         },
         {
+          "ID": 406219,
+          "Title": "Pa pla"
+        },
+        {
           "ID": 417557,
           "Title": "Cansalada"
+        },
+        {
+          "ID": 430601,
+          "Title": "Sus"
         },
         {
           "ID": 441829,
@@ -236,6 +288,10 @@
           "Title": "Carn picada"
         },
         {
+          "ID": 506265,
+          "Title": "Pecorino"
+        },
+        {
           "ID": 510521,
           "Title": "Ou centenari"
         },
@@ -244,8 +300,16 @@
           "Title": "Ou bullit"
         },
         {
+          "ID": 528016,
+          "Title": "Ginger ale"
+        },
+        {
           "ID": 531013,
           "Title": "Torta"
+        },
+        {
+          "ID": 539076,
+          "Title": "Pa sense llevat"
         },
         {
           "ID": 552111,
@@ -352,6 +416,10 @@
           "Title": "Massa mare"
         },
         {
+          "ID": 1049901,
+          "Title": "Pintura del realisme"
+        },
+        {
           "ID": 1056680,
           "Title": "Dia de la marmota"
         },
@@ -376,6 +444,10 @@
           "Title": "The World Factbook"
         },
         {
+          "ID": 1145867,
+          "Title": "Viquipèdia en asturià"
+        },
+        {
           "ID": 1192304,
           "Title": "Gelat italià"
         },
@@ -384,8 +456,20 @@
           "Title": "Caldo gallec"
         },
         {
+          "ID": 1274032,
+          "Title": "Pastırma"
+        },
+        {
           "ID": 1280478,
           "Title": "Inundacions del Nil"
+        },
+        {
+          "ID": 1285978,
+          "Title": "Bescuit (pa)"
+        },
+        {
+          "ID": 1290356,
+          "Title": "Obra de referència"
         },
         {
           "ID": 1293579,
@@ -400,12 +484,20 @@
           "Title": "Sucker Punch"
         },
         {
+          "ID": 1324696,
+          "Title": "Yūrei"
+        },
+        {
           "ID": 1380651,
           "Title": "Slănină"
         },
         {
           "ID": 1406388,
           "Title": "Festival de la Cançó d'Eurovisió 2017"
+        },
+        {
+          "ID": 1483256,
+          "Title": "Bescuit de mar"
         },
         {
           "ID": 1493193,
@@ -459,6 +551,14 @@
         }
       ],
       "Articles": [
+        {
+          "ID": 191,
+          "Title": "Austràlia"
+        },
+        {
+          "ID": 7299,
+          "Title": "Humà"
+        },
         {
           "ID": 8851,
           "Title": "París"
@@ -518,6 +618,10 @@
           "Title": "Categoria:Malalties i trastorns genètics"
         },
         {
+          "ID": 1364917,
+          "Title": "Categoria:Assistència sanitària"
+        },
+        {
           "ID": 1364925,
           "Title": "Categoria:Professions sanitàries"
         }
@@ -554,6 +658,10 @@
         {
           "ID": 67271,
           "Title": "Guerra de Troia"
+        },
+        {
+          "ID": 82582,
+          "Title": "Unitats de mesura romanes"
         },
         {
           "ID": 84601,
@@ -708,6 +816,10 @@
           "Title": "Cicle hidrològic"
         },
         {
+          "ID": 1426,
+          "Title": "Hidrologia"
+        },
+        {
           "ID": 1834,
           "Title": "Múscul"
         },
@@ -760,8 +872,20 @@
           "Title": "Llimoner"
         },
         {
+          "ID": 46580,
+          "Title": "Carabassa"
+        },
+        {
           "ID": 46831,
           "Title": "Tomàquet"
+        },
+        {
+          "ID": 52952,
+          "Title": "Sistema reproductor"
+        },
+        {
+          "ID": 67026,
+          "Title": "Murtra"
         },
         {
           "ID": 78894,
@@ -778,6 +902,10 @@
         {
           "ID": 93668,
           "Title": "Panterins"
+        },
+        {
+          "ID": 96193,
+          "Title": "Fragaria"
         },
         {
           "ID": 96199,
@@ -840,6 +968,10 @@
           "Title": "Anaconda verda"
         },
         {
+          "ID": 392653,
+          "Title": "Rastrelliger kanagurta"
+        },
+        {
           "ID": 546275,
           "Title": "Germinació"
         },
@@ -888,6 +1020,14 @@
           "Title": "Pícea d'Engelmann"
         },
         {
+          "ID": 784455,
+          "Title": "Physalis peruviana"
+        },
+        {
+          "ID": 908796,
+          "Title": "Cantalup"
+        },
+        {
           "ID": 915627,
           "Title": "Mantell (anatomia)"
         },
@@ -898,6 +1038,10 @@
         {
           "ID": 923152,
           "Title": "Gran fèlid"
+        },
+        {
+          "ID": 959108,
+          "Title": "Blat xeixa"
         },
         {
           "ID": 967392,
@@ -922,6 +1066,10 @@
         {
           "ID": 1199934,
           "Title": "Hílids"
+        },
+        {
+          "ID": 1207747,
+          "Title": "Trachurus"
         },
         {
           "ID": 1214516,
@@ -954,8 +1102,20 @@
           "Title": "Categoria:Cognoms"
         },
         {
+          "ID": 405643,
+          "Title": "Categoria:Personalitat"
+        },
+        {
           "ID": 622030,
           "Title": "Categoria:Dona"
+        },
+        {
+          "ID": 1102912,
+          "Title": "Categoria:Vida"
+        },
+        {
+          "ID": 1176172,
+          "Title": "Categoria:Obres biogràfiques"
         }
       ],
       "Articles": [
@@ -1164,12 +1324,20 @@
       ],
       "Articles": [
         {
+          "ID": 523,
+          "Title": "Creença"
+        },
+        {
           "ID": 34488,
           "Title": "Bellesa"
         },
         {
           "ID": 40451,
           "Title": "Felicitat"
+        },
+        {
+          "ID": 42637,
+          "Title": "Alegria"
         },
         {
           "ID": 135948,
@@ -1246,6 +1414,10 @@
         {
           "ID": 237556,
           "Title": "Categoria:Lleis"
+        },
+        {
+          "ID": 1425284,
+          "Title": "Categoria:Organitzacions intergovernamentals"
         }
       ],
       "Articles": [
@@ -1412,6 +1584,10 @@
         {
           "ID": 511530,
           "Title": "Universitat Estatal d'Ohio"
+        },
+        {
+          "ID": 530253,
+          "Title": "Fidúcia"
         },
         {
           "ID": 532049,
@@ -1704,8 +1880,20 @@
           "Title": "Categoria:Transport"
         },
         {
+          "ID": 21662,
+          "Title": "Categoria:Bases de dades"
+        },
+        {
           "ID": 124787,
           "Title": "Categoria:Disseny"
+        },
+        {
+          "ID": 198774,
+          "Title": "Categoria:Gestió de dades"
+        },
+        {
+          "ID": 259576,
+          "Title": "Categoria:Ordinadors"
         },
         {
           "ID": 645798,

@@ -18,6 +18,10 @@
           "Title": "Kategori:Konst"
         },
         {
+          "ID": 54556,
+          "Title": "Kategori:Fritid"
+        },
+        {
           "ID": 54878,
           "Title": "Kategori:Kultur"
         },
@@ -42,8 +46,16 @@
           "Title": "Kategori:Näringslära"
         },
         {
+          "ID": 141408,
+          "Title": "Kategori:Träning"
+        },
+        {
           "ID": 327959,
           "Title": "Kategori:Mat och dryck"
+        },
+        {
+          "ID": 353389,
+          "Title": "Kategori:Färg"
         },
         {
           "ID": 426476,
@@ -58,8 +70,16 @@
           "Title": "Kategori:Rekreation"
         },
         {
+          "ID": 817595,
+          "Title": "Kategori:Färgord"
+        },
+        {
           "ID": 1175068,
           "Title": "Kategori:Maträtter efter ingrediens"
+        },
+        {
+          "ID": 7968039,
+          "Title": "Kategori:Gastronomi"
         }
       ],
       "Articles": [
@@ -78,6 +98,14 @@
         {
           "ID": 2613,
           "Title": "Uppslagsverk"
+        },
+        {
+          "ID": 3553,
+          "Title": "Arabiskt kaffe"
+        },
+        {
+          "ID": 3563,
+          "Title": "Kaffesläktet"
         },
         {
           "ID": 4197,
@@ -100,8 +128,20 @@
           "Title": "Bröd"
         },
         {
+          "ID": 15777,
+          "Title": "Realism"
+        },
+        {
           "ID": 19278,
           "Title": "Loch Ness-odjuret"
+        },
+        {
+          "ID": 19490,
+          "Title": "Ägg"
+        },
+        {
+          "ID": 21127,
+          "Title": "Kakao"
         },
         {
           "ID": 22385,
@@ -124,6 +164,10 @@
           "Title": "AC/DC"
         },
         {
+          "ID": 35473,
+          "Title": "Musikgrupp"
+        },
+        {
           "ID": 36128,
           "Title": "Sgt. Pepper's Lonely Hearts Club Band"
         },
@@ -140,6 +184,10 @@
           "Title": "Glass"
         },
         {
+          "ID": 44715,
+          "Title": "Oralsex"
+        },
+        {
           "ID": 45140,
           "Title": "Pilsner"
         },
@@ -154,6 +202,10 @@
         {
           "ID": 55159,
           "Title": "Hogwarts"
+        },
+        {
+          "ID": 62445,
+          "Title": "Ginger ale"
         },
         {
           "ID": 63066,
@@ -180,6 +232,10 @@
           "Title": "Lättöl"
         },
         {
+          "ID": 76934,
+          "Title": "Band"
+        },
+        {
           "ID": 79638,
           "Title": "Verklighet"
         },
@@ -204,6 +260,14 @@
           "Title": "Köttfärs"
         },
         {
+          "ID": 95412,
+          "Title": "Vildsvin"
+        },
+        {
+          "ID": 96784,
+          "Title": "Gris"
+        },
+        {
           "ID": 101626,
           "Title": "Skinka"
         },
@@ -226,6 +290,10 @@
         {
           "ID": 123945,
           "Title": "Äppelmos"
+        },
+        {
+          "ID": 125930,
+          "Title": "Släde"
         },
         {
           "ID": 127624,
@@ -264,6 +332,10 @@
           "Title": "Giuditta Pasta"
         },
         {
+          "ID": 190885,
+          "Title": "Pecorino"
+        },
+        {
           "ID": 207585,
           "Title": "Dinosaur Jr."
         },
@@ -278,6 +350,10 @@
         {
           "ID": 368869,
           "Title": "Tomatsås"
+        },
+        {
+          "ID": 395039,
+          "Title": "Skorpa"
         },
         {
           "ID": 403978,
@@ -308,6 +384,10 @@
           "Title": "Chokladdryck"
         },
         {
+          "ID": 556252,
+          "Title": "Yūrei"
+        },
+        {
           "ID": 569287,
           "Title": "Groundhog Day"
         },
@@ -332,12 +412,24 @@
           "Title": "Bananbröd"
         },
         {
+          "ID": 690235,
+          "Title": "Svin"
+        },
+        {
           "ID": 695581,
           "Title": "Bejeweled"
         },
         {
           "ID": 696870,
           "Title": "Franska köket"
+        },
+        {
+          "ID": 700752,
+          "Title": "Referenslitteratur"
+        },
+        {
+          "ID": 864707,
+          "Title": "Pastırma"
         },
         {
           "ID": 914317,
@@ -354,6 +446,10 @@
         {
           "ID": 1204438,
           "Title": "Bröllopstårta"
+        },
+        {
+          "ID": 1254326,
+          "Title": "Skeppsskorpa"
         },
         {
           "ID": 1379373,
@@ -456,8 +552,16 @@
       ],
       "Articles": [
         {
+          "ID": 1246,
+          "Title": "Människa"
+        },
+        {
           "ID": 1432,
           "Title": "Paris"
+        },
+        {
+          "ID": 3951,
+          "Title": "Australien"
         },
         {
           "ID": 7274,
@@ -493,6 +597,10 @@
       "ID": 2147483639,
       "Title": "Health and fitness",
       "Categories": [
+        {
+          "ID": 54642,
+          "Title": "Kategori:Sjukvård"
+        },
         {
           "ID": 118729,
           "Title": "Kategori:Hygien"
@@ -696,6 +804,10 @@
           "Title": "Penis"
         },
         {
+          "ID": 10516,
+          "Title": "Könsorgan"
+        },
+        {
           "ID": 15597,
           "Title": "Lime"
         },
@@ -718,6 +830,10 @@
         {
           "ID": 38861,
           "Title": "Ananas"
+        },
+        {
+          "ID": 38981,
+          "Title": "Smultronsläktet"
         },
         {
           "ID": 42603,
@@ -760,6 +876,14 @@
           "Title": "Grön anakonda"
         },
         {
+          "ID": 91836,
+          "Title": "Hydrologi"
+        },
+        {
+          "ID": 122209,
+          "Title": "Kapkrusbär"
+        },
+        {
           "ID": 135421,
           "Title": "Makrill"
         },
@@ -770,6 +894,14 @@
         {
           "ID": 176551,
           "Title": "Smulgubbe"
+        },
+        {
+          "ID": 183245,
+          "Title": "Oryza sativa"
+        },
+        {
+          "ID": 230683,
+          "Title": "Smultron"
         },
         {
           "ID": 240793,
@@ -800,6 +932,10 @@
           "Title": "Pantherinae"
         },
         {
+          "ID": 312821,
+          "Title": "Nätmelon"
+        },
+        {
           "ID": 316817,
           "Title": "Lövgrodor"
         },
@@ -816,12 +952,20 @@
           "Title": "Komplementfärg"
         },
         {
+          "ID": 405226,
+          "Title": "Makrillsläktet"
+        },
+        {
           "ID": 436700,
           "Title": "Förhärskande vind"
         },
         {
           "ID": 437075,
           "Title": "Spindelapor"
+        },
+        {
+          "ID": 506615,
+          "Title": "Fortplantningssystemet"
         },
         {
           "ID": 527406,
@@ -840,6 +984,14 @@
           "Title": "Körsbärstomat"
         },
         {
+          "ID": 724884,
+          "Title": "Tomatillo"
+        },
+        {
+          "ID": 752508,
+          "Title": "Myrten"
+        },
+        {
           "ID": 804365,
           "Title": "Kameler"
         },
@@ -850,6 +1002,10 @@
         {
           "ID": 1082557,
           "Title": "Vårpipare"
+        },
+        {
+          "ID": 1517897,
+          "Title": "Småax"
         },
         {
           "ID": 1708177,
@@ -870,6 +1026,14 @@
         {
           "ID": 2382959,
           "Title": "Groning"
+        },
+        {
+          "ID": 2397350,
+          "Title": "Rastrelliger kanagurta"
+        },
+        {
+          "ID": 2425763,
+          "Title": "Trachurus"
         },
         {
           "ID": 2438288,
@@ -930,6 +1094,10 @@
         {
           "ID": 5962427,
           "Title": "Europeisk älg"
+        },
+        {
+          "ID": 8127280,
+          "Title": "Jättepumpa"
         }
       ]
     },
@@ -946,8 +1114,20 @@
           "Title": "Kategori:Efternamn"
         },
         {
+          "ID": 305558,
+          "Title": "Kategori:Biografier"
+        },
+        {
+          "ID": 462487,
+          "Title": "Kategori:Liv"
+        },
+        {
           "ID": 541215,
           "Title": "Kategori:Filmfigurer"
+        },
+        {
+          "ID": 613546,
+          "Title": "Kategori:Personlighet"
         },
         {
           "ID": 865075,
@@ -1212,8 +1392,20 @@
           "Title": "Skönhet"
         },
         {
+          "ID": 97799,
+          "Title": "Glädje"
+        },
+        {
           "ID": 139731,
           "Title": "Lycka"
+        },
+        {
+          "ID": 879095,
+          "Title": "Hit (olika betydelser)"
+        },
+        {
+          "ID": 954934,
+          "Title": "Tro (kognition)"
         },
         {
           "ID": 1082408,
@@ -1222,6 +1414,14 @@
         {
           "ID": 1460265,
           "Title": "Förtroende (filosofi)"
+        },
+        {
+          "ID": 3570092,
+          "Title": "Believer"
+        },
+        {
+          "ID": 5714756,
+          "Title": "Alegria (olika betydelser)"
         },
         {
           "ID": 6250310,
@@ -1290,6 +1490,10 @@
         {
           "ID": 166952,
           "Title": "Kategori:Lagar"
+        },
+        {
+          "ID": 474056,
+          "Title": "Kategori:Mellanstatliga organisationer"
         },
         {
           "ID": 695396,
@@ -1892,6 +2096,10 @@
       "Title": "Technology and applied sciences",
       "Categories": [
         {
+          "ID": 50676,
+          "Title": "Kategori:Teknik"
+        },
+        {
           "ID": 50677,
           "Title": "Kategori:Datavetenskap"
         },
@@ -1916,6 +2124,10 @@
           "Title": "Kategori:Teknikhistoria"
         },
         {
+          "ID": 207134,
+          "Title": "Kategori:Datorer"
+        },
+        {
           "ID": 240356,
           "Title": "Kategori:Militär utrustning"
         },
@@ -1926,6 +2138,10 @@
         {
           "ID": 547098,
           "Title": "Kategori:Tillämpade vetenskaper"
+        },
+        {
+          "ID": 561278,
+          "Title": "Kategori:Databaser"
         },
         {
           "ID": 610023,

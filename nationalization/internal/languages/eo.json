@@ -34,6 +34,10 @@
           "Title": "Kategorio:Manĝaĵoj"
         },
         {
+          "ID": 38423,
+          "Title": "Kategorio:Koloroj"
+        },
+        {
           "ID": 39653,
           "Title": "Kategorio:Kuirarto"
         },
@@ -50,12 +54,24 @@
           "Title": "Kategorio:Distrado"
         },
         {
+          "ID": 256515,
+          "Title": "Kategorio:Gastronomio"
+        },
+        {
           "ID": 282780,
           "Title": "Kategorio:Spektakloj"
         },
         {
+          "ID": 458313,
+          "Title": "Kategorio:Sportoj"
+        },
+        {
           "ID": 554242,
           "Title": "Kategorio:Manĝaĵoj kaj trinkaĵoj"
+        },
+        {
+          "ID": 581055,
+          "Title": "Kategorio:Korpekzercado"
         },
         {
           "ID": 592859,
@@ -84,12 +100,20 @@
           "Title": "Vikipedio"
         },
         {
+          "ID": 6747,
+          "Title": "Realisma pentrarto"
+        },
+        {
           "ID": 7452,
           "Title": "Palaco Buckingham"
         },
         {
           "ID": 8554,
           "Title": "Monda faktolibro de CIA"
+        },
+        {
+          "ID": 12719,
+          "Title": "Apro"
         },
         {
           "ID": 16561,
@@ -116,12 +140,28 @@
           "Title": "Realo"
         },
         {
+          "ID": 22175,
+          "Title": "Ovo"
+        },
+        {
+          "ID": 23811,
+          "Title": "Kafarbo"
+        },
+        {
           "ID": 24398,
           "Title": "Ŝinko"
         },
         {
+          "ID": 24470,
+          "Title": "Porko"
+        },
+        {
           "ID": 24596,
           "Title": "Midzo"
+        },
+        {
+          "ID": 24598,
+          "Title": "Buŝa seksumado"
         },
         {
           "ID": 32770,
@@ -142,6 +182,10 @@
         {
           "ID": 44620,
           "Title": "Torto"
+        },
+        {
+          "ID": 44935,
+          "Title": "Sledo"
         },
         {
           "ID": 47344,
@@ -184,6 +228,10 @@
           "Title": "Viandhaketaĵo"
         },
         {
+          "ID": 127829,
+          "Title": "Pecorino"
+        },
+        {
           "ID": 130079,
           "Title": "Arakida butero"
         },
@@ -196,12 +244,20 @@
           "Title": "Saloo"
         },
         {
+          "ID": 201385,
+          "Title": "Band"
+        },
+        {
           "ID": 210093,
           "Title": "Tako"
         },
         {
           "ID": 215481,
           "Title": "Porkaĵo"
+        },
+        {
+          "ID": 222227,
+          "Title": "Theobroma cacao"
         },
         {
           "ID": 233868,
@@ -244,6 +300,14 @@
           "Title": "WWE Championship"
         },
         {
+          "ID": 356086,
+          "Title": "Suo"
+        },
+        {
+          "ID": 363938,
+          "Title": "Araba kofeo"
+        },
+        {
           "ID": 377353,
           "Title": "Lardo"
         },
@@ -254,6 +318,10 @@
         {
           "ID": 386600,
           "Title": "Angry Birds"
+        },
+        {
+          "ID": 393403,
+          "Title": "Flanpano"
         },
         {
           "ID": 427201,
@@ -278,6 +346,10 @@
         {
           "ID": 537102,
           "Title": "M\u0026M's"
+        },
+        {
+          "ID": 540637,
+          "Title": "Referencverko"
         },
         {
           "ID": 546066,
@@ -336,8 +408,16 @@
       ],
       "Articles": [
         {
+          "ID": 40,
+          "Title": "Aŭstralio"
+        },
+        {
           "ID": 489,
           "Title": "Birmo"
+        },
+        {
+          "ID": 1642,
+          "Title": "Homo"
         },
         {
           "ID": 3330,
@@ -394,6 +474,10 @@
           "Title": "Kategorio:Genetikaj malsanoj"
         },
         {
+          "ID": 477174,
+          "Title": "Kategorio:Sanservo"
+        },
+        {
           "ID": 580965,
           "Title": "Kategorio:Heredaj malsanoj"
         },
@@ -430,6 +514,10 @@
         {
           "ID": 447283,
           "Title": "Kategorio:Kulturaj eventoj"
+        },
+        {
+          "ID": 470873,
+          "Title": "Kategorio:Historio laŭ lokoj"
         }
       ],
       "Articles": [
@@ -440,6 +528,10 @@
         {
           "ID": 46394,
           "Title": "Troja milito"
+        },
+        {
+          "ID": 51705,
+          "Title": "Romiaj mezurunuoj"
         },
         {
           "ID": 320075,
@@ -558,12 +650,20 @@
         {
           "ID": 188544,
           "Title": "Kategorio:Mediologio"
+        },
+        {
+          "ID": 438859,
+          "Title": "Kategorio:Sciencaj studfakoj"
         }
       ],
       "Articles": [
         {
           "ID": 1237,
           "Title": "Fajro"
+        },
+        {
+          "ID": 3713,
+          "Title": "Reprodukta sistemo"
         },
         {
           "ID": 11792,
@@ -576,6 +676,10 @@
         {
           "ID": 16566,
           "Title": "Maizo"
+        },
+        {
+          "ID": 16608,
+          "Title": "Spiketo"
         },
         {
           "ID": 16819,
@@ -650,6 +754,14 @@
           "Title": "Florbrasiko"
         },
         {
+          "ID": 128605,
+          "Title": "Kantalupo"
+        },
+        {
+          "ID": 134731,
+          "Title": "Hidrologio"
+        },
+        {
           "ID": 134775,
           "Title": "Akva ciklo"
         },
@@ -718,6 +830,10 @@
           "Title": "Rufaj haroj"
         },
         {
+          "ID": 387395,
+          "Title": "Arbara fragujo"
+        },
+        {
           "ID": 400859,
           "Title": "Suspensio"
         },
@@ -734,12 +850,24 @@
           "Title": "Hegemoniaj ventoj"
         },
         {
+          "ID": 481793,
+          "Title": "Citrus aurantium"
+        },
+        {
+          "ID": 482598,
+          "Title": "Physalis philadelphica"
+        },
+        {
           "ID": 506240,
           "Title": "Anakondo"
         },
         {
           "ID": 516731,
           "Title": "Ĝermado"
+        },
+        {
+          "ID": 560166,
+          "Title": "Gigantkukurbo"
         },
         {
           "ID": 560709,
@@ -752,6 +880,10 @@
         {
           "ID": 580451,
           "Title": "Arborano"
+        },
+        {
+          "ID": 612243,
+          "Title": "Mirto (specio)"
         }
       ]
     },
@@ -759,6 +891,10 @@
       "ID": 2147483643,
       "Title": "People and self",
       "Categories": [
+        {
+          "ID": 21546,
+          "Title": "Kategorio:Biografio"
+        },
         {
           "ID": 66283,
           "Title": "Kategorio:Virinoj"
@@ -768,8 +904,16 @@
           "Title": "Kategorio:Familiaj nomoj"
         },
         {
+          "ID": 170263,
+          "Title": "Kategorio:Vivo"
+        },
+        {
           "ID": 272264,
           "Title": "Kategorio:Filmaj roluloj"
+        },
+        {
+          "ID": 278103,
+          "Title": "Kategorio:Biografiaj libroj"
         },
         {
           "ID": 318496,
@@ -788,8 +932,16 @@
           "Title": "Kategorio:Personoj"
         },
         {
+          "ID": 447269,
+          "Title": "Kategorio:Personeco"
+        },
+        {
           "ID": 597524,
           "Title": "Kategorio:Artistoj laŭ medioj"
+        },
+        {
+          "ID": 601700,
+          "Title": "Kategorio:Biografiaj verkoj"
         }
       ],
       "Articles": [
@@ -990,12 +1142,24 @@
           "Title": "Fakto"
         },
         {
+          "ID": 55138,
+          "Title": "Ĝojo"
+        },
+        {
           "ID": 59062,
           "Title": "Feliĉo"
         },
         {
           "ID": 137234,
           "Title": "Belo"
+        },
+        {
+          "ID": 151449,
+          "Title": "HIT"
+        },
+        {
+          "ID": 256588,
+          "Title": "Kredo"
         },
         {
           "ID": 589368,
@@ -1084,6 +1248,10 @@
         {
           "ID": 490376,
           "Title": "Kategorio:Universitatoj kaj altlernejoj laŭ landoj"
+        },
+        {
+          "ID": 497181,
+          "Title": "Kategorio:Interregistaraj organizaĵoj"
         }
       ],
       "Articles": [
@@ -1478,8 +1646,20 @@
           "Title": "Kategorio:Teknologio"
         },
         {
+          "ID": 39318,
+          "Title": "Kategorio:Komputilo"
+        },
+        {
           "ID": 51301,
           "Title": "Kategorio:Transporto"
+        },
+        {
+          "ID": 82660,
+          "Title": "Kategorio:Datumbazoj"
+        },
+        {
+          "ID": 94531,
+          "Title": "Kategorio:Datuma regado"
         },
         {
           "ID": 190216,
@@ -1492,6 +1672,10 @@
         {
           "ID": 209361,
           "Title": "Kategorio:Inĝenierarto"
+        },
+        {
+          "ID": 234142,
+          "Title": "Kategorio:Tekniko"
         },
         {
           "ID": 310204,

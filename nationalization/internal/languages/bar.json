@@ -30,8 +30,20 @@
           "Title": "Kategorie:Gericht (Essen und Trinken)"
         },
         {
+          "ID": 9986,
+          "Title": "Kategorie:Gastronomie"
+        },
+        {
           "ID": 10132,
           "Title": "Kategorie:Musikgruppe"
+        },
+        {
+          "ID": 13093,
+          "Title": "Kategorie:Sportart"
+        },
+        {
+          "ID": 13218,
+          "Title": "Kategorie:Freizeit"
         },
         {
           "ID": 13670,
@@ -48,6 +60,10 @@
         {
           "ID": 19248,
           "Title": "Kategorie:Filmtitel"
+        },
+        {
+          "ID": 19507,
+          "Title": "Kategorie:Farben"
         }
       ],
       "Articles": [
@@ -62,6 +78,10 @@
         {
           "ID": 2492,
           "Title": "Enzyklopädie"
+        },
+        {
+          "ID": 4304,
+          "Title": "Facken"
         },
         {
           "ID": 5237,
@@ -104,6 +124,10 @@
           "Title": "Speiseeis"
         },
         {
+          "ID": 21064,
+          "Title": "Oa"
+        },
+        {
           "ID": 25814,
           "Title": "Hotdogs"
         },
@@ -114,6 +138,10 @@
         {
           "ID": 28420,
           "Title": "Supplì"
+        },
+        {
+          "ID": 34532,
+          "Title": "Wuidsau"
         },
         {
           "ID": 44153,
@@ -168,6 +196,14 @@
       ],
       "Articles": [
         {
+          "ID": 347,
+          "Title": "Australien"
+        },
+        {
+          "ID": 3217,
+          "Title": "Mensch"
+        },
+        {
           "ID": 12078,
           "Title": "Paris"
         },
@@ -206,6 +242,10 @@
           "Title": "Kategorie:Hygiene"
         },
         {
+          "ID": 15746,
+          "Title": "Kategorie:Gesundheitswesen"
+        },
+        {
           "ID": 92061,
           "Title": "Kategorie:Heilberuf"
         }
@@ -222,6 +262,10 @@
         {
           "ID": 13882,
           "Title": "Kategorie:Geschichte nach Staat"
+        },
+        {
+          "ID": 13883,
+          "Title": "Kategorie:Geschichte nach räumlicher Zuordnung"
         },
         {
           "ID": 18705,
@@ -292,6 +336,10 @@
           "Title": "Kategorie:Physik"
         },
         {
+          "ID": 13099,
+          "Title": "Kategorie:Wissenschaftliches Fachgebiet"
+        },
+        {
           "ID": 13404,
           "Title": "Kategorie:Zoologie"
         },
@@ -320,6 +368,10 @@
         {
           "ID": 27311,
           "Title": "Pamarantschn"
+        },
+        {
+          "ID": 35580,
+          "Title": "Eadbean"
         },
         {
           "ID": 45691,
@@ -356,8 +408,16 @@
           "Title": "Kategorie:Alltagskultur"
         },
         {
+          "ID": 18139,
+          "Title": "Kategorie:Biografie"
+        },
+        {
           "ID": 46847,
           "Title": "Kategorie:Familienname"
+        },
+        {
+          "ID": 91575,
+          "Title": "Kategorie:Personen"
         },
         {
           "ID": 91694,
@@ -514,6 +574,14 @@
       "Title": "Technology and applied sciences",
       "Categories": [
         {
+          "ID": 2874,
+          "Title": "Kategorie:Computer"
+        },
+        {
+          "ID": 2878,
+          "Title": "Kategorie:Technik"
+        },
+        {
           "ID": 9526,
           "Title": "Kategorie:Internet"
         },
@@ -548,6 +616,10 @@
         {
           "ID": 16403,
           "Title": "Kategorie:Militärische Ausrüstung"
+        },
+        {
+          "ID": 17019,
+          "Title": "Kategorie:Datenbank"
         },
         {
           "ID": 17204,

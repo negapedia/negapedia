@@ -6,6 +6,10 @@
       "Title": "Culture and the arts",
       "Categories": [
         {
+          "ID": 5806,
+          "Title": "Kategoria:Aisia"
+        },
+        {
           "ID": 5809,
           "Title": "Kategoria:Ikuskizunak"
         },
@@ -18,12 +22,20 @@
           "Title": "Kategoria:Elikadura"
         },
         {
+          "ID": 6165,
+          "Title": "Kategoria:Gastronomia"
+        },
+        {
           "ID": 6558,
           "Title": "Kategoria:Musika taldeak"
         },
         {
           "ID": 7633,
           "Title": "Kategoria:Kultura"
+        },
+        {
+          "ID": 9161,
+          "Title": "Kategoria:Koloreak"
         },
         {
           "ID": 12081,
@@ -46,8 +58,20 @@
           "Title": "Kategoria:Jolasa"
         },
         {
+          "ID": 228414,
+          "Title": "Kategoria:Sukaldeko teknikak"
+        },
+        {
+          "ID": 229789,
+          "Title": "Kategoria:Kirolak motaren arabera"
+        },
+        {
           "ID": 297829,
           "Title": "Kategoria:Janariak eta edariak"
+        },
+        {
+          "ID": 297983,
+          "Title": "Kategoria:Ariketa fisikoa"
         },
         {
           "ID": 674888,
@@ -84,6 +108,10 @@
           "Title": "Ogi"
         },
         {
+          "ID": 42240,
+          "Title": "Txerri"
+        },
+        {
           "ID": 50931,
           "Title": "Sgt. Pepper's Lonely Hearts Club Band"
         },
@@ -94,6 +122,18 @@
         {
           "ID": 53471,
           "Title": "Kafe"
+        },
+        {
+          "ID": 71127,
+          "Title": "Lera"
+        },
+        {
+          "ID": 74213,
+          "Title": "Ogi zapal"
+        },
+        {
+          "ID": 79367,
+          "Title": "Basurde"
         },
         {
           "ID": 88863,
@@ -120,12 +160,20 @@
           "Title": "Arrautza (janaria)"
         },
         {
+          "ID": 103086,
+          "Title": "Kakao arbola"
+        },
+        {
           "ID": 104544,
           "Title": "Mordred"
         },
         {
           "ID": 104719,
           "Title": "Felazio"
+        },
+        {
+          "ID": 112425,
+          "Title": "Asturierazko Wikipedia"
         },
         {
           "ID": 116210,
@@ -140,8 +188,20 @@
           "Title": "Errealismo"
         },
         {
+          "ID": 118274,
+          "Title": "Errealismo (margolaritza)"
+        },
+        {
+          "ID": 128501,
+          "Title": "Erreferentzia-lan"
+        },
+        {
           "ID": 128811,
           "Title": "Errealitate"
+        },
+        {
+          "ID": 131518,
+          "Title": "Kafe-landare"
         },
         {
           "ID": 142905,
@@ -150,6 +210,14 @@
         {
           "ID": 152337,
           "Title": "Mamu"
+        },
+        {
+          "ID": 156095,
+          "Title": "Arrautza"
+        },
+        {
+          "ID": 157093,
+          "Title": "Aho sexu"
         },
         {
           "ID": 162540,
@@ -176,8 +244,16 @@
           "Title": "Errealismo (literatura)"
         },
         {
+          "ID": 295115,
+          "Title": "Pecorino"
+        },
+        {
           "ID": 295436,
           "Title": "Hot dog"
+        },
+        {
+          "ID": 297825,
+          "Title": "Tarta"
         },
         {
           "ID": 339730,
@@ -206,6 +282,10 @@
         {
           "ID": 436537,
           "Title": "Oin Handi"
+        },
+        {
+          "ID": 505776,
+          "Title": "Sus (generoa)"
         },
         {
           "ID": 533435,
@@ -260,6 +340,14 @@
           "Title": "Soda ogi"
         },
         {
+          "ID": 651670,
+          "Title": "Ailis"
+        },
+        {
+          "ID": 674609,
+          "Title": "Ginger ale"
+        },
+        {
           "ID": 674762,
           "Title": "Kakahuete-gurin"
         },
@@ -270,6 +358,10 @@
         {
           "ID": 711878,
           "Title": "2017ko Eurovision Abesti Lehiaketa"
+        },
+        {
+          "ID": 723517,
+          "Title": "Zelibatu"
         },
         {
           "ID": 727320,
@@ -332,8 +424,16 @@
           "Title": "Paris"
         },
         {
+          "ID": 5488,
+          "Title": "Australia"
+        },
+        {
           "ID": 9224,
           "Title": "Canberra"
+        },
+        {
+          "ID": 9739,
+          "Title": "Gizaki"
         },
         {
           "ID": 9893,
@@ -398,6 +498,10 @@
           "Title": "Kategoria:Zainketa pertsonala"
         },
         {
+          "ID": 344267,
+          "Title": "Kategoria:Osasun-zainketa"
+        },
+        {
           "ID": 583095,
           "Title": "Kategoria:Osasunaren lanbideak"
         }
@@ -422,6 +526,10 @@
         {
           "ID": 157480,
           "Title": "Kategoria:Kultura ekitaldiak"
+        },
+        {
+          "ID": 675884,
+          "Title": "Kategoria:Historia tokiaren arabera"
         }
       ],
       "Articles": [
@@ -532,6 +640,10 @@
           "Title": "Kategoria:Substantzia kimikoak"
         },
         {
+          "ID": 162025,
+          "Title": "Kategoria:Zientzia"
+        },
+        {
           "ID": 241855,
           "Title": "Kategoria:Fauna kontinentearen arabera"
         },
@@ -572,6 +684,10 @@
         {
           "ID": 36266,
           "Title": "Zakil"
+        },
+        {
+          "ID": 42348,
+          "Title": "Hidrologia"
         },
         {
           "ID": 45596,
@@ -622,12 +738,20 @@
           "Title": "Gernu"
         },
         {
+          "ID": 102074,
+          "Title": "Marrubi"
+        },
+        {
           "ID": 110286,
           "Title": "Esekidura (kimika)"
         },
         {
           "ID": 128841,
           "Title": "Anana"
+        },
+        {
+          "ID": 129860,
+          "Title": "Ugaltze-aparatu"
         },
         {
           "ID": 130743,
@@ -650,8 +774,16 @@
           "Title": "Flamenko (hegaztia)"
         },
         {
+          "ID": 158526,
+          "Title": "Txitxarro"
+        },
+        {
           "ID": 158936,
           "Title": "Berdel"
+        },
+        {
+          "ID": 222099,
+          "Title": "Oryza sativa"
         },
         {
           "ID": 329082,
@@ -702,6 +834,14 @@
           "Title": "Diplocrepis puniceus"
         },
         {
+          "ID": 561354,
+          "Title": "Rastrelliger kanagurta"
+        },
+        {
+          "ID": 564751,
+          "Title": "Mirto (zuhaitza)"
+        },
+        {
           "ID": 571959,
           "Title": "Ernetze"
         },
@@ -714,12 +854,24 @@
           "Title": "Baratze-marrubi"
         },
         {
+          "ID": 594384,
+          "Title": "Marrubi arrunt"
+        },
+        {
+          "ID": 594393,
+          "Title": "Gari arrunt"
+        },
+        {
           "ID": 648143,
           "Title": "Garrulus"
         },
         {
           "ID": 648314,
           "Title": "Tentakulu"
+        },
+        {
+          "ID": 717174,
+          "Title": "Sexu-organo"
         },
         {
           "ID": 737468,
@@ -740,6 +892,10 @@
           "Title": "Kategoria:Biografiak"
         },
         {
+          "ID": 64255,
+          "Title": "Kategoria:Bizia"
+        },
+        {
           "ID": 102211,
           "Title": "Kategoria:Emakumea"
         },
@@ -758,6 +914,14 @@
         {
           "ID": 294258,
           "Title": "Kategoria:Zinemako pertsonaiak"
+        },
+        {
+          "ID": 594473,
+          "Title": "Kategoria:Biografia"
+        },
+        {
+          "ID": 668692,
+          "Title": "Kategoria:Izaera"
         }
       ],
       "Articles": [
@@ -968,6 +1132,10 @@
         {
           "ID": 335831,
           "Title": "Konfiantza"
+        },
+        {
+          "ID": 375856,
+          "Title": "Sinesmen"
         },
         {
           "ID": 573986,
@@ -1278,8 +1446,20 @@
           "Title": "Kategoria:Diseinua"
         },
         {
+          "ID": 22801,
+          "Title": "Kategoria:Datu-baseak"
+        },
+        {
           "ID": 121455,
           "Title": "Kategoria:Garraioa"
+        },
+        {
+          "ID": 225029,
+          "Title": "Kategoria:Datuen kudeaketa"
+        },
+        {
+          "ID": 342824,
+          "Title": "Kategoria:Ordenagailuak"
         },
         {
           "ID": 342827,

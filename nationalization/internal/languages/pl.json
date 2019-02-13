@@ -34,12 +34,28 @@
           "Title": "Kategoria:Filmy"
         },
         {
+          "ID": 162277,
+          "Title": "Kategoria:Teoria koloru"
+        },
+        {
           "ID": 187078,
           "Title": "Kategoria:Rozrywki"
         },
         {
+          "ID": 487914,
+          "Title": "Kategoria:Obróbka żywności"
+        },
+        {
           "ID": 756158,
           "Title": "Kategoria:Rekreacja"
+        },
+        {
+          "ID": 886602,
+          "Title": "Kategoria:Ćwiczenia fizyczne"
+        },
+        {
+          "ID": 1030024,
+          "Title": "Kategoria:Dyscypliny sportowe"
         },
         {
           "ID": 1111321,
@@ -66,6 +82,14 @@
         {
           "ID": 3131,
           "Title": "Kawa"
+        },
+        {
+          "ID": 3132,
+          "Title": "Kawowiec"
+        },
+        {
+          "ID": 3200,
+          "Title": "Kakaowiec właściwy"
         },
         {
           "ID": 4516,
@@ -96,6 +120,18 @@
           "Title": "Wieprzowina"
         },
         {
+          "ID": 16106,
+          "Title": "Pecorino"
+        },
+        {
+          "ID": 16135,
+          "Title": "Świnia domowa"
+        },
+        {
+          "ID": 17326,
+          "Title": "Zespół muzyczny"
+        },
+        {
           "ID": 21548,
           "Title": "Led Zeppelin"
         },
@@ -106,6 +142,10 @@
         {
           "ID": 53845,
           "Title": "Mordred"
+        },
+        {
+          "ID": 55387,
+          "Title": "Jajo (biologia)"
         },
         {
           "ID": 55512,
@@ -156,6 +196,14 @@
           "Title": "Czystość"
         },
         {
+          "ID": 114885,
+          "Title": "Realizm (malarstwo)"
+        },
+        {
+          "ID": 135446,
+          "Title": "Dzik euroazjatycki"
+        },
+        {
           "ID": 136559,
           "Title": "Makaron"
         },
@@ -168,8 +216,16 @@
           "Title": "Piwo imbirowe"
         },
         {
+          "ID": 181070,
+          "Title": "Sanie"
+        },
+        {
           "ID": 181863,
           "Title": "Potwór z Loch Ness"
+        },
+        {
+          "ID": 183433,
+          "Title": "Pasturma"
         },
         {
           "ID": 189950,
@@ -184,8 +240,16 @@
           "Title": "Rzeczywistość"
         },
         {
+          "ID": 303165,
+          "Title": "Seks oralny"
+        },
+        {
           "ID": 306256,
           "Title": "Zakwas chlebowy"
+        },
+        {
+          "ID": 315478,
+          "Title": "Kawa arabska"
         },
         {
           "ID": 421649,
@@ -220,6 +284,10 @@
           "Title": "Masło orzechowe"
         },
         {
+          "ID": 532969,
+          "Title": "Tarta"
+        },
+        {
           "ID": 535334,
           "Title": "Wielka Stopa (zwierzę)"
         },
@@ -244,6 +312,10 @@
           "Title": "Ash Ketchum"
         },
         {
+          "ID": 688989,
+          "Title": "Świnia (rodzaj ssaka)"
+        },
+        {
           "ID": 701964,
           "Title": "Farsz"
         },
@@ -260,6 +332,10 @@
           "Title": "Powieść realistyczna"
         },
         {
+          "ID": 825709,
+          "Title": "Asturyjska Wikipedia"
+        },
+        {
           "ID": 1003257,
           "Title": "Chleb bananowy"
         },
@@ -268,8 +344,16 @@
           "Title": "Piwo bezalkoholowe"
         },
         {
+          "ID": 1068105,
+          "Title": "Roti (potrawa)"
+        },
+        {
           "ID": 1150892,
           "Title": "Baton (słodycze)"
+        },
+        {
+          "ID": 1162765,
+          "Title": "Suchary (pieczywo)"
         },
         {
           "ID": 1296764,
@@ -396,6 +480,10 @@
           "Title": "Konkurs Piosenki Eurowizji 2017"
         },
         {
+          "ID": 3713127,
+          "Title": "Angry Birds (ujednoznacznienie)"
+        },
+        {
           "ID": 3714771,
           "Title": "Carbonara"
         },
@@ -436,6 +524,10 @@
       ],
       "Articles": [
         {
+          "ID": 156,
+          "Title": "Australia"
+        },
+        {
           "ID": 545,
           "Title": "Mjanma"
         },
@@ -450,6 +542,10 @@
         {
           "ID": 15367,
           "Title": "Wenecja"
+        },
+        {
+          "ID": 83622,
+          "Title": "Człowiek rozumny"
         },
         {
           "ID": 129559,
@@ -488,6 +584,10 @@
         {
           "ID": 148350,
           "Title": "Kategoria:Choroby genetyczne"
+        },
+        {
+          "ID": 282108,
+          "Title": "Kategoria:System opieki zdrowotnej"
         },
         {
           "ID": 338501,
@@ -648,12 +748,20 @@
         {
           "ID": 2306206,
           "Title": "Kategoria:Substancje chemiczne"
+        },
+        {
+          "ID": 3057566,
+          "Title": "Kategoria:Klasyfikacja nauk"
         }
       ],
       "Articles": [
         {
           "ID": 490,
           "Title": "Barwy dopełniające"
+        },
+        {
+          "ID": 2085,
+          "Title": "Hydrologia"
         },
         {
           "ID": 3092,
@@ -666,6 +774,10 @@
         {
           "ID": 5043,
           "Title": "Pszenica"
+        },
+        {
+          "ID": 5044,
+          "Title": "Pszenica zwyczajna"
         },
         {
           "ID": 6352,
@@ -696,8 +808,20 @@
           "Title": "Mięsień"
         },
         {
+          "ID": 29596,
+          "Title": "Układ moczowo-płciowy"
+        },
+        {
+          "ID": 40627,
+          "Title": "Kłosek"
+        },
+        {
           "ID": 47836,
           "Title": "Ryż"
+        },
+        {
+          "ID": 47838,
+          "Title": "Ryż siewny"
         },
         {
           "ID": 52649,
@@ -760,8 +884,24 @@
           "Title": "Jądro (anatomia)"
         },
         {
+          "ID": 160674,
+          "Title": "Scomber"
+        },
+        {
           "ID": 284808,
           "Title": "Ogórek melon"
+        },
+        {
+          "ID": 296294,
+          "Title": "Genitalia"
+        },
+        {
+          "ID": 298957,
+          "Title": "Dynia olbrzymia"
+        },
+        {
+          "ID": 307738,
+          "Title": "Poziomka"
         },
         {
           "ID": 362665,
@@ -780,6 +920,14 @@
           "Title": "Kiełkowanie"
         },
         {
+          "ID": 415812,
+          "Title": "Miechunka peruwiańska"
+        },
+        {
+          "ID": 418154,
+          "Title": "Miechunka pomidorowa"
+        },
+        {
           "ID": 425836,
           "Title": "Rzekotkowate"
         },
@@ -788,12 +936,20 @@
           "Title": "Magnolia purpurowa"
         },
         {
+          "ID": 484839,
+          "Title": "Poziomka pospolita"
+        },
+        {
           "ID": 554122,
           "Title": "Anakonda zielona"
         },
         {
           "ID": 557807,
           "Title": "Kał krowi"
+        },
+        {
+          "ID": 583856,
+          "Title": "Mirt zwyczajny"
         },
         {
           "ID": 584870,
@@ -808,6 +964,10 @@
           "Title": "Motoneuron"
         },
         {
+          "ID": 619758,
+          "Title": "Układ rozrodczy"
+        },
+        {
           "ID": 629006,
           "Title": "Mirt"
         },
@@ -818,6 +978,10 @@
         {
           "ID": 917985,
           "Title": "Sieć troficzna"
+        },
+        {
+          "ID": 948578,
+          "Title": "Trachurus"
         },
         {
           "ID": 1078958,
@@ -852,8 +1016,16 @@
           "Title": "Phoenicopterus"
         },
         {
+          "ID": 1743283,
+          "Title": "Kantalupa"
+        },
+        {
           "ID": 1943368,
           "Title": "Garrulus"
+        },
+        {
+          "ID": 2107302,
+          "Title": "Anaconda"
         },
         {
           "ID": 2399796,
@@ -898,6 +1070,10 @@
           "Title": "Kategoria:Życie codzienne"
         },
         {
+          "ID": 108556,
+          "Title": "Kategoria:Psychologia osobowości"
+        },
+        {
           "ID": 210228,
           "Title": "Kategoria:Postacie filmowe"
         },
@@ -906,8 +1082,20 @@
           "Title": "Kategoria:Nazwiska"
         },
         {
+          "ID": 868847,
+          "Title": "Kategoria:Osobowość"
+        },
+        {
+          "ID": 1277653,
+          "Title": "Kategoria:Utwory biograficzne"
+        },
+        {
           "ID": 2500776,
           "Title": "Kategoria:Kobieta"
+        },
+        {
+          "ID": 2801879,
+          "Title": "Kategoria:Biografia"
         }
       ],
       "Articles": [
@@ -1148,8 +1336,24 @@
           "Title": "Piękno"
         },
         {
+          "ID": 639206,
+          "Title": "Hit"
+        },
+        {
           "ID": 749748,
           "Title": "Złudzenie ponadprzeciętności"
+        },
+        {
+          "ID": 2254761,
+          "Title": "Wiara"
+        },
+        {
+          "ID": 2298336,
+          "Title": "Radość (emocja)"
+        },
+        {
+          "ID": 2623615,
+          "Title": "Wiara (psychologia)"
         }
       ]
     },
@@ -1210,6 +1414,10 @@
         {
           "ID": 2710108,
           "Title": "Kategoria:Uczelnie według państw"
+        },
+        {
+          "ID": 2967645,
+          "Title": "Kategoria:Międzynarodowe organizacje rządowe"
         }
       ],
       "Articles": [
@@ -1523,7 +1731,7 @@
         },
         {
           "ID": 1356256,
-          "Title": "University of Texas at Austin"
+          "Title": "Uniwersytet Teksański w Austin"
         },
         {
           "ID": 1366924,
@@ -1808,6 +2016,10 @@
         {
           "ID": 4216472,
           "Title": "Uniwersytet Aleksandra Jana Cuzy"
+        },
+        {
+          "ID": 4466926,
+          "Title": "Uniwersytet Genueński"
         }
       ]
     },
@@ -1820,8 +2032,16 @@
           "Title": "Kategoria:Informatyka"
         },
         {
+          "ID": 66359,
+          "Title": "Kategoria:Technika"
+        },
+        {
           "ID": 67897,
           "Title": "Kategoria:Internet"
+        },
+        {
+          "ID": 69153,
+          "Title": "Kategoria:Bazy danych"
         },
         {
           "ID": 69154,
@@ -1834,6 +2054,10 @@
         {
           "ID": 75806,
           "Title": "Kategoria:Transport"
+        },
+        {
+          "ID": 149789,
+          "Title": "Kategoria:Komputery"
         },
         {
           "ID": 172193,
@@ -1854,6 +2078,10 @@
         {
           "ID": 2866036,
           "Title": "Kategoria:Sprzęt wojskowy"
+        },
+        {
+          "ID": 3594944,
+          "Title": "Kategoria:Zarządzanie danymi"
         },
         {
           "ID": 4343354,

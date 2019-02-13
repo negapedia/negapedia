@@ -38,8 +38,24 @@
           "Title": "Kategoria:Kultura ti taraon"
         },
         {
+          "ID": 22807,
+          "Title": "Kategoria:Gastronomia"
+        },
+        {
           "ID": 22808,
           "Title": "Kategoria:Nutrision"
+        },
+        {
+          "ID": 22812,
+          "Title": "Kategoria:Liwliwa"
+        },
+        {
+          "ID": 25950,
+          "Title": "Kategoria:Maris"
+        },
+        {
+          "ID": 27686,
+          "Title": "Kategoria:Pisikal a panagwatwat"
         },
         {
           "ID": 33236,
@@ -66,6 +82,10 @@
         {
           "ID": 22813,
           "Title": "Tinapay"
+        },
+        {
+          "ID": 25597,
+          "Title": "Napaamo a baboy"
         },
         {
           "ID": 27011,
@@ -100,6 +120,14 @@
           "Title": "Paris"
         },
         {
+          "ID": 4916,
+          "Title": "Australia"
+        },
+        {
+          "ID": 16187,
+          "Title": "Tao (sebbangan)"
+        },
+        {
           "ID": 25563,
           "Title": "Piramida"
         }
@@ -124,6 +152,10 @@
         {
           "ID": 22052,
           "Title": "Kategoria:Dagiti espesialidad ti medisina"
+        },
+        {
+          "ID": 24277,
+          "Title": "Kategoria:Panagaywan ti salun-at"
         }
       ]
     },
@@ -142,6 +174,10 @@
         {
           "ID": 24825,
           "Title": "Kategoria:Pakasaritaan babaen ti pagilian"
+        },
+        {
+          "ID": 24826,
+          "Title": "Kategoria:Pakasaritaan babaen ti lokasion"
         }
       ],
       "Articles": [
@@ -198,6 +234,10 @@
           "Title": "Kategoria:Dagiti maipapan ti bagi a siensia"
         },
         {
+          "ID": 18086,
+          "Title": "Kategoria:Dagiti sientipiko a disiplina"
+        },
+        {
           "ID": 18087,
           "Title": "Kategoria:Siensia"
         },
@@ -228,6 +268,10 @@
           "Title": "Buto"
         },
         {
+          "ID": 3869,
+          "Title": "Oryza"
+        },
+        {
           "ID": 15167,
           "Title": "Dalandan"
         },
@@ -242,6 +286,10 @@
         {
           "ID": 24954,
           "Title": "Piskel"
+        },
+        {
+          "ID": 24957,
+          "Title": "Sistema ti reproduktibo"
         },
         {
           "ID": 24980,
@@ -282,8 +330,16 @@
           "Title": "Kategoria:Tattao"
         },
         {
+          "ID": 18094,
+          "Title": "Kategoria:Biag"
+        },
+        {
           "ID": 18141,
           "Title": "Kategoria:Kabukbukodan a biag"
+        },
+        {
+          "ID": 20153,
+          "Title": "Kategoria:Biograpia"
         },
         {
           "ID": 20471,
@@ -432,6 +488,10 @@
       "Title": "Society and social sciences",
       "Categories": [
         {
+          "ID": 18091,
+          "Title": "Kategoria:Dagiti kinatao"
+        },
+        {
           "ID": 18093,
           "Title": "Kategoria:Kagimongan"
         },
@@ -518,6 +578,10 @@
         {
           "ID": 23569,
           "Title": "Kategoria:Teknolohia ti militar"
+        },
+        {
+          "ID": 33554,
+          "Title": "Kategoria:Dagiti kompiuter"
         },
         {
           "ID": 33564,

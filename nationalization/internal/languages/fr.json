@@ -6,6 +6,10 @@
       "Title": "Culture and the arts",
       "Categories": [
         {
+          "ID": 82475,
+          "Title": "Catégorie:Gastronomie"
+        },
+        {
           "ID": 83779,
           "Title": "Catégorie:Film"
         },
@@ -34,6 +38,10 @@
           "Title": "Catégorie:Art"
         },
         {
+          "ID": 95594,
+          "Title": "Catégorie:Couleur"
+        },
+        {
           "ID": 123833,
           "Title": "Catégorie:Groupe de musique"
         },
@@ -42,12 +50,24 @@
           "Title": "Catégorie:Divertissement"
         },
         {
+          "ID": 207669,
+          "Title": "Catégorie:Technique culinaire"
+        },
+        {
+          "ID": 304679,
+          "Title": "Catégorie:Ensemble musical"
+        },
+        {
           "ID": 482163,
           "Title": "Catégorie:Aliment"
         },
         {
           "ID": 977513,
           "Title": "Catégorie:Loisir"
+        },
+        {
+          "ID": 2879964,
+          "Title": "Catégorie:Discipline sportive"
         },
         {
           "ID": 3157419,
@@ -92,8 +112,20 @@
           "Title": "Palais de Buckingham"
         },
         {
+          "ID": 14208,
+          "Title": "Groupe musical"
+        },
+        {
           "ID": 17752,
           "Title": "Bière"
+        },
+        {
+          "ID": 22025,
+          "Title": "Cacaoyer"
+        },
+        {
+          "ID": 25004,
+          "Title": "Caféier"
         },
         {
           "ID": 27162,
@@ -108,8 +140,16 @@
           "Title": "Sablé (biscuit)"
         },
         {
+          "ID": 31916,
+          "Title": "Pecorino Romano"
+        },
+        {
           "ID": 32312,
           "Title": "Pain"
+        },
+        {
+          "ID": 36030,
+          "Title": "Porc"
         },
         {
           "ID": 36608,
@@ -130,6 +170,10 @@
         {
           "ID": 44046,
           "Title": "Monstre du Loch Ness"
+        },
+        {
+          "ID": 45570,
+          "Title": "Traîneau"
         },
         {
           "ID": 51719,
@@ -168,6 +212,10 @@
           "Title": "Pâtes alimentaires"
         },
         {
+          "ID": 146623,
+          "Title": "Réalisme (peinture)"
+        },
+        {
           "ID": 147015,
           "Title": "Mordred"
         },
@@ -184,12 +232,24 @@
           "Title": "Œuf à la coque"
         },
         {
+          "ID": 258140,
+          "Title": "Sexualité orale"
+        },
+        {
           "ID": 265240,
           "Title": "Aqua (groupe)"
         },
         {
           "ID": 272132,
           "Title": "Hot-dog"
+        },
+        {
+          "ID": 292981,
+          "Title": "Sus (genre)"
+        },
+        {
+          "ID": 350762,
+          "Title": "Pain azyme"
         },
         {
           "ID": 360390,
@@ -204,12 +264,20 @@
           "Title": "Sauce tomate"
         },
         {
+          "ID": 388398,
+          "Title": "Coffea arabica"
+        },
+        {
           "ID": 427034,
           "Title": "Célibat"
         },
         {
           "ID": 431803,
           "Title": "Dinosaur Jr."
+        },
+        {
+          "ID": 454743,
+          "Title": "Biscotte"
         },
         {
           "ID": 456363,
@@ -252,8 +320,16 @@
           "Title": "Biscuit"
         },
         {
+          "ID": 927809,
+          "Title": "Ouvrage de référence"
+        },
+        {
           "ID": 931377,
           "Title": "Réalisme"
+        },
+        {
+          "ID": 956573,
+          "Title": "Ginger ale"
         },
         {
           "ID": 957631,
@@ -300,8 +376,16 @@
           "Title": "Scotch egg"
         },
         {
+          "ID": 1722715,
+          "Title": "Tarte"
+        },
+        {
           "ID": 1722873,
           "Title": "Tourte (plat)"
+        },
+        {
+          "ID": 1865147,
+          "Title": "Œuf (biologie)"
         },
         {
           "ID": 1883149,
@@ -314,6 +398,10 @@
         {
           "ID": 1916541,
           "Title": "Pain de mie"
+        },
+        {
+          "ID": 1959491,
+          "Title": "Pastırma"
         },
         {
           "ID": 2217518,
@@ -330,6 +418,10 @@
         {
           "ID": 2496941,
           "Title": "Œuf de cent ans"
+        },
+        {
+          "ID": 2619787,
+          "Title": "Bigfoot (homonymie)"
         },
         {
           "ID": 2701071,
@@ -352,6 +444,10 @@
           "Title": "Opéra (pâtisserie)"
         },
         {
+          "ID": 3039853,
+          "Title": "Yūrei"
+        },
+        {
           "ID": 3146727,
           "Title": "Chocolat chaud"
         },
@@ -366,6 +462,10 @@
         {
           "ID": 3439920,
           "Title": "Crudités"
+        },
+        {
+          "ID": 3475215,
+          "Title": "Pecorino (fromage)"
         },
         {
           "ID": 3477687,
@@ -384,6 +484,10 @@
           "Title": "Jour de la marmotte"
         },
         {
+          "ID": 3643633,
+          "Title": "Wikipédia en asturien"
+        },
+        {
           "ID": 3698091,
           "Title": "Liste des créatures du monde des sorciers de J. K. Rowling"
         },
@@ -398,6 +502,10 @@
         {
           "ID": 4000209,
           "Title": "Pain viennois"
+        },
+        {
+          "ID": 4019061,
+          "Title": "Néo-expérimentalisme"
         },
         {
           "ID": 4052629,
@@ -428,12 +536,20 @@
           "Title": "Pandolce"
         },
         {
+          "ID": 4530771,
+          "Title": "Sanglier"
+        },
+        {
           "ID": 4541575,
           "Title": "Lard"
         },
         {
           "ID": 4600788,
           "Title": "Pecorino Toscano"
+        },
+        {
+          "ID": 4611556,
+          "Title": "Biscuit de mer"
         },
         {
           "ID": 4649608,
@@ -552,6 +668,10 @@
           "Title": "Bejeweled"
         },
         {
+          "ID": 7262791,
+          "Title": "Pirog"
+        },
+        {
           "ID": 7356499,
           "Title": "Pinus cembroides"
         },
@@ -657,7 +777,7 @@
         },
         {
           "ID": 10258247,
-          "Title": "Les pouvoirs de la prière"
+          "Title": "Les Pouvoirs de la prière"
         },
         {
           "ID": 10388671,
@@ -748,6 +868,10 @@
       ],
       "Articles": [
         {
+          "ID": 1482,
+          "Title": "Homo sapiens"
+        },
+        {
           "ID": 8231,
           "Title": "Venise"
         },
@@ -766,6 +890,10 @@
         {
           "ID": 681159,
           "Title": "Paris"
+        },
+        {
+          "ID": 872235,
+          "Title": "Australie"
         },
         {
           "ID": 916554,
@@ -814,6 +942,10 @@
           "Title": "Catégorie:Spécialité médicale"
         },
         {
+          "ID": 500310,
+          "Title": "Catégorie:Soins de santé"
+        },
+        {
           "ID": 1384956,
           "Title": "Catégorie:Métier de la santé"
         }
@@ -846,6 +978,10 @@
           "Title": "Catégorie:Élection par année"
         },
         {
+          "ID": 3602047,
+          "Title": "Catégorie:Histoire par lieu géographique"
+        },
+        {
           "ID": 5526177,
           "Title": "Catégorie:Histoire par pays"
         }
@@ -854,6 +990,10 @@
         {
           "ID": 3428,
           "Title": "Attentats du 11 septembre 2001"
+        },
+        {
+          "ID": 75231,
+          "Title": "Unités de mesure romaines"
         },
         {
           "ID": 222336,
@@ -994,6 +1134,10 @@
           "Title": "Catégorie:Nature"
         },
         {
+          "ID": 1252193,
+          "Title": "Catégorie:Domaine scientifique"
+        },
+        {
           "ID": 4800282,
           "Title": "Catégorie:Faune par continent"
         },
@@ -1016,8 +1160,16 @@
           "Title": "Masturbation"
         },
         {
+          "ID": 20378,
+          "Title": "Hydrologie"
+        },
+        {
           "ID": 20544,
           "Title": "Blé"
+        },
+        {
+          "ID": 20551,
+          "Title": "Blé tendre"
         },
         {
           "ID": 20556,
@@ -1080,12 +1232,28 @@
           "Title": "Mangue"
         },
         {
+          "ID": 110138,
+          "Title": "Potiron"
+        },
+        {
           "ID": 111389,
           "Title": "Rostratulidae"
         },
         {
+          "ID": 112683,
+          "Title": "Fraisier des bois"
+        },
+        {
+          "ID": 121606,
+          "Title": "Fragaria"
+        },
+        {
           "ID": 132827,
           "Title": "Camelus"
+        },
+        {
+          "ID": 141621,
+          "Title": "Oryza sativa"
         },
         {
           "ID": 163386,
@@ -1120,6 +1288,10 @@
           "Title": "Myrtus"
         },
         {
+          "ID": 252521,
+          "Title": "Épillet"
+        },
+        {
           "ID": 256612,
           "Title": "Atèle"
         },
@@ -1136,12 +1308,32 @@
           "Title": "Pantherinae"
         },
         {
+          "ID": 274487,
+          "Title": "Tomatille"
+        },
+        {
           "ID": 341842,
           "Title": "Germination"
         },
         {
           "ID": 355955,
           "Title": "Motoneurone"
+        },
+        {
+          "ID": 432407,
+          "Title": "Anaconda (homonymie)"
+        },
+        {
+          "ID": 440770,
+          "Title": "Trachurus"
+        },
+        {
+          "ID": 443713,
+          "Title": "Scomber"
+        },
+        {
+          "ID": 447722,
+          "Title": "Cantaloup"
         },
         {
           "ID": 448095,
@@ -1154,6 +1346,10 @@
         {
           "ID": 645575,
           "Title": "Appareil locomoteur"
+        },
+        {
+          "ID": 705779,
+          "Title": "Système reproducteur"
         },
         {
           "ID": 786901,
@@ -1222,6 +1418,14 @@
         {
           "ID": 1883864,
           "Title": "Migration des insectes"
+        },
+        {
+          "ID": 2245617,
+          "Title": "Coqueret du Pérou"
+        },
+        {
+          "ID": 2252276,
+          "Title": "Myrtus communis"
         },
         {
           "ID": 2330280,
@@ -1314,6 +1518,14 @@
         {
           "ID": 8362427,
           "Title": "Tarte au citron meringuée"
+        },
+        {
+          "ID": 9729002,
+          "Title": "Xôi"
+        },
+        {
+          "ID": 11555460,
+          "Title": "Maquereau des Indes"
         }
       ]
     },
@@ -1330,8 +1542,16 @@
           "Title": "Catégorie:Vie quotidienne"
         },
         {
+          "ID": 110929,
+          "Title": "Catégorie:Biographie"
+        },
+        {
           "ID": 157847,
           "Title": "Catégorie:Femme"
+        },
+        {
+          "ID": 270931,
+          "Title": "Catégorie:Personnalité"
         },
         {
           "ID": 327250,
@@ -1342,8 +1562,16 @@
           "Title": "Catégorie:Personnalité féminine"
         },
         {
+          "ID": 4649497,
+          "Title": "Catégorie:Vivant"
+        },
+        {
           "ID": 9265165,
           "Title": "Catégorie:Personne"
+        },
+        {
+          "ID": 9265260,
+          "Title": "Catégorie:Théorie de la personnalité"
         },
         {
           "ID": 9270175,
@@ -1572,6 +1800,10 @@
           "Title": "Gâteau de Battenberg"
         },
         {
+          "ID": 8055529,
+          "Title": "La Chenille qui fait des trous"
+        },
+        {
           "ID": 10208502,
           "Title": "Dorothy Vaughan"
         },
@@ -1620,12 +1852,20 @@
       ],
       "Articles": [
         {
+          "ID": 823,
+          "Title": "Croyance"
+        },
+        {
           "ID": 17314,
           "Title": "Foi"
         },
         {
           "ID": 114976,
           "Title": "Beau"
+        },
+        {
+          "ID": 159813,
+          "Title": "HIT"
         },
         {
           "ID": 275498,
@@ -1636,8 +1876,20 @@
           "Title": "Effet Dunning-Kruger"
         },
         {
+          "ID": 3714641,
+          "Title": "Joie"
+        },
+        {
           "ID": 4104719,
           "Title": "Bonheur"
+        },
+        {
+          "ID": 5953556,
+          "Title": "Alegría"
+        },
+        {
+          "ID": 7684367,
+          "Title": "Believer"
         },
         {
           "ID": 7784647,
@@ -1722,6 +1974,14 @@
         {
           "ID": 2320561,
           "Title": "Catégorie:Sciences humaines et sociales"
+        },
+        {
+          "ID": 3603000,
+          "Title": "Catégorie:Humanités"
+        },
+        {
+          "ID": 6274653,
+          "Title": "Catégorie:Organisation intergouvernementale"
         }
       ],
       "Articles": [
@@ -2184,6 +2444,10 @@
         {
           "ID": 1028255,
           "Title": "Université de Wrocław"
+        },
+        {
+          "ID": 1028912,
+          "Title": "Fiducie"
         },
         {
           "ID": 1030440,
@@ -2660,8 +2924,16 @@
           "Title": "Catégorie:Techniques et sciences appliquées"
         },
         {
+          "ID": 94066,
+          "Title": "Catégorie:Base de données"
+        },
+        {
           "ID": 484174,
           "Title": "Catégorie:Design"
+        },
+        {
+          "ID": 1226856,
+          "Title": "Catégorie:Gestion des données"
         },
         {
           "ID": 1888696,

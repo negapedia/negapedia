@@ -30,6 +30,10 @@
           "Title": "Kategorya:Pagkain"
         },
         {
+          "ID": 40197,
+          "Title": "Kategorya:Kulay"
+        },
+        {
           "ID": 73262,
           "Title": "Kategorya:Paglilibang"
         },
@@ -38,8 +42,16 @@
           "Title": "Kategorya:Nutrisyon"
         },
         {
+          "ID": 80523,
+          "Title": "Kategorya:Ehersisyo"
+        },
+        {
           "ID": 153896,
           "Title": "Kategorya:Mga banda"
+        },
+        {
+          "ID": 179985,
+          "Title": "Kategorya:Mga uri ng palakasan"
         },
         {
           "ID": 216091,
@@ -48,6 +60,10 @@
         {
           "ID": 228900,
           "Title": "Kategorya:Mga pelikula"
+        },
+        {
+          "ID": 229077,
+          "Title": "Kategorya:Pagliliwaliw"
         },
         {
           "ID": 229078,
@@ -84,6 +100,10 @@
           "Title": "Sinangag"
         },
         {
+          "ID": 39927,
+          "Title": "Baboy"
+        },
+        {
           "ID": 40678,
           "Title": "Sarsa"
         },
@@ -104,6 +124,10 @@
           "Title": "Halimaw ng Loch Ness"
         },
         {
+          "ID": 56868,
+          "Title": "Kakaw"
+        },
+        {
           "ID": 58206,
           "Title": "Serbesa"
         },
@@ -116,6 +140,10 @@
           "Title": "Lutuing Pranses"
         },
         {
+          "ID": 86978,
+          "Title": "Sus scrofa"
+        },
+        {
           "ID": 105363,
           "Title": "Tako"
         },
@@ -126,6 +154,10 @@
         {
           "ID": 118236,
           "Title": "Pagsubo sa ari ng lalaki"
+        },
+        {
+          "ID": 118253,
+          "Title": "Pakikipagtalik sa pamamagitan ng bibig"
         },
         {
           "ID": 123479,
@@ -192,12 +224,20 @@
           "Title": "Realismong pampanitikan"
         },
         {
+          "ID": 245296,
+          "Title": "Realismong pansining"
+        },
+        {
           "ID": 245297,
           "Title": "Realismo"
         },
         {
           "ID": 245298,
           "Title": "Realismong pilosopiko"
+        },
+        {
+          "ID": 252329,
+          "Title": "Wikipediang Asturyano"
         },
         {
           "ID": 279608,
@@ -235,6 +275,14 @@
         }
       ],
       "Articles": [
+        {
+          "ID": 1166,
+          "Title": "Tao"
+        },
+        {
+          "ID": 2357,
+          "Title": "Australia"
+        },
         {
           "ID": 2898,
           "Title": "Paris"
@@ -284,6 +332,10 @@
         {
           "ID": 170706,
           "Title": "Kategorya:Mga espesyalidad sa panggagamot"
+        },
+        {
+          "ID": 254916,
+          "Title": "Kategorya:Pangangalagang pangkalusugan"
         }
       ]
     },
@@ -384,6 +436,10 @@
           "Title": "Kategorya:Mga sustansiyang kimikal"
         },
         {
+          "ID": 214491,
+          "Title": "Kategorya:Mga disiplina ng agham"
+        },
+        {
           "ID": 215419,
           "Title": "Kategorya:Agham pangkalikasan"
         },
@@ -438,8 +494,16 @@
           "Title": "Pinya"
         },
         {
+          "ID": 32109,
+          "Title": "Sistemang reproduktibo"
+        },
+        {
           "ID": 32192,
           "Title": "Sistemang pangkalamnan"
+        },
+        {
+          "ID": 32259,
+          "Title": "Kasangkapang pangkasarian"
         },
         {
           "ID": 40010,
@@ -498,6 +562,10 @@
           "Title": "Ibong salta"
         },
         {
+          "ID": 107927,
+          "Title": "Milong Kastila"
+        },
+        {
           "ID": 107950,
           "Title": "Milong lunti"
         },
@@ -522,6 +590,10 @@
           "Title": "Butiking salamin"
         },
         {
+          "ID": 242359,
+          "Title": "Presa"
+        },
+        {
           "ID": 263328,
           "Title": "Mangifera indica"
         },
@@ -540,12 +612,20 @@
           "Title": "Kategorya:Pansariling buhay"
         },
         {
+          "ID": 39022,
+          "Title": "Kategorya:Buhay"
+        },
+        {
           "ID": 43290,
           "Title": "Kategorya:Babae"
         },
         {
           "ID": 145140,
           "Title": "Kategorya:Mga tao"
+        },
+        {
+          "ID": 212910,
+          "Title": "Kategorya:Talambuhay"
         },
         {
           "ID": 227141,
@@ -784,6 +864,10 @@
         {
           "ID": 172953,
           "Title": "Kategorya:Agham pantao"
+        },
+        {
+          "ID": 225022,
+          "Title": "Kategorya:Humanidades"
         },
         {
           "ID": 227476,
@@ -1269,7 +1353,7 @@
         },
         {
           "ID": 282583,
-          "Title": "University of Saskatchewan"
+          "Title": "Unibersidad ng Saskatchewan"
         },
         {
           "ID": 282632,
@@ -1322,6 +1406,14 @@
         {
           "ID": 285921,
           "Title": "Unibersidad ng Hull"
+        },
+        {
+          "ID": 286161,
+          "Title": "Unibersidad ng Ulster"
+        },
+        {
+          "ID": 286163,
+          "Title": "Pamantasang Anna"
         }
       ]
     },
@@ -1360,6 +1452,10 @@
         {
           "ID": 161302,
           "Title": "Kategorya:Inhenyeriya"
+        },
+        {
+          "ID": 167049,
+          "Title": "Kategorya:Database"
         },
         {
           "ID": 180451,

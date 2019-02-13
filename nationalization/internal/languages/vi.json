@@ -10,6 +10,10 @@
           "Title": "Thể loại:Văn hóa"
         },
         {
+          "ID": 4117,
+          "Title": "Thể loại:Màu sắc"
+        },
+        {
           "ID": 5373,
           "Title": "Thể loại:Ẩm thực"
         },
@@ -46,6 +50,10 @@
           "Title": "Thể loại:Thực phẩm"
         },
         {
+          "ID": 262234,
+          "Title": "Thể loại:Thể dục"
+        },
+        {
           "ID": 442736,
           "Title": "Thể loại:Sở thích"
         },
@@ -60,6 +68,18 @@
         {
           "ID": 2414729,
           "Title": "Thể loại:Món ăn theo thành phần chính"
+        },
+        {
+          "ID": 2443569,
+          "Title": "Thể loại:Môn thể thao theo loại"
+        },
+        {
+          "ID": 3119901,
+          "Title": "Thể loại:Nhàn rỗi"
+        },
+        {
+          "ID": 3297757,
+          "Title": "Thể loại:Kỹ thuật nấu ăn"
         }
       ],
       "Articles": [
@@ -74,6 +94,14 @@
         {
           "ID": 16173,
           "Title": "Cà phê"
+        },
+        {
+          "ID": 16692,
+          "Title": "Chi Cà phê"
+        },
+        {
+          "ID": 16841,
+          "Title": "Cà phê chè"
         },
         {
           "ID": 19451,
@@ -96,8 +124,16 @@
           "Title": "Quái vật hồ Loch Ness"
         },
         {
+          "ID": 45078,
+          "Title": "Chi Lợn"
+        },
+        {
           "ID": 47310,
           "Title": "Bánh mì"
+        },
+        {
+          "ID": 47465,
+          "Title": "Làm tình bằng miệng"
         },
         {
           "ID": 48447,
@@ -130,6 +166,10 @@
         {
           "ID": 136380,
           "Title": "Cung điện Buckingham"
+        },
+        {
+          "ID": 175706,
+          "Title": "Cacao"
         },
         {
           "ID": 184489,
@@ -168,8 +208,16 @@
           "Title": "Kem (thực phẩm)"
         },
         {
+          "ID": 320908,
+          "Title": "Wikipedia tiếng Asturias"
+        },
+        {
           "ID": 334340,
           "Title": "Bánh pía"
+        },
+        {
+          "ID": 396186,
+          "Title": "Lợn rừng"
         },
         {
           "ID": 405833,
@@ -184,8 +232,16 @@
           "Title": "Thực tế"
         },
         {
+          "ID": 470048,
+          "Title": "Lợn nhà"
+        },
+        {
           "ID": 528985,
           "Title": "Giăm bông"
+        },
+        {
+          "ID": 529278,
+          "Title": "Trứng (sinh học)"
         },
         {
           "ID": 586322,
@@ -222,6 +278,10 @@
         {
           "ID": 811724,
           "Title": "AC/DC"
+        },
+        {
+          "ID": 814666,
+          "Title": "Ban nhạc"
         },
         {
           "ID": 824157,
@@ -352,6 +412,10 @@
           "Title": "Pie"
         },
         {
+          "ID": 3270132,
+          "Title": "Ginger ale"
+        },
+        {
           "ID": 3274427,
           "Title": "Gà Tikka Masala"
         },
@@ -364,6 +428,10 @@
           "Title": "Xúp cà chua"
         },
         {
+          "ID": 3305395,
+          "Title": "Roti"
+        },
+        {
           "ID": 3389504,
           "Title": "Mordred"
         },
@@ -374,6 +442,10 @@
         {
           "ID": 3657891,
           "Title": "Spaghetti alla carbonara"
+        },
+        {
+          "ID": 3674407,
+          "Title": "Band"
         },
         {
           "ID": 3679336,
@@ -452,12 +524,20 @@
           "Title": "Paris"
         },
         {
+          "ID": 2849,
+          "Title": "Úc"
+        },
+        {
           "ID": 24176,
           "Title": "Myanmar"
         },
         {
           "ID": 40074,
           "Title": "Kim tự tháp"
+        },
+        {
+          "ID": 46840,
+          "Title": "Người"
         },
         {
           "ID": 52273,
@@ -474,6 +554,10 @@
         {
           "ID": 820026,
           "Title": "Carlsbad, New Mexico"
+        },
+        {
+          "ID": 3404431,
+          "Title": "Homo sapiens"
         }
       ]
     },
@@ -506,6 +590,10 @@
           "Title": "Thể loại:Bệnh di truyền"
         },
         {
+          "ID": 1619814,
+          "Title": "Thể loại:Y tế"
+        },
+        {
           "ID": 3175949,
           "Title": "Thể loại:Chăm sóc cá nhân"
         },
@@ -530,6 +618,10 @@
         {
           "ID": 68192,
           "Title": "Thể loại:Sự kiện"
+        },
+        {
+          "ID": 1407633,
+          "Title": "Thể loại:Lịch sử theo khu vực"
         },
         {
           "ID": 3424592,
@@ -564,6 +656,10 @@
         {
           "ID": 1402377,
           "Title": "Nổ súng tại Aurora 2012"
+        },
+        {
+          "ID": 2364376,
+          "Title": "Hệ đo lường La Mã"
         },
         {
           "ID": 3393485,
@@ -670,6 +766,14 @@
         {
           "ID": 405111,
           "Title": "Thể loại:Động vật theo lục địa"
+        },
+        {
+          "ID": 1678405,
+          "Title": "Thể loại:Chất hóa học"
+        },
+        {
+          "ID": 1699313,
+          "Title": "Thể loại:Chuyên ngành khoa học"
         }
       ],
       "Articles": [
@@ -702,6 +806,10 @@
           "Title": "Cam"
         },
         {
+          "ID": 39907,
+          "Title": "Lúa"
+        },
+        {
           "ID": 41932,
           "Title": "Chim điên"
         },
@@ -716,6 +824,10 @@
         {
           "ID": 54582,
           "Title": "Cơ (sinh học)"
+        },
+        {
+          "ID": 55445,
+          "Title": "Thủy văn học"
         },
         {
           "ID": 62046,
@@ -744,6 +856,10 @@
         {
           "ID": 119971,
           "Title": "Ngô"
+        },
+        {
+          "ID": 122661,
+          "Title": "Dâu tây"
         },
         {
           "ID": 146335,
@@ -794,8 +910,24 @@
           "Title": "Hổ trắng"
         },
         {
+          "ID": 471154,
+          "Title": "Hệ sinh dục"
+        },
+        {
           "ID": 494952,
           "Title": "Dứa"
+        },
+        {
+          "ID": 503077,
+          "Title": "Dưa vàng"
+        },
+        {
+          "ID": 511406,
+          "Title": "Cơ quan sinh dục"
+        },
+        {
+          "ID": 511494,
+          "Title": "Cá bạc má"
         },
         {
           "ID": 525735,
@@ -870,12 +1002,36 @@
           "Title": "Corymbia ficifolia"
         },
         {
+          "ID": 1901311,
+          "Title": "Hương đào"
+        },
+        {
+          "ID": 1926313,
+          "Title": "Triticum aestivum"
+        },
+        {
+          "ID": 2022653,
+          "Title": "Fragaria vesca"
+        },
+        {
           "ID": 2058920,
           "Title": "Citrus sinensis"
         },
         {
+          "ID": 2110476,
+          "Title": "Physalis peruviana"
+        },
+        {
+          "ID": 2110477,
+          "Title": "Physalis philadelphica"
+        },
+        {
           "ID": 2264042,
           "Title": "Picea engelmannii"
+        },
+        {
+          "ID": 2363060,
+          "Title": "Cucurbita maxima"
         },
         {
           "ID": 2372533,
@@ -910,6 +1066,10 @@
           "Title": "Cocker Spaniel"
         },
         {
+          "ID": 3182202,
+          "Title": "Cá sòng"
+        },
+        {
           "ID": 3203745,
           "Title": "Ếch cây"
         },
@@ -928,6 +1088,10 @@
         {
           "ID": 3243066,
           "Title": "Dê lùn Nigeria"
+        },
+        {
+          "ID": 3256778,
+          "Title": "Chi Cá thu"
         },
         {
           "ID": 3280704,
@@ -984,12 +1148,28 @@
           "Title": "Thể loại:Phụ nữ"
         },
         {
+          "ID": 64793,
+          "Title": "Thể loại:Sự sống"
+        },
+        {
           "ID": 831920,
           "Title": "Thể loại:Cá nhân"
         },
         {
+          "ID": 1111824,
+          "Title": "Thể loại:Tiểu sử"
+        },
+        {
           "ID": 1297885,
           "Title": "Thể loại:Nhân vật trong phim"
+        },
+        {
+          "ID": 1407135,
+          "Title": "Thể loại:Nhân cách"
+        },
+        {
+          "ID": 2461476,
+          "Title": "Thể loại:Tác phẩm tiểu sử"
         },
         {
           "ID": 2979924,
@@ -1218,6 +1398,10 @@
           "Title": "Hạnh phúc"
         },
         {
+          "ID": 1347291,
+          "Title": "Alegria"
+        },
+        {
           "ID": 3297253,
           "Title": "Gaslighting"
         },
@@ -1294,8 +1478,16 @@
           "Title": "Thể loại:Trường đại học và cao đẳng theo quốc gia"
         },
         {
+          "ID": 91137,
+          "Title": "Thể loại:Nhân văn học"
+        },
+        {
           "ID": 263145,
           "Title": "Thể loại:Quyền"
+        },
+        {
+          "ID": 1699735,
+          "Title": "Thể loại:Tổ chức liên chính phủ"
         },
         {
           "ID": 3150124,
@@ -1722,6 +1914,10 @@
           "Title": "Thể loại:Internet"
         },
         {
+          "ID": 1543,
+          "Title": "Thể loại:Máy tính"
+        },
+        {
           "ID": 1566,
           "Title": "Thể loại:Kỹ thuật"
         },
@@ -1748,6 +1944,14 @@
         {
           "ID": 7509,
           "Title": "Thể loại:Giao thông"
+        },
+        {
+          "ID": 7675,
+          "Title": "Thể loại:Cơ sở dữ liệu"
+        },
+        {
+          "ID": 14974,
+          "Title": "Thể loại:Quản trị dữ liệu"
         },
         {
           "ID": 37651,

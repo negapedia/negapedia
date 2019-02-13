@@ -6,6 +6,10 @@
       "Title": "Culture and the arts",
       "Categories": [
         {
+          "ID": 3463,
+          "Title": "Categoria:Gastronomia"
+        },
+        {
           "ID": 5273,
           "Title": "Categoria:Cultura"
         },
@@ -22,6 +26,10 @@
           "Title": "Categoria:Grop de musica"
         },
         {
+          "ID": 10946,
+          "Title": "Categoria:Ensemble musical"
+        },
+        {
           "ID": 11333,
           "Title": "Categoria:Espòrt"
         },
@@ -34,6 +42,14 @@
           "Title": "Categoria:Aliment"
         },
         {
+          "ID": 22478,
+          "Title": "Categoria:Color"
+        },
+        {
+          "ID": 49130,
+          "Title": "Categoria:Disciplina esportiva"
+        },
+        {
           "ID": 56186,
           "Title": "Categoria:Filme"
         },
@@ -44,12 +60,28 @@
       ],
       "Articles": [
         {
+          "ID": 112,
+          "Title": "Sus (genre)"
+        },
+        {
+          "ID": 134,
+          "Title": "Singlar"
+        },
+        {
+          "ID": 10758,
+          "Title": "Sus scrofa domesticus"
+        },
+        {
           "ID": 12597,
           "Title": "Wikipèdia"
         },
         {
           "ID": 19938,
           "Title": "Uòu (cosina)"
+        },
+        {
+          "ID": 22348,
+          "Title": "Grop de musica"
         },
         {
           "ID": 23108,
@@ -62,6 +94,14 @@
         {
           "ID": 23743,
           "Title": "Cafè"
+        },
+        {
+          "ID": 23745,
+          "Title": "Coffea"
+        },
+        {
+          "ID": 30857,
+          "Title": "Theobroma cacao"
         },
         {
           "ID": 31334,
@@ -140,6 +180,10 @@
           "Title": "París"
         },
         {
+          "ID": 6871,
+          "Title": "Austràlia"
+        },
+        {
           "ID": 8310,
           "Title": "Birmania"
         },
@@ -158,6 +202,10 @@
         {
           "ID": 47911,
           "Title": "Piramida (arquitectura)"
+        },
+        {
+          "ID": 60836,
+          "Title": "Homo sapiens"
         }
       ]
     },
@@ -180,6 +228,10 @@
         {
           "ID": 6515,
           "Title": "Categoria:Santat"
+        },
+        {
+          "ID": 12987,
+          "Title": "Categoria:Suènhs de santat"
         },
         {
           "ID": 17137,
@@ -278,6 +330,10 @@
           "Title": "Categoria:Natura"
         },
         {
+          "ID": 32453,
+          "Title": "Categoria:Domeni scientific"
+        },
+        {
           "ID": 72519,
           "Title": "Categoria:Catastròfa"
         }
@@ -294,6 +350,10 @@
         {
           "ID": 8375,
           "Title": "Pantherinae"
+        },
+        {
+          "ID": 11769,
+          "Title": "Idrologia"
         },
         {
           "ID": 20087,
@@ -332,12 +392,20 @@
           "Title": "Fuòc"
         },
         {
+          "ID": 69106,
+          "Title": "Aubièca"
+        },
+        {
           "ID": 72552,
           "Title": "Ris"
         },
         {
           "ID": 79012,
           "Title": "Muscle"
+        },
+        {
+          "ID": 79017,
+          "Title": "Sistèma reproductor"
         },
         {
           "ID": 113169,
@@ -362,6 +430,14 @@
         {
           "ID": 152096,
           "Title": "Nèrta"
+        },
+        {
+          "ID": 164471,
+          "Title": "Blat tendre"
+        },
+        {
+          "ID": 164482,
+          "Title": "Fragaria"
         },
         {
           "ID": 165219,
@@ -404,6 +480,10 @@
         {
           "ID": 20634,
           "Title": "Categoria:Personatge de cinèma"
+        },
+        {
+          "ID": 20897,
+          "Title": "Categoria:Biografia"
         }
       ],
       "Articles": [
@@ -566,6 +646,14 @@
         {
           "ID": 166395,
           "Title": "Fe"
+        },
+        {
+          "ID": 166567,
+          "Title": "Cresença"
+        },
+        {
+          "ID": 168331,
+          "Title": "Gaug"
         }
       ]
     },

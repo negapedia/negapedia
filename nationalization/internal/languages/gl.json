@@ -22,6 +22,10 @@
           "Title": "Categoría:Alimentos"
         },
         {
+          "ID": 19884,
+          "Title": "Categoría:Gastronomía"
+        },
+        {
           "ID": 31049,
           "Title": "Categoría:Entretemento"
         },
@@ -32,6 +36,10 @@
         {
           "ID": 31052,
           "Title": "Categoría:Espectáculos"
+        },
+        {
+          "ID": 39015,
+          "Title": "Categoría:Cores"
         },
         {
           "ID": 43028,
@@ -50,12 +58,24 @@
           "Title": "Categoría:Alimentación"
         },
         {
+          "ID": 184723,
+          "Title": "Categoría:Técnicas culinarias"
+        },
+        {
           "ID": 185138,
           "Title": "Categoría:Cultura"
         },
         {
           "ID": 289921,
           "Title": "Categoría:Pratos por ingrediente principal"
+        },
+        {
+          "ID": 357051,
+          "Title": "Categoría:Cor"
+        },
+        {
+          "ID": 377822,
+          "Title": "Categoría:Exercicio físico"
         },
         {
           "ID": 377825,
@@ -80,8 +100,16 @@
           "Title": "Café"
         },
         {
+          "ID": 10348,
+          "Title": "Zorra"
+        },
+        {
           "ID": 12488,
           "Title": "Pan"
+        },
+        {
+          "ID": 15617,
+          "Title": "Xabaril"
         },
         {
           "ID": 16152,
@@ -100,6 +128,10 @@
           "Title": "Manteiga de cacahuete"
         },
         {
+          "ID": 30411,
+          "Title": "Porco"
+        },
+        {
           "ID": 30412,
           "Title": "Touciño"
         },
@@ -108,12 +140,20 @@
           "Title": "Green Day"
         },
         {
+          "ID": 35333,
+          "Title": "Ácimo"
+        },
+        {
           "ID": 37694,
           "Title": "Sgt. Pepper's Lonely Hearts Club Band"
         },
         {
           "ID": 38016,
           "Title": "Led Zeppelin"
+        },
+        {
+          "ID": 42169,
+          "Title": "Cacao"
         },
         {
           "ID": 44855,
@@ -128,6 +168,10 @@
           "Title": "Mordred"
         },
         {
+          "ID": 51464,
+          "Title": "Torta (pan)"
+        },
+        {
           "ID": 54260,
           "Title": "Xamón"
         },
@@ -138,6 +182,10 @@
         {
           "ID": 56402,
           "Title": "Pizza"
+        },
+        {
+          "ID": 57827,
+          "Title": "Ginger ale"
         },
         {
           "ID": 89659,
@@ -160,6 +208,10 @@
           "Title": "Pantasma"
         },
         {
+          "ID": 123393,
+          "Title": "Sexo oral"
+        },
+        {
           "ID": 123471,
           "Title": "Pilsener"
         },
@@ -170,6 +222,10 @@
         {
           "ID": 132452,
           "Title": "Caldo galego"
+        },
+        {
+          "ID": 142130,
+          "Title": "Ovo (bioloxía)"
         },
         {
           "ID": 157529,
@@ -204,8 +260,16 @@
           "Title": "Giuditta Pasta"
         },
         {
+          "ID": 238309,
+          "Title": "Wikipedia en asturiano"
+        },
+        {
           "ID": 255858,
           "Title": "The Wanted"
+        },
+        {
+          "ID": 271104,
+          "Title": "Cafeeira"
         },
         {
           "ID": 275900,
@@ -246,6 +310,10 @@
         {
           "ID": 292962,
           "Title": "Ovo frixido"
+        },
+        {
+          "ID": 293748,
+          "Title": "Sus"
         },
         {
           "ID": 326586,
@@ -324,8 +392,16 @@
       ],
       "Articles": [
         {
+          "ID": 421,
+          "Title": "Ser humano"
+        },
+        {
           "ID": 1982,
           "Title": "París"
+        },
+        {
+          "ID": 5274,
+          "Title": "Australia"
         },
         {
           "ID": 9676,
@@ -604,8 +680,16 @@
           "Title": "Mangueira"
         },
         {
+          "ID": 94981,
+          "Title": "Hidroloxía"
+        },
+        {
           "ID": 98544,
           "Title": "Cadea trófica"
+        },
+        {
+          "ID": 112478,
+          "Title": "Sistema reprodutor"
         },
         {
           "ID": 115910,
@@ -614,6 +698,10 @@
         {
           "ID": 117655,
           "Title": "Rubio"
+        },
+        {
+          "ID": 127467,
+          "Title": "Amorodeira"
         },
         {
           "ID": 151086,
@@ -640,8 +728,28 @@
           "Title": "Lima (froita)"
         },
         {
+          "ID": 236376,
+          "Title": "Triticum aestivum"
+        },
+        {
+          "ID": 239639,
+          "Title": "Amorodeira brava"
+        },
+        {
+          "ID": 240561,
+          "Title": "Mirto"
+        },
+        {
+          "ID": 256351,
+          "Title": "Caiota"
+        },
+        {
           "ID": 277245,
           "Title": "Arroz glutinoso"
+        },
+        {
+          "ID": 277336,
+          "Title": "Arroz (planta)"
         },
         {
           "ID": 307265,
@@ -650,6 +758,10 @@
         {
           "ID": 333666,
           "Title": "Manto (moluscos)"
+        },
+        {
+          "ID": 370517,
+          "Title": "Órgano sexual"
         },
         {
           "ID": 384153,
@@ -684,6 +796,10 @@
         {
           "ID": 185171,
           "Title": "Categoría:Apelidos"
+        },
+        {
+          "ID": 210973,
+          "Title": "Categoría:Biografía"
         },
         {
           "ID": 260013,
@@ -862,6 +978,10 @@
         {
           "ID": 114911,
           "Title": "Beleza"
+        },
+        {
+          "ID": 172759,
+          "Title": "Crenza"
         },
         {
           "ID": 407860,
@@ -1120,8 +1240,16 @@
           "Title": "Categoría:Tecnoloxía"
         },
         {
+          "ID": 92586,
+          "Title": "Categoría:Computadoras"
+        },
+        {
           "ID": 179982,
           "Title": "Categoría:Ciencias aplicadas"
+        },
+        {
+          "ID": 247924,
+          "Title": "Categoría:Bases de datos"
         },
         {
           "ID": 341735,

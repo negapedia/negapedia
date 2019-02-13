@@ -26,6 +26,14 @@
           "Title": "Category:Art"
         },
         {
+          "ID": 6670,
+          "Title": "Category:Colors"
+        },
+        {
+          "ID": 8738,
+          "Title": "Category:Bands"
+        },
+        {
           "ID": 25638,
           "Title": "Category:Nutrition"
         },
@@ -42,8 +50,24 @@
           "Title": "Category:Musical groups"
         },
         {
+          "ID": 54275,
+          "Title": "Category:Leisure"
+        },
+        {
           "ID": 69342,
           "Title": "Category:Hobbies"
+        },
+        {
+          "ID": 209587,
+          "Title": "Category:Color"
+        },
+        {
+          "ID": 308497,
+          "Title": "Category:Cooking methods"
+        },
+        {
+          "ID": 601712,
+          "Title": "Category:Sports by type"
         }
       ],
       "Articles": [
@@ -80,6 +104,10 @@
           "Title": "Pork"
         },
         {
+          "ID": 8448,
+          "Title": "Ginger ale"
+        },
+        {
           "ID": 8570,
           "Title": "Reality"
         },
@@ -112,12 +140,28 @@
           "Title": "Pizza"
         },
         {
+          "ID": 14167,
+          "Title": "Pig"
+        },
+        {
           "ID": 16628,
           "Title": "AC/DC"
         },
         {
+          "ID": 17058,
+          "Title": "Band"
+        },
+        {
+          "ID": 17498,
+          "Title": "Egg (biology)"
+        },
+        {
           "ID": 19187,
           "Title": "Hogwarts"
+        },
+        {
+          "ID": 19913,
+          "Title": "Cacao tree"
         },
         {
           "ID": 19928,
@@ -208,6 +252,10 @@
           "Title": "Dinosaur Jr"
         },
         {
+          "ID": 68100,
+          "Title": "Wild boar"
+        },
+        {
           "ID": 71561,
           "Title": "Rock band"
         },
@@ -224,8 +272,16 @@
           "Title": "WWE Championship"
         },
         {
+          "ID": 93855,
+          "Title": "Coffea"
+        },
+        {
           "ID": 110301,
           "Title": "Banana bread"
+        },
+        {
+          "ID": 110632,
+          "Title": "Pecorino cheese"
         },
         {
           "ID": 116250,
@@ -240,8 +296,16 @@
           "Title": "Fried rice"
         },
         {
+          "ID": 132717,
+          "Title": "Oral sex"
+        },
+        {
           "ID": 138016,
           "Title": "Chocolate bar"
+        },
+        {
+          "ID": 146060,
+          "Title": "Pirog"
         },
         {
           "ID": 169179,
@@ -262,6 +326,10 @@
         {
           "ID": 209454,
           "Title": "MyLifeIsAverage"
+        },
+        {
+          "ID": 210849,
+          "Title": "Sled"
         },
         {
           "ID": 225040,
@@ -320,6 +388,10 @@
           "Title": "Sucker Punch (movie)"
         },
         {
+          "ID": 470987,
+          "Title": "Flatbread"
+        },
+        {
           "ID": 480401,
           "Title": "Brown bread"
         },
@@ -376,6 +448,10 @@
       ],
       "Articles": [
         {
+          "ID": 27,
+          "Title": "Australia"
+        },
+        {
           "ID": 4467,
           "Title": "Paris"
         },
@@ -396,12 +472,20 @@
           "Title": "Myanmar"
         },
         {
+          "ID": 25048,
+          "Title": "Homo sapiens"
+        },
+        {
           "ID": 36871,
           "Title": "Queensland"
         },
         {
           "ID": 142657,
           "Title": "Aberfoyle, Stirling"
+        },
+        {
+          "ID": 502310,
+          "Title": "Human"
         }
       ]
     },
@@ -432,6 +516,10 @@
         {
           "ID": 307159,
           "Title": "Category:Hygiene"
+        },
+        {
+          "ID": 387207,
+          "Title": "Category:Health care"
         }
       ]
     },
@@ -471,7 +559,7 @@
         },
         {
           "ID": 245824,
-          "Title": "United States presidential election, 2012"
+          "Title": "2012 United States presidential election"
         },
         {
           "ID": 260745,
@@ -491,11 +579,11 @@
         },
         {
           "ID": 506764,
-          "Title": "Donald Trump presidential campaign, 2016"
+          "Title": "Donald Trump 2016 presidential campaign"
         },
         {
           "ID": 506769,
-          "Title": "Bernie Sanders presidential campaign, 2016"
+          "Title": "Bernie Sanders 2016 presidential campaign"
         },
         {
           "ID": 545281,
@@ -584,6 +672,10 @@
           "Title": "Category:Natural sciences"
         },
         {
+          "ID": 177431,
+          "Title": "Category:Scientific disciplines"
+        },
+        {
           "ID": 257952,
           "Title": "Category:Chemicals"
         },
@@ -622,6 +714,10 @@
           "Title": "Fire"
         },
         {
+          "ID": 10901,
+          "Title": "Fragaria"
+        },
+        {
           "ID": 13211,
           "Title": "Masturbation"
         },
@@ -654,8 +750,16 @@
           "Title": "Melon"
         },
         {
+          "ID": 24453,
+          "Title": "Sex organ"
+        },
+        {
           "ID": 32347,
           "Title": "Tentacle"
+        },
+        {
+          "ID": 33294,
+          "Title": "Human reproductive system"
         },
         {
           "ID": 33303,
@@ -678,6 +782,10 @@
           "Title": "Fragaria × vescana"
         },
         {
+          "ID": 45809,
+          "Title": "Cantaloupe"
+        },
+        {
           "ID": 45889,
           "Title": "Cherry tomato"
         },
@@ -692,6 +800,10 @@
         {
           "ID": 71186,
           "Title": "Flamingo"
+        },
+        {
+          "ID": 79357,
+          "Title": "Hydrology"
         },
         {
           "ID": 125474,
@@ -776,6 +888,14 @@
         {
           "ID": 384521,
           "Title": "Cocker Spaniel"
+        },
+        {
+          "ID": 474590,
+          "Title": "Common wheat"
+        },
+        {
+          "ID": 624701,
+          "Title": "Indian mackerel"
         }
       ]
     },
@@ -790,6 +910,10 @@
         {
           "ID": 5904,
           "Title": "Category:People"
+        },
+        {
+          "ID": 55497,
+          "Title": "Category:Life"
         },
         {
           "ID": 139411,
@@ -962,6 +1086,10 @@
           "Title": "Srinivasa Ramanujan"
         },
         {
+          "ID": 310351,
+          "Title": "The Very Hungry Caterpillar"
+        },
+        {
           "ID": 323361,
           "Title": "Bob Ross"
         },
@@ -1014,6 +1142,10 @@
           "Title": "Beauty"
         },
         {
+          "ID": 18135,
+          "Title": "Belief"
+        },
+        {
           "ID": 20763,
           "Title": "Happiness"
         },
@@ -1024,6 +1156,10 @@
         {
           "ID": 214252,
           "Title": "Dunning–Kruger effect"
+        },
+        {
+          "ID": 267545,
+          "Title": "Religious belief"
         },
         {
           "ID": 315687,
@@ -1532,6 +1668,10 @@
           "Title": "University of St Andrews"
         },
         {
+          "ID": 522803,
+          "Title": "Trust law"
+        },
+        {
           "ID": 529849,
           "Title": "Fourth Amendment to the United States Constitution"
         },
@@ -1596,6 +1736,14 @@
         {
           "ID": 39188,
           "Title": "Category:Electronics"
+        },
+        {
+          "ID": 43743,
+          "Title": "Category:Computers"
+        },
+        {
+          "ID": 81768,
+          "Title": "Category:Databases"
         },
         {
           "ID": 176756,

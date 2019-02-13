@@ -18,6 +18,10 @@
           "Title": "Kategorija:Kultura"
         },
         {
+          "ID": 9722,
+          "Title": "Kategorija:Boje"
+        },
+        {
           "ID": 9750,
           "Title": "Kategorija:Sport"
         },
@@ -44,6 +48,18 @@
         {
           "ID": 81123,
           "Title": "Kategorija:Rekreacija"
+        },
+        {
+          "ID": 81124,
+          "Title": "Kategorija:Slobodno vrijeme"
+        },
+        {
+          "ID": 88840,
+          "Title": "Kategorija:Vježbanje"
+        },
+        {
+          "ID": 92463,
+          "Title": "Kategorija:Sport po vrsti"
         },
         {
           "ID": 171596,
@@ -112,6 +128,26 @@
           "Title": "Ash Ketchum"
         },
         {
+          "ID": 60455,
+          "Title": "Oralni seks"
+        },
+        {
+          "ID": 64231,
+          "Title": "Svinja"
+        },
+        {
+          "ID": 67270,
+          "Title": "Divlja svinja"
+        },
+        {
+          "ID": 69000,
+          "Title": "Jaje"
+        },
+        {
+          "ID": 70437,
+          "Title": "Kakaovac"
+        },
+        {
           "ID": 72059,
           "Title": "Bakingemska palača"
         },
@@ -142,6 +178,10 @@
         {
           "ID": 147688,
           "Title": "Pilsner"
+        },
+        {
+          "ID": 167573,
+          "Title": "Realizam (likovna umjetnost)"
         },
         {
           "ID": 359493,
@@ -192,8 +232,16 @@
           "Title": "Canberra"
         },
         {
+          "ID": 4541,
+          "Title": "Australija"
+        },
+        {
           "ID": 8133,
           "Title": "Venecija"
+        },
+        {
+          "ID": 11284,
+          "Title": "Čovjek"
         },
         {
           "ID": 14454,
@@ -206,6 +254,10 @@
         {
           "ID": 150368,
           "Title": "Queensland"
+        },
+        {
+          "ID": 383253,
+          "Title": "Homo sapiens"
         }
       ]
     },
@@ -228,6 +280,10 @@
         {
           "ID": 97537,
           "Title": "Kategorija:Nauke o zdravlju"
+        },
+        {
+          "ID": 97538,
+          "Title": "Kategorija:Zdravstvo"
         },
         {
           "ID": 372461,
@@ -254,6 +310,10 @@
         {
           "ID": 72535,
           "Title": "Kategorija:Događaji"
+        },
+        {
+          "ID": 73887,
+          "Title": "Kategorija:Historija po regijama"
         },
         {
           "ID": 85622,
@@ -364,6 +424,10 @@
           "Title": "Kategorija:Priroda"
         },
         {
+          "ID": 72711,
+          "Title": "Kategorija:Naučne discipline"
+        },
+        {
           "ID": 73860,
           "Title": "Kategorija:Katastrofe"
         },
@@ -406,6 +470,10 @@
           "Title": "Riža"
         },
         {
+          "ID": 19890,
+          "Title": "Hidrologija"
+        },
+        {
           "ID": 21623,
           "Title": "Ananas"
         },
@@ -414,8 +482,16 @@
           "Title": "Mišić"
         },
         {
+          "ID": 34541,
+          "Title": "Jagoda"
+        },
+        {
           "ID": 35102,
           "Title": "Penis"
+        },
+        {
+          "ID": 35379,
+          "Title": "Reproduktivni sistem"
         },
         {
           "ID": 35385,
@@ -448,6 +524,10 @@
         {
           "ID": 81195,
           "Title": "Limeta"
+        },
+        {
+          "ID": 137711,
+          "Title": "Spolni organi"
         },
         {
           "ID": 147581,
@@ -484,12 +564,28 @@
           "Title": "Kategorija:Žene"
         },
         {
+          "ID": 71415,
+          "Title": "Kategorija:Život"
+        },
+        {
           "ID": 81125,
           "Title": "Kategorija:Lični život"
         },
         {
           "ID": 81126,
           "Title": "Kategorija:Sopstvo"
+        },
+        {
+          "ID": 372402,
+          "Title": "Kategorija:Ličnost"
+        },
+        {
+          "ID": 438786,
+          "Title": "Kategorija:Biografski radovi"
+        },
+        {
+          "ID": 438787,
+          "Title": "Kategorija:Biografija"
         }
       ],
       "Articles": [
@@ -702,8 +798,16 @@
           "Title": "Kategorija:Univerziteti i koledži po državama"
         },
         {
+          "ID": 81064,
+          "Title": "Kategorija:Humanističke nauke"
+        },
+        {
           "ID": 82578,
           "Title": "Kategorija:Prava"
+        },
+        {
+          "ID": 390454,
+          "Title": "Kategorija:Međuvladine organizacije"
         }
       ],
       "Articles": [
@@ -818,8 +922,16 @@
           "Title": "Kategorija:Elektronika"
         },
         {
+          "ID": 20644,
+          "Title": "Kategorija:Računari"
+        },
+        {
           "ID": 21365,
           "Title": "Kategorija:Saobraćaj"
+        },
+        {
+          "ID": 28026,
+          "Title": "Kategorija:Tehnika"
         },
         {
           "ID": 60622,
@@ -836,6 +948,10 @@
         {
           "ID": 81247,
           "Title": "Kategorija:Historija tehnologije"
+        },
+        {
+          "ID": 82562,
+          "Title": "Kategorija:Upravljanje podacima"
         },
         {
           "ID": 88516,

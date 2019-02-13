@@ -6,6 +6,10 @@
       "Title": "Culture and the arts",
       "Categories": [
         {
+          "ID": 14826,
+          "Title": "Categoria:Bandas"
+        },
+        {
           "ID": 14871,
           "Title": "Categoria:Arte"
         },
@@ -16,6 +20,10 @@
         {
           "ID": 15294,
           "Title": "Categoria:Cultura"
+        },
+        {
+          "ID": 23552,
+          "Title": "Categoria:Cores"
         },
         {
           "ID": 23932,
@@ -42,8 +50,24 @@
           "Title": "Categoria:Grupos musicais"
         },
         {
+          "ID": 168031,
+          "Title": "Categoria:Técnicas culinárias"
+        },
+        {
+          "ID": 283772,
+          "Title": "Categoria:Lazer"
+        },
+        {
+          "ID": 481283,
+          "Title": "Categoria:Gastronomia"
+        },
+        {
           "ID": 620175,
           "Title": "Categoria:Recreação"
+        },
+        {
+          "ID": 1040835,
+          "Title": "Categoria:Exercício"
         },
         {
           "ID": 1937695,
@@ -52,6 +76,14 @@
         {
           "ID": 2220654,
           "Title": "Categoria:Espetáculos"
+        },
+        {
+          "ID": 2346671,
+          "Title": "Categoria:Cor"
+        },
+        {
+          "ID": 2994030,
+          "Title": "Categoria:Desportos por tipo"
         },
         {
           "ID": 4142065,
@@ -72,6 +104,10 @@
           "Title": "Chocolate"
         },
         {
+          "ID": 14713,
+          "Title": "Ovo"
+        },
+        {
           "ID": 19207,
           "Title": "Realismo"
         },
@@ -86,6 +122,10 @@
         {
           "ID": 30057,
           "Title": "Led Zeppelin"
+        },
+        {
+          "ID": 43621,
+          "Title": "Porco doméstico"
         },
         {
           "ID": 46571,
@@ -106,6 +146,10 @@
         {
           "ID": 55022,
           "Title": "AC/DC"
+        },
+        {
+          "ID": 55791,
+          "Title": "Sus"
         },
         {
           "ID": 58335,
@@ -144,12 +188,24 @@
           "Title": "Sgt. Pepper's Lonely Hearts Club Band"
         },
         {
+          "ID": 102942,
+          "Title": "Coffea arabica"
+        },
+        {
           "ID": 110540,
           "Title": "M\u0026M's"
         },
         {
           "ID": 111877,
           "Title": "Molho"
+        },
+        {
+          "ID": 116146,
+          "Title": "Javali"
+        },
+        {
+          "ID": 122385,
+          "Title": "Trenó"
         },
         {
           "ID": 124469,
@@ -160,6 +216,10 @@
           "Title": "Dia da Marmota"
         },
         {
+          "ID": 139972,
+          "Title": "Pão ázimo"
+        },
+        {
           "ID": 151055,
           "Title": "Pé-grande"
         },
@@ -168,8 +228,16 @@
           "Title": "Ash Ketchum"
         },
         {
+          "ID": 158575,
+          "Title": "Sexo oral"
+        },
+        {
           "ID": 159922,
           "Title": "Massa alimentícia"
+        },
+        {
+          "ID": 159956,
+          "Title": "Cafeeiro"
         },
         {
           "ID": 172562,
@@ -204,6 +272,10 @@
           "Title": "Criaturas em Harry Potter"
         },
         {
+          "ID": 237319,
+          "Title": "Banda musical"
+        },
+        {
           "ID": 239076,
           "Title": "Pinus cembroides"
         },
@@ -230,6 +302,14 @@
         {
           "ID": 342102,
           "Title": "Bolovo"
+        },
+        {
+          "ID": 349691,
+          "Title": "Ginger ale"
+        },
+        {
+          "ID": 385094,
+          "Title": "Pintura do realismo"
         },
         {
           "ID": 393179,
@@ -268,6 +348,10 @@
           "Title": "Aqua (banda)"
         },
         {
+          "ID": 1326076,
+          "Title": "Obra de referência"
+        },
+        {
           "ID": 1384029,
           "Title": "Carbonara"
         },
@@ -280,12 +364,24 @@
           "Title": "Leite achocolatado"
         },
         {
+          "ID": 1755911,
+          "Title": "Pecorino"
+        },
+        {
           "ID": 1767699,
           "Title": "Curau"
         },
         {
+          "ID": 1849313,
+          "Title": "Wikipédia em asturiano"
+        },
+        {
           "ID": 2012455,
           "Title": "Carne de porco"
+        },
+        {
+          "ID": 2100000,
+          "Title": "Band (desambiguação)"
         },
         {
           "ID": 2204452,
@@ -312,6 +408,10 @@
           "Title": "Chocolate amargo"
         },
         {
+          "ID": 2536494,
+          "Title": "Yūrei"
+        },
+        {
           "ID": 2761493,
           "Title": "Barra de chocolate"
         },
@@ -330,6 +430,10 @@
         {
           "ID": 3218114,
           "Title": "Realismo filosófico"
+        },
+        {
+          "ID": 3250993,
+          "Title": "Cacau"
         },
         {
           "ID": 3274866,
@@ -374,6 +478,14 @@
         {
           "ID": 3907364,
           "Title": "Angry Birds Rio"
+        },
+        {
+          "ID": 4010620,
+          "Title": "Pastırma"
+        },
+        {
+          "ID": 4043466,
+          "Title": "Roti (pão)"
         },
         {
           "ID": 4089058,
@@ -552,12 +664,20 @@
       ],
       "Articles": [
         {
+          "ID": 309,
+          "Title": "Austrália"
+        },
+        {
           "ID": 1556,
           "Title": "Paris"
         },
         {
           "ID": 3934,
           "Title": "Myanmar"
+        },
+        {
+          "ID": 5335,
+          "Title": "Humano"
         },
         {
           "ID": 29933,
@@ -612,6 +732,10 @@
         {
           "ID": 150940,
           "Title": "Categoria:Higiene"
+        },
+        {
+          "ID": 4437946,
+          "Title": "Categoria:Assistência médica"
         }
       ],
       "Articles": [
@@ -644,6 +768,10 @@
         {
           "ID": 1866736,
           "Title": "Categoria:Eleições por ano"
+        },
+        {
+          "ID": 2657522,
+          "Title": "Categoria:História por localização"
         }
       ],
       "Articles": [
@@ -666,6 +794,10 @@
         {
           "ID": 1026286,
           "Title": "História da tabela periódica"
+        },
+        {
+          "ID": 1269033,
+          "Title": "Unidades de medida da Roma Antiga"
         },
         {
           "ID": 2202210,
@@ -766,6 +898,10 @@
           "Title": "Categoria:Física"
         },
         {
+          "ID": 15252,
+          "Title": "Categoria:Ciências"
+        },
+        {
           "ID": 30516,
           "Title": "Categoria:Compostos químicos"
         },
@@ -856,6 +992,10 @@
           "Title": "Trigo"
         },
         {
+          "ID": 35407,
+          "Title": "Carapau"
+        },
+        {
           "ID": 39470,
           "Title": "Manga (fruta)"
         },
@@ -892,6 +1032,10 @@
           "Title": "Pantherinae"
         },
         {
+          "ID": 64641,
+          "Title": "Hidrologia"
+        },
+        {
           "ID": 66192,
           "Title": "Sucuri"
         },
@@ -912,8 +1056,20 @@
           "Title": "Testículo"
         },
         {
+          "ID": 113751,
+          "Title": "Órgão sexual"
+        },
+        {
           "ID": 114088,
           "Title": "Cadeia alimentar"
+        },
+        {
+          "ID": 125393,
+          "Title": "Anaconda (desambiguação)"
+        },
+        {
+          "ID": 125766,
+          "Title": "Aparelho reprodutor"
         },
         {
           "ID": 144294,
@@ -924,8 +1080,16 @@
           "Title": "Manto (molusco)"
         },
         {
+          "ID": 149521,
+          "Title": "Meloa"
+        },
+        {
           "ID": 154869,
           "Title": "Couve-flor"
+        },
+        {
+          "ID": 187709,
+          "Title": "Morangueiro"
         },
         {
           "ID": 202636,
@@ -946,6 +1110,10 @@
         {
           "ID": 270136,
           "Title": "Mangifera indica"
+        },
+        {
+          "ID": 299441,
+          "Title": "Murta-comum"
         },
         {
           "ID": 335848,
@@ -1000,6 +1168,10 @@
           "Title": "Arroz glutinoso"
         },
         {
+          "ID": 2505827,
+          "Title": "Morango-silvestre"
+        },
+        {
           "ID": 2619397,
           "Title": "Grande felino"
         },
@@ -1022,6 +1194,30 @@
         {
           "ID": 3628198,
           "Title": "Vento dominante"
+        },
+        {
+          "ID": 3717729,
+          "Title": "Cucurbita maxima"
+        },
+        {
+          "ID": 3755982,
+          "Title": "Trachurus"
+        },
+        {
+          "ID": 4291611,
+          "Title": "Physalis peruviana"
+        },
+        {
+          "ID": 4502231,
+          "Title": "Physalis ixocarpa"
+        },
+        {
+          "ID": 4550393,
+          "Title": "Triticum aestivum"
+        },
+        {
+          "ID": 4560870,
+          "Title": "Scomber"
         },
         {
           "ID": 4561078,
@@ -1062,6 +1258,10 @@
           "Title": "Categoria:Pessoas"
         },
         {
+          "ID": 374112,
+          "Title": "Categoria:Vida"
+        },
+        {
           "ID": 469929,
           "Title": "Categoria:Vida pessoal"
         },
@@ -1074,8 +1274,16 @@
           "Title": "Categoria:Personagens de filmes"
         },
         {
+          "ID": 905259,
+          "Title": "Categoria:Biógrafos"
+        },
+        {
           "ID": 1434825,
           "Title": "Categoria:Mulher"
+        },
+        {
+          "ID": 2121388,
+          "Title": "Categoria:Biografias"
         },
         {
           "ID": 2270850,
@@ -1086,8 +1294,16 @@
           "Title": "Categoria:Mulheres"
         },
         {
+          "ID": 2618955,
+          "Title": "Categoria:Teorias da personalidade"
+        },
+        {
           "ID": 4287098,
           "Title": "Categoria:Artistas por mídia"
+        },
+        {
+          "ID": 5757875,
+          "Title": "Categoria:Obras biográficas"
         }
       ],
       "Articles": [
@@ -1336,6 +1552,10 @@
           "Title": "Fé"
         },
         {
+          "ID": 5636,
+          "Title": "Crença"
+        },
+        {
           "ID": 29560,
           "Title": "Felicidade"
         },
@@ -1344,12 +1564,32 @@
           "Title": "Beleza"
         },
         {
+          "ID": 177122,
+          "Title": "Crença (desambiguação)"
+        },
+        {
+          "ID": 231967,
+          "Title": "Alegria (desambiguação)"
+        },
+        {
           "ID": 486639,
           "Title": "Confiança"
         },
         {
           "ID": 1323832,
           "Title": "Efeito Dunning-Kruger"
+        },
+        {
+          "ID": 1789474,
+          "Title": "Alegria"
+        },
+        {
+          "ID": 2200380,
+          "Title": "Hit"
+        },
+        {
+          "ID": 2526443,
+          "Title": "Crença religiosa"
         },
         {
           "ID": 4596938,
@@ -1436,8 +1676,16 @@
           "Title": "Categoria:Instituições de ensino superior por país"
         },
         {
+          "ID": 3442160,
+          "Title": "Categoria:Organizações intergovernamentais"
+        },
+        {
           "ID": 3550174,
           "Title": "Categoria:Direitos"
+        },
+        {
+          "ID": 4939824,
+          "Title": "Categoria:Humanidades"
         }
       ],
       "Articles": [
@@ -2074,6 +2322,10 @@
           "Title": "Universidade de Gênova"
         },
         {
+          "ID": 5412550,
+          "Title": "Fidúcia"
+        },
+        {
           "ID": 5652619,
           "Title": "Queen's University"
         },
@@ -2088,6 +2340,10 @@
         {
           "ID": 5786027,
           "Title": "Universidade de Coventry"
+        },
+        {
+          "ID": 5828130,
+          "Title": "Política académica de portas abertas"
         },
         {
           "ID": 5862094,
@@ -2124,6 +2380,10 @@
           "Title": "Categoria:Ciência da computação"
         },
         {
+          "ID": 15775,
+          "Title": "Categoria:Computadores"
+        },
+        {
           "ID": 15791,
           "Title": "Categoria:Ciências aplicadas"
         },
@@ -2134,6 +2394,14 @@
         {
           "ID": 26726,
           "Title": "Categoria:Eletrônica"
+        },
+        {
+          "ID": 43380,
+          "Title": "Categoria:Meios de transporte"
+        },
+        {
+          "ID": 48840,
+          "Title": "Categoria:Bancos de dados"
         },
         {
           "ID": 170728,
@@ -2150,6 +2418,10 @@
         {
           "ID": 2631675,
           "Title": "Categoria:Computação"
+        },
+        {
+          "ID": 2631936,
+          "Title": "Categoria:Administração de dados"
         },
         {
           "ID": 2632234,

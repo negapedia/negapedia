@@ -42,8 +42,20 @@
           "Title": "Categoria:Alimentazione"
         },
         {
+          "ID": 65503,
+          "Title": "Categoria:Colori"
+        },
+        {
+          "ID": 603780,
+          "Title": "Categoria:Tecniche di cucina"
+        },
+        {
           "ID": 603796,
           "Title": "Categoria:Portate di cucina"
+        },
+        {
+          "ID": 620363,
+          "Title": "Categoria:Gastronomia"
         },
         {
           "ID": 1494108,
@@ -52,6 +64,10 @@
         {
           "ID": 2047954,
           "Title": "Categoria:Cultura"
+        },
+        {
+          "ID": 3023801,
+          "Title": "Categoria:Discipline sportive"
         },
         {
           "ID": 5270770,
@@ -64,6 +80,10 @@
         {
           "ID": 5299452,
           "Title": "Categoria:Attività ricreative e sportive"
+        },
+        {
+          "ID": 6865314,
+          "Title": "Categoria:Esercizio fisico"
         }
       ],
       "Articles": [
@@ -116,8 +136,16 @@
           "Title": "XXXX"
         },
         {
+          "ID": 126613,
+          "Title": "Sus scrofa"
+        },
+        {
           "ID": 128560,
           "Title": "Salsa (gastronomia)"
+        },
+        {
+          "ID": 136213,
+          "Title": "Galletta"
         },
         {
           "ID": 164729,
@@ -148,6 +176,10 @@
           "Title": "Bra (formaggio)"
         },
         {
+          "ID": 273378,
+          "Title": "Pecorino Romano"
+        },
+        {
           "ID": 273389,
           "Title": "Pecorino toscano"
         },
@@ -168,6 +200,10 @@
           "Title": "Mostro di Loch Ness"
         },
         {
+          "ID": 287928,
+          "Title": "Coffea arabica"
+        },
+        {
           "ID": 293549,
           "Title": "Realismo"
         },
@@ -178,6 +214,10 @@
         {
           "ID": 306642,
           "Title": "Buckingham Palace"
+        },
+        {
+          "ID": 317984,
+          "Title": "Band"
         },
         {
           "ID": 327753,
@@ -194,6 +234,10 @@
         {
           "ID": 408039,
           "Title": "Celibato"
+        },
+        {
+          "ID": 413573,
+          "Title": "Pecorino"
         },
         {
           "ID": 419351,
@@ -232,6 +276,18 @@
           "Title": "Pasta con le sarde"
         },
         {
+          "ID": 674939,
+          "Title": "Sus (zoologia)"
+        },
+        {
+          "ID": 688664,
+          "Title": "Theobroma cacao"
+        },
+        {
+          "ID": 690567,
+          "Title": "Uovo (biologia)"
+        },
+        {
           "ID": 699234,
           "Title": "Burro di arachidi"
         },
@@ -240,12 +296,20 @@
           "Title": "Taco"
         },
         {
+          "ID": 728948,
+          "Title": "Ginger ale"
+        },
+        {
           "ID": 767182,
           "Title": "Creature magiche di Harry Potter"
         },
         {
           "ID": 832733,
           "Title": "Caffè"
+        },
+        {
+          "ID": 895141,
+          "Title": "Yūrei"
         },
         {
           "ID": 1080363,
@@ -262,6 +326,10 @@
         {
           "ID": 1280333,
           "Title": "Biscotto"
+        },
+        {
+          "ID": 1360516,
+          "Title": "Slitta"
         },
         {
           "ID": 1397677,
@@ -282,6 +350,10 @@
         {
           "ID": 1542355,
           "Title": "Bière de Garde"
+        },
+        {
+          "ID": 1563722,
+          "Title": "Sesso orale"
         },
         {
           "ID": 1565056,
@@ -336,6 +408,10 @@
           "Title": "Pasta alla carbonara"
         },
         {
+          "ID": 2145263,
+          "Title": "Coffea"
+        },
+        {
           "ID": 2155782,
           "Title": "Wafer (biscotto)"
         },
@@ -344,8 +420,16 @@
           "Title": "Pirog"
         },
         {
+          "ID": 2370127,
+          "Title": "Sus scrofa domesticus"
+        },
+        {
           "ID": 2393396,
           "Title": "Pandolce"
+        },
+        {
+          "ID": 2411315,
+          "Title": "Pane azzimo"
         },
         {
           "ID": 2416134,
@@ -440,6 +524,10 @@
           "Title": "Kingdom Hearts Mobile"
         },
         {
+          "ID": 3866658,
+          "Title": "Bigfoot (disambigua)"
+        },
+        {
           "ID": 3881325,
           "Title": "Suikerbrood"
         },
@@ -460,6 +548,10 @@
           "Title": "Jab Tak Hai Jaan"
         },
         {
+          "ID": 4448780,
+          "Title": "Roti (gastronomia)"
+        },
+        {
           "ID": 4511139,
           "Title": "Pancarré"
         },
@@ -470,6 +562,14 @@
         {
           "ID": 4529836,
           "Title": "Angry Birds"
+        },
+        {
+          "ID": 4619384,
+          "Title": "Regionalismo"
+        },
+        {
+          "ID": 4620097,
+          "Title": "Fette biscottate"
         },
         {
           "ID": 4692905,
@@ -486,6 +586,10 @@
         {
           "ID": 5345976,
           "Title": "Ripieno"
+        },
+        {
+          "ID": 5385790,
+          "Title": "Pastırma"
         },
         {
           "ID": 5458533,
@@ -540,6 +644,10 @@
           "Title": "Crudités"
         },
         {
+          "ID": 7585750,
+          "Title": "Pane basso"
+        },
+        {
           "ID": 7741885,
           "Title": "Deep-dish pizza"
         }
@@ -580,6 +688,10 @@
           "Title": "Parigi"
         },
         {
+          "ID": 71909,
+          "Title": "Homo sapiens"
+        },
+        {
           "ID": 127212,
           "Title": "Piramide"
         },
@@ -594,6 +706,10 @@
         {
           "ID": 697349,
           "Title": "Queensland"
+        },
+        {
+          "ID": 712124,
+          "Title": "Australia"
         },
         {
           "ID": 1141633,
@@ -686,6 +802,10 @@
         {
           "ID": 4791,
           "Title": "Attentati dell'11 settembre 2001"
+        },
+        {
+          "ID": 48618,
+          "Title": "Unità di misura romane"
         },
         {
           "ID": 89965,
@@ -812,6 +932,10 @@
       ],
       "Articles": [
         {
+          "ID": 14103,
+          "Title": "Idrologia"
+        },
+        {
           "ID": 39050,
           "Title": "Rete alimentare"
         },
@@ -830,6 +954,14 @@
         {
           "ID": 110507,
           "Title": "Muscolo"
+        },
+        {
+          "ID": 114234,
+          "Title": "Fragaria vesca"
+        },
+        {
+          "ID": 137814,
+          "Title": "Cazzo"
         },
         {
           "ID": 146876,
@@ -860,6 +992,10 @@
           "Title": "Ciclo dell'acqua"
         },
         {
+          "ID": 260838,
+          "Title": "Myrtus communis"
+        },
+        {
           "ID": 304498,
           "Title": "Phoenicopterus"
         },
@@ -870,6 +1006,10 @@
         {
           "ID": 410848,
           "Title": "Fragola"
+        },
+        {
+          "ID": 418450,
+          "Title": "Fragaria"
         },
         {
           "ID": 473024,
@@ -886,6 +1026,10 @@
         {
           "ID": 514355,
           "Title": "Eunectes murinus"
+        },
+        {
+          "ID": 517608,
+          "Title": "Anaconda"
         },
         {
           "ID": 565844,
@@ -920,6 +1064,14 @@
           "Title": "Triticum"
         },
         {
+          "ID": 693996,
+          "Title": "Apparato genitale"
+        },
+        {
+          "ID": 701086,
+          "Title": "Oryza sativa"
+        },
+        {
           "ID": 717903,
           "Title": "Sistema muscolare"
         },
@@ -928,12 +1080,20 @@
           "Title": "Solanum lycopersicum"
         },
         {
+          "ID": 829966,
+          "Title": "Melone di Cantalupo"
+        },
+        {
           "ID": 851159,
           "Title": "Rutilismo"
         },
         {
           "ID": 880142,
           "Title": "Testicolo"
+        },
+        {
+          "ID": 899288,
+          "Title": "Triticum aestivum"
         },
         {
           "ID": 1078046,
@@ -976,6 +1136,10 @@
           "Title": "Ateles"
         },
         {
+          "ID": 1937164,
+          "Title": "Trachurus"
+        },
+        {
           "ID": 2038863,
           "Title": "Tentacolo"
         },
@@ -984,12 +1148,20 @@
           "Title": "Rostratulidae"
         },
         {
+          "ID": 2210143,
+          "Title": "Cucurbita maxima"
+        },
+        {
           "ID": 2342246,
           "Title": "Pene"
         },
         {
           "ID": 2468436,
           "Title": "Grandi felini"
+        },
+        {
+          "ID": 2545790,
+          "Title": "Physalis peruviana"
         },
         {
           "ID": 2600151,
@@ -1016,8 +1188,20 @@
           "Title": "Brassica oleracea var. botrytis"
         },
         {
+          "ID": 4098187,
+          "Title": "Scomber"
+        },
+        {
           "ID": 4191284,
           "Title": "Melone verde"
+        },
+        {
+          "ID": 4957302,
+          "Title": "Tomatillo"
+        },
+        {
+          "ID": 5177472,
+          "Title": "Rastrelliger kanagurta"
         },
         {
           "ID": 5876262,
@@ -1046,6 +1230,14 @@
           "Title": "Categoria:Cognomi"
         },
         {
+          "ID": 1359864,
+          "Title": "Categoria:Personalità"
+        },
+        {
+          "ID": 1430746,
+          "Title": "Categoria:Opere letterarie biografiche"
+        },
+        {
           "ID": 3097777,
           "Title": "Categoria:Artisti per disciplina"
         },
@@ -1056,6 +1248,10 @@
         {
           "ID": 5300176,
           "Title": "Categoria:Attività relative alla cura delle persone"
+        },
+        {
+          "ID": 6395572,
+          "Title": "Categoria:Opere biografiche"
         }
       ],
       "Articles": [
@@ -1324,8 +1520,28 @@
           "Title": "Felicità"
         },
         {
+          "ID": 690883,
+          "Title": "HIT"
+        },
+        {
           "ID": 873212,
           "Title": "Fede"
+        },
+        {
+          "ID": 1141369,
+          "Title": "Credenza"
+        },
+        {
+          "ID": 2040286,
+          "Title": "Belief"
+        },
+        {
+          "ID": 2236218,
+          "Title": "Alegria"
+        },
+        {
+          "ID": 3188127,
+          "Title": "Believer"
         },
         {
           "ID": 3412236,
@@ -1422,6 +1638,10 @@
         {
           "ID": 1893253,
           "Title": "Categoria:Scienze umanistiche"
+        },
+        {
+          "ID": 4727618,
+          "Title": "Categoria:Discipline umanistiche"
         }
       ],
       "Articles": [
@@ -1556,6 +1776,10 @@
         {
           "ID": 543582,
           "Title": "Terza guerra mondiale"
+        },
+        {
+          "ID": 551353,
+          "Title": "Trust"
         },
         {
           "ID": 556834,
@@ -2084,6 +2308,10 @@
           "Title": "Categoria:Design"
         },
         {
+          "ID": 27558,
+          "Title": "Categoria:Computer"
+        },
+        {
           "ID": 31787,
           "Title": "Categoria:Ingegneria"
         },
@@ -2118,6 +2346,14 @@
         {
           "ID": 4695135,
           "Title": "Categoria:Storia della tecnologia"
+        },
+        {
+          "ID": 4751912,
+          "Title": "Categoria:Basi di dati"
+        },
+        {
+          "ID": 5065561,
+          "Title": "Categoria:Gestione dei dati"
         }
       ],
       "Articles": [
