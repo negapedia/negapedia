@@ -1,0 +1,467 @@
+{
+  "Language": "szl",
+  "Topics": [
+    {
+      "ID": 2147483637,
+      "Title": "Culture and the arts",
+      "Categories": [
+        {
+          "ID": 400,
+          "Title": "Kategoryjo:Filmy"
+        },
+        {
+          "ID": 635,
+          "Title": "Kategoryjo:Kultura"
+        },
+        {
+          "ID": 5269,
+          "Title": "Kategoryjo:Kůnšt"
+        },
+        {
+          "ID": 10854,
+          "Title": "Kategoryjo:Teoryjo farbůw"
+        },
+        {
+          "ID": 11407,
+          "Title": "Kategoryjo:Szport"
+        },
+        {
+          "ID": 11560,
+          "Title": "Kategoryjo:Szpas"
+        },
+        {
+          "ID": 12055,
+          "Title": "Kategoryjo:Szportowe dyscypliny"
+        },
+        {
+          "ID": 12261,
+          "Title": "Kategoryjo:Muzyczne skupiny"
+        },
+        {
+          "ID": 12456,
+          "Title": "Kategoryjo:Jodło"
+        },
+        {
+          "ID": 12530,
+          "Title": "Kategoryjo:Kulinaryja"
+        },
+        {
+          "ID": 12585,
+          "Title": "Kategoryjo:Futrowańy"
+        }
+      ],
+      "Articles": [
+        {
+          "ID": 155,
+          "Title": "Wikipedyjo"
+        },
+        {
+          "ID": 1573,
+          "Title": "Bjyr"
+        },
+        {
+          "ID": 1800,
+          "Title": "Yncyklopedyjo"
+        },
+        {
+          "ID": 2206,
+          "Title": "Pizza"
+        },
+        {
+          "ID": 2280,
+          "Title": "Zupa s tomatůw"
+        },
+        {
+          "ID": 2308,
+          "Title": "Szekulada"
+        },
+        {
+          "ID": 7676,
+          "Title": "Fellatio"
+        },
+        {
+          "ID": 7740,
+          "Title": "Kafyj"
+        },
+        {
+          "ID": 7841,
+          "Title": "Chlyb"
+        },
+        {
+          "ID": 8135,
+          "Title": "AC/DC"
+        },
+        {
+          "ID": 9357,
+          "Title": "Nudle"
+        },
+        {
+          "ID": 14540,
+          "Title": "Green Day"
+        },
+        {
+          "ID": 14633,
+          "Title": "M\u0026M's"
+        },
+        {
+          "ID": 14655,
+          "Title": "Gorko szekulada"
+        },
+        {
+          "ID": 14689,
+          "Title": "Batůn (maszkety)"
+        },
+        {
+          "ID": 15199,
+          "Title": "Muzyczno skupina"
+        }
+      ]
+    },
+    {
+      "ID": 2147483638,
+      "Title": "Geography and places",
+      "Categories": [
+        {
+          "ID": 3672,
+          "Title": "Kategoryjo:Urbańistyka"
+        },
+        {
+          "ID": 12143,
+          "Title": "Kategoryjo:Geografijo"
+        },
+        {
+          "ID": 12205,
+          "Title": "Kategoryjo:Geomorfologijo"
+        }
+      ],
+      "Articles": [
+        {
+          "ID": 1563,
+          "Title": "Australijo"
+        },
+        {
+          "ID": 1571,
+          "Title": "Birma"
+        },
+        {
+          "ID": 2041,
+          "Title": "Paryż"
+        },
+        {
+          "ID": 2298,
+          "Title": "Czowjek"
+        },
+        {
+          "ID": 8254,
+          "Title": "Wynecyjo"
+        },
+        {
+          "ID": 18086,
+          "Title": "Canberra"
+        }
+      ]
+    },
+    {
+      "ID": 2147483639,
+      "Title": "Health and fitness",
+      "Categories": [
+        {
+          "ID": 714,
+          "Title": "Kategoryjo:Medycyna"
+        },
+        {
+          "ID": 2848,
+          "Title": "Kategoryjo:Zdrowje"
+        },
+        {
+          "ID": 12775,
+          "Title": "Kategoryjo:Medyczne nauki"
+        },
+        {
+          "ID": 13132,
+          "Title": "Kategoryjo:Systyma zdrowotnyj uopjeki"
+        },
+        {
+          "ID": 13147,
+          "Title": "Kategoryjo:Dochotrske szpecyjolnośći"
+        }
+      ]
+    },
+    {
+      "ID": 2147483640,
+      "Title": "History and events",
+      "Categories": [
+        {
+          "ID": 3829,
+          "Title": "Kategoryjo:Historyjo"
+        },
+        {
+          "ID": 11662,
+          "Title": "Kategoryjo:Wydarzyńa"
+        },
+        {
+          "ID": 12300,
+          "Title": "Kategoryjo:Historyjo podug państwůw"
+        }
+      ],
+      "Articles": [
+        {
+          "ID": 11345,
+          "Title": "Terorystyczne angrify ze 11 wrześńa 2001"
+        },
+        {
+          "ID": 19386,
+          "Title": "Donald Trump"
+        }
+      ]
+    },
+    {
+      "ID": 2147483641,
+      "Title": "Mathematics and logic",
+      "Categories": [
+        {
+          "ID": 708,
+          "Title": "Kategoryjo:Matymatyka"
+        },
+        {
+          "ID": 12561,
+          "Title": "Kategoryjo:Logika"
+        }
+      ]
+    },
+    {
+      "ID": 2147483642,
+      "Title": "Nature and physical sciences",
+      "Categories": [
+        {
+          "ID": 416,
+          "Title": "Kategoryjo:Fizyka"
+        },
+        {
+          "ID": 777,
+          "Title": "Kategoryjo:Nauka"
+        },
+        {
+          "ID": 10885,
+          "Title": "Kategoryjo:Przirodnicze nauki"
+        },
+        {
+          "ID": 12020,
+          "Title": "Kategoryjo:Chymijo"
+        },
+        {
+          "ID": 13337,
+          "Title": "Kategoryjo:Zoologijo"
+        },
+        {
+          "ID": 13338,
+          "Title": "Kategoryjo:Chymiczne zwjůnzki"
+        },
+        {
+          "ID": 13769,
+          "Title": "Kategoryjo:Katasztrofy"
+        }
+      ],
+      "Articles": [
+        {
+          "ID": 1556,
+          "Title": "Apluzina"
+        },
+        {
+          "ID": 1674,
+          "Title": "Kamela"
+        },
+        {
+          "ID": 2250,
+          "Title": "Tůmata"
+        },
+        {
+          "ID": 7349,
+          "Title": "Ćulik"
+        },
+        {
+          "ID": 8061,
+          "Title": "Myrta"
+        },
+        {
+          "ID": 11244,
+          "Title": "Blumkola"
+        }
+      ]
+    },
+    {
+      "ID": 2147483643,
+      "Title": "People and self",
+      "Categories": [
+        {
+          "ID": 11964,
+          "Title": "Kategoryjo:Bjografije"
+        },
+        {
+          "ID": 13341,
+          "Title": "Kategoryjo:Kożdodźynne żywobyće"
+        }
+      ],
+      "Articles": [
+        {
+          "ID": 1538,
+          "Title": "Adolf Hitler"
+        },
+        {
+          "ID": 3836,
+          "Title": "Krzisztof Kolůmb"
+        },
+        {
+          "ID": 5688,
+          "Title": "Harry Houdini"
+        },
+        {
+          "ID": 8148,
+          "Title": "Sigmund Freud"
+        },
+        {
+          "ID": 9203,
+          "Title": "Joseph Smith"
+        },
+        {
+          "ID": 11363,
+          "Title": "Bill Gates"
+        },
+        {
+          "ID": 23184,
+          "Title": "John Lennon"
+        }
+      ]
+    },
+    {
+      "ID": 2147483644,
+      "Title": "Philosophy and thinking",
+      "Categories": [
+        {
+          "ID": 2876,
+          "Title": "Kategoryjo:Etyka"
+        },
+        {
+          "ID": 12098,
+          "Title": "Kategoryjo:Filozofijo"
+        },
+        {
+          "ID": 12409,
+          "Title": "Kategoryjo:Ideologije"
+        },
+        {
+          "ID": 12941,
+          "Title": "Kategoryjo:Poszczygůlne filozoficzne nauki"
+        },
+        {
+          "ID": 13203,
+          "Title": "Kategoryjo:Teoryjo polityki"
+        }
+      ]
+    },
+    {
+      "ID": 2147483645,
+      "Title": "Religion and belief systems",
+      "Categories": [
+        {
+          "ID": 5677,
+          "Title": "Kategoryjo:Religije"
+        },
+        {
+          "ID": 13352,
+          "Title": "Kategoryjo:Antropologijo religiji"
+        }
+      ]
+    },
+    {
+      "ID": 2147483646,
+      "Title": "Society and social sciences",
+      "Categories": [
+        {
+          "ID": 936,
+          "Title": "Kategoryjo:Prawo"
+        },
+        {
+          "ID": 11410,
+          "Title": "Kategoryjo:Społeczyństwo"
+        },
+        {
+          "ID": 12773,
+          "Title": "Kategoryjo:Hůmańistyczne nauki"
+        },
+        {
+          "ID": 12778,
+          "Title": "Kategoryjo:Społeczne nauki"
+        }
+      ],
+      "Articles": [
+        {
+          "ID": 1656,
+          "Title": "Iran"
+        },
+        {
+          "ID": 2260,
+          "Title": "Ojropejsko Uńijo"
+        },
+        {
+          "ID": 4727,
+          "Title": "Czile"
+        },
+        {
+          "ID": 9725,
+          "Title": "Letńi czas"
+        },
+        {
+          "ID": 10704,
+          "Title": "Barbados"
+        }
+      ]
+    },
+    {
+      "ID": 2147483647,
+      "Title": "Technology and applied sciences",
+      "Categories": [
+        {
+          "ID": 45,
+          "Title": "Kategoryjo:Techńika"
+        },
+        {
+          "ID": 375,
+          "Title": "Kategoryjo:Elektrůńika"
+        },
+        {
+          "ID": 564,
+          "Title": "Kategoryjo:Informatyka"
+        },
+        {
+          "ID": 567,
+          "Title": "Kategoryjo:Internec"
+        },
+        {
+          "ID": 3871,
+          "Title": "Kategoryjo:Historyjo techńiki"
+        },
+        {
+          "ID": 13199,
+          "Title": "Kategoryjo:Wojskowo techńika"
+        },
+        {
+          "ID": 13217,
+          "Title": "Kategoryjo:Transzport"
+        }
+      ],
+      "Articles": [
+        {
+          "ID": 14630,
+          "Title": "Guma do żućo"
+        }
+      ]
+    }
+  ],
+  "Filters": [
+    {
+      "ID": 14407,
+      "Title": "Kategoryjo:Ujednoznaczńajůnce zajty"
+    }
+  ]
+}

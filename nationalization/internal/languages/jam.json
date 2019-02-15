@@ -1,0 +1,267 @@
+{
+  "Language": "jam",
+  "Topics": [
+    {
+      "ID": 2147483637,
+      "Title": "Culture and the arts",
+      "Categories": [
+        {
+          "ID": 1692,
+          "Title": "Category:Aat"
+        },
+        {
+          "ID": 1750,
+          "Title": "Category:Kolcha"
+        },
+        {
+          "ID": 1791,
+          "Title": "Category:Rikrieshan"
+        },
+        {
+          "ID": 1806,
+          "Title": "Category:Spuots"
+        }
+      ],
+      "Articles": [
+        {
+          "ID": 246,
+          "Title": "Bred"
+        },
+        {
+          "ID": 430,
+          "Title": "Filasafikal Riilizim"
+        },
+        {
+          "ID": 703,
+          "Title": "Kaafi"
+        },
+        {
+          "ID": 1519,
+          "Title": "Wikipidia"
+        }
+      ]
+    },
+    {
+      "ID": 2147483638,
+      "Title": "Geography and places",
+      "Categories": [
+        {
+          "ID": 1737,
+          "Title": "Category:Jaagrafi"
+        }
+      ],
+      "Articles": [
+        {
+          "ID": 149,
+          "Title": "Aschrielia"
+        },
+        {
+          "ID": 929,
+          "Title": "Mianmaa"
+        },
+        {
+          "ID": 1081,
+          "Title": "Paris"
+        },
+        {
+          "ID": 2373,
+          "Title": "Yuuman"
+        },
+        {
+          "ID": 2406,
+          "Title": "Piramid"
+        }
+      ]
+    },
+    {
+      "ID": 2147483639,
+      "Title": "Health and fitness"
+    },
+    {
+      "ID": 2147483640,
+      "Title": "History and events",
+      "Categories": [
+        {
+          "ID": 1728,
+          "Title": "Category:Ischri"
+        }
+      ],
+      "Articles": [
+        {
+          "ID": 2185,
+          "Title": "Chuojan Waar"
+        }
+      ]
+    },
+    {
+      "ID": 2147483641,
+      "Title": "Mathematics and logic",
+      "Categories": [
+        {
+          "ID": 1993,
+          "Title": "Category:Matimatix"
+        }
+      ]
+    },
+    {
+      "ID": 2147483642,
+      "Title": "Nature and physical sciences",
+      "Categories": [
+        {
+          "ID": 1797,
+          "Title": "Category:Sayans"
+        },
+        {
+          "ID": 1820,
+          "Title": "Category:Zuulaji"
+        },
+        {
+          "ID": 1861,
+          "Title": "Category:Kimischri"
+        }
+      ],
+      "Articles": [
+        {
+          "ID": 704,
+          "Title": "Kaan"
+        },
+        {
+          "ID": 886,
+          "Title": "Manggo"
+        },
+        {
+          "ID": 1160,
+          "Title": "Rais"
+        },
+        {
+          "ID": 1517,
+          "Title": "Wiit"
+        },
+        {
+          "ID": 2428,
+          "Title": "Faya"
+        }
+      ]
+    },
+    {
+      "ID": 2147483643,
+      "Title": "People and self",
+      "Categories": [
+        {
+          "ID": 1781,
+          "Title": "Category:Piipl"
+        }
+      ],
+      "Articles": [
+        {
+          "ID": 42,
+          "Title": "Adalf Itla"
+        },
+        {
+          "ID": 63,
+          "Title": "Alan Turing"
+        },
+        {
+          "ID": 283,
+          "Title": "Carl Friedrich Gauss"
+        },
+        {
+          "ID": 480,
+          "Title": "Gialiliyo Gialileyi"
+        },
+        {
+          "ID": 766,
+          "Title": "Krixtifa Kolombos"
+        },
+        {
+          "ID": 1174,
+          "Title": "Renei Deikaat"
+        },
+        {
+          "ID": 1185,
+          "Title": "Richard Wagner"
+        },
+        {
+          "ID": 1283,
+          "Title": "Sigmund Freud"
+        },
+        {
+          "ID": 1378,
+          "Title": "Tamas Akwainas"
+        }
+      ]
+    },
+    {
+      "ID": 2147483644,
+      "Title": "Philosophy and thinking",
+      "Categories": [
+        {
+          "ID": 1960,
+          "Title": "Category:Filasafi"
+        }
+      ],
+      "Articles": [
+        {
+          "ID": 129,
+          "Title": "Apinis"
+        },
+        {
+          "ID": 215,
+          "Title": "Biliif"
+        }
+      ]
+    },
+    {
+      "ID": 2147483645,
+      "Title": "Religion and belief systems",
+      "Categories": [
+        {
+          "ID": 1792,
+          "Title": "Category:Rilijan"
+        }
+      ]
+    },
+    {
+      "ID": 2147483646,
+      "Title": "Society and social sciences",
+      "Categories": [
+        {
+          "ID": 1803,
+          "Title": "Category:Sasayati"
+        }
+      ],
+      "Articles": [
+        {
+          "ID": 171,
+          "Title": "Baabiedoz"
+        },
+        {
+          "ID": 312,
+          "Title": "Chili"
+        },
+        {
+          "ID": 598,
+          "Title": "Iran"
+        },
+        {
+          "ID": 2067,
+          "Title": "Yuropiyan Yuunian"
+        }
+      ]
+    },
+    {
+      "ID": 2147483647,
+      "Title": "Technology and applied sciences",
+      "Categories": [
+        {
+          "ID": 2578,
+          "Title": "Category:Teknalaji"
+        },
+        {
+          "ID": 2590,
+          "Title": "Category:Ilekchtranix"
+        }
+      ]
+    }
+  ]
+}

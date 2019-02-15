@@ -1,0 +1,435 @@
+{
+  "Language": "yo",
+  "Topics": [
+    {
+      "ID": 2147483637,
+      "Title": "Culture and the arts",
+      "Categories": [
+        {
+          "ID": 14164,
+          "Title": "Ẹ̀ka:Àṣà"
+        },
+        {
+          "ID": 14282,
+          "Title": "Ẹ̀ka:Àwọn ọnà"
+        },
+        {
+          "ID": 14939,
+          "Title": "Ẹ̀ka:Àwọn eré-ìdárayá"
+        },
+        {
+          "ID": 21314,
+          "Title": "Ẹ̀ka:Fàájì"
+        },
+        {
+          "ID": 30160,
+          "Title": "Ẹ̀ka:Àwọn ónjẹ"
+        }
+      ],
+      "Articles": [
+        {
+          "ID": 9115,
+          "Title": "Wikipedia"
+        },
+        {
+          "ID": 26863,
+          "Title": "Akọ ẹlẹ́dẹ̀"
+        },
+        {
+          "ID": 59637,
+          "Title": "Òdodo"
+        }
+      ]
+    },
+    {
+      "ID": 2147483638,
+      "Title": "Geography and places",
+      "Categories": [
+        {
+          "ID": 13762,
+          "Title": "Ẹ̀ka:Jẹ́ọ́gráfì"
+        }
+      ],
+      "Articles": [
+        {
+          "ID": 2669,
+          "Title": "Austrálíà"
+        },
+        {
+          "ID": 12251,
+          "Title": "Parisi"
+        },
+        {
+          "ID": 12517,
+          "Title": "Ọmọnìyàn"
+        },
+        {
+          "ID": 13631,
+          "Title": "Myanmar"
+        },
+        {
+          "ID": 15422,
+          "Title": "Canberra"
+        },
+        {
+          "ID": 33459,
+          "Title": "Queensland"
+        }
+      ]
+    },
+    {
+      "ID": 2147483639,
+      "Title": "Health and fitness",
+      "Categories": [
+        {
+          "ID": 15274,
+          "Title": "Ẹ̀ka:Ìwòsàn"
+        },
+        {
+          "ID": 15276,
+          "Title": "Ẹ̀ka:Ìlera"
+        },
+        {
+          "ID": 32953,
+          "Title": "Ẹ̀ka:Ìtọ́jú ìlera"
+        }
+      ]
+    },
+    {
+      "ID": 2147483640,
+      "Title": "History and events",
+      "Categories": [
+        {
+          "ID": 13853,
+          "Title": "Ẹ̀ka:Ìtàn"
+        }
+      ],
+      "Articles": [
+        {
+          "ID": 22489,
+          "Title": "Àwọn ìṣẹ̀lẹ̀ ìdánilóró September 11, 2001"
+        },
+        {
+          "ID": 66039,
+          "Title": "Donald Trump"
+        }
+      ]
+    },
+    {
+      "ID": 2147483641,
+      "Title": "Mathematics and logic",
+      "Categories": [
+        {
+          "ID": 26264,
+          "Title": "Ẹ̀ka:Mathimátíkì"
+        }
+      ]
+    },
+    {
+      "ID": 2147483642,
+      "Title": "Nature and physical sciences",
+      "Categories": [
+        {
+          "ID": 3955,
+          "Title": "Ẹ̀ka:Sáyẹ́nsì"
+        },
+        {
+          "ID": 13741,
+          "Title": "Ẹ̀ka:Àdánidá"
+        },
+        {
+          "ID": 21455,
+          "Title": "Ẹ̀ka:Àwọn àdàpọ̀ kẹ́míkà"
+        },
+        {
+          "ID": 21456,
+          "Title": "Ẹ̀ka:Àwọn ohun kẹ́míkà"
+        },
+        {
+          "ID": 26252,
+          "Title": "Ẹ̀ka:Àwọn sáyẹ́nsì aládánidá"
+        },
+        {
+          "ID": 26261,
+          "Title": "Ẹ̀ka:Físíksì"
+        },
+        {
+          "ID": 59487,
+          "Title": "Ẹ̀ka:Ìpògùn"
+        }
+      ],
+      "Articles": [
+        {
+          "ID": 4958,
+          "Title": "Ràkùnmí"
+        },
+        {
+          "ID": 6626,
+          "Title": "Tòmátò"
+        },
+        {
+          "ID": 11075,
+          "Title": "Ọsàn"
+        },
+        {
+          "ID": 15012,
+          "Title": "Iná"
+        },
+        {
+          "ID": 26068,
+          "Title": "Àgbàdo"
+        }
+      ]
+    },
+    {
+      "ID": 2147483643,
+      "Title": "People and self",
+      "Categories": [
+        {
+          "ID": 4007,
+          "Title": "Ẹ̀ka:Ìgbésíayé"
+        },
+        {
+          "ID": 13406,
+          "Title": "Ẹ̀ka:Ẹ̀mín"
+        },
+        {
+          "ID": 14151,
+          "Title": "Ẹ̀ka:Àwọn ènìyàn"
+        }
+      ],
+      "Articles": [
+        {
+          "ID": 15100,
+          "Title": "Carl Friedrich Gauss"
+        },
+        {
+          "ID": 15101,
+          "Title": "Alan Turing"
+        },
+        {
+          "ID": 15108,
+          "Title": "René Descartes"
+        },
+        {
+          "ID": 15116,
+          "Title": "Adolf Hitler"
+        },
+        {
+          "ID": 15130,
+          "Title": "Richard Wagner"
+        },
+        {
+          "ID": 15133,
+          "Title": "Galileo Galilei"
+        },
+        {
+          "ID": 15140,
+          "Title": "Sigmund Freud"
+        },
+        {
+          "ID": 15183,
+          "Title": "Christopher Columbus"
+        },
+        {
+          "ID": 15200,
+          "Title": "Thomas Aquinas"
+        },
+        {
+          "ID": 20287,
+          "Title": "John Lennon"
+        },
+        {
+          "ID": 21088,
+          "Title": "Ayn Rand"
+        },
+        {
+          "ID": 23525,
+          "Title": "Irving Langmuir"
+        },
+        {
+          "ID": 29616,
+          "Title": "Alexander Fleming"
+        },
+        {
+          "ID": 29796,
+          "Title": "Bill Gates"
+        },
+        {
+          "ID": 30234,
+          "Title": "Johannes Kepler"
+        },
+        {
+          "ID": 30526,
+          "Title": "Adam Smith"
+        },
+        {
+          "ID": 30538,
+          "Title": "Noam Chomsky"
+        },
+        {
+          "ID": 31020,
+          "Title": "Srinivasa Ramanujan"
+        }
+      ]
+    },
+    {
+      "ID": 2147483644,
+      "Title": "Philosophy and thinking",
+      "Categories": [
+        {
+          "ID": 26589,
+          "Title": "Ẹ̀ka:Ìmòye"
+        },
+        {
+          "ID": 26593,
+          "Title": "Ẹ̀ka:Àníyàn"
+        },
+        {
+          "ID": 55524,
+          "Title": "Ẹ̀ka:Àwọn ọ̀rọ̀àbá"
+        }
+      ]
+    },
+    {
+      "ID": 2147483645,
+      "Title": "Religion and belief systems",
+      "Categories": [
+        {
+          "ID": 20811,
+          "Title": "Ẹ̀ka:Ẹ̀sìn"
+        },
+        {
+          "ID": 36655,
+          "Title": "Ẹ̀ka:Ìgbàgbọ́"
+        }
+      ]
+    },
+    {
+      "ID": 2147483646,
+      "Title": "Society and social sciences",
+      "Categories": [
+        {
+          "ID": 11063,
+          "Title": "Ẹ̀ka:Àwùjọ"
+        },
+        {
+          "ID": 20697,
+          "Title": "Ẹ̀ka:Àwọn àgbájọ káríayé"
+        },
+        {
+          "ID": 20833,
+          "Title": "Ẹ̀ka:Òfin"
+        },
+        {
+          "ID": 21008,
+          "Title": "Ẹ̀ka:Àwọn ẹ̀tó"
+        },
+        {
+          "ID": 26254,
+          "Title": "Ẹ̀ka:Àwọn sáyẹ́nsì àwùjọ"
+        }
+      ],
+      "Articles": [
+        {
+          "ID": 11356,
+          "Title": "Ìránì"
+        },
+        {
+          "ID": 12816,
+          "Title": "Yunifásítì ìlú Èkó"
+        },
+        {
+          "ID": 13298,
+          "Title": "Tsílè"
+        },
+        {
+          "ID": 13325,
+          "Title": "Bárbádọ̀s"
+        },
+        {
+          "ID": 13620,
+          "Title": "Ìṣọ̀kan Europe"
+        },
+        {
+          "ID": 14635,
+          "Title": "Yunifásítì Harvard"
+        },
+        {
+          "ID": 18422,
+          "Title": "Àsìá ilẹ̀ Austrálíà"
+        },
+        {
+          "ID": 18971,
+          "Title": "Yunifásítì Princeton"
+        },
+        {
+          "ID": 18978,
+          "Title": "The New York Times"
+        },
+        {
+          "ID": 37639,
+          "Title": "Yunifásítì ìlú Oxford"
+        },
+        {
+          "ID": 60537,
+          "Title": "Yunifásítì ìlú Tübingen"
+        },
+        {
+          "ID": 65980,
+          "Title": "Pizza Hut"
+        }
+      ]
+    },
+    {
+      "ID": 2147483647,
+      "Title": "Technology and applied sciences",
+      "Categories": [
+        {
+          "ID": 15636,
+          "Title": "Ẹ̀ka:Kọ̀mpútà"
+        },
+        {
+          "ID": 20821,
+          "Title": "Ẹ̀ka:Tẹknọ́lọ́jì"
+        },
+        {
+          "ID": 22396,
+          "Title": "Ẹ̀ka:Internet"
+        },
+        {
+          "ID": 29107,
+          "Title": "Ẹ̀ka:Ìṣiṣẹ́ kọ̀mpútà"
+        },
+        {
+          "ID": 29114,
+          "Title": "Ẹ̀ka:Àwọn irú tẹknọ́lọ́jì"
+        },
+        {
+          "ID": 30479,
+          "Title": "Ẹ̀ka:Ẹ̀lẹ́ktrónìkì"
+        },
+        {
+          "ID": 30505,
+          "Title": "Ẹ̀ka:Iṣẹ́ẹ̀rọ"
+        },
+        {
+          "ID": 30506,
+          "Title": "Ẹ̀ka:Àwọn sáyẹ́nsì àmúlò"
+        }
+      ],
+      "Articles": [
+        {
+          "ID": 10580,
+          "Title": "Top-level domain"
+        }
+      ]
+    }
+  ],
+  "Filters": [
+    {
+      "ID": 14308,
+      "Title": "Ẹ̀ka:Àwọn ẹ̀ka ìbòmọ́lẹ̀"
+    }
+  ]
+}

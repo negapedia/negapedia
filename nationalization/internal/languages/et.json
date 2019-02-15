@@ -1,0 +1,1427 @@
+{
+  "Language": "et",
+  "Topics": [
+    {
+      "ID": 2147483637,
+      "Title": "Culture and the arts",
+      "Categories": [
+        {
+          "ID": 9914,
+          "Title": "Kategooria:Spordialad"
+        },
+        {
+          "ID": 10779,
+          "Title": "Kategooria:Toidud"
+        },
+        {
+          "ID": 14882,
+          "Title": "Kategooria:Kunst"
+        },
+        {
+          "ID": 15991,
+          "Title": "Kategooria:Kultuur"
+        },
+        {
+          "ID": 20869,
+          "Title": "Kategooria:Filmid"
+        },
+        {
+          "ID": 21161,
+          "Title": "Kategooria:Sport"
+        },
+        {
+          "ID": 22912,
+          "Title": "Kategooria:Meelelahutus"
+        },
+        {
+          "ID": 27011,
+          "Title": "Kategooria:Harrastused"
+        },
+        {
+          "ID": 27050,
+          "Title": "Kategooria:Ansamblid"
+        },
+        {
+          "ID": 137204,
+          "Title": "Kategooria:Muusikakollektiivid"
+        },
+        {
+          "ID": 183430,
+          "Title": "Kategooria:Toit"
+        },
+        {
+          "ID": 278512,
+          "Title": "Kategooria:Värvused"
+        },
+        {
+          "ID": 285317,
+          "Title": "Kategooria:Toitumine"
+        }
+      ],
+      "Articles": [
+        {
+          "ID": 9548,
+          "Title": "Vikipeedia"
+        },
+        {
+          "ID": 12123,
+          "Title": "Entsüklopeedia"
+        },
+        {
+          "ID": 19031,
+          "Title": "Realism (filosoofia)"
+        },
+        {
+          "ID": 20223,
+          "Title": "Realism (kirjandus)"
+        },
+        {
+          "ID": 20254,
+          "Title": "Realism"
+        },
+        {
+          "ID": 21114,
+          "Title": "Kohv"
+        },
+        {
+          "ID": 21177,
+          "Title": "Reaalsus"
+        },
+        {
+          "ID": 22243,
+          "Title": "Leib"
+        },
+        {
+          "ID": 23757,
+          "Title": "AC/DC"
+        },
+        {
+          "ID": 26640,
+          "Title": "Tsölibaat"
+        },
+        {
+          "ID": 27051,
+          "Title": "Ansambel (muusika)"
+        },
+        {
+          "ID": 27514,
+          "Title": "Bänd"
+        },
+        {
+          "ID": 28497,
+          "Title": "Oraalseks"
+        },
+        {
+          "ID": 35755,
+          "Title": "Sigatüügas"
+        },
+        {
+          "ID": 35958,
+          "Title": "Kohvipuu"
+        },
+        {
+          "ID": 38594,
+          "Title": "Õlu"
+        },
+        {
+          "ID": 44809,
+          "Title": "Hakkliha"
+        },
+        {
+          "ID": 58284,
+          "Title": "Green Day"
+        },
+        {
+          "ID": 68198,
+          "Title": "Prantsuse köök"
+        },
+        {
+          "ID": 69007,
+          "Title": "Realism (kunst)"
+        },
+        {
+          "ID": 72823,
+          "Title": "Alkohoolsete jookide loend"
+        },
+        {
+          "ID": 87120,
+          "Title": "Šokolaad"
+        },
+        {
+          "ID": 87574,
+          "Title": "Led Zeppelin"
+        },
+        {
+          "ID": 96114,
+          "Title": "Pilsen"
+        },
+        {
+          "ID": 104726,
+          "Title": "Siga"
+        },
+        {
+          "ID": 111572,
+          "Title": "Nessie"
+        },
+        {
+          "ID": 118056,
+          "Title": "Sgt. Pepper's Lonely Hearts Club Band"
+        },
+        {
+          "ID": 123748,
+          "Title": "Metssiga"
+        },
+        {
+          "ID": 149965,
+          "Title": "Muna"
+        },
+        {
+          "ID": 154187,
+          "Title": "Araabia kohvipuu"
+        },
+        {
+          "ID": 156487,
+          "Title": "Härjasilm (toit)"
+        },
+        {
+          "ID": 173807,
+          "Title": "Harilik kakaopuu"
+        },
+        {
+          "ID": 206197,
+          "Title": "Buckinghami palee"
+        },
+        {
+          "ID": 221439,
+          "Title": "Siga (perekond)"
+        },
+        {
+          "ID": 222309,
+          "Title": "The Wanted"
+        },
+        {
+          "ID": 233689,
+          "Title": "Kelk"
+        },
+        {
+          "ID": 264559,
+          "Title": "Judas (singel)"
+        },
+        {
+          "ID": 268523,
+          "Title": "Angry Birds"
+        },
+        {
+          "ID": 277443,
+          "Title": "Kakao"
+        },
+        {
+          "ID": 277761,
+          "Title": "Kaste (kokandus)"
+        },
+        {
+          "ID": 279541,
+          "Title": "Jäätis"
+        },
+        {
+          "ID": 285070,
+          "Title": "Pirukas"
+        },
+        {
+          "ID": 289248,
+          "Title": "Kook"
+        },
+        {
+          "ID": 290094,
+          "Title": "Pitsa"
+        },
+        {
+          "ID": 295479,
+          "Title": "Kummitus"
+        },
+        {
+          "ID": 298197,
+          "Title": "Küpsis"
+        },
+        {
+          "ID": 300026,
+          "Title": "Leivajuuretis"
+        },
+        {
+          "ID": 303288,
+          "Title": "Maapähklivõi"
+        },
+        {
+          "ID": 310701,
+          "Title": "Pasta"
+        },
+        {
+          "ID": 320219,
+          "Title": "Basturma"
+        },
+        {
+          "ID": 324929,
+          "Title": "Aqua (ansambel)"
+        },
+        {
+          "ID": 368152,
+          "Title": "Tegelikkus"
+        },
+        {
+          "ID": 388974,
+          "Title": "Sealiha"
+        },
+        {
+          "ID": 432871,
+          "Title": "Muna (toiduaine)"
+        },
+        {
+          "ID": 437142,
+          "Title": "2017. aasta Eurovisiooni lauluvõistlus"
+        },
+        {
+          "ID": 450718,
+          "Title": "Suurjalg"
+        },
+        {
+          "ID": 465722,
+          "Title": "2018. aasta Eurovisiooni lauluvõistlus"
+        },
+        {
+          "ID": 478949,
+          "Title": "Morss"
+        },
+        {
+          "ID": 508915,
+          "Title": "Gelato"
+        }
+      ]
+    },
+    {
+      "ID": 2147483638,
+      "Title": "Geography and places",
+      "Categories": [
+        {
+          "ID": 9910,
+          "Title": "Kategooria:Geograafia"
+        },
+        {
+          "ID": 14160,
+          "Title": "Kategooria:Geomorfoloogia"
+        },
+        {
+          "ID": 41809,
+          "Title": "Kategooria:Geograafia loendid"
+        },
+        {
+          "ID": 93928,
+          "Title": "Kategooria:Mälestusmärgid"
+        },
+        {
+          "ID": 282666,
+          "Title": "Kategooria:Regionaalpoliitika"
+        }
+      ],
+      "Articles": [
+        {
+          "ID": 12,
+          "Title": "Austraalia"
+        },
+        {
+          "ID": 928,
+          "Title": "Pariis"
+        },
+        {
+          "ID": 4173,
+          "Title": "Myanmar"
+        },
+        {
+          "ID": 5599,
+          "Title": "Queensland"
+        },
+        {
+          "ID": 5679,
+          "Title": "Veneetsia"
+        },
+        {
+          "ID": 23302,
+          "Title": "Inimene"
+        },
+        {
+          "ID": 266095,
+          "Title": "Püramiid"
+        },
+        {
+          "ID": 458449,
+          "Title": "Canberra"
+        }
+      ]
+    },
+    {
+      "ID": 2147483639,
+      "Title": "Health and fitness",
+      "Categories": [
+        {
+          "ID": 14797,
+          "Title": "Kategooria:Meditsiin"
+        },
+        {
+          "ID": 39304,
+          "Title": "Kategooria:Meditsiinilised erialad"
+        },
+        {
+          "ID": 87720,
+          "Title": "Kategooria:Geneetilised haigused"
+        },
+        {
+          "ID": 90818,
+          "Title": "Kategooria:Tervis"
+        },
+        {
+          "ID": 127260,
+          "Title": "Kategooria:Hügieen"
+        },
+        {
+          "ID": 180722,
+          "Title": "Kategooria:Tervishoid"
+        }
+      ]
+    },
+    {
+      "ID": 2147483640,
+      "Title": "History and events",
+      "Categories": [
+        {
+          "ID": 10208,
+          "Title": "Kategooria:Ajalugu"
+        },
+        {
+          "ID": 25193,
+          "Title": "Kategooria:Tähtpäevad"
+        },
+        {
+          "ID": 46308,
+          "Title": "Kategooria:Ajalugu riigiti"
+        },
+        {
+          "ID": 147810,
+          "Title": "Kategooria:Sündmused"
+        },
+        {
+          "ID": 475914,
+          "Title": "Kategooria:Valimised aastati"
+        }
+      ],
+      "Articles": [
+        {
+          "ID": 32123,
+          "Title": "Holokaustirevisionism"
+        },
+        {
+          "ID": 64016,
+          "Title": "11. septembri terrorirünnakud"
+        },
+        {
+          "ID": 158458,
+          "Title": "Trooja sõda"
+        },
+        {
+          "ID": 213552,
+          "Title": "2010. aasta Mehhiko lahe naftareostus"
+        },
+        {
+          "ID": 241080,
+          "Title": "2011. aasta Sendai maavärin"
+        },
+        {
+          "ID": 266887,
+          "Title": "2012. aasta Ameerika Ühendriikide presidendivalimised"
+        },
+        {
+          "ID": 293562,
+          "Title": "2012. aasta Aurora kinotulistamine"
+        },
+        {
+          "ID": 432069,
+          "Title": "Donald Trump"
+        }
+      ]
+    },
+    {
+      "ID": 2147483641,
+      "Title": "Mathematics and logic",
+      "Categories": [
+        {
+          "ID": 11686,
+          "Title": "Kategooria:Matemaatika"
+        },
+        {
+          "ID": 15987,
+          "Title": "Kategooria:Statistika"
+        },
+        {
+          "ID": 16003,
+          "Title": "Kategooria:Loogika"
+        },
+        {
+          "ID": 144180,
+          "Title": "Kategooria:Rakendusmatemaatika"
+        }
+      ],
+      "Articles": [
+        {
+          "ID": 68199,
+          "Title": "Pikkus"
+        }
+      ]
+    },
+    {
+      "ID": 2147483642,
+      "Title": "Nature and physical sciences",
+      "Categories": [
+        {
+          "ID": 11550,
+          "Title": "Kategooria:Füüsika"
+        },
+        {
+          "ID": 12790,
+          "Title": "Kategooria:Keemia"
+        },
+        {
+          "ID": 13991,
+          "Title": "Kategooria:Keemilised ained"
+        },
+        {
+          "ID": 14370,
+          "Title": "Kategooria:Teadused"
+        },
+        {
+          "ID": 16211,
+          "Title": "Kategooria:Loodusteadused"
+        },
+        {
+          "ID": 19441,
+          "Title": "Kategooria:Zooloogia"
+        },
+        {
+          "ID": 33085,
+          "Title": "Kategooria:Teadus"
+        },
+        {
+          "ID": 167967,
+          "Title": "Kategooria:Loodus"
+        },
+        {
+          "ID": 513294,
+          "Title": "Kategooria:Katastroofid"
+        }
+      ],
+      "Articles": [
+        {
+          "ID": 1087,
+          "Title": "Suspensioon"
+        },
+        {
+          "ID": 12594,
+          "Title": "Hüdroloogia"
+        },
+        {
+          "ID": 24055,
+          "Title": "Suguti"
+        },
+        {
+          "ID": 31640,
+          "Title": "Tomat"
+        },
+        {
+          "ID": 54929,
+          "Title": "Mais"
+        },
+        {
+          "ID": 69376,
+          "Title": "Apelsinipuu"
+        },
+        {
+          "ID": 69537,
+          "Title": "Apelsin"
+        },
+        {
+          "ID": 70449,
+          "Title": "Harilik sidrunipuu"
+        },
+        {
+          "ID": 70653,
+          "Title": "Põder"
+        },
+        {
+          "ID": 73727,
+          "Title": "Kusi"
+        },
+        {
+          "ID": 86016,
+          "Title": "Nisu"
+        },
+        {
+          "ID": 87910,
+          "Title": "Toitumisahel"
+        },
+        {
+          "ID": 94065,
+          "Title": "Huntämbliklased"
+        },
+        {
+          "ID": 97431,
+          "Title": "Metsmaasikas"
+        },
+        {
+          "ID": 101184,
+          "Title": "Maasikas"
+        },
+        {
+          "ID": 104717,
+          "Title": "Lihas"
+        },
+        {
+          "ID": 113631,
+          "Title": "Kaamel"
+        },
+        {
+          "ID": 116842,
+          "Title": "Veeringe"
+        },
+        {
+          "ID": 124111,
+          "Title": "Flamingo (perekond)"
+        },
+        {
+          "ID": 126246,
+          "Title": "Makrell"
+        },
+        {
+          "ID": 146018,
+          "Title": "Datlipalm (perekond)"
+        },
+        {
+          "ID": 176550,
+          "Title": "Riis"
+        },
+        {
+          "ID": 204321,
+          "Title": "Engelmanni kuusk"
+        },
+        {
+          "ID": 209308,
+          "Title": "Kombits"
+        },
+        {
+          "ID": 211810,
+          "Title": "Anakonda"
+        },
+        {
+          "ID": 213428,
+          "Title": "Melon"
+        },
+        {
+          "ID": 232975,
+          "Title": "Lillkapsas"
+        },
+        {
+          "ID": 233677,
+          "Title": "Idanemine"
+        },
+        {
+          "ID": 236151,
+          "Title": "Aedmaasikas"
+        },
+        {
+          "ID": 242227,
+          "Title": "Mango"
+        },
+        {
+          "ID": 242596,
+          "Title": "Rand-orashein"
+        },
+        {
+          "ID": 242875,
+          "Title": "Tuli"
+        },
+        {
+          "ID": 244777,
+          "Title": "Harilik nisu"
+        },
+        {
+          "ID": 253596,
+          "Title": "Pähik"
+        },
+        {
+          "ID": 254246,
+          "Title": "Toiduvõrgustik"
+        },
+        {
+          "ID": 257675,
+          "Title": "Suguelundid"
+        },
+        {
+          "ID": 280171,
+          "Title": "Mehhiko füüsal"
+        },
+        {
+          "ID": 304012,
+          "Title": "India mangopuu"
+        },
+        {
+          "ID": 322636,
+          "Title": "Munandid"
+        },
+        {
+          "ID": 342997,
+          "Title": "Hiidanakonda"
+        },
+        {
+          "ID": 354278,
+          "Title": "Aganad"
+        },
+        {
+          "ID": 376830,
+          "Title": "Ananass"
+        },
+        {
+          "ID": 377041,
+          "Title": "Motoorsed neuronid"
+        },
+        {
+          "ID": 408640,
+          "Title": "Harilik mürt"
+        },
+        {
+          "ID": 410297,
+          "Title": "Masturbeerimine"
+        },
+        {
+          "ID": 501361,
+          "Title": "Kirsstomat"
+        },
+        {
+          "ID": 536166,
+          "Title": "Laim (vili)"
+        }
+      ]
+    },
+    {
+      "ID": 2147483643,
+      "Title": "People and self",
+      "Categories": [
+        {
+          "ID": 9918,
+          "Title": "Kategooria:Inimesed"
+        },
+        {
+          "ID": 138681,
+          "Title": "Kategooria:Perekonnanimed"
+        },
+        {
+          "ID": 158618,
+          "Title": "Kategooria:Olme"
+        },
+        {
+          "ID": 167965,
+          "Title": "Kategooria:Elu"
+        },
+        {
+          "ID": 278445,
+          "Title": "Kategooria:Elulooraamatud"
+        },
+        {
+          "ID": 330673,
+          "Title": "Kategooria:Filmitegelased"
+        },
+        {
+          "ID": 344109,
+          "Title": "Kategooria:Biograafia"
+        },
+        {
+          "ID": 488024,
+          "Title": "Kategooria:Mina"
+        },
+        {
+          "ID": 514972,
+          "Title": "Kategooria:Naised"
+        }
+      ],
+      "Articles": [
+        {
+          "ID": 1059,
+          "Title": "René Descartes"
+        },
+        {
+          "ID": 4764,
+          "Title": "Aquino Thomas"
+        },
+        {
+          "ID": 5502,
+          "Title": "Johannes Kepler"
+        },
+        {
+          "ID": 6120,
+          "Title": "Richard Wagner"
+        },
+        {
+          "ID": 6326,
+          "Title": "Adolf Hitler"
+        },
+        {
+          "ID": 6870,
+          "Title": "Alan Turing"
+        },
+        {
+          "ID": 10927,
+          "Title": "Christoph Kolumbus"
+        },
+        {
+          "ID": 12048,
+          "Title": "Bill Gates"
+        },
+        {
+          "ID": 18887,
+          "Title": "Adam Smith"
+        },
+        {
+          "ID": 20636,
+          "Title": "Lewis Carroll"
+        },
+        {
+          "ID": 20665,
+          "Title": "William Blake"
+        },
+        {
+          "ID": 25225,
+          "Title": "Noam Chomsky"
+        },
+        {
+          "ID": 25999,
+          "Title": "Sigmund Freud"
+        },
+        {
+          "ID": 36202,
+          "Title": "George Harrison"
+        },
+        {
+          "ID": 36644,
+          "Title": "Galileo Galilei"
+        },
+        {
+          "ID": 36797,
+          "Title": "John Lennon"
+        },
+        {
+          "ID": 41194,
+          "Title": "Oliver Cromwell"
+        },
+        {
+          "ID": 71554,
+          "Title": "Elton John"
+        },
+        {
+          "ID": 71931,
+          "Title": "Florence Nightingale"
+        },
+        {
+          "ID": 78100,
+          "Title": "Daniel Radcliffe"
+        },
+        {
+          "ID": 91719,
+          "Title": "Carl Sagan"
+        },
+        {
+          "ID": 99118,
+          "Title": "Richard Dawkins"
+        },
+        {
+          "ID": 134336,
+          "Title": "Leonardo Fibonacci"
+        },
+        {
+          "ID": 153154,
+          "Title": "Videvik (romaan)"
+        },
+        {
+          "ID": 162204,
+          "Title": "Karl Friedrich Abel"
+        },
+        {
+          "ID": 189691,
+          "Title": "Carl Friedrich Gauss"
+        },
+        {
+          "ID": 192320,
+          "Title": "Alexander Fleming"
+        },
+        {
+          "ID": 194179,
+          "Title": "Ayn Rand"
+        },
+        {
+          "ID": 234741,
+          "Title": "Suure Paugu teooria"
+        },
+        {
+          "ID": 251966,
+          "Title": "Anders Behring Breivik"
+        },
+        {
+          "ID": 263790,
+          "Title": "Charles Babbage"
+        },
+        {
+          "ID": 403191,
+          "Title": "Srinivasa Ramanujan"
+        },
+        {
+          "ID": 451233,
+          "Title": "Bob Ross"
+        },
+        {
+          "ID": 459463,
+          "Title": "Joseph Smith"
+        }
+      ]
+    },
+    {
+      "ID": 2147483644,
+      "Title": "Philosophy and thinking",
+      "Categories": [
+        {
+          "ID": 15996,
+          "Title": "Kategooria:Filosoofia"
+        },
+        {
+          "ID": 18977,
+          "Title": "Kategooria:Eetika"
+        },
+        {
+          "ID": 60963,
+          "Title": "Kategooria:Ideoloogiad"
+        }
+      ],
+      "Articles": [
+        {
+          "ID": 1212,
+          "Title": "Uskumus"
+        },
+        {
+          "ID": 6548,
+          "Title": "Usk"
+        },
+        {
+          "ID": 31548,
+          "Title": "Ilu"
+        },
+        {
+          "ID": 75016,
+          "Title": "Fakt"
+        },
+        {
+          "ID": 205008,
+          "Title": "Dunningi-Krugeri efekt"
+        },
+        {
+          "ID": 402754,
+          "Title": "Rõõm"
+        },
+        {
+          "ID": 461288,
+          "Title": "Õnn"
+        },
+        {
+          "ID": 464387,
+          "Title": "Usaldus"
+        }
+      ]
+    },
+    {
+      "ID": 2147483645,
+      "Title": "Religion and belief systems",
+      "Categories": [
+        {
+          "ID": 16007,
+          "Title": "Kategooria:Religioon"
+        }
+      ]
+    },
+    {
+      "ID": 2147483646,
+      "Title": "Society and social sciences",
+      "Categories": [
+        {
+          "ID": 15340,
+          "Title": "Kategooria:Õigusteadus"
+        },
+        {
+          "ID": 16089,
+          "Title": "Kategooria:Humanitaarteadused"
+        },
+        {
+          "ID": 16210,
+          "Title": "Kategooria:Sotsiaalteadused"
+        },
+        {
+          "ID": 16363,
+          "Title": "Kategooria:Ühiskond"
+        },
+        {
+          "ID": 20876,
+          "Title": "Kategooria:Rahvusvahelised organisatsioonid"
+        },
+        {
+          "ID": 39201,
+          "Title": "Kategooria:Feminism"
+        }
+      ],
+      "Articles": [
+        {
+          "ID": 168,
+          "Title": "Barbados"
+        },
+        {
+          "ID": 329,
+          "Title": "Euroopa Liit"
+        },
+        {
+          "ID": 1144,
+          "Title": "Tartu Ülikool"
+        },
+        {
+          "ID": 2827,
+          "Title": "Iraan"
+        },
+        {
+          "ID": 2884,
+          "Title": "Tšiili"
+        },
+        {
+          "ID": 3318,
+          "Title": "Austraalia lipp"
+        },
+        {
+          "ID": 10141,
+          "Title": "Leipzigi Ülikool"
+        },
+        {
+          "ID": 21482,
+          "Title": "The New York Times"
+        },
+        {
+          "ID": 62871,
+          "Title": "Bonni ülikool"
+        },
+        {
+          "ID": 63470,
+          "Title": "Suveaeg"
+        },
+        {
+          "ID": 65393,
+          "Title": "Cambridge'i Ülikool"
+        },
+        {
+          "ID": 92977,
+          "Title": "Oxfordi Ülikool"
+        },
+        {
+          "ID": 115223,
+          "Title": "Uppsala Ülikool"
+        },
+        {
+          "ID": 119967,
+          "Title": "Starbucks"
+        },
+        {
+          "ID": 126335,
+          "Title": "Peterburi Riiklik Ülikool"
+        },
+        {
+          "ID": 127059,
+          "Title": "Massachusettsi Tehnoloogiainstituut"
+        },
+        {
+          "ID": 136069,
+          "Title": "BP"
+        },
+        {
+          "ID": 138212,
+          "Title": "Bologna ülikool"
+        },
+        {
+          "ID": 138215,
+          "Title": "Ferrara ülikool"
+        },
+        {
+          "ID": 147472,
+          "Title": "Princetoni Ülikool"
+        },
+        {
+          "ID": 147577,
+          "Title": "Harvardi ülikool"
+        },
+        {
+          "ID": 149209,
+          "Title": "Australian National University"
+        },
+        {
+          "ID": 149265,
+          "Title": "Bostoni Ülikool"
+        },
+        {
+          "ID": 149759,
+          "Title": "Indiana Ülikool"
+        },
+        {
+          "ID": 150189,
+          "Title": "Londoni Ülikool"
+        },
+        {
+          "ID": 152500,
+          "Title": "Moskva Riiklik Ülikool"
+        },
+        {
+          "ID": 170014,
+          "Title": "Umeå Ülikool"
+        },
+        {
+          "ID": 180154,
+          "Title": "Fox News Channel"
+        },
+        {
+          "ID": 193496,
+          "Title": "Pariisi Ülikool"
+        },
+        {
+          "ID": 200394,
+          "Title": "Sotsiaaltöö"
+        },
+        {
+          "ID": 213268,
+          "Title": "Nottinghami Ülikool"
+        },
+        {
+          "ID": 220955,
+          "Title": "Münsteri ülikool"
+        },
+        {
+          "ID": 223155,
+          "Title": "Pennsylvania Ülikool"
+        },
+        {
+          "ID": 230362,
+          "Title": "Chicago Ülikool"
+        },
+        {
+          "ID": 237396,
+          "Title": "Aberdeeni Ülikool"
+        },
+        {
+          "ID": 244798,
+          "Title": "Boğaziçi Ülikool"
+        },
+        {
+          "ID": 250754,
+          "Title": "Göttingeni ülikool"
+        },
+        {
+          "ID": 250768,
+          "Title": "Columbia ülikool"
+        },
+        {
+          "ID": 250793,
+          "Title": "Readingi Ülikool"
+        },
+        {
+          "ID": 255373,
+          "Title": "Minnesota Ülikool"
+        },
+        {
+          "ID": 256837,
+          "Title": "East Anglia Ülikool"
+        },
+        {
+          "ID": 257028,
+          "Title": "Londoni Linnaülikool"
+        },
+        {
+          "ID": 263185,
+          "Title": "Nanjingi Ülikool"
+        },
+        {
+          "ID": 272208,
+          "Title": "Tōkyō Ülikool"
+        },
+        {
+          "ID": 277328,
+          "Title": "Michigani Ülikool"
+        },
+        {
+          "ID": 279516,
+          "Title": "Imperial College London"
+        },
+        {
+          "ID": 281230,
+          "Title": "Delaware'i ülikool"
+        },
+        {
+          "ID": 283089,
+          "Title": "Stanfordi ülikool"
+        },
+        {
+          "ID": 284720,
+          "Title": "Viini Ülikool"
+        },
+        {
+          "ID": 289681,
+          "Title": "Manchesteri Ülikool"
+        },
+        {
+          "ID": 289722,
+          "Title": "Napoli ülikool"
+        },
+        {
+          "ID": 289732,
+          "Title": "Indiana Ülikool (Bloomington)"
+        },
+        {
+          "ID": 300814,
+          "Title": "Oregoni Ülikool"
+        },
+        {
+          "ID": 312801,
+          "Title": "Bristoli Ülikool"
+        },
+        {
+          "ID": 314022,
+          "Title": "Freiburgi Ülikool"
+        },
+        {
+          "ID": 327618,
+          "Title": "Tübingeni ülikool"
+        },
+        {
+          "ID": 329262,
+          "Title": "Stockholmi Ülikool"
+        },
+        {
+          "ID": 356131,
+          "Title": "Miami Ülikool (Ohio)"
+        },
+        {
+          "ID": 361142,
+          "Title": "Sheffieldi Ülikool"
+        },
+        {
+          "ID": 361149,
+          "Title": "Washingtoni Ülikool"
+        },
+        {
+          "ID": 385615,
+          "Title": "Göteborgi Ülikool"
+        },
+        {
+          "ID": 400130,
+          "Title": "Würzburgi ülikool"
+        },
+        {
+          "ID": 406700,
+          "Title": "Glasgow' Ülikool"
+        },
+        {
+          "ID": 407563,
+          "Title": "ÜRO Keskkonnaprogramm"
+        },
+        {
+          "ID": 426424,
+          "Title": "Wrocławi Ülikool"
+        },
+        {
+          "ID": 426444,
+          "Title": "Berni Ülikool"
+        },
+        {
+          "ID": 427641,
+          "Title": "Sydney Ülikool"
+        },
+        {
+          "ID": 447544,
+          "Title": "Birminghami Ülikool"
+        },
+        {
+          "ID": 454632,
+          "Title": "Arizona Ülikool"
+        },
+        {
+          "ID": 454633,
+          "Title": "Aucklandi Ülikool"
+        },
+        {
+          "ID": 455152,
+          "Title": "Waterloo Ülikool"
+        },
+        {
+          "ID": 455155,
+          "Title": "Warwicki Ülikool"
+        },
+        {
+          "ID": 455670,
+          "Title": "Linköpingi Ülikool"
+        },
+        {
+          "ID": 455897,
+          "Title": "Odessa Ülikool"
+        },
+        {
+          "ID": 455949,
+          "Title": "Marylandi Ülikool"
+        },
+        {
+          "ID": 455957,
+          "Title": "Lõuna-California Ülikool"
+        },
+        {
+          "ID": 455965,
+          "Title": "Lääne-Ontario Ülikool"
+        },
+        {
+          "ID": 456547,
+          "Title": "Queen's University"
+        },
+        {
+          "ID": 460668,
+          "Title": "American Airlines"
+        },
+        {
+          "ID": 461616,
+          "Title": "Lvivi ülikool"
+        },
+        {
+          "ID": 471176,
+          "Title": "Sussexi Ülikool"
+        },
+        {
+          "ID": 473372,
+          "Title": "Bathi Ülikool"
+        },
+        {
+          "ID": 478301,
+          "Title": "Ōsaka Ülikool"
+        },
+        {
+          "ID": 487559,
+          "Title": "Rice'i ülikool"
+        },
+        {
+          "ID": 504742,
+          "Title": "Pizza Hut"
+        },
+        {
+          "ID": 505474,
+          "Title": "Taco Bell"
+        },
+        {
+          "ID": 516845,
+          "Title": "Kuiv seadus"
+        },
+        {
+          "ID": 536086,
+          "Title": "Linné Ülikool"
+        }
+      ]
+    },
+    {
+      "ID": 2147483647,
+      "Title": "Technology and applied sciences",
+      "Categories": [
+        {
+          "ID": 16365,
+          "Title": "Kategooria:Informaatika"
+        },
+        {
+          "ID": 18072,
+          "Title": "Kategooria:Elektroonika"
+        },
+        {
+          "ID": 21158,
+          "Title": "Kategooria:Transport"
+        },
+        {
+          "ID": 23150,
+          "Title": "Kategooria:Tehnika"
+        },
+        {
+          "ID": 23749,
+          "Title": "Kategooria:Internet"
+        },
+        {
+          "ID": 64862,
+          "Title": "Kategooria:Sõjatehnika"
+        },
+        {
+          "ID": 135489,
+          "Title": "Kategooria:Disain"
+        },
+        {
+          "ID": 144174,
+          "Title": "Kategooria:Rakendusteadused"
+        },
+        {
+          "ID": 216962,
+          "Title": "Kategooria:Andmebaasid"
+        },
+        {
+          "ID": 277461,
+          "Title": "Kategooria:Arvutid"
+        },
+        {
+          "ID": 497545,
+          "Title": "Kategooria:Inseneeria"
+        },
+        {
+          "ID": 497546,
+          "Title": "Kategooria:Tehnoloogia"
+        }
+      ],
+      "Articles": [
+        {
+          "ID": 6921,
+          "Title": "Tippdomeen"
+        },
+        {
+          "ID": 27548,
+          "Title": "Närimiskumm"
+        },
+        {
+          "ID": 59915,
+          "Title": "Keevitamine"
+        },
+        {
+          "ID": 204265,
+          "Title": "Pepsi"
+        },
+        {
+          "ID": 303734,
+          "Title": "Teostatavusuuring"
+        },
+        {
+          "ID": 366188,
+          "Title": "Sein"
+        }
+      ]
+    }
+  ],
+  "Filters": [
+    {
+      "ID": 12809,
+      "Title": "Kategooria:Täpsustusleheküljed"
+    },
+    {
+      "ID": 126440,
+      "Title": "Kategooria:Peidetud kategooriad"
+    }
+  ]
+}

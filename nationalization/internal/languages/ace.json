@@ -1,0 +1,133 @@
+{
+  "Language": "ace",
+  "Topics": [
+    {
+      "ID": 2147483637,
+      "Title": "Culture and the arts",
+      "Articles": [
+        {
+          "ID": 205,
+          "Title": "Wikipèdia"
+        },
+        {
+          "ID": 2613,
+          "Title": "Bui"
+        }
+      ]
+    },
+    {
+      "ID": 2147483638,
+      "Title": "Geography and places",
+      "Articles": [
+        {
+          "ID": 134,
+          "Title": "Myanmar"
+        },
+        {
+          "ID": 547,
+          "Title": "Australia"
+        },
+        {
+          "ID": 1028,
+          "Title": "Queensland"
+        },
+        {
+          "ID": 1264,
+          "Title": "Paris"
+        },
+        {
+          "ID": 1284,
+          "Title": "Canberra"
+        },
+        {
+          "ID": 2571,
+          "Title": "Tokoh"
+        }
+      ]
+    },
+    {
+      "ID": 2147483639,
+      "Title": "Health and fitness"
+    },
+    {
+      "ID": 2147483640,
+      "Title": "History and events",
+      "Articles": [
+        {
+          "ID": 10633,
+          "Title": "Donald Trump"
+        }
+      ]
+    },
+    {
+      "ID": 2147483641,
+      "Title": "Mathematics and logic"
+    },
+    {
+      "ID": 2147483642,
+      "Title": "Nature and physical sciences",
+      "Articles": [
+        {
+          "ID": 2449,
+          "Title": "Mamplam"
+        },
+        {
+          "ID": 2457,
+          "Title": "Truëng kléng"
+        },
+        {
+          "ID": 9592,
+          "Title": "Jeunara"
+        }
+      ]
+    },
+    {
+      "ID": 2147483643,
+      "Title": "People and self",
+      "Categories": [
+        {
+          "ID": 4580,
+          "Title": "Kawan:Ureuëng inong"
+        }
+      ]
+    },
+    {
+      "ID": 2147483644,
+      "Title": "Philosophy and thinking"
+    },
+    {
+      "ID": 2147483645,
+      "Title": "Religion and belief systems",
+      "Categories": [
+        {
+          "ID": 280,
+          "Title": "Kawan:Agama"
+        }
+      ]
+    },
+    {
+      "ID": 2147483646,
+      "Title": "Society and social sciences",
+      "Articles": [
+        {
+          "ID": 418,
+          "Title": "Chili"
+        },
+        {
+          "ID": 2241,
+          "Title": "Iran"
+        }
+      ]
+    },
+    {
+      "ID": 2147483647,
+      "Title": "Technology and applied sciences",
+      "Categories": [
+        {
+          "ID": 4028,
+          "Title": "Kawan:Komputer"
+        }
+      ]
+    }
+  ]
+}

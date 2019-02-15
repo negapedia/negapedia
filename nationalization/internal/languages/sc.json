@@ -1,0 +1,377 @@
+{
+  "Language": "sc",
+  "Topics": [
+    {
+      "ID": 2147483637,
+      "Title": "Culture and the arts",
+      "Categories": [
+        {
+          "ID": 5904,
+          "Title": "Categoria:Artes"
+        },
+        {
+          "ID": 6057,
+          "Title": "Categoria:Coghina"
+        },
+        {
+          "ID": 6162,
+          "Title": "Categoria:Isport"
+        },
+        {
+          "ID": 6759,
+          "Title": "Categoria:Film"
+        },
+        {
+          "ID": 7378,
+          "Title": "Categoria:Cultura"
+        },
+        {
+          "ID": 11890,
+          "Title": "Categoria:Alimentos"
+        },
+        {
+          "ID": 11891,
+          "Title": "Categoria:Alimèntatzione"
+        }
+      ],
+      "Articles": [
+        {
+          "ID": 1029,
+          "Title": "Porcu"
+        },
+        {
+          "ID": 1167,
+          "Title": "Wikipedia"
+        },
+        {
+          "ID": 1673,
+          "Title": "Enciclopedia"
+        },
+        {
+          "ID": 5272,
+          "Title": "Sirbone"
+        },
+        {
+          "ID": 9452,
+          "Title": "Sgt.Pepper's Lonely Hearts Club Band"
+        },
+        {
+          "ID": 10532,
+          "Title": "Pitza"
+        },
+        {
+          "ID": 11699,
+          "Title": "Pane pùrile"
+        },
+        {
+          "ID": 13905,
+          "Title": "Yūrei"
+        },
+        {
+          "ID": 13907,
+          "Title": "Pantasima"
+        },
+        {
+          "ID": 14015,
+          "Title": "Birra"
+        },
+        {
+          "ID": 17514,
+          "Title": "Caffè"
+        }
+      ]
+    },
+    {
+      "ID": 2147483638,
+      "Title": "Geography and places",
+      "Categories": [
+        {
+          "ID": 2735,
+          "Title": "Categoria:Geografia"
+        }
+      ],
+      "Articles": [
+        {
+          "ID": 2237,
+          "Title": "Parigi"
+        },
+        {
+          "ID": 5885,
+          "Title": "Venetzia"
+        },
+        {
+          "ID": 9237,
+          "Title": "Myanmar"
+        },
+        {
+          "ID": 11925,
+          "Title": "Australia"
+        }
+      ]
+    },
+    {
+      "ID": 2147483639,
+      "Title": "Health and fitness",
+      "Categories": [
+        {
+          "ID": 12469,
+          "Title": "Categoria:Saludu"
+        },
+        {
+          "ID": 13259,
+          "Title": "Categoria:Meighina"
+        }
+      ]
+    },
+    {
+      "ID": 2147483640,
+      "Title": "History and events",
+      "Categories": [
+        {
+          "ID": 6998,
+          "Title": "Categoria:Istòria"
+        }
+      ],
+      "Articles": [
+        {
+          "ID": 16516,
+          "Title": "Bocidròxiu de Harambe"
+        },
+        {
+          "ID": 17503,
+          "Title": "Donald Trump"
+        }
+      ]
+    },
+    {
+      "ID": 2147483641,
+      "Title": "Mathematics and logic",
+      "Categories": [
+        {
+          "ID": 6492,
+          "Title": "Categoria:Matemàtica"
+        },
+        {
+          "ID": 9968,
+          "Title": "Categoria:Istatistica"
+        }
+      ]
+    },
+    {
+      "ID": 2147483642,
+      "Title": "Nature and physical sciences",
+      "Categories": [
+        {
+          "ID": 2978,
+          "Title": "Categoria:Sièntzias"
+        },
+        {
+          "ID": 2980,
+          "Title": "Categoria:Chìmica"
+        },
+        {
+          "ID": 3093,
+          "Title": "Categoria:Fìsica"
+        }
+      ],
+      "Articles": [
+        {
+          "ID": 4077,
+          "Title": "Masturbatzione"
+        },
+        {
+          "ID": 4210,
+          "Title": "Trigu"
+        },
+        {
+          "ID": 5278,
+          "Title": "Murta"
+        },
+        {
+          "ID": 5561,
+          "Title": "Mangoni"
+        },
+        {
+          "ID": 6037,
+          "Title": "Limone"
+        },
+        {
+          "ID": 6334,
+          "Title": "Fràgula"
+        },
+        {
+          "ID": 6386,
+          "Title": "Melone"
+        },
+        {
+          "ID": 6388,
+          "Title": "Trigumoriscu"
+        },
+        {
+          "ID": 11137,
+          "Title": "Tamata"
+        }
+      ]
+    },
+    {
+      "ID": 2147483643,
+      "Title": "People and self",
+      "Categories": [
+        {
+          "ID": 2991,
+          "Title": "Categoria:Biografias"
+        },
+        {
+          "ID": 7358,
+          "Title": "Categoria:Persones"
+        }
+      ],
+      "Articles": [
+        {
+          "ID": 2950,
+          "Title": "Tommaso d'Aquino"
+        },
+        {
+          "ID": 3657,
+          "Title": "Sigmund Freud"
+        },
+        {
+          "ID": 7216,
+          "Title": "Noam Chomsky"
+        },
+        {
+          "ID": 7752,
+          "Title": "John Lennon"
+        },
+        {
+          "ID": 7924,
+          "Title": "Galileo Galilei"
+        },
+        {
+          "ID": 8232,
+          "Title": "George Harrison"
+        },
+        {
+          "ID": 8290,
+          "Title": "William Blake"
+        },
+        {
+          "ID": 8413,
+          "Title": "Richard Wagner"
+        },
+        {
+          "ID": 11056,
+          "Title": "Cristoforo Colombo"
+        },
+        {
+          "ID": 11477,
+          "Title": "Florence Nightingale"
+        },
+        {
+          "ID": 11942,
+          "Title": "Bill Gates"
+        },
+        {
+          "ID": 17721,
+          "Title": "Adolf Hitler"
+        },
+        {
+          "ID": 17989,
+          "Title": "Johannes Kepler"
+        }
+      ]
+    },
+    {
+      "ID": 2147483644,
+      "Title": "Philosophy and thinking",
+      "Categories": [
+        {
+          "ID": 3260,
+          "Title": "Categoria:Filosofia"
+        }
+      ]
+    },
+    {
+      "ID": 2147483645,
+      "Title": "Religion and belief systems",
+      "Categories": [
+        {
+          "ID": 5427,
+          "Title": "Categoria:Religione"
+        }
+      ]
+    },
+    {
+      "ID": 2147483646,
+      "Title": "Society and social sciences",
+      "Categories": [
+        {
+          "ID": 2979,
+          "Title": "Categoria:Sièntzias sotziales"
+        },
+        {
+          "ID": 7357,
+          "Title": "Categoria:Sotziedade"
+        },
+        {
+          "ID": 12212,
+          "Title": "Categoria:Deretu"
+        }
+      ],
+      "Articles": [
+        {
+          "ID": 5177,
+          "Title": "Cile"
+        },
+        {
+          "ID": 5910,
+          "Title": "Universidade de Oxford"
+        },
+        {
+          "ID": 7009,
+          "Title": "Iran"
+        },
+        {
+          "ID": 7666,
+          "Title": "Universidade de Stanford"
+        },
+        {
+          "ID": 10310,
+          "Title": "Unione Europea"
+        },
+        {
+          "ID": 12298,
+          "Title": "Universidade de Umeå"
+        }
+      ]
+    },
+    {
+      "ID": 2147483647,
+      "Title": "Technology and applied sciences",
+      "Categories": [
+        {
+          "ID": 5577,
+          "Title": "Categoria:Informàtica"
+        },
+        {
+          "ID": 8040,
+          "Title": "Categoria:Internet"
+        },
+        {
+          "ID": 12238,
+          "Title": "Categoria:Tecnologia"
+        },
+        {
+          "ID": 17686,
+          "Title": "Categoria:Ingenieria"
+        }
+      ]
+    }
+  ],
+  "Filters": [
+    {
+      "ID": 7282,
+      "Title": "Categoria:Pàginas disambìguas"
+    }
+  ]
+}

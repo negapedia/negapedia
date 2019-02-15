@@ -1,0 +1,231 @@
+{
+  "Language": "bcl",
+  "Topics": [
+    {
+      "ID": 2147483637,
+      "Title": "Culture and the arts",
+      "Categories": [
+        {
+          "ID": 145,
+          "Title": "Kategorya:Kultura"
+        },
+        {
+          "ID": 176,
+          "Title": "Kategorya:Arte"
+        }
+      ],
+      "Articles": [
+        {
+          "ID": 9433,
+          "Title": "Wikipidya"
+        },
+        {
+          "ID": 10856,
+          "Title": "Kakaw"
+        },
+        {
+          "ID": 11414,
+          "Title": "Kape"
+        },
+        {
+          "ID": 12888,
+          "Title": "Serbesa"
+        },
+        {
+          "ID": 14010,
+          "Title": "Sugok"
+        },
+        {
+          "ID": 14693,
+          "Title": "Sinanlag na maluto"
+        },
+        {
+          "ID": 16107,
+          "Title": "Kue"
+        },
+        {
+          "ID": 17288,
+          "Title": "Orig"
+        }
+      ]
+    },
+    {
+      "ID": 2147483638,
+      "Title": "Geography and places",
+      "Categories": [
+        {
+          "ID": 25,
+          "Title": "Kategorya:Heograpiya"
+        }
+      ],
+      "Articles": [
+        {
+          "ID": 19,
+          "Title": "Paris"
+        },
+        {
+          "ID": 4367,
+          "Title": "Australya"
+        },
+        {
+          "ID": 4538,
+          "Title": "Myanmar"
+        },
+        {
+          "ID": 10088,
+          "Title": "Venice"
+        },
+        {
+          "ID": 13184,
+          "Title": "Tao"
+        }
+      ]
+    },
+    {
+      "ID": 2147483639,
+      "Title": "Health and fitness"
+    },
+    {
+      "ID": 2147483640,
+      "Title": "History and events",
+      "Articles": [
+        {
+          "ID": 8963,
+          "Title": "Donald Trump"
+        },
+        {
+          "ID": 17274,
+          "Title": "Linog asin Dolnop sa Tōhoku (2011)"
+        }
+      ]
+    },
+    {
+      "ID": 2147483641,
+      "Title": "Mathematics and logic",
+      "Categories": [
+        {
+          "ID": 1908,
+          "Title": "Kategorya:Matematika"
+        }
+      ]
+    },
+    {
+      "ID": 2147483642,
+      "Title": "Nature and physical sciences",
+      "Articles": [
+        {
+          "ID": 1773,
+          "Title": "Paroy"
+        },
+        {
+          "ID": 2303,
+          "Title": "Kamatis"
+        },
+        {
+          "ID": 7794,
+          "Title": "Putoy"
+        },
+        {
+          "ID": 8111,
+          "Title": "Kamelyo"
+        },
+        {
+          "ID": 10845,
+          "Title": "Indian mango"
+        },
+        {
+          "ID": 11491,
+          "Title": "Mangga"
+        },
+        {
+          "ID": 12583,
+          "Title": "Mais"
+        },
+        {
+          "ID": 12711,
+          "Title": "Strawberry"
+        },
+        {
+          "ID": 12716,
+          "Title": "Pinya"
+        }
+      ]
+    },
+    {
+      "ID": 2147483643,
+      "Title": "People and self",
+      "Articles": [
+        {
+          "ID": 169,
+          "Title": "Galileo Galilei"
+        },
+        {
+          "ID": 2285,
+          "Title": "Adolf Hitler"
+        },
+        {
+          "ID": 5671,
+          "Title": "Joseph Smith, Jr."
+        },
+        {
+          "ID": 9164,
+          "Title": "Sigmund Freud"
+        },
+        {
+          "ID": 14065,
+          "Title": "Bill Gates"
+        },
+        {
+          "ID": 14601,
+          "Title": "Alan Turing"
+        },
+        {
+          "ID": 14826,
+          "Title": "Carl Sagan"
+        },
+        {
+          "ID": 18431,
+          "Title": "Ayn Rand"
+        }
+      ]
+    },
+    {
+      "ID": 2147483644,
+      "Title": "Philosophy and thinking"
+    },
+    {
+      "ID": 2147483645,
+      "Title": "Religion and belief systems"
+    },
+    {
+      "ID": 2147483646,
+      "Title": "Society and social sciences",
+      "Articles": [
+        {
+          "ID": 4378,
+          "Title": "Barbados"
+        },
+        {
+          "ID": 4403,
+          "Title": "Tsile"
+        },
+        {
+          "ID": 4470,
+          "Title": "Iran"
+        },
+        {
+          "ID": 6672,
+          "Title": "Adamson na Unibersidad"
+        },
+        {
+          "ID": 13150,
+          "Title": "Union Europea"
+        }
+      ]
+    },
+    {
+      "ID": 2147483647,
+      "Title": "Technology and applied sciences"
+    }
+  ]
+}

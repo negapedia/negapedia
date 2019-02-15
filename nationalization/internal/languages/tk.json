@@ -1,0 +1,359 @@
+{
+  "Language": "tk",
+  "Topics": [
+    {
+      "ID": 2147483637,
+      "Title": "Culture and the arts",
+      "Categories": [
+        {
+          "ID": 2221,
+          "Title": "Kategoriýa:Sport"
+        },
+        {
+          "ID": 3029,
+          "Title": "Kategoriýa:Sungat"
+        },
+        {
+          "ID": 5746,
+          "Title": "Kategoriýa:Medeniýet"
+        },
+        {
+          "ID": 13936,
+          "Title": "Kategoriýa:Iýmitleniş"
+        },
+        {
+          "ID": 13938,
+          "Title": "Kategoriýa:Azyk önümleri"
+        },
+        {
+          "ID": 13940,
+          "Title": "Kategoriýa:Gastronomiýa"
+        },
+        {
+          "ID": 13953,
+          "Title": "Kategoriýa:Reňk"
+        }
+      ],
+      "Articles": [
+        {
+          "ID": 2795,
+          "Title": "Wikipediýa"
+        },
+        {
+          "ID": 13639,
+          "Title": "Ýekegapan"
+        },
+        {
+          "ID": 13929,
+          "Title": "Şokolad"
+        }
+      ]
+    },
+    {
+      "ID": 2147483638,
+      "Title": "Geography and places",
+      "Categories": [
+        {
+          "ID": 2938,
+          "Title": "Kategoriýa:Geografiýa"
+        },
+        {
+          "ID": 13909,
+          "Title": "Kategoriýa:Geomorfologiýa"
+        }
+      ],
+      "Articles": [
+        {
+          "ID": 2111,
+          "Title": "Mýanmar"
+        },
+        {
+          "ID": 9494,
+          "Title": "Pariž"
+        },
+        {
+          "ID": 9546,
+          "Title": "Awstraliýa"
+        },
+        {
+          "ID": 12467,
+          "Title": "Pi­ra­mi­da­ (binagärlik)"
+        }
+      ]
+    },
+    {
+      "ID": 2147483639,
+      "Title": "Health and fitness",
+      "Categories": [
+        {
+          "ID": 2936,
+          "Title": "Kategoriýa:Saglyk"
+        }
+      ]
+    },
+    {
+      "ID": 2147483640,
+      "Title": "History and events",
+      "Categories": [
+        {
+          "ID": 2947,
+          "Title": "Kategoriýa:Taryh"
+        },
+        {
+          "ID": 9730,
+          "Title": "Kategoriýa:Ýurtlar boýunça taryh"
+        },
+        {
+          "ID": 10088,
+          "Title": "Kategoriýa:Wakalar"
+        }
+      ],
+      "Articles": [
+        {
+          "ID": 15772,
+          "Title": "Donald Tramp"
+        }
+      ]
+    },
+    {
+      "ID": 2147483641,
+      "Title": "Mathematics and logic",
+      "Categories": [
+        {
+          "ID": 2774,
+          "Title": "Kategoriýa:Matematika"
+        },
+        {
+          "ID": 9923,
+          "Title": "Kategoriýa:Matematikanyň bölümleri"
+        }
+      ]
+    },
+    {
+      "ID": 2147483642,
+      "Title": "Nature and physical sciences",
+      "Categories": [
+        {
+          "ID": 2734,
+          "Title": "Kategoriýa:Tebigat"
+        },
+        {
+          "ID": 2753,
+          "Title": "Kategoriýa:Fizika"
+        },
+        {
+          "ID": 2779,
+          "Title": "Kategoriýa:Himiýa"
+        },
+        {
+          "ID": 6219,
+          "Title": "Kategoriýa:Ylym"
+        },
+        {
+          "ID": 6384,
+          "Title": "Kategoriýa:Fiziki ylymlar"
+        },
+        {
+          "ID": 10140,
+          "Title": "Kategoriýa:Himiki maddalar"
+        },
+        {
+          "ID": 10935,
+          "Title": "Kategoriýa:Zoologiýa"
+        },
+        {
+          "ID": 13757,
+          "Title": "Kategoriýa:Kontinentler boýunça fauna"
+        },
+        {
+          "ID": 13764,
+          "Title": "Kategoriýa:Toparlar boýunça ylymlar"
+        }
+      ],
+      "Articles": [
+        {
+          "ID": 1063,
+          "Title": "Gawun"
+        }
+      ]
+    },
+    {
+      "ID": 2147483643,
+      "Title": "People and self",
+      "Categories": [
+        {
+          "ID": 3028,
+          "Title": "Kategoriýa:Durmuş"
+        },
+        {
+          "ID": 9936,
+          "Title": "Kategoriýa:Adamlar"
+        }
+      ],
+      "Articles": [
+        {
+          "ID": 11622,
+          "Title": "Hristofor Kolumb"
+        },
+        {
+          "ID": 12479,
+          "Title": "Bill Geýts"
+        },
+        {
+          "ID": 12808,
+          "Title": "Karl Fredrih Gauss"
+        },
+        {
+          "ID": 14894,
+          "Title": "Sigmund Freyd"
+        },
+        {
+          "ID": 14895,
+          "Title": "Karl Seýgan"
+        },
+        {
+          "ID": 15822,
+          "Title": "Rene Dekart"
+        }
+      ]
+    },
+    {
+      "ID": 2147483644,
+      "Title": "Philosophy and thinking",
+      "Categories": [
+        {
+          "ID": 13763,
+          "Title": "Kategoriýa:Filosofiýa"
+        },
+        {
+          "ID": 13773,
+          "Title": "Kategoriýa:Filosofiýanyň bölümleri"
+        },
+        {
+          "ID": 13811,
+          "Title": "Kategoriýa:Pikirleniş"
+        }
+      ],
+      "Articles": [
+        {
+          "ID": 3114,
+          "Title": "Bagt"
+        }
+      ]
+    },
+    {
+      "ID": 2147483645,
+      "Title": "Religion and belief systems",
+      "Categories": [
+        {
+          "ID": 3026,
+          "Title": "Kategoriýa:Din"
+        },
+        {
+          "ID": 5742,
+          "Title": "Kategoriýa:Ynanç"
+        },
+        {
+          "ID": 9982,
+          "Title": "Kategoriýa:Dinler"
+        }
+      ]
+    },
+    {
+      "ID": 2147483646,
+      "Title": "Society and social sciences",
+      "Categories": [
+        {
+          "ID": 2942,
+          "Title": "Kategoriýa:Jemgyýet"
+        },
+        {
+          "ID": 9951,
+          "Title": "Kategoriýa:Gumanitar ylymlar"
+        },
+        {
+          "ID": 11022,
+          "Title": "Kategoriýa:Hukuk"
+        },
+        {
+          "ID": 16386,
+          "Title": "Kategoriýa:Jemgyýetçilik ylymlar"
+        }
+      ],
+      "Articles": [
+        {
+          "ID": 1645,
+          "Title": "Eýran"
+        },
+        {
+          "ID": 12018,
+          "Title": "Çili"
+        },
+        {
+          "ID": 12472,
+          "Title": "Oksford uniwersiteti"
+        },
+        {
+          "ID": 12566,
+          "Title": "Çikago Uniwersiteti"
+        },
+        {
+          "ID": 12567,
+          "Title": "Prinston uniwersiteti"
+        },
+        {
+          "ID": 14514,
+          "Title": "Bosfor Uniwersitedi"
+        }
+      ]
+    },
+    {
+      "ID": 2147483647,
+      "Title": "Technology and applied sciences",
+      "Categories": [
+        {
+          "ID": 2739,
+          "Title": "Kategoriýa:Tehnologiýa"
+        },
+        {
+          "ID": 3456,
+          "Title": "Kategoriýa:Informatika"
+        },
+        {
+          "ID": 4955,
+          "Title": "Kategoriýa:Elektronika"
+        },
+        {
+          "ID": 6218,
+          "Title": "Kategoriýa:Internet"
+        },
+        {
+          "ID": 6424,
+          "Title": "Kategoriýa:Tehnika"
+        },
+        {
+          "ID": 9639,
+          "Title": "Kategoriýa:Amaly ylymlar"
+        },
+        {
+          "ID": 12833,
+          "Title": "Kategoriýa:Ulag we aragatnaşyk"
+        },
+        {
+          "ID": 13836,
+          "Title": "Kategoriýa:Görnüşi boýunça tehnologiýalar"
+        }
+      ]
+    }
+  ],
+  "Filters": [
+    {
+      "ID": 16422,
+      "Title": "Kategoriýa:Dürli manylar"
+    },
+    {
+      "ID": 17098,
+      "Title": "Kategoriýa:Gizlin kategoriýalar"
+    }
+  ]
+}

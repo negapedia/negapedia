@@ -1,0 +1,681 @@
+{
+  "Language": "sw",
+  "Topics": [
+    {
+      "ID": 2147483637,
+      "Title": "Culture and the arts",
+      "Categories": [
+        {
+          "ID": 5706,
+          "Title": "Jamii:Chakula"
+        },
+        {
+          "ID": 6696,
+          "Title": "Jamii:Utamaduni"
+        },
+        {
+          "ID": 6835,
+          "Title": "Jamii:Michezo"
+        },
+        {
+          "ID": 6836,
+          "Title": "Jamii:Burudani"
+        },
+        {
+          "ID": 18500,
+          "Title": "Jamii:Sanaa"
+        },
+        {
+          "ID": 83027,
+          "Title": "Jamii:Rangi"
+        }
+      ],
+      "Articles": [
+        {
+          "ID": 1789,
+          "Title": "Wikipedia"
+        },
+        {
+          "ID": 1857,
+          "Title": "Kamusi elezo"
+        },
+        {
+          "ID": 3099,
+          "Title": "Bia"
+        },
+        {
+          "ID": 15854,
+          "Title": "Mkate"
+        },
+        {
+          "ID": 15912,
+          "Title": "Chokoleti"
+        },
+        {
+          "ID": 16084,
+          "Title": "Kahawa"
+        },
+        {
+          "ID": 16193,
+          "Title": "Pasta"
+        },
+        {
+          "ID": 17006,
+          "Title": "Led Zeppelin"
+        },
+        {
+          "ID": 18778,
+          "Title": "Nguruwe"
+        },
+        {
+          "ID": 28948,
+          "Title": "Nguruwe-kaya"
+        },
+        {
+          "ID": 33205,
+          "Title": "Ubingwa wa WWE"
+        },
+        {
+          "ID": 36353,
+          "Title": "Mkakao"
+        },
+        {
+          "ID": 39828,
+          "Title": "Sleji"
+        },
+        {
+          "ID": 39994,
+          "Title": "Mbuni (mmea)"
+        },
+        {
+          "ID": 55980,
+          "Title": "Usafi wa moyo"
+        },
+        {
+          "ID": 67143,
+          "Title": "Pizza"
+        },
+        {
+          "ID": 69503,
+          "Title": "Yai"
+        },
+        {
+          "ID": 69841,
+          "Title": "Useja"
+        },
+        {
+          "ID": 75464,
+          "Title": "Uhalisia"
+        },
+        {
+          "ID": 90974,
+          "Title": "Keki"
+        },
+        {
+          "ID": 96266,
+          "Title": "Siagi ya karanga"
+        }
+      ]
+    },
+    {
+      "ID": 2147483638,
+      "Title": "Geography and places",
+      "Categories": [
+        {
+          "ID": 1793,
+          "Title": "Jamii:Jiografia"
+        },
+        {
+          "ID": 9284,
+          "Title": "Jamii:Orodha za kijiografia"
+        }
+      ],
+      "Articles": [
+        {
+          "ID": 3050,
+          "Title": "Binadamu"
+        },
+        {
+          "ID": 3701,
+          "Title": "Paris"
+        },
+        {
+          "ID": 3956,
+          "Title": "Piramidi"
+        },
+        {
+          "ID": 4281,
+          "Title": "Australia"
+        },
+        {
+          "ID": 7871,
+          "Title": "Myanmar"
+        },
+        {
+          "ID": 9802,
+          "Title": "Canberra"
+        },
+        {
+          "ID": 16078,
+          "Title": "Venezia"
+        },
+        {
+          "ID": 89911,
+          "Title": "Queensland"
+        }
+      ]
+    },
+    {
+      "ID": 2147483639,
+      "Title": "Health and fitness",
+      "Categories": [
+        {
+          "ID": 3234,
+          "Title": "Jamii:Tiba"
+        },
+        {
+          "ID": 7742,
+          "Title": "Jamii:Afya"
+        },
+        {
+          "ID": 76136,
+          "Title": "Jamii:Usafi"
+        }
+      ]
+    },
+    {
+      "ID": 2147483640,
+      "Title": "History and events",
+      "Categories": [
+        {
+          "ID": 4578,
+          "Title": "Jamii:Historia"
+        },
+        {
+          "ID": 29069,
+          "Title": "Jamii:Historia nchi kwa nchi"
+        }
+      ],
+      "Articles": [
+        {
+          "ID": 15215,
+          "Title": "Shambulio la 11 Septemba 2001"
+        },
+        {
+          "ID": 86441,
+          "Title": "Donald Trump"
+        },
+        {
+          "ID": 87119,
+          "Title": "Uchaguzi wa Rais wa Marekani, 2012"
+        },
+        {
+          "ID": 89026,
+          "Title": "Vipimo asilia vya Kiswahili"
+        }
+      ]
+    },
+    {
+      "ID": 2147483641,
+      "Title": "Mathematics and logic",
+      "Categories": [
+        {
+          "ID": 1765,
+          "Title": "Jamii:Hisabati"
+        }
+      ],
+      "Articles": [
+        {
+          "ID": 82687,
+          "Title": "Urefu"
+        }
+      ]
+    },
+    {
+      "ID": 2147483642,
+      "Title": "Nature and physical sciences",
+      "Categories": [
+        {
+          "ID": 1764,
+          "Title": "Jamii:Sayansi"
+        },
+        {
+          "ID": 3221,
+          "Title": "Jamii:Kemia"
+        },
+        {
+          "ID": 5865,
+          "Title": "Jamii:Fizikia"
+        }
+      ],
+      "Articles": [
+        {
+          "ID": 2266,
+          "Title": "Heroe"
+        },
+        {
+          "ID": 15768,
+          "Title": "Muhindi"
+        },
+        {
+          "ID": 15769,
+          "Title": "Wali"
+        },
+        {
+          "ID": 15770,
+          "Title": "Mpunga wa kiasia"
+        },
+        {
+          "ID": 15799,
+          "Title": "Ngano"
+        },
+        {
+          "ID": 16098,
+          "Title": "Limau"
+        },
+        {
+          "ID": 16655,
+          "Title": "Ndegejinga"
+        },
+        {
+          "ID": 16880,
+          "Title": "Sululu-uzuri"
+        },
+        {
+          "ID": 18032,
+          "Title": "Chungwa"
+        },
+        {
+          "ID": 18762,
+          "Title": "Ngamia"
+        },
+        {
+          "ID": 19217,
+          "Title": "Punyeto"
+        },
+        {
+          "ID": 32880,
+          "Title": "Mchungwa"
+        },
+        {
+          "ID": 33134,
+          "Title": "Mwembe"
+        },
+        {
+          "ID": 36221,
+          "Title": "Ndimu"
+        },
+        {
+          "ID": 36292,
+          "Title": "Mnyanya"
+        },
+        {
+          "ID": 39849,
+          "Title": "Mtando chakula"
+        },
+        {
+          "ID": 41448,
+          "Title": "Moto"
+        },
+        {
+          "ID": 56149,
+          "Title": "Elki"
+        },
+        {
+          "ID": 56624,
+          "Title": "Mboo"
+        },
+        {
+          "ID": 56650,
+          "Title": "Mirtia"
+        },
+        {
+          "ID": 56792,
+          "Title": "Chui (Pantherinae)"
+        },
+        {
+          "ID": 67442,
+          "Title": "Musuli"
+        },
+        {
+          "ID": 69296,
+          "Title": "Mtende (mti)"
+        },
+        {
+          "ID": 69344,
+          "Title": "Mnavunavu"
+        },
+        {
+          "ID": 81489,
+          "Title": "Mfumo wa uzazi"
+        },
+        {
+          "ID": 85049,
+          "Title": "Mkojo"
+        },
+        {
+          "ID": 89862,
+          "Title": "Mtungule"
+        },
+        {
+          "ID": 91139,
+          "Title": "Nanasi"
+        },
+        {
+          "ID": 91254,
+          "Title": "Embe"
+        },
+        {
+          "ID": 93229,
+          "Title": "Mstroberi"
+        }
+      ]
+    },
+    {
+      "ID": 2147483643,
+      "Title": "People and self",
+      "Categories": [
+        {
+          "ID": 7046,
+          "Title": "Jamii:Watu"
+        },
+        {
+          "ID": 7743,
+          "Title": "Jamii:Maisha"
+        }
+      ],
+      "Articles": [
+        {
+          "ID": 2121,
+          "Title": "Adolf Hitler"
+        },
+        {
+          "ID": 2922,
+          "Title": "Irving Langmuir"
+        },
+        {
+          "ID": 3357,
+          "Title": "Thomas Aquinas Mtakatifu"
+        },
+        {
+          "ID": 5942,
+          "Title": "Kristoforo Kolumbus"
+        },
+        {
+          "ID": 7072,
+          "Title": "John Lennon"
+        },
+        {
+          "ID": 14349,
+          "Title": "Alexander Fleming"
+        },
+        {
+          "ID": 14601,
+          "Title": "René Descartes"
+        },
+        {
+          "ID": 15566,
+          "Title": "Elton John"
+        },
+        {
+          "ID": 15829,
+          "Title": "Richard Wagner"
+        },
+        {
+          "ID": 16349,
+          "Title": "Florence Nightingale"
+        },
+        {
+          "ID": 18095,
+          "Title": "Lewis Carroll"
+        },
+        {
+          "ID": 19228,
+          "Title": "Johannes Kepler"
+        },
+        {
+          "ID": 19233,
+          "Title": "Galileo Galilei"
+        },
+        {
+          "ID": 19235,
+          "Title": "Fibonacci"
+        },
+        {
+          "ID": 19253,
+          "Title": "Carl Friedrich Gauss"
+        },
+        {
+          "ID": 19280,
+          "Title": "Alan Turing"
+        },
+        {
+          "ID": 19287,
+          "Title": "Noam Chomsky"
+        },
+        {
+          "ID": 19723,
+          "Title": "Adam Smith"
+        },
+        {
+          "ID": 22998,
+          "Title": "Sigmund Freud"
+        },
+        {
+          "ID": 25227,
+          "Title": "George Harrison"
+        },
+        {
+          "ID": 30928,
+          "Title": "Joseph Smith"
+        },
+        {
+          "ID": 33940,
+          "Title": "Bill Gates"
+        },
+        {
+          "ID": 91068,
+          "Title": "Oliver Cromwell"
+        },
+        {
+          "ID": 99491,
+          "Title": "Charles Babbage"
+        },
+        {
+          "ID": 103274,
+          "Title": "Carl Sagan"
+        }
+      ]
+    },
+    {
+      "ID": 2147483644,
+      "Title": "Philosophy and thinking",
+      "Categories": [
+        {
+          "ID": 5874,
+          "Title": "Jamii:Falsafa"
+        },
+        {
+          "ID": 6695,
+          "Title": "Jamii:Wazo"
+        },
+        {
+          "ID": 18376,
+          "Title": "Jamii:Maadili"
+        }
+      ],
+      "Articles": [
+        {
+          "ID": 23413,
+          "Title": "Imani"
+        },
+        {
+          "ID": 33670,
+          "Title": "Kujiamini"
+        },
+        {
+          "ID": 72553,
+          "Title": "Uzuri"
+        }
+      ]
+    },
+    {
+      "ID": 2147483645,
+      "Title": "Religion and belief systems",
+      "Categories": [
+        {
+          "ID": 1786,
+          "Title": "Jamii:Dini"
+        }
+      ]
+    },
+    {
+      "ID": 2147483646,
+      "Title": "Society and social sciences",
+      "Categories": [
+        {
+          "ID": 6782,
+          "Title": "Jamii:Jamii"
+        },
+        {
+          "ID": 6796,
+          "Title": "Jamii:Mashirika ya kimataifa"
+        },
+        {
+          "ID": 8010,
+          "Title": "Jamii:Sheria"
+        },
+        {
+          "ID": 43040,
+          "Title": "Jamii:Sayansi ya Jamii"
+        }
+      ],
+      "Articles": [
+        {
+          "ID": 5264,
+          "Title": "Uajemi"
+        },
+        {
+          "ID": 6035,
+          "Title": "Chile"
+        },
+        {
+          "ID": 6278,
+          "Title": "Barbados"
+        },
+        {
+          "ID": 7601,
+          "Title": "Umoja wa Ulaya"
+        },
+        {
+          "ID": 13832,
+          "Title": "Mradi wa Umoja wa Mataifa Kuhusu Mazingira"
+        },
+        {
+          "ID": 29099,
+          "Title": "The New York Times"
+        },
+        {
+          "ID": 31527,
+          "Title": "Chuo Kikuu cha Columbia"
+        },
+        {
+          "ID": 31529,
+          "Title": "Chuo Kikuu cha Harvard"
+        },
+        {
+          "ID": 37008,
+          "Title": "Chuo Kikuu cha Princeton"
+        },
+        {
+          "ID": 37022,
+          "Title": "Chuo Kikuu cha Stanford"
+        },
+        {
+          "ID": 41592,
+          "Title": "Chuo Kikuu cha London"
+        },
+        {
+          "ID": 41594,
+          "Title": "Chuo Kikuu cha Oxford"
+        },
+        {
+          "ID": 41598,
+          "Title": "Chuo Kikuu cha Tehran"
+        },
+        {
+          "ID": 46189,
+          "Title": "Chuo Kikuu cha Göttingen"
+        },
+        {
+          "ID": 47118,
+          "Title": "Chuo Kikuu cha Köln"
+        },
+        {
+          "ID": 47126,
+          "Title": "Chuo Kikuu cha Bonn"
+        },
+        {
+          "ID": 47179,
+          "Title": "Chuo Kikuu cha Mumbai"
+        },
+        {
+          "ID": 47185,
+          "Title": "Chuo Kikuu cha Calcutta"
+        },
+        {
+          "ID": 47188,
+          "Title": "Chuo Kikuu cha Delhi"
+        },
+        {
+          "ID": 55147,
+          "Title": "Chuo cha Teknolojia cha Massachusetts"
+        },
+        {
+          "ID": 69734,
+          "Title": "Chuo Kikuu cha Tübingen"
+        },
+        {
+          "ID": 91131,
+          "Title": "Chuo Kikuu cha Cambridge"
+        },
+        {
+          "ID": 103756,
+          "Title": "Chuo Kikuu cha Texas"
+        }
+      ]
+    },
+    {
+      "ID": 2147483647,
+      "Title": "Technology and applied sciences",
+      "Categories": [
+        {
+          "ID": 1763,
+          "Title": "Jamii:Teknolojia"
+        },
+        {
+          "ID": 5631,
+          "Title": "Jamii:Uhandisi"
+        },
+        {
+          "ID": 14110,
+          "Title": "Jamii:Kompyuta"
+        },
+        {
+          "ID": 36589,
+          "Title": "Jamii:Intaneti"
+        },
+        {
+          "ID": 93191,
+          "Title": "Jamii:Elektroniki"
+        }
+      ]
+    }
+  ],
+  "Filters": [
+    {
+      "ID": 8036,
+      "Title": "Jamii:Makala zinazotofautisha maana"
+    }
+  ]
+}

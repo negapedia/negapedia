@@ -1,0 +1,1051 @@
+{
+  "Language": "is",
+  "Topics": [
+    {
+      "ID": 2147483637,
+      "Title": "Culture and the arts",
+      "Categories": [
+        {
+          "ID": 1575,
+          "Title": "Flokkur:Menning"
+        },
+        {
+          "ID": 1820,
+          "Title": "Flokkur:Hljómsveitir"
+        },
+        {
+          "ID": 2851,
+          "Title": "Flokkur:Matur og drykkir"
+        },
+        {
+          "ID": 3008,
+          "Title": "Flokkur:Matur"
+        },
+        {
+          "ID": 5408,
+          "Title": "Flokkur:Kvikmyndir"
+        },
+        {
+          "ID": 5410,
+          "Title": "Flokkur:List"
+        },
+        {
+          "ID": 5412,
+          "Title": "Flokkur:Tómstundir og dægurmál"
+        },
+        {
+          "ID": 5421,
+          "Title": "Flokkur:Íþróttir"
+        },
+        {
+          "ID": 5424,
+          "Title": "Flokkur:Næring"
+        },
+        {
+          "ID": 11675,
+          "Title": "Flokkur:Íþróttagreinar"
+        },
+        {
+          "ID": 29481,
+          "Title": "Flokkur:Litir"
+        },
+        {
+          "ID": 62084,
+          "Title": "Flokkur:Skemmtun"
+        },
+        {
+          "ID": 71400,
+          "Title": "Flokkur:Matvæli"
+        },
+        {
+          "ID": 123548,
+          "Title": "Flokkur:Tómstundagaman"
+        }
+      ],
+      "Articles": [
+        {
+          "ID": 1193,
+          "Title": "Alfræðirit"
+        },
+        {
+          "ID": 4490,
+          "Title": "Bjór (öl)"
+        },
+        {
+          "ID": 6513,
+          "Title": "Pizza"
+        },
+        {
+          "ID": 6716,
+          "Title": "Hogwart"
+        },
+        {
+          "ID": 12405,
+          "Title": "Munnmök"
+        },
+        {
+          "ID": 23741,
+          "Title": "Led Zeppelin"
+        },
+        {
+          "ID": 24778,
+          "Title": "Wikipedia"
+        },
+        {
+          "ID": 28287,
+          "Title": "Kaffi"
+        },
+        {
+          "ID": 29130,
+          "Title": "Brauð"
+        },
+        {
+          "ID": 29246,
+          "Title": "Súkkulaði"
+        },
+        {
+          "ID": 29248,
+          "Title": "Kakó"
+        },
+        {
+          "ID": 33377,
+          "Title": "Egg (matvæli)"
+        },
+        {
+          "ID": 34005,
+          "Title": "Lagkaka"
+        },
+        {
+          "ID": 39214,
+          "Title": "Raunveruleiki"
+        },
+        {
+          "ID": 42848,
+          "Title": "Green Day"
+        },
+        {
+          "ID": 50513,
+          "Title": "Kaka"
+        },
+        {
+          "ID": 52925,
+          "Title": "Draugur"
+        },
+        {
+          "ID": 53816,
+          "Title": "Buckinghamhöll"
+        },
+        {
+          "ID": 64594,
+          "Title": "Pylsa"
+        },
+        {
+          "ID": 72096,
+          "Title": "Rjómaís"
+        },
+        {
+          "ID": 72112,
+          "Title": "Pasta"
+        },
+        {
+          "ID": 74802,
+          "Title": "Svín (ættkvísl)"
+        },
+        {
+          "ID": 76638,
+          "Title": "Raunsæi"
+        },
+        {
+          "ID": 78598,
+          "Title": "Sósa"
+        },
+        {
+          "ID": 83830,
+          "Title": "Pilsner"
+        },
+        {
+          "ID": 85205,
+          "Title": "Skinka"
+        },
+        {
+          "ID": 85316,
+          "Title": "Léttöl"
+        },
+        {
+          "ID": 87706,
+          "Title": "Alisvín"
+        },
+        {
+          "ID": 95150,
+          "Title": "Sucker Punch (kvikmynd)"
+        },
+        {
+          "ID": 95398,
+          "Title": "Flatbrauð"
+        },
+        {
+          "ID": 96561,
+          "Title": "Beikon"
+        },
+        {
+          "ID": 97174,
+          "Title": "Bragðarefur"
+        },
+        {
+          "ID": 103652,
+          "Title": "Smákaka"
+        },
+        {
+          "ID": 103774,
+          "Title": "Dinosaur Jr."
+        },
+        {
+          "ID": 105338,
+          "Title": "Hnetusmjör"
+        },
+        {
+          "ID": 106309,
+          "Title": "Listi yfir pastategundir"
+        },
+        {
+          "ID": 107772,
+          "Title": "Spælegg"
+        },
+        {
+          "ID": 119765,
+          "Title": "Saltkex"
+        },
+        {
+          "ID": 122508,
+          "Title": "Kex"
+        },
+        {
+          "ID": 126267,
+          "Title": "AC/DC"
+        },
+        {
+          "ID": 126346,
+          "Title": "Sleði"
+        },
+        {
+          "ID": 129023,
+          "Title": "Súrdeig"
+        },
+        {
+          "ID": 131817,
+          "Title": "Baka"
+        },
+        {
+          "ID": 139463,
+          "Title": "Söngvakeppni evrópskra sjónvarpsstöðva 2018"
+        },
+        {
+          "ID": 141449,
+          "Title": "Villisvín"
+        },
+        {
+          "ID": 141721,
+          "Title": "Loch Ness-skrímslið"
+        },
+        {
+          "ID": 144171,
+          "Title": "Söngvakeppni evrópskra sjónvarpsstöðva 2017"
+        },
+        {
+          "ID": 148411,
+          "Title": "Pinus cembroides"
+        }
+      ]
+    },
+    {
+      "ID": 2147483638,
+      "Title": "Geography and places",
+      "Categories": [
+        {
+          "ID": 1705,
+          "Title": "Flokkur:Landafræði"
+        },
+        {
+          "ID": 11370,
+          "Title": "Flokkur:Landmótunarfræði"
+        }
+      ],
+      "Articles": [
+        {
+          "ID": 4866,
+          "Title": "Ástralía"
+        },
+        {
+          "ID": 4869,
+          "Title": "Canberra"
+        },
+        {
+          "ID": 5862,
+          "Title": "Queensland"
+        },
+        {
+          "ID": 6277,
+          "Title": "París"
+        },
+        {
+          "ID": 26523,
+          "Title": "Maður"
+        },
+        {
+          "ID": 33358,
+          "Title": "Pýramídi"
+        },
+        {
+          "ID": 38214,
+          "Title": "Feneyjar"
+        },
+        {
+          "ID": 105497,
+          "Title": "Mjanmar"
+        }
+      ]
+    },
+    {
+      "ID": 2147483639,
+      "Title": "Health and fitness",
+      "Categories": [
+        {
+          "ID": 3693,
+          "Title": "Flokkur:Læknisfræði"
+        },
+        {
+          "ID": 11705,
+          "Title": "Flokkur:Heilsa"
+        }
+      ]
+    },
+    {
+      "ID": 2147483640,
+      "Title": "History and events",
+      "Categories": [
+        {
+          "ID": 5384,
+          "Title": "Flokkur:Saga"
+        },
+        {
+          "ID": 28512,
+          "Title": "Flokkur:Saga eftir löndum"
+        },
+        {
+          "ID": 41802,
+          "Title": "Flokkur:Atburðir"
+        }
+      ],
+      "Articles": [
+        {
+          "ID": 34361,
+          "Title": "Hryðjuverkin 11. september 2001"
+        },
+        {
+          "ID": 34837,
+          "Title": "Trójustríðið"
+        },
+        {
+          "ID": 96646,
+          "Title": "Hamfarirnar í Japan 2011"
+        },
+        {
+          "ID": 132497,
+          "Title": "Donald Trump"
+        }
+      ]
+    },
+    {
+      "ID": 2147483641,
+      "Title": "Mathematics and logic",
+      "Categories": [
+        {
+          "ID": 2982,
+          "Title": "Flokkur:Stærðfræði"
+        },
+        {
+          "ID": 3815,
+          "Title": "Flokkur:Rökfræði"
+        },
+        {
+          "ID": 4475,
+          "Title": "Flokkur:Tölfræði"
+        },
+        {
+          "ID": 29190,
+          "Title": "Flokkur:Kennileg tölvunarfræði"
+        }
+      ],
+      "Articles": [
+        {
+          "ID": 35206,
+          "Title": "Lengd"
+        },
+        {
+          "ID": 94688,
+          "Title": "Lengdareining"
+        }
+      ]
+    },
+    {
+      "ID": 2147483642,
+      "Title": "Nature and physical sciences",
+      "Categories": [
+        {
+          "ID": 1570,
+          "Title": "Flokkur:Náttúran"
+        },
+        {
+          "ID": 1571,
+          "Title": "Flokkur:Eðlisfræði"
+        },
+        {
+          "ID": 2141,
+          "Title": "Flokkur:Náttúruvísindi"
+        },
+        {
+          "ID": 3057,
+          "Title": "Flokkur:Fræðigreinar"
+        },
+        {
+          "ID": 3416,
+          "Title": "Flokkur:Efnafræði"
+        },
+        {
+          "ID": 5375,
+          "Title": "Flokkur:Dýrafræði"
+        },
+        {
+          "ID": 5786,
+          "Title": "Flokkur:Vísindi"
+        },
+        {
+          "ID": 26914,
+          "Title": "Flokkur:Efnasambönd"
+        },
+        {
+          "ID": 141455,
+          "Title": "Flokkur:Hamfarir"
+        }
+      ],
+      "Articles": [
+        {
+          "ID": 12342,
+          "Title": "Tómatur"
+        },
+        {
+          "ID": 20923,
+          "Title": "Eldur"
+        },
+        {
+          "ID": 21903,
+          "Title": "Getnaðarlimur"
+        },
+        {
+          "ID": 28910,
+          "Title": "Appelsína"
+        },
+        {
+          "ID": 28920,
+          "Title": "Hrísgrjón"
+        },
+        {
+          "ID": 29085,
+          "Title": "Maís"
+        },
+        {
+          "ID": 29133,
+          "Title": "Hveiti"
+        },
+        {
+          "ID": 29135,
+          "Title": "Sítróna"
+        },
+        {
+          "ID": 30634,
+          "Title": "Elgur"
+        },
+        {
+          "ID": 32075,
+          "Title": "Blágreni"
+        },
+        {
+          "ID": 41711,
+          "Title": "Blómkál"
+        },
+        {
+          "ID": 45362,
+          "Title": "Flæmingjar"
+        },
+        {
+          "ID": 56660,
+          "Title": "Eista"
+        },
+        {
+          "ID": 60938,
+          "Title": "Æxlunarfæri"
+        },
+        {
+          "ID": 61052,
+          "Title": "Hringrás vatns"
+        },
+        {
+          "ID": 62287,
+          "Title": "Vöðvi"
+        },
+        {
+          "ID": 62421,
+          "Title": "Vatnafræði"
+        },
+        {
+          "ID": 65343,
+          "Title": "Ananas"
+        },
+        {
+          "ID": 65746,
+          "Title": "Sjálfsfróun"
+        },
+        {
+          "ID": 74263,
+          "Title": "Vöðvakerfið"
+        },
+        {
+          "ID": 74803,
+          "Title": "Úlfaldar"
+        },
+        {
+          "ID": 85469,
+          "Title": "Makríll"
+        },
+        {
+          "ID": 96380,
+          "Title": "Jarðarber"
+        },
+        {
+          "ID": 103524,
+          "Title": "Þvag"
+        },
+        {
+          "ID": 116869,
+          "Title": "Fæðuvefur"
+        },
+        {
+          "ID": 116870,
+          "Title": "Fæðukeðja"
+        },
+        {
+          "ID": 122820,
+          "Title": "Græn anakonda"
+        },
+        {
+          "ID": 126319,
+          "Title": "Mangó"
+        },
+        {
+          "ID": 134889,
+          "Title": "Villijarðarber"
+        },
+        {
+          "ID": 136178,
+          "Title": "Triticum aestivum"
+        },
+        {
+          "ID": 136770,
+          "Title": "Indverskur makríll"
+        },
+        {
+          "ID": 147288,
+          "Title": "Pinus kesiya"
+        }
+      ]
+    },
+    {
+      "ID": 2147483643,
+      "Title": "People and self",
+      "Categories": [
+        {
+          "ID": 2087,
+          "Title": "Flokkur:Fólk"
+        },
+        {
+          "ID": 113216,
+          "Title": "Flokkur:Líf"
+        },
+        {
+          "ID": 114928,
+          "Title": "Flokkur:Kvikmyndapersónur"
+        }
+      ],
+      "Articles": [
+        {
+          "ID": 1624,
+          "Title": "Charles Babbage"
+        },
+        {
+          "ID": 1684,
+          "Title": "Leonardo Pisano"
+        },
+        {
+          "ID": 1698,
+          "Title": "Srinivasa Ramanujan"
+        },
+        {
+          "ID": 1723,
+          "Title": "Alan Turing"
+        },
+        {
+          "ID": 2097,
+          "Title": "René Descartes"
+        },
+        {
+          "ID": 2178,
+          "Title": "Johannes Kepler"
+        },
+        {
+          "ID": 3257,
+          "Title": "Galileo Galilei"
+        },
+        {
+          "ID": 5692,
+          "Title": "Sigmund Freud"
+        },
+        {
+          "ID": 5788,
+          "Title": "Lewis Carroll"
+        },
+        {
+          "ID": 8649,
+          "Title": "Carl Sagan"
+        },
+        {
+          "ID": 11715,
+          "Title": "Kristófer Kólumbus"
+        },
+        {
+          "ID": 12587,
+          "Title": "Noam Chomsky"
+        },
+        {
+          "ID": 12609,
+          "Title": "Richard Wagner"
+        },
+        {
+          "ID": 23213,
+          "Title": "Adam Smith"
+        },
+        {
+          "ID": 23237,
+          "Title": "Ayn Rand"
+        },
+        {
+          "ID": 25511,
+          "Title": "George Harrison"
+        },
+        {
+          "ID": 26069,
+          "Title": "Oliver Cromwell"
+        },
+        {
+          "ID": 28820,
+          "Title": "Bill Gates"
+        },
+        {
+          "ID": 29317,
+          "Title": "William Blake"
+        },
+        {
+          "ID": 29623,
+          "Title": "Alexander Fleming"
+        },
+        {
+          "ID": 33747,
+          "Title": "Tómas af Aquino"
+        },
+        {
+          "ID": 33840,
+          "Title": "John Lennon"
+        },
+        {
+          "ID": 39270,
+          "Title": "Florence Nightingale"
+        },
+        {
+          "ID": 40362,
+          "Title": "Carl Friedrich Gauss"
+        },
+        {
+          "ID": 51656,
+          "Title": "Richard Dawkins"
+        },
+        {
+          "ID": 61313,
+          "Title": "Joseph Smith"
+        },
+        {
+          "ID": 67517,
+          "Title": "Adolf Hitler"
+        },
+        {
+          "ID": 67613,
+          "Title": "Harry Houdini"
+        },
+        {
+          "ID": 70902,
+          "Title": "Elton John"
+        },
+        {
+          "ID": 76049,
+          "Title": "Daniel Radcliffe"
+        },
+        {
+          "ID": 79634,
+          "Title": "The Big Bang Theory"
+        },
+        {
+          "ID": 100197,
+          "Title": "Anders Behring Breivik"
+        },
+        {
+          "ID": 118834,
+          "Title": "Cory Monteith"
+        }
+      ]
+    },
+    {
+      "ID": 2147483644,
+      "Title": "Philosophy and thinking",
+      "Categories": [
+        {
+          "ID": 3068,
+          "Title": "Flokkur:Heimspeki"
+        },
+        {
+          "ID": 12991,
+          "Title": "Flokkur:Siðfræði"
+        },
+        {
+          "ID": 60868,
+          "Title": "Flokkur:Hugsun"
+        }
+      ],
+      "Articles": [
+        {
+          "ID": 2573,
+          "Title": "Trú"
+        },
+        {
+          "ID": 32314,
+          "Title": "Skoðun"
+        },
+        {
+          "ID": 38053,
+          "Title": "Staðreynd"
+        },
+        {
+          "ID": 56279,
+          "Title": "Fegurð"
+        },
+        {
+          "ID": 60831,
+          "Title": "Hamingja"
+        },
+        {
+          "ID": 140617,
+          "Title": "Dunning–Kruger-áhrif"
+        }
+      ]
+    },
+    {
+      "ID": 2147483645,
+      "Title": "Religion and belief systems",
+      "Categories": [
+        {
+          "ID": 3804,
+          "Title": "Flokkur:Trúarbrögð"
+        },
+        {
+          "ID": 97426,
+          "Title": "Flokkur:Indversk trúarbrögð"
+        }
+      ]
+    },
+    {
+      "ID": 2147483646,
+      "Title": "Society and social sciences",
+      "Categories": [
+        {
+          "ID": 2052,
+          "Title": "Flokkur:Lögfræði"
+        },
+        {
+          "ID": 3643,
+          "Title": "Flokkur:Alþjóðastofnanir"
+        },
+        {
+          "ID": 3783,
+          "Title": "Flokkur:Hugvísindi"
+        },
+        {
+          "ID": 5381,
+          "Title": "Flokkur:Samfélagið"
+        },
+        {
+          "ID": 11333,
+          "Title": "Flokkur:Félagsvísindi"
+        },
+        {
+          "ID": 35578,
+          "Title": "Flokkur:Femínismi"
+        },
+        {
+          "ID": 67060,
+          "Title": "Flokkur:Réttindi"
+        }
+      ],
+      "Articles": [
+        {
+          "ID": 3616,
+          "Title": "Evrópusambandið"
+        },
+        {
+          "ID": 8305,
+          "Title": "Fáni Ástralíu"
+        },
+        {
+          "ID": 11222,
+          "Title": "Íran"
+        },
+        {
+          "ID": 11665,
+          "Title": "Barbados"
+        },
+        {
+          "ID": 12262,
+          "Title": "Síle"
+        },
+        {
+          "ID": 23352,
+          "Title": "Sumartími"
+        },
+        {
+          "ID": 24603,
+          "Title": "Princeton-háskóli"
+        },
+        {
+          "ID": 35898,
+          "Title": "Harvard-háskóli"
+        },
+        {
+          "ID": 39422,
+          "Title": "Oxford-háskóli"
+        },
+        {
+          "ID": 39437,
+          "Title": "Cambridge-háskóli"
+        },
+        {
+          "ID": 39449,
+          "Title": "Pennsylvaníuháskóli"
+        },
+        {
+          "ID": 39502,
+          "Title": "Virginíuháskóli"
+        },
+        {
+          "ID": 39508,
+          "Title": "Stanford-háskóli"
+        },
+        {
+          "ID": 39513,
+          "Title": "Columbia-háskóli"
+        },
+        {
+          "ID": 39622,
+          "Title": "Chicago-háskóli"
+        },
+        {
+          "ID": 40318,
+          "Title": "Michigan-háskóli"
+        },
+        {
+          "ID": 52339,
+          "Title": "Háskólinn í Glasgow"
+        },
+        {
+          "ID": 56779,
+          "Title": "Bannár"
+        },
+        {
+          "ID": 59696,
+          "Title": "The New York Times"
+        },
+        {
+          "ID": 63781,
+          "Title": "Massachusetts Institute of Technology"
+        },
+        {
+          "ID": 64045,
+          "Title": "Boston-háskóli"
+        },
+        {
+          "ID": 73187,
+          "Title": "Georg-August-háskólinn í Göttingen"
+        },
+        {
+          "ID": 75936,
+          "Title": "Háskólinn í London"
+        },
+        {
+          "ID": 78953,
+          "Title": "Washington-háskóli"
+        },
+        {
+          "ID": 78960,
+          "Title": "Texas-háskóli í Austin"
+        },
+        {
+          "ID": 79009,
+          "Title": "Suður-Kaliforníuháskóli"
+        },
+        {
+          "ID": 79023,
+          "Title": "Illinois-háskóli í Chicago"
+        },
+        {
+          "ID": 79038,
+          "Title": "Iowa-háskóli"
+        },
+        {
+          "ID": 79042,
+          "Title": "Rice-háskóli"
+        },
+        {
+          "ID": 79070,
+          "Title": "Washington-háskóli í St. Louis"
+        },
+        {
+          "ID": 83156,
+          "Title": "BP"
+        },
+        {
+          "ID": 95010,
+          "Title": "Háskólinn í Birmingham"
+        },
+        {
+          "ID": 95016,
+          "Title": "Ríkisháskólinn í Ohio"
+        },
+        {
+          "ID": 95026,
+          "Title": "Minnesota-háskóli"
+        },
+        {
+          "ID": 95768,
+          "Title": "Imperial College London"
+        },
+        {
+          "ID": 97152,
+          "Title": "Stokkhólmsháskóli"
+        },
+        {
+          "ID": 97220,
+          "Title": "Háskólinn í Manchester"
+        },
+        {
+          "ID": 97697,
+          "Title": "Þriðja heimsstyrjöldin"
+        },
+        {
+          "ID": 115874,
+          "Title": "Háskólinn í Tübingen"
+        },
+        {
+          "ID": 126417,
+          "Title": "Uppsalaháskóli"
+        },
+        {
+          "ID": 126426,
+          "Title": "Gautaborgarháskóli"
+        },
+        {
+          "ID": 133060,
+          "Title": "Umhverfisstofnun Sameinuðu þjóðanna"
+        },
+        {
+          "ID": 143581,
+          "Title": "Ríkisháskóli Moskvu"
+        }
+      ]
+    },
+    {
+      "ID": 2147483647,
+      "Title": "Technology and applied sciences",
+      "Categories": [
+        {
+          "ID": 1572,
+          "Title": "Flokkur:Tækni"
+        },
+        {
+          "ID": 1576,
+          "Title": "Flokkur:Tölvunarfræði"
+        },
+        {
+          "ID": 4317,
+          "Title": "Flokkur:Verkfræði"
+        },
+        {
+          "ID": 4967,
+          "Title": "Flokkur:Internetið"
+        },
+        {
+          "ID": 5425,
+          "Title": "Flokkur:Samgöngur"
+        },
+        {
+          "ID": 5482,
+          "Title": "Flokkur:Tölvur"
+        },
+        {
+          "ID": 13059,
+          "Title": "Flokkur:Gagnastjórnun"
+        },
+        {
+          "ID": 50881,
+          "Title": "Flokkur:Hagnýtt vísindi"
+        },
+        {
+          "ID": 147960,
+          "Title": "Flokkur:Hönnun"
+        }
+      ],
+      "Articles": [
+        {
+          "ID": 4340,
+          "Title": "Rótarlén"
+        },
+        {
+          "ID": 67334,
+          "Title": "Tyggigúmmí"
+        },
+        {
+          "ID": 77201,
+          "Title": "Pepsi"
+        },
+        {
+          "ID": 83012,
+          "Title": "Veggur"
+        }
+      ]
+    }
+  ],
+  "Filters": [
+    {
+      "ID": 1856,
+      "Title": "Flokkur:Aðgreiningarsíður"
+    },
+    {
+      "ID": 63953,
+      "Title": "Flokkur:Faldir flokkar"
+    }
+  ]
+}

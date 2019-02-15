@@ -1,0 +1,283 @@
+{
+  "Language": "stq",
+  "Topics": [
+    {
+      "ID": 2147483637,
+      "Title": "Culture and the arts",
+      "Categories": [
+        {
+          "ID": 1224,
+          "Title": "Kategorie:Kultuur"
+        },
+        {
+          "ID": 1244,
+          "Title": "Kategorie:Kunst"
+        },
+        {
+          "ID": 1906,
+          "Title": "Kategorie:Faawen"
+        },
+        {
+          "ID": 3821,
+          "Title": "Kategorie:Sport"
+        }
+      ],
+      "Articles": [
+        {
+          "ID": 209,
+          "Title": "Enzyklopädie"
+        },
+        {
+          "ID": 449,
+          "Title": "Realismus"
+        },
+        {
+          "ID": 597,
+          "Title": "Wikipedia"
+        },
+        {
+          "ID": 9953,
+          "Title": "Bjoor"
+        }
+      ]
+    },
+    {
+      "ID": 2147483638,
+      "Title": "Geography and places",
+      "Categories": [
+        {
+          "ID": 1530,
+          "Title": "Kategorie:Geographie"
+        }
+      ],
+      "Articles": [
+        {
+          "ID": 422,
+          "Title": "Paris (Stääd)"
+        },
+        {
+          "ID": 2153,
+          "Title": "Australien (Lound)"
+        },
+        {
+          "ID": 3777,
+          "Title": "Queensland"
+        },
+        {
+          "ID": 7977,
+          "Title": "Canberra"
+        }
+      ]
+    },
+    {
+      "ID": 2147483639,
+      "Title": "Health and fitness",
+      "Categories": [
+        {
+          "ID": 2414,
+          "Title": "Kategorie:Medizin"
+        }
+      ]
+    },
+    {
+      "ID": 2147483640,
+      "Title": "History and events",
+      "Categories": [
+        {
+          "ID": 4510,
+          "Title": "Kategorie:Geskichte"
+        }
+      ]
+    },
+    {
+      "ID": 2147483641,
+      "Title": "Mathematics and logic",
+      "Categories": [
+        {
+          "ID": 2461,
+          "Title": "Kategorie:Statistik"
+        }
+      ],
+      "Articles": [
+        {
+          "ID": 338,
+          "Title": "Laangte"
+        },
+        {
+          "ID": 339,
+          "Title": "Laangtemäite"
+        }
+      ]
+    },
+    {
+      "ID": 2147483642,
+      "Title": "Nature and physical sciences",
+      "Categories": [
+        {
+          "ID": 1520,
+          "Title": "Kategorie:Physik"
+        },
+        {
+          "ID": 1521,
+          "Title": "Kategorie:Chemie"
+        },
+        {
+          "ID": 2413,
+          "Title": "Kategorie:Wietenskup"
+        },
+        {
+          "ID": 3757,
+          "Title": "Kategorie:Natuurwietenskup"
+        }
+      ],
+      "Articles": [
+        {
+          "ID": 3632,
+          "Title": "Weete"
+        },
+        {
+          "ID": 5140,
+          "Title": "Äidbäien"
+        },
+        {
+          "ID": 9709,
+          "Title": "Tomoate"
+        },
+        {
+          "ID": 10734,
+          "Title": "Turske Weete"
+        },
+        {
+          "ID": 10951,
+          "Title": "Anakondas"
+        },
+        {
+          "ID": 10954,
+          "Title": "Groote Anakonda"
+        }
+      ]
+    },
+    {
+      "ID": 2147483643,
+      "Title": "People and self",
+      "Categories": [
+        {
+          "ID": 2828,
+          "Title": "Kategorie:Persoon"
+        }
+      ],
+      "Articles": [
+        {
+          "ID": 2203,
+          "Title": "Adolf Hitler"
+        },
+        {
+          "ID": 2735,
+          "Title": "Christoph Kolumbus"
+        },
+        {
+          "ID": 8757,
+          "Title": "Richard Wagner"
+        }
+      ]
+    },
+    {
+      "ID": 2147483644,
+      "Title": "Philosophy and thinking",
+      "Categories": [
+        {
+          "ID": 3097,
+          "Title": "Kategorie:Philosophie"
+        }
+      ]
+    },
+    {
+      "ID": 2147483645,
+      "Title": "Religion and belief systems",
+      "Categories": [
+        {
+          "ID": 849,
+          "Title": "Kategorie:Religion"
+        }
+      ]
+    },
+    {
+      "ID": 2147483646,
+      "Title": "Society and social sciences",
+      "Categories": [
+        {
+          "ID": 2824,
+          "Title": "Kategorie:Moanskenwietenskup"
+        },
+        {
+          "ID": 2829,
+          "Title": "Kategorie:Sälskup"
+        }
+      ],
+      "Articles": [
+        {
+          "ID": 213,
+          "Title": "Europäiske Union"
+        },
+        {
+          "ID": 3010,
+          "Title": "Chile"
+        },
+        {
+          "ID": 3747,
+          "Title": "Iroan"
+        },
+        {
+          "ID": 8533,
+          "Title": "Universität Tübingen"
+        },
+        {
+          "ID": 9393,
+          "Title": "Suumertied"
+        },
+        {
+          "ID": 11068,
+          "Title": "Barbados"
+        },
+        {
+          "ID": 11178,
+          "Title": "Universität fon Pennsylvanien"
+        }
+      ]
+    },
+    {
+      "ID": 2147483647,
+      "Title": "Technology and applied sciences",
+      "Categories": [
+        {
+          "ID": 1313,
+          "Title": "Kategorie:Computere"
+        },
+        {
+          "ID": 1513,
+          "Title": "Kategorie:Technik"
+        },
+        {
+          "ID": 1637,
+          "Title": "Kategorie:Elektronik"
+        },
+        {
+          "ID": 2825,
+          "Title": "Kategorie:Anwoande Wietenskup"
+        }
+      ],
+      "Articles": [
+        {
+          "ID": 549,
+          "Title": "TLD"
+        }
+      ]
+    }
+  ],
+  "Filters": [
+    {
+      "ID": 7085,
+      "Title": "Kategorie:Begriepskloorenge"
+    }
+  ]
+}

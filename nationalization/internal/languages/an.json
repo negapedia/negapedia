@@ -1,0 +1,695 @@
+{
+  "Language": "an",
+  "Topics": [
+    {
+      "ID": 2147483637,
+      "Title": "Culture and the arts",
+      "Categories": [
+        {
+          "ID": 1763,
+          "Title": "Categoría:Arte"
+        },
+        {
+          "ID": 4073,
+          "Title": "Categoría:Cultura"
+        },
+        {
+          "ID": 6780,
+          "Title": "Categoría:Esportes"
+        },
+        {
+          "ID": 7290,
+          "Title": "Categoría:Colors"
+        },
+        {
+          "ID": 7932,
+          "Title": "Categoría:Entretenedera"
+        },
+        {
+          "ID": 8147,
+          "Title": "Categoría:Gastronomía"
+        },
+        {
+          "ID": 8240,
+          "Title": "Categoría:Alimentos"
+        },
+        {
+          "ID": 8715,
+          "Title": "Categoría:Color"
+        },
+        {
+          "ID": 61186,
+          "Title": "Categoría:Ocio"
+        },
+        {
+          "ID": 62279,
+          "Title": "Categoría:Espectaclos"
+        },
+        {
+          "ID": 63788,
+          "Title": "Categoría:Nutrición"
+        },
+        {
+          "ID": 63880,
+          "Title": "Categoría:Cintas"
+        },
+        {
+          "ID": 98724,
+          "Title": "Categoría:Esporte"
+        },
+        {
+          "ID": 99608,
+          "Title": "Categoría:Grupos de musica"
+        }
+      ],
+      "Articles": [
+        {
+          "ID": 8574,
+          "Title": "Chicolate"
+        },
+        {
+          "ID": 9335,
+          "Title": "Pan"
+        },
+        {
+          "ID": 11707,
+          "Title": "Biera"
+        },
+        {
+          "ID": 14775,
+          "Title": "Enciclopedia"
+        },
+        {
+          "ID": 15909,
+          "Title": "Sus scrofa domesticus"
+        },
+        {
+          "ID": 16007,
+          "Title": "Sus scrofa"
+        },
+        {
+          "ID": 16087,
+          "Title": "Sus"
+        },
+        {
+          "ID": 30359,
+          "Title": "Uevo"
+        },
+        {
+          "ID": 34857,
+          "Title": "Pernil"
+        },
+        {
+          "ID": 36149,
+          "Title": "Café"
+        },
+        {
+          "ID": 44269,
+          "Title": "Realidat"
+        },
+        {
+          "ID": 49763,
+          "Title": "Pantasma"
+        },
+        {
+          "ID": 67376,
+          "Title": "Biquipedia"
+        },
+        {
+          "ID": 100421,
+          "Title": "Pan vienés"
+        },
+        {
+          "ID": 108644,
+          "Title": "Emprenyatuera"
+        }
+      ]
+    },
+    {
+      "ID": 2147483638,
+      "Title": "Geography and places",
+      "Categories": [
+        {
+          "ID": 53,
+          "Title": "Categoría:Cheografía"
+        },
+        {
+          "ID": 12043,
+          "Title": "Categoría:Urbanismo"
+        },
+        {
+          "ID": 12925,
+          "Title": "Categoría:Molimentos"
+        },
+        {
+          "ID": 22989,
+          "Title": "Categoría:Cheomorfolochía"
+        }
+      ],
+      "Articles": [
+        {
+          "ID": 1218,
+          "Title": "Australia"
+        },
+        {
+          "ID": 1663,
+          "Title": "París"
+        },
+        {
+          "ID": 1766,
+          "Title": "Myanmar"
+        },
+        {
+          "ID": 6862,
+          "Title": "Venecia"
+        },
+        {
+          "ID": 7863,
+          "Title": "Homo sapiens"
+        },
+        {
+          "ID": 32790,
+          "Title": "Canberra"
+        },
+        {
+          "ID": 45733,
+          "Title": "Piramide (arquitectura)"
+        },
+        {
+          "ID": 115035,
+          "Title": "Queensland"
+        }
+      ]
+    },
+    {
+      "ID": 2147483639,
+      "Title": "Health and fitness",
+      "Categories": [
+        {
+          "ID": 14286,
+          "Title": "Categoría:Salut"
+        },
+        {
+          "ID": 61099,
+          "Title": "Categoría:Sciencias d'a salut"
+        },
+        {
+          "ID": 61790,
+          "Title": "Categoría:Hichiene personal"
+        },
+        {
+          "ID": 63194,
+          "Title": "Categoría:Medecina"
+        }
+      ]
+    },
+    {
+      "ID": 2147483640,
+      "Title": "History and events",
+      "Categories": [
+        {
+          "ID": 61894,
+          "Title": "Categoría:Historia"
+        },
+        {
+          "ID": 69454,
+          "Title": "Categoría:Historia por país"
+        }
+      ],
+      "Articles": [
+        {
+          "ID": 95910,
+          "Title": "Guerra de Troya"
+        },
+        {
+          "ID": 113909,
+          "Title": "Donald Trump"
+        }
+      ]
+    },
+    {
+      "ID": 2147483641,
+      "Title": "Mathematics and logic",
+      "Categories": [
+        {
+          "ID": 397,
+          "Title": "Categoría:Matematicas"
+        },
+        {
+          "ID": 14598,
+          "Title": "Categoría:Lochica"
+        },
+        {
+          "ID": 63312,
+          "Title": "Categoría:Estatistica"
+        }
+      ],
+      "Articles": [
+        {
+          "ID": 44784,
+          "Title": "Longaria"
+        }
+      ]
+    },
+    {
+      "ID": 2147483642,
+      "Title": "Nature and physical sciences",
+      "Categories": [
+        {
+          "ID": 108,
+          "Title": "Categoría:Zoolochía"
+        },
+        {
+          "ID": 389,
+          "Title": "Categoría:Quimica"
+        },
+        {
+          "ID": 12923,
+          "Title": "Categoría:Desastres"
+        },
+        {
+          "ID": 32037,
+          "Title": "Categoría:Compuestos quimicos"
+        },
+        {
+          "ID": 61096,
+          "Title": "Categoría:Sciencias"
+        },
+        {
+          "ID": 61101,
+          "Title": "Categoría:Sciencias naturals"
+        },
+        {
+          "ID": 62896,
+          "Title": "Categoría:Combinacions quimicas"
+        },
+        {
+          "ID": 70817,
+          "Title": "Categoría:Naturaleza"
+        },
+        {
+          "ID": 92010,
+          "Title": "Categoría:Fauna por continent"
+        },
+        {
+          "ID": 95763,
+          "Title": "Categoría:Fisica"
+        }
+      ],
+      "Articles": [
+        {
+          "ID": 6542,
+          "Title": "Fragaria"
+        },
+        {
+          "ID": 6696,
+          "Title": "Triticum"
+        },
+        {
+          "ID": 8745,
+          "Title": "Zea mays"
+        },
+        {
+          "ID": 8746,
+          "Title": "Oryza sativa"
+        },
+        {
+          "ID": 11099,
+          "Title": "Limón"
+        },
+        {
+          "ID": 12445,
+          "Title": "Narancha (fruita)"
+        },
+        {
+          "ID": 13829,
+          "Title": "Rutilismo"
+        },
+        {
+          "ID": 14448,
+          "Title": "Garrulus"
+        },
+        {
+          "ID": 25875,
+          "Title": "Juniperus thurifera"
+        },
+        {
+          "ID": 28690,
+          "Title": "Cucurbita maxima"
+        },
+        {
+          "ID": 28699,
+          "Title": "Musclo"
+        },
+        {
+          "ID": 29883,
+          "Title": "Fuego"
+        },
+        {
+          "ID": 32551,
+          "Title": "Solanum lycopersicum"
+        },
+        {
+          "ID": 44067,
+          "Title": "Camelus"
+        },
+        {
+          "ID": 46789,
+          "Title": "Roz"
+        },
+        {
+          "ID": 48268,
+          "Title": "Sistema reproductivo"
+        },
+        {
+          "ID": 68003,
+          "Title": "Pene"
+        },
+        {
+          "ID": 68004,
+          "Title": "Testiclo"
+        },
+        {
+          "ID": 97826,
+          "Title": "Fraga"
+        },
+        {
+          "ID": 114541,
+          "Title": "Pantherinae"
+        }
+      ]
+    },
+    {
+      "ID": 2147483643,
+      "Title": "People and self",
+      "Categories": [
+        {
+          "ID": 372,
+          "Title": "Categoría:Biografías"
+        },
+        {
+          "ID": 9389,
+          "Title": "Categoría:Muller"
+        },
+        {
+          "ID": 35466,
+          "Title": "Categoría:Apellitos"
+        }
+      ],
+      "Articles": [
+        {
+          "ID": 6620,
+          "Title": "Sigmund Freud"
+        },
+        {
+          "ID": 8234,
+          "Title": "Cristofo Colombo"
+        },
+        {
+          "ID": 12307,
+          "Title": "Galileo Galilei"
+        },
+        {
+          "ID": 15195,
+          "Title": "Florence Nightingale"
+        },
+        {
+          "ID": 15200,
+          "Title": "Richard Wagner"
+        },
+        {
+          "ID": 15455,
+          "Title": "Adolf Hitler"
+        },
+        {
+          "ID": 15625,
+          "Title": "Tomás d'Aquino"
+        },
+        {
+          "ID": 35261,
+          "Title": "Alan Turing"
+        },
+        {
+          "ID": 35708,
+          "Title": "Carl Friedrich Gauss"
+        },
+        {
+          "ID": 37703,
+          "Title": "Noam Chomsky"
+        },
+        {
+          "ID": 37812,
+          "Title": "René Descartes"
+        },
+        {
+          "ID": 44728,
+          "Title": "Joseph Smith, Jr."
+        },
+        {
+          "ID": 45377,
+          "Title": "Fibonacci"
+        },
+        {
+          "ID": 45806,
+          "Title": "Johannes Kepler"
+        },
+        {
+          "ID": 45831,
+          "Title": "Adam Smith"
+        },
+        {
+          "ID": 52138,
+          "Title": "Lewis Carroll"
+        },
+        {
+          "ID": 60664,
+          "Title": "Alexander Fleming"
+        },
+        {
+          "ID": 64069,
+          "Title": "Harry Houdini"
+        },
+        {
+          "ID": 64136,
+          "Title": "Elton John"
+        },
+        {
+          "ID": 67291,
+          "Title": "John Lennon"
+        },
+        {
+          "ID": 115089,
+          "Title": "Bill Gates"
+        },
+        {
+          "ID": 115196,
+          "Title": "George Harrison"
+        },
+        {
+          "ID": 117405,
+          "Title": "Carl Sagan"
+        }
+      ]
+    },
+    {
+      "ID": 2147483644,
+      "Title": "Philosophy and thinking",
+      "Categories": [
+        {
+          "ID": 418,
+          "Title": "Categoría:Filosofía"
+        },
+        {
+          "ID": 14985,
+          "Title": "Categoría:Etica"
+        },
+        {
+          "ID": 36710,
+          "Title": "Categoría:Ideolochía"
+        },
+        {
+          "ID": 117468,
+          "Title": "Categoría:Pensamiento"
+        },
+        {
+          "ID": 117470,
+          "Title": "Categoría:Brancas d'a filosofía"
+        }
+      ],
+      "Articles": [
+        {
+          "ID": 43305,
+          "Title": "Belleza"
+        }
+      ]
+    },
+    {
+      "ID": 2147483645,
+      "Title": "Religion and belief systems",
+      "Categories": [
+        {
+          "ID": 6367,
+          "Title": "Categoría:Relichión"
+        }
+      ]
+    },
+    {
+      "ID": 2147483646,
+      "Title": "Society and social sciences",
+      "Categories": [
+        {
+          "ID": 409,
+          "Title": "Categoría:Dreito"
+        },
+        {
+          "ID": 9390,
+          "Title": "Categoría:Feminismo"
+        },
+        {
+          "ID": 61104,
+          "Title": "Categoría:Sciencias socials"
+        },
+        {
+          "ID": 61168,
+          "Title": "Categoría:Organizacions internacionals y rechionals"
+        },
+        {
+          "ID": 61566,
+          "Title": "Categoría:Sociedat"
+        },
+        {
+          "ID": 61619,
+          "Title": "Categoría:Humanidatz"
+        }
+      ],
+      "Articles": [
+        {
+          "ID": 1229,
+          "Title": "Barbados"
+        },
+        {
+          "ID": 2278,
+          "Title": "Unión Europea"
+        },
+        {
+          "ID": 2743,
+          "Title": "Irán"
+        },
+        {
+          "ID": 3005,
+          "Title": "Horario de verano"
+        },
+        {
+          "ID": 3354,
+          "Title": "Chile"
+        },
+        {
+          "ID": 18479,
+          "Title": "Universidat de Bolonia"
+        },
+        {
+          "ID": 19881,
+          "Title": "Universidat Hebrea de Cherusalem"
+        },
+        {
+          "ID": 22176,
+          "Title": "Treballo social"
+        },
+        {
+          "ID": 90190,
+          "Title": "The New York Times"
+        },
+        {
+          "ID": 95445,
+          "Title": "The Times of India"
+        },
+        {
+          "ID": 97456,
+          "Title": "Micronación"
+        },
+        {
+          "ID": 101414,
+          "Title": "Universidat de Cambridge"
+        },
+        {
+          "ID": 116108,
+          "Title": "Universidat de Washington"
+        },
+        {
+          "ID": 117618,
+          "Title": "Bandera d'Australia"
+        },
+        {
+          "ID": 117794,
+          "Title": "Universidat d'Oxford"
+        }
+      ]
+    },
+    {
+      "ID": 2147483647,
+      "Title": "Technology and applied sciences",
+      "Categories": [
+        {
+          "ID": 1753,
+          "Title": "Categoría:Informatica"
+        },
+        {
+          "ID": 6119,
+          "Title": "Categoría:Incheniería"
+        },
+        {
+          "ID": 10479,
+          "Title": "Categoría:Internet"
+        },
+        {
+          "ID": 20168,
+          "Title": "Categoría:Tecnolochía"
+        },
+        {
+          "ID": 35268,
+          "Title": "Categoría:Tecnolochía melitar"
+        },
+        {
+          "ID": 61097,
+          "Title": "Categoría:Sciencias aplicatas"
+        },
+        {
+          "ID": 61711,
+          "Title": "Categoría:Transporte"
+        },
+        {
+          "ID": 62195,
+          "Title": "Categoría:Electronica"
+        },
+        {
+          "ID": 62824,
+          "Title": "Categoría:Disenyo"
+        },
+        {
+          "ID": 78192,
+          "Title": "Categoría:Bases de datos"
+        }
+      ],
+      "Articles": [
+        {
+          "ID": 3281,
+          "Title": "Dominio d'Internet"
+        },
+        {
+          "ID": 15555,
+          "Title": "Paret"
+        },
+        {
+          "ID": 90132,
+          "Title": "Soldadura"
+        }
+      ]
+    }
+  ],
+  "Filters": [
+    {
+      "ID": 60240,
+      "Title": "Categoría:Desambigación"
+    }
+  ]
+}

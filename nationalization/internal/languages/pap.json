@@ -1,0 +1,243 @@
+{
+  "Language": "pap",
+  "Topics": [
+    {
+      "ID": 2147483637,
+      "Title": "Culture and the arts",
+      "Categories": [
+        {
+          "ID": 1389,
+          "Title": "Category:Kultura"
+        },
+        {
+          "ID": 1417,
+          "Title": "Category:Deporte"
+        },
+        {
+          "ID": 4028,
+          "Title": "Category:Arte"
+        }
+      ],
+      "Articles": [
+        {
+          "ID": 1594,
+          "Title": "Wikipedia"
+        },
+        {
+          "ID": 2735,
+          "Title": "Ensiklopedia"
+        },
+        {
+          "ID": 3587,
+          "Title": "Koffie"
+        },
+        {
+          "ID": 3705,
+          "Title": "Realismo"
+        }
+      ]
+    },
+    {
+      "ID": 2147483638,
+      "Title": "Geography and places",
+      "Categories": [
+        {
+          "ID": 3098,
+          "Title": "Category:Geografia"
+        }
+      ],
+      "Articles": [
+        {
+          "ID": 3024,
+          "Title": "Myanmar"
+        },
+        {
+          "ID": 3269,
+          "Title": "Paris"
+        },
+        {
+          "ID": 3863,
+          "Title": "Australia"
+        },
+        {
+          "ID": 5944,
+          "Title": "Canberra"
+        },
+        {
+          "ID": 7128,
+          "Title": "Venezia"
+        }
+      ]
+    },
+    {
+      "ID": 2147483639,
+      "Title": "Health and fitness"
+    },
+    {
+      "ID": 2147483640,
+      "Title": "History and events",
+      "Categories": [
+        {
+          "ID": 2722,
+          "Title": "Category:Historia"
+        }
+      ],
+      "Articles": [
+        {
+          "ID": 7111,
+          "Title": "Donald Trump"
+        }
+      ]
+    },
+    {
+      "ID": 2147483641,
+      "Title": "Mathematics and logic"
+    },
+    {
+      "ID": 2147483642,
+      "Title": "Nature and physical sciences",
+      "Categories": [
+        {
+          "ID": 2984,
+          "Title": "Category:Siencia"
+        },
+        {
+          "ID": 3188,
+          "Title": "Category:Kimiko"
+        }
+      ],
+      "Articles": [
+        {
+          "ID": 4672,
+          "Title": "Mango"
+        }
+      ]
+    },
+    {
+      "ID": 2147483643,
+      "Title": "People and self",
+      "Articles": [
+        {
+          "ID": 3219,
+          "Title": "Cristóbal Colón"
+        },
+        {
+          "ID": 3793,
+          "Title": "John Lennon"
+        },
+        {
+          "ID": 5830,
+          "Title": "Adolf Hitler"
+        }
+      ]
+    },
+    {
+      "ID": 2147483644,
+      "Title": "Philosophy and thinking"
+    },
+    {
+      "ID": 2147483645,
+      "Title": "Religion and belief systems",
+      "Categories": [
+        {
+          "ID": 2691,
+          "Title": "Category:Religion"
+        }
+      ]
+    },
+    {
+      "ID": 2147483646,
+      "Title": "Society and social sciences",
+      "Categories": [
+        {
+          "ID": 4029,
+          "Title": "Category:Sociedad"
+        },
+        {
+          "ID": 4499,
+          "Title": "Category:Derecho"
+        }
+      ],
+      "Articles": [
+        {
+          "ID": 2210,
+          "Title": "Barbados"
+        },
+        {
+          "ID": 3013,
+          "Title": "Union Oropeo"
+        },
+        {
+          "ID": 3017,
+          "Title": "Iran"
+        },
+        {
+          "ID": 3222,
+          "Title": "Chile"
+        },
+        {
+          "ID": 5420,
+          "Title": "Universidat di Oxford"
+        },
+        {
+          "ID": 5421,
+          "Title": "Universidat di Cambridge"
+        },
+        {
+          "ID": 5422,
+          "Title": "Universidat di Nottingham"
+        },
+        {
+          "ID": 5423,
+          "Title": "Universidat di Liverpool"
+        },
+        {
+          "ID": 5424,
+          "Title": "Universidat di Leeds"
+        },
+        {
+          "ID": 5425,
+          "Title": "Universidat di Sussex"
+        },
+        {
+          "ID": 5426,
+          "Title": "Universidat di Harvard"
+        },
+        {
+          "ID": 5428,
+          "Title": "Universidat Stanford"
+        },
+        {
+          "ID": 7054,
+          "Title": "Universidat di Princeton"
+        },
+        {
+          "ID": 7071,
+          "Title": "Universidat di Michigan"
+        }
+      ]
+    },
+    {
+      "ID": 2147483647,
+      "Title": "Technology and applied sciences",
+      "Categories": [
+        {
+          "ID": 2719,
+          "Title": "Category:Teknologia"
+        }
+      ],
+      "Articles": [
+        {
+          "ID": 4404,
+          "Title": "Pepsi"
+        }
+      ]
+    }
+  ],
+  "Filters": [
+    {
+      "ID": 3605,
+      "Title": "Category:All article disambiguation pages"
+    }
+  ]
+}

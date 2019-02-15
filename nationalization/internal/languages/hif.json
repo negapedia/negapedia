@@ -1,0 +1,245 @@
+{
+  "Language": "hif",
+  "Topics": [
+    {
+      "ID": 2147483637,
+      "Title": "Culture and the arts",
+      "Categories": [
+        {
+          "ID": 4768,
+          "Title": "vibhag:Sanskriti"
+        },
+        {
+          "ID": 10049,
+          "Title": "vibhag:Rang"
+        },
+        {
+          "ID": 17931,
+          "Title": "vibhag:Art"
+        }
+      ],
+      "Articles": [
+        {
+          "ID": 8720,
+          "Title": "Beer"
+        },
+        {
+          "ID": 9332,
+          "Title": "Coffee"
+        },
+        {
+          "ID": 9387,
+          "Title": "Asliyat"
+        },
+        {
+          "ID": 17808,
+          "Title": "Bared"
+        },
+        {
+          "ID": 21585,
+          "Title": "Encyclopedia"
+        }
+      ]
+    },
+    {
+      "ID": 2147483638,
+      "Title": "Geography and places",
+      "Categories": [
+        {
+          "ID": 4766,
+          "Title": "vibhag:Jagha"
+        }
+      ],
+      "Articles": [
+        {
+          "ID": 310,
+          "Title": "Australia"
+        },
+        {
+          "ID": 3008,
+          "Title": "Paris"
+        },
+        {
+          "ID": 3162,
+          "Title": "Myanmar"
+        },
+        {
+          "ID": 5295,
+          "Title": "Canberra"
+        },
+        {
+          "ID": 8476,
+          "Title": "Queensland"
+        },
+        {
+          "ID": 8827,
+          "Title": "Pyramid"
+        },
+        {
+          "ID": 9613,
+          "Title": "Insaan"
+        }
+      ]
+    },
+    {
+      "ID": 2147483639,
+      "Title": "Health and fitness"
+    },
+    {
+      "ID": 2147483640,
+      "Title": "History and events",
+      "Categories": [
+        {
+          "ID": 60,
+          "Title": "vibhag:Itihaas"
+        }
+      ]
+    },
+    {
+      "ID": 2147483641,
+      "Title": "Mathematics and logic"
+    },
+    {
+      "ID": 2147483642,
+      "Title": "Nature and physical sciences",
+      "Categories": [
+        {
+          "ID": 4497,
+          "Title": "vibhag:Science"
+        },
+        {
+          "ID": 10048,
+          "Title": "vibhag:Bhautik vigyan"
+        }
+      ],
+      "Articles": [
+        {
+          "ID": 9679,
+          "Title": "Uuntth"
+        },
+        {
+          "ID": 17805,
+          "Title": "Bhaat"
+        }
+      ]
+    },
+    {
+      "ID": 2147483643,
+      "Title": "People and self",
+      "Articles": [
+        {
+          "ID": 1978,
+          "Title": "Christopher Columbus"
+        },
+        {
+          "ID": 4445,
+          "Title": "Adolf Hitler"
+        },
+        {
+          "ID": 4587,
+          "Title": "Richard Wagner"
+        },
+        {
+          "ID": 4818,
+          "Title": "Fibonacci"
+        },
+        {
+          "ID": 4829,
+          "Title": "Galileo Galilei"
+        },
+        {
+          "ID": 4831,
+          "Title": "Carl Friedrich Gauss"
+        },
+        {
+          "ID": 4840,
+          "Title": "Johannes Kepler"
+        },
+        {
+          "ID": 4897,
+          "Title": "Alan Turing"
+        },
+        {
+          "ID": 5015,
+          "Title": "Noam Chomsky"
+        },
+        {
+          "ID": 5017,
+          "Title": "René Descartes"
+        },
+        {
+          "ID": 5018,
+          "Title": "Sigmund Freud"
+        },
+        {
+          "ID": 5170,
+          "Title": "Adam Smith"
+        },
+        {
+          "ID": 5649,
+          "Title": "Thomas Aquinas"
+        },
+        {
+          "ID": 5851,
+          "Title": "Florence Nightingale"
+        },
+        {
+          "ID": 32271,
+          "Title": "The Big Bang"
+        }
+      ]
+    },
+    {
+      "ID": 2147483644,
+      "Title": "Philosophy and thinking",
+      "Categories": [
+        {
+          "ID": 9327,
+          "Title": "vibhag:Philosophy"
+        }
+      ],
+      "Articles": [
+        {
+          "ID": 9305,
+          "Title": "Beauty"
+        }
+      ]
+    },
+    {
+      "ID": 2147483645,
+      "Title": "Religion and belief systems",
+      "Categories": [
+        {
+          "ID": 5360,
+          "Title": "vibhag:Dharam"
+        }
+      ]
+    },
+    {
+      "ID": 2147483646,
+      "Title": "Society and social sciences",
+      "Articles": [
+        {
+          "ID": 2674,
+          "Title": "Iran"
+        },
+        {
+          "ID": 3021,
+          "Title": "Barbados"
+        },
+        {
+          "ID": 3987,
+          "Title": "Chile"
+        },
+        {
+          "ID": 4376,
+          "Title": "European Union"
+        }
+      ]
+    },
+    {
+      "ID": 2147483647,
+      "Title": "Technology and applied sciences"
+    }
+  ]
+}

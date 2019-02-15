@@ -1,0 +1,379 @@
+{
+  "Language": "wa",
+  "Topics": [
+    {
+      "ID": 2147483637,
+      "Title": "Culture and the arts",
+      "Categories": [
+        {
+          "ID": 21392,
+          "Title": "Categoreye:Groupe di muzike"
+        },
+        {
+          "ID": 21395,
+          "Title": "Categoreye:Årts"
+        },
+        {
+          "ID": 24345,
+          "Title": "Categoreye:Nourixhince"
+        },
+        {
+          "ID": 26072,
+          "Title": "Categoreye:Amagnîs et aboeres"
+        },
+        {
+          "ID": 27075,
+          "Title": "Categoreye:Tins fouzeure"
+        },
+        {
+          "ID": 31466,
+          "Title": "Categoreye:Fimes"
+        },
+        {
+          "ID": 34045,
+          "Title": "Categoreye:Spôrts"
+        },
+        {
+          "ID": 40730,
+          "Title": "Categoreye:Coleurs"
+        }
+      ],
+      "Articles": [
+        {
+          "ID": 1041,
+          "Title": "Wikipedia"
+        },
+        {
+          "ID": 1042,
+          "Title": "Eciclopedeye"
+        },
+        {
+          "ID": 3452,
+          "Title": "Pwin"
+        },
+        {
+          "ID": 8991,
+          "Title": "Bire"
+        },
+        {
+          "ID": 11453,
+          "Title": "Wastea"
+        },
+        {
+          "ID": 26882,
+          "Title": "Pourcea"
+        },
+        {
+          "ID": 33096,
+          "Title": "Led Zeppelin"
+        },
+        {
+          "ID": 33289,
+          "Title": "Singlé"
+        },
+        {
+          "ID": 36828,
+          "Title": "Påsses itålyinnes"
+        },
+        {
+          "ID": 39790,
+          "Title": "Pan etir"
+        },
+        {
+          "ID": 39806,
+          "Title": "Biscûte"
+        },
+        {
+          "ID": 41218,
+          "Title": "Lård"
+        },
+        {
+          "ID": 42114,
+          "Title": "Tchôd-tchén"
+        },
+        {
+          "ID": 42222,
+          "Title": "Oû (amagnî)"
+        },
+        {
+          "ID": 44300,
+          "Title": "Oû (zolodjeye)"
+        }
+      ]
+    },
+    {
+      "ID": 2147483638,
+      "Title": "Geography and places",
+      "Categories": [
+        {
+          "ID": 15807,
+          "Title": "Categoreye:Djeyografeye"
+        }
+      ],
+      "Articles": [
+        {
+          "ID": 30429,
+          "Title": "Paris"
+        },
+        {
+          "ID": 31900,
+          "Title": "Djin (biyolodjeye)"
+        },
+        {
+          "ID": 39319,
+          "Title": "Ostraleye"
+        }
+      ]
+    },
+    {
+      "ID": 2147483639,
+      "Title": "Health and fitness",
+      "Categories": [
+        {
+          "ID": 15694,
+          "Title": "Categoreye:Medcene"
+        },
+        {
+          "ID": 35801,
+          "Title": "Categoreye:Maladeyes di famile"
+        }
+      ]
+    },
+    {
+      "ID": 2147483640,
+      "Title": "History and events",
+      "Categories": [
+        {
+          "ID": 15806,
+          "Title": "Categoreye:Istwere"
+        }
+      ],
+      "Articles": [
+        {
+          "ID": 40503,
+          "Title": "Atacaedjes terorisses di Noû York et Wachintone (2001)"
+        },
+        {
+          "ID": 42206,
+          "Title": "Donald Trump"
+        }
+      ]
+    },
+    {
+      "ID": 2147483641,
+      "Title": "Mathematics and logic",
+      "Categories": [
+        {
+          "ID": 26490,
+          "Title": "Categoreye:Matematike"
+        }
+      ]
+    },
+    {
+      "ID": 2147483642,
+      "Title": "Nature and physical sciences",
+      "Categories": [
+        {
+          "ID": 15808,
+          "Title": "Categoreye:Syinces"
+        },
+        {
+          "ID": 18913,
+          "Title": "Categoreye:Tchimeye"
+        },
+        {
+          "ID": 20030,
+          "Title": "Categoreye:Fizike"
+        },
+        {
+          "ID": 42237,
+          "Title": "Categoreye:Rascråwes"
+        },
+        {
+          "ID": 44066,
+          "Title": "Categoreye:Zolodjeye"
+        }
+      ],
+      "Articles": [
+        {
+          "ID": 3682,
+          "Title": "Dinrêye d' awousse"
+        },
+        {
+          "ID": 3684,
+          "Title": "Frumint"
+        },
+        {
+          "ID": 34666,
+          "Title": "Chamo"
+        },
+        {
+          "ID": 35678,
+          "Title": "Pixha"
+        },
+        {
+          "ID": 35679,
+          "Title": "Vé (antomeye)"
+        },
+        {
+          "ID": 35866,
+          "Title": "Riz"
+        },
+        {
+          "ID": 36612,
+          "Title": "Rossea (tchivleure)"
+        },
+        {
+          "ID": 40943,
+          "Title": "Feu"
+        },
+        {
+          "ID": 41139,
+          "Title": "Musse"
+        }
+      ]
+    },
+    {
+      "ID": 2147483643,
+      "Title": "People and self",
+      "Categories": [
+        {
+          "ID": 19041,
+          "Title": "Categoreye:Rilomêyès djins"
+        },
+        {
+          "ID": 27077,
+          "Title": "Categoreye:Vicaedje des djins"
+        }
+      ],
+      "Articles": [
+        {
+          "ID": 17543,
+          "Title": "Adolf Hitler"
+        },
+        {
+          "ID": 32292,
+          "Title": "René Descartes"
+        },
+        {
+          "ID": 38276,
+          "Title": "Lewis Carroll"
+        }
+      ]
+    },
+    {
+      "ID": 2147483644,
+      "Title": "Philosophy and thinking",
+      "Categories": [
+        {
+          "ID": 20604,
+          "Title": "Categoreye:Filozofeye"
+        },
+        {
+          "ID": 34072,
+          "Title": "Categoreye:Mouvmints d' idêyes"
+        }
+      ],
+      "Articles": [
+        {
+          "ID": 43491,
+          "Title": "Bouneur"
+        }
+      ]
+    },
+    {
+      "ID": 2147483645,
+      "Title": "Religion and belief systems",
+      "Categories": [
+        {
+          "ID": 12714,
+          "Title": "Categoreye:Rilidjons"
+        },
+        {
+          "ID": 30521,
+          "Title": "Categoreye:Croeyance"
+        }
+      ]
+    },
+    {
+      "ID": 2147483646,
+      "Title": "Society and social sciences",
+      "Categories": [
+        {
+          "ID": 18707,
+          "Title": "Categoreye:Droet"
+        },
+        {
+          "ID": 20605,
+          "Title": "Categoreye:Syinces sociåles"
+        },
+        {
+          "ID": 21758,
+          "Title": "Categoreye:Syinces uminnes"
+        },
+        {
+          "ID": 42231,
+          "Title": "Categoreye:Lwès"
+        }
+      ],
+      "Articles": [
+        {
+          "ID": 21444,
+          "Title": "Union Uropeyinne"
+        },
+        {
+          "ID": 22073,
+          "Title": "Barbåde"
+        },
+        {
+          "ID": 31755,
+          "Title": "Tchili"
+        },
+        {
+          "ID": 32603,
+          "Title": "Iran"
+        }
+      ]
+    },
+    {
+      "ID": 2147483647,
+      "Title": "Technology and applied sciences",
+      "Categories": [
+        {
+          "ID": 17323,
+          "Title": "Categoreye:Tecnolodjeye"
+        },
+        {
+          "ID": 17324,
+          "Title": "Categoreye:Tecnikes"
+        },
+        {
+          "ID": 20632,
+          "Title": "Categoreye:Daegntoele"
+        },
+        {
+          "ID": 27084,
+          "Title": "Categoreye:Infôrmatike"
+        },
+        {
+          "ID": 27494,
+          "Title": "Categoreye:Indjenioreye"
+        },
+        {
+          "ID": 28010,
+          "Title": "Categoreye:Transpôrt"
+        },
+        {
+          "ID": 44564,
+          "Title": "Categoreye:Ahesses des sôdårds"
+        }
+      ]
+    }
+  ],
+  "Filters": [
+    {
+      "ID": 12570,
+      "Title": "Categoreye:Omonimeye"
+    }
+  ]
+}

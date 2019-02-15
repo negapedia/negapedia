@@ -1,0 +1,235 @@
+{
+  "Language": "nov",
+  "Topics": [
+    {
+      "ID": 2147483637,
+      "Title": "Culture and the arts",
+      "Categories": [
+        {
+          "ID": 4851,
+          "Title": "Category:Artes"
+        },
+        {
+          "ID": 6103,
+          "Title": "Category:Sporte"
+        },
+        {
+          "ID": 7938,
+          "Title": "Category:Musikal grupes"
+        }
+      ],
+      "Articles": [
+        {
+          "ID": 3449,
+          "Title": "Wikipedie"
+        }
+      ]
+    },
+    {
+      "ID": 2147483638,
+      "Title": "Geography and places",
+      "Categories": [
+        {
+          "ID": 4849,
+          "Title": "Category:Geografia"
+        },
+        {
+          "ID": 6386,
+          "Title": "Category:Plases"
+        }
+      ],
+      "Articles": [
+        {
+          "ID": 3836,
+          "Title": "Paris"
+        },
+        {
+          "ID": 3927,
+          "Title": "Myanmar"
+        },
+        {
+          "ID": 5429,
+          "Title": "Australia"
+        },
+        {
+          "ID": 5518,
+          "Title": "Homo sapiens"
+        }
+      ]
+    },
+    {
+      "ID": 2147483639,
+      "Title": "Health and fitness"
+    },
+    {
+      "ID": 2147483640,
+      "Title": "History and events",
+      "Categories": [
+        {
+          "ID": 6232,
+          "Title": "Category:Historie"
+        }
+      ]
+    },
+    {
+      "ID": 2147483641,
+      "Title": "Mathematics and logic",
+      "Categories": [
+        {
+          "ID": 4803,
+          "Title": "Category:Matematike"
+        },
+        {
+          "ID": 4850,
+          "Title": "Category:Logike"
+        }
+      ]
+    },
+    {
+      "ID": 2147483642,
+      "Title": "Nature and physical sciences",
+      "Categories": [
+        {
+          "ID": 4627,
+          "Title": "Category:Natural sienties"
+        },
+        {
+          "ID": 4628,
+          "Title": "Category:Fisikal sienties"
+        },
+        {
+          "ID": 4630,
+          "Title": "Category:Kemie"
+        },
+        {
+          "ID": 4631,
+          "Title": "Category:Kemial substanties"
+        },
+        {
+          "ID": 4634,
+          "Title": "Category:Fisike"
+        },
+        {
+          "ID": 4802,
+          "Title": "Category:Sienties"
+        },
+        {
+          "ID": 6387,
+          "Title": "Category:Nature"
+        },
+        {
+          "ID": 6923,
+          "Title": "Category:Soologia"
+        }
+      ],
+      "Articles": [
+        {
+          "ID": 5425,
+          "Title": "Penise"
+        }
+      ]
+    },
+    {
+      "ID": 2147483643,
+      "Title": "People and self",
+      "Articles": [
+        {
+          "ID": 3488,
+          "Title": "Ayn Rand"
+        },
+        {
+          "ID": 4413,
+          "Title": "Galileo Galilei"
+        },
+        {
+          "ID": 4456,
+          "Title": "Johannes Kepler"
+        },
+        {
+          "ID": 5680,
+          "Title": "Florence Nightingale"
+        },
+        {
+          "ID": 5762,
+          "Title": "Adolf Hitler"
+        },
+        {
+          "ID": 8091,
+          "Title": "Ted Cruz"
+        }
+      ]
+    },
+    {
+      "ID": 2147483644,
+      "Title": "Philosophy and thinking",
+      "Categories": [
+        {
+          "ID": 4847,
+          "Title": "Category:Filosofia"
+        },
+        {
+          "ID": 4854,
+          "Title": "Category:Filosofial teories"
+        }
+      ]
+    },
+    {
+      "ID": 2147483645,
+      "Title": "Religion and belief systems",
+      "Categories": [
+        {
+          "ID": 6682,
+          "Title": "Category:Religiones"
+        }
+      ]
+    },
+    {
+      "ID": 2147483646,
+      "Title": "Society and social sciences",
+      "Categories": [
+        {
+          "ID": 6095,
+          "Title": "Category:Human sienties"
+        },
+        {
+          "ID": 6696,
+          "Title": "Category:Sosial sienties"
+        }
+      ],
+      "Articles": [
+        {
+          "ID": 3677,
+          "Title": "Barbados"
+        },
+        {
+          "ID": 3911,
+          "Title": "Iran"
+        },
+        {
+          "ID": 4000,
+          "Title": "Chile"
+        },
+        {
+          "ID": 5660,
+          "Title": "Europan Unione"
+        }
+      ]
+    },
+    {
+      "ID": 2147483647,
+      "Title": "Technology and applied sciences",
+      "Categories": [
+        {
+          "ID": 4871,
+          "Title": "Category:Aplikati sienties"
+        }
+      ]
+    }
+  ],
+  "Filters": [
+    {
+      "ID": 4042,
+      "Title": "Category:Desambiguatione"
+    }
+  ]
+}

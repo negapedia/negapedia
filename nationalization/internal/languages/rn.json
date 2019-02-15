@@ -1,0 +1,101 @@
+{
+  "Language": "rn",
+  "Topics": [
+    {
+      "ID": 2147483637,
+      "Title": "Culture and the arts",
+      "Categories": [
+        {
+          "ID": 2824,
+          "Title": "Category:Ibiribwa"
+        }
+      ]
+    },
+    {
+      "ID": 2147483638,
+      "Title": "Geography and places",
+      "Articles": [
+        {
+          "ID": 2721,
+          "Title": "Australiya"
+        },
+        {
+          "ID": 2865,
+          "Title": "Paris"
+        },
+        {
+          "ID": 4039,
+          "Title": "Burumaniya"
+        }
+      ]
+    },
+    {
+      "ID": 2147483639,
+      "Title": "Health and fitness"
+    },
+    {
+      "ID": 2147483640,
+      "Title": "History and events"
+    },
+    {
+      "ID": 2147483641,
+      "Title": "Mathematics and logic",
+      "Categories": [
+        {
+          "ID": 2631,
+          "Title": "Category:Ibiharuro"
+        }
+      ]
+    },
+    {
+      "ID": 2147483642,
+      "Title": "Nature and physical sciences",
+      "Categories": [
+        {
+          "ID": 2630,
+          "Title": "Category:Ubumenyi"
+        }
+      ],
+      "Articles": [
+        {
+          "ID": 2823,
+          "Title": "Umuceri"
+        },
+        {
+          "ID": 2839,
+          "Title": "Tomati"
+        }
+      ]
+    },
+    {
+      "ID": 2147483643,
+      "Title": "People and self"
+    },
+    {
+      "ID": 2147483644,
+      "Title": "Philosophy and thinking"
+    },
+    {
+      "ID": 2147483645,
+      "Title": "Religion and belief systems"
+    },
+    {
+      "ID": 2147483646,
+      "Title": "Society and social sciences",
+      "Articles": [
+        {
+          "ID": 2694,
+          "Title": "Chili"
+        },
+        {
+          "ID": 4403,
+          "Title": "Irani"
+        }
+      ]
+    },
+    {
+      "ID": 2147483647,
+      "Title": "Technology and applied sciences"
+    }
+  ]
+}

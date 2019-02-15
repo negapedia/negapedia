@@ -1,0 +1,347 @@
+{
+  "Language": "ext",
+  "Topics": [
+    {
+      "ID": 2147483637,
+      "Title": "Culture and the arts",
+      "Categories": [
+        {
+          "ID": 39,
+          "Title": "Categoría:Alimentus"
+        },
+        {
+          "ID": 44,
+          "Title": "Categoría:Artis"
+        },
+        {
+          "ID": 86,
+          "Title": "Categoría:Curtura"
+        },
+        {
+          "ID": 112,
+          "Title": "Categoría:Espetáculus"
+        },
+        {
+          "ID": 153,
+          "Title": "Categoría:Óciu"
+        },
+        {
+          "ID": 2855,
+          "Title": "Categoría:Deportis"
+        }
+      ],
+      "Articles": [
+        {
+          "ID": 536,
+          "Title": "Wikipedia en asturianu"
+        },
+        {
+          "ID": 2370,
+          "Title": "Wikipedia"
+        },
+        {
+          "ID": 4519,
+          "Title": "Led Zeppelin"
+        },
+        {
+          "ID": 4526,
+          "Title": "Cerveza"
+        },
+        {
+          "ID": 4757,
+          "Title": "Sus scrofa domestica"
+        },
+        {
+          "ID": 5611,
+          "Title": "Chocolati"
+        }
+      ]
+    },
+    {
+      "ID": 2147483638,
+      "Title": "Geography and places",
+      "Categories": [
+        {
+          "ID": 2206,
+          "Title": "Categoría:Urbanismu"
+        },
+        {
+          "ID": 2872,
+          "Title": "Categoría:Geografia"
+        }
+      ],
+      "Articles": [
+        {
+          "ID": 302,
+          "Title": "Austrália"
+        },
+        {
+          "ID": 3573,
+          "Title": "París"
+        },
+        {
+          "ID": 3808,
+          "Title": "Venécia"
+        },
+        {
+          "ID": 4253,
+          "Title": "Myanmar"
+        },
+        {
+          "ID": 4452,
+          "Title": "Homo Sapiens"
+        }
+      ]
+    },
+    {
+      "ID": 2147483639,
+      "Title": "Health and fitness",
+      "Categories": [
+        {
+          "ID": 2859,
+          "Title": "Categoría:Céncias la salú"
+        },
+        {
+          "ID": 3085,
+          "Title": "Categoría:Meicina"
+        }
+      ]
+    },
+    {
+      "ID": 2147483640,
+      "Title": "History and events",
+      "Categories": [
+        {
+          "ID": 116,
+          "Title": "Categoría:Estória"
+        }
+      ],
+      "Articles": [
+        {
+          "ID": 7919,
+          "Title": "Donald Trump"
+        }
+      ]
+    },
+    {
+      "ID": 2147483641,
+      "Title": "Mathematics and logic",
+      "Categories": [
+        {
+          "ID": 853,
+          "Title": "Categoría:Matemáticas"
+        }
+      ],
+      "Articles": [
+        {
+          "ID": 3951,
+          "Title": "Longol"
+        }
+      ]
+    },
+    {
+      "ID": 2147483642,
+      "Title": "Nature and physical sciences",
+      "Categories": [
+        {
+          "ID": 88,
+          "Title": "Categoría:Céncias naturalis"
+        },
+        {
+          "ID": 125,
+          "Title": "Categoría:Física"
+        },
+        {
+          "ID": 854,
+          "Title": "Categoría:Química"
+        },
+        {
+          "ID": 2024,
+          "Title": "Categoría:Céncias"
+        },
+        {
+          "ID": 3935,
+          "Title": "Categoría:Compuestus químicus"
+        }
+      ],
+      "Articles": [
+        {
+          "ID": 4783,
+          "Title": "Zea mays"
+        },
+        {
+          "ID": 4791,
+          "Title": "Oryza sativa"
+        },
+        {
+          "ID": 4807,
+          "Title": "Triticum"
+        },
+        {
+          "ID": 5531,
+          "Title": "Solanum lycopersicum"
+        }
+      ]
+    },
+    {
+      "ID": 2147483643,
+      "Title": "People and self",
+      "Categories": [
+        {
+          "ID": 59,
+          "Title": "Categoría:Biugrafias"
+        },
+        {
+          "ID": 2851,
+          "Title": "Categoría:Biografias"
+        }
+      ],
+      "Articles": [
+        {
+          "ID": 263,
+          "Title": "Adolf Hitler"
+        },
+        {
+          "ID": 358,
+          "Title": "Cristóbal Colón"
+        },
+        {
+          "ID": 498,
+          "Title": "Richard Wagner"
+        },
+        {
+          "ID": 1975,
+          "Title": "Bill Gates"
+        },
+        {
+          "ID": 2169,
+          "Title": "Noam Chomski"
+        },
+        {
+          "ID": 3576,
+          "Title": "Joseph Smith Jr."
+        },
+        {
+          "ID": 3876,
+          "Title": "Sigmund Freud"
+        },
+        {
+          "ID": 3910,
+          "Title": "Galileo Galilei"
+        },
+        {
+          "ID": 4186,
+          "Title": "René Descartes"
+        },
+        {
+          "ID": 4197,
+          "Title": "Adam Smith"
+        },
+        {
+          "ID": 4268,
+          "Title": "Carl Friedrich Gauss"
+        }
+      ]
+    },
+    {
+      "ID": 2147483644,
+      "Title": "Philosophy and thinking",
+      "Categories": [
+        {
+          "ID": 2790,
+          "Title": "Categoría:Escuelas filosóficas"
+        },
+        {
+          "ID": 2841,
+          "Title": "Categoría:Filosofia"
+        }
+      ]
+    },
+    {
+      "ID": 2147483645,
+      "Title": "Religion and belief systems",
+      "Categories": [
+        {
+          "ID": 3382,
+          "Title": "Categoría:Religión"
+        },
+        {
+          "ID": 3384,
+          "Title": "Categoría:Religionis"
+        }
+      ]
+    },
+    {
+      "ID": 2147483646,
+      "Title": "Society and social sciences",
+      "Categories": [
+        {
+          "ID": 89,
+          "Title": "Categoría:Céncias socialis"
+        },
+        {
+          "ID": 91,
+          "Title": "Categoría:Derechu"
+        },
+        {
+          "ID": 863,
+          "Title": "Categoría:Socieá"
+        },
+        {
+          "ID": 5931,
+          "Title": "Categoría:Cencias socialis"
+        }
+      ],
+      "Articles": [
+        {
+          "ID": 540,
+          "Title": "Unión Uropea"
+        },
+        {
+          "ID": 3677,
+          "Title": "Chili"
+        },
+        {
+          "ID": 3941,
+          "Title": "Irán"
+        },
+        {
+          "ID": 4856,
+          "Title": "Barbaus"
+        },
+        {
+          "ID": 7125,
+          "Title": "Univelsiá de Tubinga"
+        }
+      ]
+    },
+    {
+      "ID": 2147483647,
+      "Title": "Technology and applied sciences",
+      "Categories": [
+        {
+          "ID": 87,
+          "Title": "Categoría:Céncias apricás"
+        },
+        {
+          "ID": 102,
+          "Title": "Categoría:Enhenieria"
+        },
+        {
+          "ID": 104,
+          "Title": "Categoría:Enhormática"
+        },
+        {
+          "ID": 2861,
+          "Title": "Categoría:Tenologia"
+        }
+      ]
+    }
+  ],
+  "Filters": [
+    {
+      "ID": 147,
+      "Title": "Categoría:Páhinas de desambiguáncia"
+    }
+  ]
+}

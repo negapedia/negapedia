@@ -1,0 +1,709 @@
+{
+  "Language": "lb",
+  "Topics": [
+    {
+      "ID": 2147483637,
+      "Title": "Culture and the arts",
+      "Categories": [
+        {
+          "ID": 238,
+          "Title": "Kategorie:Sport"
+        },
+        {
+          "ID": 3907,
+          "Title": "Kategorie:Gastronomie"
+        },
+        {
+          "ID": 6106,
+          "Title": "Kategorie:Konscht"
+        },
+        {
+          "ID": 6581,
+          "Title": "Kategorie:Ernierung"
+        },
+        {
+          "ID": 6865,
+          "Title": "Kategorie:Kultur"
+        },
+        {
+          "ID": 6943,
+          "Title": "Kategorie:Liewensmëttel"
+        },
+        {
+          "ID": 7112,
+          "Title": "Kategorie:Iessen an Drénken"
+        },
+        {
+          "ID": 8413,
+          "Title": "Kategorie:Hobby"
+        },
+        {
+          "ID": 12982,
+          "Title": "Kategorie:Faarwen"
+        },
+        {
+          "ID": 65380,
+          "Title": "Kategorie:Museksgruppen"
+        },
+        {
+          "ID": 115656,
+          "Title": "Kategorie:Filmer"
+        },
+        {
+          "ID": 117658,
+          "Title": "Kategorie:Fräizäit"
+        },
+        {
+          "ID": 136355,
+          "Title": "Kategorie:Disziplinnen am Sport"
+        }
+      ],
+      "Articles": [
+        {
+          "ID": 2,
+          "Title": "Wikipedia"
+        },
+        {
+          "ID": 11,
+          "Title": "Enzyklopedie"
+        },
+        {
+          "ID": 6624,
+          "Title": "Pils"
+        },
+        {
+          "ID": 10651,
+          "Title": "Béier (Gedrénks)"
+        },
+        {
+          "ID": 12279,
+          "Title": "Ee"
+        },
+        {
+          "ID": 13211,
+          "Title": "Hogwarts"
+        },
+        {
+          "ID": 14739,
+          "Title": "AC/DC"
+        },
+        {
+          "ID": 19859,
+          "Title": "Green Day"
+        },
+        {
+          "ID": 21559,
+          "Title": "Pecorino"
+        },
+        {
+          "ID": 29466,
+          "Title": "Brout"
+        },
+        {
+          "ID": 47133,
+          "Title": "Ham (Fleesch)"
+        },
+        {
+          "ID": 71265,
+          "Title": "Dausendjäregt Ee"
+        },
+        {
+          "ID": 81024,
+          "Title": "Kaffi"
+        },
+        {
+          "ID": 83389,
+          "Title": "Pirogg"
+        },
+        {
+          "ID": 86537,
+          "Title": "Oralverkéier"
+        },
+        {
+          "ID": 88002,
+          "Title": "Magesch Wiesen an den Harry Potter Romaner"
+        },
+        {
+          "ID": 92960,
+          "Title": "Pasta"
+        },
+        {
+          "ID": 99086,
+          "Title": "Schockela"
+        },
+        {
+          "ID": 99089,
+          "Title": "Schockelaskaffi"
+        },
+        {
+          "ID": 99090,
+          "Title": "Gekacht Ee"
+        },
+        {
+          "ID": 129967,
+          "Title": "Eurovision Song Contest 2017"
+        },
+        {
+          "ID": 133247,
+          "Title": "Eurovision Song Contest 2018"
+        },
+        {
+          "ID": 134532,
+          "Title": "Glace (Dessert)"
+        }
+      ]
+    },
+    {
+      "ID": 2147483638,
+      "Title": "Geography and places",
+      "Categories": [
+        {
+          "ID": 35,
+          "Title": "Kategorie:Geographie"
+        },
+        {
+          "ID": 6108,
+          "Title": "Kategorie:Urbanismus"
+        },
+        {
+          "ID": 8095,
+          "Title": "Kategorie:Geomorphologie"
+        },
+        {
+          "ID": 10462,
+          "Title": "Kategorie:Monumenter"
+        },
+        {
+          "ID": 23759,
+          "Title": "Kategorie:Lëschten (Geographie)"
+        }
+      ],
+      "Articles": [
+        {
+          "ID": 2724,
+          "Title": "Australien"
+        },
+        {
+          "ID": 4615,
+          "Title": "Queensland"
+        },
+        {
+          "ID": 6508,
+          "Title": "Paräis"
+        },
+        {
+          "ID": 14894,
+          "Title": "Venedeg"
+        },
+        {
+          "ID": 46360,
+          "Title": "Myanmar"
+        },
+        {
+          "ID": 65071,
+          "Title": "Pyramid (Architektur)"
+        },
+        {
+          "ID": 72858,
+          "Title": "Canberra"
+        },
+        {
+          "ID": 117154,
+          "Title": "Mënsch"
+        }
+      ]
+    },
+    {
+      "ID": 2147483639,
+      "Title": "Health and fitness",
+      "Categories": [
+        {
+          "ID": 1690,
+          "Title": "Kategorie:Medezin"
+        },
+        {
+          "ID": 6580,
+          "Title": "Kategorie:Gesondheet"
+        },
+        {
+          "ID": 60166,
+          "Title": "Kategorie:Genkrankheeten"
+        },
+        {
+          "ID": 93016,
+          "Title": "Kategorie:Hygiène"
+        }
+      ]
+    },
+    {
+      "ID": 2147483640,
+      "Title": "History and events",
+      "Categories": [
+        {
+          "ID": 21,
+          "Title": "Kategorie:Geschicht"
+        },
+        {
+          "ID": 95175,
+          "Title": "Kategorie:Geschicht no Länner"
+        }
+      ],
+      "Articles": [
+        {
+          "ID": 21033,
+          "Title": "Terroruschléi vum 11. September 2001 an den USA"
+        },
+        {
+          "ID": 126662,
+          "Title": "Donald Trump"
+        }
+      ]
+    },
+    {
+      "ID": 2147483641,
+      "Title": "Mathematics and logic",
+      "Categories": [
+        {
+          "ID": 1697,
+          "Title": "Kategorie:Mathematik"
+        },
+        {
+          "ID": 2440,
+          "Title": "Kategorie:Statistik"
+        },
+        {
+          "ID": 8927,
+          "Title": "Kategorie:Logik"
+        }
+      ],
+      "Articles": [
+        {
+          "ID": 86273,
+          "Title": "Längemooss"
+        },
+        {
+          "ID": 135555,
+          "Title": "Längt (Physik)"
+        }
+      ]
+    },
+    {
+      "ID": 2147483642,
+      "Title": "Nature and physical sciences",
+      "Categories": [
+        {
+          "ID": 1692,
+          "Title": "Kategorie:Physik"
+        },
+        {
+          "ID": 1960,
+          "Title": "Kategorie:Chimie"
+        },
+        {
+          "ID": 5229,
+          "Title": "Kategorie:Zoologie"
+        },
+        {
+          "ID": 8737,
+          "Title": "Kategorie:Chemesch Verbindungen"
+        },
+        {
+          "ID": 20335,
+          "Title": "Kategorie:Wëssenschaft"
+        },
+        {
+          "ID": 28917,
+          "Title": "Kategorie:Naturwëssenschaften"
+        },
+        {
+          "ID": 65792,
+          "Title": "Kategorie:Katastrophen"
+        },
+        {
+          "ID": 76918,
+          "Title": "Kategorie:Natur"
+        }
+      ],
+      "Articles": [
+        {
+          "ID": 15974,
+          "Title": "Feier"
+        },
+        {
+          "ID": 19102,
+          "Title": "Grousskazen"
+        },
+        {
+          "ID": 19931,
+          "Title": "Muskel"
+        },
+        {
+          "ID": 20937,
+          "Title": "Hydrologie"
+        },
+        {
+          "ID": 30714,
+          "Title": "Weess"
+        },
+        {
+          "ID": 49322,
+          "Title": "Mango"
+        },
+        {
+          "ID": 51913,
+          "Title": "Orange (Fruucht)"
+        },
+        {
+          "ID": 53226,
+          "Title": "Purpurmagnolia"
+        },
+        {
+          "ID": 65306,
+          "Title": "Masturbatioun"
+        },
+        {
+          "ID": 86752,
+          "Title": "Zitroun"
+        },
+        {
+          "ID": 92759,
+          "Title": "Räis"
+        },
+        {
+          "ID": 118897,
+          "Title": "Äerdbier"
+        },
+        {
+          "ID": 119573,
+          "Title": "Mais"
+        },
+        {
+          "ID": 132644,
+          "Title": "Ananas"
+        }
+      ]
+    },
+    {
+      "ID": 2147483643,
+      "Title": "People and self",
+      "Categories": [
+        {
+          "ID": 15423,
+          "Title": "Kategorie:Alldaagskultur"
+        },
+        {
+          "ID": 79648,
+          "Title": "Kategorie:Familljennimm"
+        },
+        {
+          "ID": 99775,
+          "Title": "Kategorie:Persounen"
+        }
+      ],
+      "Articles": [
+        {
+          "ID": 7156,
+          "Title": "Adolf Hitler"
+        },
+        {
+          "ID": 10554,
+          "Title": "Alan M. Turing"
+        },
+        {
+          "ID": 11912,
+          "Title": "Noam Chomsky"
+        },
+        {
+          "ID": 17240,
+          "Title": "Thomas vun Aquin"
+        },
+        {
+          "ID": 20313,
+          "Title": "Galileo Galilei"
+        },
+        {
+          "ID": 20318,
+          "Title": "Johannes Kepler"
+        },
+        {
+          "ID": 28936,
+          "Title": "Oliver Cromwell"
+        },
+        {
+          "ID": 44112,
+          "Title": "John Lennon"
+        },
+        {
+          "ID": 44155,
+          "Title": "Alexander Fleming"
+        },
+        {
+          "ID": 44579,
+          "Title": "Richard Dawkins"
+        },
+        {
+          "ID": 47426,
+          "Title": "René Descartes"
+        },
+        {
+          "ID": 47682,
+          "Title": "Carl Friedrich Gauß"
+        },
+        {
+          "ID": 47692,
+          "Title": "Sigmund Freud"
+        },
+        {
+          "ID": 47732,
+          "Title": "Bill Gates"
+        },
+        {
+          "ID": 50297,
+          "Title": "Christoph Kolumbus"
+        },
+        {
+          "ID": 50573,
+          "Title": "Richard Wagner"
+        },
+        {
+          "ID": 55744,
+          "Title": "Harry Houdini"
+        },
+        {
+          "ID": 63984,
+          "Title": "Carl Sagan"
+        },
+        {
+          "ID": 70855,
+          "Title": "Florence Nightingale"
+        },
+        {
+          "ID": 80497,
+          "Title": "Daniel Radcliffe"
+        },
+        {
+          "ID": 81340,
+          "Title": "Lewis Carroll"
+        },
+        {
+          "ID": 104122,
+          "Title": "Elton John"
+        },
+        {
+          "ID": 121012,
+          "Title": "Adam Smith"
+        }
+      ]
+    },
+    {
+      "ID": 2147483644,
+      "Title": "Philosophy and thinking",
+      "Categories": [
+        {
+          "ID": 1184,
+          "Title": "Kategorie:Philosophie"
+        },
+        {
+          "ID": 10618,
+          "Title": "Kategorie:Ethik"
+        },
+        {
+          "ID": 29667,
+          "Title": "Kategorie:Ideologien"
+        },
+        {
+          "ID": 126414,
+          "Title": "Kategorie:Politesch Theorien an Iddien"
+        }
+      ]
+    },
+    {
+      "ID": 2147483645,
+      "Title": "Religion and belief systems",
+      "Categories": [
+        {
+          "ID": 41756,
+          "Title": "Kategorie:Reliounen"
+        }
+      ]
+    },
+    {
+      "ID": 2147483646,
+      "Title": "Society and social sciences",
+      "Categories": [
+        {
+          "ID": 2871,
+          "Title": "Kategorie:Droit"
+        },
+        {
+          "ID": 16086,
+          "Title": "Kategorie:Gesellschaft"
+        },
+        {
+          "ID": 27326,
+          "Title": "Kategorie:Gesetzer"
+        },
+        {
+          "ID": 29573,
+          "Title": "Kategorie:Humanwëssenschaften"
+        },
+        {
+          "ID": 31475,
+          "Title": "Kategorie:Feminismus"
+        },
+        {
+          "ID": 32060,
+          "Title": "Kategorie:International Organisatiounen"
+        },
+        {
+          "ID": 66656,
+          "Title": "Kategorie:Sozialwëssenschaften"
+        },
+        {
+          "ID": 126567,
+          "Title": "Kategorie:Intergouvernemental Organisatiounen"
+        }
+      ],
+      "Articles": [
+        {
+          "ID": 5901,
+          "Title": "Europäesch Unioun"
+        },
+        {
+          "ID": 21305,
+          "Title": "Iran"
+        },
+        {
+          "ID": 28407,
+          "Title": "Chile"
+        },
+        {
+          "ID": 35900,
+          "Title": "Universitéit vun Oxford"
+        },
+        {
+          "ID": 45742,
+          "Title": "Universitéit vu Cambridge"
+        },
+        {
+          "ID": 46486,
+          "Title": "Princeton Universitéit"
+        },
+        {
+          "ID": 47011,
+          "Title": "Barbados"
+        },
+        {
+          "ID": 65813,
+          "Title": "Harvard Universitéit"
+        },
+        {
+          "ID": 85382,
+          "Title": "University of Sydney"
+        },
+        {
+          "ID": 86059,
+          "Title": "Georg-August-Universität Göttingen"
+        },
+        {
+          "ID": 97641,
+          "Title": "Universitéit vun Arizona"
+        },
+        {
+          "ID": 99211,
+          "Title": "Eberhard Karls Universität Tübingen"
+        },
+        {
+          "ID": 100399,
+          "Title": "The New York Times"
+        },
+        {
+          "ID": 101988,
+          "Title": "Universitéit vun Abertay Dundee"
+        },
+        {
+          "ID": 117137,
+          "Title": "Prohibitioun"
+        },
+        {
+          "ID": 122896,
+          "Title": "Universitéit vu Coventry"
+        },
+        {
+          "ID": 134089,
+          "Title": "Illinois State University"
+        },
+        {
+          "ID": 142626,
+          "Title": "Summerzäit"
+        }
+      ]
+    },
+    {
+      "ID": 2147483647,
+      "Title": "Technology and applied sciences",
+      "Categories": [
+        {
+          "ID": 152,
+          "Title": "Kategorie:Computer"
+        },
+        {
+          "ID": 1704,
+          "Title": "Kategorie:Internet"
+        },
+        {
+          "ID": 1954,
+          "Title": "Kategorie:Transport"
+        },
+        {
+          "ID": 6410,
+          "Title": "Kategorie:Elektronik"
+        },
+        {
+          "ID": 6631,
+          "Title": "Kategorie:Informatik"
+        },
+        {
+          "ID": 8396,
+          "Title": "Kategorie:Technik"
+        },
+        {
+          "ID": 18148,
+          "Title": "Kategorie:Militärtechnik"
+        },
+        {
+          "ID": 66641,
+          "Title": "Kategorie:Design"
+        },
+        {
+          "ID": 117606,
+          "Title": "Kategorie:Ugewennt Wëssenschaften"
+        }
+      ],
+      "Articles": [
+        {
+          "ID": 5423,
+          "Title": "Top-Level-Domän"
+        },
+        {
+          "ID": 52643,
+          "Title": "Knätsch"
+        },
+        {
+          "ID": 118304,
+          "Title": "Mauer"
+        }
+      ]
+    }
+  ],
+  "Filters": [
+    {
+      "ID": 1095,
+      "Title": "Kategorie:Homonymie"
+    },
+    {
+      "ID": 85740,
+      "Title": "Kategorie:Verstoppt Kategorien"
+    }
+  ]
+}

@@ -1,0 +1,403 @@
+{
+  "Language": "so",
+  "Topics": [
+    {
+      "ID": 2147483637,
+      "Title": "Culture and the arts",
+      "Categories": [
+        {
+          "ID": 2519,
+          "Title": "Category:Ciyaaraha"
+        },
+        {
+          "ID": 5457,
+          "Title": "Category:Fan"
+        },
+        {
+          "ID": 6866,
+          "Title": "Category:Midabada"
+        },
+        {
+          "ID": 7669,
+          "Title": "Category:Dhaqan"
+        },
+        {
+          "ID": 12914,
+          "Title": "Category:Cunto"
+        },
+        {
+          "ID": 17902,
+          "Title": "Category:Midab"
+        }
+      ],
+      "Articles": [
+        {
+          "ID": 1587,
+          "Title": "Wikipedia"
+        },
+        {
+          "ID": 4214,
+          "Title": "Chocolate"
+        },
+        {
+          "ID": 4621,
+          "Title": "Bun"
+        },
+        {
+          "ID": 4651,
+          "Title": "Ukun"
+        },
+        {
+          "ID": 4773,
+          "Title": "Rooti"
+        },
+        {
+          "ID": 4846,
+          "Title": "Doofaar"
+        },
+        {
+          "ID": 17748,
+          "Title": "Baasto"
+        },
+        {
+          "ID": 17753,
+          "Title": "Buskud"
+        },
+        {
+          "ID": 17758,
+          "Title": "Suugo"
+        },
+        {
+          "ID": 22294,
+          "Title": "Jalaato"
+        },
+        {
+          "ID": 24171,
+          "Title": "Yurub Heeska 2018"
+        }
+      ]
+    },
+    {
+      "ID": 2147483638,
+      "Title": "Geography and places",
+      "Categories": [
+        {
+          "ID": 12447,
+          "Title": "Category:Juqraafi"
+        }
+      ],
+      "Articles": [
+        {
+          "ID": 2770,
+          "Title": "Baariis"
+        },
+        {
+          "ID": 4719,
+          "Title": "Australia"
+        },
+        {
+          "ID": 4792,
+          "Title": "Kanbera"
+        },
+        {
+          "ID": 5472,
+          "Title": "Burma"
+        },
+        {
+          "ID": 9490,
+          "Title": "Queensland"
+        },
+        {
+          "ID": 18582,
+          "Title": "Insaan"
+        }
+      ]
+    },
+    {
+      "ID": 2147483639,
+      "Title": "Health and fitness",
+      "Categories": [
+        {
+          "ID": 2356,
+          "Title": "Category:Caafimaadka"
+        }
+      ]
+    },
+    {
+      "ID": 2147483640,
+      "Title": "History and events",
+      "Categories": [
+        {
+          "ID": 2327,
+          "Title": "Category:Taariikh"
+        }
+      ],
+      "Articles": [
+        {
+          "ID": 18752,
+          "Title": "Donald Trump"
+        }
+      ]
+    },
+    {
+      "ID": 2147483641,
+      "Title": "Mathematics and logic",
+      "Categories": [
+        {
+          "ID": 2189,
+          "Title": "Category:Xisaab"
+        },
+        {
+          "ID": 16129,
+          "Title": "Category:Laamaha xisaabta"
+        }
+      ]
+    },
+    {
+      "ID": 2147483642,
+      "Title": "Nature and physical sciences",
+      "Categories": [
+        {
+          "ID": 2093,
+          "Title": "Category:Saynis"
+        },
+        {
+          "ID": 2187,
+          "Title": "Category:Fiisigis"
+        },
+        {
+          "ID": 2188,
+          "Title": "Category:Kimisteri"
+        },
+        {
+          "ID": 14368,
+          "Title": "Category:Fiisikis"
+        },
+        {
+          "ID": 16923,
+          "Title": "Category:Dabeecadda"
+        }
+      ],
+      "Articles": [
+        {
+          "ID": 3941,
+          "Title": "Geel"
+        },
+        {
+          "ID": 4372,
+          "Title": "Muruq"
+        },
+        {
+          "ID": 4376,
+          "Title": "Habdhiska Taranka"
+        },
+        {
+          "ID": 4636,
+          "Title": "Galley"
+        },
+        {
+          "ID": 4774,
+          "Title": "Liin dhanaan"
+        },
+        {
+          "ID": 4776,
+          "Title": "Yaanyo"
+        },
+        {
+          "ID": 4778,
+          "Title": "Cambe"
+        },
+        {
+          "ID": 4839,
+          "Title": "Bariis"
+        },
+        {
+          "ID": 5730,
+          "Title": "Gus"
+        },
+        {
+          "ID": 12408,
+          "Title": "Dab"
+        },
+        {
+          "ID": 12725,
+          "Title": "Liin"
+        },
+        {
+          "ID": 12727,
+          "Title": "Qamadi"
+        },
+        {
+          "ID": 15445,
+          "Title": "Siigeysi"
+        },
+        {
+          "ID": 17552,
+          "Title": "Cananis"
+        },
+        {
+          "ID": 18562,
+          "Title": "Xiniinyaha"
+        },
+        {
+          "ID": 22112,
+          "Title": "Kaadi"
+        },
+        {
+          "ID": 24752,
+          "Title": "Saxaax"
+        }
+      ]
+    },
+    {
+      "ID": 2147483643,
+      "Title": "People and self",
+      "Categories": [
+        {
+          "ID": 2094,
+          "Title": "Category:Shaqsiyadaad"
+        },
+        {
+          "ID": 16928,
+          "Title": "Category:Nolosha"
+        }
+      ],
+      "Articles": [
+        {
+          "ID": 3026,
+          "Title": "Adolf Hitler"
+        },
+        {
+          "ID": 3447,
+          "Title": "Bill Gates"
+        },
+        {
+          "ID": 5596,
+          "Title": "Kristoffer Kolombus"
+        },
+        {
+          "ID": 7535,
+          "Title": "Aleksander Fileming"
+        }
+      ]
+    },
+    {
+      "ID": 2147483644,
+      "Title": "Philosophy and thinking",
+      "Categories": [
+        {
+          "ID": 6666,
+          "Title": "Category:Filasoofiyada"
+        }
+      ],
+      "Articles": [
+        {
+          "ID": 17969,
+          "Title": "Farxad"
+        },
+        {
+          "ID": 18732,
+          "Title": "Qurux"
+        }
+      ]
+    },
+    {
+      "ID": 2147483645,
+      "Title": "Religion and belief systems",
+      "Categories": [
+        {
+          "ID": 2625,
+          "Title": "Category:Diin"
+        }
+      ]
+    },
+    {
+      "ID": 2147483646,
+      "Title": "Society and social sciences",
+      "Categories": [
+        {
+          "ID": 2731,
+          "Title": "Category:Cilmiga bulshada"
+        },
+        {
+          "ID": 18679,
+          "Title": "Category:Sharci"
+        },
+        {
+          "ID": 20234,
+          "Title": "Category:Ururro caalami ah"
+        }
+      ],
+      "Articles": [
+        {
+          "ID": 3717,
+          "Title": "Jili"
+        },
+        {
+          "ID": 4736,
+          "Title": "Iiraan"
+        },
+        {
+          "ID": 5798,
+          "Title": "Barbados"
+        },
+        {
+          "ID": 7743,
+          "Title": "Jaamacadda Oxford"
+        },
+        {
+          "ID": 11490,
+          "Title": "Jaamacadda Cambridge"
+        },
+        {
+          "ID": 12808,
+          "Title": "Daylight saving time"
+        },
+        {
+          "ID": 17794,
+          "Title": "Barnamijka Deegaanka Qaramada Midoobay"
+        },
+        {
+          "ID": 19679,
+          "Title": "Midowga Yurub"
+        },
+        {
+          "ID": 22897,
+          "Title": "Pizza Hut"
+        },
+        {
+          "ID": 23897,
+          "Title": "Starbucks"
+        }
+      ]
+    },
+    {
+      "ID": 2147483647,
+      "Title": "Technology and applied sciences",
+      "Categories": [
+        {
+          "ID": 2079,
+          "Title": "Category:Teknooloji"
+        },
+        {
+          "ID": 2395,
+          "Title": "Category:Internet"
+        },
+        {
+          "ID": 2732,
+          "Title": "Category:Gaadiidka"
+        },
+        {
+          "ID": 3088,
+          "Title": "Category:Elektaroonig"
+        }
+      ],
+      "Articles": [
+        {
+          "ID": 18672,
+          "Title": "Derbi"
+        }
+      ]
+    }
+  ]
+}

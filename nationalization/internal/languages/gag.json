@@ -1,0 +1,203 @@
+{
+  "Language": "gag",
+  "Topics": [
+    {
+      "ID": 2147483637,
+      "Title": "Culture and the arts",
+      "Categories": [
+        {
+          "ID": 1129,
+          "Title": "Kategoriya:Kultura"
+        },
+        {
+          "ID": 1148,
+          "Title": "Kategoriya:Senat"
+        },
+        {
+          "ID": 1150,
+          "Title": "Kategoriya:Sport"
+        }
+      ],
+      "Articles": [
+        {
+          "ID": 395,
+          "Title": "Vikipediya"
+        },
+        {
+          "ID": 1983,
+          "Title": "Realizma"
+        }
+      ]
+    },
+    {
+      "ID": 2147483638,
+      "Title": "Geography and places",
+      "Categories": [
+        {
+          "ID": 1119,
+          "Title": "Kategoriya:Geografiya"
+        }
+      ],
+      "Articles": [
+        {
+          "ID": 74,
+          "Title": "Avstraliya"
+        },
+        {
+          "ID": 313,
+          "Title": "Paris"
+        },
+        {
+          "ID": 323,
+          "Title": "Queensland"
+        },
+        {
+          "ID": 1784,
+          "Title": "Myanmar"
+        }
+      ]
+    },
+    {
+      "ID": 2147483639,
+      "Title": "Health and fitness",
+      "Categories": [
+        {
+          "ID": 1146,
+          "Title": "Kategoriya:Saalık"
+        }
+      ]
+    },
+    {
+      "ID": 2147483640,
+      "Title": "History and events",
+      "Categories": [
+        {
+          "ID": 1167,
+          "Title": "Kategoriya:İstoriya"
+        }
+      ]
+    },
+    {
+      "ID": 2147483641,
+      "Title": "Mathematics and logic",
+      "Categories": [
+        {
+          "ID": 1132,
+          "Title": "Kategoriya:Matematika"
+        }
+      ]
+    },
+    {
+      "ID": 2147483642,
+      "Title": "Nature and physical sciences",
+      "Categories": [
+        {
+          "ID": 1097,
+          "Title": "Kategoriya:Bilim"
+        },
+        {
+          "ID": 1110,
+          "Title": "Kategoriya:Fizika"
+        },
+        {
+          "ID": 1152,
+          "Title": "Kategoriya:Tabiat"
+        }
+      ],
+      "Articles": [
+        {
+          "ID": 6419,
+          "Title": "Devä"
+        }
+      ]
+    },
+    {
+      "ID": 2147483643,
+      "Title": "People and self",
+      "Categories": [
+        {
+          "ID": 1127,
+          "Title": "Kategoriya:Kişiler"
+        },
+        {
+          "ID": 1160,
+          "Title": "Kategoriya:Yaşamak"
+        },
+        {
+          "ID": 1182,
+          "Title": "Kategoriya:Biografiya"
+        }
+      ]
+    },
+    {
+      "ID": 2147483644,
+      "Title": "Philosophy and thinking"
+    },
+    {
+      "ID": 2147483645,
+      "Title": "Religion and belief systems",
+      "Categories": [
+        {
+          "ID": 1104,
+          "Title": "Kategoriya:Din"
+        }
+      ]
+    },
+    {
+      "ID": 2147483646,
+      "Title": "Society and social sciences",
+      "Categories": [
+        {
+          "ID": 1140,
+          "Title": "Kategoriya:Prava"
+        },
+        {
+          "ID": 4718,
+          "Title": "Kategoriya:Cebelitarık"
+        }
+      ],
+      "Articles": [
+        {
+          "ID": 434,
+          "Title": "İran"
+        },
+        {
+          "ID": 1762,
+          "Title": "Çili"
+        },
+        {
+          "ID": 2575,
+          "Title": "Evropa Birlii"
+        },
+        {
+          "ID": 2843,
+          "Title": "Barbados"
+        },
+        {
+          "ID": 6353,
+          "Title": "Tübingen Universiteti"
+        }
+      ]
+    },
+    {
+      "ID": 2147483647,
+      "Title": "Technology and applied sciences",
+      "Categories": [
+        {
+          "ID": 1154,
+          "Title": "Kategoriya:Teknik"
+        },
+        {
+          "ID": 1164,
+          "Title": "Kategoriya:İncener"
+        }
+      ]
+    }
+  ],
+  "Filters": [
+    {
+      "ID": 4205,
+      "Title": "Kategoriya:Gizli kategoriler"
+    }
+  ]
+}

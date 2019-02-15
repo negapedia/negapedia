@@ -1,0 +1,299 @@
+{
+  "Language": "pam",
+  "Topics": [
+    {
+      "ID": 2147483637,
+      "Title": "Culture and the arts",
+      "Categories": [
+        {
+          "ID": 1404,
+          "Title": "Category:Isports"
+        },
+        {
+          "ID": 8377,
+          "Title": "Category:Kalinangan"
+        },
+        {
+          "ID": 9976,
+          "Title": "Category:Diwa (kule)"
+        }
+      ],
+      "Articles": [
+        {
+          "ID": 2360,
+          "Title": "Wikipedia"
+        },
+        {
+          "ID": 12330,
+          "Title": "Babi"
+        },
+        {
+          "ID": 20218,
+          "Title": "Kako"
+        }
+      ]
+    },
+    {
+      "ID": 2147483638,
+      "Title": "Geography and places",
+      "Categories": [
+        {
+          "ID": 1422,
+          "Title": "Category:Geografía"
+        }
+      ],
+      "Articles": [
+        {
+          "ID": 3110,
+          "Title": "Myanmar"
+        },
+        {
+          "ID": 3687,
+          "Title": "Australia"
+        },
+        {
+          "ID": 5080,
+          "Title": "Paris"
+        },
+        {
+          "ID": 7757,
+          "Title": "Queensland"
+        },
+        {
+          "ID": 9881,
+          "Title": "Tau"
+        }
+      ]
+    },
+    {
+      "ID": 2147483639,
+      "Title": "Health and fitness",
+      "Categories": [
+        {
+          "ID": 7364,
+          "Title": "Category:Medical specialties"
+        },
+        {
+          "ID": 7365,
+          "Title": "Category:Medicine"
+        },
+        {
+          "ID": 11109,
+          "Title": "Category:Kabulasan"
+        }
+      ]
+    },
+    {
+      "ID": 2147483640,
+      "Title": "History and events"
+    },
+    {
+      "ID": 2147483641,
+      "Title": "Mathematics and logic",
+      "Categories": [
+        {
+          "ID": 1482,
+          "Title": "Category:Matematica"
+        }
+      ]
+    },
+    {
+      "ID": 2147483642,
+      "Title": "Nature and physical sciences",
+      "Categories": [
+        {
+          "ID": 2328,
+          "Title": "Category:Chemistry"
+        },
+        {
+          "ID": 3575,
+          "Title": "Category:Zoology"
+        },
+        {
+          "ID": 5208,
+          "Title": "Category:Science"
+        },
+        {
+          "ID": 5550,
+          "Title": "Category:Natural sciences"
+        },
+        {
+          "ID": 6707,
+          "Title": "Category:Chemical substances"
+        }
+      ],
+      "Articles": [
+        {
+          "ID": 5413,
+          "Title": "Mangga"
+        },
+        {
+          "ID": 5433,
+          "Title": "Lemon"
+        },
+        {
+          "ID": 5434,
+          "Title": "Dalandan"
+        },
+        {
+          "ID": 6041,
+          "Title": "Pale"
+        },
+        {
+          "ID": 6241,
+          "Title": "Date Palm"
+        },
+        {
+          "ID": 6252,
+          "Title": "Kamatis"
+        },
+        {
+          "ID": 7152,
+          "Title": "Pinya"
+        },
+        {
+          "ID": 8771,
+          "Title": "Bayag"
+        },
+        {
+          "ID": 9921,
+          "Title": "Milun"
+        },
+        {
+          "ID": 14504,
+          "Title": "Trigu"
+        },
+        {
+          "ID": 14507,
+          "Title": "Mais"
+        },
+        {
+          "ID": 19351,
+          "Title": "Butu ning tau"
+        }
+      ]
+    },
+    {
+      "ID": 2147483643,
+      "Title": "People and self",
+      "Categories": [
+        {
+          "ID": 7485,
+          "Title": "Category:Bie"
+        },
+        {
+          "ID": 7487,
+          "Title": "Category:Deng Tau"
+        }
+      ],
+      "Articles": [
+        {
+          "ID": 5115,
+          "Title": "René Descartes"
+        },
+        {
+          "ID": 5215,
+          "Title": "Thomas Aquinas"
+        },
+        {
+          "ID": 11828,
+          "Title": "Richard Wagner"
+        },
+        {
+          "ID": 11875,
+          "Title": "Christopher Columbus"
+        },
+        {
+          "ID": 11906,
+          "Title": "Sigmund Freud"
+        },
+        {
+          "ID": 11907,
+          "Title": "Galileo Galilei"
+        },
+        {
+          "ID": 12166,
+          "Title": "Bill Gates"
+        },
+        {
+          "ID": 14645,
+          "Title": "Joseph Smith Jr."
+        },
+        {
+          "ID": 17838,
+          "Title": "Alan Turing"
+        },
+        {
+          "ID": 18634,
+          "Title": "Srinivasa Ramanujan"
+        },
+        {
+          "ID": 19570,
+          "Title": "Richard Dawkins"
+        },
+        {
+          "ID": 20410,
+          "Title": "John Lennon"
+        },
+        {
+          "ID": 20422,
+          "Title": "George Harrison"
+        }
+      ]
+    },
+    {
+      "ID": 2147483644,
+      "Title": "Philosophy and thinking"
+    },
+    {
+      "ID": 2147483645,
+      "Title": "Religion and belief systems"
+    },
+    {
+      "ID": 2147483646,
+      "Title": "Society and social sciences",
+      "Categories": [
+        {
+          "ID": 6076,
+          "Title": "Category:Aguman"
+        }
+      ],
+      "Articles": [
+        {
+          "ID": 3124,
+          "Title": "Iran"
+        },
+        {
+          "ID": 3277,
+          "Title": "Chile"
+        },
+        {
+          "ID": 4627,
+          "Title": "Barbados"
+        },
+        {
+          "ID": 5935,
+          "Title": "Adamson University"
+        }
+      ]
+    },
+    {
+      "ID": 2147483647,
+      "Title": "Technology and applied sciences",
+      "Categories": [
+        {
+          "ID": 11984,
+          "Title": "Category:Engineering"
+        },
+        {
+          "ID": 11985,
+          "Title": "Category:Applied sciences"
+        },
+        {
+          "ID": 16130,
+          "Title": "Category:Computer science"
+        }
+      ]
+    }
+  ]
+}

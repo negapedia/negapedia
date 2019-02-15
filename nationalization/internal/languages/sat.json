@@ -1,0 +1,149 @@
+{
+  "Language": "sat",
+  "Topics": [
+    {
+      "ID": 2147483637,
+      "Title": "Culture and the arts",
+      "Articles": [
+        {
+          "ID": 220,
+          "Title": "ᱠᱚᱯᱷᱤ"
+        },
+        {
+          "ID": 371,
+          "Title": "ᱣᱤᱠᱤᱯᱤᱰᱤᱭᱟ"
+        },
+        {
+          "ID": 2580,
+          "Title": "ᱥᱩᱠᱨᱤ"
+        }
+      ]
+    },
+    {
+      "ID": 2147483638,
+      "Title": "Geography and places",
+      "Articles": [
+        {
+          "ID": 101,
+          "Title": "ᱚᱥᱴᱨᱮᱞᱤᱭᱟ"
+        },
+        {
+          "ID": 344,
+          "Title": "ᱢᱟᱹᱱᱢᱤ"
+        },
+        {
+          "ID": 1237,
+          "Title": "ᱯᱮᱨᱤᱥ"
+        },
+        {
+          "ID": 2318,
+          "Title": "ᱢᱤᱭᱟᱱᱢᱟᱨ"
+        }
+      ]
+    },
+    {
+      "ID": 2147483639,
+      "Title": "Health and fitness"
+    },
+    {
+      "ID": 2147483640,
+      "Title": "History and events"
+    },
+    {
+      "ID": 2147483641,
+      "Title": "Mathematics and logic"
+    },
+    {
+      "ID": 2147483642,
+      "Title": "Nature and physical sciences",
+      "Articles": [
+        {
+          "ID": 141,
+          "Title": "ᱜᱩᱦᱩᱢ"
+        },
+        {
+          "ID": 159,
+          "Title": "ᱞᱤᱢᱵᱩ"
+        },
+        {
+          "ID": 276,
+          "Title": "ᱡᱚᱱᱚᱲᱟ"
+        },
+        {
+          "ID": 1154,
+          "Title": "ᱩᱞ"
+        },
+        {
+          "ID": 1184,
+          "Title": "ᱫᱟᱠᱟ"
+        }
+      ]
+    },
+    {
+      "ID": 2147483643,
+      "Title": "People and self",
+      "Articles": [
+        {
+          "ID": 128,
+          "Title": "ᱜᱟᱞᱤᱞᱤᱭᱚ ᱜᱟᱞᱤᱞᱤ"
+        },
+        {
+          "ID": 174,
+          "Title": "ᱟᱞᱟᱱ ᱴᱭᱩᱨᱤᱝ"
+        },
+        {
+          "ID": 209,
+          "Title": "ᱠᱚᱞᱚᱢᱵᱚᱥ, ᱠᱨᱤᱥᱴᱚᱯᱷᱟᱨ"
+        },
+        {
+          "ID": 1068,
+          "Title": "ᱥᱤᱜᱽᱢᱩᱱᱰ ᱯᱷᱨᱩᱰ"
+        },
+        {
+          "ID": 1209,
+          "Title": "ᱮᱰᱚᱞᱯᱷ ᱦᱤᱴᱞᱟᱨ"
+        },
+        {
+          "ID": 1210,
+          "Title": "ᱮᱰᱟᱢ ᱤᱥᱢᱤᱛᱷ"
+        },
+        {
+          "ID": 1288,
+          "Title": "ᱱᱳᱣᱟᱢ ᱪᱚᱢᱥᱠᱤ"
+        }
+      ]
+    },
+    {
+      "ID": 2147483644,
+      "Title": "Philosophy and thinking"
+    },
+    {
+      "ID": 2147483645,
+      "Title": "Religion and belief systems"
+    },
+    {
+      "ID": 2147483646,
+      "Title": "Society and social sciences",
+      "Articles": [
+        {
+          "ID": 386,
+          "Title": "ᱤᱨᱟᱱ"
+        },
+        {
+          "ID": 1026,
+          "Title": "ᱵᱟᱨᱵᱟᱰᱚᱥ"
+        }
+      ]
+    },
+    {
+      "ID": 2147483647,
+      "Title": "Technology and applied sciences",
+      "Articles": [
+        {
+          "ID": 1238,
+          "Title": "ᱯᱮᱯᱥᱤ"
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,487 @@
+{
+  "Language": "diq",
+  "Topics": [
+    {
+      "ID": 2147483637,
+      "Title": "Culture and the arts",
+      "Categories": [
+        {
+          "ID": 2920,
+          "Title": "Kategori:Huner"
+        },
+        {
+          "ID": 2951,
+          "Title": "Kategori:Spor"
+        },
+        {
+          "ID": 2964,
+          "Title": "Kategori:Zagon"
+        },
+        {
+          "ID": 33244,
+          "Title": "Kategori:Rengi"
+        },
+        {
+          "ID": 34872,
+          "Title": "Kategori:Filmi"
+        },
+        {
+          "ID": 45294,
+          "Title": "Kategori:Gastronomiye"
+        },
+        {
+          "ID": 47345,
+          "Title": "Kategori:Grubê muziki"
+        }
+      ],
+      "Articles": [
+        {
+          "ID": 338,
+          "Title": "Wikipediya"
+        },
+        {
+          "ID": 33859,
+          "Title": "The Wanted"
+        },
+        {
+          "ID": 42839,
+          "Title": "Ensiklopediye"
+        },
+        {
+          "ID": 44209,
+          "Title": "Sekso oral"
+        },
+        {
+          "ID": 44224,
+          "Title": "Fellatio"
+        },
+        {
+          "ID": 44817,
+          "Title": "Judas"
+        },
+        {
+          "ID": 45108,
+          "Title": "Bira"
+        },
+        {
+          "ID": 45446,
+          "Title": "Xozi"
+        },
+        {
+          "ID": 52029,
+          "Title": "Goştê xozi"
+        },
+        {
+          "ID": 54548,
+          "Title": "Pizza"
+        },
+        {
+          "ID": 56981,
+          "Title": "Hak"
+        },
+        {
+          "ID": 57276,
+          "Title": "Xozê yabani"
+        }
+      ]
+    },
+    {
+      "ID": 2147483638,
+      "Title": "Geography and places",
+      "Categories": [
+        {
+          "ID": 2863,
+          "Title": "Kategori:Coğrafya"
+        },
+        {
+          "ID": 34654,
+          "Title": "Kategori:Cay"
+        }
+      ],
+      "Articles": [
+        {
+          "ID": 28,
+          "Title": "Australya"
+        },
+        {
+          "ID": 235,
+          "Title": "Paris"
+        },
+        {
+          "ID": 3950,
+          "Title": "Myanmar"
+        },
+        {
+          "ID": 33635,
+          "Title": "Merdum"
+        },
+        {
+          "ID": 47069,
+          "Title": "Venedik"
+        },
+        {
+          "ID": 53261,
+          "Title": "Piramid"
+        }
+      ]
+    },
+    {
+      "ID": 2147483639,
+      "Title": "Health and fitness",
+      "Categories": [
+        {
+          "ID": 2963,
+          "Title": "Kategori:Tıb"
+        }
+      ]
+    },
+    {
+      "ID": 2147483640,
+      "Title": "History and events",
+      "Categories": [
+        {
+          "ID": 2930,
+          "Title": "Kategori:Tarix"
+        },
+        {
+          "ID": 43759,
+          "Title": "Kategori:Goreyê dewletan ra tarix"
+        },
+        {
+          "ID": 43898,
+          "Title": "Kategori:Hedisey"
+        }
+      ],
+      "Articles": [
+        {
+          "ID": 44241,
+          "Title": "Êrışê 11ê Keşkeluni 2001"
+        },
+        {
+          "ID": 48133,
+          "Title": "Donald Trump"
+        },
+        {
+          "ID": 48896,
+          "Title": "Cengê Troya"
+        },
+        {
+          "ID": 49239,
+          "Title": "Ğarê Orlandoy 2016"
+        }
+      ]
+    },
+    {
+      "ID": 2147483641,
+      "Title": "Mathematics and logic",
+      "Categories": [
+        {
+          "ID": 2908,
+          "Title": "Kategori:Matematik"
+        },
+        {
+          "ID": 46302,
+          "Title": "Kategori:İstatistik"
+        }
+      ]
+    },
+    {
+      "ID": 2147483642,
+      "Title": "Nature and physical sciences",
+      "Categories": [
+        {
+          "ID": 2846,
+          "Title": "Kategori:Heywanşınasiye"
+        },
+        {
+          "ID": 2922,
+          "Title": "Kategori:Kimya"
+        },
+        {
+          "ID": 2923,
+          "Title": "Kategori:Fizik"
+        },
+        {
+          "ID": 8781,
+          "Title": "Kategori:Zanışiye"
+        },
+        {
+          "ID": 32869,
+          "Title": "Kategori:Tebiet"
+        },
+        {
+          "ID": 46901,
+          "Title": "Kategori:Lızgeyê şınasiye"
+        }
+      ],
+      "Articles": [
+        {
+          "ID": 26751,
+          "Title": "Adır"
+        },
+        {
+          "ID": 27347,
+          "Title": "Bazi"
+        },
+        {
+          "ID": 43332,
+          "Title": "Deve"
+        },
+        {
+          "ID": 49177,
+          "Title": "Ğele"
+        },
+        {
+          "ID": 49181,
+          "Title": "Lazut"
+        },
+        {
+          "ID": 49281,
+          "Title": "Flamingo"
+        },
+        {
+          "ID": 49402,
+          "Title": "Beşila"
+        },
+        {
+          "ID": 52076,
+          "Title": "Penis"
+        },
+        {
+          "ID": 57036,
+          "Title": "Anakonda"
+        },
+        {
+          "ID": 57140,
+          "Title": "Şamıke"
+        }
+      ]
+    },
+    {
+      "ID": 2147483643,
+      "Title": "People and self",
+      "Categories": [
+        {
+          "ID": 4108,
+          "Title": "Kategori:Biyografiye"
+        },
+        {
+          "ID": 8683,
+          "Title": "Kategori:Cıwiyayış"
+        },
+        {
+          "ID": 43547,
+          "Title": "Kategori:Merdumi"
+        },
+        {
+          "ID": 46665,
+          "Title": "Kategori:Cêniye"
+        }
+      ],
+      "Articles": [
+        {
+          "ID": 3987,
+          "Title": "Adam Smith"
+        },
+        {
+          "ID": 5080,
+          "Title": "Galileo Galilei"
+        },
+        {
+          "ID": 8915,
+          "Title": "Adolf Hitler"
+        },
+        {
+          "ID": 9916,
+          "Title": "René Descartes"
+        },
+        {
+          "ID": 34153,
+          "Title": "Daniel Radcliffe"
+        },
+        {
+          "ID": 43026,
+          "Title": "Richard Dawkins"
+        },
+        {
+          "ID": 43033,
+          "Title": "Sigmund Freud"
+        },
+        {
+          "ID": 47286,
+          "Title": "Alan Turing"
+        },
+        {
+          "ID": 47744,
+          "Title": "Joseph Smith"
+        }
+      ]
+    },
+    {
+      "ID": 2147483644,
+      "Title": "Philosophy and thinking",
+      "Categories": [
+        {
+          "ID": 2907,
+          "Title": "Kategori:Felsefe"
+        },
+        {
+          "ID": 2956,
+          "Title": "Kategori:İdeolociy"
+        }
+      ],
+      "Articles": [
+        {
+          "ID": 10628,
+          "Title": "Bawermend"
+        }
+      ]
+    },
+    {
+      "ID": 2147483645,
+      "Title": "Religion and belief systems",
+      "Categories": [
+        {
+          "ID": 1294,
+          "Title": "Kategori:Din"
+        },
+        {
+          "ID": 10640,
+          "Title": "Kategori:Baweriye"
+        },
+        {
+          "ID": 43750,
+          "Title": "Kategori:Nonteizm"
+        },
+        {
+          "ID": 43752,
+          "Title": "Kategori:Sekularizm"
+        }
+      ]
+    },
+    {
+      "ID": 2147483646,
+      "Title": "Society and social sciences",
+      "Categories": [
+        {
+          "ID": 2847,
+          "Title": "Kategori:Cemaet"
+        },
+        {
+          "ID": 40809,
+          "Title": "Kategori:Heqi"
+        },
+        {
+          "ID": 43080,
+          "Title": "Kategori:Şınasiyê sosyali"
+        },
+        {
+          "ID": 43088,
+          "Title": "Kategori:Feminizm"
+        },
+        {
+          "ID": 46204,
+          "Title": "Kategori:Organizasyonê internasyoneli"
+        }
+      ],
+      "Articles": [
+        {
+          "ID": 347,
+          "Title": "Yewiya Ewropa"
+        },
+        {
+          "ID": 550,
+          "Title": "İran"
+        },
+        {
+          "ID": 1353,
+          "Title": "Enstituyê Teknolociya Massachusettsi"
+        },
+        {
+          "ID": 3142,
+          "Title": "Barbados"
+        },
+        {
+          "ID": 3248,
+          "Title": "Şili"
+        },
+        {
+          "ID": 6831,
+          "Title": "Universıteyê Oksfordi"
+        },
+        {
+          "ID": 31773,
+          "Title": "Universıtey Göttingeni"
+        },
+        {
+          "ID": 36007,
+          "Title": "Universıtey Kölni"
+        },
+        {
+          "ID": 42615,
+          "Title": "Universıteya Milanoy"
+        },
+        {
+          "ID": 44133,
+          "Title": "Universıtey Standfordi"
+        },
+        {
+          "ID": 45297,
+          "Title": "Karo sosyal"
+        },
+        {
+          "ID": 45788,
+          "Title": "Mikroşar"
+        },
+        {
+          "ID": 49782,
+          "Title": "Universıtey Kolumbiya"
+        },
+        {
+          "ID": 51816,
+          "Title": "The New York Times"
+        },
+        {
+          "ID": 57577,
+          "Title": "Universıtey Washingtoni"
+        }
+      ]
+    },
+    {
+      "ID": 2147483647,
+      "Title": "Technology and applied sciences",
+      "Categories": [
+        {
+          "ID": 2944,
+          "Title": "Kategori:İnternet"
+        },
+        {
+          "ID": 2962,
+          "Title": "Kategori:Teknolociye"
+        },
+        {
+          "ID": 9120,
+          "Title": "Kategori:Komputer"
+        },
+        {
+          "ID": 9121,
+          "Title": "Kategori:Elektronik"
+        },
+        {
+          "ID": 36532,
+          "Title": "Kategori:Mıhendisiye"
+        }
+      ]
+    }
+  ],
+  "Filters": [
+    {
+      "ID": 34856,
+      "Title": "Kategori:Kategoriyê nımıtey"
+    },
+    {
+      "ID": 35543,
+      "Title": "Kategori:Arezekerdış"
+    }
+  ]
+}

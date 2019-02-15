@@ -1,0 +1,491 @@
+{
+  "Language": "ht",
+  "Topics": [
+    {
+      "ID": 2147483637,
+      "Title": "Culture and the arts",
+      "Categories": [
+        {
+          "ID": 2590,
+          "Title": "Kategori:La"
+        },
+        {
+          "ID": 3742,
+          "Title": "Kategori:Espò"
+        },
+        {
+          "ID": 3749,
+          "Title": "Kategori:Divètisman"
+        },
+        {
+          "ID": 12489,
+          "Title": "Kategori:Koulè"
+        },
+        {
+          "ID": 12490,
+          "Title": "Kategori:Kilti"
+        },
+        {
+          "ID": 63281,
+          "Title": "Kategori:Gwoup mizisyen"
+        },
+        {
+          "ID": 64370,
+          "Title": "Kategori:Fim"
+        },
+        {
+          "ID": 64423,
+          "Title": "Kategori:Manje"
+        }
+      ],
+      "Articles": [
+        {
+          "ID": 1005,
+          "Title": "Wikipedya"
+        },
+        {
+          "ID": 1017,
+          "Title": "Ansiklopedi"
+        },
+        {
+          "ID": 2606,
+          "Title": "Kochon"
+        },
+        {
+          "ID": 13544,
+          "Title": "Kafe"
+        },
+        {
+          "ID": 13546,
+          "Title": "Kakawo"
+        },
+        {
+          "ID": 13941,
+          "Title": "Byè"
+        },
+        {
+          "ID": 14864,
+          "Title": "Pen"
+        },
+        {
+          "ID": 15238,
+          "Title": "Sòs"
+        },
+        {
+          "ID": 58633,
+          "Title": "Ze"
+        },
+        {
+          "ID": 58650,
+          "Title": "La (materyo gra)"
+        },
+        {
+          "ID": 59110,
+          "Title": "Gato"
+        },
+        {
+          "ID": 59418,
+          "Title": "Tat"
+        },
+        {
+          "ID": 69912,
+          "Title": "Reyalite"
+        }
+      ]
+    },
+    {
+      "ID": 2147483638,
+      "Title": "Geography and places",
+      "Categories": [
+        {
+          "ID": 2653,
+          "Title": "Kategori:Jewografi"
+        }
+      ],
+      "Articles": [
+        {
+          "ID": 1043,
+          "Title": "Bimani"
+        },
+        {
+          "ID": 2000,
+          "Title": "Ostrali"
+        },
+        {
+          "ID": 2774,
+          "Title": "Pari"
+        },
+        {
+          "ID": 3644,
+          "Title": "Kanbera"
+        },
+        {
+          "ID": 11844,
+          "Title": "Moun"
+        },
+        {
+          "ID": 60065,
+          "Title": "Homo sapiens"
+        }
+      ]
+    },
+    {
+      "ID": 2147483639,
+      "Title": "Health and fitness",
+      "Categories": [
+        {
+          "ID": 2643,
+          "Title": "Kategori:Medsin"
+        }
+      ]
+    },
+    {
+      "ID": 2147483640,
+      "Title": "History and events",
+      "Categories": [
+        {
+          "ID": 12410,
+          "Title": "Kategori:Istwa"
+        }
+      ],
+      "Articles": [
+        {
+          "ID": 63910,
+          "Title": "Donald Trump"
+        }
+      ]
+    },
+    {
+      "ID": 2147483641,
+      "Title": "Mathematics and logic",
+      "Categories": [
+        {
+          "ID": 3740,
+          "Title": "Kategori:Matematik"
+        },
+        {
+          "ID": 64410,
+          "Title": "Kategori:Estatistik"
+        }
+      ]
+    },
+    {
+      "ID": 2147483642,
+      "Title": "Nature and physical sciences",
+      "Categories": [
+        {
+          "ID": 2543,
+          "Title": "Kategori:Syans natirèl"
+        },
+        {
+          "ID": 2646,
+          "Title": "Kategori:Chimi"
+        },
+        {
+          "ID": 3200,
+          "Title": "Kategori:Fizik"
+        },
+        {
+          "ID": 12006,
+          "Title": "Kategori:Syans"
+        }
+      ],
+      "Articles": [
+        {
+          "ID": 2332,
+          "Title": "Makro"
+        },
+        {
+          "ID": 2347,
+          "Title": "Flaman"
+        },
+        {
+          "ID": 2370,
+          "Title": "Chou flè"
+        },
+        {
+          "ID": 2388,
+          "Title": "Zannanna"
+        },
+        {
+          "ID": 2392,
+          "Title": "Kantaloup"
+        },
+        {
+          "ID": 2395,
+          "Title": "Sitron"
+        },
+        {
+          "ID": 2398,
+          "Title": "Frèz"
+        },
+        {
+          "ID": 2404,
+          "Title": "Mango"
+        },
+        {
+          "ID": 2405,
+          "Title": "Melon"
+        },
+        {
+          "ID": 2409,
+          "Title": "Zoranj"
+        },
+        {
+          "ID": 2430,
+          "Title": "Tomat"
+        },
+        {
+          "ID": 2532,
+          "Title": "Ble (sereyal)"
+        },
+        {
+          "ID": 2533,
+          "Title": "Diri"
+        },
+        {
+          "ID": 2535,
+          "Title": "Mayi"
+        },
+        {
+          "ID": 2598,
+          "Title": "Chamo"
+        },
+        {
+          "ID": 13510,
+          "Title": "Zoranj gwo po"
+        },
+        {
+          "ID": 14024,
+          "Title": "Dife"
+        },
+        {
+          "ID": 15792,
+          "Title": "Melon frans"
+        },
+        {
+          "ID": 59096,
+          "Title": "Misk"
+        },
+        {
+          "ID": 60001,
+          "Title": "Rezo alimantè"
+        },
+        {
+          "ID": 60025,
+          "Title": "Jèminasyon"
+        },
+        {
+          "ID": 60470,
+          "Title": "Sispansyon"
+        },
+        {
+          "ID": 60480,
+          "Title": "Sik dlo"
+        },
+        {
+          "ID": 60538,
+          "Title": "Tentakil"
+        },
+        {
+          "ID": 60726,
+          "Title": "Koulè konplemantè"
+        },
+        {
+          "ID": 61064,
+          "Title": "Siksesyon primè"
+        }
+      ]
+    },
+    {
+      "ID": 2147483643,
+      "Title": "People and self",
+      "Categories": [
+        {
+          "ID": 2126,
+          "Title": "Kategori:Èt vivan"
+        },
+        {
+          "ID": 12415,
+          "Title": "Kategori:Moun"
+        },
+        {
+          "ID": 62647,
+          "Title": "Kategori:Fanm"
+        }
+      ],
+      "Articles": [
+        {
+          "ID": 19464,
+          "Title": "Carl Friedrich Gauss"
+        },
+        {
+          "ID": 19522,
+          "Title": "Johannes Kepler"
+        },
+        {
+          "ID": 20385,
+          "Title": "Charles Babbage"
+        },
+        {
+          "ID": 20529,
+          "Title": "Alan Turing"
+        },
+        {
+          "ID": 20570,
+          "Title": "Lewis Carroll"
+        },
+        {
+          "ID": 20826,
+          "Title": "Srinivasa Ramanujan"
+        },
+        {
+          "ID": 20927,
+          "Title": "René Descartes"
+        },
+        {
+          "ID": 21174,
+          "Title": "Fibonacci"
+        },
+        {
+          "ID": 21182,
+          "Title": "Galileo Galilei"
+        },
+        {
+          "ID": 21737,
+          "Title": "Irving Langmuir"
+        },
+        {
+          "ID": 31997,
+          "Title": "Sigmund Freud"
+        },
+        {
+          "ID": 61571,
+          "Title": "Kristòf Kolon"
+        },
+        {
+          "ID": 62715,
+          "Title": "Adolf Hitler"
+        },
+        {
+          "ID": 65951,
+          "Title": "Thomas d'Aquin"
+        }
+      ]
+    },
+    {
+      "ID": 2147483644,
+      "Title": "Philosophy and thinking",
+      "Categories": [
+        {
+          "ID": 58394,
+          "Title": "Kategori:Filozofi"
+        }
+      ],
+      "Articles": [
+        {
+          "ID": 59285,
+          "Title": "Lafwa"
+        }
+      ]
+    },
+    {
+      "ID": 2147483645,
+      "Title": "Religion and belief systems",
+      "Categories": [
+        {
+          "ID": 2498,
+          "Title": "Kategori:Relijyon"
+        }
+      ]
+    },
+    {
+      "ID": 2147483646,
+      "Title": "Society and social sciences",
+      "Categories": [
+        {
+          "ID": 2592,
+          "Title": "Kategori:Sosyete"
+        },
+        {
+          "ID": 11913,
+          "Title": "Kategori:Syans imèn"
+        },
+        {
+          "ID": 12544,
+          "Title": "Kategori:Lalwa"
+        }
+      ],
+      "Articles": [
+        {
+          "ID": 981,
+          "Title": "Chili"
+        },
+        {
+          "ID": 1033,
+          "Title": "Lababad"
+        },
+        {
+          "ID": 1153,
+          "Title": "Iran"
+        },
+        {
+          "ID": 1992,
+          "Title": "Inyon Ewopeyèn"
+        },
+        {
+          "ID": 65095,
+          "Title": "Hebrew University of lavil Jerizalèm"
+        },
+        {
+          "ID": 65690,
+          "Title": "Pizza Hut"
+        },
+        {
+          "ID": 66642,
+          "Title": "Moskou Inivèsite Leta"
+        }
+      ]
+    },
+    {
+      "ID": 2147483647,
+      "Title": "Technology and applied sciences",
+      "Categories": [
+        {
+          "ID": 2642,
+          "Title": "Kategori:Enjenyeri"
+        },
+        {
+          "ID": 3240,
+          "Title": "Kategori:Enfòmatik"
+        },
+        {
+          "ID": 3737,
+          "Title": "Kategori:Teknoloji"
+        },
+        {
+          "ID": 4066,
+          "Title": "Kategori:Transpò"
+        },
+        {
+          "ID": 4082,
+          "Title": "Kategori:Elektwonik"
+        },
+        {
+          "ID": 12426,
+          "Title": "Kategori:Entènet"
+        }
+      ]
+    }
+  ],
+  "Filters": [
+    {
+      "ID": 2967,
+      "Title": "Kategori:Menm non"
+    },
+    {
+      "ID": 64902,
+      "Title": "Kategori:Kategori ki kache yo"
+    }
+  ]
+}

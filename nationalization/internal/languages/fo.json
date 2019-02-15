@@ -1,0 +1,465 @@
+{
+  "Language": "fo",
+  "Topics": [
+    {
+      "ID": 2147483637,
+      "Title": "Culture and the arts",
+      "Categories": [
+        {
+          "ID": 1903,
+          "Title": "Bólkur:Mentan"
+        },
+        {
+          "ID": 2401,
+          "Title": "Bólkur:List"
+        },
+        {
+          "ID": 4094,
+          "Title": "Bólkur:Ítróttur"
+        },
+        {
+          "ID": 5426,
+          "Title": "Bólkur:Matur og drekka"
+        },
+        {
+          "ID": 8523,
+          "Title": "Bólkur:Undirhald"
+        },
+        {
+          "ID": 16188,
+          "Title": "Bólkur:Áhugamál"
+        },
+        {
+          "ID": 28187,
+          "Title": "Bólkur:Tónleikabólkar"
+        }
+      ],
+      "Articles": [
+        {
+          "ID": 805,
+          "Title": "Wikipedia"
+        },
+        {
+          "ID": 806,
+          "Title": "Alfrøði"
+        },
+        {
+          "ID": 10507,
+          "Title": "Sgt Pepper's Lonely Hearts Club Band (LP)"
+        },
+        {
+          "ID": 11291,
+          "Title": "Sølibat"
+        },
+        {
+          "ID": 12378,
+          "Title": "Støð í Harry Potter"
+        },
+        {
+          "ID": 15037,
+          "Title": "Øl"
+        },
+        {
+          "ID": 16537,
+          "Title": "Led Zeppelin"
+        },
+        {
+          "ID": 19724,
+          "Title": "Kaffi"
+        },
+        {
+          "ID": 20427,
+          "Title": "Breyð"
+        },
+        {
+          "ID": 39785,
+          "Title": "Eurovision Song Contest 2017"
+        }
+      ]
+    },
+    {
+      "ID": 2147483638,
+      "Title": "Geography and places",
+      "Categories": [
+        {
+          "ID": 4329,
+          "Title": "Bólkur:Landafrøði"
+        },
+        {
+          "ID": 21527,
+          "Title": "Bólkur:Minnisvarðar"
+        }
+      ],
+      "Articles": [
+        {
+          "ID": 7303,
+          "Title": "Paris"
+        },
+        {
+          "ID": 8016,
+          "Title": "Avstralia"
+        },
+        {
+          "ID": 9236,
+          "Title": "Venesia"
+        },
+        {
+          "ID": 9271,
+          "Title": "Burma"
+        },
+        {
+          "ID": 16926,
+          "Title": "Menniskja"
+        },
+        {
+          "ID": 19730,
+          "Title": "Canberra"
+        }
+      ]
+    },
+    {
+      "ID": 2147483639,
+      "Title": "Health and fitness",
+      "Categories": [
+        {
+          "ID": 6255,
+          "Title": "Bólkur:Læknafrøði"
+        },
+        {
+          "ID": 15910,
+          "Title": "Bólkur:Heilsa"
+        }
+      ]
+    },
+    {
+      "ID": 2147483640,
+      "Title": "History and events",
+      "Categories": [
+        {
+          "ID": 3128,
+          "Title": "Bólkur:Søga"
+        },
+        {
+          "ID": 6230,
+          "Title": "Bólkur:Merkisdagar"
+        },
+        {
+          "ID": 16346,
+          "Title": "Bólkur:Søga eftir landi"
+        }
+      ],
+      "Articles": [
+        {
+          "ID": 14781,
+          "Title": "Yvirgangsálopið 9/11"
+        },
+        {
+          "ID": 15353,
+          "Title": "Jarðskjálvtin í Sendai 2011"
+        },
+        {
+          "ID": 16181,
+          "Title": "Donald Trump"
+        },
+        {
+          "ID": 40220,
+          "Title": "Yvirgangsálopið í Orlando 2016"
+        }
+      ]
+    },
+    {
+      "ID": 2147483641,
+      "Title": "Mathematics and logic",
+      "Categories": [
+        {
+          "ID": 2240,
+          "Title": "Bólkur:Støddfrøði"
+        },
+        {
+          "ID": 6259,
+          "Title": "Bólkur:Hagfrøði"
+        }
+      ]
+    },
+    {
+      "ID": 2147483642,
+      "Title": "Nature and physical sciences",
+      "Categories": [
+        {
+          "ID": 2239,
+          "Title": "Bólkur:Alisfrøði"
+        },
+        {
+          "ID": 2260,
+          "Title": "Bólkur:Náttúruvísindi"
+        },
+        {
+          "ID": 2262,
+          "Title": "Bólkur:Evnafrøði"
+        },
+        {
+          "ID": 4429,
+          "Title": "Bólkur:Vísind"
+        },
+        {
+          "ID": 4691,
+          "Title": "Bólkur:Djórafrøði"
+        },
+        {
+          "ID": 16053,
+          "Title": "Bólkur:Vanlukkur"
+        },
+        {
+          "ID": 21411,
+          "Title": "Bólkur:Náttúra"
+        }
+      ],
+      "Articles": [
+        {
+          "ID": 8829,
+          "Title": "Elgur"
+        },
+        {
+          "ID": 8831,
+          "Title": "Kamelur"
+        },
+        {
+          "ID": 21054,
+          "Title": "Appilsin"
+        },
+        {
+          "ID": 25523,
+          "Title": "Jarðber"
+        },
+        {
+          "ID": 28702,
+          "Title": "Rís"
+        },
+        {
+          "ID": 28703,
+          "Title": "Hveiti"
+        },
+        {
+          "ID": 28704,
+          "Title": "Mais"
+        }
+      ]
+    },
+    {
+      "ID": 2147483643,
+      "Title": "People and self",
+      "Categories": [
+        {
+          "ID": 4467,
+          "Title": "Bólkur:Fólk"
+        },
+        {
+          "ID": 4635,
+          "Title": "Bólkur:Eftirnøvn"
+        },
+        {
+          "ID": 17802,
+          "Title": "Bólkur:Kvinnur"
+        },
+        {
+          "ID": 19450,
+          "Title": "Bólkur:Lívið"
+        }
+      ],
+      "Articles": [
+        {
+          "ID": 5509,
+          "Title": "Adam Smith"
+        },
+        {
+          "ID": 6399,
+          "Title": "Adolf Hitler"
+        },
+        {
+          "ID": 6620,
+          "Title": "Alexander Fleming"
+        },
+        {
+          "ID": 8169,
+          "Title": "René Descartes"
+        },
+        {
+          "ID": 10451,
+          "Title": "John Lennon"
+        },
+        {
+          "ID": 10452,
+          "Title": "George Harrison"
+        },
+        {
+          "ID": 11331,
+          "Title": "Bill Gates"
+        },
+        {
+          "ID": 12384,
+          "Title": "Skýming"
+        },
+        {
+          "ID": 12929,
+          "Title": "Elton John"
+        },
+        {
+          "ID": 13974,
+          "Title": "Thomas Aquinas"
+        },
+        {
+          "ID": 14924,
+          "Title": "Kristoffur Kolumbus"
+        },
+        {
+          "ID": 16706,
+          "Title": "Anders Behring Breivik"
+        },
+        {
+          "ID": 30575,
+          "Title": "Richard Dawkins"
+        },
+        {
+          "ID": 36449,
+          "Title": "Alan Turing"
+        },
+        {
+          "ID": 39265,
+          "Title": "William Blake"
+        },
+        {
+          "ID": 42471,
+          "Title": "Sigmund Freud"
+        }
+      ]
+    },
+    {
+      "ID": 2147483644,
+      "Title": "Philosophy and thinking",
+      "Categories": [
+        {
+          "ID": 5454,
+          "Title": "Bólkur:Heimspeki"
+        },
+        {
+          "ID": 9960,
+          "Title": "Bólkur:Siðafrøði"
+        }
+      ]
+    },
+    {
+      "ID": 2147483645,
+      "Title": "Religion and belief systems",
+      "Categories": [
+        {
+          "ID": 2023,
+          "Title": "Bólkur:Átrúnaður"
+        }
+      ]
+    },
+    {
+      "ID": 2147483646,
+      "Title": "Society and social sciences",
+      "Categories": [
+        {
+          "ID": 4468,
+          "Title": "Bólkur:Samfelag"
+        },
+        {
+          "ID": 4479,
+          "Title": "Bólkur:Løgfrøði"
+        },
+        {
+          "ID": 25251,
+          "Title": "Bólkur:Millumlanda felagsskapir"
+        },
+        {
+          "ID": 25253,
+          "Title": "Bólkur:Altjóða felagsskapir"
+        }
+      ],
+      "Articles": [
+        {
+          "ID": 6338,
+          "Title": "Kili"
+        },
+        {
+          "ID": 6451,
+          "Title": "Summartíð"
+        },
+        {
+          "ID": 6453,
+          "Title": "Evropeiska Samveldið"
+        },
+        {
+          "ID": 6921,
+          "Title": "Iran"
+        },
+        {
+          "ID": 8902,
+          "Title": "The New York Times"
+        },
+        {
+          "ID": 11432,
+          "Title": "Harvard University"
+        },
+        {
+          "ID": 17126,
+          "Title": "Fox News Channel"
+        },
+        {
+          "ID": 19355,
+          "Title": "Barbados"
+        },
+        {
+          "ID": 20105,
+          "Title": "Tübingen universitet"
+        }
+      ]
+    },
+    {
+      "ID": 2147483647,
+      "Title": "Technology and applied sciences",
+      "Categories": [
+        {
+          "ID": 4228,
+          "Title": "Bólkur:Teldufrøði"
+        },
+        {
+          "ID": 4461,
+          "Title": "Bólkur:Tøknifrøði"
+        },
+        {
+          "ID": 17573,
+          "Title": "Bólkur:Internetið"
+        },
+        {
+          "ID": 35432,
+          "Title": "Bólkur:Nýtsluvísindi"
+        },
+        {
+          "ID": 37067,
+          "Title": "Bólkur:Flutningur"
+        },
+        {
+          "ID": 37593,
+          "Title": "Bólkur:Hernaðarútgerð"
+        },
+        {
+          "ID": 38551,
+          "Title": "Bólkur:Teldur"
+        }
+      ]
+    }
+  ],
+  "Filters": [
+    {
+      "ID": 1897,
+      "Title": "Bólkur:Fleiri týdningar"
+    },
+    {
+      "ID": 30726,
+      "Title": "Bólkur:Fjaldir bólkar"
+    }
+  ]
+}

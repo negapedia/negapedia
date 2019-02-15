@@ -1,0 +1,219 @@
+{
+  "Language": "koi",
+  "Topics": [
+    {
+      "ID": 2147483637,
+      "Title": "Culture and the arts",
+      "Categories": [
+        {
+          "ID": 1228,
+          "Title": "Категория:Культура"
+        },
+        {
+          "ID": 1327,
+          "Title": "Категория:Сёян-юан"
+        },
+        {
+          "ID": 1884,
+          "Title": "Категория:Кужӧттэз"
+        }
+      ],
+      "Articles": [
+        {
+          "ID": 519,
+          "Title": "Википедия"
+        },
+        {
+          "ID": 678,
+          "Title": "Кольть"
+        },
+        {
+          "ID": 5386,
+          "Title": "Pinus cembroides"
+        }
+      ]
+    },
+    {
+      "ID": 2147483638,
+      "Title": "Geography and places",
+      "Categories": [
+        {
+          "ID": 1139,
+          "Title": "Категория:География"
+        }
+      ],
+      "Articles": [
+        {
+          "ID": 798,
+          "Title": "Морт"
+        },
+        {
+          "ID": 7032,
+          "Title": "Париж"
+        }
+      ]
+    },
+    {
+      "ID": 2147483639,
+      "Title": "Health and fitness"
+    },
+    {
+      "ID": 2147483640,
+      "Title": "History and events",
+      "Categories": [
+        {
+          "ID": 1155,
+          "Title": "Категория:История"
+        },
+        {
+          "ID": 1865,
+          "Title": "Категория:История муэзӧт"
+        }
+      ]
+    },
+    {
+      "ID": 2147483641,
+      "Title": "Mathematics and logic",
+      "Categories": [
+        {
+          "ID": 1243,
+          "Title": "Категория:Математика"
+        }
+      ]
+    },
+    {
+      "ID": 2147483642,
+      "Title": "Nature and physical sciences",
+      "Categories": [
+        {
+          "ID": 1153,
+          "Title": "Категория:Зоология"
+        },
+        {
+          "ID": 1342,
+          "Title": "Категория:Тӧдмалан"
+        },
+        {
+          "ID": 1343,
+          "Title": "Категория:Тӧдмаланнэз"
+        },
+        {
+          "ID": 1361,
+          "Title": "Категория:Химия"
+        },
+        {
+          "ID": 1858,
+          "Title": "Категория:Ӧтӧр тӧдмаланнэз"
+        }
+      ],
+      "Articles": [
+        {
+          "ID": 826,
+          "Title": "Оз"
+        },
+        {
+          "ID": 2458,
+          "Title": "Вӧрмӧс"
+        },
+        {
+          "ID": 3968,
+          "Title": "Лимон"
+        },
+        {
+          "ID": 4326,
+          "Title": "Манго"
+        },
+        {
+          "ID": 4869,
+          "Title": "Перуись физалис"
+        },
+        {
+          "ID": 4972,
+          "Title": "Энгельманн кӧз"
+        },
+        {
+          "ID": 5412,
+          "Title": "Pinus kesiya"
+        },
+        {
+          "ID": 5755,
+          "Title": "Magnolia liliiflora"
+        }
+      ]
+    },
+    {
+      "ID": 2147483643,
+      "Title": "People and self",
+      "Categories": [
+        {
+          "ID": 1904,
+          "Title": "Категория:Персоналияэз анбурӧт"
+        },
+        {
+          "ID": 8384,
+          "Title": "Категория:Персоналияэз"
+        }
+      ],
+      "Articles": [
+        {
+          "ID": 2002,
+          "Title": "Zigmund Freud"
+        },
+        {
+          "ID": 6381,
+          "Title": "Брейвик, Андерс Беринг"
+        }
+      ]
+    },
+    {
+      "ID": 2147483644,
+      "Title": "Philosophy and thinking"
+    },
+    {
+      "ID": 2147483645,
+      "Title": "Religion and belief systems",
+      "Categories": [
+        {
+          "ID": 1300,
+          "Title": "Категория:Религия"
+        }
+      ]
+    },
+    {
+      "ID": 2147483646,
+      "Title": "Society and social sciences",
+      "Categories": [
+        {
+          "ID": 1270,
+          "Title": "Категория:Отир тӧдмаланнэз"
+        }
+      ],
+      "Articles": [
+        {
+          "ID": 1457,
+          "Title": "Ӧтласа Европа"
+        },
+        {
+          "ID": 7925,
+          "Title": "Чили"
+        }
+      ]
+    },
+    {
+      "ID": 2147483647,
+      "Title": "Technology and applied sciences",
+      "Categories": [
+        {
+          "ID": 7514,
+          "Title": "Категория:Информатика"
+        }
+      ]
+    }
+  ],
+  "Filters": [
+    {
+      "ID": 1923,
+      "Title": "Категория:Уна вежӧртаса терминнэз"
+    }
+  ]
+}

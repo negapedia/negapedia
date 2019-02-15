@@ -1,0 +1,359 @@
+{
+  "Language": "lfn",
+  "Topics": [
+    {
+      "ID": 2147483637,
+      "Title": "Culture and the arts",
+      "Categories": [
+        {
+          "ID": 170,
+          "Title": "Categoria:Arte"
+        },
+        {
+          "ID": 209,
+          "Title": "Categoria:Color"
+        },
+        {
+          "ID": 210,
+          "Title": "Categoria:Comeda"
+        },
+        {
+          "ID": 223,
+          "Title": "Categoria:Cultur"
+        },
+        {
+          "ID": 2187,
+          "Title": "Categoria:Cosini"
+        },
+        {
+          "ID": 3727,
+          "Title": "Categoria:Sporte"
+        }
+      ],
+      "Articles": [
+        {
+          "ID": 665,
+          "Title": "Vicipedia"
+        },
+        {
+          "ID": 909,
+          "Title": "Pan"
+        },
+        {
+          "ID": 1012,
+          "Title": "Realia"
+        },
+        {
+          "ID": 1328,
+          "Title": "Lardo"
+        },
+        {
+          "ID": 2026,
+          "Title": "Bir"
+        },
+        {
+          "ID": 2059,
+          "Title": "Cafe"
+        },
+        {
+          "ID": 2394,
+          "Title": "Ovo"
+        },
+        {
+          "ID": 2430,
+          "Title": "Porco"
+        },
+        {
+          "ID": 3218,
+          "Title": "Xocolada"
+        },
+        {
+          "ID": 3474,
+          "Title": "Carne moleda"
+        },
+        {
+          "ID": 5183,
+          "Title": "Piza"
+        }
+      ]
+    },
+    {
+      "ID": 2147483638,
+      "Title": "Geography and places",
+      "Categories": [
+        {
+          "ID": 326,
+          "Title": "Categoria:Jeografia"
+        }
+      ],
+      "Articles": [
+        {
+          "ID": 643,
+          "Title": "Umana"
+        },
+        {
+          "ID": 919,
+          "Title": "Paris"
+        },
+        {
+          "ID": 1187,
+          "Title": "Miama"
+        },
+        {
+          "ID": 1985,
+          "Title": "Australia"
+        },
+        {
+          "ID": 3632,
+          "Title": "Venezia"
+        }
+      ]
+    },
+    {
+      "ID": 2147483639,
+      "Title": "Health and fitness",
+      "Categories": [
+        {
+          "ID": 407,
+          "Title": "Categoria:Medica"
+        },
+        {
+          "ID": 4992,
+          "Title": "Categoria:Autocura"
+        }
+      ]
+    },
+    {
+      "ID": 2147483640,
+      "Title": "History and events",
+      "Categories": [
+        {
+          "ID": 291,
+          "Title": "Categoria:Istoria"
+        }
+      ],
+      "Articles": [
+        {
+          "ID": 1615,
+          "Title": "Gera de Troia"
+        },
+        {
+          "ID": 3949,
+          "Title": "Donald Trump"
+        }
+      ]
+    },
+    {
+      "ID": 2147483641,
+      "Title": "Mathematics and logic",
+      "Categories": [
+        {
+          "ID": 393,
+          "Title": "Categoria:Lojica"
+        },
+        {
+          "ID": 404,
+          "Title": "Categoria:Matematica"
+        }
+      ]
+    },
+    {
+      "ID": 2147483642,
+      "Title": "Nature and physical sciences",
+      "Categories": [
+        {
+          "ID": 207,
+          "Title": "Categoria:Cimica"
+        },
+        {
+          "ID": 269,
+          "Title": "Categoria:Fisica"
+        },
+        {
+          "ID": 499,
+          "Title": "Categoria:Siensa"
+        },
+        {
+          "ID": 2171,
+          "Title": "Categoria:Siensas natural"
+        }
+      ],
+      "Articles": [
+        {
+          "ID": 615,
+          "Title": "Trigo"
+        },
+        {
+          "ID": 704,
+          "Title": "Ris"
+        },
+        {
+          "ID": 1572,
+          "Title": "Flamingo"
+        },
+        {
+          "ID": 2368,
+          "Title": "Mais"
+        },
+        {
+          "ID": 2885,
+          "Title": "Camel"
+        }
+      ]
+    },
+    {
+      "ID": 2147483643,
+      "Title": "People and self",
+      "Categories": [
+        {
+          "ID": 188,
+          "Title": "Categoria:Biografia"
+        }
+      ],
+      "Articles": [
+        {
+          "ID": 748,
+          "Title": "San Tomas de Aquino"
+        },
+        {
+          "ID": 811,
+          "Title": "Sigmund Freud"
+        },
+        {
+          "ID": 1036,
+          "Title": "René Descartes"
+        },
+        {
+          "ID": 1294,
+          "Title": "Joseph Smith Jr."
+        },
+        {
+          "ID": 1602,
+          "Title": "Galileo Galilei"
+        },
+        {
+          "ID": 1764,
+          "Title": "Charles Lutwidge Dodgson"
+        },
+        {
+          "ID": 1824,
+          "Title": "Cristoforo Colombo"
+        },
+        {
+          "ID": 1847,
+          "Title": "Adam Smith"
+        },
+        {
+          "ID": 1852,
+          "Title": "Adolf Hitler"
+        },
+        {
+          "ID": 2022,
+          "Title": "Bill Gates"
+        },
+        {
+          "ID": 4296,
+          "Title": "Richard Wagner"
+        }
+      ]
+    },
+    {
+      "ID": 2147483644,
+      "Title": "Philosophy and thinking",
+      "Categories": [
+        {
+          "ID": 267,
+          "Title": "Categoria:Filosofia"
+        }
+      ],
+      "Articles": [
+        {
+          "ID": 3181,
+          "Title": "Felisia"
+        }
+      ]
+    },
+    {
+      "ID": 2147483645,
+      "Title": "Religion and belief systems",
+      "Categories": [
+        {
+          "ID": 474,
+          "Title": "Categoria:Relijio"
+        }
+      ]
+    },
+    {
+      "ID": 2147483646,
+      "Title": "Society and social sciences",
+      "Categories": [
+        {
+          "ID": 341,
+          "Title": "Categoria:Lege"
+        },
+        {
+          "ID": 511,
+          "Title": "Categoria:Sosia"
+        },
+        {
+          "ID": 2168,
+          "Title": "Categoria:Siensas umana"
+        }
+      ],
+      "Articles": [
+        {
+          "ID": 634,
+          "Title": "Txile"
+        },
+        {
+          "ID": 650,
+          "Title": "Universia de Oxford"
+        },
+        {
+          "ID": 1468,
+          "Title": "Iran"
+        },
+        {
+          "ID": 2007,
+          "Title": "Barbados"
+        },
+        {
+          "ID": 2500,
+          "Title": "Uni European"
+        },
+        {
+          "ID": 2674,
+          "Title": "Universia Harvard"
+        }
+      ]
+    },
+    {
+      "ID": 2147483647,
+      "Title": "Technology and applied sciences",
+      "Categories": [
+        {
+          "ID": 284,
+          "Title": "Categoria:Injenia"
+        },
+        {
+          "ID": 518,
+          "Title": "Categoria:Tecnolojia"
+        },
+        {
+          "ID": 522,
+          "Title": "Categoria:Transporta"
+        },
+        {
+          "ID": 2182,
+          "Title": "Categoria:Eletronica"
+        }
+      ]
+    }
+  ],
+  "Filters": [
+    {
+      "ID": 443,
+      "Title": "Categoria:Pajes de desambigui"
+    }
+  ]
+}

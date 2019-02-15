@@ -1,0 +1,127 @@
+{
+  "Language": "ik",
+  "Topics": [
+    {
+      "ID": 2147483637,
+      "Title": "Culture and the arts",
+      "Categories": [
+        {
+          "ID": 2935,
+          "Title": "Category:Qiñiqsitaat"
+        },
+        {
+          "ID": 2983,
+          "Title": "Category:Niqi"
+        }
+      ],
+      "Articles": [
+        {
+          "ID": 2036,
+          "Title": "Uiqipitia"
+        },
+        {
+          "ID": 2731,
+          "Title": "Tuttuqłuk"
+        },
+        {
+          "ID": 2790,
+          "Title": "Mannik"
+        },
+        {
+          "ID": 3322,
+          "Title": "Punniq"
+        },
+        {
+          "ID": 3323,
+          "Title": "Qaqqulaaq"
+        }
+      ]
+    },
+    {
+      "ID": 2147483638,
+      "Title": "Geography and places",
+      "Articles": [
+        {
+          "ID": 4624,
+          "Title": "Myanmar"
+        }
+      ]
+    },
+    {
+      "ID": 2147483639,
+      "Title": "Health and fitness"
+    },
+    {
+      "ID": 2147483640,
+      "Title": "History and events"
+    },
+    {
+      "ID": 2147483641,
+      "Title": "Mathematics and logic"
+    },
+    {
+      "ID": 2147483642,
+      "Title": "Nature and physical sciences",
+      "Articles": [
+        {
+          "ID": 2723,
+          "Title": "Tuttuvak"
+        },
+        {
+          "ID": 2872,
+          "Title": "Usuk"
+        },
+        {
+          "ID": 2875,
+          "Title": "Igruk"
+        },
+        {
+          "ID": 2925,
+          "Title": "Pikukturuaq"
+        },
+        {
+          "ID": 4191,
+          "Title": "Palauvakstrat"
+        }
+      ]
+    },
+    {
+      "ID": 2147483643,
+      "Title": "People and self"
+    },
+    {
+      "ID": 2147483644,
+      "Title": "Philosophy and thinking"
+    },
+    {
+      "ID": 2147483645,
+      "Title": "Religion and belief systems"
+    },
+    {
+      "ID": 2147483646,
+      "Title": "Society and social sciences",
+      "Articles": [
+        {
+          "ID": 4514,
+          "Title": "Cili"
+        }
+      ]
+    },
+    {
+      "ID": 2147483647,
+      "Title": "Technology and applied sciences",
+      "Categories": [
+        {
+          "ID": 3532,
+          "Title": "Category:Taimani Igliġutit"
+        }
+      ],
+      "Articles": [
+        {
+          "ID": 4206,
+          "Title": "Kutchuq"
+        }
+      ]
+    }
+  ]
+}

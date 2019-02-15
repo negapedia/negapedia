@@ -1,0 +1,373 @@
+{
+  "Language": "fiu-vro",
+  "Topics": [
+    {
+      "ID": 2147483637,
+      "Title": "Culture and the arts",
+      "Categories": [
+        {
+          "ID": 2864,
+          "Title": "Katõgooria:Meelelahutus"
+        },
+        {
+          "ID": 3014,
+          "Title": "Katõgooria:Kultuur"
+        },
+        {
+          "ID": 3629,
+          "Title": "Katõgooria:Sport"
+        },
+        {
+          "ID": 4228,
+          "Title": "Katõgooria:Ansambliq"
+        },
+        {
+          "ID": 5788,
+          "Title": "Katõgooria:Kunst"
+        },
+        {
+          "ID": 5937,
+          "Title": "Katõgooria:Söögiq"
+        },
+        {
+          "ID": 5978,
+          "Title": "Katõgooria:Süük ja juuk"
+        },
+        {
+          "ID": 10045,
+          "Title": "Katõgooria:Värmiq"
+        },
+        {
+          "ID": 10433,
+          "Title": "Katõgooria:Spordialaq"
+        },
+        {
+          "ID": 13665,
+          "Title": "Katõgooria:Filmiq"
+        }
+      ],
+      "Articles": [
+        {
+          "ID": 2,
+          "Title": "Vikipeediä"
+        },
+        {
+          "ID": 7377,
+          "Title": "Kohv"
+        },
+        {
+          "ID": 7378,
+          "Title": "Oluq"
+        },
+        {
+          "ID": 10134,
+          "Title": "Leib"
+        }
+      ]
+    },
+    {
+      "ID": 2147483638,
+      "Title": "Geography and places",
+      "Categories": [
+        {
+          "ID": 996,
+          "Title": "Katõgooria:Maatiidüs"
+        },
+        {
+          "ID": 9575,
+          "Title": "Katõgooria:Mälehtüsmärgiq"
+        }
+      ],
+      "Articles": [
+        {
+          "ID": 5863,
+          "Title": "Inemine"
+        },
+        {
+          "ID": 7027,
+          "Title": "Pariis"
+        },
+        {
+          "ID": 7335,
+          "Title": "Pürämiid"
+        },
+        {
+          "ID": 9078,
+          "Title": "Birma"
+        },
+        {
+          "ID": 9849,
+          "Title": "Austraalia"
+        }
+      ]
+    },
+    {
+      "ID": 2147483639,
+      "Title": "Health and fitness",
+      "Categories": [
+        {
+          "ID": 2855,
+          "Title": "Katõgooria:Arstitiidüs"
+        }
+      ]
+    },
+    {
+      "ID": 2147483640,
+      "Title": "History and events",
+      "Categories": [
+        {
+          "ID": 2842,
+          "Title": "Katõgooria:Aolugu"
+        },
+        {
+          "ID": 10201,
+          "Title": "Katõgooria:Aolugu maiõ perrä"
+        },
+        {
+          "ID": 13644,
+          "Title": "Katõgooria:Tähtpääväq"
+        }
+      ]
+    },
+    {
+      "ID": 2147483641,
+      "Title": "Mathematics and logic",
+      "Categories": [
+        {
+          "ID": 3241,
+          "Title": "Katõgooria:Matõmaatiga"
+        }
+      ]
+    },
+    {
+      "ID": 2147483642,
+      "Title": "Nature and physical sciences",
+      "Categories": [
+        {
+          "ID": 998,
+          "Title": "Katõgooria:Tiidüseq"
+        },
+        {
+          "ID": 4386,
+          "Title": "Katõgooria:Luudus"
+        },
+        {
+          "ID": 4389,
+          "Title": "Katõgooria:Tiidüs"
+        },
+        {
+          "ID": 5925,
+          "Title": "Katõgooria:Füüsiga"
+        },
+        {
+          "ID": 6069,
+          "Title": "Katõgooria:Keemiä"
+        }
+      ],
+      "Articles": [
+        {
+          "ID": 5900,
+          "Title": "Muskli"
+        },
+        {
+          "ID": 7382,
+          "Title": "Nisu"
+        },
+        {
+          "ID": 7394,
+          "Title": "Riis"
+        },
+        {
+          "ID": 7395,
+          "Title": "Mais"
+        },
+        {
+          "ID": 9949,
+          "Title": "Tuli"
+        },
+        {
+          "ID": 10093,
+          "Title": "Kaamli"
+        },
+        {
+          "ID": 10146,
+          "Title": "Titt"
+        },
+        {
+          "ID": 10635,
+          "Title": "Maasik"
+        },
+        {
+          "ID": 12842,
+          "Title": "Apõlsiin"
+        },
+        {
+          "ID": 13470,
+          "Title": "Mango"
+        }
+      ]
+    },
+    {
+      "ID": 2147483643,
+      "Title": "People and self",
+      "Categories": [
+        {
+          "ID": 3935,
+          "Title": "Katõgooria:Inemiseq"
+        }
+      ],
+      "Articles": [
+        {
+          "ID": 6477,
+          "Title": "Gaussi Carl Friedrich"
+        },
+        {
+          "ID": 6694,
+          "Title": "Fibonacci"
+        },
+        {
+          "ID": 6726,
+          "Title": "Kolumbusõ Christoph"
+        },
+        {
+          "ID": 6780,
+          "Title": "Gatesi Bill"
+        },
+        {
+          "ID": 6799,
+          "Title": "Galilei Galileo"
+        },
+        {
+          "ID": 6857,
+          "Title": "Descartes'i René"
+        },
+        {
+          "ID": 6891,
+          "Title": "Smithi Adam"
+        },
+        {
+          "ID": 8986,
+          "Title": "Hitleri Adolf"
+        },
+        {
+          "ID": 13762,
+          "Title": "Aquino Thomas"
+        }
+      ]
+    },
+    {
+      "ID": 2147483644,
+      "Title": "Philosophy and thinking",
+      "Categories": [
+        {
+          "ID": 5195,
+          "Title": "Katõgooria:Filosoofia"
+        },
+        {
+          "ID": 13652,
+          "Title": "Katõgooria:Eetiga"
+        }
+      ]
+    },
+    {
+      "ID": 2147483645,
+      "Title": "Religion and belief systems",
+      "Categories": [
+        {
+          "ID": 3066,
+          "Title": "Katõgooria:Usk"
+        }
+      ]
+    },
+    {
+      "ID": 2147483646,
+      "Title": "Society and social sciences",
+      "Categories": [
+        {
+          "ID": 2845,
+          "Title": "Katõgooria:Ütiskund"
+        },
+        {
+          "ID": 2898,
+          "Title": "Katõgooria:Õigustiidüs"
+        },
+        {
+          "ID": 5105,
+          "Title": "Katõgooria:Humanitaartiidüseq"
+        },
+        {
+          "ID": 10380,
+          "Title": "Katõgooria:Riikevaihõlidsõq organisats'ooniq"
+        },
+        {
+          "ID": 10449,
+          "Title": "Katõgooria:Feminism"
+        }
+      ],
+      "Articles": [
+        {
+          "ID": 2906,
+          "Title": "Õuruupa Liit"
+        },
+        {
+          "ID": 3009,
+          "Title": "Tsiili"
+        },
+        {
+          "ID": 9035,
+          "Title": "Iraan"
+        },
+        {
+          "ID": 9843,
+          "Title": "Barbados"
+        },
+        {
+          "ID": 10625,
+          "Title": "Tarto Ülikuul"
+        },
+        {
+          "ID": 12776,
+          "Title": "Suvõaig"
+        }
+      ]
+    },
+    {
+      "ID": 2147483647,
+      "Title": "Technology and applied sciences",
+      "Categories": [
+        {
+          "ID": 3092,
+          "Title": "Katõgooria:Informaatiga"
+        },
+        {
+          "ID": 6153,
+          "Title": "Katõgooria:Tekniga"
+        },
+        {
+          "ID": 6225,
+          "Title": "Katõgooria:Internet"
+        },
+        {
+          "ID": 9972,
+          "Title": "Katõgooria:Sõariistaq"
+        },
+        {
+          "ID": 12274,
+          "Title": "Katõgooria:Transport"
+        }
+      ],
+      "Articles": [
+        {
+          "ID": 6191,
+          "Title": "Internetitunnus"
+        }
+      ]
+    }
+  ],
+  "Filters": [
+    {
+      "ID": 5254,
+      "Title": "Katõgooria:Täpsüstüsleheküleq"
+    }
+  ]
+}

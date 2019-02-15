@@ -1,0 +1,817 @@
+{
+  "Language": "io",
+  "Topics": [
+    {
+      "ID": 2147483637,
+      "Title": "Culture and the arts",
+      "Categories": [
+        {
+          "ID": 3241,
+          "Title": "Kategorio:Arti"
+        },
+        {
+          "ID": 3247,
+          "Title": "Kategorio:Sporti"
+        },
+        {
+          "ID": 4860,
+          "Title": "Kategorio:Koloro"
+        },
+        {
+          "ID": 5911,
+          "Title": "Kategorio:Distrakto"
+        },
+        {
+          "ID": 6043,
+          "Title": "Kategorio:Kulturo"
+        },
+        {
+          "ID": 7865,
+          "Title": "Kategorio:Mondumo"
+        },
+        {
+          "ID": 23897,
+          "Title": "Kategorio:Koqu-arto"
+        },
+        {
+          "ID": 24191,
+          "Title": "Kategorio:Nutreso"
+        },
+        {
+          "ID": 24644,
+          "Title": "Kategorio:Koquo tekniki"
+        },
+        {
+          "ID": 24871,
+          "Title": "Kategorio:Liber-tempo"
+        },
+        {
+          "ID": 25273,
+          "Title": "Kategorio:Hobii"
+        },
+        {
+          "ID": 26529,
+          "Title": "Kategorio:Muzikala grupi"
+        },
+        {
+          "ID": 26665,
+          "Title": "Kategorio:Nutrajo"
+        },
+        {
+          "ID": 28242,
+          "Title": "Kategorio:Gastronomio"
+        },
+        {
+          "ID": 33245,
+          "Title": "Kategorio:Sporti segun tipo"
+        }
+      ],
+      "Articles": [
+        {
+          "ID": 11705,
+          "Title": "Apro"
+        },
+        {
+          "ID": 12362,
+          "Title": "Porko"
+        },
+        {
+          "ID": 15828,
+          "Title": "Chokolado"
+        },
+        {
+          "ID": 16146,
+          "Title": "Biro"
+        },
+        {
+          "ID": 20045,
+          "Title": "Enciklopedio"
+        },
+        {
+          "ID": 23261,
+          "Title": "Amniotala ovo"
+        },
+        {
+          "ID": 23269,
+          "Title": "Ovo (nutrivo)"
+        },
+        {
+          "ID": 24429,
+          "Title": "Pano"
+        },
+        {
+          "ID": 24587,
+          "Title": "Sauco"
+        },
+        {
+          "ID": 24713,
+          "Title": "Bisquito"
+        },
+        {
+          "ID": 24717,
+          "Title": "Kuko"
+        },
+        {
+          "ID": 25530,
+          "Title": "Fantomo"
+        },
+        {
+          "ID": 25543,
+          "Title": "Farso"
+        },
+        {
+          "ID": 26526,
+          "Title": "Wikipedio"
+        },
+        {
+          "ID": 26615,
+          "Title": "Kafeo"
+        },
+        {
+          "ID": 26870,
+          "Title": "Torto"
+        },
+        {
+          "ID": 27154,
+          "Title": "Shinko"
+        },
+        {
+          "ID": 27643,
+          "Title": "Biskoto"
+        },
+        {
+          "ID": 28688,
+          "Title": "AC/DC"
+        },
+        {
+          "ID": 29213,
+          "Title": "Lardo"
+        },
+        {
+          "ID": 31626,
+          "Title": "Tarto"
+        },
+        {
+          "ID": 36436,
+          "Title": "Chasteso"
+        },
+        {
+          "ID": 40992,
+          "Title": "Led Zeppelin"
+        },
+        {
+          "ID": 43977,
+          "Title": "Pizza"
+        },
+        {
+          "ID": 49132,
+          "Title": "Euroviziono-Konkurso di Kansono 2018"
+        }
+      ]
+    },
+    {
+      "ID": 2147483638,
+      "Title": "Geography and places",
+      "Categories": [
+        {
+          "ID": 1422,
+          "Title": "Kategorio:Geografio"
+        },
+        {
+          "ID": 24943,
+          "Title": "Kategorio:Monumenti e memoriali"
+        },
+        {
+          "ID": 27972,
+          "Title": "Kategorio:Loki"
+        }
+      ],
+      "Articles": [
+        {
+          "ID": 1133,
+          "Title": "Canberra"
+        },
+        {
+          "ID": 2950,
+          "Title": "Paris"
+        },
+        {
+          "ID": 3953,
+          "Title": "Myanmar"
+        },
+        {
+          "ID": 5868,
+          "Title": "Piramido"
+        },
+        {
+          "ID": 14158,
+          "Title": "Venezia"
+        },
+        {
+          "ID": 14821,
+          "Title": "Homo"
+        },
+        {
+          "ID": 21606,
+          "Title": "Quinslando"
+        },
+        {
+          "ID": 23053,
+          "Title": "Australia"
+        }
+      ]
+    },
+    {
+      "ID": 2147483639,
+      "Title": "Health and fitness",
+      "Categories": [
+        {
+          "ID": 1424,
+          "Title": "Kategorio:Medicino"
+        },
+        {
+          "ID": 15392,
+          "Title": "Kategorio:Higieno"
+        },
+        {
+          "ID": 16222,
+          "Title": "Kategorio:Medicinala specaligi"
+        },
+        {
+          "ID": 25708,
+          "Title": "Kategorio:Sanesoflego"
+        },
+        {
+          "ID": 33341,
+          "Title": "Kategorio:Sanesoflego profesioni"
+        },
+        {
+          "ID": 34379,
+          "Title": "Kategorio:Saneso"
+        },
+        {
+          "ID": 39562,
+          "Title": "Kategorio:Sanesoflego cienci"
+        }
+      ]
+    },
+    {
+      "ID": 2147483640,
+      "Title": "History and events",
+      "Categories": [
+        {
+          "ID": 1423,
+          "Title": "Kategorio:Historio"
+        },
+        {
+          "ID": 25219,
+          "Title": "Kategorio:Eventi"
+        },
+        {
+          "ID": 35472,
+          "Title": "Kategorio:Historio segun lando"
+        }
+      ],
+      "Articles": [
+        {
+          "ID": 7330,
+          "Title": "Atenti ye la 11ma di septembro 2001"
+        },
+        {
+          "ID": 39893,
+          "Title": "Milito di Troya"
+        },
+        {
+          "ID": 46134,
+          "Title": "Donald Trump"
+        }
+      ]
+    },
+    {
+      "ID": 2147483641,
+      "Title": "Mathematics and logic",
+      "Categories": [
+        {
+          "ID": 3333,
+          "Title": "Kategorio:Matematiko"
+        },
+        {
+          "ID": 4342,
+          "Title": "Kategorio:Logiko"
+        },
+        {
+          "ID": 4389,
+          "Title": "Kategorio:Statistiko"
+        },
+        {
+          "ID": 25137,
+          "Title": "Kategorio:Probableso e statistiko"
+        },
+        {
+          "ID": 25139,
+          "Title": "Kategorio:Aplikata matematiko"
+        },
+        {
+          "ID": 28184,
+          "Title": "Kategorio:Subdividuri di matematiko"
+        }
+      ]
+    },
+    {
+      "ID": 2147483642,
+      "Title": "Nature and physical sciences",
+      "Categories": [
+        {
+          "ID": 1419,
+          "Title": "Kategorio:Kemio"
+        },
+        {
+          "ID": 1420,
+          "Title": "Kategorio:Fiziko"
+        },
+        {
+          "ID": 3240,
+          "Title": "Kategorio:Cienci"
+        },
+        {
+          "ID": 3252,
+          "Title": "Kategorio:Zoologio"
+        },
+        {
+          "ID": 5938,
+          "Title": "Kategorio:Naturo"
+        },
+        {
+          "ID": 24841,
+          "Title": "Kategorio:Kemiala substanci"
+        },
+        {
+          "ID": 24976,
+          "Title": "Kategorio:Kemiala kompozaji"
+        },
+        {
+          "ID": 25217,
+          "Title": "Kategorio:Dizastri"
+        },
+        {
+          "ID": 37941,
+          "Title": "Kategorio:Fizikala cienci"
+        },
+        {
+          "ID": 37942,
+          "Title": "Kategorio:Naturala cienci"
+        }
+      ],
+      "Articles": [
+        {
+          "ID": 4190,
+          "Title": "Frago"
+        },
+        {
+          "ID": 4661,
+          "Title": "Muskulo"
+        },
+        {
+          "ID": 8852,
+          "Title": "Fairo"
+        },
+        {
+          "ID": 11756,
+          "Title": "Kamelo"
+        },
+        {
+          "ID": 13213,
+          "Title": "Maizo"
+        },
+        {
+          "ID": 13323,
+          "Title": "Rizo"
+        },
+        {
+          "ID": 13344,
+          "Title": "Frumento"
+        },
+        {
+          "ID": 14966,
+          "Title": "Jeo"
+        },
+        {
+          "ID": 15067,
+          "Title": "Flamingo"
+        },
+        {
+          "ID": 15275,
+          "Title": "Makrelo"
+        },
+        {
+          "ID": 16897,
+          "Title": "Testikulo"
+        },
+        {
+          "ID": 16933,
+          "Title": "Nutriva kateno"
+        },
+        {
+          "ID": 21942,
+          "Title": "Alko"
+        },
+        {
+          "ID": 22508,
+          "Title": "Peniso"
+        },
+        {
+          "ID": 25144,
+          "Title": "Citrono"
+        },
+        {
+          "ID": 26028,
+          "Title": "Hidrologio"
+        },
+        {
+          "ID": 26692,
+          "Title": "Urino"
+        },
+        {
+          "ID": 26805,
+          "Title": "Tentakulo"
+        },
+        {
+          "ID": 27607,
+          "Title": "Oranjo"
+        },
+        {
+          "ID": 29438,
+          "Title": "Mango"
+        },
+        {
+          "ID": 29691,
+          "Title": "Melono"
+        },
+        {
+          "ID": 29889,
+          "Title": "Mirto"
+        },
+        {
+          "ID": 31027,
+          "Title": "Anakondo"
+        },
+        {
+          "ID": 44487,
+          "Title": "Masturbo"
+        }
+      ]
+    },
+    {
+      "ID": 2147483643,
+      "Title": "People and self",
+      "Categories": [
+        {
+          "ID": 16937,
+          "Title": "Kategorio:Personala vivo"
+        },
+        {
+          "ID": 16938,
+          "Title": "Kategorio:Personaleso"
+        },
+        {
+          "ID": 16939,
+          "Title": "Kategorio:Su"
+        },
+        {
+          "ID": 24878,
+          "Title": "Kategorio:Vivo"
+        },
+        {
+          "ID": 31251,
+          "Title": "Kategorio:Mulieri"
+        },
+        {
+          "ID": 34392,
+          "Title": "Kategorio:Populo"
+        }
+      ],
+      "Articles": [
+        {
+          "ID": 4734,
+          "Title": "Noam Chomsky"
+        },
+        {
+          "ID": 5863,
+          "Title": "Johannes Kepler"
+        },
+        {
+          "ID": 7304,
+          "Title": "René Descartes"
+        },
+        {
+          "ID": 8467,
+          "Title": "Adolf Hitler"
+        },
+        {
+          "ID": 13921,
+          "Title": "Adam Smith"
+        },
+        {
+          "ID": 16788,
+          "Title": "Alan Turing"
+        },
+        {
+          "ID": 16806,
+          "Title": "Daniel Radcliffe"
+        },
+        {
+          "ID": 16921,
+          "Title": "Alexander Fleming"
+        },
+        {
+          "ID": 17563,
+          "Title": "Cristoforo Colombo"
+        },
+        {
+          "ID": 17654,
+          "Title": "John Lennon"
+        },
+        {
+          "ID": 17657,
+          "Title": "George Harrison"
+        },
+        {
+          "ID": 17658,
+          "Title": "Elton John"
+        },
+        {
+          "ID": 17777,
+          "Title": "Lewis Carroll"
+        },
+        {
+          "ID": 18587,
+          "Title": "Carl Friedrich Gauss"
+        },
+        {
+          "ID": 18704,
+          "Title": "Sigmund Freud"
+        },
+        {
+          "ID": 22193,
+          "Title": "Bill Gates"
+        },
+        {
+          "ID": 26411,
+          "Title": "Irving Langmuir"
+        },
+        {
+          "ID": 26647,
+          "Title": "Galileo Galilei"
+        },
+        {
+          "ID": 31020,
+          "Title": "Charles Babbage"
+        },
+        {
+          "ID": 32350,
+          "Title": "Joseph Smith, Jr."
+        },
+        {
+          "ID": 33126,
+          "Title": "Ayn Rand"
+        },
+        {
+          "ID": 38787,
+          "Title": "Richard Wagner"
+        },
+        {
+          "ID": 39741,
+          "Title": "Thomas d'Aquino"
+        },
+        {
+          "ID": 39784,
+          "Title": "William Blake"
+        },
+        {
+          "ID": 42877,
+          "Title": "Oliver Cromwell"
+        },
+        {
+          "ID": 44188,
+          "Title": "Carl Sagan"
+        },
+        {
+          "ID": 46630,
+          "Title": "Leonardo Fibonacci"
+        },
+        {
+          "ID": 48186,
+          "Title": "Srinivasa Ramanujan"
+        },
+        {
+          "ID": 48263,
+          "Title": "Ted Cruz"
+        }
+      ]
+    },
+    {
+      "ID": 2147483644,
+      "Title": "Philosophy and thinking",
+      "Categories": [
+        {
+          "ID": 3239,
+          "Title": "Kategorio:Filozofio"
+        },
+        {
+          "ID": 16970,
+          "Title": "Kategorio:Branchi di filozofio"
+        },
+        {
+          "ID": 22826,
+          "Title": "Kategorio:Pensado"
+        },
+        {
+          "ID": 24623,
+          "Title": "Kategorio:Etiko"
+        },
+        {
+          "ID": 25192,
+          "Title": "Kategorio:Filozofiala teorii"
+        },
+        {
+          "ID": 25335,
+          "Title": "Kategorio:Ideologii"
+        },
+        {
+          "ID": 25512,
+          "Title": "Kategorio:Politikala teorii"
+        },
+        {
+          "ID": 28386,
+          "Title": "Kategorio:Filozofiala skoli e tradicioni"
+        }
+      ],
+      "Articles": [
+        {
+          "ID": 13685,
+          "Title": "Joyo"
+        },
+        {
+          "ID": 23481,
+          "Title": "Beleso"
+        }
+      ]
+    },
+    {
+      "ID": 2147483645,
+      "Title": "Religion and belief systems",
+      "Categories": [
+        {
+          "ID": 25506,
+          "Title": "Kategorio:Religio"
+        },
+        {
+          "ID": 40096,
+          "Title": "Kategorio:Religiala kredi, tradicioni, e movadi"
+        }
+      ]
+    },
+    {
+      "ID": 2147483646,
+      "Title": "Society and social sciences",
+      "Categories": [
+        {
+          "ID": 3274,
+          "Title": "Kategorio:Socio"
+        },
+        {
+          "ID": 3785,
+          "Title": "Kategorio:Ekonomial organizuri"
+        },
+        {
+          "ID": 4240,
+          "Title": "Kategorio:Sociala cienci"
+        },
+        {
+          "ID": 4242,
+          "Title": "Kategorio:Yuro"
+        },
+        {
+          "ID": 25280,
+          "Title": "Kategorio:Klasika studii"
+        },
+        {
+          "ID": 27312,
+          "Title": "Kategorio:Humana cienci"
+        }
+      ],
+      "Articles": [
+        {
+          "ID": 3724,
+          "Title": "Europana Uniono"
+        },
+        {
+          "ID": 4736,
+          "Title": "Iran"
+        },
+        {
+          "ID": 5856,
+          "Title": "Starbucks"
+        },
+        {
+          "ID": 16807,
+          "Title": "Universitato di Michigan"
+        },
+        {
+          "ID": 18565,
+          "Title": "Barbados"
+        },
+        {
+          "ID": 21099,
+          "Title": "Chili"
+        },
+        {
+          "ID": 21118,
+          "Title": "Universitato di Aberdeen"
+        },
+        {
+          "ID": 21615,
+          "Title": "Ekonomio di Barbados"
+        },
+        {
+          "ID": 24555,
+          "Title": "Ekonomio di Iran"
+        },
+        {
+          "ID": 28225,
+          "Title": "Universitato di Torino"
+        },
+        {
+          "ID": 38835,
+          "Title": "Universitato di Paris"
+        }
+      ]
+    },
+    {
+      "ID": 2147483647,
+      "Title": "Technology and applied sciences",
+      "Categories": [
+        {
+          "ID": 3612,
+          "Title": "Kategorio:Teknologio"
+        },
+        {
+          "ID": 8437,
+          "Title": "Kategorio:Informatiko"
+        },
+        {
+          "ID": 25138,
+          "Title": "Kategorio:Aplikata cienci"
+        },
+        {
+          "ID": 25232,
+          "Title": "Kategorio:Elektroniko"
+        },
+        {
+          "ID": 25315,
+          "Title": "Kategorio:Injeniorarto"
+        },
+        {
+          "ID": 25449,
+          "Title": "Kategorio:Dizigno"
+        },
+        {
+          "ID": 26727,
+          "Title": "Kategorio:Transporto"
+        },
+        {
+          "ID": 28291,
+          "Title": "Kategorio:Armeala equipo"
+        },
+        {
+          "ID": 32542,
+          "Title": "Kategorio:Interreto"
+        },
+        {
+          "ID": 35341,
+          "Title": "Kategorio:Historio di teknologio"
+        },
+        {
+          "ID": 47174,
+          "Title": "Kategorio:Teknologio segun tipo"
+        },
+        {
+          "ID": 47175,
+          "Title": "Kategorio:Komputero"
+        }
+      ],
+      "Articles": [
+        {
+          "ID": 30082,
+          "Title": "Muro"
+        }
+      ]
+    }
+  ],
+  "Filters": [
+    {
+      "ID": 3602,
+      "Title": "Kategorio:Homonimi"
+    }
+  ]
+}

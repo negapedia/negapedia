@@ -1,0 +1,255 @@
+{
+  "Language": "ay",
+  "Topics": [
+    {
+      "ID": 2147483637,
+      "Title": "Culture and the arts",
+      "Categories": [
+        {
+          "ID": 2401,
+          "Title": "Categoría:Yati"
+        },
+        {
+          "ID": 2678,
+          "Title": "Categoría:Sami"
+        },
+        {
+          "ID": 2805,
+          "Title": "Categoría:Sama"
+        },
+        {
+          "ID": 3141,
+          "Title": "Categoría:Manq'a"
+        },
+        {
+          "ID": 4071,
+          "Title": "Categoría:Yäpa"
+        }
+      ],
+      "Articles": [
+        {
+          "ID": 783,
+          "Title": "Wikipidiya"
+        },
+        {
+          "ID": 3051,
+          "Title": "Khuchi"
+        },
+        {
+          "ID": 3086,
+          "Title": "K'awna"
+        },
+        {
+          "ID": 3351,
+          "Title": "T'ant'a"
+        }
+      ]
+    },
+    {
+      "ID": 2147483638,
+      "Title": "Geography and places",
+      "Categories": [
+        {
+          "ID": 2951,
+          "Title": "Categoría:Uraqita"
+        }
+      ],
+      "Articles": [
+        {
+          "ID": 2594,
+          "Title": "Jaqi"
+        },
+        {
+          "ID": 4413,
+          "Title": "Venezia"
+        },
+        {
+          "ID": 8073,
+          "Title": "Paris"
+        },
+        {
+          "ID": 8865,
+          "Title": "Australla"
+        }
+      ]
+    },
+    {
+      "ID": 2147483639,
+      "Title": "Health and fitness",
+      "Categories": [
+        {
+          "ID": 2984,
+          "Title": "Categoría:Qulla"
+        }
+      ]
+    },
+    {
+      "ID": 2147483640,
+      "Title": "History and events",
+      "Categories": [
+        {
+          "ID": 2491,
+          "Title": "Categoría:Nayra sarnaqawi"
+        }
+      ]
+    },
+    {
+      "ID": 2147483641,
+      "Title": "Mathematics and logic",
+      "Categories": [
+        {
+          "ID": 3175,
+          "Title": "Categoría:Jakhu"
+        }
+      ]
+    },
+    {
+      "ID": 2147483642,
+      "Title": "Nature and physical sciences",
+      "Categories": [
+        {
+          "ID": 2486,
+          "Title": "Categoría:Yatxatawi"
+        },
+        {
+          "ID": 4639,
+          "Title": "Categoría:Kimika"
+        }
+      ],
+      "Articles": [
+        {
+          "ID": 1546,
+          "Title": "Nina"
+        },
+        {
+          "ID": 2349,
+          "Title": "Allu"
+        },
+        {
+          "ID": 2367,
+          "Title": "Achupalla"
+        },
+        {
+          "ID": 2464,
+          "Title": "Catuña"
+        },
+        {
+          "ID": 2774,
+          "Title": "Janchi kamana"
+        },
+        {
+          "ID": 2930,
+          "Title": "Chhuxu"
+        },
+        {
+          "ID": 3337,
+          "Title": "Tunqu"
+        },
+        {
+          "ID": 10085,
+          "Title": "Parina"
+        }
+      ]
+    },
+    {
+      "ID": 2147483643,
+      "Title": "People and self",
+      "Categories": [
+        {
+          "ID": 2783,
+          "Title": "Categoría:Jaqinaka"
+        },
+        {
+          "ID": 4234,
+          "Title": "Categoría:Jakaña"
+        },
+        {
+          "ID": 10071,
+          "Title": "Categoría:Warmi"
+        }
+      ],
+      "Articles": [
+        {
+          "ID": 4899,
+          "Title": "Cristoforo Colombo"
+        },
+        {
+          "ID": 4982,
+          "Title": "John Lennon"
+        },
+        {
+          "ID": 5067,
+          "Title": "George Harrison"
+        },
+        {
+          "ID": 6649,
+          "Title": "Galileo Galilei"
+        },
+        {
+          "ID": 10257,
+          "Title": "Richard Wagner"
+        },
+        {
+          "ID": 10575,
+          "Title": "Adam Smith"
+        }
+      ]
+    },
+    {
+      "ID": 2147483644,
+      "Title": "Philosophy and thinking",
+      "Categories": [
+        {
+          "ID": 2771,
+          "Title": "Categoría:Lup'intawi"
+        }
+      ]
+    },
+    {
+      "ID": 2147483645,
+      "Title": "Religion and belief systems",
+      "Categories": [
+        {
+          "ID": 2182,
+          "Title": "Categoría:Yupaychäwi"
+        }
+      ]
+    },
+    {
+      "ID": 2147483646,
+      "Title": "Society and social sciences",
+      "Articles": [
+        {
+          "ID": 3901,
+          "Title": "Chili"
+        },
+        {
+          "ID": 6756,
+          "Title": "Barbados"
+        }
+      ]
+    },
+    {
+      "ID": 2147483647,
+      "Title": "Technology and applied sciences",
+      "Categories": [
+        {
+          "ID": 2768,
+          "Title": "Categoría:Lurañ yänaka"
+        }
+      ],
+      "Articles": [
+        {
+          "ID": 3187,
+          "Title": "Pirqa"
+        }
+      ]
+    }
+  ],
+  "Filters": [
+    {
+      "ID": 3047,
+      "Title": "Categoría:Wikipedia:Desambiguación"
+    }
+  ]
+}

@@ -1,0 +1,179 @@
+{
+  "Language": "tpi",
+  "Topics": [
+    {
+      "ID": 2147483637,
+      "Title": "Culture and the arts",
+      "Categories": [
+        {
+          "ID": 5917,
+          "Title": "Grup:Kala"
+        }
+      ],
+      "Articles": [
+        {
+          "ID": 842,
+          "Title": "Wikipedia"
+        },
+        {
+          "ID": 1119,
+          "Title": "Ensaiklopedia"
+        },
+        {
+          "ID": 2042,
+          "Title": "Kopi"
+        }
+      ]
+    },
+    {
+      "ID": 2147483638,
+      "Title": "Geography and places",
+      "Categories": [
+        {
+          "ID": 6583,
+          "Title": "Grup:Save long giraun"
+        }
+      ],
+      "Articles": [
+        {
+          "ID": 622,
+          "Title": "Ostrelia"
+        },
+        {
+          "ID": 2610,
+          "Title": "Paris"
+        },
+        {
+          "ID": 3786,
+          "Title": "Kambra"
+        },
+        {
+          "ID": 8232,
+          "Title": "Myanmar"
+        }
+      ]
+    },
+    {
+      "ID": 2147483639,
+      "Title": "Health and fitness"
+    },
+    {
+      "ID": 2147483640,
+      "Title": "History and events",
+      "Categories": [
+        {
+          "ID": 6026,
+          "Title": "Grup:Histori"
+        }
+      ]
+    },
+    {
+      "ID": 2147483641,
+      "Title": "Mathematics and logic",
+      "Categories": [
+        {
+          "ID": 5887,
+          "Title": "Grup:Ol matematik"
+        }
+      ]
+    },
+    {
+      "ID": 2147483642,
+      "Title": "Nature and physical sciences",
+      "Categories": [
+        {
+          "ID": 5927,
+          "Title": "Grup:Kemistri"
+        },
+        {
+          "ID": 5952,
+          "Title": "Grup:Saiens"
+        }
+      ],
+      "Articles": [
+        {
+          "ID": 6981,
+          "Title": "Kamel"
+        }
+      ]
+    },
+    {
+      "ID": 2147483643,
+      "Title": "People and self",
+      "Categories": [
+        {
+          "ID": 6025,
+          "Title": "Grup:Laip"
+        },
+        {
+          "ID": 6427,
+          "Title": "Grup:Manmeri"
+        }
+      ]
+    },
+    {
+      "ID": 2147483644,
+      "Title": "Philosophy and thinking",
+      "Categories": [
+        {
+          "ID": 5946,
+          "Title": "Grup:Pilosopi"
+        }
+      ]
+    },
+    {
+      "ID": 2147483645,
+      "Title": "Religion and belief systems",
+      "Categories": [
+        {
+          "ID": 6518,
+          "Title": "Grup:Lotu"
+        }
+      ]
+    },
+    {
+      "ID": 2147483646,
+      "Title": "Society and social sciences",
+      "Categories": [
+        {
+          "ID": 2058,
+          "Title": "Grup:Sosaiti"
+        },
+        {
+          "ID": 5928,
+          "Title": "Grup:Saiens long Manmeri na Ples"
+        }
+      ],
+      "Articles": [
+        {
+          "ID": 6643,
+          "Title": "Plak bilong Ostrelia"
+        },
+        {
+          "ID": 8126,
+          "Title": "Sili"
+        },
+        {
+          "ID": 8238,
+          "Title": "Iran"
+        }
+      ]
+    },
+    {
+      "ID": 2147483647,
+      "Title": "Technology and applied sciences",
+      "Categories": [
+        {
+          "ID": 5950,
+          "Title": "Grup:Elektroniks"
+        }
+      ]
+    }
+  ],
+  "Filters": [
+    {
+      "ID": 6509,
+      "Title": "Grup:Ol pes bilong kliaim ol link"
+    }
+  ]
+}

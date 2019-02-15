@@ -1,0 +1,365 @@
+{
+  "Language": "zh-classical",
+  "Topics": [
+    {
+      "ID": 2147483637,
+      "Title": "Culture and the arts",
+      "Categories": [
+        {
+          "ID": 567,
+          "Title": "分類:藝術"
+        },
+        {
+          "ID": 613,
+          "Title": "分類:運動"
+        },
+        {
+          "ID": 11192,
+          "Title": "分類:食"
+        },
+        {
+          "ID": 11216,
+          "Title": "分類:色"
+        },
+        {
+          "ID": 16046,
+          "Title": "分類:娛樂"
+        }
+      ],
+      "Articles": [
+        {
+          "ID": 781,
+          "Title": "維基大典"
+        },
+        {
+          "ID": 9562,
+          "Title": "百科全書"
+        },
+        {
+          "ID": 70188,
+          "Title": "啤酒"
+        },
+        {
+          "ID": 75112,
+          "Title": "豚肉"
+        },
+        {
+          "ID": 75118,
+          "Title": "豬"
+        },
+        {
+          "ID": 75120,
+          "Title": "彘"
+        },
+        {
+          "ID": 75121,
+          "Title": "豕"
+        },
+        {
+          "ID": 86847,
+          "Title": "天外愚人"
+        }
+      ]
+    },
+    {
+      "ID": 2147483638,
+      "Title": "Geography and places",
+      "Articles": [
+        {
+          "ID": 13103,
+          "Title": "澳大利亞"
+        },
+        {
+          "ID": 17421,
+          "Title": "巴黎"
+        },
+        {
+          "ID": 65775,
+          "Title": "威尼斯"
+        },
+        {
+          "ID": 69518,
+          "Title": "人"
+        },
+        {
+          "ID": 71142,
+          "Title": "緬甸"
+        },
+        {
+          "ID": 84115,
+          "Title": "堪培拉"
+        }
+      ]
+    },
+    {
+      "ID": 2147483639,
+      "Title": "Health and fitness",
+      "Categories": [
+        {
+          "ID": 15945,
+          "Title": "分類:醫學"
+        },
+        {
+          "ID": 77288,
+          "Title": "分類:康健"
+        }
+      ]
+    },
+    {
+      "ID": 2147483640,
+      "Title": "History and events",
+      "Categories": [
+        {
+          "ID": 15871,
+          "Title": "分類:史部"
+        }
+      ],
+      "Articles": [
+        {
+          "ID": 71828,
+          "Title": "九一一之禍"
+        }
+      ]
+    },
+    {
+      "ID": 2147483641,
+      "Title": "Mathematics and logic",
+      "Categories": [
+        {
+          "ID": 212,
+          "Title": "分類:數學"
+        }
+      ]
+    },
+    {
+      "ID": 2147483642,
+      "Title": "Nature and physical sciences",
+      "Categories": [
+        {
+          "ID": 9148,
+          "Title": "分類:物理"
+        },
+        {
+          "ID": 13270,
+          "Title": "分類:化學"
+        },
+        {
+          "ID": 15940,
+          "Title": "分類:經部"
+        },
+        {
+          "ID": 15941,
+          "Title": "分類:自然科學"
+        },
+        {
+          "ID": 73070,
+          "Title": "分類:化合物"
+        }
+      ],
+      "Articles": [
+        {
+          "ID": 2652,
+          "Title": "放手銃"
+        },
+        {
+          "ID": 8872,
+          "Title": "稻"
+        },
+        {
+          "ID": 66276,
+          "Title": "麥"
+        },
+        {
+          "ID": 66380,
+          "Title": "火"
+        },
+        {
+          "ID": 72380,
+          "Title": "檸檬"
+        },
+        {
+          "ID": 86873,
+          "Title": "杧果"
+        }
+      ]
+    },
+    {
+      "ID": 2147483643,
+      "Title": "People and self",
+      "Categories": [
+        {
+          "ID": 10105,
+          "Title": "分類:姓氏"
+        },
+        {
+          "ID": 76856,
+          "Title": "分類:傳記"
+        }
+      ],
+      "Articles": [
+        {
+          "ID": 9538,
+          "Title": "斯密亞丹"
+        },
+        {
+          "ID": 15695,
+          "Title": "高斯"
+        },
+        {
+          "ID": 15696,
+          "Title": "笛卡兒"
+        },
+        {
+          "ID": 66566,
+          "Title": "哥倫布"
+        },
+        {
+          "ID": 70328,
+          "Title": "希特勒"
+        },
+        {
+          "ID": 70659,
+          "Title": "伽利略"
+        },
+        {
+          "ID": 73476,
+          "Title": "阿奎那"
+        },
+        {
+          "ID": 84230,
+          "Title": "南丁格爾"
+        },
+        {
+          "ID": 86700,
+          "Title": "生活大爆炸"
+        }
+      ]
+    },
+    {
+      "ID": 2147483644,
+      "Title": "Philosophy and thinking",
+      "Categories": [
+        {
+          "ID": 15982,
+          "Title": "分類:哲學"
+        },
+        {
+          "ID": 15990,
+          "Title": "分類:倫理學"
+        }
+      ]
+    },
+    {
+      "ID": 2147483645,
+      "Title": "Religion and belief systems",
+      "Categories": [
+        {
+          "ID": 653,
+          "Title": "分類:宗教"
+        },
+        {
+          "ID": 85768,
+          "Title": "分類:信仰"
+        }
+      ]
+    },
+    {
+      "ID": 2147483646,
+      "Title": "Society and social sciences",
+      "Categories": [
+        {
+          "ID": 10768,
+          "Title": "分類:群"
+        },
+        {
+          "ID": 10925,
+          "Title": "分類:律法"
+        }
+      ],
+      "Articles": [
+        {
+          "ID": 17496,
+          "Title": "新春"
+        },
+        {
+          "ID": 17965,
+          "Title": "伊朗"
+        },
+        {
+          "ID": 18012,
+          "Title": "智利"
+        },
+        {
+          "ID": 66297,
+          "Title": "清華大學"
+        },
+        {
+          "ID": 68004,
+          "Title": "西南大學"
+        },
+        {
+          "ID": 68185,
+          "Title": "歐羅巴聯盟"
+        },
+        {
+          "ID": 72251,
+          "Title": "春節"
+        },
+        {
+          "ID": 74681,
+          "Title": "大阪大學"
+        },
+        {
+          "ID": 74682,
+          "Title": "日本東北大學"
+        },
+        {
+          "ID": 85423,
+          "Title": "巴貝多"
+        },
+        {
+          "ID": 86819,
+          "Title": "麻省理工學院"
+        }
+      ]
+    },
+    {
+      "ID": 2147483647,
+      "Title": "Technology and applied sciences",
+      "Categories": [
+        {
+          "ID": 8046,
+          "Title": "分類:技術"
+        },
+        {
+          "ID": 15207,
+          "Title": "分類:電腦"
+        },
+        {
+          "ID": 15942,
+          "Title": "分類:應用科學"
+        },
+        {
+          "ID": 77225,
+          "Title": "分類:郵傳"
+        }
+      ],
+      "Articles": [
+        {
+          "ID": 13586,
+          "Title": "頂級域名"
+        }
+      ]
+    }
+  ],
+  "Filters": [
+    {
+      "ID": 7538,
+      "Title": "分類:釋義"
+    },
+    {
+      "ID": 79009,
+      "Title": "分類:隱類"
+    }
+  ]
+}

@@ -1,0 +1,595 @@
+{
+  "Language": "ku",
+  "Topics": [
+    {
+      "ID": 2147483637,
+      "Title": "Culture and the arts",
+      "Categories": [
+        {
+          "ID": 1404,
+          "Title": "Kategorî:Çand"
+        },
+        {
+          "ID": 3086,
+          "Title": "Kategorî:Huner"
+        },
+        {
+          "ID": 3146,
+          "Title": "Kategorî:Xwarin"
+        },
+        {
+          "ID": 3310,
+          "Title": "Kategorî:Fîlm"
+        },
+        {
+          "ID": 3363,
+          "Title": "Kategorî:Koma muzîkê"
+        },
+        {
+          "ID": 12383,
+          "Title": "Kategorî:Reng"
+        },
+        {
+          "ID": 19582,
+          "Title": "Kategorî:Werziş"
+        },
+        {
+          "ID": 46169,
+          "Title": "Kategorî:Pêjgeh"
+        }
+      ],
+      "Articles": [
+        {
+          "ID": 744,
+          "Title": "Wîkîpediya"
+        },
+        {
+          "ID": 4382,
+          "Title": "Ensîklopedî"
+        },
+        {
+          "ID": 5215,
+          "Title": "Bîra"
+        },
+        {
+          "ID": 5256,
+          "Title": "Berazê kovî"
+        },
+        {
+          "ID": 5263,
+          "Title": "Berazê kedî"
+        },
+        {
+          "ID": 9495,
+          "Title": "Nan"
+        },
+        {
+          "ID": 10025,
+          "Title": "Hêk"
+        },
+        {
+          "ID": 15547,
+          "Title": "Qehwe"
+        },
+        {
+          "ID": 16793,
+          "Title": "Seksa oral"
+        },
+        {
+          "ID": 18583,
+          "Title": "Led Zeppelin"
+        },
+        {
+          "ID": 18971,
+          "Title": "Rastîparêzî"
+        },
+        {
+          "ID": 23809,
+          "Title": "Pîza"
+        },
+        {
+          "ID": 36262,
+          "Title": "Berahî"
+        },
+        {
+          "ID": 44182,
+          "Title": "Çênc"
+        },
+        {
+          "ID": 46138,
+          "Title": "Bestenî"
+        },
+        {
+          "ID": 46369,
+          "Title": "Meqarne"
+        },
+        {
+          "ID": 46515,
+          "Title": "Hot dog"
+        },
+        {
+          "ID": 48901,
+          "Title": "Kulîçe"
+        },
+        {
+          "ID": 50076,
+          "Title": "Goştê kişandî"
+        },
+        {
+          "ID": 50672,
+          "Title": "Pêjgeha fransî"
+        },
+        {
+          "ID": 50678,
+          "Title": "Jambon"
+        },
+        {
+          "ID": 51390,
+          "Title": "Kakao"
+        },
+        {
+          "ID": 53275,
+          "Title": "Hindok"
+        }
+      ]
+    },
+    {
+      "ID": 2147483638,
+      "Title": "Geography and places",
+      "Categories": [
+        {
+          "ID": 5082,
+          "Title": "Kategorî:Erdnîgarî"
+        }
+      ],
+      "Articles": [
+        {
+          "ID": 1482,
+          "Title": "Mirov"
+        },
+        {
+          "ID": 6370,
+          "Title": "Awistralya"
+        },
+        {
+          "ID": 7329,
+          "Title": "Parîs"
+        },
+        {
+          "ID": 13102,
+          "Title": "Myanmar"
+        },
+        {
+          "ID": 16180,
+          "Title": "Kanberra"
+        },
+        {
+          "ID": 66870,
+          "Title": "Wênîs"
+        }
+      ]
+    },
+    {
+      "ID": 2147483639,
+      "Title": "Health and fitness",
+      "Categories": [
+        {
+          "ID": 4069,
+          "Title": "Kategorî:Tendurustî"
+        },
+        {
+          "ID": 9862,
+          "Title": "Kategorî:Bijîşkî"
+        },
+        {
+          "ID": 16603,
+          "Title": "Kategorî:Nexweşiyên genetîk"
+        }
+      ]
+    },
+    {
+      "ID": 2147483640,
+      "Title": "History and events",
+      "Categories": [
+        {
+          "ID": 1400,
+          "Title": "Kategorî:Dîrok"
+        },
+        {
+          "ID": 57465,
+          "Title": "Kategorî:Dîrok li gorî welatan"
+        }
+      ],
+      "Articles": [
+        {
+          "ID": 2995,
+          "Title": "Êrîşên 11'ê îlonê"
+        },
+        {
+          "ID": 72218,
+          "Title": "Donald Trump"
+        }
+      ]
+    },
+    {
+      "ID": 2147483641,
+      "Title": "Mathematics and logic",
+      "Categories": [
+        {
+          "ID": 5408,
+          "Title": "Kategorî:Matematîk"
+        }
+      ],
+      "Articles": [
+        {
+          "ID": 22967,
+          "Title": "Dirêjahî"
+        }
+      ]
+    },
+    {
+      "ID": 2147483642,
+      "Title": "Nature and physical sciences",
+      "Categories": [
+        {
+          "ID": 1455,
+          "Title": "Kategorî:Zanist"
+        },
+        {
+          "ID": 1489,
+          "Title": "Kategorî:Xweza"
+        },
+        {
+          "ID": 1490,
+          "Title": "Kategorî:Zanistên siruştê"
+        },
+        {
+          "ID": 3219,
+          "Title": "Kategorî:Kîmya"
+        },
+        {
+          "ID": 37415,
+          "Title": "Kategorî:Zoolojî"
+        },
+        {
+          "ID": 54011,
+          "Title": "Kategorî:Fizîk"
+        },
+        {
+          "ID": 60222,
+          "Title": "Kategorî:Ekolojî"
+        }
+      ],
+      "Articles": [
+        {
+          "ID": 4422,
+          "Title": "Sîstema livînê"
+        },
+        {
+          "ID": 4434,
+          "Title": "Endamên zayendî"
+        },
+        {
+          "ID": 6760,
+          "Title": "Şemamok"
+        },
+        {
+          "ID": 10511,
+          "Title": "Agir"
+        },
+        {
+          "ID": 15763,
+          "Title": "Genim"
+        },
+        {
+          "ID": 16785,
+          "Title": "Kîr"
+        },
+        {
+          "ID": 16876,
+          "Title": "Destperî"
+        },
+        {
+          "ID": 17420,
+          "Title": "Masûlke"
+        },
+        {
+          "ID": 17930,
+          "Title": "Mîz"
+        },
+        {
+          "ID": 18406,
+          "Title": "Hêştir"
+        },
+        {
+          "ID": 18436,
+          "Title": "Batî"
+        },
+        {
+          "ID": 25534,
+          "Title": "Kuncere"
+        },
+        {
+          "ID": 28114,
+          "Title": "Garis"
+        },
+        {
+          "ID": 28139,
+          "Title": "Gindor"
+        },
+        {
+          "ID": 28200,
+          "Title": "Firengî"
+        },
+        {
+          "ID": 28253,
+          "Title": "Riz"
+        },
+        {
+          "ID": 30672,
+          "Title": "Lîmon"
+        },
+        {
+          "ID": 35621,
+          "Title": "Sergîn"
+        },
+        {
+          "ID": 60209,
+          "Title": "Pantherinae"
+        }
+      ]
+    },
+    {
+      "ID": 2147483643,
+      "Title": "People and self",
+      "Categories": [
+        {
+          "ID": 1391,
+          "Title": "Kategorî:Kes"
+        },
+        {
+          "ID": 2439,
+          "Title": "Kategorî:Jin"
+        },
+        {
+          "ID": 53311,
+          "Title": "Kategorî:Jiyan"
+        },
+        {
+          "ID": 72022,
+          "Title": "Kategorî:Pirtûkên biyografiyê"
+        }
+      ],
+      "Articles": [
+        {
+          "ID": 4,
+          "Title": "Bill Gates"
+        },
+        {
+          "ID": 5008,
+          "Title": "Adolf Hitler"
+        },
+        {
+          "ID": 8104,
+          "Title": "William Blake"
+        },
+        {
+          "ID": 9835,
+          "Title": "Sigmund Freud"
+        },
+        {
+          "ID": 10596,
+          "Title": "René Descartes"
+        },
+        {
+          "ID": 11026,
+          "Title": "Krîstofor Kolumbus"
+        },
+        {
+          "ID": 12283,
+          "Title": "Galileo Galilei"
+        },
+        {
+          "ID": 12284,
+          "Title": "Alan Turing"
+        },
+        {
+          "ID": 12409,
+          "Title": "Adam Smith"
+        },
+        {
+          "ID": 13874,
+          "Title": "Noam Chomsky"
+        },
+        {
+          "ID": 16891,
+          "Title": "Florence Nightingale"
+        },
+        {
+          "ID": 18677,
+          "Title": "John Lennon"
+        },
+        {
+          "ID": 25490,
+          "Title": "Thomas Aquinas"
+        },
+        {
+          "ID": 52224,
+          "Title": "Anders Behring Breivik"
+        },
+        {
+          "ID": 60334,
+          "Title": "Joseph Smith"
+        },
+        {
+          "ID": 66294,
+          "Title": "Johannes Kepler"
+        }
+      ]
+    },
+    {
+      "ID": 2147483644,
+      "Title": "Philosophy and thinking",
+      "Categories": [
+        {
+          "ID": 2344,
+          "Title": "Kategorî:Felsefe"
+        },
+        {
+          "ID": 57799,
+          "Title": "Kategorî:Îdeolojî"
+        },
+        {
+          "ID": 66587,
+          "Title": "Kategorî:Raman"
+        }
+      ],
+      "Articles": [
+        {
+          "ID": 42372,
+          "Title": "Bawerî"
+        }
+      ]
+    },
+    {
+      "ID": 2147483645,
+      "Title": "Religion and belief systems",
+      "Categories": [
+        {
+          "ID": 64308,
+          "Title": "Kategorî:Dîn"
+        },
+        {
+          "ID": 66585,
+          "Title": "Kategorî:Bawerî"
+        }
+      ]
+    },
+    {
+      "ID": 2147483646,
+      "Title": "Society and social sciences",
+      "Categories": [
+        {
+          "ID": 1487,
+          "Title": "Kategorî:Civak"
+        },
+        {
+          "ID": 1491,
+          "Title": "Kategorî:Dad"
+        }
+      ],
+      "Articles": [
+        {
+          "ID": 3567,
+          "Title": "Îran"
+        },
+        {
+          "ID": 4535,
+          "Title": "Yekîtiya Ewropayê"
+        },
+        {
+          "ID": 13093,
+          "Title": "Barbados"
+        },
+        {
+          "ID": 16357,
+          "Title": "Demjimêra havînê"
+        },
+        {
+          "ID": 17711,
+          "Title": "Şîle"
+        },
+        {
+          "ID": 24938,
+          "Title": "The New York Times"
+        },
+        {
+          "ID": 35751,
+          "Title": "Zanîngeha Tehranê"
+        },
+        {
+          "ID": 36390,
+          "Title": "Zanîngeha Harvardê"
+        },
+        {
+          "ID": 44409,
+          "Title": "Zanîngeha Stanford"
+        },
+        {
+          "ID": 63593,
+          "Title": "Zanîngeha Tübingenê"
+        },
+        {
+          "ID": 72790,
+          "Title": "Enstîtuya Teknolojiyê ya Massachusetts"
+        },
+        {
+          "ID": 72841,
+          "Title": "Mîkronetewî"
+        },
+        {
+          "ID": 74146,
+          "Title": "Zanîngeha Îbranî ya Qudsê"
+        },
+        {
+          "ID": 75285,
+          "Title": "Pizza Hut"
+        },
+        {
+          "ID": 76455,
+          "Title": "Zanîngeha Moskowê"
+        }
+      ]
+    },
+    {
+      "ID": 2147483647,
+      "Title": "Technology and applied sciences",
+      "Categories": [
+        {
+          "ID": 1389,
+          "Title": "Kategorî:Teknolojî"
+        },
+        {
+          "ID": 2468,
+          "Title": "Kategorî:Înternet"
+        },
+        {
+          "ID": 2511,
+          "Title": "Kategorî:Kompûter"
+        },
+        {
+          "ID": 27512,
+          "Title": "Kategorî:Endezyarî"
+        },
+        {
+          "ID": 47755,
+          "Title": "Kategorî:Raguhestin"
+        },
+        {
+          "ID": 47844,
+          "Title": "Kategorî:Elektronîk"
+        }
+      ],
+      "Articles": [
+        {
+          "ID": 15658,
+          "Title": "Navperê asta bilind"
+        },
+        {
+          "ID": 25598,
+          "Title": "Benîşt"
+        }
+      ]
+    }
+  ],
+  "Filters": [
+    {
+      "ID": 1566,
+      "Title": "Kategorî:Rûpelên cudakirinê"
+    },
+    {
+      "ID": 55695,
+      "Title": "Kategorî:Kategoriyên veşartî"
+    }
+  ]
+}

@@ -1,0 +1,477 @@
+{
+  "Language": "nds",
+  "Topics": [
+    {
+      "ID": 2147483637,
+      "Title": "Culture and the arts",
+      "Categories": [
+        {
+          "ID": 1699,
+          "Title": "Kategorie:Kultur"
+        },
+        {
+          "ID": 2592,
+          "Title": "Kategorie:Sport"
+        },
+        {
+          "ID": 6831,
+          "Title": "Kategorie:Film"
+        },
+        {
+          "ID": 6856,
+          "Title": "Kategorie:Musikgrupp"
+        },
+        {
+          "ID": 15027,
+          "Title": "Kategorie:Klöör"
+        },
+        {
+          "ID": 33574,
+          "Title": "Kategorie:Kunst"
+        }
+      ],
+      "Articles": [
+        {
+          "ID": 189,
+          "Title": "Nokieksel"
+        },
+        {
+          "ID": 266,
+          "Title": "Swien"
+        },
+        {
+          "ID": 312,
+          "Title": "Wikipedia"
+        },
+        {
+          "ID": 5109,
+          "Title": "Wildswien"
+        },
+        {
+          "ID": 8595,
+          "Title": "Enzyklopädie"
+        },
+        {
+          "ID": 9549,
+          "Title": "Koken"
+        },
+        {
+          "ID": 10317,
+          "Title": "Schokolaad"
+        },
+        {
+          "ID": 27122,
+          "Title": "Beer (Drunk)"
+        },
+        {
+          "ID": 28776,
+          "Title": "AC/DC"
+        },
+        {
+          "ID": 78252,
+          "Title": "Hogwarts School för Töveree un Hexeree"
+        },
+        {
+          "ID": 79382,
+          "Title": "Koffie"
+        },
+        {
+          "ID": 82669,
+          "Title": "Oralsex"
+        },
+        {
+          "ID": 82672,
+          "Title": "Fellatio"
+        }
+      ]
+    },
+    {
+      "ID": 2147483638,
+      "Title": "Geography and places",
+      "Categories": [
+        {
+          "ID": 17685,
+          "Title": "Kategorie:Geomorphologie"
+        },
+        {
+          "ID": 18928,
+          "Title": "Kategorie:Geografie"
+        }
+      ],
+      "Articles": [
+        {
+          "ID": 8,
+          "Title": "Australien"
+        },
+        {
+          "ID": 222,
+          "Title": "Paris"
+        },
+        {
+          "ID": 1329,
+          "Title": "Homo sapiens"
+        },
+        {
+          "ID": 2038,
+          "Title": "Myanmar"
+        }
+      ]
+    },
+    {
+      "ID": 2147483639,
+      "Title": "Health and fitness",
+      "Categories": [
+        {
+          "ID": 2590,
+          "Title": "Kategorie:Medizin"
+        },
+        {
+          "ID": 25885,
+          "Title": "Kategorie:Gesundheit"
+        },
+        {
+          "ID": 46251,
+          "Title": "Kategorie:Arvsüük"
+        }
+      ]
+    },
+    {
+      "ID": 2147483640,
+      "Title": "History and events",
+      "Categories": [
+        {
+          "ID": 2607,
+          "Title": "Kategorie:Historie"
+        },
+        {
+          "ID": 8512,
+          "Title": "Kategorie:Begeevnis"
+        },
+        {
+          "ID": 25415,
+          "Title": "Kategorie:Gedenkdag"
+        }
+      ],
+      "Articles": [
+        {
+          "ID": 28913,
+          "Title": "Terroranslääg vun’n 11. September"
+        },
+        {
+          "ID": 43908,
+          "Title": "Sendai-Eerdbeven vun 2011"
+        },
+        {
+          "ID": 75548,
+          "Title": "Donald Trump"
+        }
+      ]
+    },
+    {
+      "ID": 2147483641,
+      "Title": "Mathematics and logic",
+      "Categories": [
+        {
+          "ID": 2589,
+          "Title": "Kategorie:Mathematik"
+        },
+        {
+          "ID": 23642,
+          "Title": "Kategorie:Statistik"
+        },
+        {
+          "ID": 50975,
+          "Title": "Kategorie:Logik"
+        }
+      ],
+      "Articles": [
+        {
+          "ID": 20765,
+          "Title": "Läng (Physik)"
+        }
+      ]
+    },
+    {
+      "ID": 2147483642,
+      "Title": "Nature and physical sciences",
+      "Categories": [
+        {
+          "ID": 1428,
+          "Title": "Kategorie:Chemie"
+        },
+        {
+          "ID": 1429,
+          "Title": "Kategorie:Physik"
+        },
+        {
+          "ID": 1431,
+          "Title": "Kategorie:Zoologie"
+        },
+        {
+          "ID": 3850,
+          "Title": "Kategorie:Wetenschop"
+        },
+        {
+          "ID": 6325,
+          "Title": "Kategorie:Katastroof"
+        },
+        {
+          "ID": 8159,
+          "Title": "Kategorie:Chemisch Stoff"
+        },
+        {
+          "ID": 10467,
+          "Title": "Kategorie:Chemisch Verbinnen"
+        }
+      ],
+      "Articles": [
+        {
+          "ID": 19714,
+          "Title": "Suspension (Chemie)"
+        },
+        {
+          "ID": 23188,
+          "Title": "Klööt"
+        },
+        {
+          "ID": 32335,
+          "Title": "Geslechtsorgan"
+        },
+        {
+          "ID": 52330,
+          "Title": "Pint"
+        },
+        {
+          "ID": 80650,
+          "Title": "Tentakel"
+        },
+        {
+          "ID": 80733,
+          "Title": "Mantel (Weekdeerter)"
+        }
+      ]
+    },
+    {
+      "ID": 2147483643,
+      "Title": "People and self",
+      "Categories": [
+        {
+          "ID": 2571,
+          "Title": "Kategorie:Fru"
+        },
+        {
+          "ID": 2572,
+          "Title": "Kategorie:Person"
+        },
+        {
+          "ID": 18604,
+          "Title": "Kategorie:Familiennaam"
+        }
+      ],
+      "Articles": [
+        {
+          "ID": 47,
+          "Title": "Christoph Kolumbus"
+        },
+        {
+          "ID": 2960,
+          "Title": "Galileo Galilei"
+        },
+        {
+          "ID": 3629,
+          "Title": "Florence Nightingale"
+        },
+        {
+          "ID": 6403,
+          "Title": "Leonardo vun Pisa"
+        },
+        {
+          "ID": 6711,
+          "Title": "Bill Gates"
+        },
+        {
+          "ID": 10765,
+          "Title": "Adolf Hitler"
+        },
+        {
+          "ID": 18259,
+          "Title": "George Harrison"
+        },
+        {
+          "ID": 20292,
+          "Title": "Oliver Cromwell"
+        },
+        {
+          "ID": 28130,
+          "Title": "René Descartes"
+        },
+        {
+          "ID": 29112,
+          "Title": "De lütte Ruup Jümmersmacht"
+        },
+        {
+          "ID": 39997,
+          "Title": "John Lennon"
+        },
+        {
+          "ID": 49314,
+          "Title": "Anders Behring Breivik"
+        },
+        {
+          "ID": 52551,
+          "Title": "Richard Wagner"
+        }
+      ]
+    },
+    {
+      "ID": 2147483644,
+      "Title": "Philosophy and thinking",
+      "Categories": [
+        {
+          "ID": 4135,
+          "Title": "Kategorie:Philosophie"
+        },
+        {
+          "ID": 24179,
+          "Title": "Kategorie:Ethik"
+        }
+      ]
+    },
+    {
+      "ID": 2147483645,
+      "Title": "Religion and belief systems",
+      "Categories": [
+        {
+          "ID": 2588,
+          "Title": "Kategorie:Religion"
+        }
+      ]
+    },
+    {
+      "ID": 2147483646,
+      "Title": "Society and social sciences",
+      "Categories": [
+        {
+          "ID": 8095,
+          "Title": "Kategorie:Juristeree"
+        },
+        {
+          "ID": 8515,
+          "Title": "Kategorie:Sellschop"
+        },
+        {
+          "ID": 18426,
+          "Title": "Kategorie:Internatschonale Organisatschoon"
+        },
+        {
+          "ID": 20491,
+          "Title": "Kategorie:Wetenschoppen vun den Geist"
+        },
+        {
+          "ID": 25762,
+          "Title": "Kategorie:Sozialwetenschop"
+        }
+      ],
+      "Articles": [
+        {
+          "ID": 954,
+          "Title": "Europääsche Union"
+        },
+        {
+          "ID": 2009,
+          "Title": "Iran"
+        },
+        {
+          "ID": 2066,
+          "Title": "Chile"
+        },
+        {
+          "ID": 2089,
+          "Title": "Barbados"
+        },
+        {
+          "ID": 55020,
+          "Title": "Harvard University"
+        },
+        {
+          "ID": 58379,
+          "Title": "Eberhard Karls Universität Tübingen"
+        },
+        {
+          "ID": 61131,
+          "Title": "Massachusetts Institute of Technology"
+        },
+        {
+          "ID": 72716,
+          "Title": "Rice University"
+        },
+        {
+          "ID": 73017,
+          "Title": "Georg-August-Universität Chöttingen"
+        },
+        {
+          "ID": 73527,
+          "Title": "University of Oxford"
+        },
+        {
+          "ID": 78929,
+          "Title": "Columbia University"
+        },
+        {
+          "ID": 106461,
+          "Title": "Stanford University"
+        }
+      ]
+    },
+    {
+      "ID": 2147483647,
+      "Title": "Technology and applied sciences",
+      "Categories": [
+        {
+          "ID": 1935,
+          "Title": "Kategorie:Reekner"
+        },
+        {
+          "ID": 2598,
+          "Title": "Kategorie:Informatik"
+        },
+        {
+          "ID": 3013,
+          "Title": "Kategorie:Verkehr"
+        },
+        {
+          "ID": 3956,
+          "Title": "Kategorie:Technik"
+        },
+        {
+          "ID": 18354,
+          "Title": "Kategorie:Internett"
+        },
+        {
+          "ID": 21437,
+          "Title": "Kategorie:Datenbank"
+        },
+        {
+          "ID": 26199,
+          "Title": "Kategorie:Ingenieurwetenschoppen"
+        }
+      ],
+      "Articles": [
+        {
+          "ID": 1893,
+          "Title": "Top Level Domain"
+        }
+      ]
+    }
+  ],
+  "Filters": [
+    {
+      "ID": 6028,
+      "Title": "Kategorie:Mehrdüdig Begreep"
+    },
+    {
+      "ID": 23185,
+      "Title": "Kategorie:Verstekene Kategorien"
+    }
+  ]
+}

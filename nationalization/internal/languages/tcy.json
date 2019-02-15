@@ -1,0 +1,113 @@
+{
+  "Language": "tcy",
+  "Topics": [
+    {
+      "ID": 2147483637,
+      "Title": "Culture and the arts",
+      "Articles": [
+        {
+          "ID": 3706,
+          "Title": "ಐಸ್ ಕ್ರೀಮ್"
+        },
+        {
+          "ID": 6299,
+          "Title": "ವಿಕಿಪೀಡಿಯ"
+        }
+      ]
+    },
+    {
+      "ID": 2147483638,
+      "Title": "Geography and places",
+      "Articles": [
+        {
+          "ID": 3644,
+          "Title": "ಆಸ್ಟೇಲಿಯಾ"
+        }
+      ]
+    },
+    {
+      "ID": 2147483639,
+      "Title": "Health and fitness"
+    },
+    {
+      "ID": 2147483640,
+      "Title": "History and events"
+    },
+    {
+      "ID": 2147483641,
+      "Title": "Mathematics and logic"
+    },
+    {
+      "ID": 2147483642,
+      "Title": "Nature and physical sciences",
+      "Articles": [
+        {
+          "ID": 4179,
+          "Title": "ಗೋಧಿ"
+        },
+        {
+          "ID": 4243,
+          "Title": "ಟೊಮೆಟೊ"
+        },
+        {
+          "ID": 4511,
+          "Title": "ಬಂಗುಡೆ"
+        },
+        {
+          "ID": 4748,
+          "Title": "ಲಿಂಬು ಗಿಡ"
+        },
+        {
+          "ID": 6047,
+          "Title": "ಜಲಚಕ್ರ"
+        },
+        {
+          "ID": 6175,
+          "Title": "ಒಂಟೆ"
+        }
+      ]
+    },
+    {
+      "ID": 2147483643,
+      "Title": "People and self",
+      "Articles": [
+        {
+          "ID": 4173,
+          "Title": "ಗೆಲಿಲಿಯೋ ಗೆಲಲಿ"
+        }
+      ]
+    },
+    {
+      "ID": 2147483644,
+      "Title": "Philosophy and thinking"
+    },
+    {
+      "ID": 2147483645,
+      "Title": "Religion and belief systems",
+      "Categories": [
+        {
+          "ID": 117,
+          "Title": "ವರ್ಗೊ:ಧರ್ಮ"
+        }
+      ]
+    },
+    {
+      "ID": 2147483646,
+      "Title": "Society and social sciences",
+      "Articles": [
+        {
+          "ID": 4902,
+          "Title": "ಚಿಲಿ"
+        },
+        {
+          "ID": 5879,
+          "Title": "ಇರಾನ್"
+        }
+      ]
+    },
+    {
+      "ID": 2147483647,
+      "Title": "Technology and applied sciences"
+    }
+  ]
+}

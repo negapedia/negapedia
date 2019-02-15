@@ -1,0 +1,173 @@
+{
+  "Language": "bjn",
+  "Topics": [
+    {
+      "ID": 2147483637,
+      "Title": "Culture and the arts",
+      "Articles": [
+        {
+          "ID": 203,
+          "Title": "Hintalu"
+        },
+        {
+          "ID": 296,
+          "Title": "Kupi"
+        },
+        {
+          "ID": 425,
+          "Title": "Suklat"
+        },
+        {
+          "ID": 477,
+          "Title": "Wadai"
+        },
+        {
+          "ID": 1488,
+          "Title": "Wikipidia"
+        },
+        {
+          "ID": 2287,
+          "Title": "Kelembén"
+        },
+        {
+          "ID": 10997,
+          "Title": "Daging babi"
+        },
+        {
+          "ID": 14747,
+          "Title": "Insiklupidia"
+        }
+      ]
+    },
+    {
+      "ID": 2147483638,
+      "Title": "Geography and places",
+      "Articles": [
+        {
+          "ID": 63,
+          "Title": "Australia"
+        }
+      ]
+    },
+    {
+      "ID": 2147483639,
+      "Title": "Health and fitness"
+    },
+    {
+      "ID": 2147483640,
+      "Title": "History and events",
+      "Articles": [
+        {
+          "ID": 3402,
+          "Title": "Lindu wan tsunami Sendai 2011"
+        },
+        {
+          "ID": 13913,
+          "Title": "Donald Trump"
+        }
+      ]
+    },
+    {
+      "ID": 2147483641,
+      "Title": "Mathematics and logic",
+      "Categories": [
+        {
+          "ID": 4104,
+          "Title": "Tumbung:Matamatika"
+        }
+      ]
+    },
+    {
+      "ID": 2147483642,
+      "Title": "Nature and physical sciences",
+      "Categories": [
+        {
+          "ID": 613,
+          "Title": "Tumbung:Kimia"
+        },
+        {
+          "ID": 2984,
+          "Title": "Tumbung:Pisika"
+        },
+        {
+          "ID": 2985,
+          "Title": "Tumbung:Dunia ilmu"
+        },
+        {
+          "ID": 2986,
+          "Title": "Tumbung:Ilmu"
+        }
+      ],
+      "Articles": [
+        {
+          "ID": 87,
+          "Title": "Balinjan"
+        },
+        {
+          "ID": 92,
+          "Title": "Banih"
+        },
+        {
+          "ID": 255,
+          "Title": "Kamih"
+        },
+        {
+          "ID": 357,
+          "Title": "Palir"
+        }
+      ]
+    },
+    {
+      "ID": 2147483643,
+      "Title": "People and self",
+      "Articles": [
+        {
+          "ID": 3847,
+          "Title": "Adolf Hitler"
+        },
+        {
+          "ID": 10878,
+          "Title": "Bill Gates"
+        }
+      ]
+    },
+    {
+      "ID": 2147483644,
+      "Title": "Philosophy and thinking"
+    },
+    {
+      "ID": 2147483645,
+      "Title": "Religion and belief systems",
+      "Categories": [
+        {
+          "ID": 574,
+          "Title": "Tumbung:Agama"
+        }
+      ]
+    },
+    {
+      "ID": 2147483646,
+      "Title": "Society and social sciences",
+      "Articles": [
+        {
+          "ID": 3325,
+          "Title": "Tahun puga Cina"
+        },
+        {
+          "ID": 11692,
+          "Title": "Cili"
+        }
+      ]
+    },
+    {
+      "ID": 2147483647,
+      "Title": "Technology and applied sciences"
+    }
+  ],
+  "Filters": [
+    {
+      "ID": 6771,
+      "Title": "Tumbung:Tumbung tasungkup"
+    }
+  ]
+}

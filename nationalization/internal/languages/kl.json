@@ -1,0 +1,191 @@
+{
+  "Language": "kl",
+  "Topics": [
+    {
+      "ID": 2147483637,
+      "Title": "Culture and the arts",
+      "Categories": [
+        {
+          "ID": 3560,
+          "Title": "Sumut atassuseq:Timersorneq"
+        },
+        {
+          "ID": 4095,
+          "Title": "Sumut atassuseq:Kulturi"
+        },
+        {
+          "ID": 4773,
+          "Title": "Sumut atassuseq:Nerisassat imigassallu"
+        },
+        {
+          "ID": 4847,
+          "Title": "Sumut atassuseq:Eqqumiitsuliorneq"
+        }
+      ],
+      "Articles": [
+        {
+          "ID": 1548,
+          "Title": "Wikipedia"
+        },
+        {
+          "ID": 3029,
+          "Title": "Encyklopædi"
+        }
+      ]
+    },
+    {
+      "ID": 2147483638,
+      "Title": "Geography and places",
+      "Categories": [
+        {
+          "ID": 2730,
+          "Title": "Sumut atassuseq:Nunavissuaq"
+        }
+      ],
+      "Articles": [
+        {
+          "ID": 3914,
+          "Title": "Paris"
+        },
+        {
+          "ID": 3924,
+          "Title": "Australia"
+        },
+        {
+          "ID": 4110,
+          "Title": "Canberra"
+        }
+      ]
+    },
+    {
+      "ID": 2147483639,
+      "Title": "Health and fitness",
+      "Categories": [
+        {
+          "ID": 3411,
+          "Title": "Sumut atassuseq:Peqqinneq"
+        }
+      ]
+    },
+    {
+      "ID": 2147483640,
+      "Title": "History and events",
+      "Categories": [
+        {
+          "ID": 3622,
+          "Title": "Sumut atassuseq:Oqaluttuarisaaneq"
+        }
+      ],
+      "Articles": [
+        {
+          "ID": 7067,
+          "Title": "Donald Trump"
+        }
+      ]
+    },
+    {
+      "ID": 2147483641,
+      "Title": "Mathematics and logic",
+      "Categories": [
+        {
+          "ID": 4052,
+          "Title": "Sumut atassuseq:Matematikki"
+        }
+      ]
+    },
+    {
+      "ID": 2147483642,
+      "Title": "Nature and physical sciences",
+      "Categories": [
+        {
+          "ID": 3185,
+          "Title": "Sumut atassuseq:Ilisimatusaatit"
+        },
+        {
+          "ID": 4772,
+          "Title": "Sumut atassuseq:Pinngortitamik ilisimatusarneq"
+        },
+        {
+          "ID": 4909,
+          "Title": "Sumut atassuseq:Uumaatsulerineq"
+        }
+      ],
+      "Articles": [
+        {
+          "ID": 5470,
+          "Title": "Tuttorpak"
+        }
+      ]
+    },
+    {
+      "ID": 2147483643,
+      "Title": "People and self"
+    },
+    {
+      "ID": 2147483644,
+      "Title": "Philosophy and thinking",
+      "Categories": [
+        {
+          "ID": 3621,
+          "Title": "Sumut atassuseq:Filosofi"
+        }
+      ]
+    },
+    {
+      "ID": 2147483645,
+      "Title": "Religion and belief systems",
+      "Categories": [
+        {
+          "ID": 3368,
+          "Title": "Sumut atassuseq:Upperisarsiorneq"
+        }
+      ]
+    },
+    {
+      "ID": 2147483646,
+      "Title": "Society and social sciences",
+      "Categories": [
+        {
+          "ID": 4843,
+          "Title": "Sumut atassuseq:Humaniora"
+        },
+        {
+          "ID": 4844,
+          "Title": "Sumut atassuseq:Inooqatigiinnik ilisimatusarneq"
+        }
+      ],
+      "Articles": [
+        {
+          "ID": 1919,
+          "Title": "EU"
+        },
+        {
+          "ID": 2849,
+          "Title": "Chile"
+        },
+        {
+          "ID": 3687,
+          "Title": "Aasaanerani nalunaaqqutaq"
+        },
+        {
+          "ID": 5446,
+          "Title": "Iran"
+        }
+      ]
+    },
+    {
+      "ID": 2147483647,
+      "Title": "Technology and applied sciences",
+      "Categories": [
+        {
+          "ID": 3428,
+          "Title": "Sumut atassuseq:Angallassissutit"
+        },
+        {
+          "ID": 4915,
+          "Title": "Sumut atassuseq:Qarasaasialerineq"
+        }
+      ]
+    }
+  ]
+}

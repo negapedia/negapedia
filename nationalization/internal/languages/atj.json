@@ -1,0 +1,131 @@
+{
+  "Language": "atj",
+  "Topics": [
+    {
+      "ID": 2147483637,
+      "Title": "Culture and the arts",
+      "Articles": [
+        {
+          "ID": 116,
+          "Title": "Ickoteapo"
+        },
+        {
+          "ID": 120,
+          "Title": "Irinkokoc"
+        },
+        {
+          "ID": 146,
+          "Title": "Ka takaiak"
+        },
+        {
+          "ID": 152,
+          "Title": "Kapi"
+        },
+        {
+          "ID": 154,
+          "Title": "Karkonacic"
+        },
+        {
+          "ID": 227,
+          "Title": "Morasikan"
+        },
+        {
+          "ID": 378,
+          "Title": "Rikwato"
+        },
+        {
+          "ID": 413,
+          "Title": "Tcipa"
+        },
+        {
+          "ID": 475,
+          "Title": "Wow"
+        },
+        {
+          "ID": 517,
+          "Title": "Wikipetcia"
+        }
+      ]
+    },
+    {
+      "ID": 2147483638,
+      "Title": "Geography and places"
+    },
+    {
+      "ID": 2147483639,
+      "Title": "Health and fitness"
+    },
+    {
+      "ID": 2147483640,
+      "Title": "History and events"
+    },
+    {
+      "ID": 2147483641,
+      "Title": "Mathematics and logic",
+      "Articles": [
+        {
+          "ID": 426,
+          "Title": "Tipahikinatikw"
+        }
+      ]
+    },
+    {
+      "ID": 2147483642,
+      "Title": "Nature and physical sciences",
+      "Articles": [
+        {
+          "ID": 77,
+          "Title": "Cikokominan"
+        },
+        {
+          "ID": 221,
+          "Title": "Miromin"
+        },
+        {
+          "ID": 228,
+          "Title": "Mos"
+        },
+        {
+          "ID": 303,
+          "Title": "Otehimin"
+        },
+        {
+          "ID": 380,
+          "Title": "Ritamate"
+        },
+        {
+          "ID": 438,
+          "Title": "Wamin ka ocawacicitc"
+        },
+        {
+          "ID": 440,
+          "Title": "Wamincic ka mirokisitc"
+        },
+        {
+          "ID": 1043,
+          "Title": "Ickote"
+        }
+      ]
+    },
+    {
+      "ID": 2147483643,
+      "Title": "People and self"
+    },
+    {
+      "ID": 2147483644,
+      "Title": "Philosophy and thinking"
+    },
+    {
+      "ID": 2147483645,
+      "Title": "Religion and belief systems"
+    },
+    {
+      "ID": 2147483646,
+      "Title": "Society and social sciences"
+    },
+    {
+      "ID": 2147483647,
+      "Title": "Technology and applied sciences"
+    }
+  ]
+}

@@ -1,0 +1,129 @@
+{
+  "Language": "ts",
+  "Topics": [
+    {
+      "ID": 2147483637,
+      "Title": "Culture and the arts",
+      "Categories": [
+        {
+          "ID": 4430,
+          "Title": "Category:Ndhzavuko"
+        }
+      ],
+      "Articles": [
+        {
+          "ID": 2506,
+          "Title": "Wikipediya"
+        },
+        {
+          "ID": 2523,
+          "Title": "Encyclopediya"
+        },
+        {
+          "ID": 4656,
+          "Title": "Byala"
+        }
+      ]
+    },
+    {
+      "ID": 2147483638,
+      "Title": "Geography and places",
+      "Categories": [
+        {
+          "ID": 3144,
+          "Title": "Category:Ntivo-misava"
+        }
+      ],
+      "Articles": [
+        {
+          "ID": 4434,
+          "Title": "Vanhu"
+        }
+      ]
+    },
+    {
+      "ID": 2147483639,
+      "Title": "Health and fitness"
+    },
+    {
+      "ID": 2147483640,
+      "Title": "History and events",
+      "Categories": [
+        {
+          "ID": 2300,
+          "Title": "Category:History"
+        }
+      ]
+    },
+    {
+      "ID": 2147483641,
+      "Title": "Mathematics and logic",
+      "Categories": [
+        {
+          "ID": 3153,
+          "Title": "Category:Matematiki"
+        }
+      ]
+    },
+    {
+      "ID": 2147483642,
+      "Title": "Nature and physical sciences",
+      "Categories": [
+        {
+          "ID": 3145,
+          "Title": "Category:Sayense ya ntumbuluko"
+        },
+        {
+          "ID": 3146,
+          "Title": "Category:Sayense"
+        }
+      ]
+    },
+    {
+      "ID": 2147483643,
+      "Title": "People and self",
+      "Articles": [
+        {
+          "ID": 4111,
+          "Title": "Oliver Cromwell"
+        }
+      ]
+    },
+    {
+      "ID": 2147483644,
+      "Title": "Philosophy and thinking",
+      "Articles": [
+        {
+          "ID": 4954,
+          "Title": "Ntsako"
+        }
+      ]
+    },
+    {
+      "ID": 2147483645,
+      "Title": "Religion and belief systems"
+    },
+    {
+      "ID": 2147483646,
+      "Title": "Society and social sciences",
+      "Articles": [
+        {
+          "ID": 3320,
+          "Title": "Chile"
+        },
+        {
+          "ID": 4848,
+          "Title": "Nhlangono wa matiko ya Yuropa"
+        },
+        {
+          "ID": 5040,
+          "Title": "Iran"
+        }
+      ]
+    },
+    {
+      "ID": 2147483647,
+      "Title": "Technology and applied sciences"
+    }
+  ]
+}

@@ -1,0 +1,747 @@
+{
+  "Language": "fy",
+  "Topics": [
+    {
+      "ID": 2147483637,
+      "Title": "Culture and the arts",
+      "Categories": [
+        {
+          "ID": 2567,
+          "Title": "Kategory:Keunst"
+        },
+        {
+          "ID": 2568,
+          "Title": "Kategory:Kultuer"
+        },
+        {
+          "ID": 3554,
+          "Title": "Kategory:Sport"
+        },
+        {
+          "ID": 7824,
+          "Title": "Kategory:Band"
+        },
+        {
+          "ID": 15609,
+          "Title": "Kategory:Hobby"
+        },
+        {
+          "ID": 15766,
+          "Title": "Kategory:Rekreaasje"
+        },
+        {
+          "ID": 16214,
+          "Title": "Kategory:Iten en drinken"
+        },
+        {
+          "ID": 21588,
+          "Title": "Kategory:Iten"
+        },
+        {
+          "ID": 63808,
+          "Title": "Kategory:Fermaak"
+        },
+        {
+          "ID": 63810,
+          "Title": "Kategory:Frije tiid"
+        },
+        {
+          "ID": 72254,
+          "Title": "Kategory:Gastronomy"
+        },
+        {
+          "ID": 80305,
+          "Title": "Kategory:Sport nei soarte"
+        },
+        {
+          "ID": 83332,
+          "Title": "Kategory:Lichemsbeweging"
+        },
+        {
+          "ID": 115418,
+          "Title": "Kategory:Kleur"
+        }
+      ],
+      "Articles": [
+        {
+          "ID": 7741,
+          "Title": "Wikipedy"
+        },
+        {
+          "ID": 8363,
+          "Title": "Sûkerbôle"
+        },
+        {
+          "ID": 10226,
+          "Title": "Ensyklopedy"
+        },
+        {
+          "ID": 12672,
+          "Title": "The World Factbook CIA"
+        },
+        {
+          "ID": 25252,
+          "Title": "List fan alkohoalyske dranken"
+        },
+        {
+          "ID": 28523,
+          "Title": "Bier"
+        },
+        {
+          "ID": 28647,
+          "Title": "Bôle"
+        },
+        {
+          "ID": 28886,
+          "Title": "Aai (bist)"
+        },
+        {
+          "ID": 31732,
+          "Title": "Spûk"
+        },
+        {
+          "ID": 39779,
+          "Title": "Swiniastate"
+        },
+        {
+          "ID": 42739,
+          "Title": "Buckingham Palace"
+        },
+        {
+          "ID": 55986,
+          "Title": "Everswyn"
+        },
+        {
+          "ID": 56076,
+          "Title": "Baarch"
+        },
+        {
+          "ID": 56079,
+          "Title": "Echte swinen"
+        },
+        {
+          "ID": 56228,
+          "Title": "Realisme"
+        },
+        {
+          "ID": 56230,
+          "Title": "Realisme (literatuer)"
+        },
+        {
+          "ID": 56258,
+          "Title": "Realisme (keunststreaming)"
+        },
+        {
+          "ID": 59526,
+          "Title": "Orale seks"
+        },
+        {
+          "ID": 88709,
+          "Title": "Pizza"
+        },
+        {
+          "ID": 101442,
+          "Title": "Band"
+        },
+        {
+          "ID": 113437,
+          "Title": "Pasta (daaiguod)"
+        },
+        {
+          "ID": 120369,
+          "Title": "Keinens"
+        },
+        {
+          "ID": 122352,
+          "Title": "Led Zeppelin (band)"
+        }
+      ]
+    },
+    {
+      "ID": 2147483638,
+      "Title": "Geography and places",
+      "Categories": [
+        {
+          "ID": 7040,
+          "Title": "Kategory:Geografy"
+        },
+        {
+          "ID": 16026,
+          "Title": "Kategory:Geomorfology"
+        },
+        {
+          "ID": 21413,
+          "Title": "Kategory:Monumint"
+        },
+        {
+          "ID": 102635,
+          "Title": "Kategory:Stêdeboukunde"
+        }
+      ],
+      "Articles": [
+        {
+          "ID": 6478,
+          "Title": "Birma"
+        },
+        {
+          "ID": 7284,
+          "Title": "Minske"
+        },
+        {
+          "ID": 7510,
+          "Title": "Parys"
+        },
+        {
+          "ID": 9412,
+          "Title": "Austraalje (lân)"
+        },
+        {
+          "ID": 13162,
+          "Title": "Piramide"
+        },
+        {
+          "ID": 17500,
+          "Title": "Feneesje (stêd)"
+        },
+        {
+          "ID": 44191,
+          "Title": "Kanberra"
+        },
+        {
+          "ID": 67590,
+          "Title": "Queenslân"
+        }
+      ]
+    },
+    {
+      "ID": 2147483639,
+      "Title": "Health and fitness",
+      "Categories": [
+        {
+          "ID": 7170,
+          "Title": "Kategory:Genêskunde"
+        },
+        {
+          "ID": 16113,
+          "Title": "Kategory:Sûnens"
+        },
+        {
+          "ID": 16134,
+          "Title": "Kategory:Sûnenssoarch"
+        },
+        {
+          "ID": 23483,
+          "Title": "Kategory:Hygiëne"
+        },
+        {
+          "ID": 27576,
+          "Title": "Kategory:Erflike oandwaning"
+        },
+        {
+          "ID": 63923,
+          "Title": "Kategory:Uterlike fersoarging"
+        }
+      ]
+    },
+    {
+      "ID": 2147483640,
+      "Title": "History and events",
+      "Categories": [
+        {
+          "ID": 5314,
+          "Title": "Kategory:Skiednis"
+        },
+        {
+          "ID": 111103,
+          "Title": "Kategory:Barren"
+        }
+      ],
+      "Articles": [
+        {
+          "ID": 41912,
+          "Title": "Donald Trump"
+        },
+        {
+          "ID": 54360,
+          "Title": "Trojaanske Oarloch"
+        },
+        {
+          "ID": 54765,
+          "Title": "Amerikaanske presidintsferkiezings (2012)"
+        },
+        {
+          "ID": 86714,
+          "Title": "Kûp (Yndiaansk gebrûk)"
+        }
+      ]
+    },
+    {
+      "ID": 2147483641,
+      "Title": "Mathematics and logic",
+      "Categories": [
+        {
+          "ID": 11027,
+          "Title": "Kategory:Wiskunde"
+        },
+        {
+          "ID": 90067,
+          "Title": "Kategory:Statistyk"
+        }
+      ],
+      "Articles": [
+        {
+          "ID": 19392,
+          "Title": "Lingtemjitte"
+        }
+      ]
+    },
+    {
+      "ID": 2147483642,
+      "Title": "Nature and physical sciences",
+      "Categories": [
+        {
+          "ID": 5253,
+          "Title": "Kategory:Wittenskip"
+        },
+        {
+          "ID": 7726,
+          "Title": "Kategory:Natuerkunde"
+        },
+        {
+          "ID": 11934,
+          "Title": "Kategory:Skiekunde"
+        },
+        {
+          "ID": 13897,
+          "Title": "Kategory:Natuerwittenskip"
+        },
+        {
+          "ID": 16185,
+          "Title": "Kategory:Natoer"
+        },
+        {
+          "ID": 19934,
+          "Title": "Kategory:Ramp"
+        },
+        {
+          "ID": 66710,
+          "Title": "Kategory:Soölogy"
+        },
+        {
+          "ID": 99978,
+          "Title": "Kategory:Miljeuwittenskip"
+        },
+        {
+          "ID": 113770,
+          "Title": "Kategory:Gemyske stof"
+        },
+        {
+          "ID": 127898,
+          "Title": "Kategory:Lânseigen fauna nei wrâlddiel"
+        }
+      ],
+      "Articles": [
+        {
+          "ID": 2492,
+          "Title": "Wylde ierdbei"
+        },
+        {
+          "ID": 10434,
+          "Title": "Masturbaasje"
+        },
+        {
+          "ID": 17019,
+          "Title": "Stynske weet"
+        },
+        {
+          "ID": 18976,
+          "Title": "Spier"
+        },
+        {
+          "ID": 44211,
+          "Title": "Fjoer"
+        },
+        {
+          "ID": 90343,
+          "Title": "Read hier"
+        },
+        {
+          "ID": 90510,
+          "Title": "Penis"
+        },
+        {
+          "ID": 113417,
+          "Title": "Rys"
+        },
+        {
+          "ID": 121547,
+          "Title": "Kamielen"
+        }
+      ]
+    },
+    {
+      "ID": 2147483643,
+      "Title": "People and self",
+      "Categories": [
+        {
+          "ID": 7768,
+          "Title": "Kategory:Persoan"
+        },
+        {
+          "ID": 15654,
+          "Title": "Kategory:Biografy"
+        },
+        {
+          "ID": 62480,
+          "Title": "Kategory:Frou"
+        },
+        {
+          "ID": 84575,
+          "Title": "Kategory:Efternamme"
+        },
+        {
+          "ID": 99837,
+          "Title": "Kategory:Libben"
+        },
+        {
+          "ID": 102606,
+          "Title": "Kategory:Selsbyld"
+        }
+      ],
+      "Articles": [
+        {
+          "ID": 2524,
+          "Title": "Joseph Smith"
+        },
+        {
+          "ID": 3345,
+          "Title": "Richard Wagner"
+        },
+        {
+          "ID": 5436,
+          "Title": "Lewis Carroll"
+        },
+        {
+          "ID": 10302,
+          "Title": "Kristoffel Kolumbus"
+        },
+        {
+          "ID": 13058,
+          "Title": "Tomas fan Akwino"
+        },
+        {
+          "ID": 14129,
+          "Title": "Adolf Hitler"
+        },
+        {
+          "ID": 19521,
+          "Title": "René Descartes"
+        },
+        {
+          "ID": 26135,
+          "Title": "Alexander Fleming"
+        },
+        {
+          "ID": 28014,
+          "Title": "John Lennon"
+        },
+        {
+          "ID": 28098,
+          "Title": "George Harrison"
+        },
+        {
+          "ID": 28766,
+          "Title": "Oliver Cromwell"
+        },
+        {
+          "ID": 29464,
+          "Title": "Bill Gates"
+        },
+        {
+          "ID": 29848,
+          "Title": "Galileo Galilei"
+        },
+        {
+          "ID": 36844,
+          "Title": "Ayn Rand"
+        },
+        {
+          "ID": 37604,
+          "Title": "William Blake"
+        },
+        {
+          "ID": 42110,
+          "Title": "Carl Friedrich Gauss"
+        },
+        {
+          "ID": 42193,
+          "Title": "Srinivasa Ramanujan"
+        },
+        {
+          "ID": 42215,
+          "Title": "Alan Turing"
+        },
+        {
+          "ID": 42231,
+          "Title": "Sigmund Freud"
+        },
+        {
+          "ID": 42297,
+          "Title": "Adam Smith"
+        },
+        {
+          "ID": 81078,
+          "Title": "Harry Houdini"
+        }
+      ]
+    },
+    {
+      "ID": 2147483644,
+      "Title": "Philosophy and thinking",
+      "Categories": [
+        {
+          "ID": 12425,
+          "Title": "Kategory:Filosofy"
+        },
+        {
+          "ID": 16139,
+          "Title": "Kategory:Etyk"
+        },
+        {
+          "ID": 53437,
+          "Title": "Kategory:Filosofyske streaming"
+        }
+      ],
+      "Articles": [
+        {
+          "ID": 17570,
+          "Title": "Leauwe"
+        },
+        {
+          "ID": 42923,
+          "Title": "Blidens"
+        },
+        {
+          "ID": 102813,
+          "Title": "Skientme"
+        },
+        {
+          "ID": 116098,
+          "Title": "Hit"
+        }
+      ]
+    },
+    {
+      "ID": 2147483645,
+      "Title": "Religion and belief systems",
+      "Categories": [
+        {
+          "ID": 7764,
+          "Title": "Kategory:Religy"
+        },
+        {
+          "ID": 103966,
+          "Title": "Kategory:Religieus leauwe"
+        },
+        {
+          "ID": 104086,
+          "Title": "Kategory:Krityk op religy"
+        }
+      ]
+    },
+    {
+      "ID": 2147483646,
+      "Title": "Society and social sciences",
+      "Categories": [
+        {
+          "ID": 7173,
+          "Title": "Kategory:Sosjale wittenskip"
+        },
+        {
+          "ID": 7847,
+          "Title": "Kategory:Ynternasjonale organisaasje"
+        },
+        {
+          "ID": 12475,
+          "Title": "Kategory:Maatskippij"
+        },
+        {
+          "ID": 12885,
+          "Title": "Kategory:Rjocht"
+        },
+        {
+          "ID": 16104,
+          "Title": "Kategory:Feminisme"
+        }
+      ],
+      "Articles": [
+        {
+          "ID": 2319,
+          "Title": "Jeropeeske Uny"
+        },
+        {
+          "ID": 5360,
+          "Title": "Iran"
+        },
+        {
+          "ID": 9424,
+          "Title": "Barbados"
+        },
+        {
+          "ID": 10962,
+          "Title": "Sily"
+        },
+        {
+          "ID": 21885,
+          "Title": "Simmertiid"
+        },
+        {
+          "ID": 23279,
+          "Title": "Universiteit fan Aberdeen"
+        },
+        {
+          "ID": 42495,
+          "Title": "Universiteit fan Oxford"
+        },
+        {
+          "ID": 51226,
+          "Title": "Universiteit fan Cambridge"
+        },
+        {
+          "ID": 54767,
+          "Title": "Universiteit fan Harvard"
+        },
+        {
+          "ID": 72294,
+          "Title": "Universiteit fan Warwick"
+        },
+        {
+          "ID": 77186,
+          "Title": "Georg-August-Universiteit"
+        },
+        {
+          "ID": 77916,
+          "Title": "Universiteit fan Uppsala"
+        },
+        {
+          "ID": 78148,
+          "Title": "Universiteit fan Sint-Petersburch"
+        },
+        {
+          "ID": 81690,
+          "Title": "Universiteit fan Leicester"
+        },
+        {
+          "ID": 84259,
+          "Title": "American Airlines"
+        },
+        {
+          "ID": 85201,
+          "Title": "Universiteit fan Stokholm"
+        },
+        {
+          "ID": 85335,
+          "Title": "Universiteit fan Susseks"
+        },
+        {
+          "ID": 88807,
+          "Title": "Universiteit fan Glasgow"
+        },
+        {
+          "ID": 91446,
+          "Title": "The New York Times"
+        },
+        {
+          "ID": 104287,
+          "Title": "Universiteit fan Leeds"
+        },
+        {
+          "ID": 109498,
+          "Title": "Taco Bell"
+        },
+        {
+          "ID": 125553,
+          "Title": "Steatsuniversiteit fan Moskou"
+        }
+      ]
+    },
+    {
+      "ID": 2147483647,
+      "Title": "Technology and applied sciences",
+      "Categories": [
+        {
+          "ID": 5887,
+          "Title": "Kategory:Kompjûter"
+        },
+        {
+          "ID": 7171,
+          "Title": "Kategory:Tapaste wittenskip"
+        },
+        {
+          "ID": 10603,
+          "Title": "Kategory:Ynternet"
+        },
+        {
+          "ID": 13894,
+          "Title": "Kategory:Ynformatika"
+        },
+        {
+          "ID": 14268,
+          "Title": "Kategory:Ferfier"
+        },
+        {
+          "ID": 15389,
+          "Title": "Kategory:Technyk"
+        },
+        {
+          "ID": 16074,
+          "Title": "Kategory:Elektroanika"
+        },
+        {
+          "ID": 104801,
+          "Title": "Kategory:Militêr gereid"
+        },
+        {
+          "ID": 110333,
+          "Title": "Kategory:Data-opslach"
+        },
+        {
+          "ID": 110466,
+          "Title": "Kategory:Foarmjouwing"
+        },
+        {
+          "ID": 115378,
+          "Title": "Kategory:Technology"
+        },
+        {
+          "ID": 121995,
+          "Title": "Kategory:Database"
+        },
+        {
+          "ID": 130540,
+          "Title": "Kategory:Militêr materieel"
+        }
+      ],
+      "Articles": [
+        {
+          "ID": 5161,
+          "Title": "Top level domain"
+        },
+        {
+          "ID": 41907,
+          "Title": "Kaugom"
+        }
+      ]
+    }
+  ],
+  "Filters": [
+    {
+      "ID": 3886,
+      "Title": "Kategory:Trochferwiisside"
+    },
+    {
+      "ID": 115606,
+      "Title": "Kategory:Ferburgen kategoryen"
+    }
+  ]
+}

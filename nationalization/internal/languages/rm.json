@@ -1,0 +1,251 @@
+{
+  "Language": "rm",
+  "Topics": [
+    {
+      "ID": 2147483637,
+      "Title": "Culture and the arts",
+      "Categories": [
+        {
+          "ID": 1655,
+          "Title": "Categoria:Cuschina"
+        },
+        {
+          "ID": 1672,
+          "Title": "Categoria:Sport"
+        },
+        {
+          "ID": 5773,
+          "Title": "Categoria:Arts"
+        },
+        {
+          "ID": 7505,
+          "Title": "Categoria:Cultura"
+        },
+        {
+          "ID": 8073,
+          "Title": "Categoria:Gruppas da musica"
+        },
+        {
+          "ID": 11212,
+          "Title": "Categoria:Disciplinas da sport"
+        },
+        {
+          "ID": 11281,
+          "Title": "Categoria:Aliments"
+        }
+      ],
+      "Articles": [
+        {
+          "ID": 4103,
+          "Title": "Vichipedia"
+        },
+        {
+          "ID": 11595,
+          "Title": "Café"
+        },
+        {
+          "ID": 12199,
+          "Title": "Portg selvadi"
+        }
+      ]
+    },
+    {
+      "ID": 2147483638,
+      "Title": "Geography and places",
+      "Categories": [
+        {
+          "ID": 1640,
+          "Title": "Categoria:Geografia"
+        }
+      ],
+      "Articles": [
+        {
+          "ID": 2452,
+          "Title": "Australia"
+        },
+        {
+          "ID": 9159,
+          "Title": "Paris"
+        }
+      ]
+    },
+    {
+      "ID": 2147483639,
+      "Title": "Health and fitness"
+    },
+    {
+      "ID": 2147483640,
+      "Title": "History and events",
+      "Categories": [
+        {
+          "ID": 1648,
+          "Title": "Categoria:Istorgia"
+        },
+        {
+          "ID": 12290,
+          "Title": "Categoria:Istorgia tenor pajais"
+        }
+      ],
+      "Articles": [
+        {
+          "ID": 9244,
+          "Title": "Attatgas da terror dals 11 da settember 2001"
+        },
+        {
+          "ID": 9625,
+          "Title": "Terratrembel da Tōhoku dal 2011"
+        },
+        {
+          "ID": 12988,
+          "Title": "Donald Trump"
+        }
+      ]
+    },
+    {
+      "ID": 2147483641,
+      "Title": "Mathematics and logic"
+    },
+    {
+      "ID": 2147483642,
+      "Title": "Nature and physical sciences",
+      "Categories": [
+        {
+          "ID": 5044,
+          "Title": "Categoria:Scienzas"
+        },
+        {
+          "ID": 9213,
+          "Title": "Categoria:Scienzas natiralas"
+        },
+        {
+          "ID": 9277,
+          "Title": "Categoria:Fisica"
+        },
+        {
+          "ID": 10208,
+          "Title": "Categoria:Chemia"
+        }
+      ]
+    },
+    {
+      "ID": 2147483643,
+      "Title": "People and self",
+      "Categories": [
+        {
+          "ID": 8434,
+          "Title": "Categoria:Persunas"
+        },
+        {
+          "ID": 12131,
+          "Title": "Categoria:Dunnas"
+        }
+      ],
+      "Articles": [
+        {
+          "ID": 2180,
+          "Title": "Adolf Hitler"
+        },
+        {
+          "ID": 11259,
+          "Title": "Tumasch d'Aquino"
+        },
+        {
+          "ID": 12331,
+          "Title": "Adam Smith"
+        }
+      ]
+    },
+    {
+      "ID": 2147483644,
+      "Title": "Philosophy and thinking",
+      "Categories": [
+        {
+          "ID": 1643,
+          "Title": "Categoria:Filosofia"
+        },
+        {
+          "ID": 12586,
+          "Title": "Categoria:Ideologias"
+        }
+      ]
+    },
+    {
+      "ID": 2147483645,
+      "Title": "Religion and belief systems",
+      "Categories": [
+        {
+          "ID": 1644,
+          "Title": "Categoria:Religiun"
+        }
+      ]
+    },
+    {
+      "ID": 2147483646,
+      "Title": "Society and social sciences",
+      "Categories": [
+        {
+          "ID": 5033,
+          "Title": "Categoria:Scienzas socialas"
+        },
+        {
+          "ID": 6871,
+          "Title": "Categoria:Societad"
+        },
+        {
+          "ID": 7715,
+          "Title": "Categoria:Organisaziuns internaziunalas"
+        }
+      ],
+      "Articles": [
+        {
+          "ID": 2148,
+          "Title": "Iran"
+        },
+        {
+          "ID": 2451,
+          "Title": "Chile"
+        },
+        {
+          "ID": 4657,
+          "Title": "Barbados"
+        },
+        {
+          "ID": 9171,
+          "Title": "Uniun europeica"
+        }
+      ]
+    },
+    {
+      "ID": 2147483647,
+      "Title": "Technology and applied sciences",
+      "Categories": [
+        {
+          "ID": 1618,
+          "Title": "Categoria:Scienza dals computers"
+        },
+        {
+          "ID": 1638,
+          "Title": "Categoria:Tecnologia"
+        },
+        {
+          "ID": 1639,
+          "Title": "Categoria:Transport"
+        },
+        {
+          "ID": 1664,
+          "Title": "Categoria:Internet"
+        },
+        {
+          "ID": 5912,
+          "Title": "Categoria:Scienzas applitgadas"
+        }
+      ]
+    }
+  ],
+  "Filters": [
+    {
+      "ID": 8838,
+      "Title": "Categoria:Vichipedia:Paginas per sclerir noziuns"
+    }
+  ]
+}

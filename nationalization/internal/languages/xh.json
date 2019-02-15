@@ -1,0 +1,169 @@
+{
+  "Language": "xh",
+  "Topics": [
+    {
+      "ID": 2147483637,
+      "Title": "Culture and the arts",
+      "Categories": [
+        {
+          "ID": 5555,
+          "Title": "Category:Ukutya"
+        },
+        {
+          "ID": 5863,
+          "Title": "Category:Ezemidlalo"
+        }
+      ],
+      "Articles": [
+        {
+          "ID": 3923,
+          "Title": "Ihagu"
+        },
+        {
+          "ID": 3947,
+          "Title": "Ubhiya"
+        },
+        {
+          "ID": 3949,
+          "Title": "Ikofu"
+        },
+        {
+          "ID": 4561,
+          "Title": "Iwikipedia"
+        },
+        {
+          "ID": 4760,
+          "Title": "Isakhono sokufunda"
+        }
+      ]
+    },
+    {
+      "ID": 2147483638,
+      "Title": "Geography and places",
+      "Categories": [
+        {
+          "ID": 4503,
+          "Title": "Category:IJografi"
+        }
+      ],
+      "Articles": [
+        {
+          "ID": 3234,
+          "Title": "Abantu"
+        }
+      ]
+    },
+    {
+      "ID": 2147483639,
+      "Title": "Health and fitness"
+    },
+    {
+      "ID": 2147483640,
+      "Title": "History and events",
+      "Articles": [
+        {
+          "ID": 5178,
+          "Title": "Donald Trump"
+        }
+      ]
+    },
+    {
+      "ID": 2147483641,
+      "Title": "Mathematics and logic",
+      "Categories": [
+        {
+          "ID": 2859,
+          "Title": "Category:Izibalo"
+        }
+      ]
+    },
+    {
+      "ID": 2147483642,
+      "Title": "Nature and physical sciences",
+      "Categories": [
+        {
+          "ID": 4547,
+          "Title": "Category:Inzululwazi"
+        },
+        {
+          "ID": 4599,
+          "Title": "Category:Ifiziki"
+        },
+        {
+          "ID": 4845,
+          "Title": "Category:IKhemistri"
+        }
+      ],
+      "Articles": [
+        {
+          "ID": 4478,
+          "Title": "Umchamo"
+        }
+      ]
+    },
+    {
+      "ID": 2147483643,
+      "Title": "People and self"
+    },
+    {
+      "ID": 2147483644,
+      "Title": "Philosophy and thinking",
+      "Categories": [
+        {
+          "ID": 5658,
+          "Title": "Category:Filosofi"
+        }
+      ],
+      "Articles": [
+        {
+          "ID": 4494,
+          "Title": "Ubuhle"
+        }
+      ]
+    },
+    {
+      "ID": 2147483645,
+      "Title": "Religion and belief systems"
+    },
+    {
+      "ID": 2147483646,
+      "Title": "Society and social sciences",
+      "Articles": [
+        {
+          "ID": 3767,
+          "Title": "IChile"
+        },
+        {
+          "ID": 5552,
+          "Title": "Pizza Hut"
+        },
+        {
+          "ID": 5896,
+          "Title": "I-Yunivesithi yaKwaZulu-Natala"
+        }
+      ]
+    },
+    {
+      "ID": 2147483647,
+      "Title": "Technology and applied sciences",
+      "Categories": [
+        {
+          "ID": 2607,
+          "Title": "Category:Ubuchwepheshe"
+        }
+      ],
+      "Articles": [
+        {
+          "ID": 4656,
+          "Title": "Udonga"
+        }
+      ]
+    }
+  ],
+  "Filters": [
+    {
+      "ID": 3739,
+      "Title": "Category:Hidden categories"
+    }
+  ]
+}

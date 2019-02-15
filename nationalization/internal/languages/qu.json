@@ -1,0 +1,509 @@
+{
+  "Language": "qu",
+  "Topics": [
+    {
+      "ID": 2147483637,
+      "Title": "Culture and the arts",
+      "Categories": [
+        {
+          "ID": 1143,
+          "Title": "Katiguriya:Tarpuy yachay"
+        },
+        {
+          "ID": 2883,
+          "Title": "Katiguriya:Mikhuna"
+        },
+        {
+          "ID": 3716,
+          "Title": "Katiguriya:Kurku kallpanchay"
+        },
+        {
+          "ID": 3951,
+          "Title": "Katiguriya:Kapchiy"
+        },
+        {
+          "ID": 4996,
+          "Title": "Katiguriya:Kusituy"
+        },
+        {
+          "ID": 43672,
+          "Title": "Katiguriya:Pilikula"
+        }
+      ],
+      "Articles": [
+        {
+          "ID": 1136,
+          "Title": "Wikipidiya"
+        },
+        {
+          "ID": 2530,
+          "Title": "Khuchi"
+        },
+        {
+          "ID": 4453,
+          "Title": "Runtu"
+        },
+        {
+          "ID": 4993,
+          "Title": "Kusituy"
+        },
+        {
+          "ID": 5213,
+          "Title": "T'anta"
+        },
+        {
+          "ID": 5235,
+          "Title": "Green Day"
+        },
+        {
+          "ID": 5478,
+          "Title": "Kakaw"
+        },
+        {
+          "ID": 7836,
+          "Title": "Kaphiy yura"
+        },
+        {
+          "ID": 7839,
+          "Title": "Kaphiy"
+        },
+        {
+          "ID": 13536,
+          "Title": "Chukulati"
+        },
+        {
+          "ID": 13538,
+          "Title": "Kakawa upyana"
+        },
+        {
+          "ID": 16376,
+          "Title": "Sirwisa"
+        },
+        {
+          "ID": 26001,
+          "Title": "Pastil"
+        },
+        {
+          "ID": 27952,
+          "Title": "Salsa"
+        },
+        {
+          "ID": 29752,
+          "Title": "Suchuqrampa"
+        }
+      ]
+    },
+    {
+      "ID": 2147483638,
+      "Title": "Geography and places",
+      "Categories": [
+        {
+          "ID": 2571,
+          "Title": "Katiguriya:Allpamanta yachaykuna"
+        },
+        {
+          "ID": 16770,
+          "Title": "Katiguriya:Lista (Allpamanta yachaykuna)"
+        }
+      ],
+      "Articles": [
+        {
+          "ID": 2489,
+          "Title": "Paris"
+        },
+        {
+          "ID": 3335,
+          "Title": "Runa"
+        },
+        {
+          "ID": 5313,
+          "Title": "Myanmar"
+        },
+        {
+          "ID": 5740,
+          "Title": "Awstralya"
+        },
+        {
+          "ID": 17923,
+          "Title": "Venezia"
+        },
+        {
+          "ID": 27470,
+          "Title": "Chuntu wasi"
+        },
+        {
+          "ID": 52530,
+          "Title": "Canberra"
+        }
+      ]
+    },
+    {
+      "ID": 2147483639,
+      "Title": "Health and fitness",
+      "Categories": [
+        {
+          "ID": 3746,
+          "Title": "Katiguriya:Hampi yachay"
+        }
+      ]
+    },
+    {
+      "ID": 2147483640,
+      "Title": "History and events",
+      "Categories": [
+        {
+          "ID": 4169,
+          "Title": "Katiguriya:Wiñay kawsay"
+        },
+        {
+          "ID": 35136,
+          "Title": "Katiguriya:Wiñay kawsay (Mama llaqta)"
+        }
+      ],
+      "Articles": [
+        {
+          "ID": 14644,
+          "Title": "Truyanu maqanakuy"
+        },
+        {
+          "ID": 47361,
+          "Title": "Nihunpi pacha kuyuy (2011)"
+        },
+        {
+          "ID": 56024,
+          "Title": "Donald Trump"
+        }
+      ]
+    },
+    {
+      "ID": 2147483641,
+      "Title": "Mathematics and logic",
+      "Categories": [
+        {
+          "ID": 1132,
+          "Title": "Katiguriya:Yupana"
+        }
+      ],
+      "Articles": [
+        {
+          "ID": 13158,
+          "Title": "Karu kay"
+        }
+      ]
+    },
+    {
+      "ID": 2147483642,
+      "Title": "Nature and physical sciences",
+      "Categories": [
+        {
+          "ID": 1133,
+          "Title": "Katiguriya:Yachay"
+        },
+        {
+          "ID": 2772,
+          "Title": "Katiguriya:Chaqllisinchi"
+        },
+        {
+          "ID": 3792,
+          "Title": "Katiguriya:Pachaykamay"
+        },
+        {
+          "ID": 8004,
+          "Title": "Katiguriya:Suwuluhiya"
+        }
+      ],
+      "Articles": [
+        {
+          "ID": 2529,
+          "Title": "Kamillu"
+        },
+        {
+          "ID": 2847,
+          "Title": "Chilltu"
+        },
+        {
+          "ID": 2851,
+          "Title": "Unukhachun"
+        },
+        {
+          "ID": 2853,
+          "Title": "Muntipuquy"
+        },
+        {
+          "ID": 3360,
+          "Title": "Ullu"
+        },
+        {
+          "ID": 3366,
+          "Title": "Q'uruta"
+        },
+        {
+          "ID": 3452,
+          "Title": "Qhampu k'usillu"
+        },
+        {
+          "ID": 3925,
+          "Title": "Sapallu"
+        },
+        {
+          "ID": 4471,
+          "Title": "Nina"
+        },
+        {
+          "ID": 4976,
+          "Title": "Ispa"
+        },
+        {
+          "ID": 5139,
+          "Title": "Chilina"
+        },
+        {
+          "ID": 5198,
+          "Title": "Arrus"
+        },
+        {
+          "ID": 5204,
+          "Title": "Triyu"
+        },
+        {
+          "ID": 6250,
+          "Title": "Awaymantu"
+        },
+        {
+          "ID": 7228,
+          "Title": "Pariwana"
+        },
+        {
+          "ID": 7439,
+          "Title": "Chirimaway"
+        },
+        {
+          "ID": 7721,
+          "Title": "Sara"
+        },
+        {
+          "ID": 7750,
+          "Title": "Puquy k'allku"
+        },
+        {
+          "ID": 13053,
+          "Title": "Sinchi aycha"
+        },
+        {
+          "ID": 26255,
+          "Title": "Yaku muyuriy"
+        },
+        {
+          "ID": 27778,
+          "Title": "Phutuy"
+        },
+        {
+          "ID": 28361,
+          "Title": "Yana amaru"
+        },
+        {
+          "ID": 43932,
+          "Title": "Alsi"
+        },
+        {
+          "ID": 51120,
+          "Title": "Wawsakuy"
+        }
+      ]
+    },
+    {
+      "ID": 2147483643,
+      "Title": "People and self",
+      "Categories": [
+        {
+          "ID": 4158,
+          "Title": "Katiguriya:Warmi"
+        },
+        {
+          "ID": 16354,
+          "Title": "Katiguriya:Kawsaq"
+        }
+      ],
+      "Articles": [
+        {
+          "ID": 4211,
+          "Title": "Alexander Fleming"
+        },
+        {
+          "ID": 4216,
+          "Title": "Galileo Galilei"
+        },
+        {
+          "ID": 4646,
+          "Title": "Adolf Hitler"
+        },
+        {
+          "ID": 4683,
+          "Title": "Richard Wagner"
+        },
+        {
+          "ID": 4843,
+          "Title": "Sigmund Freud"
+        },
+        {
+          "ID": 7904,
+          "Title": "Johannes Kepler"
+        },
+        {
+          "ID": 8827,
+          "Title": "Adam Smith"
+        },
+        {
+          "ID": 11262,
+          "Title": "Cristobal Colon"
+        },
+        {
+          "ID": 11409,
+          "Title": "Bill Gates"
+        },
+        {
+          "ID": 16762,
+          "Title": "Carl Sagan"
+        },
+        {
+          "ID": 21858,
+          "Title": "René Descartes"
+        },
+        {
+          "ID": 30245,
+          "Title": "John Lennon"
+        },
+        {
+          "ID": 34905,
+          "Title": "Tommaso d'Aquino"
+        },
+        {
+          "ID": 48416,
+          "Title": "Daniel Radcliffe"
+        },
+        {
+          "ID": 48852,
+          "Title": "George Harrison"
+        },
+        {
+          "ID": 51873,
+          "Title": "Elton John"
+        },
+        {
+          "ID": 55157,
+          "Title": "The Big Bang Theory"
+        },
+        {
+          "ID": 56569,
+          "Title": "Carl Friedrich Gauss"
+        }
+      ]
+    },
+    {
+      "ID": 2147483644,
+      "Title": "Philosophy and thinking",
+      "Categories": [
+        {
+          "ID": 1135,
+          "Title": "Katiguriya:Llup'ina"
+        }
+      ],
+      "Articles": [
+        {
+          "ID": 18382,
+          "Title": "Q'uchukuy"
+        },
+        {
+          "ID": 18383,
+          "Title": "Kusikuy"
+        }
+      ]
+    },
+    {
+      "ID": 2147483645,
+      "Title": "Religion and belief systems",
+      "Categories": [
+        {
+          "ID": 3502,
+          "Title": "Katiguriya:Iñiy"
+        }
+      ]
+    },
+    {
+      "ID": 2147483646,
+      "Title": "Society and social sciences",
+      "Articles": [
+        {
+          "ID": 828,
+          "Title": "Chili"
+        },
+        {
+          "ID": 5314,
+          "Title": "Iran"
+        },
+        {
+          "ID": 13842,
+          "Title": "Iwrupa Huñu"
+        },
+        {
+          "ID": 43301,
+          "Title": "Cambridge Yachay Suntur"
+        },
+        {
+          "ID": 43302,
+          "Title": "Oxford Yachay Suntur"
+        },
+        {
+          "ID": 43303,
+          "Title": "Harvard Yachay Suntur"
+        },
+        {
+          "ID": 43310,
+          "Title": "Stanford Yachay Suntur"
+        },
+        {
+          "ID": 49793,
+          "Title": "Tsinghua Yachay sunturnin"
+        },
+        {
+          "ID": 52815,
+          "Title": "Tübingen Yachay Suntur"
+        },
+        {
+          "ID": 56720,
+          "Title": "Hebrew University of Jerusalem"
+        },
+        {
+          "ID": 57549,
+          "Title": "Moscow State University"
+        }
+      ]
+    },
+    {
+      "ID": 2147483647,
+      "Title": "Technology and applied sciences",
+      "Categories": [
+        {
+          "ID": 17879,
+          "Title": "Katiguriya:Allwiya"
+        }
+      ],
+      "Articles": [
+        {
+          "ID": 10957,
+          "Title": "Pirqa"
+        },
+        {
+          "ID": 26556,
+          "Title": "Pirqaq"
+        }
+      ]
+    }
+  ],
+  "Filters": [
+    {
+      "ID": 5294,
+      "Title": "Katiguriya:Wikipidiya:Sut'ichana qillqa"
+    }
+  ]
+}

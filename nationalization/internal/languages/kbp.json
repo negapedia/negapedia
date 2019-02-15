@@ -1,0 +1,273 @@
+{
+  "Language": "kbp",
+  "Topics": [
+    {
+      "ID": 2147483637,
+      "Title": "Culture and the arts",
+      "Categories": [
+        {
+          "ID": 53,
+          "Title": "Catégorie:Sɩpɔɔrɩ"
+        },
+        {
+          "ID": 59,
+          "Title": "Catégorie:Tɔlɩm"
+        }
+      ],
+      "Articles": [
+        {
+          "ID": 607,
+          "Title": "Kpɔnɔ"
+        },
+        {
+          "ID": 633,
+          "Title": "Kɔfɩ"
+        },
+        {
+          "ID": 997,
+          "Title": "Pɩyɛɛrɩ"
+        },
+        {
+          "ID": 1197,
+          "Title": "Toovenum (réalité)"
+        },
+        {
+          "ID": 1279,
+          "Title": "Wikipediya"
+        },
+        {
+          "ID": 2817,
+          "Title": "Ñazɩñazʊʊ"
+        },
+        {
+          "ID": 2839,
+          "Title": "Ɛsakuliye takayaɣ kɩkalaɣ"
+        }
+      ]
+    },
+    {
+      "ID": 2147483638,
+      "Title": "Geography and places",
+      "Articles": [
+        {
+          "ID": 887,
+          "Title": "Ositraalii"
+        },
+        {
+          "ID": 893,
+          "Title": "Paarii"
+        },
+        {
+          "ID": 1628,
+          "Title": "Feeniizi"
+        },
+        {
+          "ID": 1950,
+          "Title": "Pirmaanii"
+        }
+      ]
+    },
+    {
+      "ID": 2147483639,
+      "Title": "Health and fitness"
+    },
+    {
+      "ID": 2147483640,
+      "Title": "History and events",
+      "Articles": [
+        {
+          "ID": 2913,
+          "Title": "Donald Trump"
+        }
+      ]
+    },
+    {
+      "ID": 2147483641,
+      "Title": "Mathematics and logic",
+      "Articles": [
+        {
+          "ID": 1364,
+          "Title": "Ɖaɣlakɩŋ (longeur)"
+        }
+      ]
+    },
+    {
+      "ID": 2147483642,
+      "Title": "Nature and physical sciences",
+      "Categories": [
+        {
+          "ID": 26,
+          "Title": "Catégorie:Fiziiki"
+        }
+      ],
+      "Articles": [
+        {
+          "ID": 117,
+          "Title": "Adɔtɔ"
+        },
+        {
+          "ID": 134,
+          "Title": "Akaŋgaa"
+        },
+        {
+          "ID": 668,
+          "Title": "Lada"
+        },
+        {
+          "ID": 684,
+          "Title": "Leemuu"
+        },
+        {
+          "ID": 764,
+          "Title": "Maŋgʊ"
+        },
+        {
+          "ID": 785,
+          "Title": "Miŋ"
+        },
+        {
+          "ID": 809,
+          "Title": "Mɔʋ"
+        },
+        {
+          "ID": 853,
+          "Title": "Nimviɖe"
+        },
+        {
+          "ID": 939,
+          "Title": "Pilee"
+        },
+        {
+          "ID": 1040,
+          "Title": "Saamɩɖɛ"
+        },
+        {
+          "ID": 1584,
+          "Title": "Aɖaɖa"
+        },
+        {
+          "ID": 2270,
+          "Title": "Tɩmaatɩ"
+        },
+        {
+          "ID": 2455,
+          "Title": "Ñɩtʊ kʊtɔɔtʊ (chou-fleur)"
+        }
+      ]
+    },
+    {
+      "ID": 2147483643,
+      "Title": "People and self",
+      "Articles": [
+        {
+          "ID": 114,
+          "Title": "Adam Smith"
+        },
+        {
+          "ID": 116,
+          "Title": "Adolph Hitler"
+        },
+        {
+          "ID": 143,
+          "Title": "Alan Turing"
+        },
+        {
+          "ID": 249,
+          "Title": "Carl Friedrich Gauss"
+        },
+        {
+          "ID": 262,
+          "Title": "Christophe Colomb"
+        },
+        {
+          "ID": 335,
+          "Title": "Leonardo Fibonacci"
+        },
+        {
+          "ID": 378,
+          "Title": "Galilée"
+        },
+        {
+          "ID": 1013,
+          "Title": "René Descartes"
+        },
+        {
+          "ID": 1015,
+          "Title": "Richard Wagner"
+        },
+        {
+          "ID": 2932,
+          "Title": "Sigmund Freud"
+        },
+        {
+          "ID": 2995,
+          "Title": "Thomas d'Aquin"
+        }
+      ]
+    },
+    {
+      "ID": 2147483644,
+      "Title": "Philosophy and thinking",
+      "Categories": [
+        {
+          "ID": 25,
+          "Title": "Catégorie:Filozofii"
+        }
+      ]
+    },
+    {
+      "ID": 2147483645,
+      "Title": "Religion and belief systems",
+      "Categories": [
+        {
+          "ID": 79,
+          "Title": "Catégorie:Ɛsɔ sɛʋ"
+        }
+      ]
+    },
+    {
+      "ID": 2147483646,
+      "Title": "Society and social sciences",
+      "Categories": [
+        {
+          "ID": 49,
+          "Title": "Catégorie:Samaɣ"
+        }
+      ],
+      "Articles": [
+        {
+          "ID": 468,
+          "Title": "Iranɩ"
+        },
+        {
+          "ID": 1083,
+          "Title": "Silii"
+        },
+        {
+          "ID": 1257,
+          "Title": "UE ŋgbɛyɛ"
+        },
+        {
+          "ID": 2786,
+          "Title": "Cambridge sukuli kɩtɛzʊʊ"
+        },
+        {
+          "ID": 2812,
+          "Title": "Harvard sukulɩ kɩtɛzʊʊ"
+        },
+        {
+          "ID": 2813,
+          "Title": "Sorbonne sukuli kɩtɛzʊʊ"
+        },
+        {
+          "ID": 2856,
+          "Title": "Ɔkɩsɩfɔtɩ sukuli kɩtɛzʊʊ"
+        }
+      ]
+    },
+    {
+      "ID": 2147483647,
+      "Title": "Technology and applied sciences"
+    }
+  ]
+}

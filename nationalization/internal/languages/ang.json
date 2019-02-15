@@ -1,0 +1,311 @@
+{
+  "Language": "ang",
+  "Topics": [
+    {
+      "ID": 2147483637,
+      "Title": "Culture and the arts",
+      "Categories": [
+        {
+          "ID": 292,
+          "Title": "Flocc:Sidaþing"
+        },
+        {
+          "ID": 6139,
+          "Title": "Flocc:Ǣt"
+        },
+        {
+          "ID": 10892,
+          "Title": "Flocc:Gamen"
+        },
+        {
+          "ID": 15234,
+          "Title": "Flocc:Plegan"
+        }
+      ],
+      "Articles": [
+        {
+          "ID": 5810,
+          "Title": "Bēor"
+        },
+        {
+          "ID": 6134,
+          "Title": "Wulfpersocbroþ"
+        },
+        {
+          "ID": 6278,
+          "Title": "Francforta"
+        },
+        {
+          "ID": 7975,
+          "Title": "Wīsdōmbōc"
+        },
+        {
+          "ID": 7985,
+          "Title": "Neopolis brādhlāf"
+        },
+        {
+          "ID": 8009,
+          "Title": "Hlāf"
+        },
+        {
+          "ID": 8223,
+          "Title": "Caffig"
+        },
+        {
+          "ID": 11030,
+          "Title": "Īsrēam"
+        },
+        {
+          "ID": 11086,
+          "Title": "Swīn"
+        },
+        {
+          "ID": 12977,
+          "Title": "Æg"
+        },
+        {
+          "ID": 14176,
+          "Title": "Wikipǣdia"
+        },
+        {
+          "ID": 14663,
+          "Title": "Ceace"
+        },
+        {
+          "ID": 16298,
+          "Title": "Ceocōlāte"
+        }
+      ]
+    },
+    {
+      "ID": 2147483638,
+      "Title": "Geography and places",
+      "Articles": [
+        {
+          "ID": 5376,
+          "Title": "Cwēneland"
+        },
+        {
+          "ID": 5415,
+          "Title": "Paris"
+        },
+        {
+          "ID": 7153,
+          "Title": "Australia"
+        },
+        {
+          "ID": 10558,
+          "Title": "Canberra"
+        },
+        {
+          "ID": 14550,
+          "Title": "Burma"
+        },
+        {
+          "ID": 15784,
+          "Title": "Venetia"
+        }
+      ]
+    },
+    {
+      "ID": 2147483639,
+      "Title": "Health and fitness"
+    },
+    {
+      "ID": 2147483640,
+      "Title": "History and events",
+      "Categories": [
+        {
+          "ID": 3560,
+          "Title": "Flocc:Stǣr"
+        }
+      ],
+      "Articles": [
+        {
+          "ID": 15822,
+          "Title": "11. Hāligmōnþes 2001. torngemōt"
+        },
+        {
+          "ID": 17980,
+          "Title": "Dufenal Trump"
+        }
+      ]
+    },
+    {
+      "ID": 2147483641,
+      "Title": "Mathematics and logic",
+      "Categories": [
+        {
+          "ID": 5741,
+          "Title": "Flocc:Rīmcræft"
+        }
+      ]
+    },
+    {
+      "ID": 2147483642,
+      "Title": "Nature and physical sciences",
+      "Articles": [
+        {
+          "ID": 360,
+          "Title": "Strēawberge"
+        },
+        {
+          "ID": 2134,
+          "Title": "Fȳr"
+        },
+        {
+          "ID": 6102,
+          "Title": "Wulfpersoc"
+        },
+        {
+          "ID": 7994,
+          "Title": "Hwǣte"
+        },
+        {
+          "ID": 11880,
+          "Title": "Bleohcrāwe"
+        },
+        {
+          "ID": 11932,
+          "Title": "Pīnæppel"
+        },
+        {
+          "ID": 14253,
+          "Title": "Pintel"
+        },
+        {
+          "ID": 19099,
+          "Title": "Eolh"
+        }
+      ]
+    },
+    {
+      "ID": 2147483643,
+      "Title": "People and self",
+      "Categories": [
+        {
+          "ID": 3453,
+          "Title": "Flocc:Lēode"
+        },
+        {
+          "ID": 5795,
+          "Title": "Flocc:Līf"
+        },
+        {
+          "ID": 7765,
+          "Title": "Flocc:Ƿīf"
+        }
+      ],
+      "Articles": [
+        {
+          "ID": 1918,
+          "Title": "Adolf Hitler"
+        },
+        {
+          "ID": 1955,
+          "Title": "Christopher Columbus"
+        },
+        {
+          "ID": 3796,
+          "Title": "Bill Gates"
+        },
+        {
+          "ID": 17073,
+          "Title": "Elton John"
+        },
+        {
+          "ID": 17075,
+          "Title": "Noam Chomsky"
+        },
+        {
+          "ID": 17340,
+          "Title": "Ayn Rand"
+        }
+      ]
+    },
+    {
+      "ID": 2147483644,
+      "Title": "Philosophy and thinking"
+    },
+    {
+      "ID": 2147483645,
+      "Title": "Religion and belief systems",
+      "Categories": [
+        {
+          "ID": 15554,
+          "Title": "Flocc:Gelēafan"
+        }
+      ]
+    },
+    {
+      "ID": 2147483646,
+      "Title": "Society and social sciences",
+      "Categories": [
+        {
+          "ID": 11098,
+          "Title": "Flocc:Ferscipe"
+        }
+      ],
+      "Articles": [
+        {
+          "ID": 1837,
+          "Title": "Europisce Gesamnung"
+        },
+        {
+          "ID": 3632,
+          "Title": "Fox News"
+        },
+        {
+          "ID": 7120,
+          "Title": "Persealand"
+        },
+        {
+          "ID": 10744,
+          "Title": "Cile"
+        },
+        {
+          "ID": 12830,
+          "Title": "Barbados"
+        },
+        {
+          "ID": 13069,
+          "Title": "Eormengyld Oxnafordes"
+        },
+        {
+          "ID": 15705,
+          "Title": "Eormengyld Tybingenes"
+        },
+        {
+          "ID": 18242,
+          "Title": "Fēorþa Gebētung þære Grundgesetnesse þāra Geānedra Rīca American"
+        }
+      ]
+    },
+    {
+      "ID": 2147483647,
+      "Title": "Technology and applied sciences",
+      "Categories": [
+        {
+          "ID": 3591,
+          "Title": "Flocc:Searucræft"
+        },
+        {
+          "ID": 12318,
+          "Title": "Flocc:Fōr"
+        }
+      ],
+      "Articles": [
+        {
+          "ID": 17538,
+          "Title": "Webbnamena tægl"
+        }
+      ]
+    }
+  ],
+  "Filters": [
+    {
+      "ID": 3967,
+      "Title": "Flocc:Scīrung"
+    }
+  ]
+}

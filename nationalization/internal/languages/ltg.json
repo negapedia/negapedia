@@ -1,0 +1,271 @@
+{
+  "Language": "ltg",
+  "Topics": [
+    {
+      "ID": 2147483637,
+      "Title": "Culture and the arts",
+      "Categories": [
+        {
+          "ID": 738,
+          "Title": "Kategoreja:Kaviekli"
+        },
+        {
+          "ID": 745,
+          "Title": "Kategoreja:Kultura"
+        },
+        {
+          "ID": 790,
+          "Title": "Kategoreja:Muoksla"
+        },
+        {
+          "ID": 803,
+          "Title": "Kategoreja:Pavaļa"
+        },
+        {
+          "ID": 829,
+          "Title": "Kategoreja:Sports"
+        },
+        {
+          "ID": 3384,
+          "Title": "Kategoreja:Atpyuta"
+        },
+        {
+          "ID": 3535,
+          "Title": "Kategoreja:Filmys"
+        }
+      ],
+      "Articles": [
+        {
+          "ID": 118,
+          "Title": "Eņciklopedeja"
+        },
+        {
+          "ID": 520,
+          "Title": "Vikipedeja"
+        }
+      ]
+    },
+    {
+      "ID": 2147483638,
+      "Title": "Geography and places",
+      "Categories": [
+        {
+          "ID": 716,
+          "Title": "Kategoreja:Geografeja"
+        },
+        {
+          "ID": 1110,
+          "Title": "Kategoreja:Vītys"
+        }
+      ],
+      "Articles": [
+        {
+          "ID": 80,
+          "Title": "Cylvāks"
+        },
+        {
+          "ID": 1798,
+          "Title": "Australeja"
+        }
+      ]
+    },
+    {
+      "ID": 2147483639,
+      "Title": "Health and fitness",
+      "Categories": [
+        {
+          "ID": 786,
+          "Title": "Kategoreja:Medicina"
+        },
+        {
+          "ID": 3517,
+          "Title": "Kategoreja:Veseleiba"
+        }
+      ]
+    },
+    {
+      "ID": 2147483640,
+      "Title": "History and events",
+      "Categories": [
+        {
+          "ID": 797,
+          "Title": "Kategoreja:Nūtikšonys"
+        },
+        {
+          "ID": 855,
+          "Title": "Kategoreja:Viesture"
+        }
+      ]
+    },
+    {
+      "ID": 2147483641,
+      "Title": "Mathematics and logic",
+      "Categories": [
+        {
+          "ID": 785,
+          "Title": "Kategoreja:Matematika"
+        }
+      ]
+    },
+    {
+      "ID": 2147483642,
+      "Title": "Nature and physical sciences",
+      "Categories": [
+        {
+          "ID": 700,
+          "Title": "Kategoreja:Doba"
+        },
+        {
+          "ID": 702,
+          "Title": "Kategoreja:Dobyszineibys"
+        },
+        {
+          "ID": 712,
+          "Title": "Kategoreja:Fizika"
+        },
+        {
+          "ID": 739,
+          "Title": "Kategoreja:Kimeja"
+        },
+        {
+          "ID": 882,
+          "Title": "Kategoreja:Zineiba"
+        },
+        {
+          "ID": 885,
+          "Title": "Kategoreja:Zoologeja"
+        },
+        {
+          "ID": 1208,
+          "Title": "Kategoreja:Apleiczineiba"
+        }
+      ],
+      "Articles": [
+        {
+          "ID": 145,
+          "Title": "Iudiņa cyklys"
+        },
+        {
+          "ID": 943,
+          "Title": "Brīds"
+        }
+      ]
+    },
+    {
+      "ID": 2147483643,
+      "Title": "People and self",
+      "Categories": [
+        {
+          "ID": 703,
+          "Title": "Kategoreja:Dzeive"
+        },
+        {
+          "ID": 1629,
+          "Title": "Kategoreja:Cylvāki"
+        },
+        {
+          "ID": 2442,
+          "Title": "Kategoreja:Sātparāds"
+        },
+        {
+          "ID": 3472,
+          "Title": "Kategoreja:Personeigā dzeive"
+        }
+      ],
+      "Articles": [
+        {
+          "ID": 1842,
+          "Title": "Adoļfs Hitlers"
+        }
+      ]
+    },
+    {
+      "ID": 2147483644,
+      "Title": "Philosophy and thinking",
+      "Categories": [
+        {
+          "ID": 711,
+          "Title": "Kategoreja:Filosofeja"
+        },
+        {
+          "ID": 3459,
+          "Title": "Kategoreja:Guoduošona"
+        }
+      ]
+    },
+    {
+      "ID": 2147483645,
+      "Title": "Religion and belief systems",
+      "Categories": [
+        {
+          "ID": 814,
+          "Title": "Kategoreja:Religeja"
+        }
+      ]
+    },
+    {
+      "ID": 2147483646,
+      "Title": "Society and social sciences",
+      "Categories": [
+        {
+          "ID": 723,
+          "Title": "Kategoreja:Humanitaruos zineibys"
+        },
+        {
+          "ID": 826,
+          "Title": "Kategoreja:Socialuos zineibys"
+        },
+        {
+          "ID": 1630,
+          "Title": "Kategoreja:Ļaudeiba"
+        }
+      ],
+      "Articles": [
+        {
+          "ID": 981,
+          "Title": "Čile"
+        }
+      ]
+    },
+    {
+      "ID": 2147483647,
+      "Title": "Technology and applied sciences",
+      "Categories": [
+        {
+          "ID": 696,
+          "Title": "Kategoreja:Datorzineiba"
+        },
+        {
+          "ID": 838,
+          "Title": "Kategoreja:Tehnologeja"
+        },
+        {
+          "ID": 841,
+          "Title": "Kategoreja:Transports"
+        },
+        {
+          "ID": 889,
+          "Title": "Kategoreja:Škārsteiklys"
+        },
+        {
+          "ID": 2417,
+          "Title": "Kategoreja:Lītyskuos zineibys"
+        },
+        {
+          "ID": 3440,
+          "Title": "Kategoreja:Tehnika"
+        },
+        {
+          "ID": 3537,
+          "Title": "Kategoreja:Datu rāds"
+        }
+      ]
+    }
+  ],
+  "Filters": [
+    {
+      "ID": 878,
+      "Title": "Kategoreja:Zeimeibu škiršona"
+    }
+  ]
+}

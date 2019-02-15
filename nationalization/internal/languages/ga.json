@@ -1,0 +1,959 @@
+{
+  "Language": "ga",
+  "Topics": [
+    {
+      "ID": 2147483637,
+      "Title": "Culture and the arts",
+      "Categories": [
+        {
+          "ID": 2865,
+          "Title": "Catagóir:Cultúr"
+        },
+        {
+          "ID": 3841,
+          "Title": "Catagóir:Caitheamh aimsire"
+        },
+        {
+          "ID": 3842,
+          "Title": "Catagóir:Spórt"
+        },
+        {
+          "ID": 8045,
+          "Title": "Catagóir:Bannaí ceoil"
+        },
+        {
+          "ID": 18046,
+          "Title": "Catagóir:Siamsaíocht"
+        },
+        {
+          "ID": 19141,
+          "Title": "Catagóir:Cothú"
+        },
+        {
+          "ID": 19326,
+          "Title": "Catagóir:Dathanna"
+        },
+        {
+          "ID": 19329,
+          "Title": "Catagóir:Dath"
+        },
+        {
+          "ID": 24619,
+          "Title": "Catagóir:Bia"
+        },
+        {
+          "ID": 32403,
+          "Title": "Catagóir:Fóillíocht"
+        },
+        {
+          "ID": 34348,
+          "Title": "Catagóir:Na hEalaíona"
+        },
+        {
+          "ID": 72028,
+          "Title": "Catagóir:Aclaíocht"
+        }
+      ],
+      "Articles": [
+        {
+          "ID": 1845,
+          "Title": "Vicipéid"
+        },
+        {
+          "ID": 1866,
+          "Title": "Seacláid"
+        },
+        {
+          "ID": 2578,
+          "Title": "Beoir"
+        },
+        {
+          "ID": 6508,
+          "Title": "Led Zeppelin"
+        },
+        {
+          "ID": 7594,
+          "Title": "Sgt. Pepper's Lonely Hearts Club Band"
+        },
+        {
+          "ID": 8027,
+          "Title": "Banna ceoil"
+        },
+        {
+          "ID": 8446,
+          "Title": "Arán"
+        },
+        {
+          "ID": 10818,
+          "Title": "Píotsa"
+        },
+        {
+          "ID": 11128,
+          "Title": "Caife"
+        },
+        {
+          "ID": 12715,
+          "Title": "Hogwarts"
+        },
+        {
+          "ID": 12735,
+          "Title": "Racbhanna"
+        },
+        {
+          "ID": 15649,
+          "Title": "Pálás Buckingham"
+        },
+        {
+          "ID": 18915,
+          "Title": "Muc"
+        },
+        {
+          "ID": 23218,
+          "Title": "Uachtar reoite"
+        },
+        {
+          "ID": 24251,
+          "Title": "Briosca"
+        },
+        {
+          "ID": 24653,
+          "Title": "Císte"
+        },
+        {
+          "ID": 24733,
+          "Title": "Im piseanna talún"
+        },
+        {
+          "ID": 26208,
+          "Title": "Torc allta"
+        },
+        {
+          "ID": 26921,
+          "Title": "Ciclipéid"
+        },
+        {
+          "ID": 27466,
+          "Title": "Ubh"
+        },
+        {
+          "ID": 29767,
+          "Title": "Seacláid the"
+        },
+        {
+          "ID": 34553,
+          "Title": "Green Day"
+        },
+        {
+          "ID": 44750,
+          "Title": "Anlann"
+        },
+        {
+          "ID": 44848,
+          "Title": "Arán sóide"
+        },
+        {
+          "ID": 46211,
+          "Title": "Cócó"
+        },
+        {
+          "ID": 50649,
+          "Title": "Pasta"
+        },
+        {
+          "ID": 51121,
+          "Title": "Réalachas"
+        },
+        {
+          "ID": 54393,
+          "Title": "Niseag"
+        },
+        {
+          "ID": 61024,
+          "Title": "Comórtas Amhránaíochta na hEoraifíse 2017"
+        },
+        {
+          "ID": 62415,
+          "Title": "The Wanted"
+        },
+        {
+          "ID": 64182,
+          "Title": "Taibhse (osnádúrtha)"
+        },
+        {
+          "ID": 68106,
+          "Title": "The World Factbook"
+        },
+        {
+          "ID": 69485,
+          "Title": "Comórtas Amhránaíochta na hEoraifíse 2018"
+        },
+        {
+          "ID": 69579,
+          "Title": "Bagún"
+        },
+        {
+          "ID": 69849,
+          "Title": "Liamhás"
+        },
+        {
+          "ID": 69850,
+          "Title": "Muiceoil"
+        },
+        {
+          "ID": 83552,
+          "Title": "Gruagach"
+        },
+        {
+          "ID": 87175,
+          "Title": "Císte spúinse"
+        },
+        {
+          "ID": 87224,
+          "Title": "Pióg"
+        }
+      ]
+    },
+    {
+      "ID": 2147483638,
+      "Title": "Geography and places",
+      "Categories": [
+        {
+          "ID": 2862,
+          "Title": "Catagóir:Tíreolaíocht"
+        },
+        {
+          "ID": 24607,
+          "Title": "Catagóir:Áiteanna"
+        }
+      ],
+      "Articles": [
+        {
+          "ID": 2452,
+          "Title": "An Astráil"
+        },
+        {
+          "ID": 3850,
+          "Title": "Páras"
+        },
+        {
+          "ID": 3934,
+          "Title": "Duine"
+        },
+        {
+          "ID": 8213,
+          "Title": "Canberra"
+        },
+        {
+          "ID": 8352,
+          "Title": "Queensland"
+        },
+        {
+          "ID": 11132,
+          "Title": "Maenmar"
+        },
+        {
+          "ID": 11498,
+          "Title": "An Veinéis"
+        },
+        {
+          "ID": 29754,
+          "Title": "Pirimid"
+        },
+        {
+          "ID": 37133,
+          "Title": "Obar Phuill"
+        }
+      ]
+    },
+    {
+      "ID": 2147483639,
+      "Title": "Health and fitness",
+      "Categories": [
+        {
+          "ID": 2859,
+          "Title": "Catagóir:Leigheas"
+        },
+        {
+          "ID": 24331,
+          "Title": "Catagóir:Sláinte"
+        },
+        {
+          "ID": 24724,
+          "Title": "Catagóir:Sláinteachas"
+        },
+        {
+          "ID": 55325,
+          "Title": "Catagóir:Speisialtachtaí leighis"
+        },
+        {
+          "ID": 74381,
+          "Title": "Catagóir:Cúram sláinte"
+        }
+      ]
+    },
+    {
+      "ID": 2147483640,
+      "Title": "History and events",
+      "Categories": [
+        {
+          "ID": 2849,
+          "Title": "Catagóir:Stair"
+        },
+        {
+          "ID": 80784,
+          "Title": "Catagóir:Stair de réir tíre"
+        }
+      ],
+      "Articles": [
+        {
+          "ID": 7844,
+          "Title": "9/11"
+        },
+        {
+          "ID": 63331,
+          "Title": "Donald Trump"
+        },
+        {
+          "ID": 73856,
+          "Title": "Cogadh na Traoi"
+        },
+        {
+          "ID": 74976,
+          "Title": "Lámhach club oíche Orlando na bliana 2016"
+        }
+      ]
+    },
+    {
+      "ID": 2147483641,
+      "Title": "Mathematics and logic",
+      "Categories": [
+        {
+          "ID": 3891,
+          "Title": "Catagóir:Matamaitic"
+        },
+        {
+          "ID": 3892,
+          "Title": "Catagóir:Staidreamh"
+        }
+      ],
+      "Articles": [
+        {
+          "ID": 85619,
+          "Title": "Fad"
+        }
+      ]
+    },
+    {
+      "ID": 2147483642,
+      "Title": "Nature and physical sciences",
+      "Categories": [
+        {
+          "ID": 2860,
+          "Title": "Catagóir:Eolaíocht"
+        },
+        {
+          "ID": 3714,
+          "Title": "Catagóir:Comhdhúile ceimiceacha"
+        },
+        {
+          "ID": 3715,
+          "Title": "Catagóir:Ceimic"
+        },
+        {
+          "ID": 3890,
+          "Title": "Catagóir:Fisic"
+        },
+        {
+          "ID": 16400,
+          "Title": "Catagóir:Zó-eolaíocht"
+        },
+        {
+          "ID": 24605,
+          "Title": "Catagóir:Dúlra"
+        },
+        {
+          "ID": 53163,
+          "Title": "Catagóir:Eolaíochtaí nádúrtha"
+        },
+        {
+          "ID": 77383,
+          "Title": "Catagóir:Eolaíochtaí fisiceacha"
+        },
+        {
+          "ID": 77385,
+          "Title": "Catagóir:Disciplíní na heolaíochta"
+        }
+      ],
+      "Articles": [
+        {
+          "ID": 8132,
+          "Title": "Tine"
+        },
+        {
+          "ID": 13239,
+          "Title": "Ronnach"
+        },
+        {
+          "ID": 16418,
+          "Title": "Bod"
+        },
+        {
+          "ID": 24051,
+          "Title": "Tráta"
+        },
+        {
+          "ID": 24248,
+          "Title": "Uirí"
+        },
+        {
+          "ID": 24553,
+          "Title": "Fual"
+        },
+        {
+          "ID": 26190,
+          "Title": "Camall"
+        },
+        {
+          "ID": 26508,
+          "Title": "Oráiste (toradh)"
+        },
+        {
+          "ID": 26726,
+          "Title": "Sú talún"
+        },
+        {
+          "ID": 26727,
+          "Title": "Líomóid"
+        },
+        {
+          "ID": 26772,
+          "Title": "Mealbhacán"
+        },
+        {
+          "ID": 27430,
+          "Title": "Cóilis"
+        },
+        {
+          "ID": 27468,
+          "Title": "Arbhar Indiach"
+        },
+        {
+          "ID": 27483,
+          "Title": "Folt rua"
+        },
+        {
+          "ID": 27713,
+          "Title": "Cruithneacht"
+        },
+        {
+          "ID": 28407,
+          "Title": "Líoma (toradh)"
+        },
+        {
+          "ID": 28408,
+          "Title": "Córas matánchnámharlaigh an duine"
+        },
+        {
+          "ID": 28416,
+          "Title": "Matán"
+        },
+        {
+          "ID": 29152,
+          "Title": "Lasairéan"
+        },
+        {
+          "ID": 31356,
+          "Title": "Glacaireacht"
+        },
+        {
+          "ID": 44651,
+          "Title": "Anacanda"
+        },
+        {
+          "ID": 44713,
+          "Title": "Anann"
+        },
+        {
+          "ID": 45516,
+          "Title": "Búbaí"
+        },
+        {
+          "ID": 46812,
+          "Title": "Dathanna comhlántacha"
+        },
+        {
+          "ID": 48453,
+          "Title": "Frog crainn"
+        },
+        {
+          "ID": 48460,
+          "Title": "Fuaidreán"
+        },
+        {
+          "ID": 48724,
+          "Title": "Ginidiú"
+        },
+        {
+          "ID": 49040,
+          "Title": "Hidreolaíocht"
+        },
+        {
+          "ID": 49941,
+          "Title": "Mangó"
+        },
+        {
+          "ID": 50166,
+          "Title": "Miortal"
+        },
+        {
+          "ID": 51244,
+          "Title": "Rís"
+        },
+        {
+          "ID": 51500,
+          "Title": "Scréachóg coille"
+        },
+        {
+          "ID": 51721,
+          "Title": "Slabhra bia"
+        },
+        {
+          "ID": 51842,
+          "Title": "Spáinnéar feá"
+        },
+        {
+          "ID": 81049,
+          "Title": "Sú talún fhiáin"
+        }
+      ]
+    },
+    {
+      "ID": 2147483643,
+      "Title": "People and self",
+      "Categories": [
+        {
+          "ID": 2834,
+          "Title": "Catagóir:Daoine"
+        },
+        {
+          "ID": 24332,
+          "Title": "Catagóir:Saol"
+        },
+        {
+          "ID": 26986,
+          "Title": "Catagóir:Saol pearsanta"
+        },
+        {
+          "ID": 75664,
+          "Title": "Catagóir:Ealaíontóirí de réir mheán"
+        }
+      ],
+      "Articles": [
+        {
+          "ID": 2592,
+          "Title": "Oilibhéar Cromail"
+        },
+        {
+          "ID": 2600,
+          "Title": "Richard Wagner"
+        },
+        {
+          "ID": 3171,
+          "Title": "Sigmund Freud"
+        },
+        {
+          "ID": 6597,
+          "Title": "Bill Gates"
+        },
+        {
+          "ID": 6720,
+          "Title": "Adam Smith"
+        },
+        {
+          "ID": 6838,
+          "Title": "Críostóir Colambas"
+        },
+        {
+          "ID": 7113,
+          "Title": "Alan Turing"
+        },
+        {
+          "ID": 7224,
+          "Title": "René Descartes"
+        },
+        {
+          "ID": 7337,
+          "Title": "John Lennon"
+        },
+        {
+          "ID": 7338,
+          "Title": "George Harrison"
+        },
+        {
+          "ID": 7600,
+          "Title": "Charles Babbage"
+        },
+        {
+          "ID": 7996,
+          "Title": "Galileo Galilei"
+        },
+        {
+          "ID": 12110,
+          "Title": "Johannes Kepler"
+        },
+        {
+          "ID": 12437,
+          "Title": "Lewis Carroll"
+        },
+        {
+          "ID": 13070,
+          "Title": "Tomás ó Aquino"
+        },
+        {
+          "ID": 13697,
+          "Title": "Noam Chomsky"
+        },
+        {
+          "ID": 14369,
+          "Title": "Richard Dawkins"
+        },
+        {
+          "ID": 14481,
+          "Title": "Harry Houdini"
+        },
+        {
+          "ID": 16949,
+          "Title": "Carl Friedrich Gauss"
+        },
+        {
+          "ID": 17188,
+          "Title": "Daniel Radcliffe"
+        },
+        {
+          "ID": 21176,
+          "Title": "Elton John"
+        },
+        {
+          "ID": 22011,
+          "Title": "Adolf Hitler"
+        },
+        {
+          "ID": 30032,
+          "Title": "Florence Nightingale"
+        },
+        {
+          "ID": 48231,
+          "Title": "Leonardo Fibonacci"
+        },
+        {
+          "ID": 48300,
+          "Title": "Alexander Fleming"
+        },
+        {
+          "ID": 49501,
+          "Title": "Irving Langmuir"
+        },
+        {
+          "ID": 51340,
+          "Title": "Carl Sagan"
+        },
+        {
+          "ID": 51468,
+          "Title": "Theodor Schwann"
+        },
+        {
+          "ID": 66712,
+          "Title": "Ted Cruz"
+        },
+        {
+          "ID": 77272,
+          "Title": "William Blake"
+        }
+      ]
+    },
+    {
+      "ID": 2147483644,
+      "Title": "Philosophy and thinking",
+      "Categories": [
+        {
+          "ID": 3743,
+          "Title": "Catagóir:Fealsúnacht"
+        },
+        {
+          "ID": 54923,
+          "Title": "Catagóir:Smaoineamh"
+        }
+      ],
+      "Articles": [
+        {
+          "ID": 82742,
+          "Title": "Áilleacht"
+        }
+      ]
+    },
+    {
+      "ID": 2147483645,
+      "Title": "Religion and belief systems",
+      "Categories": [
+        {
+          "ID": 3677,
+          "Title": "Catagóir:Reiligiún"
+        },
+        {
+          "ID": 10635,
+          "Title": "Catagóir:Creideamh"
+        }
+      ]
+    },
+    {
+      "ID": 2147483646,
+      "Title": "Society and social sciences",
+      "Categories": [
+        {
+          "ID": 3907,
+          "Title": "Catagóir:Dlí"
+        },
+        {
+          "ID": 3909,
+          "Title": "Catagóir:Sochaí"
+        },
+        {
+          "ID": 19294,
+          "Title": "Catagóir:Eolaíochtaí sóisialta"
+        },
+        {
+          "ID": 19295,
+          "Title": "Catagóir:Léann daonna"
+        },
+        {
+          "ID": 25524,
+          "Title": "Catagóir:Eagraíochtaí idirnáisiúnta"
+        },
+        {
+          "ID": 32363,
+          "Title": "Catagóir:Cearta"
+        },
+        {
+          "ID": 35770,
+          "Title": "Catagóir:Daonnachtaí"
+        },
+        {
+          "ID": 76984,
+          "Title": "Catagóir:Ollscoileanna de réir tíre"
+        }
+      ],
+      "Articles": [
+        {
+          "ID": 2619,
+          "Title": "An tAontas Eorpach"
+        },
+        {
+          "ID": 6261,
+          "Title": "Ollscoil Ghlaschú"
+        },
+        {
+          "ID": 6452,
+          "Title": "Ollscoil Uppsala"
+        },
+        {
+          "ID": 6548,
+          "Title": "Ollscoil Bhologna"
+        },
+        {
+          "ID": 7206,
+          "Title": "An tSile"
+        },
+        {
+          "ID": 7241,
+          "Title": "An Iaráin"
+        },
+        {
+          "ID": 9110,
+          "Title": "Ollscoil Oxford"
+        },
+        {
+          "ID": 9928,
+          "Title": "Ollscoil Harvard"
+        },
+        {
+          "ID": 10331,
+          "Title": "Ollscoil Uladh"
+        },
+        {
+          "ID": 10983,
+          "Title": "Barbadós"
+        },
+        {
+          "ID": 11111,
+          "Title": "Open University"
+        },
+        {
+          "ID": 11163,
+          "Title": "Massachusetts Institute of Technology"
+        },
+        {
+          "ID": 12797,
+          "Title": "Starbucks"
+        },
+        {
+          "ID": 21908,
+          "Title": "Boston University"
+        },
+        {
+          "ID": 29158,
+          "Title": "Ollscoil Learphoill"
+        },
+        {
+          "ID": 31224,
+          "Title": "The New York Times"
+        },
+        {
+          "ID": 35681,
+          "Title": "Micreanáisiún"
+        },
+        {
+          "ID": 38230,
+          "Title": "Ollscoil Cambridge"
+        },
+        {
+          "ID": 44628,
+          "Title": "Am samhraidh"
+        },
+        {
+          "ID": 54307,
+          "Title": "Acadamaidh Allt a' Mhuilinn"
+        },
+        {
+          "ID": 54882,
+          "Title": "Oilthigh Obar Dheathain"
+        },
+        {
+          "ID": 54994,
+          "Title": "Oilthigh Chill Rímhinn"
+        },
+        {
+          "ID": 55040,
+          "Title": "Oilthigh Obar Thatha"
+        },
+        {
+          "ID": 55076,
+          "Title": "Eabhrais Ollscoil Iarúsailéim"
+        },
+        {
+          "ID": 59397,
+          "Title": "Ollscoil Columbia"
+        },
+        {
+          "ID": 59574,
+          "Title": "Ollscoil Princeton"
+        },
+        {
+          "ID": 61135,
+          "Title": "Fox News Channel"
+        },
+        {
+          "ID": 61799,
+          "Title": "Ollscoil Chicago"
+        },
+        {
+          "ID": 62762,
+          "Title": "Ollscoil Bonn"
+        },
+        {
+          "ID": 62769,
+          "Title": "Ollscoil Göttingen"
+        },
+        {
+          "ID": 64636,
+          "Title": "Imperial College London"
+        },
+        {
+          "ID": 64649,
+          "Title": "Ollscoil Londain"
+        },
+        {
+          "ID": 64842,
+          "Title": "Ollscoil Kingston"
+        },
+        {
+          "ID": 69526,
+          "Title": "Bliain Nua na Síneach"
+        },
+        {
+          "ID": 72540,
+          "Title": "2017 Ionsaí Westminster"
+        },
+        {
+          "ID": 75929,
+          "Title": "Ollscoil Washington in St. Louis"
+        },
+        {
+          "ID": 76706,
+          "Title": "Pizza Hut"
+        },
+        {
+          "ID": 83530,
+          "Title": "Ollscoil Stáit Moscó"
+        }
+      ]
+    },
+    {
+      "ID": 2147483647,
+      "Title": "Technology and applied sciences",
+      "Categories": [
+        {
+          "ID": 2872,
+          "Title": "Catagóir:Iompar"
+        },
+        {
+          "ID": 10630,
+          "Title": "Catagóir:Innealtóireacht"
+        },
+        {
+          "ID": 11924,
+          "Title": "Catagóir:Ríomhaireacht"
+        },
+        {
+          "ID": 11945,
+          "Title": "Catagóir:Idirlíon"
+        },
+        {
+          "ID": 12222,
+          "Title": "Catagóir:Bunachair shonraí"
+        },
+        {
+          "ID": 21166,
+          "Title": "Catagóir:Eolaíochtaí feidhmeacha"
+        },
+        {
+          "ID": 23271,
+          "Title": "Catagóir:Teicneolaíocht"
+        },
+        {
+          "ID": 54854,
+          "Title": "Catagóir:Aipeanna"
+        }
+      ],
+      "Articles": [
+        {
+          "ID": 27112,
+          "Title": "Balla (struchtúr)"
+        },
+        {
+          "ID": 48937,
+          "Title": "Guma coganta"
+        },
+        {
+          "ID": 61288,
+          "Title": "Pepsi"
+        }
+      ]
+    }
+  ],
+  "Filters": [
+    {
+      "ID": 3577,
+      "Title": "Catagóir:Idirdhealáin"
+    }
+  ]
+}

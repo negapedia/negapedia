@@ -1,0 +1,481 @@
+{
+  "Language": "hak",
+  "Topics": [
+    {
+      "ID": 2147483637,
+      "Title": "Culture and the arts",
+      "Categories": [
+        {
+          "ID": 29,
+          "Title": "分類:Vùn-fa"
+        },
+        {
+          "ID": 35,
+          "Title": "分類:Thí-yuk"
+        },
+        {
+          "ID": 587,
+          "Title": "分類:Sṳ̍t-phín"
+        },
+        {
+          "ID": 588,
+          "Title": "分類:Yím-sṳ̍t"
+        },
+        {
+          "ID": 5433,
+          "Title": "分類:Ngân-set"
+        },
+        {
+          "ID": 10388,
+          "Title": "分類:Ngi-su̍t"
+        },
+        {
+          "ID": 16818,
+          "Title": "分類:Ngu-lo̍k"
+        }
+      ],
+      "Articles": [
+        {
+          "ID": 23,
+          "Title": "Pak-khô-chhiòn-sû"
+        },
+        {
+          "ID": 228,
+          "Title": "Kâ-pî"
+        },
+        {
+          "ID": 517,
+          "Title": "Chû-é"
+        },
+        {
+          "ID": 694,
+          "Title": "Mien-pâu"
+        },
+        {
+          "ID": 1394,
+          "Title": "Vù-kau-piáng"
+        },
+        {
+          "ID": 2866,
+          "Title": "Wikipedia"
+        },
+        {
+          "ID": 7246,
+          "Title": "Buckingham Kiûng"
+        },
+        {
+          "ID": 8583,
+          "Title": "Sân-chû"
+        },
+        {
+          "ID": 8584,
+          "Title": "Chû-su̍k"
+        },
+        {
+          "ID": 15486,
+          "Title": "Lón"
+        },
+        {
+          "ID": 16215,
+          "Title": "Pên-kit-lìn"
+        },
+        {
+          "ID": 16229,
+          "Title": "Phî-lu"
+        },
+        {
+          "ID": 16350,
+          "Title": "Hâ-mu"
+        }
+      ]
+    },
+    {
+      "ID": 2147483638,
+      "Title": "Geography and places",
+      "Categories": [
+        {
+          "ID": 26,
+          "Title": "分類:Thi-lî"
+        }
+      ],
+      "Articles": [
+        {
+          "ID": 107,
+          "Title": "Ngìn"
+        },
+        {
+          "ID": 170,
+          "Title": "Au-chû"
+        },
+        {
+          "ID": 281,
+          "Title": "Mién-thien"
+        },
+        {
+          "ID": 5035,
+          "Title": "Pâ-lì"
+        },
+        {
+          "ID": 6196,
+          "Title": "Queensland"
+        },
+        {
+          "ID": 8338,
+          "Title": "Canberra"
+        },
+        {
+          "ID": 9776,
+          "Title": "Venezia"
+        }
+      ]
+    },
+    {
+      "ID": 2147483639,
+      "Title": "Health and fitness",
+      "Categories": [
+        {
+          "ID": 601,
+          "Title": "分類:Yî-ho̍k"
+        },
+        {
+          "ID": 5011,
+          "Title": "分類:Khien-không"
+        },
+        {
+          "ID": 5887,
+          "Title": "分類:Khien-không Khô-ho̍k"
+        }
+      ]
+    },
+    {
+      "ID": 2147483640,
+      "Title": "History and events",
+      "Categories": [
+        {
+          "ID": 30,
+          "Title": "分類:Li̍t-sṳ́"
+        },
+        {
+          "ID": 14027,
+          "Title": "分類:Kok-koet ke li̍t-sṳ́"
+        }
+      ],
+      "Articles": [
+        {
+          "ID": 10765,
+          "Title": "Donald Trump"
+        }
+      ]
+    },
+    {
+      "ID": 2147483641,
+      "Title": "Mathematics and logic",
+      "Categories": [
+        {
+          "ID": 4659,
+          "Title": "分類:Su-ho̍k"
+        }
+      ],
+      "Articles": [
+        {
+          "ID": 2822,
+          "Title": "Chhòng-thu"
+        }
+      ]
+    },
+    {
+      "ID": 2147483642,
+      "Title": "Nature and physical sciences",
+      "Categories": [
+        {
+          "ID": 24,
+          "Title": "分類:Khô-ho̍k"
+        },
+        {
+          "ID": 110,
+          "Title": "分類:Fa-ho̍k"
+        },
+        {
+          "ID": 112,
+          "Title": "分類:Vu̍t-lí-ho̍k"
+        },
+        {
+          "ID": 764,
+          "Title": "分類:Chhṳ-yèn"
+        },
+        {
+          "ID": 8501,
+          "Title": "分類:Chhṳ-yèn Khô-ho̍k"
+        }
+      ],
+      "Articles": [
+        {
+          "ID": 136,
+          "Title": "Lo̍k-thò"
+        },
+        {
+          "ID": 4333,
+          "Title": "Fân-son"
+        },
+        {
+          "ID": 5808,
+          "Title": "Pâu-siuk"
+        },
+        {
+          "ID": 5809,
+          "Title": "Vò-é"
+        },
+        {
+          "ID": 8752,
+          "Title": "Nò-mí"
+        },
+        {
+          "ID": 13153,
+          "Title": "Súi-sùn-fàn"
+        },
+        {
+          "ID": 13759,
+          "Title": "Fó"
+        },
+        {
+          "ID": 15474,
+          "Title": "Ha̍k-lón"
+        },
+        {
+          "ID": 15572,
+          "Title": "Chhó-mòi"
+        },
+        {
+          "ID": 15578,
+          "Title": "Fâ-chhoi"
+        },
+        {
+          "ID": 16368,
+          "Title": "Thó-mâ-tô"
+        },
+        {
+          "ID": 16390,
+          "Title": "Nên-mûng"
+        },
+        {
+          "ID": 16778,
+          "Title": "Hiông-kôa"
+        },
+        {
+          "ID": 18738,
+          "Title": "Lín-kun"
+        }
+      ]
+    },
+    {
+      "ID": 2147483643,
+      "Title": "People and self",
+      "Categories": [
+        {
+          "ID": 28,
+          "Title": "分類:Ngìn-vu̍t"
+        },
+        {
+          "ID": 13411,
+          "Title": "分類:Sên-fa̍t"
+        },
+        {
+          "ID": 16662,
+          "Title": "分類:Siang-sṳ"
+        }
+      ],
+      "Articles": [
+        {
+          "ID": 2574,
+          "Title": "Bill Gates"
+        },
+        {
+          "ID": 9125,
+          "Title": "Adolf Hitler"
+        },
+        {
+          "ID": 13514,
+          "Title": "Ted Cruz"
+        },
+        {
+          "ID": 14558,
+          "Title": "Cristoforo Colombo"
+        },
+        {
+          "ID": 16119,
+          "Title": "Richard Wagner"
+        }
+      ]
+    },
+    {
+      "ID": 2147483644,
+      "Title": "Philosophy and thinking",
+      "Categories": [
+        {
+          "ID": 34,
+          "Title": "分類:Chet-ho̍k"
+        }
+      ],
+      "Articles": [
+        {
+          "ID": 18733,
+          "Title": "Fôn-hí"
+        }
+      ]
+    },
+    {
+      "ID": 2147483645,
+      "Title": "Religion and belief systems",
+      "Categories": [
+        {
+          "ID": 33,
+          "Title": "分類:Chûng-kau"
+        }
+      ]
+    },
+    {
+      "ID": 2147483646,
+      "Title": "Society and social sciences",
+      "Categories": [
+        {
+          "ID": 31,
+          "Title": "分類:Sa-fi"
+        },
+        {
+          "ID": 99,
+          "Title": "分類:Ngìn-vùn Khô-ho̍k"
+        },
+        {
+          "ID": 3282,
+          "Title": "分類:Koet-chi Chû-chṳt"
+        },
+        {
+          "ID": 7798,
+          "Title": "分類:Sa-fi Khô-ho̍k"
+        },
+        {
+          "ID": 10390,
+          "Title": "分類:Fap-li̍t"
+        }
+      ],
+      "Articles": [
+        {
+          "ID": 507,
+          "Title": "Chile"
+        },
+        {
+          "ID": 557,
+          "Title": "Iran"
+        },
+        {
+          "ID": 632,
+          "Title": "Harvard Thai-ho̍k"
+        },
+        {
+          "ID": 910,
+          "Title": "Oxford Thai-ho̍k"
+        },
+        {
+          "ID": 941,
+          "Title": "Cambridge Thai-ho̍k"
+        },
+        {
+          "ID": 942,
+          "Title": "Stanford Thai-ho̍k"
+        },
+        {
+          "ID": 943,
+          "Title": "Princeton Thai-ho̍k"
+        },
+        {
+          "ID": 1485,
+          "Title": "Lùn-tûn Ti-koet Ho̍k-yen"
+        },
+        {
+          "ID": 1486,
+          "Title": "Chicago Thai-ho̍k"
+        },
+        {
+          "ID": 3202,
+          "Title": "Chhûn-chiet"
+        },
+        {
+          "ID": 3280,
+          "Title": "Êu-chû Lièn-mèn"
+        },
+        {
+          "ID": 6235,
+          "Title": "BP"
+        },
+        {
+          "ID": 6838,
+          "Title": "Massachusetts Lî-kûng Ho̍k-yen"
+        },
+        {
+          "ID": 6841,
+          "Title": "Lùn-tûn Thai-ho̍k"
+        },
+        {
+          "ID": 7935,
+          "Title": "Würzburg Thai-ho̍k"
+        },
+        {
+          "ID": 8251,
+          "Title": "Pizza Hut"
+        },
+        {
+          "ID": 8863,
+          "Title": "Boston Thai-ho̍k"
+        },
+        {
+          "ID": 10608,
+          "Title": "Barbados"
+        },
+        {
+          "ID": 10771,
+          "Title": "Pennsylvania Thai-ho̍k"
+        },
+        {
+          "ID": 11888,
+          "Title": "Kûng-li̍p Thai-ho̍k"
+        },
+        {
+          "ID": 18078,
+          "Title": "Washington Thai-ho̍k"
+        }
+      ]
+    },
+    {
+      "ID": 2147483647,
+      "Title": "Technology and applied sciences",
+      "Categories": [
+        {
+          "ID": 25,
+          "Title": "分類:Kî-su̍t"
+        },
+        {
+          "ID": 2577,
+          "Title": "分類:Kâu-thûng"
+        },
+        {
+          "ID": 5040,
+          "Title": "分類:Kûng-chhàng"
+        },
+        {
+          "ID": 7714,
+          "Title": "分類:Thien-nó"
+        }
+      ]
+    }
+  ],
+  "Filters": [
+    {
+      "ID": 15501,
+      "Title": "分類:Yù khi-ngi ke ya̍p"
+    },
+    {
+      "ID": 16060,
+      "Title": "分類:Ám-hí ke fûn-lui"
+    }
+  ]
+}

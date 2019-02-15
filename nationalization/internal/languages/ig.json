@@ -1,0 +1,159 @@
+{
+  "Language": "ig",
+  "Topics": [
+    {
+      "ID": 2147483637,
+      "Title": "Culture and the arts",
+      "Categories": [
+        {
+          "ID": 7168,
+          "Title": "Òtù:Àgwà"
+        },
+        {
+          "ID": 7169,
+          "Title": "Òtù:Ǹkà"
+        }
+      ],
+      "Articles": [
+        {
+          "ID": 1921,
+          "Title": "Wikipidia"
+        },
+        {
+          "ID": 3980,
+          "Title": "Achicha"
+        }
+      ]
+    },
+    {
+      "ID": 2147483638,
+      "Title": "Geography and places",
+      "Categories": [
+        {
+          "ID": 1904,
+          "Title": "Òtù:Geography"
+        }
+      ],
+      "Articles": [
+        {
+          "ID": 2418,
+          "Title": "Ostraliya"
+        },
+        {
+          "ID": 4154,
+          "Title": "Madụ̀"
+        }
+      ]
+    },
+    {
+      "ID": 2147483639,
+      "Title": "Health and fitness",
+      "Categories": [
+        {
+          "ID": 7206,
+          "Title": "Òtù:Ahụ ike"
+        }
+      ]
+    },
+    {
+      "ID": 2147483640,
+      "Title": "History and events",
+      "Categories": [
+        {
+          "ID": 4163,
+          "Title": "Òtù:Ákíkó mbu"
+        }
+      ],
+      "Articles": [
+        {
+          "ID": 7512,
+          "Title": "Donald Trump"
+        }
+      ]
+    },
+    {
+      "ID": 2147483641,
+      "Title": "Mathematics and logic",
+      "Categories": [
+        {
+          "ID": 4596,
+          "Title": "Òtù:Ómárí"
+        },
+        {
+          "ID": 4702,
+          "Title": "Òtù:Ọmúmú-ónúọgụgụ"
+        }
+      ]
+    },
+    {
+      "ID": 2147483642,
+      "Title": "Nature and physical sciences",
+      "Categories": [
+        {
+          "ID": 7235,
+          "Title": "Òtù:Amamihe"
+        }
+      ],
+      "Articles": [
+        {
+          "ID": 4061,
+          "Title": "Etemete mmírí"
+        },
+        {
+          "ID": 4345,
+          "Title": "Oskàpà"
+        },
+        {
+          "ID": 7204,
+          "Title": "Ọku"
+        }
+      ]
+    },
+    {
+      "ID": 2147483643,
+      "Title": "People and self"
+    },
+    {
+      "ID": 2147483644,
+      "Title": "Philosophy and thinking"
+    },
+    {
+      "ID": 2147483645,
+      "Title": "Religion and belief systems"
+    },
+    {
+      "ID": 2147483646,
+      "Title": "Society and social sciences",
+      "Articles": [
+        {
+          "ID": 4341,
+          "Title": "Barbados"
+        },
+        {
+          "ID": 6744,
+          "Title": "Chile"
+        },
+        {
+          "ID": 7979,
+          "Title": "Pizza Hut"
+        }
+      ]
+    },
+    {
+      "ID": 2147483647,
+      "Title": "Technology and applied sciences",
+      "Categories": [
+        {
+          "ID": 7214,
+          "Title": "Òtù:Intanet"
+        }
+      ]
+    }
+  ],
+  "Filters": [
+    {
+      "ID": 2357,
+      "Title": "Òtù:Disambiguation"
+    }
+  ]
+}

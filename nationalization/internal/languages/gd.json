@@ -1,0 +1,491 @@
+{
+  "Language": "gd",
+  "Topics": [
+    {
+      "ID": 2147483637,
+      "Title": "Culture and the arts",
+      "Categories": [
+        {
+          "ID": 4095,
+          "Title": "Roinn-seòrsa:Spòrs"
+        },
+        {
+          "ID": 4714,
+          "Title": "Roinn-seòrsa:Cultar"
+        },
+        {
+          "ID": 9221,
+          "Title": "Roinn-seòrsa:Ealain"
+        }
+      ],
+      "Articles": [
+        {
+          "ID": 1852,
+          "Title": "Led Zeppelin"
+        },
+        {
+          "ID": 1899,
+          "Title": "Muc"
+        },
+        {
+          "ID": 4036,
+          "Title": "Leabhar-eòlais"
+        },
+        {
+          "ID": 4104,
+          "Title": "Uicipeid"
+        },
+        {
+          "ID": 4391,
+          "Title": "Aran"
+        },
+        {
+          "ID": 4600,
+          "Title": "Leann"
+        },
+        {
+          "ID": 5538,
+          "Title": "Pàidh"
+        },
+        {
+          "ID": 5584,
+          "Title": "Pastà"
+        },
+        {
+          "ID": 5901,
+          "Title": "Reòiteag"
+        },
+        {
+          "ID": 5919,
+          "Title": "Ugh"
+        },
+        {
+          "ID": 5949,
+          "Title": "Torc fiadhach"
+        },
+        {
+          "ID": 6335,
+          "Title": "Briosgaid"
+        },
+        {
+          "ID": 8172,
+          "Title": "Teòclaid"
+        },
+        {
+          "ID": 8773,
+          "Title": "Green Day"
+        },
+        {
+          "ID": 9320,
+          "Title": "Cofaidh"
+        },
+        {
+          "ID": 9421,
+          "Title": "Sgt. Pepper's Lonely Hearts Club Band"
+        },
+        {
+          "ID": 14723,
+          "Title": "Sùbhan"
+        }
+      ]
+    },
+    {
+      "ID": 2147483638,
+      "Title": "Geography and places",
+      "Categories": [
+        {
+          "ID": 6936,
+          "Title": "Roinn-seòrsa:Cruinn-eòlas"
+        }
+      ],
+      "Articles": [
+        {
+          "ID": 1504,
+          "Title": "Astràilia"
+        },
+        {
+          "ID": 1519,
+          "Title": "Queensland"
+        },
+        {
+          "ID": 1526,
+          "Title": "Canberra"
+        },
+        {
+          "ID": 1631,
+          "Title": "Mianmar"
+        },
+        {
+          "ID": 3676,
+          "Title": "Paris"
+        },
+        {
+          "ID": 5385,
+          "Title": "Biorramaid"
+        },
+        {
+          "ID": 15316,
+          "Title": "Obar Phuill"
+        },
+        {
+          "ID": 20411,
+          "Title": "Venezia"
+        }
+      ]
+    },
+    {
+      "ID": 2147483639,
+      "Title": "Health and fitness"
+    },
+    {
+      "ID": 2147483640,
+      "Title": "History and events",
+      "Categories": [
+        {
+          "ID": 4501,
+          "Title": "Roinn-seòrsa:Eachdraidh"
+        }
+      ],
+      "Articles": [
+        {
+          "ID": 16944,
+          "Title": "Donald Trump"
+        },
+        {
+          "ID": 19268,
+          "Title": "9/11"
+        }
+      ]
+    },
+    {
+      "ID": 2147483641,
+      "Title": "Mathematics and logic",
+      "Categories": [
+        {
+          "ID": 9602,
+          "Title": "Roinn-seòrsa:Matamataig"
+        }
+      ]
+    },
+    {
+      "ID": 2147483642,
+      "Title": "Nature and physical sciences",
+      "Categories": [
+        {
+          "ID": 4529,
+          "Title": "Roinn-seòrsa:Eòlas"
+        },
+        {
+          "ID": 5103,
+          "Title": "Roinn-seòrsa:Eòlas-nàdair"
+        },
+        {
+          "ID": 19849,
+          "Title": "Roinn-seòrsa:Ceimigeachd"
+        }
+      ],
+      "Articles": [
+        {
+          "ID": 2350,
+          "Title": "Bod"
+        },
+        {
+          "ID": 3436,
+          "Title": "Falt ruadh"
+        },
+        {
+          "ID": 3968,
+          "Title": "Teine"
+        },
+        {
+          "ID": 4236,
+          "Title": "Anaconda"
+        },
+        {
+          "ID": 4383,
+          "Title": "Mùn"
+        },
+        {
+          "ID": 5115,
+          "Title": "Ball-gineamhainn"
+        },
+        {
+          "ID": 5333,
+          "Title": "Liomaid"
+        },
+        {
+          "ID": 5950,
+          "Title": "Càmhal"
+        },
+        {
+          "ID": 9915,
+          "Title": "Rionnach"
+        },
+        {
+          "ID": 13838,
+          "Title": "Cat mòr"
+        },
+        {
+          "ID": 16370,
+          "Title": "Cruithneachd-Innseanach"
+        },
+        {
+          "ID": 16761,
+          "Title": "Tomàto"
+        }
+      ]
+    },
+    {
+      "ID": 2147483643,
+      "Title": "People and self",
+      "Articles": [
+        {
+          "ID": 1171,
+          "Title": "Irving Langmuir"
+        },
+        {
+          "ID": 1887,
+          "Title": "John Lennon"
+        },
+        {
+          "ID": 1889,
+          "Title": "George Harrison"
+        },
+        {
+          "ID": 3099,
+          "Title": "Cristoforo Colombo"
+        },
+        {
+          "ID": 3106,
+          "Title": "Galileo Galilei"
+        },
+        {
+          "ID": 3142,
+          "Title": "Adam Smith"
+        },
+        {
+          "ID": 4871,
+          "Title": "Adolf Hitler"
+        },
+        {
+          "ID": 11062,
+          "Title": "William Blake"
+        },
+        {
+          "ID": 15452,
+          "Title": "Joseph Smith Jr"
+        },
+        {
+          "ID": 16244,
+          "Title": "Richard Wagner"
+        },
+        {
+          "ID": 16245,
+          "Title": "Sigmund Freud"
+        },
+        {
+          "ID": 17740,
+          "Title": "Alexander Fleming"
+        },
+        {
+          "ID": 18490,
+          "Title": "Noam Chomsky"
+        },
+        {
+          "ID": 18769,
+          "Title": "Bill Gates"
+        },
+        {
+          "ID": 18779,
+          "Title": "Alan Turing"
+        },
+        {
+          "ID": 36533,
+          "Title": "Johannes Kepler"
+        }
+      ]
+    },
+    {
+      "ID": 2147483644,
+      "Title": "Philosophy and thinking",
+      "Categories": [
+        {
+          "ID": 6379,
+          "Title": "Roinn-seòrsa:Feallsanachd"
+        }
+      ]
+    },
+    {
+      "ID": 2147483645,
+      "Title": "Religion and belief systems",
+      "Categories": [
+        {
+          "ID": 4699,
+          "Title": "Roinn-seòrsa:Creideamh"
+        }
+      ]
+    },
+    {
+      "ID": 2147483646,
+      "Title": "Society and social sciences",
+      "Categories": [
+        {
+          "ID": 6382,
+          "Title": "Roinn-seòrsa:Lagh"
+        },
+        {
+          "ID": 10063,
+          "Title": "Roinn-seòrsa:Boireann-dhligheachas"
+        }
+      ],
+      "Articles": [
+        {
+          "ID": 1002,
+          "Title": "Ioràn"
+        },
+        {
+          "ID": 1696,
+          "Title": "An t-Sile"
+        },
+        {
+          "ID": 2859,
+          "Title": "Oilthigh Ghlaschu"
+        },
+        {
+          "ID": 3042,
+          "Title": "Oilthigh Oxford"
+        },
+        {
+          "ID": 3050,
+          "Title": "An t-Aonadh Eòrpach"
+        },
+        {
+          "ID": 3750,
+          "Title": "Oilthigh Lunnainn"
+        },
+        {
+          "ID": 5534,
+          "Title": "Urras"
+        },
+        {
+          "ID": 8967,
+          "Title": "Oilthigh Washington"
+        },
+        {
+          "ID": 9821,
+          "Title": "Oilthigh Bhologna"
+        },
+        {
+          "ID": 9826,
+          "Title": "Oilthigh Obar Dheathain"
+        },
+        {
+          "ID": 9831,
+          "Title": "Oilthigh Chill Rìmhinn"
+        },
+        {
+          "ID": 9882,
+          "Title": "Oilthigh Chologne"
+        },
+        {
+          "ID": 9953,
+          "Title": "Oilthigh Leipzig"
+        },
+        {
+          "ID": 10479,
+          "Title": "Barbados"
+        },
+        {
+          "ID": 11553,
+          "Title": "Oilthigh Chambridge"
+        },
+        {
+          "ID": 11674,
+          "Title": "Oilthigh Phadua"
+        },
+        {
+          "ID": 13456,
+          "Title": "Oilthigh Harvard"
+        },
+        {
+          "ID": 16163,
+          "Title": "Oilthigh Obar Thatha"
+        },
+        {
+          "ID": 16167,
+          "Title": "Oilthigh Napier"
+        },
+        {
+          "ID": 20166,
+          "Title": "Oilthigh Phrinceton"
+        },
+        {
+          "ID": 20167,
+          "Title": "Oilthigh Phennsylvania"
+        },
+        {
+          "ID": 20170,
+          "Title": "Oilthigh Cholumbia"
+        },
+        {
+          "ID": 21795,
+          "Title": "Oilthigh Tübingen"
+        },
+        {
+          "ID": 33816,
+          "Title": "Oilthigh na Bànrigh, Kingston"
+        },
+        {
+          "ID": 35204,
+          "Title": "Oilthigh Uppsala"
+        },
+        {
+          "ID": 35207,
+          "Title": "Oilthigh Stockholm"
+        },
+        {
+          "ID": 35209,
+          "Title": "Oilthigh Ghöteborg"
+        },
+        {
+          "ID": 35232,
+          "Title": "Oilthigh Linnaeus"
+        },
+        {
+          "ID": 36997,
+          "Title": "Oilthigh Vienna"
+        },
+        {
+          "ID": 38094,
+          "Title": "Oilthigh East Anglia"
+        }
+      ]
+    },
+    {
+      "ID": 2147483647,
+      "Title": "Technology and applied sciences",
+      "Categories": [
+        {
+          "ID": 6656,
+          "Title": "Roinn-seòrsa:Teicneòlas"
+        },
+        {
+          "ID": 14267,
+          "Title": "Roinn-seòrsa:Eadar-lìon"
+        }
+      ],
+      "Articles": [
+        {
+          "ID": 5107,
+          "Title": "Balla"
+        }
+      ]
+    }
+  ],
+  "Filters": [
+    {
+      "ID": 9549,
+      "Title": "Roinn-seòrsa:Soilleireachadh"
+    }
+  ]
+}

@@ -1,0 +1,251 @@
+{
+  "Language": "zu",
+  "Topics": [
+    {
+      "ID": 2147483637,
+      "Title": "Culture and the arts",
+      "Categories": [
+        {
+          "ID": 1892,
+          "Title": "Category:Ezemidlalo"
+        },
+        {
+          "ID": 4038,
+          "Title": "Category:Amabhendi"
+        },
+        {
+          "ID": 4099,
+          "Title": "Category:Amafilimu"
+        },
+        {
+          "ID": 7599,
+          "Title": "Category:Ukudla"
+        },
+        {
+          "ID": 7639,
+          "Title": "Category:Ubuciko"
+        },
+        {
+          "ID": 7640,
+          "Title": "Category:Isiko"
+        },
+        {
+          "ID": 7940,
+          "Title": "Category:Ukudla neziphuzo"
+        }
+      ],
+      "Articles": [
+        {
+          "ID": 3811,
+          "Title": "Amaqanda"
+        },
+        {
+          "ID": 3946,
+          "Title": "Wikipedia"
+        },
+        {
+          "ID": 4647,
+          "Title": "Ikhofi"
+        },
+        {
+          "ID": 9543,
+          "Title": "Ubhiya"
+        },
+        {
+          "ID": 9957,
+          "Title": "Isinkwa"
+        }
+      ]
+    },
+    {
+      "ID": 2147483638,
+      "Title": "Geography and places",
+      "Categories": [
+        {
+          "ID": 7642,
+          "Title": "Category:Ezezwe"
+        }
+      ],
+      "Articles": [
+        {
+          "ID": 1726,
+          "Title": "I-Ostreliya"
+        },
+        {
+          "ID": 3770,
+          "Title": "IParisi"
+        },
+        {
+          "ID": 7309,
+          "Title": "Umuntu"
+        }
+      ]
+    },
+    {
+      "ID": 2147483639,
+      "Title": "Health and fitness",
+      "Categories": [
+        {
+          "ID": 7643,
+          "Title": "Category:Ezempilo"
+        }
+      ]
+    },
+    {
+      "ID": 2147483640,
+      "Title": "History and events",
+      "Categories": [
+        {
+          "ID": 7644,
+          "Title": "Category:Umlando"
+        }
+      ],
+      "Articles": [
+        {
+          "ID": 7369,
+          "Title": "Donald Trump"
+        }
+      ]
+    },
+    {
+      "ID": 2147483641,
+      "Title": "Mathematics and logic",
+      "Categories": [
+        {
+          "ID": 4019,
+          "Title": "Category:Imathemathiki"
+        },
+        {
+          "ID": 7647,
+          "Title": "Category:Izibalo"
+        }
+      ]
+    },
+    {
+      "ID": 2147483642,
+      "Title": "Nature and physical sciences",
+      "Categories": [
+        {
+          "ID": 4299,
+          "Title": "Category:ISayensi"
+        },
+        {
+          "ID": 7601,
+          "Title": "Category:Imvelo"
+        }
+      ],
+      "Articles": [
+        {
+          "ID": 2162,
+          "Title": "Utamatisi"
+        },
+        {
+          "ID": 3587,
+          "Title": "I-eliki"
+        }
+      ]
+    },
+    {
+      "ID": 2147483643,
+      "Title": "People and self",
+      "Categories": [
+        {
+          "ID": 7646,
+          "Title": "Category:Impilo"
+        },
+        {
+          "ID": 7648,
+          "Title": "Category:Abantu"
+        }
+      ],
+      "Articles": [
+        {
+          "ID": 4245,
+          "Title": "George Harrison"
+        },
+        {
+          "ID": 4257,
+          "Title": "John Lennon"
+        },
+        {
+          "ID": 8099,
+          "Title": "The Big Bang Theory (Izinhlelo ze-TV)"
+        }
+      ]
+    },
+    {
+      "ID": 2147483644,
+      "Title": "Philosophy and thinking",
+      "Categories": [
+        {
+          "ID": 7649,
+          "Title": "Category:Inkolelo"
+        }
+      ]
+    },
+    {
+      "ID": 2147483645,
+      "Title": "Religion and belief systems",
+      "Categories": [
+        {
+          "ID": 7335,
+          "Title": "Category:Inkolo"
+        }
+      ]
+    },
+    {
+      "ID": 2147483646,
+      "Title": "Society and social sciences",
+      "Categories": [
+        {
+          "ID": 7645,
+          "Title": "Category:Umthetho"
+        }
+      ],
+      "Articles": [
+        {
+          "ID": 3471,
+          "Title": "I-Irani"
+        },
+        {
+          "ID": 4054,
+          "Title": "University of London"
+        },
+        {
+          "ID": 4055,
+          "Title": "University of Sussex"
+        },
+        {
+          "ID": 5700,
+          "Title": "ITshile"
+        },
+        {
+          "ID": 6697,
+          "Title": "University of Tübingen"
+        },
+        {
+          "ID": 7581,
+          "Title": "Pizza Hut"
+        },
+        {
+          "ID": 9632,
+          "Title": "INyuvesi yakwaZulu-Natali"
+        }
+      ]
+    },
+    {
+      "ID": 2147483647,
+      "Title": "Technology and applied sciences",
+      "Categories": [
+        {
+          "ID": 7608,
+          "Title": "Category:Ubuchwepheshe"
+        },
+        {
+          "ID": 7712,
+          "Title": "Category:I-Intanethi"
+        }
+      ]
+    }
+  ]
+}

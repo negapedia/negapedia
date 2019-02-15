@@ -1,0 +1,269 @@
+{
+  "Language": "mt",
+  "Topics": [
+    {
+      "ID": 2147483637,
+      "Title": "Culture and the arts",
+      "Categories": [
+        {
+          "ID": 1239,
+          "Title": "Kategorija:Kultura"
+        },
+        {
+          "ID": 1241,
+          "Title": "Kategorija:Arti"
+        },
+        {
+          "ID": 1257,
+          "Title": "Kategorija:Kċina"
+        },
+        {
+          "ID": 1258,
+          "Title": "Kategorija:Divertiment"
+        },
+        {
+          "ID": 1261,
+          "Title": "Kategorija:Sport"
+        }
+      ],
+      "Articles": [
+        {
+          "ID": 984,
+          "Title": "Wikipedija"
+        },
+        {
+          "ID": 1434,
+          "Title": "Enċiklopedija"
+        },
+        {
+          "ID": 24059,
+          "Title": "Ħanżir"
+        }
+      ]
+    },
+    {
+      "ID": 2147483638,
+      "Title": "Geography and places",
+      "Categories": [
+        {
+          "ID": 1186,
+          "Title": "Kategorija:Ġeografija"
+        }
+      ],
+      "Articles": [
+        {
+          "ID": 2517,
+          "Title": "Awstralja"
+        },
+        {
+          "ID": 3741,
+          "Title": "Bniedem"
+        },
+        {
+          "ID": 17679,
+          "Title": "Burma"
+        },
+        {
+          "ID": 23230,
+          "Title": "Pariġi"
+        }
+      ]
+    },
+    {
+      "ID": 2147483639,
+      "Title": "Health and fitness",
+      "Categories": [
+        {
+          "ID": 1256,
+          "Title": "Kategorija:Saħħa"
+        }
+      ]
+    },
+    {
+      "ID": 2147483640,
+      "Title": "History and events",
+      "Categories": [
+        {
+          "ID": 1187,
+          "Title": "Kategorija:Storja"
+        },
+        {
+          "ID": 8269,
+          "Title": "Kategorija:Avvenimenti"
+        }
+      ],
+      "Articles": [
+        {
+          "ID": 16439,
+          "Title": "Attakki tal-11 ta' Settembru"
+        },
+        {
+          "ID": 23279,
+          "Title": "Donald Trump"
+        }
+      ]
+    },
+    {
+      "ID": 2147483641,
+      "Title": "Mathematics and logic",
+      "Categories": [
+        {
+          "ID": 1178,
+          "Title": "Kategorija:Matematika"
+        },
+        {
+          "ID": 16201,
+          "Title": "Kategorija:Probabbiltà u statistika"
+        }
+      ]
+    },
+    {
+      "ID": 2147483642,
+      "Title": "Nature and physical sciences",
+      "Categories": [
+        {
+          "ID": 1168,
+          "Title": "Kategorija:Xjenza"
+        },
+        {
+          "ID": 1176,
+          "Title": "Kategorija:Fiżika"
+        },
+        {
+          "ID": 1182,
+          "Title": "Kategorija:Kimika"
+        }
+      ],
+      "Articles": [
+        {
+          "ID": 20850,
+          "Title": "Lumija"
+        }
+      ]
+    },
+    {
+      "ID": 2147483643,
+      "Title": "People and self",
+      "Articles": [
+        {
+          "ID": 2936,
+          "Title": "Adolf Hitler"
+        },
+        {
+          "ID": 2938,
+          "Title": "Galileo Galilei"
+        },
+        {
+          "ID": 3513,
+          "Title": "Kristofru Kolombu"
+        },
+        {
+          "ID": 3747,
+          "Title": "Alan Turing"
+        },
+        {
+          "ID": 3853,
+          "Title": "Bill Gates"
+        },
+        {
+          "ID": 16728,
+          "Title": "René Descartes"
+        }
+      ]
+    },
+    {
+      "ID": 2147483644,
+      "Title": "Philosophy and thinking",
+      "Categories": [
+        {
+          "ID": 1192,
+          "Title": "Kategorija:Filosofija"
+        }
+      ],
+      "Articles": [
+        {
+          "ID": 4632,
+          "Title": "Fatt"
+        }
+      ]
+    },
+    {
+      "ID": 2147483645,
+      "Title": "Religion and belief systems",
+      "Categories": [
+        {
+          "ID": 1288,
+          "Title": "Kategorija:Reliġjon"
+        }
+      ]
+    },
+    {
+      "ID": 2147483646,
+      "Title": "Society and social sciences",
+      "Categories": [
+        {
+          "ID": 1181,
+          "Title": "Kategorija:Xjenza soċjali"
+        },
+        {
+          "ID": 3096,
+          "Title": "Kategorija:Xjenzi soċjali"
+        }
+      ],
+      "Articles": [
+        {
+          "ID": 1119,
+          "Title": "Unjoni Ewropea"
+        },
+        {
+          "ID": 13013,
+          "Title": "Ċili"
+        },
+        {
+          "ID": 17674,
+          "Title": "Barbados"
+        },
+        {
+          "ID": 20701,
+          "Title": "Iran"
+        }
+      ]
+    },
+    {
+      "ID": 2147483647,
+      "Title": "Technology and applied sciences",
+      "Categories": [
+        {
+          "ID": 1180,
+          "Title": "Kategorija:Xjenza Applikati"
+        },
+        {
+          "ID": 1202,
+          "Title": "Kategorija:Elettronika"
+        },
+        {
+          "ID": 1205,
+          "Title": "Kategorija:Internet"
+        },
+        {
+          "ID": 1208,
+          "Title": "Kategorija:Teknoloġija"
+        },
+        {
+          "ID": 1210,
+          "Title": "Kategorija:Trasport"
+        }
+      ]
+    }
+  ],
+  "Filters": [
+    {
+      "ID": 2434,
+      "Title": "Kategorija:Diżambigwazzjoni"
+    },
+    {
+      "ID": 8623,
+      "Title": "Kategorija:Kategoriji moħbija"
+    }
+  ]
+}

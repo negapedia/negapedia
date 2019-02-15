@@ -1,0 +1,759 @@
+{
+  "Language": "uz",
+  "Topics": [
+    {
+      "ID": 2147483637,
+      "Title": "Culture and the arts",
+      "Categories": [
+        {
+          "ID": 1922,
+          "Title": "Turkum:Madaniyat"
+        },
+        {
+          "ID": 13050,
+          "Title": "Turkum:Sanʼat"
+        },
+        {
+          "ID": 15556,
+          "Title": "Turkum:Musiqiy guruhlar"
+        },
+        {
+          "ID": 16525,
+          "Title": "Turkum:Filmlar"
+        },
+        {
+          "ID": 18307,
+          "Title": "Turkum:Sport"
+        },
+        {
+          "ID": 21806,
+          "Title": "Turkum:Taomlar"
+        },
+        {
+          "ID": 21904,
+          "Title": "Turkum:Oziq-ovqat"
+        }
+      ],
+      "Articles": [
+        {
+          "ID": 1486,
+          "Title": "Vikipediya"
+        },
+        {
+          "ID": 1700,
+          "Title": "Ensiklopediya"
+        },
+        {
+          "ID": 2143,
+          "Title": "Qahva"
+        },
+        {
+          "ID": 14738,
+          "Title": "Non"
+        },
+        {
+          "ID": 14902,
+          "Title": "Green Day"
+        },
+        {
+          "ID": 15444,
+          "Title": "Pivo"
+        },
+        {
+          "ID": 15547,
+          "Title": "Led Zeppelin"
+        },
+        {
+          "ID": 15577,
+          "Title": "Rock guruh"
+        },
+        {
+          "ID": 16748,
+          "Title": "AC/DC"
+        },
+        {
+          "ID": 18400,
+          "Title": "Sugʻur kuni"
+        },
+        {
+          "ID": 20747,
+          "Title": "Realizm"
+        },
+        {
+          "ID": 152623,
+          "Title": "Toʻngʻiz"
+        },
+        {
+          "ID": 441231,
+          "Title": "Band (maʼnolari)"
+        },
+        {
+          "ID": 441767,
+          "Title": "Bekon"
+        },
+        {
+          "ID": 442394,
+          "Title": "Biskvit"
+        },
+        {
+          "ID": 502893,
+          "Title": "Kakao"
+        },
+        {
+          "ID": 524331,
+          "Title": "Makaron mahsulotlari"
+        },
+        {
+          "ID": 532517,
+          "Title": "Muzqaymoq"
+        },
+        {
+          "ID": 558217,
+          "Title": "Realizm (falsafa)"
+        },
+        {
+          "ID": 558222,
+          "Title": "Reallik"
+        },
+        {
+          "ID": 586632,
+          "Title": "Tuxum"
+        },
+        {
+          "ID": 606320,
+          "Title": "Chana"
+        },
+        {
+          "ID": 608826,
+          "Title": "Choʻchqa"
+        },
+        {
+          "ID": 643936,
+          "Title": "Xogvarts"
+        },
+        {
+          "ID": 652545,
+          "Title": "Hot-dog"
+        },
+        {
+          "ID": 672569,
+          "Title": "Eurovision qoʻshiq tanlovi 2017"
+        },
+        {
+          "ID": 673399,
+          "Title": "Eurovision qoʻshiq tanlovi 2018"
+        }
+      ]
+    },
+    {
+      "ID": 2147483638,
+      "Title": "Geography and places",
+      "Categories": [
+        {
+          "ID": 1043,
+          "Title": "Turkum:Geografiya"
+        },
+        {
+          "ID": 647413,
+          "Title": "Turkum:Meʼmoriy yodgorliklar"
+        }
+      ],
+      "Articles": [
+        {
+          "ID": 3679,
+          "Title": "Avstraliya (davlat)"
+        },
+        {
+          "ID": 4312,
+          "Title": "Parij"
+        },
+        {
+          "ID": 14541,
+          "Title": "Odam"
+        },
+        {
+          "ID": 18208,
+          "Title": "Birma"
+        },
+        {
+          "ID": 448554,
+          "Title": "Venesiya"
+        },
+        {
+          "ID": 503893,
+          "Title": "Kanberra"
+        },
+        {
+          "ID": 508015,
+          "Title": "Kvinslend"
+        },
+        {
+          "ID": 615234,
+          "Title": "Ehrom (bino)"
+        }
+      ]
+    },
+    {
+      "ID": 2147483639,
+      "Title": "Health and fitness",
+      "Categories": [
+        {
+          "ID": 17367,
+          "Title": "Turkum:Tibbiyot"
+        },
+        {
+          "ID": 21905,
+          "Title": "Turkum:Salomatlik"
+        }
+      ]
+    },
+    {
+      "ID": 2147483640,
+      "Title": "History and events",
+      "Categories": [
+        {
+          "ID": 1674,
+          "Title": "Turkum:Tarix"
+        },
+        {
+          "ID": 24076,
+          "Title": "Turkum:Voqealar"
+        }
+      ],
+      "Articles": [
+        {
+          "ID": 13490,
+          "Title": "2001-yil 11-sentabr terroristik hurujlari"
+        },
+        {
+          "ID": 168923,
+          "Title": "AQSh prezidentlik saylovi (2012)"
+        },
+        {
+          "ID": 585169,
+          "Title": "Troya urushi"
+        },
+        {
+          "ID": 658262,
+          "Title": "Donald Trump"
+        }
+      ]
+    },
+    {
+      "ID": 2147483641,
+      "Title": "Mathematics and logic",
+      "Categories": [
+        {
+          "ID": 1926,
+          "Title": "Turkum:Matematika"
+        },
+        {
+          "ID": 15963,
+          "Title": "Turkum:Mantiq"
+        },
+        {
+          "ID": 18427,
+          "Title": "Turkum:Statistika"
+        }
+      ]
+    },
+    {
+      "ID": 2147483642,
+      "Title": "Nature and physical sciences",
+      "Categories": [
+        {
+          "ID": 1797,
+          "Title": "Turkum:Fan"
+        },
+        {
+          "ID": 1927,
+          "Title": "Turkum:Fizika"
+        },
+        {
+          "ID": 2167,
+          "Title": "Turkum:Tabiiy fanlar"
+        },
+        {
+          "ID": 503315,
+          "Title": "Turkum:Zoologiya"
+        },
+        {
+          "ID": 645175,
+          "Title": "Turkum:Tabiat"
+        }
+      ],
+      "Articles": [
+        {
+          "ID": 14417,
+          "Title": "Tuya"
+        },
+        {
+          "ID": 24770,
+          "Title": "Penis"
+        },
+        {
+          "ID": 25163,
+          "Title": "Pomidor"
+        },
+        {
+          "ID": 30571,
+          "Title": "Olov"
+        },
+        {
+          "ID": 230578,
+          "Title": "Suspenziya"
+        },
+        {
+          "ID": 425771,
+          "Title": "Erkak jinsiy aʼzosi"
+        },
+        {
+          "ID": 441597,
+          "Title": "Baqaqurilloqlar"
+        },
+        {
+          "ID": 443966,
+          "Title": "Bugʻdoy"
+        },
+        {
+          "ID": 446308,
+          "Title": "Anakondalar"
+        },
+        {
+          "ID": 446340,
+          "Title": "Ananas"
+        },
+        {
+          "ID": 446837,
+          "Title": "Apelsin"
+        },
+        {
+          "ID": 456281,
+          "Title": "Gidrologiya"
+        },
+        {
+          "ID": 457610,
+          "Title": "Guruch"
+        },
+        {
+          "ID": 492409,
+          "Title": "Jinsiy aʼzolar"
+        },
+        {
+          "ID": 524394,
+          "Title": "Makkajoʻxori"
+        },
+        {
+          "ID": 525095,
+          "Title": "Mango (meva)"
+        },
+        {
+          "ID": 526329,
+          "Title": "Masturbatsiya"
+        },
+        {
+          "ID": 533333,
+          "Title": "Muskullar"
+        },
+        {
+          "ID": 561830,
+          "Title": "Reproduktiv organlar"
+        },
+        {
+          "ID": 571285,
+          "Title": "Siydik"
+        },
+        {
+          "ID": 599925,
+          "Title": "Finik palmasi"
+        },
+        {
+          "ID": 627200,
+          "Title": "Qovun"
+        },
+        {
+          "ID": 629886,
+          "Title": "Qulupnay"
+        }
+      ]
+    },
+    {
+      "ID": 2147483643,
+      "Title": "People and self",
+      "Categories": [
+        {
+          "ID": 1693,
+          "Title": "Turkum:Kishilar"
+        },
+        {
+          "ID": 645238,
+          "Title": "Turkum:Hayot"
+        }
+      ],
+      "Articles": [
+        {
+          "ID": 14615,
+          "Title": "Bill Gates"
+        },
+        {
+          "ID": 15620,
+          "Title": "Galileo Galilei"
+        },
+        {
+          "ID": 15827,
+          "Title": "Adolf Hitler"
+        },
+        {
+          "ID": 16084,
+          "Title": "Adam Smith"
+        },
+        {
+          "ID": 17220,
+          "Title": "William Blake"
+        },
+        {
+          "ID": 17329,
+          "Title": "Richard Wagner"
+        },
+        {
+          "ID": 18284,
+          "Title": "Sigmund Freud"
+        },
+        {
+          "ID": 21132,
+          "Title": "Richard Dawkins"
+        },
+        {
+          "ID": 21529,
+          "Title": "The Big Bang Theory"
+        },
+        {
+          "ID": 444220,
+          "Title": "Christopher Columbus"
+        },
+        {
+          "ID": 455443,
+          "Title": "Gauss Karl Fridrix"
+        },
+        {
+          "ID": 460994,
+          "Title": "René Descartes"
+        },
+        {
+          "ID": 508416,
+          "Title": "Kepler Iogann"
+        },
+        {
+          "ID": 518614,
+          "Title": "Irving Langmuir"
+        },
+        {
+          "ID": 518671,
+          "Title": "Leonardo Pizano"
+        },
+        {
+          "ID": 600147,
+          "Title": "Alexander Fleming"
+        },
+        {
+          "ID": 600429,
+          "Title": "Foma Akvinskiy"
+        },
+        {
+          "ID": 645409,
+          "Title": "Daniel Radcliffe"
+        },
+        {
+          "ID": 647571,
+          "Title": "Alan Tyuring"
+        },
+        {
+          "ID": 668585,
+          "Title": "Noam Chomsky"
+        }
+      ]
+    },
+    {
+      "ID": 2147483644,
+      "Title": "Philosophy and thinking",
+      "Categories": [
+        {
+          "ID": 14841,
+          "Title": "Turkum:Falsafa"
+        },
+        {
+          "ID": 15921,
+          "Title": "Turkum:Etika"
+        },
+        {
+          "ID": 483251,
+          "Title": "Turkum:Siyosiy teoriya"
+        }
+      ],
+      "Articles": [
+        {
+          "ID": 169041,
+          "Title": "Dunning–Kruger samarasi"
+        },
+        {
+          "ID": 441560,
+          "Title": "Baxt"
+        },
+        {
+          "ID": 457674,
+          "Title": "Goʻzallik"
+        },
+        {
+          "ID": 498215,
+          "Title": "Imon"
+        }
+      ]
+    },
+    {
+      "ID": 2147483645,
+      "Title": "Religion and belief systems",
+      "Categories": [
+        {
+          "ID": 1694,
+          "Title": "Turkum:Din"
+        },
+        {
+          "ID": 15077,
+          "Title": "Turkum:Dinlar"
+        },
+        {
+          "ID": 645237,
+          "Title": "Turkum:Imon"
+        }
+      ]
+    },
+    {
+      "ID": 2147483646,
+      "Title": "Society and social sciences",
+      "Categories": [
+        {
+          "ID": 4742,
+          "Title": "Turkum:Gumanitar fanlar"
+        },
+        {
+          "ID": 13028,
+          "Title": "Turkum:Jamiyat"
+        },
+        {
+          "ID": 440688,
+          "Title": "Turkum:Ijtimoiy fanlar"
+        }
+      ],
+      "Articles": [
+        {
+          "ID": 3392,
+          "Title": "Eron"
+        },
+        {
+          "ID": 3686,
+          "Title": "Barbados"
+        },
+        {
+          "ID": 3691,
+          "Title": "Chili"
+        },
+        {
+          "ID": 17602,
+          "Title": "Yevropa Ittifoqi"
+        },
+        {
+          "ID": 20189,
+          "Title": "The New York Times"
+        },
+        {
+          "ID": 20665,
+          "Title": "DST"
+        },
+        {
+          "ID": 21199,
+          "Title": "Sidney Universiteti"
+        },
+        {
+          "ID": 25504,
+          "Title": "Avstraliya Bayrogʻi"
+        },
+        {
+          "ID": 152677,
+          "Title": "Oksford universiteti"
+        },
+        {
+          "ID": 277486,
+          "Title": "Trest"
+        },
+        {
+          "ID": 442809,
+          "Title": "Bolonya universiteti"
+        },
+        {
+          "ID": 442868,
+          "Title": "Bombay universiteti"
+        },
+        {
+          "ID": 442890,
+          "Title": "Bonn universiteti"
+        },
+        {
+          "ID": 443358,
+          "Title": "British petroleum"
+        },
+        {
+          "ID": 448520,
+          "Title": "Vena universiteti"
+        },
+        {
+          "ID": 455340,
+          "Title": "Garvard universiteti"
+        },
+        {
+          "ID": 456113,
+          "Title": "Gyottingen universiteti"
+        },
+        {
+          "ID": 503443,
+          "Title": "Kalkutta universiteti"
+        },
+        {
+          "ID": 508227,
+          "Title": "Kembrij universiteti"
+        },
+        {
+          "ID": 508652,
+          "Title": "Kyoln universiteti"
+        },
+        {
+          "ID": 510716,
+          "Title": "Kolumbiya universiteti"
+        },
+        {
+          "ID": 518541,
+          "Title": "Leypsig universiteti"
+        },
+        {
+          "ID": 520557,
+          "Title": "London universiteti"
+        },
+        {
+          "ID": 520978,
+          "Title": "Lvov universiteti"
+        },
+        {
+          "ID": 529960,
+          "Title": "Minnesota universiteti"
+        },
+        {
+          "ID": 530668,
+          "Title": "Missuri universiteti"
+        },
+        {
+          "ID": 531875,
+          "Title": "Moskva davlat universiteti"
+        },
+        {
+          "ID": 536760,
+          "Title": "Neapol universiteti"
+        },
+        {
+          "ID": 540606,
+          "Title": "Massachusetts texnologiya instituti"
+        },
+        {
+          "ID": 540608,
+          "Title": "Stanford universiteti"
+        },
+        {
+          "ID": 542778,
+          "Title": "Odessa universiteti"
+        },
+        {
+          "ID": 548148,
+          "Title": "Parij universiteti"
+        },
+        {
+          "ID": 554532,
+          "Title": "Prinston universiteti"
+        },
+        {
+          "ID": 565169,
+          "Title": "Sankt-Peterburg davlat universiteti"
+        },
+        {
+          "ID": 574125,
+          "Title": "Stokgolm universiteti"
+        },
+        {
+          "ID": 578253,
+          "Title": "Tayms of indiya"
+        },
+        {
+          "ID": 579199,
+          "Title": "Tartu universiteti"
+        },
+        {
+          "ID": 581225,
+          "Title": "Tehron universiteti"
+        },
+        {
+          "ID": 582500,
+          "Title": "Tokio universiteti"
+        },
+        {
+          "ID": 597102,
+          "Title": "Upsala universiteti"
+        },
+        {
+          "ID": 600991,
+          "Title": "Freyburg universiteti"
+        },
+        {
+          "ID": 607160,
+          "Title": "Chikago universiteti"
+        },
+        {
+          "ID": 617513,
+          "Title": "Yassi universiteti"
+        },
+        {
+          "ID": 619701,
+          "Title": "Tyubingen universiteti"
+        },
+        {
+          "ID": 675723,
+          "Title": "Vashington universiteti"
+        }
+      ]
+    },
+    {
+      "ID": 2147483647,
+      "Title": "Technology and applied sciences",
+      "Categories": [
+        {
+          "ID": 1678,
+          "Title": "Turkum:Informatika"
+        },
+        {
+          "ID": 1702,
+          "Title": "Turkum:Internet"
+        },
+        {
+          "ID": 20247,
+          "Title": "Turkum:Kompyuter"
+        }
+      ]
+    }
+  ],
+  "Filters": [
+    {
+      "ID": 20617,
+      "Title": "Turkum:Koʻp maʼnoli atamalar"
+    },
+    {
+      "ID": 97630,
+      "Title": "Turkum:Yashirin turkumlar"
+    }
+  ]
+}

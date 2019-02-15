@@ -1,0 +1,347 @@
+{
+  "Language": "gn",
+  "Topics": [
+    {
+      "ID": 2147483637,
+      "Title": "Culture and the arts",
+      "Categories": [
+        {
+          "ID": 3236,
+          "Title": "Ñemohenda:Sa'y"
+        },
+        {
+          "ID": 3642,
+          "Title": "Ñemohenda:Tembiapo"
+        },
+        {
+          "ID": 3645,
+          "Title": "Ñemohenda:Jetepyso"
+        },
+        {
+          "ID": 10188,
+          "Title": "Ñemohenda:Ñemongaru"
+        },
+        {
+          "ID": 11612,
+          "Title": "Ñemohenda:Tembiapoporã"
+        }
+      ],
+      "Articles": [
+        {
+          "ID": 2880,
+          "Title": "Vikipetã"
+        },
+        {
+          "ID": 5549,
+          "Title": "Kure"
+        },
+        {
+          "ID": 7115,
+          "Title": "Kuvuasu"
+        },
+        {
+          "ID": 7117,
+          "Title": "Chokora"
+        },
+        {
+          "ID": 7618,
+          "Title": "Mbujape"
+        },
+        {
+          "ID": 7824,
+          "Title": "Typy'are'ẽ"
+        },
+        {
+          "ID": 7994,
+          "Title": "Kuvãju"
+        },
+        {
+          "ID": 9468,
+          "Title": "Kaguyjúi"
+        },
+        {
+          "ID": 10665,
+          "Title": "Añetegua reko"
+        }
+      ]
+    },
+    {
+      "ID": 2147483638,
+      "Title": "Geography and places",
+      "Categories": [
+        {
+          "ID": 2650,
+          "Title": "Ñemohenda:Tetãnguéra"
+        },
+        {
+          "ID": 6163,
+          "Title": "Ñemohenda:Ta'ãnga'ita"
+        }
+      ],
+      "Articles": [
+        {
+          "ID": 1931,
+          "Title": "Yvypóra"
+        },
+        {
+          "ID": 5204,
+          "Title": "Parĩ"
+        },
+        {
+          "ID": 6576,
+          "Title": "Autarália"
+        },
+        {
+          "ID": 8589,
+          "Title": "Miama"
+        }
+      ]
+    },
+    {
+      "ID": 2147483639,
+      "Title": "Health and fitness",
+      "Categories": [
+        {
+          "ID": 3441,
+          "Title": "Ñemohenda:Pohanokuaa"
+        }
+      ]
+    },
+    {
+      "ID": 2147483640,
+      "Title": "History and events",
+      "Categories": [
+        {
+          "ID": 3011,
+          "Title": "Ñemohenda:Tembiasakue"
+        }
+      ],
+      "Articles": [
+        {
+          "ID": 5702,
+          "Title": "Torres Gemelas ojeitypárõguare, 11 jasyporundýpe"
+        },
+        {
+          "ID": 10432,
+          "Title": "Donald Trump"
+        }
+      ]
+    },
+    {
+      "ID": 2147483641,
+      "Title": "Mathematics and logic",
+      "Categories": [
+        {
+          "ID": 2810,
+          "Title": "Ñemohenda:Papapykuaa"
+        }
+      ]
+    },
+    {
+      "ID": 2147483642,
+      "Title": "Nature and physical sciences",
+      "Categories": [
+        {
+          "ID": 2781,
+          "Title": "Ñemohenda:Tembikuaaty"
+        },
+        {
+          "ID": 6272,
+          "Title": "Ñemohenda:Mba'erekokuaa"
+        },
+        {
+          "ID": 6305,
+          "Title": "Ñemohenda:Kimikuaa"
+        }
+      ],
+      "Articles": [
+        {
+          "ID": 3456,
+          "Title": "Merõ"
+        },
+        {
+          "ID": 3696,
+          "Title": "Tembo"
+        },
+        {
+          "ID": 3776,
+          "Title": "Kurapepẽ"
+        },
+        {
+          "ID": 3824,
+          "Title": "Avati mirĩ"
+        },
+        {
+          "ID": 5017,
+          "Title": "Kuriju"
+        },
+        {
+          "ID": 6883,
+          "Title": "Avati"
+        },
+        {
+          "ID": 7067,
+          "Title": "Tata"
+        },
+        {
+          "ID": 7075,
+          "Title": "Tomáte"
+        },
+        {
+          "ID": 7503,
+          "Title": "Mymba'akãndu"
+        },
+        {
+          "ID": 7829,
+          "Title": "Yvapytã"
+        },
+        {
+          "ID": 7934,
+          "Title": "Ta'ỹi"
+        },
+        {
+          "ID": 10828,
+          "Title": "Tete pehẽnguenguéra ñemoñarã"
+        }
+      ]
+    },
+    {
+      "ID": 2147483643,
+      "Title": "People and self",
+      "Categories": [
+        {
+          "ID": 3014,
+          "Title": "Ñemohenda:Tekove"
+        }
+      ],
+      "Articles": [
+        {
+          "ID": 4954,
+          "Title": "Adolf Hitler"
+        },
+        {
+          "ID": 5338,
+          "Title": "John Lennon"
+        },
+        {
+          "ID": 6291,
+          "Title": "Florence Nightingale"
+        },
+        {
+          "ID": 7955,
+          "Title": "The Big Bang Theory"
+        },
+        {
+          "ID": 9372,
+          "Title": "Hose Smith"
+        },
+        {
+          "ID": 9937,
+          "Title": "Galiléo Galiléi"
+        },
+        {
+          "ID": 10099,
+          "Title": "Ríchard Vágner"
+        },
+        {
+          "ID": 11802,
+          "Title": "Kiritóval Kolõ"
+        }
+      ]
+    },
+    {
+      "ID": 2147483644,
+      "Title": "Philosophy and thinking",
+      "Categories": [
+        {
+          "ID": 10251,
+          "Title": "Ñemohenda:Arandupykuaaty"
+        }
+      ],
+      "Articles": [
+        {
+          "ID": 3531,
+          "Title": "Vy'apavẽ"
+        },
+        {
+          "ID": 3533,
+          "Title": "Vy'a"
+        },
+        {
+          "ID": 9031,
+          "Title": "Jerovia"
+        }
+      ]
+    },
+    {
+      "ID": 2147483645,
+      "Title": "Religion and belief systems",
+      "Categories": [
+        {
+          "ID": 11627,
+          "Title": "Ñemohenda:Jerovia"
+        }
+      ]
+    },
+    {
+      "ID": 2147483646,
+      "Title": "Society and social sciences",
+      "Categories": [
+        {
+          "ID": 10657,
+          "Title": "Ñemohenda:Tekoiterape"
+        }
+      ],
+      "Articles": [
+        {
+          "ID": 2823,
+          "Title": "Chíle"
+        },
+        {
+          "ID": 5260,
+          "Title": "Iran"
+        },
+        {
+          "ID": 8835,
+          "Title": "Varvado"
+        },
+        {
+          "ID": 10321,
+          "Title": "Arahaku ára"
+        },
+        {
+          "ID": 10851,
+          "Title": "Mbo'ehaorusu Harvard"
+        },
+        {
+          "ID": 11889,
+          "Title": "Mbo'ehaorusu Towson"
+        }
+      ]
+    },
+    {
+      "ID": 2147483647,
+      "Title": "Technology and applied sciences",
+      "Categories": [
+        {
+          "ID": 3598,
+          "Title": "Ñemohenda:Mba'aporekokuaa"
+        },
+        {
+          "ID": 6772,
+          "Title": "Ñemohenda:Jereraha"
+        },
+        {
+          "ID": 7313,
+          "Title": "Ñemohenda:Internet"
+        }
+      ]
+    }
+  ],
+  "Filters": [
+    {
+      "ID": 10402,
+      "Title": "Ñemohenda:Categorías ocultas"
+    }
+  ]
+}

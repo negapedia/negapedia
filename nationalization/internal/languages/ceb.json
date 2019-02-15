@@ -1,0 +1,679 @@
+{
+  "Language": "ceb",
+  "Topics": [
+    {
+      "ID": 2147483637,
+      "Title": "Culture and the arts",
+      "Categories": [
+        {
+          "ID": 35182,
+          "Title": "Kategoriya:Kultura"
+        },
+        {
+          "ID": 35187,
+          "Title": "Kategoriya:Mga arte"
+        },
+        {
+          "ID": 40429,
+          "Title": "Kategoriya:Paugnat sa kusog"
+        },
+        {
+          "ID": 40430,
+          "Title": "Kategoriya:Kalingawan"
+        },
+        {
+          "ID": 41468,
+          "Title": "Kategoriya:Ehersisyo"
+        },
+        {
+          "ID": 53294,
+          "Title": "Kategoriya:Kolor"
+        },
+        {
+          "ID": 53359,
+          "Title": "Kategoriya:Pagkaon ug ilimnon"
+        }
+      ],
+      "Articles": [
+        {
+          "ID": 2530,
+          "Title": "Wikipedya"
+        },
+        {
+          "ID": 36740,
+          "Title": "Ensiklopedya"
+        },
+        {
+          "ID": 41748,
+          "Title": "Kakaw"
+        },
+        {
+          "ID": 52845,
+          "Title": "Pizza"
+        },
+        {
+          "ID": 54236,
+          "Title": "Ṭikka-masālā nga manok"
+        },
+        {
+          "ID": 55749,
+          "Title": "Sinangag"
+        },
+        {
+          "ID": 59986,
+          "Title": "Dukot"
+        },
+        {
+          "ID": 335867,
+          "Title": "Sus (mga mananap)"
+        },
+        {
+          "ID": 335869,
+          "Title": "Sus scrofa"
+        },
+        {
+          "ID": 2225081,
+          "Title": "Pinus cembroides"
+        },
+        {
+          "ID": 2729719,
+          "Title": "Coffea"
+        },
+        {
+          "ID": 2729800,
+          "Title": "Coffea arabica"
+        },
+        {
+          "ID": 2889627,
+          "Title": "Band"
+        },
+        {
+          "ID": 9028586,
+          "Title": "Baboy"
+        }
+      ]
+    },
+    {
+      "ID": 2147483638,
+      "Title": "Geography and places",
+      "Categories": [
+        {
+          "ID": 35111,
+          "Title": "Kategoriya:Heyograpiya"
+        }
+      ],
+      "Articles": [
+        {
+          "ID": 2688,
+          "Title": "Awstralya"
+        },
+        {
+          "ID": 31676,
+          "Title": "Paris"
+        },
+        {
+          "ID": 36676,
+          "Title": "Venecia"
+        },
+        {
+          "ID": 36784,
+          "Title": "Birmanya"
+        },
+        {
+          "ID": 330652,
+          "Title": "Tawo"
+        },
+        {
+          "ID": 3601976,
+          "Title": "State of Queensland"
+        },
+        {
+          "ID": 3615524,
+          "Title": "Canberra (ulohang dakbayan sa Awstralya)"
+        },
+        {
+          "ID": 4736530,
+          "Title": "Aberfoyle (lungsod)"
+        },
+        {
+          "ID": 8712399,
+          "Title": "Carlsbad (kapital sa kondado)"
+        }
+      ]
+    },
+    {
+      "ID": 2147483639,
+      "Title": "Health and fitness",
+      "Categories": [
+        {
+          "ID": 38107,
+          "Title": "Kategoriya:Medisina"
+        }
+      ]
+    },
+    {
+      "ID": 2147483640,
+      "Title": "History and events",
+      "Categories": [
+        {
+          "ID": 14908,
+          "Title": "Kategoriya:Kasaysayan"
+        },
+        {
+          "ID": 38340,
+          "Title": "Kategoriya:Kasaysayan sa matag nasod"
+        }
+      ],
+      "Articles": [
+        {
+          "ID": 7905705,
+          "Title": "Donald Trump"
+        }
+      ]
+    },
+    {
+      "ID": 2147483641,
+      "Title": "Mathematics and logic",
+      "Categories": [
+        {
+          "ID": 14936,
+          "Title": "Kategoriya:Matematika"
+        }
+      ]
+    },
+    {
+      "ID": 2147483642,
+      "Title": "Nature and physical sciences",
+      "Categories": [
+        {
+          "ID": 41903,
+          "Title": "Kategoriya:Pisika"
+        },
+        {
+          "ID": 43217,
+          "Title": "Kategoriya:Kinaiyahan"
+        },
+        {
+          "ID": 44915,
+          "Title": "Kategoriya:Kimika"
+        },
+        {
+          "ID": 55506,
+          "Title": "Kategoriya:Kaalamdag"
+        },
+        {
+          "ID": 3388327,
+          "Title": "Kategoriya:Katalagman"
+        }
+      ],
+      "Articles": [
+        {
+          "ID": 37101,
+          "Title": "Utin"
+        },
+        {
+          "ID": 61989,
+          "Title": "Eunectes"
+        },
+        {
+          "ID": 61997,
+          "Title": "Eunectes murinus"
+        },
+        {
+          "ID": 319642,
+          "Title": "Hylidae"
+        },
+        {
+          "ID": 320594,
+          "Title": "Pseudacris crucifer"
+        },
+        {
+          "ID": 330970,
+          "Title": "Ateles"
+        },
+        {
+          "ID": 336054,
+          "Title": "Alces alces"
+        },
+        {
+          "ID": 336079,
+          "Title": "Camelus"
+        },
+        {
+          "ID": 345697,
+          "Title": "Sula"
+        },
+        {
+          "ID": 345976,
+          "Title": "Phoenicopterus"
+        },
+        {
+          "ID": 351580,
+          "Title": "Rostratulidae"
+        },
+        {
+          "ID": 353118,
+          "Title": "Garrulus"
+        },
+        {
+          "ID": 377331,
+          "Title": "Ophisaurus"
+        },
+        {
+          "ID": 396190,
+          "Title": "Glaphyromorphus"
+        },
+        {
+          "ID": 400845,
+          "Title": "Haackgreerius miopus"
+        },
+        {
+          "ID": 451915,
+          "Title": "Lycosidae"
+        },
+        {
+          "ID": 561111,
+          "Title": "Scomber"
+        },
+        {
+          "ID": 561140,
+          "Title": "Scomber scombrus"
+        },
+        {
+          "ID": 588468,
+          "Title": "Trachurus"
+        },
+        {
+          "ID": 626383,
+          "Title": "Diplocrepis puniceus"
+        },
+        {
+          "ID": 1892074,
+          "Title": "Phoenix"
+        },
+        {
+          "ID": 2062781,
+          "Title": "Ananas comosus"
+        },
+        {
+          "ID": 2124875,
+          "Title": "Elymus farctus"
+        },
+        {
+          "ID": 2142699,
+          "Title": "Oryza sativa"
+        },
+        {
+          "ID": 2161859,
+          "Title": "Triticum"
+        },
+        {
+          "ID": 2161963,
+          "Title": "Triticum aestivum"
+        },
+        {
+          "ID": 2163229,
+          "Title": "Zea mays"
+        },
+        {
+          "ID": 2178118,
+          "Title": "Fragaria"
+        },
+        {
+          "ID": 2178119,
+          "Title": "Fragaria ananassa"
+        },
+        {
+          "ID": 2178132,
+          "Title": "Fragaria vesca"
+        },
+        {
+          "ID": 2224245,
+          "Title": "Juniperus thurifera"
+        },
+        {
+          "ID": 2224859,
+          "Title": "Picea engelmannii"
+        },
+        {
+          "ID": 2225289,
+          "Title": "Pinus kesiya"
+        },
+        {
+          "ID": 2265379,
+          "Title": "Physalis peruviana"
+        },
+        {
+          "ID": 2265381,
+          "Title": "Physalis philadelphica"
+        },
+        {
+          "ID": 2267820,
+          "Title": "Solanum lycopersicum"
+        },
+        {
+          "ID": 2339649,
+          "Title": "Cucumis melo"
+        },
+        {
+          "ID": 2339690,
+          "Title": "Cucurbita maxima"
+        },
+        {
+          "ID": 2441964,
+          "Title": "Byrsonima lucida"
+        },
+        {
+          "ID": 2500749,
+          "Title": "Corymbia ficifolia"
+        },
+        {
+          "ID": 2510771,
+          "Title": "Myrtus"
+        },
+        {
+          "ID": 2510773,
+          "Title": "Myrtus communis"
+        },
+        {
+          "ID": 2581879,
+          "Title": "Origanum onites"
+        },
+        {
+          "ID": 2673991,
+          "Title": "Mangifera indica"
+        },
+        {
+          "ID": 2683263,
+          "Title": "Citrus limon"
+        },
+        {
+          "ID": 2695889,
+          "Title": "Magnolia liliiflora"
+        },
+        {
+          "ID": 3957114,
+          "Title": "Anaconda"
+        }
+      ]
+    },
+    {
+      "ID": 2147483643,
+      "Title": "People and self",
+      "Categories": [
+        {
+          "ID": 53317,
+          "Title": "Kategoriya:Kinabuhi"
+        }
+      ],
+      "Articles": [
+        {
+          "ID": 16167,
+          "Title": "René Descartes"
+        },
+        {
+          "ID": 37201,
+          "Title": "Cristobal Colon"
+        },
+        {
+          "ID": 44275,
+          "Title": "Adolf Hitler"
+        },
+        {
+          "ID": 50249,
+          "Title": "Joseph Smith, Jr."
+        },
+        {
+          "ID": 60836,
+          "Title": "Galileo Galilei"
+        },
+        {
+          "ID": 7531199,
+          "Title": "Richard Wagner"
+        }
+      ]
+    },
+    {
+      "ID": 2147483644,
+      "Title": "Philosophy and thinking",
+      "Categories": [
+        {
+          "ID": 14927,
+          "Title": "Kategoriya:Pilosopiya"
+        },
+        {
+          "ID": 53314,
+          "Title": "Kategoriya:Etika"
+        },
+        {
+          "ID": 55616,
+          "Title": "Kategoriya:Mga ideyolohiya"
+        }
+      ],
+      "Articles": [
+        {
+          "ID": 3118948,
+          "Title": "Alegria"
+        }
+      ]
+    },
+    {
+      "ID": 2147483645,
+      "Title": "Religion and belief systems",
+      "Categories": [
+        {
+          "ID": 54932,
+          "Title": "Kategoriya:Tinuohan"
+        }
+      ]
+    },
+    {
+      "ID": 2147483646,
+      "Title": "Society and social sciences",
+      "Categories": [
+        {
+          "ID": 39864,
+          "Title": "Kategoriya:Siyensiyang katilingbanon"
+        },
+        {
+          "ID": 40618,
+          "Title": "Kategoriya:Balaod"
+        },
+        {
+          "ID": 45062,
+          "Title": "Kategoriya:Katilingban"
+        }
+      ],
+      "Articles": [
+        {
+          "ID": 31643,
+          "Title": "Unyong Uropeyo"
+        },
+        {
+          "ID": 36770,
+          "Title": "Chile"
+        },
+        {
+          "ID": 36967,
+          "Title": "Iran"
+        },
+        {
+          "ID": 37083,
+          "Title": "Barbados"
+        },
+        {
+          "ID": 55813,
+          "Title": "Bag-ong Tuig Intsik"
+        },
+        {
+          "ID": 2872693,
+          "Title": "University of Tartu"
+        },
+        {
+          "ID": 3572799,
+          "Title": "Universität Wien"
+        },
+        {
+          "ID": 3621303,
+          "Title": "University of Sydney"
+        },
+        {
+          "ID": 3654668,
+          "Title": "La Trobe University"
+        },
+        {
+          "ID": 3850036,
+          "Title": "Universität"
+        },
+        {
+          "ID": 3865033,
+          "Title": "Universität zu Köln"
+        },
+        {
+          "ID": 4595150,
+          "Title": "Queen\u0026's University"
+        },
+        {
+          "ID": 4739806,
+          "Title": "Suffolk College"
+        },
+        {
+          "ID": 4739823,
+          "Title": "University of Exeter"
+        },
+        {
+          "ID": 4739844,
+          "Title": "Ashton Building"
+        },
+        {
+          "ID": 4739981,
+          "Title": "University of Hertfordshire (unibersidad sa Hiniusang Gingharian, lat 51,75, long -0,24)"
+        },
+        {
+          "ID": 4740004,
+          "Title": "University of Warwick"
+        },
+        {
+          "ID": 4740089,
+          "Title": "University of Leicester"
+        },
+        {
+          "ID": 4740155,
+          "Title": "University of Manchester"
+        },
+        {
+          "ID": 4740260,
+          "Title": "University of surrey"
+        },
+        {
+          "ID": 4740346,
+          "Title": "Lancaster University"
+        },
+        {
+          "ID": 4740391,
+          "Title": "University of London"
+        },
+        {
+          "ID": 4740567,
+          "Title": "University of Cambridge"
+        },
+        {
+          "ID": 4752238,
+          "Title": "University of Kent"
+        },
+        {
+          "ID": 4752346,
+          "Title": "University of Sheffield"
+        },
+        {
+          "ID": 4752416,
+          "Title": "University of Aberdeen"
+        },
+        {
+          "ID": 4753604,
+          "Title": "University of Bristol"
+        },
+        {
+          "ID": 5040517,
+          "Title": "Jawaharlal Nehru University"
+        },
+        {
+          "ID": 5040559,
+          "Title": "Aligarh Muslim University"
+        },
+        {
+          "ID": 5381092,
+          "Title": "University of Trieste"
+        },
+        {
+          "ID": 5390761,
+          "Title": "University of Bologna"
+        },
+        {
+          "ID": 5392480,
+          "Title": "Università degli Studi di Napoli Federico II"
+        },
+        {
+          "ID": 5460865,
+          "Title": "Seoul National University"
+        },
+        {
+          "ID": 7531368,
+          "Title": "Hebreohanon nga University sa Jerusalem"
+        },
+        {
+          "ID": 8739887,
+          "Title": "Pizza Hut"
+        },
+        {
+          "ID": 8839785,
+          "Title": "Wheatland County Airport at Harlowton"
+        },
+        {
+          "ID": 9027566,
+          "Title": "Unibersidad sa Washington"
+        },
+        {
+          "ID": 9028065,
+          "Title": "Moscow State University"
+        }
+      ]
+    },
+    {
+      "ID": 2147483647,
+      "Title": "Technology and applied sciences",
+      "Categories": [
+        {
+          "ID": 14949,
+          "Title": "Kategoriya:Teknolohiya"
+        },
+        {
+          "ID": 38119,
+          "Title": "Kategoriya:Internet"
+        },
+        {
+          "ID": 40245,
+          "Title": "Kategoriya:Transportasyon"
+        },
+        {
+          "ID": 53576,
+          "Title": "Kategoriya:Inghenyeriya"
+        },
+        {
+          "ID": 55457,
+          "Title": "Kategoriya:Elektronika"
+        }
+      ]
+    }
+  ],
+  "Filters": [
+    {
+      "ID": 36948,
+      "Title": "Kategoriya:Pagklaro"
+    },
+    {
+      "ID": 6678425,
+      "Title": "Kategoriya:Mga nakatagong kategoriya"
+    }
+  ]
+}

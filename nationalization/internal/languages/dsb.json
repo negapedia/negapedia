@@ -1,0 +1,339 @@
+{
+  "Language": "dsb",
+  "Topics": [
+    {
+      "ID": 2147483637,
+      "Title": "Culture and the arts",
+      "Categories": [
+        {
+          "ID": 944,
+          "Title": "Kategorija:Kultura"
+        },
+        {
+          "ID": 3223,
+          "Title": "Kategorija:Sport"
+        },
+        {
+          "ID": 4135,
+          "Title": "Kategorija:Žywidła"
+        },
+        {
+          "ID": 4136,
+          "Title": "Kategorija:Zežywjenje"
+        },
+        {
+          "ID": 5435,
+          "Title": "Kategorija:Wuměłstwo"
+        },
+        {
+          "ID": 8084,
+          "Title": "Kategorija:Jěsć a piś"
+        },
+        {
+          "ID": 8717,
+          "Title": "Kategorija:Muzikowa kupka"
+        }
+      ],
+      "Articles": [
+        {
+          "ID": 112,
+          "Title": "Encyklopedija"
+        },
+        {
+          "ID": 2142,
+          "Title": "Wikipedija"
+        },
+        {
+          "ID": 8082,
+          "Title": "Piwo"
+        },
+        {
+          "ID": 12021,
+          "Title": "Klěb"
+        }
+      ]
+    },
+    {
+      "ID": 2147483638,
+      "Title": "Geography and places",
+      "Categories": [
+        {
+          "ID": 904,
+          "Title": "Kategorija:Geografija"
+        },
+        {
+          "ID": 9176,
+          "Title": "Kategorija:Geomorfologija"
+        }
+      ],
+      "Articles": [
+        {
+          "ID": 58,
+          "Title": "Awstralska"
+        },
+        {
+          "ID": 511,
+          "Title": "Paris"
+        },
+        {
+          "ID": 7724,
+          "Title": "Myanmar"
+        }
+      ]
+    },
+    {
+      "ID": 2147483639,
+      "Title": "Health and fitness"
+    },
+    {
+      "ID": 2147483640,
+      "Title": "History and events",
+      "Categories": [
+        {
+          "ID": 1072,
+          "Title": "Kategorija:Stawizny"
+        },
+        {
+          "ID": 8196,
+          "Title": "Kategorija:Stawizny pó kraju"
+        }
+      ],
+      "Articles": [
+        {
+          "ID": 11510,
+          "Title": "Donald Trump"
+        }
+      ]
+    },
+    {
+      "ID": 2147483641,
+      "Title": "Mathematics and logic",
+      "Categories": [
+        {
+          "ID": 957,
+          "Title": "Kategorija:Matematika"
+        }
+      ]
+    },
+    {
+      "ID": 2147483642,
+      "Title": "Nature and physical sciences",
+      "Categories": [
+        {
+          "ID": 630,
+          "Title": "Kategorija:Fyzika"
+        },
+        {
+          "ID": 910,
+          "Title": "Kategorija:Chemija"
+        },
+        {
+          "ID": 938,
+          "Title": "Kategorija:Wěda"
+        },
+        {
+          "ID": 1119,
+          "Title": "Kategorija:Pśiroda"
+        },
+        {
+          "ID": 4814,
+          "Title": "Kategorija:Coologija"
+        },
+        {
+          "ID": 8179,
+          "Title": "Kategorija:Chemiske zwězanje"
+        },
+        {
+          "ID": 8465,
+          "Title": "Kategorija:Wědomnosć pó fachowem pólu"
+        },
+        {
+          "ID": 8466,
+          "Title": "Kategorija:Pśirodowěda"
+        },
+        {
+          "ID": 8467,
+          "Title": "Kategorija:Wědomnosć"
+        }
+      ],
+      "Articles": [
+        {
+          "ID": 162,
+          "Title": "Kalendaŕ Maya"
+        },
+        {
+          "ID": 341,
+          "Title": "Majs"
+        },
+        {
+          "ID": 3898,
+          "Title": "Słynica"
+        },
+        {
+          "ID": 3899,
+          "Title": "Glinicka"
+        },
+        {
+          "ID": 3900,
+          "Title": "Zagrodna słynica"
+        },
+        {
+          "ID": 5473,
+          "Title": "Apelsina"
+        },
+        {
+          "ID": 5477,
+          "Title": "Citronowy bom"
+        },
+        {
+          "ID": 5969,
+          "Title": "Tomata"
+        },
+        {
+          "ID": 7257,
+          "Title": "Ananas"
+        },
+        {
+          "ID": 7329,
+          "Title": "Kłosk"
+        },
+        {
+          "ID": 7988,
+          "Title": "Wjelicka banja"
+        }
+      ]
+    },
+    {
+      "ID": 2147483643,
+      "Title": "People and self",
+      "Categories": [
+        {
+          "ID": 1317,
+          "Title": "Kategorija:Wósoby"
+        },
+        {
+          "ID": 5437,
+          "Title": "Kategorija:Žona"
+        },
+        {
+          "ID": 8128,
+          "Title": "Kategorija:Wšedna kultura"
+        },
+        {
+          "ID": 8436,
+          "Title": "Kategorija:Žony"
+        },
+        {
+          "ID": 8486,
+          "Title": "Kategorija:Wósoba"
+        }
+      ],
+      "Articles": [
+        {
+          "ID": 7118,
+          "Title": "Galileo Galilei"
+        },
+        {
+          "ID": 8788,
+          "Title": "John Lennon"
+        }
+      ]
+    },
+    {
+      "ID": 2147483644,
+      "Title": "Philosophy and thinking",
+      "Categories": [
+        {
+          "ID": 3542,
+          "Title": "Kategorija:Filozofija"
+        }
+      ]
+    },
+    {
+      "ID": 2147483645,
+      "Title": "Religion and belief systems",
+      "Categories": [
+        {
+          "ID": 8514,
+          "Title": "Kategorija:Religija"
+        }
+      ]
+    },
+    {
+      "ID": 2147483646,
+      "Title": "Society and social sciences",
+      "Categories": [
+        {
+          "ID": 1106,
+          "Title": "Kategorija:Towarišnosć"
+        },
+        {
+          "ID": 1120,
+          "Title": "Kategorija:Pšawo"
+        },
+        {
+          "ID": 8313,
+          "Title": "Kategorija:Mjazynarodna organizacija"
+        },
+        {
+          "ID": 8464,
+          "Title": "Kategorija:Socialna wědomnosć"
+        },
+        {
+          "ID": 8473,
+          "Title": "Kategorija:Duchowna wědomnosć"
+        }
+      ],
+      "Articles": [
+        {
+          "ID": 89,
+          "Title": "Chilska"
+        },
+        {
+          "ID": 117,
+          "Title": "Europska unija"
+        },
+        {
+          "ID": 1209,
+          "Title": "Iran"
+        },
+        {
+          "ID": 1760,
+          "Title": "Barbados"
+        }
+      ]
+    },
+    {
+      "ID": 2147483647,
+      "Title": "Technology and applied sciences",
+      "Categories": [
+        {
+          "ID": 13,
+          "Title": "Kategorija:Internet"
+        },
+        {
+          "ID": 1905,
+          "Title": "Kategorija:Technika"
+        },
+        {
+          "ID": 2271,
+          "Title": "Kategorija:Informatika"
+        },
+        {
+          "ID": 6980,
+          "Title": "Kategorija:Wobchad"
+        }
+      ]
+    }
+  ],
+  "Filters": [
+    {
+      "ID": 4675,
+      "Title": "Kategorija:Wěcejwóznamowosći"
+    },
+    {
+      "ID": 5508,
+      "Title": "Kategorija:Schowane kategorije"
+    }
+  ]
+}

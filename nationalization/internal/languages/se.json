@@ -1,0 +1,357 @@
+{
+  "Language": "se",
+  "Topics": [
+    {
+      "ID": 2147483637,
+      "Title": "Culture and the arts",
+      "Categories": [
+        {
+          "ID": 1715,
+          "Title": "Kategoriija:Kultuvra"
+        },
+        {
+          "ID": 6433,
+          "Title": "Kategoriija:Dáidda"
+        },
+        {
+          "ID": 6434,
+          "Title": "Kategoriija:Suohttasat"
+        },
+        {
+          "ID": 6435,
+          "Title": "Kategoriija:Astu"
+        },
+        {
+          "ID": 6814,
+          "Title": "Kategoriija:Áiggeájit"
+        },
+        {
+          "ID": 11005,
+          "Title": "Kategoriija:Biebmu"
+        },
+        {
+          "ID": 17080,
+          "Title": "Kategoriija:Filmmat"
+        },
+        {
+          "ID": 17229,
+          "Title": "Kategoriija:Biebmu ja jugus"
+        },
+        {
+          "ID": 18650,
+          "Title": "Kategoriija:Biebmu tiippaid mielde"
+        },
+        {
+          "ID": 22873,
+          "Title": "Kategoriija:Valáštallan"
+        }
+      ],
+      "Articles": [
+        {
+          "ID": 5171,
+          "Title": "Wikipedia"
+        },
+        {
+          "ID": 5432,
+          "Title": "Gáffe"
+        },
+        {
+          "ID": 13346,
+          "Title": "Láibi"
+        },
+        {
+          "ID": 22730,
+          "Title": "Eurovision lávllagilvvohallan 2018"
+        }
+      ]
+    },
+    {
+      "ID": 2147483638,
+      "Title": "Geography and places",
+      "Categories": [
+        {
+          "ID": 6223,
+          "Title": "Kategoriija:Eatnandiehtu"
+        }
+      ],
+      "Articles": [
+        {
+          "ID": 1205,
+          "Title": "Myanmar"
+        },
+        {
+          "ID": 1470,
+          "Title": "Australia"
+        },
+        {
+          "ID": 2852,
+          "Title": "Paris"
+        },
+        {
+          "ID": 12110,
+          "Title": "Canberra"
+        },
+        {
+          "ID": 13225,
+          "Title": "Olmmoš"
+        }
+      ]
+    },
+    {
+      "ID": 2147483639,
+      "Title": "Health and fitness",
+      "Categories": [
+        {
+          "ID": 13450,
+          "Title": "Kategoriija:Dearvvašvuohta"
+        },
+        {
+          "ID": 20685,
+          "Title": "Kategoriija:Dálkkasdieđa"
+        },
+        {
+          "ID": 20686,
+          "Title": "Kategoriija:Dearvvašvuođadieđa"
+        },
+        {
+          "ID": 22877,
+          "Title": "Kategoriija:Dearvvašvuođadikšun"
+        }
+      ]
+    },
+    {
+      "ID": 2147483640,
+      "Title": "History and events",
+      "Categories": [
+        {
+          "ID": 1714,
+          "Title": "Kategoriija:Historjá"
+        },
+        {
+          "ID": 7491,
+          "Title": "Kategoriija:Allabasit ja bassebeaivvit"
+        },
+        {
+          "ID": 17222,
+          "Title": "Kategoriija:Historjá riikkaid mielde"
+        },
+        {
+          "ID": 22874,
+          "Title": "Kategoriija:Dáhpáhusat"
+        }
+      ],
+      "Articles": [
+        {
+          "ID": 20284,
+          "Title": "Donald Trump"
+        }
+      ]
+    },
+    {
+      "ID": 2147483641,
+      "Title": "Mathematics and logic",
+      "Categories": [
+        {
+          "ID": 17379,
+          "Title": "Kategoriija:Matematihkka"
+        }
+      ]
+    },
+    {
+      "ID": 2147483642,
+      "Title": "Nature and physical sciences",
+      "Categories": [
+        {
+          "ID": 6329,
+          "Title": "Kategoriija:Dieđa"
+        },
+        {
+          "ID": 6820,
+          "Title": "Kategoriija:Luondu"
+        },
+        {
+          "ID": 7417,
+          "Title": "Kategoriija:Fysihkka"
+        },
+        {
+          "ID": 15672,
+          "Title": "Kategoriija:Katastrofat"
+        },
+        {
+          "ID": 17213,
+          "Title": "Kategoriija:Luonddudieđa"
+        },
+        {
+          "ID": 20321,
+          "Title": "Kategoriija:Kemiija"
+        },
+        {
+          "ID": 20340,
+          "Title": "Kategoriija:Kemiijalaš ávdnasat"
+        },
+        {
+          "ID": 20690,
+          "Title": "Kategoriija:Zoologiija"
+        }
+      ],
+      "Articles": [
+        {
+          "ID": 4760,
+          "Title": "Appelsiidna"
+        },
+        {
+          "ID": 4890,
+          "Title": "Eanamuorjjit"
+        },
+        {
+          "ID": 4970,
+          "Title": "Gieddemuorji"
+        },
+        {
+          "ID": 7746,
+          "Title": "Sarvva"
+        }
+      ]
+    },
+    {
+      "ID": 2147483643,
+      "Title": "People and self",
+      "Categories": [
+        {
+          "ID": 7830,
+          "Title": "Kategoriija:Olbmot"
+        },
+        {
+          "ID": 13451,
+          "Title": "Kategoriija:Eallin"
+        }
+      ],
+      "Articles": [
+        {
+          "ID": 4370,
+          "Title": "Harry Houdini"
+        },
+        {
+          "ID": 15009,
+          "Title": "Anders Behring Breivik"
+        },
+        {
+          "ID": 15724,
+          "Title": "Noam Chomsky"
+        },
+        {
+          "ID": 20596,
+          "Title": "Sigmund Freud"
+        }
+      ]
+    },
+    {
+      "ID": 2147483644,
+      "Title": "Philosophy and thinking",
+      "Categories": [
+        {
+          "ID": 7331,
+          "Title": "Kategoriija:Filosofiija"
+        },
+        {
+          "ID": 20660,
+          "Title": "Kategoriija:Etihkka"
+        }
+      ]
+    },
+    {
+      "ID": 2147483645,
+      "Title": "Religion and belief systems",
+      "Categories": [
+        {
+          "ID": 6424,
+          "Title": "Kategoriija:Oskkut"
+        },
+        {
+          "ID": 6425,
+          "Title": "Kategoriija:Osku"
+        }
+      ]
+    },
+    {
+      "ID": 2147483646,
+      "Title": "Society and social sciences",
+      "Categories": [
+        {
+          "ID": 6327,
+          "Title": "Kategoriija:Humanisttalaš fágat"
+        },
+        {
+          "ID": 6426,
+          "Title": "Kategoriija:Servodat"
+        },
+        {
+          "ID": 7329,
+          "Title": "Kategoriija:Servodatdiehtagat"
+        },
+        {
+          "ID": 7443,
+          "Title": "Kategoriija:Vuoigatvuođadieđa"
+        },
+        {
+          "ID": 22584,
+          "Title": "Kategoriija:Riikkaidgaskasaš organišuvnnat"
+        }
+      ],
+      "Articles": [
+        {
+          "ID": 1017,
+          "Title": "Eurohpá uniovdna"
+        },
+        {
+          "ID": 1224,
+          "Title": "Iran"
+        },
+        {
+          "ID": 1423,
+          "Title": "Chile"
+        },
+        {
+          "ID": 5431,
+          "Title": "Kiinná ođđajahki"
+        },
+        {
+          "ID": 6394,
+          "Title": "Barbados"
+        }
+      ]
+    },
+    {
+      "ID": 2147483647,
+      "Title": "Technology and applied sciences",
+      "Categories": [
+        {
+          "ID": 6813,
+          "Title": "Kategoriija:Teknihkka"
+        },
+        {
+          "ID": 17274,
+          "Title": "Kategoriija:Dihtorat"
+        },
+        {
+          "ID": 17303,
+          "Title": "Kategoriija:Interneahtta"
+        },
+        {
+          "ID": 17368,
+          "Title": "Kategoriija:Johtolat"
+        }
+      ]
+    }
+  ],
+  "Filters": [
+    {
+      "ID": 9767,
+      "Title": "Kategoriija:Hidden categories"
+    },
+    {
+      "ID": 17224,
+      "Title": "Kategoriija:Presiserensiiddut"
+    }
+  ]
+}

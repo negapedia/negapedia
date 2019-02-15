@@ -1,0 +1,463 @@
+{
+  "Language": "lmo",
+  "Topics": [
+    {
+      "ID": 2147483637,
+      "Title": "Culture and the arts",
+      "Categories": [
+        {
+          "ID": 1833,
+          "Title": "Categuria:Aart"
+        },
+        {
+          "ID": 122536,
+          "Title": "Categuria:Cusina"
+        },
+        {
+          "ID": 130923,
+          "Title": "Categuria:Film"
+        },
+        {
+          "ID": 130926,
+          "Title": "Categuria:Cultüra"
+        },
+        {
+          "ID": 136726,
+          "Title": "Categuria:Spòrt"
+        },
+        {
+          "ID": 145066,
+          "Title": "Categuria:Culur"
+        },
+        {
+          "ID": 194633,
+          "Title": "Categuria:Grüp müsicai"
+        },
+        {
+          "ID": 194730,
+          "Title": "Categuria:Mangià"
+        },
+        {
+          "ID": 194731,
+          "Title": "Categuria:Alimentazion"
+        }
+      ],
+      "Articles": [
+        {
+          "ID": 1384,
+          "Title": "Wikipedia"
+        },
+        {
+          "ID": 124561,
+          "Title": "Sus scrofa domestica"
+        },
+        {
+          "ID": 126144,
+          "Title": "Green Day"
+        },
+        {
+          "ID": 130781,
+          "Title": "Enciclupedia"
+        },
+        {
+          "ID": 133169,
+          "Title": "Bira"
+        },
+        {
+          "ID": 187164,
+          "Title": "Pilsner"
+        },
+        {
+          "ID": 193913,
+          "Title": "Oeuv"
+        },
+        {
+          "ID": 199236,
+          "Title": "Pan"
+        },
+        {
+          "ID": 199312,
+          "Title": "Giambon"
+        },
+        {
+          "ID": 199602,
+          "Title": "Pizza"
+        },
+        {
+          "ID": 199938,
+          "Title": "Led Zeppelin"
+        },
+        {
+          "ID": 201606,
+          "Title": "AC/DC"
+        },
+        {
+          "ID": 209716,
+          "Title": "Caffee"
+        },
+        {
+          "ID": 211927,
+          "Title": "Pasta e fasoeu"
+        },
+        {
+          "ID": 212271,
+          "Title": "Sorbett"
+        },
+        {
+          "ID": 213000,
+          "Title": "Sess oral"
+        },
+        {
+          "ID": 213940,
+          "Title": "Giuditta Pasta"
+        },
+        {
+          "ID": 219499,
+          "Title": "Scicolatt"
+        }
+      ]
+    },
+    {
+      "ID": 2147483638,
+      "Title": "Geography and places",
+      "Categories": [
+        {
+          "ID": 147688,
+          "Title": "Categuria:List de geugrafia"
+        },
+        {
+          "ID": 193559,
+          "Title": "Categuria:Geugrafìa"
+        }
+      ],
+      "Articles": [
+        {
+          "ID": 2735,
+          "Title": "Venèzia"
+        },
+        {
+          "ID": 3295,
+          "Title": "Paris"
+        },
+        {
+          "ID": 128096,
+          "Title": "Myanmar"
+        },
+        {
+          "ID": 130449,
+          "Title": "Aüstralia"
+        },
+        {
+          "ID": 130450,
+          "Title": "Canberra"
+        }
+      ]
+    },
+    {
+      "ID": 2147483639,
+      "Title": "Health and fitness",
+      "Categories": [
+        {
+          "ID": 163772,
+          "Title": "Categuria:Medesina"
+        }
+      ]
+    },
+    {
+      "ID": 2147483640,
+      "Title": "History and events",
+      "Categories": [
+        {
+          "ID": 1536,
+          "Title": "Categuria:Stòria"
+        }
+      ],
+      "Articles": [
+        {
+          "ID": 133626,
+          "Title": "Atentàcc de l'11 de setèmber del 2001"
+        },
+        {
+          "ID": 209082,
+          "Title": "Donald Trump"
+        },
+        {
+          "ID": 211577,
+          "Title": "Mort de Harambe"
+        }
+      ]
+    },
+    {
+      "ID": 2147483641,
+      "Title": "Mathematics and logic",
+      "Categories": [
+        {
+          "ID": 5817,
+          "Title": "Categuria:Matematega"
+        },
+        {
+          "ID": 149692,
+          "Title": "Categuria:Lògica"
+        }
+      ]
+    },
+    {
+      "ID": 2147483642,
+      "Title": "Nature and physical sciences",
+      "Categories": [
+        {
+          "ID": 131130,
+          "Title": "Categuria:Natüra"
+        },
+        {
+          "ID": 192643,
+          "Title": "Categuria:Disaster"
+        },
+        {
+          "ID": 193489,
+          "Title": "Categuria:Chìmica"
+        },
+        {
+          "ID": 193502,
+          "Title": "Categuria:Fìsica"
+        },
+        {
+          "ID": 193553,
+          "Title": "Categuria:Scense de l'ambient"
+        },
+        {
+          "ID": 193582,
+          "Title": "Categuria:Scense natürai"
+        },
+        {
+          "ID": 218814,
+          "Title": "Categuria:Scensa"
+        }
+      ],
+      "Articles": [
+        {
+          "ID": 123673,
+          "Title": "Föch"
+        },
+        {
+          "ID": 126749,
+          "Title": "Oryza sativa"
+        },
+        {
+          "ID": 131888,
+          "Title": "Ris"
+        },
+        {
+          "ID": 134482,
+          "Title": "Fragaria vesca"
+        },
+        {
+          "ID": 135570,
+          "Title": "Triticum"
+        },
+        {
+          "ID": 135621,
+          "Title": "Triticum aestivum"
+        },
+        {
+          "ID": 135786,
+          "Title": "Formét"
+        },
+        {
+          "ID": 135817,
+          "Title": "Zea mays"
+        },
+        {
+          "ID": 145169,
+          "Title": "Citrus × sinensis"
+        },
+        {
+          "ID": 206332,
+          "Title": "Magiostra"
+        },
+        {
+          "ID": 210086,
+          "Title": "Bigol"
+        },
+        {
+          "ID": 210436,
+          "Title": "Masturbazion"
+        },
+        {
+          "ID": 212795,
+          "Title": "Orina"
+        }
+      ]
+    },
+    {
+      "ID": 2147483643,
+      "Title": "People and self",
+      "Categories": [
+        {
+          "ID": 5022,
+          "Title": "Categuria:Biugrafii"
+        }
+      ],
+      "Articles": [
+        {
+          "ID": 130368,
+          "Title": "Adolf Hitler"
+        },
+        {
+          "ID": 130411,
+          "Title": "Galileo Galilei"
+        },
+        {
+          "ID": 131123,
+          "Title": "Joseph Smith"
+        },
+        {
+          "ID": 137478,
+          "Title": "Cristòforo Colómbo"
+        },
+        {
+          "ID": 137612,
+          "Title": "Johannes Kepler"
+        },
+        {
+          "ID": 160030,
+          "Title": "Carl Friedrich Gauss"
+        },
+        {
+          "ID": 183300,
+          "Title": "Alan Turing"
+        },
+        {
+          "ID": 209736,
+          "Title": "Anders Behring Breivik"
+        },
+        {
+          "ID": 211047,
+          "Title": "Ted Cruz"
+        },
+        {
+          "ID": 212483,
+          "Title": "Bill Gates"
+        },
+        {
+          "ID": 219500,
+          "Title": "Noam Chomsky"
+        }
+      ]
+    },
+    {
+      "ID": 2147483644,
+      "Title": "Philosophy and thinking",
+      "Categories": [
+        {
+          "ID": 193564,
+          "Title": "Categuria:Filusufìa"
+        }
+      ]
+    },
+    {
+      "ID": 2147483645,
+      "Title": "Religion and belief systems",
+      "Categories": [
+        {
+          "ID": 136813,
+          "Title": "Categuria:Religiun e credenz"
+        }
+      ]
+    },
+    {
+      "ID": 2147483646,
+      "Title": "Society and social sciences",
+      "Categories": [
+        {
+          "ID": 130924,
+          "Title": "Categuria:Dirit"
+        },
+        {
+          "ID": 143634,
+          "Title": "Categuria:Scienz suciaj"
+        },
+        {
+          "ID": 193558,
+          "Title": "Categuria:Scense umane e sociai"
+        }
+      ],
+      "Articles": [
+        {
+          "ID": 126014,
+          "Title": "Università di Studi de Milan"
+        },
+        {
+          "ID": 126510,
+          "Title": "Cile"
+        },
+        {
+          "ID": 126645,
+          "Title": "Barbados"
+        },
+        {
+          "ID": 127726,
+          "Title": "Iran"
+        },
+        {
+          "ID": 133156,
+          "Title": "Üniun Eurupea"
+        },
+        {
+          "ID": 191089,
+          "Title": "Università de Tübinga"
+        },
+        {
+          "ID": 212611,
+          "Title": "Attentaa a Westminster del 2017"
+        },
+        {
+          "ID": 216550,
+          "Title": "Üniversitaa da Washington"
+        }
+      ]
+    },
+    {
+      "ID": 2147483647,
+      "Title": "Technology and applied sciences",
+      "Categories": [
+        {
+          "ID": 139463,
+          "Title": "Categuria:Traspòrt"
+        },
+        {
+          "ID": 143519,
+          "Title": "Categuria:Internet"
+        },
+        {
+          "ID": 193573,
+          "Title": "Categuria:Ingegnerìa"
+        },
+        {
+          "ID": 212503,
+          "Title": "Categuria:Database"
+        },
+        {
+          "ID": 216114,
+          "Title": "Categuria:Computer"
+        }
+      ],
+      "Articles": [
+        {
+          "ID": 126592,
+          "Title": "Dumini Internet de prim nivel"
+        }
+      ]
+    }
+  ],
+  "Filters": [
+    {
+      "ID": 122538,
+      "Title": "Categuria:Regístar da pàgin da desambiguazziun"
+    },
+    {
+      "ID": 145993,
+      "Title": "Categuria:Categurij scundüü"
+    }
+  ]
+}

@@ -1,0 +1,601 @@
+{
+  "Language": "als",
+  "Topics": [
+    {
+      "ID": 2147483637,
+      "Title": "Culture and the arts",
+      "Categories": [
+        {
+          "ID": 2512,
+          "Title": "Kategorie:Band"
+        },
+        {
+          "ID": 2552,
+          "Title": "Kategorie:Kunscht"
+        },
+        {
+          "ID": 4447,
+          "Title": "Kategorie:Sport"
+        },
+        {
+          "ID": 14995,
+          "Title": "Kategorie:Ernährig"
+        },
+        {
+          "ID": 18810,
+          "Title": "Kategorie:Gricht"
+        },
+        {
+          "ID": 18971,
+          "Title": "Kategorie:Kultur"
+        },
+        {
+          "ID": 22239,
+          "Title": "Kategorie:Freiziitkultur"
+        },
+        {
+          "ID": 36076,
+          "Title": "Kategorie:Filmditel"
+        },
+        {
+          "ID": 45826,
+          "Title": "Kategorie:Sportart"
+        },
+        {
+          "ID": 45869,
+          "Title": "Kategorie:Lääbensmittel"
+        }
+      ],
+      "Articles": [
+        {
+          "ID": 1942,
+          "Title": "Wikipedia"
+        },
+        {
+          "ID": 1946,
+          "Title": "Enzyklopädie"
+        },
+        {
+          "ID": 2708,
+          "Title": "Kuchen"
+        },
+        {
+          "ID": 3856,
+          "Title": "Bier"
+        },
+        {
+          "ID": 14764,
+          "Title": "Keks"
+        },
+        {
+          "ID": 34804,
+          "Title": "Fellatio"
+        },
+        {
+          "ID": 35662,
+          "Title": "Spiegelei"
+        },
+        {
+          "ID": 38262,
+          "Title": "Realismus (Kunst)"
+        },
+        {
+          "ID": 42074,
+          "Title": "CIA World Factbook"
+        },
+        {
+          "ID": 43100,
+          "Title": "Realismus"
+        },
+        {
+          "ID": 46363,
+          "Title": "Schokolade"
+        },
+        {
+          "ID": 51070,
+          "Title": "Kaffee"
+        },
+        {
+          "ID": 52065,
+          "Title": "Brot"
+        },
+        {
+          "ID": 54010,
+          "Title": "Hausschwein"
+        },
+        {
+          "ID": 56386,
+          "Title": "Realität"
+        },
+        {
+          "ID": 63228,
+          "Title": "Ei"
+        },
+        {
+          "ID": 70538,
+          "Title": "Pizza"
+        },
+        {
+          "ID": 70830,
+          "Title": "Pilsner Bier"
+        }
+      ]
+    },
+    {
+      "ID": 2147483638,
+      "Title": "Geography and places",
+      "Categories": [
+        {
+          "ID": 16269,
+          "Title": "Kategorie:Geografi"
+        },
+        {
+          "ID": 53420,
+          "Title": "Kategorie:Dänggmol"
+        }
+      ],
+      "Articles": [
+        {
+          "ID": 4160,
+          "Title": "Myanmar"
+        },
+        {
+          "ID": 13524,
+          "Title": "Australien"
+        },
+        {
+          "ID": 19299,
+          "Title": "Pyramide (Bauwerk)"
+        },
+        {
+          "ID": 21145,
+          "Title": "Paris"
+        },
+        {
+          "ID": 39864,
+          "Title": "Venedig"
+        },
+        {
+          "ID": 42202,
+          "Title": "Canberra"
+        },
+        {
+          "ID": 56688,
+          "Title": "Mensch"
+        }
+      ]
+    },
+    {
+      "ID": 2147483639,
+      "Title": "Health and fitness",
+      "Categories": [
+        {
+          "ID": 19006,
+          "Title": "Kategorie:Gsundheit"
+        },
+        {
+          "ID": 22181,
+          "Title": "Kategorie:Medizin"
+        },
+        {
+          "ID": 23053,
+          "Title": "Kategorie:Gsundheitswäse"
+        }
+      ]
+    },
+    {
+      "ID": 2147483640,
+      "Title": "History and events",
+      "Categories": [
+        {
+          "ID": 8116,
+          "Title": "Kategorie:Gschicht"
+        },
+        {
+          "ID": 49757,
+          "Title": "Kategorie:Fiirtig, Mahntag, Aktionstag"
+        },
+        {
+          "ID": 59420,
+          "Title": "Kategorie:Gschicht noch Land"
+        }
+      ],
+      "Articles": [
+        {
+          "ID": 32240,
+          "Title": "Tōhoku-Erdbeben 2011"
+        },
+        {
+          "ID": 42172,
+          "Title": "Terroranschläge am 11. September 2001"
+        },
+        {
+          "ID": 59392,
+          "Title": "Donald Trump"
+        }
+      ]
+    },
+    {
+      "ID": 2147483641,
+      "Title": "Mathematics and logic",
+      "Categories": [
+        {
+          "ID": 6069,
+          "Title": "Kategorie:Mathematik"
+        },
+        {
+          "ID": 56163,
+          "Title": "Kategorie:Logik"
+        },
+        {
+          "ID": 58770,
+          "Title": "Kategorie:Statistik"
+        }
+      ]
+    },
+    {
+      "ID": 2147483642,
+      "Title": "Nature and physical sciences",
+      "Categories": [
+        {
+          "ID": 3979,
+          "Title": "Kategorie:Natur"
+        },
+        {
+          "ID": 5646,
+          "Title": "Kategorie:Physik"
+        },
+        {
+          "ID": 16264,
+          "Title": "Kategorie:Chemii"
+        },
+        {
+          "ID": 17591,
+          "Title": "Kategorie:Wisseschaft"
+        },
+        {
+          "ID": 46224,
+          "Title": "Kategorie:Naturwüsseschaft"
+        },
+        {
+          "ID": 51010,
+          "Title": "Kategorie:Katastroofe"
+        },
+        {
+          "ID": 54789,
+          "Title": "Kategorie:Chemischi Verbindig"
+        },
+        {
+          "ID": 56142,
+          "Title": "Kategorie:Zoologii"
+        }
+      ],
+      "Articles": [
+        {
+          "ID": 9754,
+          "Title": "Penis"
+        },
+        {
+          "ID": 11048,
+          "Title": "Weizen"
+        },
+        {
+          "ID": 19088,
+          "Title": "Melone"
+        },
+        {
+          "ID": 23448,
+          "Title": "Masturbation"
+        },
+        {
+          "ID": 26380,
+          "Title": "Hoden"
+        },
+        {
+          "ID": 27190,
+          "Title": "Muskulatur"
+        },
+        {
+          "ID": 30070,
+          "Title": "Geschlechtsorgan"
+        },
+        {
+          "ID": 50453,
+          "Title": "Feuer"
+        },
+        {
+          "ID": 52093,
+          "Title": "Mais"
+        },
+        {
+          "ID": 52118,
+          "Title": "Reis"
+        },
+        {
+          "ID": 54121,
+          "Title": "Zitrone"
+        },
+        {
+          "ID": 54898,
+          "Title": "Altweltkamele"
+        },
+        {
+          "ID": 56743,
+          "Title": "Muskel"
+        },
+        {
+          "ID": 57075,
+          "Title": "Reproduktionssystem"
+        },
+        {
+          "ID": 70377,
+          "Title": "Ananas"
+        }
+      ]
+    },
+    {
+      "ID": 2147483643,
+      "Title": "People and self",
+      "Categories": [
+        {
+          "ID": 2549,
+          "Title": "Kategorie:Person"
+        },
+        {
+          "ID": 27671,
+          "Title": "Kategorie:Frau"
+        },
+        {
+          "ID": 47199,
+          "Title": "Kategorie:Familiename"
+        },
+        {
+          "ID": 73308,
+          "Title": "Kategorie:Frauesache"
+        }
+      ],
+      "Articles": [
+        {
+          "ID": 2238,
+          "Title": "Johannes Kepler"
+        },
+        {
+          "ID": 6924,
+          "Title": "Galileo Galilei"
+        },
+        {
+          "ID": 7436,
+          "Title": "John Lennon"
+        },
+        {
+          "ID": 13504,
+          "Title": "Adolf Hitler"
+        },
+        {
+          "ID": 14348,
+          "Title": "Elton John"
+        },
+        {
+          "ID": 15837,
+          "Title": "Sigmund Freud"
+        },
+        {
+          "ID": 16873,
+          "Title": "René Descartes"
+        },
+        {
+          "ID": 24275,
+          "Title": "Bill Gates"
+        },
+        {
+          "ID": 28834,
+          "Title": "Daniel Radcliffe"
+        },
+        {
+          "ID": 32430,
+          "Title": "Richard Wagner"
+        },
+        {
+          "ID": 38733,
+          "Title": "Christoph Kolumbus"
+        },
+        {
+          "ID": 47088,
+          "Title": "Leonardo Fibonacci"
+        },
+        {
+          "ID": 47326,
+          "Title": "Carl Friedrich Gauß"
+        },
+        {
+          "ID": 47699,
+          "Title": "Alan Turing"
+        },
+        {
+          "ID": 47810,
+          "Title": "Thomas von Aquin"
+        },
+        {
+          "ID": 47930,
+          "Title": "Noam Chomsky"
+        },
+        {
+          "ID": 48282,
+          "Title": "Adam Smith"
+        },
+        {
+          "ID": 49484,
+          "Title": "The Big Bang Theory"
+        },
+        {
+          "ID": 53647,
+          "Title": "Lewis Carroll"
+        }
+      ]
+    },
+    {
+      "ID": 2147483644,
+      "Title": "Philosophy and thinking",
+      "Categories": [
+        {
+          "ID": 16248,
+          "Title": "Kategorie:Philosophi"
+        },
+        {
+          "ID": 22083,
+          "Title": "Kategorie:Ideologii"
+        },
+        {
+          "ID": 58711,
+          "Title": "Kategorie:Ethik"
+        }
+      ],
+      "Articles": [
+        {
+          "ID": 4052,
+          "Title": "Schönheit"
+        },
+        {
+          "ID": 57986,
+          "Title": "Glaube"
+        }
+      ]
+    },
+    {
+      "ID": 2147483645,
+      "Title": "Religion and belief systems",
+      "Categories": [
+        {
+          "ID": 13204,
+          "Title": "Kategorie:Religion"
+        },
+        {
+          "ID": 57987,
+          "Title": "Kategorie:Glaube"
+        }
+      ]
+    },
+    {
+      "ID": 2147483646,
+      "Title": "Society and social sciences",
+      "Categories": [
+        {
+          "ID": 16135,
+          "Title": "Kategorie:Recht"
+        },
+        {
+          "ID": 16290,
+          "Title": "Kategorie:Gsellschaft"
+        },
+        {
+          "ID": 19126,
+          "Title": "Kategorie:Internationali Organisation"
+        },
+        {
+          "ID": 42090,
+          "Title": "Kategorie:Sozialwüsseschaft"
+        },
+        {
+          "ID": 53574,
+          "Title": "Kategorie:Geisteswüsseschaft"
+        }
+      ],
+      "Articles": [
+        {
+          "ID": 18929,
+          "Title": "Iran"
+        },
+        {
+          "ID": 19344,
+          "Title": "Chile"
+        },
+        {
+          "ID": 21020,
+          "Title": "Europäische Union"
+        },
+        {
+          "ID": 23126,
+          "Title": "Harvard-Universität"
+        },
+        {
+          "ID": 24162,
+          "Title": "Albert-Ludwigs-Universität Freiburg"
+        },
+        {
+          "ID": 24803,
+          "Title": "Eberhard Karls Universität Tübingen"
+        },
+        {
+          "ID": 30520,
+          "Title": "Barbados"
+        },
+        {
+          "ID": 32576,
+          "Title": "Universität Bern"
+        },
+        {
+          "ID": 46946,
+          "Title": "Massachusetts Institute of Technology"
+        },
+        {
+          "ID": 46952,
+          "Title": "University of Arizona"
+        },
+        {
+          "ID": 59106,
+          "Title": "Starbucks"
+        }
+      ]
+    },
+    {
+      "ID": 2147483647,
+      "Title": "Technology and applied sciences",
+      "Categories": [
+        {
+          "ID": 2662,
+          "Title": "Kategorie:Computer"
+        },
+        {
+          "ID": 14465,
+          "Title": "Kategorie:Verkehr"
+        },
+        {
+          "ID": 18801,
+          "Title": "Kategorie:Internet"
+        },
+        {
+          "ID": 25502,
+          "Title": "Kategorie:Informatik"
+        },
+        {
+          "ID": 26325,
+          "Title": "Kategorie:Technik"
+        },
+        {
+          "ID": 51331,
+          "Title": "Kategorie:Elektronik"
+        },
+        {
+          "ID": 51360,
+          "Title": "Kategorie:Ääscheniöörwüsseschaft"
+        }
+      ],
+      "Articles": [
+        {
+          "ID": 14135,
+          "Title": "Top Level Domain"
+        }
+      ]
+    }
+  ],
+  "Filters": [
+    {
+      "ID": 2445,
+      "Title": "Kategorie:Begriffsklärung"
+    },
+    {
+      "ID": 36782,
+      "Title": "Kategorie:Versteckti Kategorie"
+    }
+  ]
+}

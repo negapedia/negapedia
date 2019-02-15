@@ -1,0 +1,133 @@
+{
+  "Language": "lg",
+  "Topics": [
+    {
+      "ID": 2147483637,
+      "Title": "Culture and the arts",
+      "Articles": [
+        {
+          "ID": 3584,
+          "Title": "Wikipedia"
+        }
+      ]
+    },
+    {
+      "ID": 2147483638,
+      "Title": "Geography and places",
+      "Categories": [
+        {
+          "ID": 7181,
+          "Title": "Category:Essomansi"
+        }
+      ],
+      "Articles": [
+        {
+          "ID": 3777,
+          "Title": "Paris"
+        },
+        {
+          "ID": 6397,
+          "Title": "Omuntu"
+        },
+        {
+          "ID": 6969,
+          "Title": "Omuntu kalimagezi"
+        }
+      ]
+    },
+    {
+      "ID": 2147483639,
+      "Title": "Health and fitness"
+    },
+    {
+      "ID": 2147483640,
+      "Title": "History and events",
+      "Articles": [
+        {
+          "ID": 7323,
+          "Title": "Donald Trump"
+        }
+      ]
+    },
+    {
+      "ID": 2147483641,
+      "Title": "Mathematics and logic",
+      "Categories": [
+        {
+          "ID": 2780,
+          "Title": "Category:Okubala"
+        }
+      ]
+    },
+    {
+      "ID": 2147483642,
+      "Title": "Nature and physical sciences",
+      "Categories": [
+        {
+          "ID": 2781,
+          "Title": "Category:Okumanya"
+        },
+        {
+          "ID": 6512,
+          "Title": "Category:Ebyobuziba"
+        }
+      ],
+      "Articles": [
+        {
+          "ID": 4263,
+          "Title": "Omuchungwa"
+        }
+      ]
+    },
+    {
+      "ID": 2147483643,
+      "Title": "People and self",
+      "Articles": [
+        {
+          "ID": 3694,
+          "Title": "Adolf Hitler"
+        }
+      ]
+    },
+    {
+      "ID": 2147483644,
+      "Title": "Philosophy and thinking",
+      "Articles": [
+        {
+          "ID": 7005,
+          "Title": "Fakikya (fact)"
+        }
+      ]
+    },
+    {
+      "ID": 2147483645,
+      "Title": "Religion and belief systems"
+    },
+    {
+      "ID": 2147483646,
+      "Title": "Society and social sciences",
+      "Articles": [
+        {
+          "ID": 3907,
+          "Title": "Chile"
+        }
+      ]
+    },
+    {
+      "ID": 2147483647,
+      "Title": "Technology and applied sciences",
+      "Categories": [
+        {
+          "ID": 6911,
+          "Title": "Category:Ekinonoozo"
+        }
+      ]
+    }
+  ],
+  "Filters": [
+    {
+      "ID": 5772,
+      "Title": "Category:Disambig"
+    }
+  ]
+}

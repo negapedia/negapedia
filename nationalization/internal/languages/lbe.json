@@ -1,0 +1,195 @@
+{
+  "Language": "lbe",
+  "Topics": [
+    {
+      "ID": 2147483637,
+      "Title": "Culture and the arts",
+      "Categories": [
+        {
+          "ID": 4970,
+          "Title": "Категория:Спорт"
+        },
+        {
+          "ID": 5218,
+          "Title": "Категория:Дукра"
+        },
+        {
+          "ID": 5549,
+          "Title": "Категория:Рангру"
+        }
+      ],
+      "Articles": [
+        {
+          "ID": 1870,
+          "Title": "Энциклопедия"
+        },
+        {
+          "ID": 3969,
+          "Title": "Википедия"
+        },
+        {
+          "ID": 5528,
+          "Title": "Дунгъуз"
+        },
+        {
+          "ID": 5530,
+          "Title": "ВацӀлул дунгъуз"
+        }
+      ]
+    },
+    {
+      "ID": 2147483638,
+      "Title": "Geography and places",
+      "Articles": [
+        {
+          "ID": 4883,
+          "Title": "Инсан"
+        }
+      ]
+    },
+    {
+      "ID": 2147483639,
+      "Title": "Health and fitness",
+      "Categories": [
+        {
+          "ID": 5266,
+          "Title": "Категория:Медицина"
+        }
+      ]
+    },
+    {
+      "ID": 2147483640,
+      "Title": "History and events",
+      "Categories": [
+        {
+          "ID": 3232,
+          "Title": "Категория:Тарих"
+        }
+      ]
+    },
+    {
+      "ID": 2147483641,
+      "Title": "Mathematics and logic",
+      "Categories": [
+        {
+          "ID": 5121,
+          "Title": "Категория:Математика"
+        },
+        {
+          "ID": 7118,
+          "Title": "Категория:Мантикь"
+        }
+      ]
+    },
+    {
+      "ID": 2147483642,
+      "Title": "Nature and physical sciences",
+      "Categories": [
+        {
+          "ID": 4870,
+          "Title": "Категория:Элму"
+        },
+        {
+          "ID": 4933,
+          "Title": "Категория:ТIабиаьт"
+        },
+        {
+          "ID": 5143,
+          "Title": "Категория:ТIабиаьтрал элмурду"
+        },
+        {
+          "ID": 5550,
+          "Title": "Категория:Физика"
+        }
+      ],
+      "Articles": [
+        {
+          "ID": 4901,
+          "Title": "ЛачӀа"
+        },
+        {
+          "ID": 4920,
+          "Title": "Шагьнал лачӀа"
+        },
+        {
+          "ID": 4926,
+          "Title": "Ппиринж"
+        },
+        {
+          "ID": 5524,
+          "Title": "Варани"
+        },
+        {
+          "ID": 5836,
+          "Title": "Помидор"
+        },
+        {
+          "ID": 6184,
+          "Title": "Коата"
+        },
+        {
+          "ID": 6432,
+          "Title": "Манго"
+        },
+        {
+          "ID": 6967,
+          "Title": "Биши"
+        }
+      ]
+    },
+    {
+      "ID": 2147483643,
+      "Title": "People and self",
+      "Categories": [
+        {
+          "ID": 5219,
+          "Title": "Категория:Оьрму"
+        }
+      ],
+      "Articles": [
+        {
+          "ID": 7143,
+          "Title": "Брейвик, Андерс Беринг"
+        }
+      ]
+    },
+    {
+      "ID": 2147483644,
+      "Title": "Philosophy and thinking"
+    },
+    {
+      "ID": 2147483645,
+      "Title": "Religion and belief systems",
+      "Categories": [
+        {
+          "ID": 3233,
+          "Title": "Категория:Дин"
+        }
+      ]
+    },
+    {
+      "ID": 2147483646,
+      "Title": "Society and social sciences",
+      "Categories": [
+        {
+          "ID": 5117,
+          "Title": "Категория:Жяматрал элмурду"
+        }
+      ],
+      "Articles": [
+        {
+          "ID": 6877,
+          "Title": "Иран"
+        },
+        {
+          "ID": 11781,
+          "Title": "Чилй"
+        }
+      ]
+    },
+    {
+      "ID": 2147483647,
+      "Title": "Technology and applied sciences"
+    }
+  ]
+}

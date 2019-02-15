@@ -1,0 +1,185 @@
+{
+  "Language": "arc",
+  "Topics": [
+    {
+      "ID": 2147483637,
+      "Title": "Culture and the arts",
+      "Categories": [
+        {
+          "ID": 4356,
+          "Title": "ܣܕܪܐ:ܓܘܢܐ"
+        }
+      ],
+      "Articles": [
+        {
+          "ID": 2256,
+          "Title": "ܘܝܩܝܦܕܝܐ"
+        },
+        {
+          "ID": 4501,
+          "Title": "ܒܝܥܬܐ"
+        }
+      ]
+    },
+    {
+      "ID": 2147483638,
+      "Title": "Geography and places",
+      "Articles": [
+        {
+          "ID": 2042,
+          "Title": "ܦܐܪܝܣ"
+        },
+        {
+          "ID": 2335,
+          "Title": "ܐܘܣܛܪܠܝܐ (ܐܬܪܐ)"
+        },
+        {
+          "ID": 3346,
+          "Title": "ܒܪ ܐܢܫܐ"
+        }
+      ]
+    },
+    {
+      "ID": 2147483639,
+      "Title": "Health and fitness",
+      "Categories": [
+        {
+          "ID": 5196,
+          "Title": "ܣܕܪܐ:ܐܣܝܘܬܐ"
+        }
+      ]
+    },
+    {
+      "ID": 2147483640,
+      "Title": "History and events",
+      "Categories": [
+        {
+          "ID": 7294,
+          "Title": "ܣܕܪܐ:ܣܘܥܪܢܐ"
+        }
+      ]
+    },
+    {
+      "ID": 2147483641,
+      "Title": "Mathematics and logic",
+      "Articles": [
+        {
+          "ID": 5654,
+          "Title": "ܐܘܪܟܐ"
+        }
+      ]
+    },
+    {
+      "ID": 2147483642,
+      "Title": "Nature and physical sciences",
+      "Categories": [
+        {
+          "ID": 7172,
+          "Title": "ܣܕܪܐ:ܝܕܥܬܐ"
+        }
+      ],
+      "Articles": [
+        {
+          "ID": 2668,
+          "Title": "ܢܘܪܐ (ܕܠܩܐ)"
+        },
+        {
+          "ID": 3877,
+          "Title": "ܥܘܩܒܪܬܐ"
+        },
+        {
+          "ID": 4655,
+          "Title": "ܐܫܟܐ"
+        },
+        {
+          "ID": 4853,
+          "Title": "ܓܡܠܐ"
+        },
+        {
+          "ID": 5445,
+          "Title": "ܚܛܬܐ"
+        },
+        {
+          "ID": 5446,
+          "Title": "ܪܘܙܐ"
+        }
+      ]
+    },
+    {
+      "ID": 2147483643,
+      "Title": "People and self",
+      "Categories": [
+        {
+          "ID": 8460,
+          "Title": "ܣܕܪܐ:ܢܐܫܝ"
+        }
+      ],
+      "Articles": [
+        {
+          "ID": 2670,
+          "Title": "ܙܝܓܡܘܢܕ ܦܪܘܝܕ"
+        },
+        {
+          "ID": 3347,
+          "Title": "ܐܕܘܠܦ ܗܝܛܠܪ"
+        }
+      ]
+    },
+    {
+      "ID": 2147483644,
+      "Title": "Philosophy and thinking"
+    },
+    {
+      "ID": 2147483645,
+      "Title": "Religion and belief systems",
+      "Categories": [
+        {
+          "ID": 3913,
+          "Title": "ܣܕܪܐ:ܬܘܕܝܬܐ"
+        }
+      ]
+    },
+    {
+      "ID": 2147483646,
+      "Title": "Society and social sciences",
+      "Articles": [
+        {
+          "ID": 1758,
+          "Title": "ܐܝܪܐܢ"
+        },
+        {
+          "ID": 3401,
+          "Title": "ܚܘܝܕܐ ܐܘܪܘܦܝܐ"
+        },
+        {
+          "ID": 6910,
+          "Title": "ܬܫܝܠܝ"
+        },
+        {
+          "ID": 9344,
+          "Title": "ܒܝܬ ܨܘܒܐ ܕܡܘܣܩܒܐ"
+        }
+      ]
+    },
+    {
+      "ID": 2147483647,
+      "Title": "Technology and applied sciences",
+      "Categories": [
+        {
+          "ID": 7170,
+          "Title": "ܣܕܪܐ:ܐܠܝܩܛܪܘܢܝܘܬܐ"
+        },
+        {
+          "ID": 7171,
+          "Title": "ܣܕܪܐ:ܛܟܢܘܠܘܓܝܐ"
+        }
+      ]
+    }
+  ],
+  "Filters": [
+    {
+      "ID": 6098,
+      "Title": "ܣܕܪܐ:ܬܘܚܡܐ ܐܚܪܢܐ"
+    }
+  ]
+}

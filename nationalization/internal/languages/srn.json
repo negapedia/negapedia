@@ -1,0 +1,129 @@
+{
+  "Language": "srn",
+  "Topics": [
+    {
+      "ID": 2147483637,
+      "Title": "Culture and the arts",
+      "Categories": [
+        {
+          "ID": 32,
+          "Title": "Guru:Art"
+        },
+        {
+          "ID": 74,
+          "Title": "Guru:Kultur"
+        }
+      ],
+      "Articles": [
+        {
+          "ID": 924,
+          "Title": "Wikipedia"
+        }
+      ]
+    },
+    {
+      "ID": 2147483638,
+      "Title": "Geography and places",
+      "Categories": [
+        {
+          "ID": 60,
+          "Title": "Guru:Geografi"
+        }
+      ],
+      "Articles": [
+        {
+          "ID": 2327,
+          "Title": "Paris"
+        }
+      ]
+    },
+    {
+      "ID": 2147483639,
+      "Title": "Health and fitness"
+    },
+    {
+      "ID": 2147483640,
+      "Title": "History and events",
+      "Categories": [
+        {
+          "ID": 1572,
+          "Title": "Guru:Stori"
+        }
+      ]
+    },
+    {
+      "ID": 2147483641,
+      "Title": "Mathematics and logic"
+    },
+    {
+      "ID": 2147483642,
+      "Title": "Nature and physical sciences",
+      "Categories": [
+        {
+          "ID": 116,
+          "Title": "Guru:Sabi"
+        },
+        {
+          "ID": 121,
+          "Title": "Guru:Sabi fu natru"
+        }
+      ],
+      "Articles": [
+        {
+          "ID": 2158,
+          "Title": "Aboma"
+        }
+      ]
+    },
+    {
+      "ID": 2147483643,
+      "Title": "People and self",
+      "Categories": [
+        {
+          "ID": 78,
+          "Title": "Guru:Man"
+        }
+      ]
+    },
+    {
+      "ID": 2147483644,
+      "Title": "Philosophy and thinking",
+      "Categories": [
+        {
+          "ID": 120,
+          "Title": "Guru:Sabi fu denki"
+        }
+      ]
+    },
+    {
+      "ID": 2147483645,
+      "Title": "Religion and belief systems"
+    },
+    {
+      "ID": 2147483646,
+      "Title": "Society and social sciences",
+      "Categories": [
+        {
+          "ID": 119,
+          "Title": "Guru:Sabi fu den man"
+        }
+      ],
+      "Articles": [
+        {
+          "ID": 2664,
+          "Title": "Sili"
+        }
+      ]
+    },
+    {
+      "ID": 2147483647,
+      "Title": "Technology and applied sciences",
+      "Articles": [
+        {
+          "ID": 1611,
+          "Title": "Internet TLD"
+        }
+      ]
+    }
+  ]
+}

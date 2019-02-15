@@ -1,0 +1,115 @@
+{
+  "Language": "ti",
+  "Topics": [
+    {
+      "ID": 2147483637,
+      "Title": "Culture and the arts",
+      "Articles": [
+        {
+          "ID": 2523,
+          "Title": "ዊኪፔዲያ"
+        }
+      ]
+    },
+    {
+      "ID": 2147483638,
+      "Title": "Geography and places",
+      "Categories": [
+        {
+          "ID": 2867,
+          "Title": "Category:ጆግራፍ"
+        }
+      ],
+      "Articles": [
+        {
+          "ID": 2758,
+          "Title": "ኣውስትራሊያ"
+        }
+      ]
+    },
+    {
+      "ID": 2147483639,
+      "Title": "Health and fitness",
+      "Categories": [
+        {
+          "ID": 2862,
+          "Title": "Category:ሕክምና"
+        }
+      ]
+    },
+    {
+      "ID": 2147483640,
+      "Title": "History and events"
+    },
+    {
+      "ID": 2147483641,
+      "Title": "Mathematics and logic",
+      "Categories": [
+        {
+          "ID": 2863,
+          "Title": "Category:ትምህርቲ ሕሳብ"
+        }
+      ]
+    },
+    {
+      "ID": 2147483642,
+      "Title": "Nature and physical sciences",
+      "Categories": [
+        {
+          "ID": 2864,
+          "Title": "Category:ኣስተዋጽኦ ፍልጠት"
+        },
+        {
+          "ID": 2869,
+          "Title": "Category:ስነ እንስሳ"
+        }
+      ],
+      "Articles": [
+        {
+          "ID": 2940,
+          "Title": "መሸኒ"
+        },
+        {
+          "ID": 2955,
+          "Title": "መሳርዕ ግብረ-ስጋ"
+        }
+      ]
+    },
+    {
+      "ID": 2147483643,
+      "Title": "People and self"
+    },
+    {
+      "ID": 2147483644,
+      "Title": "Philosophy and thinking"
+    },
+    {
+      "ID": 2147483645,
+      "Title": "Religion and belief systems",
+      "Categories": [
+        {
+          "ID": 2925,
+          "Title": "Category:ሃይማኖት"
+        }
+      ]
+    },
+    {
+      "ID": 2147483646,
+      "Title": "Society and social sciences",
+      "Articles": [
+        {
+          "ID": 3672,
+          "Title": "ቺሌ"
+        },
+        {
+          "ID": 4509,
+          "Title": "ኢራን"
+        }
+      ]
+    },
+    {
+      "ID": 2147483647,
+      "Title": "Technology and applied sciences"
+    }
+  ]
+}

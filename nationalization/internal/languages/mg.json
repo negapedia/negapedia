@@ -1,0 +1,339 @@
+{
+  "Language": "mg",
+  "Topics": [
+    {
+      "ID": 2147483637,
+      "Title": "Culture and the arts",
+      "Categories": [
+        {
+          "ID": 1150,
+          "Title": "Sokajy:Sakafo"
+        },
+        {
+          "ID": 169027,
+          "Title": "Sokajy:Kanto"
+        },
+        {
+          "ID": 225279,
+          "Title": "Sokajy:Horonantsary"
+        },
+        {
+          "ID": 225282,
+          "Title": "Sokajy:Kolontsaina"
+        }
+      ],
+      "Articles": [
+        {
+          "ID": 1959,
+          "Title": "Saosy"
+        },
+        {
+          "ID": 2228,
+          "Title": "Wikipedia"
+        },
+        {
+          "ID": 4553,
+          "Title": "Labiera"
+        },
+        {
+          "ID": 113775,
+          "Title": "Raki-pahalalana"
+        },
+        {
+          "ID": 189750,
+          "Title": "AC/DC"
+        },
+        {
+          "ID": 189816,
+          "Title": "Led Zeppelin"
+        }
+      ]
+    },
+    {
+      "ID": 2147483638,
+      "Title": "Geography and places",
+      "Categories": [
+        {
+          "ID": 2140,
+          "Title": "Sokajy:Jeografia"
+        }
+      ],
+      "Articles": [
+        {
+          "ID": 1969,
+          "Title": "Paris"
+        },
+        {
+          "ID": 2254,
+          "Title": "Olombelona"
+        },
+        {
+          "ID": 2301,
+          "Title": "Aostralia"
+        },
+        {
+          "ID": 6590,
+          "Title": "Myanmara"
+        },
+        {
+          "ID": 173171,
+          "Title": "Queensland"
+        },
+        {
+          "ID": 183649,
+          "Title": "Canberra"
+        }
+      ]
+    },
+    {
+      "ID": 2147483639,
+      "Title": "Health and fitness"
+    },
+    {
+      "ID": 2147483640,
+      "Title": "History and events",
+      "Categories": [
+        {
+          "ID": 3677,
+          "Title": "Sokajy:Tantara"
+        }
+      ],
+      "Articles": [
+        {
+          "ID": 189360,
+          "Title": "Donald Trump"
+        }
+      ]
+    },
+    {
+      "ID": 2147483641,
+      "Title": "Mathematics and logic",
+      "Categories": [
+        {
+          "ID": 6230,
+          "Title": "Sokajy:Matematika"
+        }
+      ]
+    },
+    {
+      "ID": 2147483642,
+      "Title": "Nature and physical sciences",
+      "Categories": [
+        {
+          "ID": 3826,
+          "Title": "Sokajy:Siansa"
+        },
+        {
+          "ID": 3835,
+          "Title": "Sokajy:Simia"
+        },
+        {
+          "ID": 4089,
+          "Title": "Sokajy:Fizika"
+        }
+      ],
+      "Articles": [
+        {
+          "ID": 2377,
+          "Title": "Vary"
+        },
+        {
+          "ID": 5601,
+          "Title": "Manga"
+        },
+        {
+          "ID": 6503,
+          "Title": "Katsaka (zavamaniry)"
+        },
+        {
+          "ID": 6828,
+          "Title": "Voatabia"
+        }
+      ]
+    },
+    {
+      "ID": 2147483643,
+      "Title": "People and self",
+      "Categories": [
+        {
+          "ID": 9694,
+          "Title": "Sokajy:Tantaram-piainana"
+        },
+        {
+          "ID": 229878,
+          "Title": "Sokajy:Olona"
+        }
+      ],
+      "Articles": [
+        {
+          "ID": 5901,
+          "Title": "Joseph Smith"
+        },
+        {
+          "ID": 8361,
+          "Title": "Christophe Colomb"
+        },
+        {
+          "ID": 8596,
+          "Title": "Adolf Hitler"
+        },
+        {
+          "ID": 189230,
+          "Title": "Lewis Carroll"
+        },
+        {
+          "ID": 189283,
+          "Title": "William Blake"
+        },
+        {
+          "ID": 189342,
+          "Title": "Bill Gates"
+        },
+        {
+          "ID": 189811,
+          "Title": "Elton John"
+        },
+        {
+          "ID": 189818,
+          "Title": "John Lennon"
+        },
+        {
+          "ID": 189888,
+          "Title": "Richard Wagner"
+        },
+        {
+          "ID": 190246,
+          "Title": "Thomas Aquinas"
+        },
+        {
+          "ID": 190252,
+          "Title": "René Descartes"
+        },
+        {
+          "ID": 190485,
+          "Title": "Galileo Galilei"
+        },
+        {
+          "ID": 190614,
+          "Title": "Adam Smith"
+        },
+        {
+          "ID": 197471,
+          "Title": "Harry Houdini"
+        },
+        {
+          "ID": 198020,
+          "Title": "Noam Chomsky"
+        },
+        {
+          "ID": 198101,
+          "Title": "Sigmund Freud"
+        },
+        {
+          "ID": 198722,
+          "Title": "Oliver Cromwell"
+        },
+        {
+          "ID": 198731,
+          "Title": "Florence Nightingale"
+        },
+        {
+          "ID": 198814,
+          "Title": "Johannes Kepler"
+        },
+        {
+          "ID": 198818,
+          "Title": "Carl Sagan"
+        },
+        {
+          "ID": 199053,
+          "Title": "Alexander Fleming"
+        },
+        {
+          "ID": 199233,
+          "Title": "Carl Friedrich Gauss"
+        },
+        {
+          "ID": 199284,
+          "Title": "Srinivasa Ramanujan"
+        },
+        {
+          "ID": 199297,
+          "Title": "Charles Babbage"
+        },
+        {
+          "ID": 199326,
+          "Title": "Alan Turing"
+        },
+        {
+          "ID": 223858,
+          "Title": "Big Show"
+        }
+      ]
+    },
+    {
+      "ID": 2147483644,
+      "Title": "Philosophy and thinking"
+    },
+    {
+      "ID": 2147483645,
+      "Title": "Religion and belief systems"
+    },
+    {
+      "ID": 2147483646,
+      "Title": "Society and social sciences",
+      "Categories": [
+        {
+          "ID": 6728,
+          "Title": "Sokajy:Zo"
+        }
+      ],
+      "Articles": [
+        {
+          "ID": 3944,
+          "Title": "Vondrona Eoropeana"
+        },
+        {
+          "ID": 180472,
+          "Title": "Iràna"
+        },
+        {
+          "ID": 183422,
+          "Title": "Barbady"
+        },
+        {
+          "ID": 183487,
+          "Title": "Silia"
+        },
+        {
+          "ID": 231390,
+          "Title": "Pizza Hut"
+        }
+      ]
+    },
+    {
+      "ID": 2147483647,
+      "Title": "Technology and applied sciences",
+      "Categories": [
+        {
+          "ID": 3678,
+          "Title": "Sokajy:Teknolojia"
+        },
+        {
+          "ID": 182870,
+          "Title": "Sokajy:Kajimirindra"
+        },
+        {
+          "ID": 225126,
+          "Title": "Sokajy:Aterineto"
+        }
+      ]
+    }
+  ],
+  "Filters": [
+    {
+      "ID": 4896,
+      "Title": "Sokajy:Pejy mitovy anarana"
+    }
+  ]
+}

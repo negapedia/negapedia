@@ -1,0 +1,219 @@
+{
+  "Language": "nv",
+  "Topics": [
+    {
+      "ID": 2147483637,
+      "Title": "Culture and the arts",
+      "Categories": [
+        {
+          "ID": 3224,
+          "Title": "Tʼááłáhági átʼéego:Chʼiyáán"
+        }
+      ],
+      "Articles": [
+        {
+          "ID": 1,
+          "Title": "Íiyisíí Naaltsoos"
+        },
+        {
+          "ID": 2510,
+          "Title": "Bisóodi"
+        },
+        {
+          "ID": 2709,
+          "Title": "Ahwééh"
+        },
+        {
+          "ID": 2922,
+          "Title": "Bááh"
+        },
+        {
+          "ID": 2953,
+          "Title": "Ínsadoobíídiiya"
+        },
+        {
+          "ID": 5598,
+          "Title": "Abeʼ yistiní"
+        },
+        {
+          "ID": 7601,
+          "Title": "Bisóodi ałchiní"
+        }
+      ]
+    },
+    {
+      "ID": 2147483638,
+      "Title": "Geography and places",
+      "Articles": [
+        {
+          "ID": 2487,
+          "Title": "Nahatʼeʼiitsoh Bikéyah"
+        },
+        {
+          "ID": 17155,
+          "Title": "Jaaniłtsʼílí Bighan"
+        }
+      ]
+    },
+    {
+      "ID": 2147483639,
+      "Title": "Health and fitness"
+    },
+    {
+      "ID": 2147483640,
+      "Title": "History and events",
+      "Categories": [
+        {
+          "ID": 12218,
+          "Title": "Tʼááłáhági átʼéego:Nátʼą́ą́ʼ náháneʼ"
+        }
+      ],
+      "Articles": [
+        {
+          "ID": 15929,
+          "Title": "Hastiin alą́ąjįʼ dahsidáhígíí Donald Trump"
+        }
+      ]
+    },
+    {
+      "ID": 2147483641,
+      "Title": "Mathematics and logic"
+    },
+    {
+      "ID": 2147483642,
+      "Title": "Nature and physical sciences",
+      "Categories": [
+        {
+          "ID": 14319,
+          "Title": "Tʼááłáhági átʼéego:Naʼalkaah"
+        }
+      ],
+      "Articles": [
+        {
+          "ID": 2126,
+          "Title": "Naadą́ą́ʼ"
+        },
+        {
+          "ID": 2478,
+          "Title": "Kǫʼ"
+        },
+        {
+          "ID": 2504,
+          "Title": "Ghą́ą́ʼaskʼidii"
+        },
+        {
+          "ID": 2506,
+          "Title": "Deeteel"
+        },
+        {
+          "ID": 2724,
+          "Title": "Chʼil łichxíʼí"
+        },
+        {
+          "ID": 3807,
+          "Title": "Tsídii jáádnézí"
+        },
+        {
+          "ID": 4061,
+          "Title": "Chʼil łitsxooí"
+        },
+        {
+          "ID": 5593,
+          "Title": "Chʼil dootłʼizhí díkʼǫ́zhígíí"
+        },
+        {
+          "ID": 5596,
+          "Title": "Alóós"
+        },
+        {
+          "ID": 5602,
+          "Title": "Taʼneeskʼání"
+        },
+        {
+          "ID": 5609,
+          "Title": "Dah woozh"
+        },
+        {
+          "ID": 7374,
+          "Title": "Naʼashjéʼiitsoh"
+        },
+        {
+          "ID": 8501,
+          "Title": "Náshdóítsoh (Ałtsʼáʼáztiin)"
+        },
+        {
+          "ID": 12151,
+          "Title": "Tłʼoh naadą́ą́ʼ"
+        },
+        {
+          "ID": 13309,
+          "Title": "Hosh łikaní"
+        },
+        {
+          "ID": 13332,
+          "Title": "Naakaii bichʼil łitsxooí"
+        },
+        {
+          "ID": 13339,
+          "Title": "Sęęschʼil"
+        }
+      ]
+    },
+    {
+      "ID": 2147483643,
+      "Title": "People and self",
+      "Articles": [
+        {
+          "ID": 5930,
+          "Title": "Dágháilchįįh"
+        },
+        {
+          "ID": 19123,
+          "Title": "Wódítłʼooí (áłchíní binaaltsoos)"
+        }
+      ]
+    },
+    {
+      "ID": 2147483644,
+      "Title": "Philosophy and thinking"
+    },
+    {
+      "ID": 2147483645,
+      "Title": "Religion and belief systems"
+    },
+    {
+      "ID": 2147483646,
+      "Title": "Society and social sciences",
+      "Categories": [
+        {
+          "ID": 3165,
+          "Title": "Tʼááłáhági átʼéego:Kéyah Ałhidadiidzooígíí dóó Ahiih Yikaígíí"
+        },
+        {
+          "ID": 4216,
+          "Title": "Tʼááłáhági átʼéego:Bee Hazʼáanii"
+        }
+      ],
+      "Articles": [
+        {
+          "ID": 4137,
+          "Title": "Tsiikʼi Déíbaalí Bikéyah"
+        },
+        {
+          "ID": 15356,
+          "Title": "Sǫʼ Naalgeedí Gohwééh"
+        }
+      ]
+    },
+    {
+      "ID": 2147483647,
+      "Title": "Technology and applied sciences"
+    }
+  ],
+  "Filters": [
+    {
+      "ID": 3149,
+      "Title": "Tʼááłáhági átʼéego:Ałtsʼáʼáztiin"
+    }
+  ]
+}

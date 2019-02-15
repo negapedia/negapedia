@@ -1,0 +1,425 @@
+{
+  "Language": "hsb",
+  "Topics": [
+    {
+      "ID": 2147483637,
+      "Title": "Culture and the arts",
+      "Categories": [
+        {
+          "ID": 378,
+          "Title": "Kategorija:Sport"
+        },
+        {
+          "ID": 2285,
+          "Title": "Kategorija:Kultura"
+        },
+        {
+          "ID": 4147,
+          "Title": "Kategorija:Žiwidła"
+        },
+        {
+          "ID": 4148,
+          "Title": "Kategorija:Zežiwjenje"
+        },
+        {
+          "ID": 17107,
+          "Title": "Kategorija:Jěsć a pić"
+        },
+        {
+          "ID": 17540,
+          "Title": "Kategorija:Wuměłstwo"
+        },
+        {
+          "ID": 20498,
+          "Title": "Kategorija:Hudźbna skupina"
+        }
+      ],
+      "Articles": [
+        {
+          "ID": 65,
+          "Title": "Wikipedija"
+        },
+        {
+          "ID": 3282,
+          "Title": "Encyklopedija"
+        },
+        {
+          "ID": 6695,
+          "Title": "Arabski kofejowc"
+        },
+        {
+          "ID": 6696,
+          "Title": "Kofejowc"
+        },
+        {
+          "ID": 11298,
+          "Title": "Prawy kakawowc"
+        },
+        {
+          "ID": 20483,
+          "Title": "Led Zeppelin"
+        },
+        {
+          "ID": 21169,
+          "Title": "Oralny wobchad"
+        },
+        {
+          "ID": 23222,
+          "Title": "Piwo"
+        }
+      ]
+    },
+    {
+      "ID": 2147483638,
+      "Title": "Geography and places",
+      "Categories": [
+        {
+          "ID": 2222,
+          "Title": "Kategorija:Geografija"
+        },
+        {
+          "ID": 21103,
+          "Title": "Kategorija:Pomnik"
+        },
+        {
+          "ID": 23996,
+          "Title": "Kategorija:Geomorfologija"
+        }
+      ],
+      "Articles": [
+        {
+          "ID": 2614,
+          "Title": "Awstralska"
+        },
+        {
+          "ID": 2855,
+          "Title": "Myanmar"
+        },
+        {
+          "ID": 15509,
+          "Title": "Paris"
+        },
+        {
+          "ID": 31455,
+          "Title": "Canberra"
+        }
+      ]
+    },
+    {
+      "ID": 2147483639,
+      "Title": "Health and fitness",
+      "Categories": [
+        {
+          "ID": 4444,
+          "Title": "Kategorija:Medicina"
+        }
+      ]
+    },
+    {
+      "ID": 2147483640,
+      "Title": "History and events",
+      "Categories": [
+        {
+          "ID": 374,
+          "Title": "Kategorija:Stawizny"
+        },
+        {
+          "ID": 23430,
+          "Title": "Kategorija:Stawizny po kraju"
+        }
+      ],
+      "Articles": [
+        {
+          "ID": 32392,
+          "Title": "Donald Trump"
+        }
+      ]
+    },
+    {
+      "ID": 2147483641,
+      "Title": "Mathematics and logic",
+      "Categories": [
+        {
+          "ID": 13499,
+          "Title": "Kategorija:Matematika"
+        }
+      ]
+    },
+    {
+      "ID": 2147483642,
+      "Title": "Nature and physical sciences",
+      "Categories": [
+        {
+          "ID": 2255,
+          "Title": "Kategorija:Wědomosć"
+        },
+        {
+          "ID": 4448,
+          "Title": "Kategorija:Chemija"
+        },
+        {
+          "ID": 12361,
+          "Title": "Kategorija:Chemiska wjazba"
+        },
+        {
+          "ID": 13495,
+          "Title": "Kategorija:Fyzika"
+        },
+        {
+          "ID": 15090,
+          "Title": "Kategorija:Coologija"
+        },
+        {
+          "ID": 21008,
+          "Title": "Kategorija:Přirodowěda"
+        },
+        {
+          "ID": 23545,
+          "Title": "Kategorija:Wědomosć po fachowym polu"
+        }
+      ],
+      "Articles": [
+        {
+          "ID": 5293,
+          "Title": "Lěsna truskalca"
+        },
+        {
+          "ID": 5298,
+          "Title": "Zahrodna truskalca"
+        },
+        {
+          "ID": 6171,
+          "Title": "Hoberski banjowc"
+        },
+        {
+          "ID": 6176,
+          "Title": "Dynja"
+        },
+        {
+          "ID": 6246,
+          "Title": "Ananas"
+        },
+        {
+          "ID": 8062,
+          "Title": "Kwětlik"
+        },
+        {
+          "ID": 9372,
+          "Title": "Myrta"
+        },
+        {
+          "ID": 9373,
+          "Title": "Wšědna myrta"
+        },
+        {
+          "ID": 9755,
+          "Title": "Datlowc"
+        },
+        {
+          "ID": 10605,
+          "Title": "Apelsina"
+        },
+        {
+          "ID": 10608,
+          "Title": "Citronowc"
+        },
+        {
+          "ID": 10993,
+          "Title": "Prawa kukurica"
+        },
+        {
+          "ID": 11100,
+          "Title": "Pšeńca"
+        },
+        {
+          "ID": 11104,
+          "Title": "Prawa pšeńca"
+        },
+        {
+          "ID": 11120,
+          "Title": "Rajs"
+        },
+        {
+          "ID": 11121,
+          "Title": "Prawy rajs"
+        },
+        {
+          "ID": 11316,
+          "Title": "Indiski mangowc"
+        },
+        {
+          "ID": 14902,
+          "Title": "Truskalca"
+        },
+        {
+          "ID": 16872,
+          "Title": "Kłóska"
+        },
+        {
+          "ID": 17170,
+          "Title": "Tomata"
+        },
+        {
+          "ID": 21164,
+          "Title": "Penis"
+        },
+        {
+          "ID": 21613,
+          "Title": "Peruska měchawka"
+        }
+      ]
+    },
+    {
+      "ID": 2147483643,
+      "Title": "People and self",
+      "Categories": [
+        {
+          "ID": 3159,
+          "Title": "Kategorija:Wosoba"
+        },
+        {
+          "ID": 12516,
+          "Title": "Kategorija:Žona"
+        },
+        {
+          "ID": 19983,
+          "Title": "Kategorija:Swójbne mjeno"
+        },
+        {
+          "ID": 23300,
+          "Title": "Kategorija:Wšědna kultura"
+        },
+        {
+          "ID": 23507,
+          "Title": "Kategorija:Žony"
+        },
+        {
+          "ID": 23561,
+          "Title": "Kategorija:Wosoby"
+        }
+      ],
+      "Articles": [
+        {
+          "ID": 5698,
+          "Title": "Adolf Hitler"
+        },
+        {
+          "ID": 21805,
+          "Title": "Galileo Galilei"
+        },
+        {
+          "ID": 23704,
+          "Title": "John Lennon"
+        },
+        {
+          "ID": 36859,
+          "Title": "George Harrison"
+        }
+      ]
+    },
+    {
+      "ID": 2147483644,
+      "Title": "Philosophy and thinking",
+      "Categories": [
+        {
+          "ID": 15052,
+          "Title": "Kategorija:Etika"
+        },
+        {
+          "ID": 15053,
+          "Title": "Kategorija:Filozofija"
+        }
+      ]
+    },
+    {
+      "ID": 2147483645,
+      "Title": "Religion and belief systems",
+      "Categories": [
+        {
+          "ID": 2006,
+          "Title": "Kategorija:Nabožina"
+        }
+      ]
+    },
+    {
+      "ID": 2147483646,
+      "Title": "Society and social sciences",
+      "Categories": [
+        {
+          "ID": 23177,
+          "Title": "Kategorija:Mjezynarodna organizacija"
+        },
+        {
+          "ID": 23544,
+          "Title": "Kategorija:Socialna wědomosć"
+        },
+        {
+          "ID": 23549,
+          "Title": "Kategorija:Duchowna wědomosć"
+        },
+        {
+          "ID": 23557,
+          "Title": "Kategorija:Towaršnosć"
+        }
+      ],
+      "Articles": [
+        {
+          "ID": 1998,
+          "Title": "Europska unija"
+        },
+        {
+          "ID": 2569,
+          "Title": "Iran"
+        },
+        {
+          "ID": 13253,
+          "Title": "Chilska"
+        },
+        {
+          "ID": 15612,
+          "Title": "Lipšćanska uniwersita"
+        },
+        {
+          "ID": 19396,
+          "Title": "Barbados"
+        },
+        {
+          "ID": 22533,
+          "Title": "Tübingenska uniwersita"
+        }
+      ]
+    },
+    {
+      "ID": 2147483647,
+      "Title": "Technology and applied sciences",
+      "Categories": [
+        {
+          "ID": 2223,
+          "Title": "Kategorija:Informatika"
+        },
+        {
+          "ID": 13326,
+          "Title": "Kategorija:Internet"
+        },
+        {
+          "ID": 14146,
+          "Title": "Kategorija:Technika"
+        },
+        {
+          "ID": 18322,
+          "Title": "Kategorija:Wobchad"
+        }
+      ]
+    }
+  ],
+  "Filters": [
+    {
+      "ID": 13109,
+      "Title": "Kategorija:Wjacezmyslnosć"
+    },
+    {
+      "ID": 19366,
+      "Title": "Kategorija:Schowane kategorije"
+    }
+  ]
+}

@@ -1,0 +1,265 @@
+{
+  "Language": "jbo",
+  "Topics": [
+    {
+      "ID": 2147483637,
+      "Title": "Culture and the arts",
+      "Categories": [
+        {
+          "ID": 2028,
+          "Title": "klesi:larcu"
+        },
+        {
+          "ID": 2070,
+          "Title": "klesi:kulnu"
+        },
+        {
+          "ID": 3217,
+          "Title": "klesi:skari"
+        },
+        {
+          "ID": 7062,
+          "Title": "klesi:zgigri"
+        }
+      ],
+      "Articles": [
+        {
+          "ID": 148,
+          "Title": "nanba"
+        },
+        {
+          "ID": 1876,
+          "Title": "uikipidias"
+        },
+        {
+          "ID": 3010,
+          "Title": "ckafi"
+        },
+        {
+          "ID": 3655,
+          "Title": "birje"
+        },
+        {
+          "ID": 7031,
+          "Title": "grin.deis"
+        }
+      ]
+    },
+    {
+      "ID": 2147483638,
+      "Title": "Geography and places",
+      "Categories": [
+        {
+          "ID": 2034,
+          "Title": "klesi:tutske"
+        }
+      ],
+      "Articles": [
+        {
+          "ID": 2282,
+          "Title": "sralygu'e"
+        },
+        {
+          "ID": 3141,
+          "Title": "remna"
+        },
+        {
+          "ID": 4404,
+          "Title": "paris"
+        }
+      ]
+    },
+    {
+      "ID": 2147483639,
+      "Title": "Health and fitness"
+    },
+    {
+      "ID": 2147483640,
+      "Title": "History and events",
+      "Categories": [
+        {
+          "ID": 2008,
+          "Title": "klesi:citri"
+        }
+      ],
+      "Articles": [
+        {
+          "ID": 7899,
+          "Title": "la .donald. trump."
+        }
+      ]
+    },
+    {
+      "ID": 2147483641,
+      "Title": "Mathematics and logic",
+      "Categories": [
+        {
+          "ID": 1708,
+          "Title": "klesi:cmaci"
+        },
+        {
+          "ID": 5355,
+          "Title": "klesi:logji"
+        }
+      ]
+    },
+    {
+      "ID": 2147483642,
+      "Title": "Nature and physical sciences",
+      "Categories": [
+        {
+          "ID": 2024,
+          "Title": "klesi:xumske"
+        },
+        {
+          "ID": 2037,
+          "Title": "klesi:termu'eske"
+        },
+        {
+          "ID": 8051,
+          "Title": "klesi:selxu'i"
+        }
+      ],
+      "Articles": [
+        {
+          "ID": 1178,
+          "Title": "zumri"
+        },
+        {
+          "ID": 1916,
+          "Title": "pinji"
+        },
+        {
+          "ID": 3664,
+          "Title": "rismi"
+        },
+        {
+          "ID": 7801,
+          "Title": "najnimre"
+        }
+      ]
+    },
+    {
+      "ID": 2147483643,
+      "Title": "People and self",
+      "Categories": [
+        {
+          "ID": 1835,
+          "Title": "klesi:prenu"
+        }
+      ],
+      "Articles": [
+        {
+          "ID": 1826,
+          "Title": "bil. geits"
+        },
+        {
+          "ID": 2601,
+          "Title": "ritcard.dokinz"
+        },
+        {
+          "ID": 4326,
+          "Title": "nom.tcomskis"
+        },
+        {
+          "ID": 4381,
+          "Title": "djosef.smit"
+        },
+        {
+          "ID": 5751,
+          "Title": "karl.fridrix.gaus"
+        },
+        {
+          "ID": 7159,
+          "Title": ".alan turin"
+        },
+        {
+          "ID": 7161,
+          "Title": "rynes dekart"
+        },
+        {
+          "ID": 7187,
+          "Title": "kristoforos.kolombos."
+        },
+        {
+          "ID": 7243,
+          "Title": "galileos.galileis"
+        },
+        {
+          "ID": 7244,
+          "Title": "jo'anes. kepler."
+        },
+        {
+          "ID": 7245,
+          "Title": "zikmunt. freut."
+        },
+        {
+          "ID": 7247,
+          "Title": ".adam. smit."
+        },
+        {
+          "ID": 7249,
+          "Title": ".adolf. .itlyr."
+        }
+      ]
+    },
+    {
+      "ID": 2147483644,
+      "Title": "Philosophy and thinking",
+      "Categories": [
+        {
+          "ID": 5022,
+          "Title": "klesi:pijyske"
+        }
+      ],
+      "Articles": [
+        {
+          "ID": 8122,
+          "Title": "gleki"
+        }
+      ]
+    },
+    {
+      "ID": 2147483645,
+      "Title": "Religion and belief systems",
+      "Categories": [
+        {
+          "ID": 2030,
+          "Title": "klesi:lijda"
+        }
+      ]
+    },
+    {
+      "ID": 2147483646,
+      "Title": "Society and social sciences",
+      "Articles": [
+        {
+          "ID": 2426,
+          "Title": "iran"
+        },
+        {
+          "ID": 4168,
+          "Title": "ropno gunma"
+        },
+        {
+          "ID": 5187,
+          "Title": "tciles"
+        }
+      ]
+    },
+    {
+      "ID": 2147483647,
+      "Title": "Technology and applied sciences",
+      "Categories": [
+        {
+          "ID": 2074,
+          "Title": "klesi:samske"
+        },
+        {
+          "ID": 2098,
+          "Title": "klesi:selpliske"
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,737 @@
+{
+  "Language": "jv",
+  "Topics": [
+    {
+      "ID": 2147483637,
+      "Title": "Culture and the arts",
+      "Categories": [
+        {
+          "ID": 4895,
+          "Title": "Kategori:Budaya"
+        },
+        {
+          "ID": 4989,
+          "Title": "Kategori:Kagunan"
+        },
+        {
+          "ID": 25421,
+          "Title": "Kategori:Ulah raga"
+        },
+        {
+          "ID": 34087,
+          "Title": "Kategori:Olah-olahan"
+        },
+        {
+          "ID": 34842,
+          "Title": "Kategori:Nutrisi"
+        },
+        {
+          "ID": 45218,
+          "Title": "Kategori:Cabang olahraga"
+        },
+        {
+          "ID": 46917,
+          "Title": "Kategori:Hiburan"
+        },
+        {
+          "ID": 47142,
+          "Title": "Kategori:Grup musik"
+        },
+        {
+          "ID": 61239,
+          "Title": "Kategori:Hobi"
+        }
+      ],
+      "Articles": [
+        {
+          "ID": 1144,
+          "Title": "Intip"
+        },
+        {
+          "ID": 1571,
+          "Title": "Roti"
+        },
+        {
+          "ID": 2399,
+          "Title": "Wikipédia"
+        },
+        {
+          "ID": 3536,
+          "Title": "Kopi"
+        },
+        {
+          "ID": 3546,
+          "Title": "Bir"
+        },
+        {
+          "ID": 7738,
+          "Title": "Ènsiklopédhi"
+        },
+        {
+          "ID": 18286,
+          "Title": "Pizza"
+        },
+        {
+          "ID": 24824,
+          "Title": "Babi"
+        },
+        {
+          "ID": 40505,
+          "Title": "Endhog"
+        },
+        {
+          "ID": 43873,
+          "Title": "CIA World Factbook"
+        },
+        {
+          "ID": 44785,
+          "Title": "Kakao"
+        },
+        {
+          "ID": 63488,
+          "Title": "Endhiran"
+        },
+        {
+          "ID": 68108,
+          "Title": "Krècèk"
+        },
+        {
+          "ID": 71240,
+          "Title": "Hogwarts"
+        },
+        {
+          "ID": 71630,
+          "Title": "Coffea"
+        },
+        {
+          "ID": 72991,
+          "Title": "Bubur ayam"
+        },
+        {
+          "ID": 73293,
+          "Title": "Soklat"
+        },
+        {
+          "ID": 73774,
+          "Title": "Bolu"
+        },
+        {
+          "ID": 75777,
+          "Title": "Green Day"
+        },
+        {
+          "ID": 78104,
+          "Title": "Ès krim"
+        },
+        {
+          "ID": 79769,
+          "Title": "Akashiyaki"
+        },
+        {
+          "ID": 86742,
+          "Title": "Endhog asin"
+        },
+        {
+          "ID": 91329,
+          "Title": "Kripik"
+        },
+        {
+          "ID": 91561,
+          "Title": "Saos"
+        },
+        {
+          "ID": 92085,
+          "Title": "Tongsèng"
+        },
+        {
+          "ID": 93184,
+          "Title": "Led Zeppelin"
+        },
+        {
+          "ID": 93878,
+          "Title": "Kedhaton Buckingham"
+        },
+        {
+          "ID": 94143,
+          "Title": "Olah-olahan Prancis"
+        },
+        {
+          "ID": 94873,
+          "Title": "WWE Championship"
+        },
+        {
+          "ID": 97010,
+          "Title": "Yūrei"
+        },
+        {
+          "ID": 99322,
+          "Title": "Pasta"
+        },
+        {
+          "ID": 106222,
+          "Title": "Flappy Bird"
+        },
+        {
+          "ID": 133230,
+          "Title": "PK (filem)"
+        },
+        {
+          "ID": 133752,
+          "Title": "Taco"
+        },
+        {
+          "ID": 134493,
+          "Title": "Rotini"
+        },
+        {
+          "ID": 143163,
+          "Title": "Cèlèng"
+        }
+      ]
+    },
+    {
+      "ID": 2147483638,
+      "Title": "Geography and places",
+      "Categories": [
+        {
+          "ID": 53815,
+          "Title": "Kategori:Géomorpologi"
+        },
+        {
+          "ID": 59747,
+          "Title": "Kategori:Géografi"
+        }
+      ],
+      "Articles": [
+        {
+          "ID": 3656,
+          "Title": "Ostrali"
+        },
+        {
+          "ID": 4400,
+          "Title": "Paris"
+        },
+        {
+          "ID": 7836,
+          "Title": "Manungsa"
+        },
+        {
+          "ID": 17461,
+          "Title": "Venesia"
+        },
+        {
+          "ID": 23064,
+          "Title": "Myanmar"
+        },
+        {
+          "ID": 23610,
+          "Title": "Canberra"
+        },
+        {
+          "ID": 66881,
+          "Title": "Queensland"
+        }
+      ]
+    },
+    {
+      "ID": 2147483639,
+      "Title": "Health and fitness",
+      "Categories": [
+        {
+          "ID": 54011,
+          "Title": "Kategori:Kaséhatan"
+        }
+      ]
+    },
+    {
+      "ID": 2147483640,
+      "Title": "History and events",
+      "Categories": [
+        {
+          "ID": 7706,
+          "Title": "Kategori:Sajarah"
+        },
+        {
+          "ID": 43099,
+          "Title": "Kategori:Sajarah miturut negara"
+        },
+        {
+          "ID": 133082,
+          "Title": "Kategori:Dina gedhé"
+        }
+      ],
+      "Articles": [
+        {
+          "ID": 71155,
+          "Title": "Lindhu lan tsunami Sendai 2011"
+        },
+        {
+          "ID": 80475,
+          "Title": "Serangan 11 September 2001"
+        },
+        {
+          "ID": 132153,
+          "Title": "Pambedhiling pakumpulan wengi Orlando 2016"
+        }
+      ]
+    },
+    {
+      "ID": 2147483641,
+      "Title": "Mathematics and logic",
+      "Categories": [
+        {
+          "ID": 19464,
+          "Title": "Kategori:Matematika"
+        },
+        {
+          "ID": 47849,
+          "Title": "Kategori:Matematika terapan"
+        },
+        {
+          "ID": 65600,
+          "Title": "Kategori:Statistika"
+        },
+        {
+          "ID": 70340,
+          "Title": "Kategori:Logika"
+        }
+      ]
+    },
+    {
+      "ID": 2147483642,
+      "Title": "Nature and physical sciences",
+      "Categories": [
+        {
+          "ID": 19484,
+          "Title": "Kategori:Èlmu"
+        },
+        {
+          "ID": 23183,
+          "Title": "Kategori:Kimiya"
+        },
+        {
+          "ID": 32921,
+          "Title": "Kategori:Fisika"
+        },
+        {
+          "ID": 32929,
+          "Title": "Kategori:Èlmu alam"
+        },
+        {
+          "ID": 42999,
+          "Title": "Kategori:Zoologi"
+        },
+        {
+          "ID": 44806,
+          "Title": "Kategori:Senyawa kimia"
+        },
+        {
+          "ID": 45145,
+          "Title": "Kategori:Alam"
+        },
+        {
+          "ID": 45535,
+          "Title": "Kategori:Dat kimiya"
+        }
+      ],
+      "Articles": [
+        {
+          "ID": 1185,
+          "Title": "Jeruk"
+        },
+        {
+          "ID": 3524,
+          "Title": "Gandum"
+        },
+        {
+          "ID": 3540,
+          "Title": "Jagung"
+        },
+        {
+          "ID": 3895,
+          "Title": "Geni"
+        },
+        {
+          "ID": 4592,
+          "Title": "Bléwah"
+        },
+        {
+          "ID": 16956,
+          "Title": "Pantun"
+        },
+        {
+          "ID": 18608,
+          "Title": "Lémon"
+        },
+        {
+          "ID": 22463,
+          "Title": "Testis"
+        },
+        {
+          "ID": 22572,
+          "Title": "Sistem réprodhuksi"
+        },
+        {
+          "ID": 22573,
+          "Title": "Sistem otot"
+        },
+        {
+          "ID": 23344,
+          "Title": "Palanangan"
+        },
+        {
+          "ID": 24950,
+          "Title": "Unta"
+        },
+        {
+          "ID": 37703,
+          "Title": "Pelem"
+        },
+        {
+          "ID": 39372,
+          "Title": "Melon"
+        },
+        {
+          "ID": 43650,
+          "Title": "Fragaria"
+        },
+        {
+          "ID": 46101,
+          "Title": "Otot"
+        },
+        {
+          "ID": 67898,
+          "Title": "Beras ketan"
+        },
+        {
+          "ID": 78344,
+          "Title": "Pananggalan Maya"
+        },
+        {
+          "ID": 79185,
+          "Title": "Thukul"
+        },
+        {
+          "ID": 88064,
+          "Title": "Tomat"
+        },
+        {
+          "ID": 91347,
+          "Title": "Strobèri kebon"
+        },
+        {
+          "ID": 95633,
+          "Title": "Plaminggu"
+        }
+      ]
+    },
+    {
+      "ID": 2147483643,
+      "Title": "People and self",
+      "Categories": [
+        {
+          "ID": 7707,
+          "Title": "Kategori:Wong"
+        },
+        {
+          "ID": 21897,
+          "Title": "Kategori:Biografi"
+        },
+        {
+          "ID": 60099,
+          "Title": "Kategori:Wanita"
+        }
+      ],
+      "Articles": [
+        {
+          "ID": 1691,
+          "Title": "Richard Wagner"
+        },
+        {
+          "ID": 1694,
+          "Title": "Christopher Columbus"
+        },
+        {
+          "ID": 1710,
+          "Title": "Johannes Kepler"
+        },
+        {
+          "ID": 1767,
+          "Title": "Sigmund Freud"
+        },
+        {
+          "ID": 1768,
+          "Title": "Galileo Galilei"
+        },
+        {
+          "ID": 3495,
+          "Title": "Bill Gates"
+        },
+        {
+          "ID": 4235,
+          "Title": "René Descartes"
+        },
+        {
+          "ID": 9960,
+          "Title": "Adolf Hitler"
+        },
+        {
+          "ID": 17488,
+          "Title": "Adam Smith"
+        },
+        {
+          "ID": 21399,
+          "Title": "Alan Turing"
+        },
+        {
+          "ID": 25092,
+          "Title": "Thomas Aquinas"
+        },
+        {
+          "ID": 28382,
+          "Title": "Karl Friedrich Gauss"
+        },
+        {
+          "ID": 33989,
+          "Title": "Florence Nightingale"
+        },
+        {
+          "ID": 53013,
+          "Title": "Theodor Schwann"
+        },
+        {
+          "ID": 66869,
+          "Title": "John Lennon"
+        },
+        {
+          "ID": 68277,
+          "Title": "Lewis Carroll"
+        },
+        {
+          "ID": 73404,
+          "Title": "Alexander Fleming"
+        },
+        {
+          "ID": 73484,
+          "Title": "Charles Babbage"
+        },
+        {
+          "ID": 75545,
+          "Title": "Daniel Radcliffe"
+        },
+        {
+          "ID": 76878,
+          "Title": "Elton John"
+        },
+        {
+          "ID": 80741,
+          "Title": "Carl Sagan"
+        },
+        {
+          "ID": 90958,
+          "Title": "Noam Chomsky"
+        },
+        {
+          "ID": 127084,
+          "Title": "The Big Bang Theory"
+        },
+        {
+          "ID": 134138,
+          "Title": "William Blake"
+        }
+      ]
+    },
+    {
+      "ID": 2147483644,
+      "Title": "Philosophy and thinking",
+      "Categories": [
+        {
+          "ID": 2014,
+          "Title": "Kategori:Filsafat"
+        },
+        {
+          "ID": 24410,
+          "Title": "Kategori:Idéologi"
+        },
+        {
+          "ID": 89462,
+          "Title": "Kategori:Étika"
+        },
+        {
+          "ID": 129082,
+          "Title": "Kategori:Cawang filsafat"
+        }
+      ],
+      "Articles": [
+        {
+          "ID": 92034,
+          "Title": "Iman"
+        }
+      ]
+    },
+    {
+      "ID": 2147483645,
+      "Title": "Religion and belief systems",
+      "Categories": [
+        {
+          "ID": 4975,
+          "Title": "Kategori:Agama"
+        }
+      ]
+    },
+    {
+      "ID": 2147483646,
+      "Title": "Society and social sciences",
+      "Categories": [
+        {
+          "ID": 26853,
+          "Title": "Kategori:Bebrayan"
+        },
+        {
+          "ID": 28684,
+          "Title": "Kategori:Organisasi internasional"
+        },
+        {
+          "ID": 33560,
+          "Title": "Kategori:Hukum"
+        },
+        {
+          "ID": 131427,
+          "Title": "Kategori:Humaniora"
+        },
+        {
+          "ID": 140754,
+          "Title": "Kategori:Hak"
+        }
+      ],
+      "Articles": [
+        {
+          "ID": 1757,
+          "Title": "Uni Éropah"
+        },
+        {
+          "ID": 18545,
+          "Title": "Barbadhos"
+        },
+        {
+          "ID": 18564,
+          "Title": "Iran"
+        },
+        {
+          "ID": 19378,
+          "Title": "UNEP"
+        },
+        {
+          "ID": 19805,
+          "Title": "Cilé"
+        },
+        {
+          "ID": 40456,
+          "Title": "Universitas Uppsala"
+        },
+        {
+          "ID": 70967,
+          "Title": "Universitas Oxford"
+        },
+        {
+          "ID": 70969,
+          "Title": "Universitas Cambridge"
+        },
+        {
+          "ID": 76450,
+          "Title": "Gendéra Australia"
+        },
+        {
+          "ID": 80953,
+          "Title": "Universitas Harvard"
+        },
+        {
+          "ID": 93759,
+          "Title": "Universitas Bologna"
+        },
+        {
+          "ID": 94792,
+          "Title": "Universitas Columbia"
+        },
+        {
+          "ID": 98927,
+          "Title": "Universitas Arizona"
+        },
+        {
+          "ID": 98934,
+          "Title": "Universitas Stanford"
+        },
+        {
+          "ID": 99907,
+          "Title": "Sorbonne-Universitas Paris"
+        }
+      ]
+    },
+    {
+      "ID": 2147483647,
+      "Title": "Technology and applied sciences",
+      "Categories": [
+        {
+          "ID": 16435,
+          "Title": "Kategori:Internet"
+        },
+        {
+          "ID": 16461,
+          "Title": "Kategori:Komputer"
+        },
+        {
+          "ID": 18597,
+          "Title": "Kategori:Transportasi"
+        },
+        {
+          "ID": 33532,
+          "Title": "Kategori:Teknik"
+        },
+        {
+          "ID": 33867,
+          "Title": "Kategori:Èlmu trapan"
+        },
+        {
+          "ID": 35169,
+          "Title": "Kategori:Basis data"
+        },
+        {
+          "ID": 45448,
+          "Title": "Kategori:Sajarah tèknologi"
+        },
+        {
+          "ID": 59525,
+          "Title": "Kategori:Tèknologi"
+        },
+        {
+          "ID": 60719,
+          "Title": "Kategori:Desain"
+        },
+        {
+          "ID": 60934,
+          "Title": "Kategori:Èlèktronika"
+        },
+        {
+          "ID": 133855,
+          "Title": "Kategori:Tèknologi miturut jinis"
+        }
+      ],
+      "Articles": [
+        {
+          "ID": 19728,
+          "Title": "Ranah internet tingkat paling dhuwur"
+        },
+        {
+          "ID": 93917,
+          "Title": "Pèpsi"
+        }
+      ]
+    }
+  ],
+  "Filters": [
+    {
+      "ID": 2443,
+      "Title": "Kategori:Kaca dhisambiguasi"
+    }
+  ]
+}

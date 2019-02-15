@@ -1,0 +1,373 @@
+{
+  "Language": "nds-nl",
+  "Topics": [
+    {
+      "ID": 2147483637,
+      "Title": "Culture and the arts",
+      "Categories": [
+        {
+          "ID": 2366,
+          "Title": "Kategorie:Kultuur"
+        },
+        {
+          "ID": 3169,
+          "Title": "Kategorie:Eten"
+        },
+        {
+          "ID": 3653,
+          "Title": "Kategorie:Keunst"
+        },
+        {
+          "ID": 3670,
+          "Title": "Kategorie:Amusement"
+        },
+        {
+          "ID": 4069,
+          "Title": "Kategorie:Sport"
+        },
+        {
+          "ID": 4287,
+          "Title": "Kategorie:Kleur"
+        },
+        {
+          "ID": 4491,
+          "Title": "Kategorie:Muziekgroep"
+        },
+        {
+          "ID": 4621,
+          "Title": "Kategorie:Gerecht"
+        },
+        {
+          "ID": 9285,
+          "Title": "Kategorie:Ontspanning"
+        }
+      ],
+      "Articles": [
+        {
+          "ID": 35,
+          "Title": "Wikipedia"
+        },
+        {
+          "ID": 1767,
+          "Title": "Värken"
+        },
+        {
+          "ID": 2056,
+          "Title": "Koekien (eten)"
+        },
+        {
+          "ID": 2190,
+          "Title": "Schinke"
+        },
+        {
+          "ID": 2536,
+          "Title": "Brood"
+        },
+        {
+          "ID": 2625,
+          "Title": "Spoek"
+        },
+        {
+          "ID": 2982,
+          "Title": "Appelsmotse"
+        },
+        {
+          "ID": 3500,
+          "Title": "Encyklopedie"
+        },
+        {
+          "ID": 4563,
+          "Title": "Sokkeloa"
+        },
+        {
+          "ID": 4751,
+          "Title": "Twaibak"
+        },
+        {
+          "ID": 6506,
+          "Title": "Koffie"
+        },
+        {
+          "ID": 6619,
+          "Title": "Kakouboom"
+        },
+        {
+          "ID": 11123,
+          "Title": "Bier"
+        },
+        {
+          "ID": 21957,
+          "Title": "Pizza"
+        }
+      ]
+    },
+    {
+      "ID": 2147483638,
+      "Title": "Geography and places",
+      "Categories": [
+        {
+          "ID": 1474,
+          "Title": "Kategorie:Geografie"
+        }
+      ],
+      "Articles": [
+        {
+          "ID": 1712,
+          "Title": "Piramide"
+        },
+        {
+          "ID": 2172,
+          "Title": "Mense"
+        },
+        {
+          "ID": 16497,
+          "Title": "Paries"
+        },
+        {
+          "ID": 17226,
+          "Title": "Australië (laand)"
+        },
+        {
+          "ID": 19952,
+          "Title": "Venies"
+        }
+      ]
+    },
+    {
+      "ID": 2147483639,
+      "Title": "Health and fitness",
+      "Categories": [
+        {
+          "ID": 6053,
+          "Title": "Kategorie:Verzurging"
+        },
+        {
+          "ID": 6207,
+          "Title": "Kategorie:Geneeskunde"
+        },
+        {
+          "ID": 18137,
+          "Title": "Kategorie:Hygiëne"
+        },
+        {
+          "ID": 18387,
+          "Title": "Kategorie:Gezondheid"
+        }
+      ]
+    },
+    {
+      "ID": 2147483640,
+      "Title": "History and events",
+      "Categories": [
+        {
+          "ID": 3726,
+          "Title": "Kategorie:Geschiedenis"
+        },
+        {
+          "ID": 9282,
+          "Title": "Kategorie:Evenement"
+        },
+        {
+          "ID": 24906,
+          "Title": "Kategorie:Geschiedenis naor laand"
+        }
+      ],
+      "Articles": [
+        {
+          "ID": 23114,
+          "Title": "Donald Trump"
+        }
+      ]
+    },
+    {
+      "ID": 2147483641,
+      "Title": "Mathematics and logic",
+      "Categories": [
+        {
+          "ID": 1923,
+          "Title": "Kategorie:Wiskunde"
+        }
+      ]
+    },
+    {
+      "ID": 2147483642,
+      "Title": "Nature and physical sciences",
+      "Categories": [
+        {
+          "ID": 1860,
+          "Title": "Kategorie:Wetenschop"
+        },
+        {
+          "ID": 1996,
+          "Title": "Kategorie:Netuurkunde"
+        },
+        {
+          "ID": 4283,
+          "Title": "Kategorie:Scheikunde"
+        },
+        {
+          "ID": 11641,
+          "Title": "Kategorie:Natuur"
+        },
+        {
+          "ID": 18775,
+          "Title": "Kategorie:Ramp"
+        }
+      ],
+      "Articles": [
+        {
+          "ID": 3393,
+          "Title": "Erebeie"
+        },
+        {
+          "ID": 3833,
+          "Title": "Ries (Oryza sativa)"
+        },
+        {
+          "ID": 6918,
+          "Title": "Kouvlodde"
+        },
+        {
+          "ID": 10861,
+          "Title": "Hoantje"
+        },
+        {
+          "ID": 12526,
+          "Title": "Appelsien"
+        }
+      ]
+    },
+    {
+      "ID": 2147483643,
+      "Title": "People and self",
+      "Categories": [
+        {
+          "ID": 3391,
+          "Title": "Kategorie:Meenske"
+        }
+      ],
+      "Articles": [
+        {
+          "ID": 4599,
+          "Title": "Adolf Hitler"
+        },
+        {
+          "ID": 5986,
+          "Title": "Thomas van Aquino"
+        },
+        {
+          "ID": 16132,
+          "Title": "Christoffel Columbus"
+        }
+      ]
+    },
+    {
+      "ID": 2147483644,
+      "Title": "Philosophy and thinking",
+      "Categories": [
+        {
+          "ID": 18605,
+          "Title": "Kategorie:Filosofie"
+        }
+      ],
+      "Articles": [
+        {
+          "ID": 18977,
+          "Title": "Geleuven (gedrag)"
+        }
+      ]
+    },
+    {
+      "ID": 2147483645,
+      "Title": "Religion and belief systems",
+      "Categories": [
+        {
+          "ID": 7700,
+          "Title": "Kategorie:Geleuf"
+        }
+      ]
+    },
+    {
+      "ID": 2147483646,
+      "Title": "Society and social sciences",
+      "Categories": [
+        {
+          "ID": 3553,
+          "Title": "Kategorie:Recht"
+        },
+        {
+          "ID": 8389,
+          "Title": "Kategorie:Sociaole wetenschop"
+        },
+        {
+          "ID": 11954,
+          "Title": "Kategorie:Maotschoppi'je"
+        }
+      ],
+      "Articles": [
+        {
+          "ID": 1571,
+          "Title": "Europese Unie"
+        },
+        {
+          "ID": 2954,
+          "Title": "Chili"
+        },
+        {
+          "ID": 17299,
+          "Title": "Iran"
+        },
+        {
+          "ID": 17716,
+          "Title": "Starbucks"
+        }
+      ]
+    },
+    {
+      "ID": 2147483647,
+      "Title": "Technology and applied sciences",
+      "Categories": [
+        {
+          "ID": 2062,
+          "Title": "Kategorie:Technologie"
+        },
+        {
+          "ID": 3492,
+          "Title": "Kategorie:Techniek"
+        },
+        {
+          "ID": 7771,
+          "Title": "Kategorie:Internet"
+        },
+        {
+          "ID": 8193,
+          "Title": "Kategorie:Vervoer"
+        },
+        {
+          "ID": 8374,
+          "Title": "Kategorie:Infermatika"
+        },
+        {
+          "ID": 19037,
+          "Title": "Kategorie:Geschiedenis van de techniek"
+        }
+      ],
+      "Articles": [
+        {
+          "ID": 3271,
+          "Title": "Mure"
+        },
+        {
+          "ID": 10751,
+          "Title": "Kauwgom"
+        }
+      ]
+    }
+  ],
+  "Filters": [
+    {
+      "ID": 2729,
+      "Title": "Kategorie:Wikipedie:Deurverwiespagina"
+    }
+  ]
+}
