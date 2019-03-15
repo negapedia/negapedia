@@ -22,6 +22,10 @@
           "Title": "Kategoreja:Pavaļa"
         },
         {
+          "ID": 817,
+          "Title": "Kategoreja:Roksts"
+        },
+        {
           "ID": 829,
           "Title": "Kategoreja:Sports"
         },
@@ -88,8 +92,16 @@
       "Title": "History and events",
       "Categories": [
         {
+          "ID": 723,
+          "Title": "Kategoreja:Humanitaruos zineibys"
+        },
+        {
           "ID": 797,
           "Title": "Kategoreja:Nūtikšonys"
+        },
+        {
+          "ID": 826,
+          "Title": "Kategoreja:Socialuos zineibys"
         },
         {
           "ID": 855,
@@ -130,6 +142,10 @@
         {
           "ID": 882,
           "Title": "Kategoreja:Zineiba"
+        },
+        {
+          "ID": 883,
+          "Title": "Kategoreja:Zineigumi"
         },
         {
           "ID": 885,

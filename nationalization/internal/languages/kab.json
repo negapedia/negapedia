@@ -6,6 +6,10 @@
       "Title": "Culture and the arts",
       "Categories": [
         {
+          "ID": 70,
+          "Title": "Taggayt:Tira"
+        },
+        {
           "ID": 107,
           "Title": "Taggayt:Taẓuri"
         },
@@ -70,6 +74,10 @@
       "Title": "History and events",
       "Categories": [
         {
+          "ID": 51,
+          "Title": "Taggayt:Tussna n tmetti"
+        },
+        {
           "ID": 104,
           "Title": "Taggayt:Amezruy"
         }
@@ -102,6 +110,14 @@
         {
           "ID": 5939,
           "Title": "Cilmun"
+        },
+        {
+          "ID": 14351,
+          "Title": "Aywal"
+        },
+        {
+          "ID": 14492,
+          "Title": "Cilmum"
         }
       ]
     },

@@ -126,6 +126,14 @@
         {
           "ID": 23430,
           "Title": "Kategorija:Stawizny po kraju"
+        },
+        {
+          "ID": 23544,
+          "Title": "Kategorija:Socialna wědomosć"
+        },
+        {
+          "ID": 23549,
+          "Title": "Kategorija:Duchowna wědomosć"
         }
       ],
       "Articles": [
@@ -176,6 +184,10 @@
         {
           "ID": 23545,
           "Title": "Kategorija:Wědomosć po fachowym polu"
+        },
+        {
+          "ID": 23548,
+          "Title": "Kategorija:Wěda"
         }
       ],
       "Articles": [
@@ -242,6 +254,10 @@
         {
           "ID": 11121,
           "Title": "Prawy rajs"
+        },
+        {
+          "ID": 11315,
+          "Title": "Mangowc"
         },
         {
           "ID": 11316,
@@ -338,6 +354,10 @@
         {
           "ID": 2006,
           "Title": "Kategorija:Nabožina"
+        },
+        {
+          "ID": 19708,
+          "Title": "Kategorija:Teologija"
         }
       ]
     },

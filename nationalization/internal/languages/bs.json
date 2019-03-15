@@ -42,6 +42,10 @@
           "Title": "Kategorija:Hrana"
         },
         {
+          "ID": 72694,
+          "Title": "Kategorija:Pismo"
+        },
+        {
           "ID": 79416,
           "Title": "Kategorija:Filmovi"
         },
@@ -300,6 +304,10 @@
       "Title": "History and events",
       "Categories": [
         {
+          "ID": 4054,
+          "Title": "Kategorija:Društvene nauke"
+        },
+        {
           "ID": 4062,
           "Title": "Kategorija:Historija"
         },
@@ -318,6 +326,10 @@
         {
           "ID": 85622,
           "Title": "Kategorija:Izbori po godinama"
+        },
+        {
+          "ID": 452266,
+          "Title": "Kategorija:Kulturni događaji"
         }
       ],
       "Articles": [
@@ -422,6 +434,10 @@
         {
           "ID": 69060,
           "Title": "Kategorija:Priroda"
+        },
+        {
+          "ID": 69061,
+          "Title": "Kategorija:Znanje"
         },
         {
           "ID": 72711,
@@ -770,6 +786,10 @@
         {
           "ID": 12515,
           "Title": "Kategorija:Religije"
+        },
+        {
+          "ID": 23894,
+          "Title": "Kategorija:Teologija"
         }
       ]
     },
@@ -808,6 +828,10 @@
         {
           "ID": 390454,
           "Title": "Kategorija:Međuvladine organizacije"
+        },
+        {
+          "ID": 452363,
+          "Title": "Kategorija:Feminizam"
         }
       ],
       "Articles": [

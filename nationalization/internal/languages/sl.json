@@ -62,6 +62,10 @@
           "Title": "Kategorija:Hrana"
         },
         {
+          "ID": 120374,
+          "Title": "Kategorija:Pisanje"
+        },
+        {
           "ID": 134752,
           "Title": "Kategorija:Rekreacija"
         },
@@ -348,12 +352,20 @@
           "Title": "Kategorija:Zgodovina"
         },
         {
+          "ID": 12343,
+          "Title": "Kategorija:Družboslovje"
+        },
+        {
           "ID": 48586,
           "Title": "Kategorija:Zgodovina po državah"
         },
         {
           "ID": 119321,
           "Title": "Kategorija:Dogodki"
+        },
+        {
+          "ID": 354632,
+          "Title": "Kategorija:Vede o človeku"
         }
       ],
       "Articles": [
@@ -458,6 +470,10 @@
         {
           "ID": 19959,
           "Title": "Kategorija:Znanost"
+        },
+        {
+          "ID": 40902,
+          "Title": "Kategorija:Znanje"
         },
         {
           "ID": 47694,
@@ -580,6 +596,10 @@
         {
           "ID": 150061,
           "Title": "Samozadovoljevanje"
+        },
+        {
+          "ID": 157764,
+          "Title": "Mangovec"
         },
         {
           "ID": 162466,
@@ -862,6 +882,10 @@
         {
           "ID": 11624,
           "Title": "Kategorija:Religija"
+        },
+        {
+          "ID": 28902,
+          "Title": "Kategorija:Teologija"
         },
         {
           "ID": 120721,

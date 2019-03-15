@@ -50,6 +50,10 @@
           "Title": "Catagóir:Na hEalaíona"
         },
         {
+          "ID": 57246,
+          "Title": "Catagóir:Scríbhneoireacht"
+        },
+        {
           "ID": 72028,
           "Title": "Catagóir:Aclaíocht"
         }
@@ -166,6 +170,10 @@
         {
           "ID": 54393,
           "Title": "Niseag"
+        },
+        {
+          "ID": 58251,
+          "Title": "Vicipéid na Breatnaise"
         },
         {
           "ID": 61024,
@@ -300,6 +308,14 @@
           "Title": "Catagóir:Stair"
         },
         {
+          "ID": 19294,
+          "Title": "Catagóir:Eolaíochtaí sóisialta"
+        },
+        {
+          "ID": 19295,
+          "Title": "Catagóir:Léann daonna"
+        },
+        {
           "ID": 80784,
           "Title": "Catagóir:Stair de réir tíre"
         }
@@ -374,6 +390,10 @@
         {
           "ID": 53163,
           "Title": "Catagóir:Eolaíochtaí nádúrtha"
+        },
+        {
+          "ID": 54921,
+          "Title": "Catagóir:Eolas"
         },
         {
           "ID": 77383,
@@ -524,6 +544,10 @@
         {
           "ID": 81049,
           "Title": "Sú talún fhiáin"
+        },
+        {
+          "ID": 88903,
+          "Title": "Mús"
         }
       ]
     },
@@ -702,6 +726,10 @@
         {
           "ID": 10635,
           "Title": "Catagóir:Creideamh"
+        },
+        {
+          "ID": 20148,
+          "Title": "Catagóir:Diagacht"
         }
       ]
     },

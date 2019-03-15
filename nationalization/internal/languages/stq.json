@@ -84,6 +84,10 @@
       "Title": "History and events",
       "Categories": [
         {
+          "ID": 2824,
+          "Title": "Kategorie:Moanskenwietenskup"
+        },
+        {
           "ID": 4510,
           "Title": "Kategorie:Geskichte"
         }
@@ -124,6 +128,10 @@
         {
           "ID": 2413,
           "Title": "Kategorie:Wietenskup"
+        },
+        {
+          "ID": 2823,
+          "Title": "Kategorie:Exakte Wietenskup"
         },
         {
           "ID": 3757,
@@ -198,6 +206,10 @@
         {
           "ID": 849,
           "Title": "Kategorie:Religion"
+        },
+        {
+          "ID": 7862,
+          "Title": "Kategorie:Theologie"
         }
       ]
     },

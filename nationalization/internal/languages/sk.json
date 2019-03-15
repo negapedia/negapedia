@@ -70,6 +70,10 @@
           "Title": "Kategória:Príprava jedál"
         },
         {
+          "ID": 334723,
+          "Title": "Kategória:Písanie"
+        },
+        {
           "ID": 342978,
           "Title": "Kategória:Šport podľa typu"
         },
@@ -180,6 +184,10 @@
           "Title": "Hudobná skupina"
         },
         {
+          "ID": 154526,
+          "Title": "Regionalizmus"
+        },
+        {
           "ID": 166506,
           "Title": "Cestovina"
         },
@@ -230,6 +238,10 @@
         {
           "ID": 289146,
           "Title": "Arašidové maslo"
+        },
+        {
+          "ID": 296603,
+          "Title": "Regionalizmus (regionálna integrácia)"
         },
         {
           "ID": 297471,
@@ -380,6 +392,10 @@
           "Title": "Kategória:História"
         },
         {
+          "ID": 7885,
+          "Title": "Kategória:Spoločenské vedy"
+        },
+        {
           "ID": 12621,
           "Title": "Kategória:Dejiny podľa štátu"
         },
@@ -390,6 +406,10 @@
         {
           "ID": 323664,
           "Title": "Kategória:Voľby podľa rokov"
+        },
+        {
+          "ID": 443088,
+          "Title": "Kategória:Humanitné vedy"
         },
         {
           "ID": 474450,
@@ -502,6 +522,10 @@
         {
           "ID": 198647,
           "Title": "Kategória:Environmentalistika"
+        },
+        {
+          "ID": 556620,
+          "Title": "Kategória:Znalosti"
         }
       ],
       "Articles": [
@@ -554,12 +578,20 @@
           "Title": "Hydrológia"
         },
         {
+          "ID": 102222,
+          "Title": "Močopohlavná sústava"
+        },
+        {
           "ID": 111624,
           "Title": "Kolobeh vody"
         },
         {
           "ID": 118480,
           "Title": "Ryža (potravina)"
+        },
+        {
+          "ID": 118508,
+          "Title": "Ryža (rod)"
         },
         {
           "ID": 118510,
@@ -600,6 +632,10 @@
         {
           "ID": 271228,
           "Title": "Ťava"
+        },
+        {
+          "ID": 284730,
+          "Title": "Mangovník"
         },
         {
           "ID": 285416,
@@ -930,6 +966,10 @@
         {
           "ID": 23113,
           "Title": "Kategória:Náboženstvo"
+        },
+        {
+          "ID": 23241,
+          "Title": "Kategória:Teológia"
         },
         {
           "ID": 106818,

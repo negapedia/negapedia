@@ -34,6 +34,10 @@
           "Title": "Categoría:Alimentos"
         },
         {
+          "ID": 8671,
+          "Title": "Categoría:Escritura"
+        },
+        {
           "ID": 8715,
           "Title": "Categoría:Color"
         },
@@ -208,6 +212,14 @@
       "Title": "History and events",
       "Categories": [
         {
+          "ID": 61104,
+          "Title": "Categoría:Sciencias socials"
+        },
+        {
+          "ID": 61619,
+          "Title": "Categoría:Humanidatz"
+        },
+        {
           "ID": 61894,
           "Title": "Categoría:Historia"
         },
@@ -294,6 +306,10 @@
         {
           "ID": 95763,
           "Title": "Categoría:Fisica"
+        },
+        {
+          "ID": 117463,
+          "Title": "Categoría:Conoiximiento"
         }
       ],
       "Articles": [
@@ -530,6 +546,10 @@
         {
           "ID": 6367,
           "Title": "Categoría:Relichión"
+        },
+        {
+          "ID": 9812,
+          "Title": "Categoría:Teolochía"
         }
       ]
     },

@@ -80,8 +80,16 @@
       "Title": "History and events",
       "Categories": [
         {
+          "ID": 3652,
+          "Title": "Categoria:Scienze umane"
+        },
+        {
           "ID": 3653,
           "Title": "Categoria:Storia"
+        },
+        {
+          "ID": 5977,
+          "Title": "Categoria:Scienze sociale"
         }
       ]
     },

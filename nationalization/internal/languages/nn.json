@@ -22,6 +22,10 @@
           "Title": "Kategori:Kunst"
         },
         {
+          "ID": 3675,
+          "Title": "Kategori:Skrift"
+        },
+        {
           "ID": 6527,
           "Title": "Kategori:Underhaldning"
         },
@@ -76,6 +80,10 @@
         {
           "ID": 354907,
           "Title": "Kategori:Matretter etter ingrediens"
+        },
+        {
+          "ID": 361619,
+          "Title": "Kategori:Matprodukt"
         }
       ],
       "Articles": [
@@ -396,8 +404,16 @@
           "Title": "Kategori:Historie"
         },
         {
+          "ID": 9426,
+          "Title": "Kategori:Humaniora"
+        },
+        {
           "ID": 29997,
           "Title": "Kategori:Merkedagar"
+        },
+        {
+          "ID": 33587,
+          "Title": "Kategori:Samfunnsvitskapar"
         },
         {
           "ID": 68459,
@@ -514,6 +530,10 @@
         {
           "ID": 6172,
           "Title": "Kategori:Kjemiske sambindingar"
+        },
+        {
+          "ID": 8598,
+          "Title": "Kategori:Kunnskap"
         },
         {
           "ID": 73140,
@@ -678,6 +698,10 @@
           "Title": "Edderkoppapar"
         },
         {
+          "ID": 339876,
+          "Title": "Oryza"
+        },
+        {
           "ID": 341035,
           "Title": "Myrt"
         },
@@ -726,6 +750,10 @@
         {
           "ID": 296642,
           "Title": "Kategori:Einskildkvinner"
+        },
+        {
+          "ID": 332091,
+          "Title": "Kategori:Biografar"
         },
         {
           "ID": 337864,
@@ -934,6 +962,10 @@
         {
           "ID": 1861,
           "Title": "Kategori:Religion og livssyn"
+        },
+        {
+          "ID": 3054,
+          "Title": "Kategori:Teologi"
         },
         {
           "ID": 68735,

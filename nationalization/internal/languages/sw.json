@@ -14,6 +14,10 @@
           "Title": "Jamii:Utamaduni"
         },
         {
+          "ID": 6758,
+          "Title": "Jamii:Mwandiko"
+        },
+        {
           "ID": 6835,
           "Title": "Jamii:Michezo"
         },
@@ -194,6 +198,10 @@
         {
           "ID": 29069,
           "Title": "Jamii:Historia nchi kwa nchi"
+        },
+        {
+          "ID": 43040,
+          "Title": "Jamii:Sayansi ya Jamii"
         }
       ],
       "Articles": [
@@ -308,6 +316,10 @@
         {
           "ID": 36292,
           "Title": "Mnyanya"
+        },
+        {
+          "ID": 36868,
+          "Title": "Mpunga"
         },
         {
           "ID": 39849,
@@ -526,6 +538,10 @@
         {
           "ID": 1786,
           "Title": "Jamii:Dini"
+        },
+        {
+          "ID": 6634,
+          "Title": "Jamii:Teolojia"
         }
       ]
     },

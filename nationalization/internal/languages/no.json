@@ -42,6 +42,10 @@
           "Title": "Kategori:Rekreasjon"
         },
         {
+          "ID": 77071,
+          "Title": "Kategori:Skrift"
+        },
+        {
           "ID": 79419,
           "Title": "Kategori:Mosjon"
         },
@@ -298,6 +302,10 @@
         {
           "ID": 416458,
           "Title": "Ingefærøl"
+        },
+        {
+          "ID": 422326,
+          "Title": "Regionalisme"
         },
         {
           "ID": 422611,
@@ -560,12 +568,20 @@
           "Title": "Kategori:Historie"
         },
         {
+          "ID": 17766,
+          "Title": "Kategori:Humaniora"
+        },
+        {
           "ID": 19004,
           "Title": "Kategori:Historie etter område"
         },
         {
           "ID": 21622,
           "Title": "Kategori:Historiske hendelser"
+        },
+        {
+          "ID": 32695,
+          "Title": "Kategori:Samfunnsvitenskap"
         },
         {
           "ID": 355775,
@@ -698,6 +714,10 @@
         {
           "ID": 30752,
           "Title": "Kategori:Natur"
+        },
+        {
+          "ID": 38892,
+          "Title": "Kategori:Kunnskap"
         },
         {
           "ID": 498400,
@@ -1046,6 +1066,10 @@
           "Title": "Johannes Kepler"
         },
         {
+          "ID": 9390,
+          "Title": "Kepler (andre betydninger)"
+        },
+        {
           "ID": 10796,
           "Title": "Sigmund Freud"
         },
@@ -1235,6 +1259,10 @@
       "ID": 2147483645,
       "Title": "Religion and belief systems",
       "Categories": [
+        {
+          "ID": 9212,
+          "Title": "Kategori:Teologi"
+        },
         {
           "ID": 16455,
           "Title": "Kategori:Religion"
@@ -1962,6 +1990,10 @@
         {
           "ID": 32608,
           "Title": "Pepsi"
+        },
+        {
+          "ID": 32609,
+          "Title": "PepsiCo"
         },
         {
           "ID": 148896,

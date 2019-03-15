@@ -40,6 +40,10 @@
         {
           "ID": 94659,
           "Title": "Rummad:Meuzioù"
+        },
+        {
+          "ID": 123065,
+          "Title": "Rummad:Skrivañ"
         }
       ],
       "Articles": [
@@ -130,6 +134,10 @@
         {
           "ID": 122022,
           "Title": "Fars"
+        },
+        {
+          "ID": 128290,
+          "Title": "Rannvroelouriezh"
         },
         {
           "ID": 134294,
@@ -228,8 +236,16 @@
       "Title": "History and events",
       "Categories": [
         {
+          "ID": 1170,
+          "Title": "Rummad:Skiantoù an Den"
+        },
+        {
           "ID": 1171,
           "Title": "Rummad:Istor"
+        },
+        {
+          "ID": 9115,
+          "Title": "Rummad:Skiantoù sokial"
         },
         {
           "ID": 10763,
@@ -582,6 +598,10 @@
         {
           "ID": 1247,
           "Title": "Rummad:Relijion"
+        },
+        {
+          "ID": 6163,
+          "Title": "Rummad:Doueoniezh"
         },
         {
           "ID": 6185,

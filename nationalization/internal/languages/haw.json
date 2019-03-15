@@ -45,7 +45,13 @@
     },
     {
       "ID": 2147483640,
-      "Title": "History and events"
+      "Title": "History and events",
+      "Categories": [
+        {
+          "ID": 5641,
+          "Title": "Māhele:Huli kanaka"
+        }
+      ]
     },
     {
       "ID": 2147483641,

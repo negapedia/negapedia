@@ -26,6 +26,10 @@
           "Title": "Categorìa:Film"
         },
         {
+          "ID": 24615,
+          "Title": "Categorìa:Scritura"
+        },
+        {
           "ID": 98485,
           "Title": "Categorìa:Cultura"
         },
@@ -131,6 +135,10 @@
       "ID": 2147483640,
       "Title": "History and events",
       "Categories": [
+        {
+          "ID": 1486,
+          "Title": "Categorìa:Siense dl'òmo"
+        },
         {
           "ID": 1490,
           "Title": "Categorìa:Stòria"

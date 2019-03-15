@@ -52,6 +52,10 @@
         {
           "ID": 134260,
           "Title": "Kategorija:Vaļasprieki"
+        },
+        {
+          "ID": 173610,
+          "Title": "Kategorija:Rakstīšana"
         }
       ],
       "Articles": [
@@ -300,6 +304,14 @@
           "Title": "Kategorija:Vēsture pēc valsts"
         },
         {
+          "ID": 14423,
+          "Title": "Kategorija:Humanitārās zinātnes"
+        },
+        {
+          "ID": 23923,
+          "Title": "Kategorija:Sociālās zinātnes"
+        },
+        {
           "ID": 27551,
           "Title": "Kategorija:Notikumi"
         }
@@ -402,6 +414,10 @@
         {
           "ID": 24527,
           "Title": "Kategorija:Katastrofas"
+        },
+        {
+          "ID": 36940,
+          "Title": "Kategorija:Zināšanas"
         },
         {
           "ID": 55092,
@@ -568,6 +584,10 @@
         {
           "ID": 288146,
           "Title": "Anakondas"
+        },
+        {
+          "ID": 326432,
+          "Title": "Mango (ģints)"
         },
         {
           "ID": 326435,
@@ -738,6 +758,10 @@
           "Title": "Lielā sprādziena teorija (seriāls)"
         },
         {
+          "ID": 141677,
+          "Title": "Kepler"
+        },
+        {
           "ID": 141784,
           "Title": "Viljams Bleiks"
         },
@@ -830,6 +854,10 @@
         {
           "ID": 6900,
           "Title": "Kategorija:Reliģija"
+        },
+        {
+          "ID": 7370,
+          "Title": "Kategorija:Teoloģija"
         },
         {
           "ID": 78064,
@@ -949,7 +977,7 @@
         },
         {
           "ID": 73027,
-          "Title": "Teksasas universitāte Ostinā"
+          "Title": "Teksasas Universitāte Ostinā"
         },
         {
           "ID": 83403,

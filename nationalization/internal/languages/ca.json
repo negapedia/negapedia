@@ -42,6 +42,10 @@
           "Title": "Categoria:Espectacles"
         },
         {
+          "ID": 20829,
+          "Title": "Categoria:Escriptura"
+        },
+        {
           "ID": 27485,
           "Title": "Categoria:Nutrició"
         },
@@ -240,6 +244,10 @@
           "Title": "Mordred"
         },
         {
+          "ID": 206701,
+          "Title": "Regionalisme"
+        },
+        {
           "ID": 262126,
           "Title": "Galeta"
         },
@@ -324,6 +332,10 @@
           "Title": "Xocolata blanca"
         },
         {
+          "ID": 631603,
+          "Title": "Viquipèdia en gal·lès"
+        },
+        {
           "ID": 679017,
           "Title": "Taco"
         },
@@ -350,10 +362,6 @@
         {
           "ID": 797236,
           "Title": "Ou ferrat"
-        },
-        {
-          "ID": 799942,
-          "Title": "Llista de Criatures màgiques (Harry Potter)"
         },
         {
           "ID": 811274,
@@ -638,8 +646,16 @@
       "Title": "History and events",
       "Categories": [
         {
+          "ID": 13526,
+          "Title": "Categoria:Ciències socials"
+        },
+        {
           "ID": 13625,
           "Title": "Categoria:Història"
+        },
+        {
+          "ID": 46927,
+          "Title": "Categoria:Humanitats"
         },
         {
           "ID": 320218,
@@ -864,6 +880,10 @@
           "Title": "Taronger"
         },
         {
+          "ID": 39257,
+          "Title": "Mangifera"
+        },
+        {
           "ID": 44433,
           "Title": "Melonera"
         },
@@ -910,6 +930,10 @@
         {
           "ID": 96199,
           "Title": "Maduixot"
+        },
+        {
+          "ID": 118064,
+          "Title": "Oryza"
         },
         {
           "ID": 136307,
@@ -998,6 +1022,10 @@
         {
           "ID": 639456,
           "Title": "Tentacle"
+        },
+        {
+          "ID": 652363,
+          "Title": "Sistema genitourinari"
         },
         {
           "ID": 684520,
@@ -1162,6 +1190,10 @@
         {
           "ID": 19709,
           "Title": "Bill Gates"
+        },
+        {
+          "ID": 21558,
+          "Title": "Kepler (desambiguació)"
         },
         {
           "ID": 21562,
@@ -1356,6 +1388,10 @@
           "Title": "Efecte Dunning-Kruger"
         },
         {
+          "ID": 1395140,
+          "Title": "Alegría"
+        },
+        {
           "ID": 1527911,
           "Title": "Fer llum de gas"
         }
@@ -1368,6 +1404,10 @@
         {
           "ID": 13788,
           "Title": "Categoria:Religions"
+        },
+        {
+          "ID": 13789,
+          "Title": "Categoria:Teologia"
         },
         {
           "ID": 28501,
@@ -1956,6 +1996,10 @@
         {
           "ID": 823588,
           "Title": "Cua d'oreneta"
+        },
+        {
+          "ID": 1179425,
+          "Title": "PepsiCo"
         }
       ]
     }

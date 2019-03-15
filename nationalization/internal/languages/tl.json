@@ -26,6 +26,10 @@
           "Title": "Kategorya:Pagkain at inumin"
         },
         {
+          "ID": 8023,
+          "Title": "Kategorya:Pagsulat"
+        },
+        {
           "ID": 21305,
           "Title": "Kategorya:Pagkain"
         },
@@ -236,8 +240,16 @@
           "Title": "Realismong pilosopiko"
         },
         {
+          "ID": 252216,
+          "Title": "Wikipediang Gales"
+        },
+        {
           "ID": 252329,
           "Title": "Wikipediang Asturyano"
+        },
+        {
+          "ID": 252789,
+          "Title": "Wikipediang Mirandes"
         },
         {
           "ID": 279608,
@@ -348,8 +360,16 @@
           "Title": "Kategorya:Kasaysayan"
         },
         {
+          "ID": 4265,
+          "Title": "Kategorya:Mga agham panlipunan"
+        },
+        {
           "ID": 17505,
           "Title": "Kategorya:Kasaysayan ayon sa bansa"
+        },
+        {
+          "ID": 172953,
+          "Title": "Kategorya:Agham pantao"
         },
         {
           "ID": 174577,
@@ -428,6 +448,10 @@
           "Title": "Kategorya:Soolohiya"
         },
         {
+          "ID": 57466,
+          "Title": "Kategorya:Kaalaman"
+        },
+        {
           "ID": 179418,
           "Title": "Kategorya:Sakuna"
         },
@@ -488,6 +512,10 @@
         {
           "ID": 14399,
           "Title": "Dalandan"
+        },
+        {
+          "ID": 14428,
+          "Title": "Mangga"
         },
         {
           "ID": 18909,
@@ -811,6 +839,10 @@
       "ID": 2147483645,
       "Title": "Religion and belief systems",
       "Categories": [
+        {
+          "ID": 5984,
+          "Title": "Kategorya:Teolohiya"
+        },
         {
           "ID": 110899,
           "Title": "Kategorya:Sekularismo"
@@ -1313,7 +1345,7 @@
         },
         {
           "ID": 280989,
-          "Title": "Unibersidad ng Milano"
+          "Title": "Unibersidad ng Milan"
         },
         {
           "ID": 281023,
@@ -1474,6 +1506,10 @@
         {
           "ID": 251559,
           "Title": "Pepsi"
+        },
+        {
+          "ID": 253470,
+          "Title": "PepsiCo"
         }
       ]
     }

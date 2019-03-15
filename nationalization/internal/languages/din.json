@@ -7,7 +7,13 @@
     },
     {
       "ID": 2147483638,
-      "Title": "Geography and places"
+      "Title": "Geography and places",
+      "Articles": [
+        {
+          "ID": 958,
+          "Title": "Australia"
+        }
+      ]
     },
     {
       "ID": 2147483639,

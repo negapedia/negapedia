@@ -42,6 +42,12 @@
     {
       "ID": 2147483640,
       "Title": "History and events",
+      "Categories": [
+        {
+          "ID": 2026,
+          "Title": "Shopni:Manushikanipnaske janglimata"
+        }
+      ],
       "Articles": [
         {
           "ID": 4832,

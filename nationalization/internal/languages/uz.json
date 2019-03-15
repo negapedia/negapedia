@@ -216,8 +216,16 @@
           "Title": "Turkum:Tarix"
         },
         {
+          "ID": 4742,
+          "Title": "Turkum:Gumanitar fanlar"
+        },
+        {
           "ID": 24076,
           "Title": "Turkum:Voqealar"
+        },
+        {
+          "ID": 440688,
+          "Title": "Turkum:Ijtimoiy fanlar"
         }
       ],
       "Articles": [
@@ -366,6 +374,10 @@
         {
           "ID": 599925,
           "Title": "Finik palmasi"
+        },
+        {
+          "ID": 611091,
+          "Title": "Sholi"
         },
         {
           "ID": 627200,
@@ -619,7 +631,7 @@
         },
         {
           "ID": 508227,
-          "Title": "Kembrij universiteti"
+          "Title": "Cambridge universiteti"
         },
         {
           "ID": 508652,

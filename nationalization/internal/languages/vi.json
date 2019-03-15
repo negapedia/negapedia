@@ -66,8 +66,16 @@
           "Title": "Thể loại:Ăn uống"
         },
         {
+          "ID": 495046,
+          "Title": "Thể loại:Dịch vụ ăn uống"
+        },
+        {
           "ID": 2414729,
           "Title": "Thể loại:Món ăn theo thành phần chính"
+        },
+        {
+          "ID": 2429390,
+          "Title": "Thể loại:Sáng tác"
         },
         {
           "ID": 2443569,
@@ -360,6 +368,10 @@
           "Title": "Bánh ngọt"
         },
         {
+          "ID": 2393158,
+          "Title": "Wikipedia tiếng Wales"
+        },
+        {
           "ID": 2421945,
           "Title": "Cơm cháy"
         },
@@ -612,6 +624,10 @@
           "Title": "Thể loại:Lịch sử"
         },
         {
+          "ID": 32787,
+          "Title": "Thể loại:Khoa học xã hội"
+        },
+        {
           "ID": 33278,
           "Title": "Thể loại:Lịch sử theo quốc gia"
         },
@@ -624,8 +640,16 @@
           "Title": "Thể loại:Lịch sử theo khu vực"
         },
         {
+          "ID": 1772198,
+          "Title": "Thể loại:Ngày kỷ niệm"
+        },
+        {
           "ID": 3424592,
           "Title": "Thể loại:Sự kiện văn hóa"
+        },
+        {
+          "ID": 3527143,
+          "Title": "Thể loại:Khoa học nhân văn"
         }
       ],
       "Articles": [
@@ -744,6 +768,10 @@
           "Title": "Thể loại:Hợp chất hóa học"
         },
         {
+          "ID": 24894,
+          "Title": "Thể loại:Tri thức"
+        },
+        {
           "ID": 24895,
           "Title": "Thể loại:Tự nhiên"
         },
@@ -790,6 +818,10 @@
           "Title": "Thủ dâm"
         },
         {
+          "ID": 30898,
+          "Title": "Chi Lúa"
+        },
+        {
           "ID": 32055,
           "Title": "Dương vật"
         },
@@ -828,6 +860,10 @@
         {
           "ID": 55445,
           "Title": "Thủy văn học"
+        },
+        {
+          "ID": 56522,
+          "Title": "Chi Xoài"
         },
         {
           "ID": 62046,
@@ -1178,6 +1214,10 @@
         {
           "ID": 3171170,
           "Title": "Thể loại:Nghệ sĩ theo phương tiện"
+        },
+        {
+          "ID": 3247893,
+          "Title": "Thể loại:Người viết tiểu sử"
         }
       ],
       "Articles": [
@@ -1418,6 +1458,10 @@
         {
           "ID": 4619,
           "Title": "Thể loại:Tôn giáo"
+        },
+        {
+          "ID": 32556,
+          "Title": "Thể loại:Thần học"
         },
         {
           "ID": 65113,
@@ -2010,6 +2054,10 @@
         {
           "ID": 2414295,
           "Title": "Mountain Dew"
+        },
+        {
+          "ID": 3492628,
+          "Title": "PepsiCo"
         }
       ]
     }

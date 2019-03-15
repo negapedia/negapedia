@@ -6,6 +6,10 @@
       "Title": "Culture and the arts",
       "Categories": [
         {
+          "ID": 21501,
+          "Title": "Kategorio:Skribo"
+        },
+        {
           "ID": 26391,
           "Title": "Kategorio:Kulturo"
         },
@@ -332,6 +336,10 @@
           "Title": "Tomatsaŭco"
         },
         {
+          "ID": 480968,
+          "Title": "Regionismo"
+        },
+        {
           "ID": 483022,
           "Title": "Branpano"
         },
@@ -496,12 +504,20 @@
           "Title": "Kategorio:Historio"
         },
         {
+          "ID": 30586,
+          "Title": "Kategorio:Homa scienco"
+        },
+        {
           "ID": 141347,
           "Title": "Kategorio:Historio laŭ landoj"
         },
         {
           "ID": 262097,
           "Title": "Kategorio:Balotoj laŭ jaroj"
+        },
+        {
+          "ID": 293001,
+          "Title": "Kategorio:Socia scienco"
         },
         {
           "ID": 293879,
@@ -636,6 +652,10 @@
           "Title": "Kategorio:Kemiaj kombinaĵoj"
         },
         {
+          "ID": 82907,
+          "Title": "Kategorio:Scio"
+        },
+        {
           "ID": 104811,
           "Title": "Kategorio:Substancoj"
         },
@@ -730,6 +750,10 @@
           "Title": "Bova flano"
         },
         {
+          "ID": 47286,
+          "Title": "Oryza"
+        },
+        {
           "ID": 51371,
           "Title": "Flamengo"
         },
@@ -766,6 +790,10 @@
           "Title": "Akva ciklo"
         },
         {
+          "ID": 179661,
+          "Title": "Mangifero"
+        },
+        {
           "ID": 181810,
           "Title": "Tentaklo"
         },
@@ -800,6 +828,10 @@
         {
           "ID": 255550,
           "Title": "Majaa kalendaro"
+        },
+        {
+          "ID": 276267,
+          "Title": "Urina kaj reprodukta sistemo"
         },
         {
           "ID": 278439,
@@ -934,6 +966,10 @@
         {
           "ID": 447269,
           "Title": "Kategorio:Personeco"
+        },
+        {
+          "ID": 479601,
+          "Title": "Kategorio:Biografoj"
         },
         {
           "ID": 597524,
@@ -1178,6 +1214,10 @@
         {
           "ID": 21176,
           "Title": "Kategorio:Religio"
+        },
+        {
+          "ID": 34774,
+          "Title": "Kategorio:Teologio"
         },
         {
           "ID": 434541,

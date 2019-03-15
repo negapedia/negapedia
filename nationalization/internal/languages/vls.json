@@ -42,6 +42,10 @@
           "Title": "Categorie:Kleur"
         },
         {
+          "ID": 14628,
+          "Title": "Categorie:Schrift"
+        },
+        {
           "ID": 21167,
           "Title": "Categorie:Amusement"
         }
@@ -146,6 +150,14 @@
         {
           "ID": 3467,
           "Title": "Categorie:Geschiedenisse"
+        },
+        {
+          "ID": 7799,
+          "Title": "Categorie:Sociale weetnschap"
+        },
+        {
+          "ID": 14340,
+          "Title": "Categorie:Gêestesweetnschap"
         }
       ],
       "Articles": [
@@ -188,6 +200,10 @@
         {
           "ID": 7672,
           "Title": "Categorie:Weetnschap"
+        },
+        {
+          "ID": 7806,
+          "Title": "Categorie:Exacte weetnschap"
         },
         {
           "ID": 8962,
@@ -282,6 +298,10 @@
         {
           "ID": 7600,
           "Title": "Categorie:Godsdienst"
+        },
+        {
+          "ID": 21398,
+          "Title": "Categorie:Theologie"
         }
       ]
     },

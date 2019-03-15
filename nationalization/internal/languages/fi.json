@@ -50,6 +50,10 @@
           "Title": "Luokka:Yhtyeet"
         },
         {
+          "ID": 26803,
+          "Title": "Luokka:Kirjoitus"
+        },
+        {
           "ID": 27898,
           "Title": "Luokka:Viihde"
         },
@@ -602,8 +606,16 @@
           "Title": "Luokka:Tapahtumat"
         },
         {
+          "ID": 109269,
+          "Title": "Luokka:Humanistiset tieteet"
+        },
+        {
           "ID": 342986,
           "Title": "Luokka:Vaalit vuosittain"
+        },
+        {
+          "ID": 596189,
+          "Title": "Luokka:Yhteiskuntatieteet"
         },
         {
           "ID": 1063598,
@@ -740,6 +752,10 @@
         {
           "ID": 275176,
           "Title": "Luokka:Ympäristötiede"
+        },
+        {
+          "ID": 504870,
+          "Title": "Luokka:Tieto"
         }
       ],
       "Articles": [
@@ -972,6 +988,10 @@
           "Title": "Appelsiini (hedelmä)"
         },
         {
+          "ID": 1301793,
+          "Title": "Mangopuut"
+        },
+        {
           "ID": 1334897,
           "Title": "Lasivaskitsat"
         },
@@ -982,6 +1002,10 @@
         {
           "ID": 1356019,
           "Title": "Myrtit"
+        },
+        {
+          "ID": 1459962,
+          "Title": "Riisit"
         },
         {
           "ID": 1483171,
@@ -1176,6 +1200,10 @@
           "Title": "Rillit huurussa"
         },
         {
+          "ID": 643158,
+          "Title": "Kepler"
+        },
+        {
           "ID": 654115,
           "Title": "Jacob Black"
         },
@@ -1288,6 +1316,10 @@
         {
           "ID": 20367,
           "Title": "Luokka:Uskonto"
+        },
+        {
+          "ID": 25992,
+          "Title": "Luokka:Teologia"
         },
         {
           "ID": 217315,
@@ -1408,6 +1440,10 @@
         {
           "ID": 68426,
           "Title": "Mikrovaltio"
+        },
+        {
+          "ID": 70188,
+          "Title": "Sosiaalityöntekijä"
         },
         {
           "ID": 71926,
@@ -1880,6 +1916,10 @@
           "Title": "Luokka:Elektroniikka"
         },
         {
+          "ID": 18559,
+          "Title": "Luokka:Tietotekniikka"
+        },
+        {
           "ID": 21059,
           "Title": "Luokka:Liikenne"
         },
@@ -1956,6 +1996,10 @@
         {
           "ID": 302109,
           "Title": "TIG-hitsaus"
+        },
+        {
+          "ID": 373884,
+          "Title": "PepsiCo"
         },
         {
           "ID": 919743,

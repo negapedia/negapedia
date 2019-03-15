@@ -66,8 +66,16 @@
       "Title": "History and events",
       "Categories": [
         {
+          "ID": 6095,
+          "Title": "Category:Human sienties"
+        },
+        {
           "ID": 6232,
           "Title": "Category:Historie"
+        },
+        {
+          "ID": 6696,
+          "Title": "Category:Sosial sienties"
         }
       ]
     },

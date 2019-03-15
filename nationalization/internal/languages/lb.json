@@ -46,6 +46,10 @@
           "Title": "Kategorie:Museksgruppen"
         },
         {
+          "ID": 66503,
+          "Title": "Kategorie:Schreiwen"
+        },
+        {
           "ID": 115656,
           "Title": "Kategorie:Filmer"
         },
@@ -244,6 +248,14 @@
           "Title": "Kategorie:Geschicht"
         },
         {
+          "ID": 29573,
+          "Title": "Kategorie:Humanwëssenschaften"
+        },
+        {
+          "ID": 66656,
+          "Title": "Kategorie:Sozialwëssenschaften"
+        },
+        {
           "ID": 95175,
           "Title": "Kategorie:Geschicht no Länner"
         }
@@ -322,6 +334,10 @@
         {
           "ID": 76918,
           "Title": "Kategorie:Natur"
+        },
+        {
+          "ID": 77012,
+          "Title": "Kategorie:Wëssen"
         }
       ],
       "Articles": [
@@ -521,6 +537,10 @@
       "ID": 2147483645,
       "Title": "Religion and belief systems",
       "Categories": [
+        {
+          "ID": 7702,
+          "Title": "Kategorie:Theologie"
+        },
         {
           "ID": 41756,
           "Title": "Kategorie:Reliounen"

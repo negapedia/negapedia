@@ -97,7 +97,17 @@
     },
     {
       "ID": 2147483640,
-      "Title": "History and events"
+      "Title": "History and events",
+      "Categories": [
+        {
+          "ID": 2441,
+          "Title": "Kategòrëjô:Spòlëznowé ùczbë"
+        },
+        {
+          "ID": 2501,
+          "Title": "Kategòrëjô:Hùmanistné ùczbë"
+        }
+      ]
     },
     {
       "ID": 2147483641,
@@ -124,6 +134,10 @@
         {
           "ID": 2419,
           "Title": "Kategòrëjô:Ùczba"
+        },
+        {
+          "ID": 2439,
+          "Title": "Kategòrëjô:Dokładné ùczbë"
         },
         {
           "ID": 2440,

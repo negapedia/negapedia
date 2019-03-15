@@ -144,6 +144,10 @@
       "Title": "History and events",
       "Categories": [
         {
+          "ID": 11913,
+          "Title": "Kategori:Syans imèn"
+        },
+        {
           "ID": 12410,
           "Title": "Kategori:Istwa"
         }
@@ -370,6 +374,10 @@
         {
           "ID": 65951,
           "Title": "Thomas d'Aquin"
+        },
+        {
+          "ID": 70365,
+          "Title": "Noam Chomsky"
         }
       ]
     },

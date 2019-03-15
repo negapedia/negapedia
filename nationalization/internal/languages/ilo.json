@@ -18,6 +18,10 @@
           "Title": "Kategoria:Palpaliwa"
         },
         {
+          "ID": 18106,
+          "Title": "Kategoria:Panagsurat"
+        },
+        {
           "ID": 18140,
           "Title": "Kategoria:Dagiti apision"
         },
@@ -168,6 +172,10 @@
           "Title": "Kategoria:Pakasaritaan"
         },
         {
+          "ID": 18103,
+          "Title": "Kategoria:Dagiti siensia sosial"
+        },
+        {
           "ID": 20535,
           "Title": "Kategoria:Paspasamak"
         },
@@ -246,6 +254,10 @@
           "Title": "Kategoria:Katutubo"
         },
         {
+          "ID": 18110,
+          "Title": "Kategoria:Pannakaammo"
+        },
+        {
           "ID": 21971,
           "Title": "Kategoria:Soolohia"
         },
@@ -314,6 +326,10 @@
         {
           "ID": 38235,
           "Title": "Mangifera indica"
+        },
+        {
+          "ID": 38238,
+          "Title": "Mangifera"
         }
       ]
     },
@@ -453,6 +469,10 @@
       "ID": 2147483645,
       "Title": "Religion and belief systems",
       "Categories": [
+        {
+          "ID": 1914,
+          "Title": "Kategoria:Teolohia"
+        },
         {
           "ID": 15489,
           "Title": "Kategoria:Panagdillaw iti relihion"

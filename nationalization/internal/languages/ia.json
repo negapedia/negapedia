@@ -42,6 +42,10 @@
           "Title": "Categoria:Color"
         },
         {
+          "ID": 19951,
+          "Title": "Categoria:Scriptura"
+        },
+        {
           "ID": 40473,
           "Title": "Categoria:Gastronomia"
         }
@@ -172,12 +176,20 @@
           "Title": "Categoria:Historia"
         },
         {
+          "ID": 9509,
+          "Title": "Categoria:Scientias social"
+        },
+        {
           "ID": 10169,
           "Title": "Categoria:Eventos"
         },
         {
           "ID": 11358,
           "Title": "Categoria:Historia per pais"
+        },
+        {
+          "ID": 17080,
+          "Title": "Categoria:Scientias human"
         },
         {
           "ID": 23471,
@@ -270,6 +282,10 @@
         {
           "ID": 9572,
           "Title": "Categoria:Zoologia"
+        },
+        {
+          "ID": 9957,
+          "Title": "Categoria:Cognoscentia"
         },
         {
           "ID": 11378,
@@ -494,6 +510,10 @@
         {
           "ID": 6122,
           "Title": "Categoria:Religion"
+        },
+        {
+          "ID": 9558,
+          "Title": "Categoria:Theologia"
         }
       ]
     },
@@ -570,6 +590,10 @@
         {
           "ID": 42957,
           "Title": "Universitate de Uppsala"
+        },
+        {
+          "ID": 43754,
+          "Title": "Columbia University"
         }
       ]
     },

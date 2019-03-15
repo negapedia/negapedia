@@ -38,6 +38,10 @@
           "Title": "Kategori:Teknik masakan"
         },
         {
+          "ID": 82243,
+          "Title": "Kategori:Penulisan"
+        },
+        {
           "ID": 82291,
           "Title": "Kategori:Rekreasi"
         },
@@ -272,6 +276,10 @@
           "Title": "Carbonara"
         },
         {
+          "ID": 808062,
+          "Title": "Bubur nasi"
+        },
+        {
           "ID": 808133,
           "Title": "Ham"
         },
@@ -464,8 +472,16 @@
           "Title": "Kategori:Sejarah"
         },
         {
+          "ID": 30610,
+          "Title": "Kategori:Sains sosial"
+        },
+        {
           "ID": 33566,
           "Title": "Kategori:Perayaan"
+        },
+        {
+          "ID": 81807,
+          "Title": "Kategori:Sains manusia"
         },
         {
           "ID": 81849,
@@ -578,6 +594,10 @@
         {
           "ID": 72839,
           "Title": "Kategori:Bencana"
+        },
+        {
+          "ID": 76146,
+          "Title": "Kategori:Pengetahuan"
         },
         {
           "ID": 76161,
@@ -724,6 +744,10 @@
         {
           "ID": 279208,
           "Title": "Labah-labah serigala"
+        },
+        {
+          "ID": 281138,
+          "Title": "Mangifera"
         },
         {
           "ID": 284899,
@@ -924,6 +948,10 @@
         {
           "ID": 950576,
           "Title": "Irving Langmuir"
+        },
+        {
+          "ID": 969509,
+          "Title": "Srinivasa Ramanujan"
         }
       ]
     },
@@ -990,6 +1018,10 @@
         {
           "ID": 105547,
           "Title": "Kategori:Sekularisme"
+        },
+        {
+          "ID": 139543,
+          "Title": "Kategori:Teologi"
         },
         {
           "ID": 162012,
@@ -1274,6 +1306,10 @@
         {
           "ID": 964859,
           "Title": "Taco Bell"
+        },
+        {
+          "ID": 968008,
+          "Title": "Universiti Liverpool"
         }
       ]
     },
@@ -1358,6 +1394,10 @@
         {
           "ID": 99642,
           "Title": "Kimpalan"
+        },
+        {
+          "ID": 955523,
+          "Title": "PepsiCo"
         }
       ]
     }

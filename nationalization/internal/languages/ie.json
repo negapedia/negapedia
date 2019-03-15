@@ -66,6 +66,10 @@
       "Title": "History and events",
       "Categories": [
         {
+          "ID": 4765,
+          "Title": "Categorie:Social scienties"
+        },
+        {
           "ID": 5723,
           "Title": "Categorie:Historie"
         }
@@ -94,6 +98,10 @@
         {
           "ID": 2295,
           "Title": "Categorie:Scientie"
+        },
+        {
+          "ID": 4775,
+          "Title": "Categorie:Conossentie"
         }
       ],
       "Articles": [

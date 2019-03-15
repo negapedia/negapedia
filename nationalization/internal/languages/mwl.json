@@ -34,6 +34,10 @@
           "Title": "Catadorie:Çportos"
         },
         {
+          "ID": 1683,
+          "Title": "Catadorie:Scrita"
+        },
+        {
           "ID": 2562,
           "Title": "Catadorie:Alimientos"
         },
@@ -144,6 +148,14 @@
       "Title": "History and events",
       "Categories": [
         {
+          "ID": 52,
+          "Title": "Catadorie:Ciéncias houmanas"
+        },
+        {
+          "ID": 53,
+          "Title": "Catadorie:Ciéncias sociales"
+        },
+        {
           "ID": 151,
           "Title": "Catadorie:Stória"
         },
@@ -218,8 +230,16 @@
           "Title": "Catadorie:Zologie"
         },
         {
+          "ID": 2726,
+          "Title": "Catadorie:Coincimiento"
+        },
+        {
           "ID": 2907,
           "Title": "Catadorie:Zastres"
+        },
+        {
+          "ID": 3069,
+          "Title": "Catadorie:Ciéncias eisatas"
         },
         {
           "ID": 3926,
@@ -368,6 +388,10 @@
         {
           "ID": 134,
           "Title": "Catadorie:Relegion"
+        },
+        {
+          "ID": 1833,
+          "Title": "Catadorie:Teologie"
         },
         {
           "ID": 10389,

@@ -42,6 +42,10 @@
           "Title": "Categoria:Cultura"
         },
         {
+          "ID": 38188,
+          "Title": "Categoria:Scritura"
+        },
+        {
           "ID": 39707,
           "Title": "Categoria:Spetacoło"
         }
@@ -163,6 +167,10 @@
       "ID": 2147483640,
       "Title": "History and events",
       "Categories": [
+        {
+          "ID": 22463,
+          "Title": "Categoria:Siense sociałi"
+        },
         {
           "ID": 28967,
           "Title": "Categoria:Istoria"
@@ -309,6 +317,10 @@
       "ID": 2147483645,
       "Title": "Religion and belief systems",
       "Categories": [
+        {
+          "ID": 6337,
+          "Title": "Categoria:Teołojia"
+        },
         {
           "ID": 12586,
           "Title": "Categoria:Rełijon"

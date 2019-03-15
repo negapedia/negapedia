@@ -54,6 +54,10 @@
           "Title": "Kateqoriya:Xörəklər"
         },
         {
+          "ID": 105339,
+          "Title": "Kateqoriya:Yazı"
+        },
+        {
           "ID": 107212,
           "Title": "Kateqoriya:Asudə vaxt"
         },
@@ -322,6 +326,10 @@
         {
           "ID": 570396,
           "Title": "Fellatio"
+        },
+        {
+          "ID": 581985,
+          "Title": "Ev donuzu"
         }
       ]
     },
@@ -428,12 +436,20 @@
           "Title": "Kateqoriya:Tarix"
         },
         {
+          "ID": 6611,
+          "Title": "Kateqoriya:Sosial elmlər"
+        },
+        {
           "ID": 6805,
           "Title": "Kateqoriya:Millətlərinə görə tarix"
         },
         {
           "ID": 27927,
           "Title": "Kateqoriya:Ölkələrinə görə tarix"
+        },
+        {
+          "ID": 72737,
+          "Title": "Kateqoriya:Humanitar elmlər"
         },
         {
           "ID": 147287,
@@ -536,8 +552,16 @@
           "Title": "Kateqoriya:Təbiət elmləri"
         },
         {
+          "ID": 72741,
+          "Title": "Kateqoriya:Dəqiq elmlər"
+        },
+        {
           "ID": 101186,
           "Title": "Kateqoriya:Kimyəvi maddələr"
+        },
+        {
+          "ID": 106670,
+          "Title": "Kateqoriya:Bilik"
         },
         {
           "ID": 265561,
@@ -574,6 +598,10 @@
           "Title": "Pomidor"
         },
         {
+          "ID": 65373,
+          "Title": "Düyü"
+        },
+        {
           "ID": 66762,
           "Title": "Çiyələk"
         },
@@ -604,6 +632,10 @@
         {
           "ID": 90919,
           "Title": "Buğda"
+        },
+        {
+          "ID": 91959,
+          "Title": "Manqo (meyvə)"
         },
         {
           "ID": 92419,
@@ -778,6 +810,10 @@
         {
           "ID": 265911,
           "Title": "Kateqoriya:Film personajları"
+        },
+        {
+          "ID": 358722,
+          "Title": "Kateqoriya:Bioqraflar"
         },
         {
           "ID": 437415,
@@ -1026,6 +1062,10 @@
         {
           "ID": 28596,
           "Title": "Kateqoriya:Dinlər"
+        },
+        {
+          "ID": 28938,
+          "Title": "Kateqoriya:Teologiya"
         },
         {
           "ID": 292609,
@@ -1554,6 +1594,10 @@
         {
           "ID": 537897,
           "Title": "Mountain Dew"
+        },
+        {
+          "ID": 538505,
+          "Title": "PepsiCo"
         }
       ]
     }

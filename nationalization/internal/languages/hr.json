@@ -22,6 +22,10 @@
           "Title": "Kategorija:Prehrana"
         },
         {
+          "ID": 20633,
+          "Title": "Kategorija:Pismo"
+        },
+        {
           "ID": 33599,
           "Title": "Kategorija:Glazbeni sastavi"
         },
@@ -240,6 +244,10 @@
           "Title": "Čednost"
         },
         {
+          "ID": 518317,
+          "Title": "Regionalizam"
+        },
+        {
           "ID": 549466,
           "Title": "Referentno djelo"
         },
@@ -364,8 +372,16 @@
           "Title": "Kategorija:Povijest"
         },
         {
+          "ID": 16917,
+          "Title": "Kategorija:Društvene znanosti"
+        },
+        {
           "ID": 35519,
           "Title": "Kategorija:Povijest po državama"
+        },
+        {
+          "ID": 87744,
+          "Title": "Kategorija:Humanističke znanosti"
         }
       ],
       "Articles": [
@@ -474,6 +490,10 @@
         {
           "ID": 186564,
           "Title": "Kategorija:Kemijske tvari"
+        },
+        {
+          "ID": 308659,
+          "Title": "Kategorija:Znanje"
         }
       ],
       "Articles": [
@@ -602,6 +622,10 @@
           "Title": "Cvjetača"
         },
         {
+          "ID": 251041,
+          "Title": "Mangovac"
+        },
+        {
           "ID": 296880,
           "Title": "Majanski kalendar"
         },
@@ -662,6 +686,10 @@
         {
           "ID": 111426,
           "Title": "Kategorija:Filmski likovi"
+        },
+        {
+          "ID": 334203,
+          "Title": "Kategorija:Biografi"
         },
         {
           "ID": 469185,
@@ -882,6 +910,10 @@
         {
           "ID": 10531,
           "Title": "Kategorija:Religija"
+        },
+        {
+          "ID": 100096,
+          "Title": "Kategorija:Teologija"
         },
         {
           "ID": 496733,

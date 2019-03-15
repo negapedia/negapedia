@@ -50,6 +50,10 @@
           "Title": "Category:Musical groups"
         },
         {
+          "ID": 52455,
+          "Title": "Category:Writing"
+        },
+        {
           "ID": 54275,
           "Title": "Category:Leisure"
         },
@@ -380,6 +384,10 @@
           "Title": "The Wanted"
         },
         {
+          "ID": 408043,
+          "Title": "Welsh Wikipedia"
+        },
+        {
           "ID": 442006,
           "Title": "Fried egg"
         },
@@ -414,6 +422,10 @@
         {
           "ID": 604970,
           "Title": "Bairavaa"
+        },
+        {
+          "ID": 684736,
+          "Title": "Century egg"
         }
       ]
     },
@@ -532,12 +544,20 @@
           "Title": "Category:History"
         },
         {
+          "ID": 20009,
+          "Title": "Category:Social sciences"
+        },
+        {
           "ID": 53287,
           "Title": "Category:Events"
         },
         {
           "ID": 53727,
           "Title": "Category:History by country"
+        },
+        {
+          "ID": 175859,
+          "Title": "Category:Humanities"
         }
       ],
       "Articles": [
@@ -668,6 +688,10 @@
           "Title": "Category:Disasters"
         },
         {
+          "ID": 65947,
+          "Title": "Category:Knowledge"
+        },
+        {
           "ID": 177430,
           "Title": "Category:Natural sciences"
         },
@@ -776,6 +800,10 @@
         {
           "ID": 45150,
           "Title": "Orange (fruit)"
+        },
+        {
+          "ID": 45562,
+          "Title": "Mango"
         },
         {
           "ID": 45736,
@@ -896,6 +924,10 @@
         {
           "ID": 624701,
           "Title": "Indian mackerel"
+        },
+        {
+          "ID": 638538,
+          "Title": "Human reproduction"
         }
       ]
     },
@@ -930,6 +962,10 @@
         {
           "ID": 308913,
           "Title": "Category:Women"
+        },
+        {
+          "ID": 310862,
+          "Title": "Category:Biographers"
         }
       ],
       "Articles": [
@@ -1178,6 +1214,10 @@
         {
           "ID": 6106,
           "Title": "Category:Religion"
+        },
+        {
+          "ID": 106065,
+          "Title": "Category:Theology"
         },
         {
           "ID": 186695,

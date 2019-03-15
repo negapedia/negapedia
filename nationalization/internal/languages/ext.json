@@ -36,6 +36,10 @@
           "Title": "Wikipedia en asturianu"
         },
         {
+          "ID": 560,
+          "Title": "Wikipedia en galés"
+        },
+        {
           "ID": 2370,
           "Title": "Wikipedia"
         },
@@ -112,8 +116,16 @@
       "Title": "History and events",
       "Categories": [
         {
+          "ID": 89,
+          "Title": "Categoría:Céncias socialis"
+        },
+        {
           "ID": 116,
           "Title": "Categoría:Estória"
+        },
+        {
+          "ID": 5931,
+          "Title": "Categoría:Cencias socialis"
         }
       ],
       "Articles": [

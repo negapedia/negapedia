@@ -70,6 +70,10 @@
           "Title": "Categoría:Pratos por ingrediente principal"
         },
         {
+          "ID": 328563,
+          "Title": "Categoría:Escritura"
+        },
+        {
           "ID": 357051,
           "Title": "Categoría:Cor"
         },
@@ -320,6 +324,10 @@
           "Title": "Carne de porco"
         },
         {
+          "ID": 330718,
+          "Title": "Rexionalismo"
+        },
+        {
           "ID": 332995,
           "Title": "Día da marmota"
         },
@@ -478,6 +486,10 @@
           "Title": "Categoría:Historia dos estados e das nacións"
         },
         {
+          "ID": 38633,
+          "Title": "Categoría:Ciencias sociais"
+        },
+        {
           "ID": 168265,
           "Title": "Categoría:Eventos"
         },
@@ -568,6 +580,10 @@
         {
           "ID": 47994,
           "Title": "Categoría:Ciencias naturais"
+        },
+        {
+          "ID": 179983,
+          "Title": "Categoría:Ciencias exactas"
         },
         {
           "ID": 434369,
@@ -750,6 +766,10 @@
         {
           "ID": 277336,
           "Title": "Arroz (planta)"
+        },
+        {
+          "ID": 277339,
+          "Title": "Oryza"
         },
         {
           "ID": 307265,
@@ -940,6 +960,10 @@
           "Title": "George Harrison"
         },
         {
+          "ID": 279558,
+          "Title": "Kepler"
+        },
+        {
           "ID": 296109,
           "Title": "Harry Houdini"
         },
@@ -993,6 +1017,10 @@
       "ID": 2147483645,
       "Title": "Religion and belief systems",
       "Categories": [
+        {
+          "ID": 7500,
+          "Title": "Categoría:Teoloxía"
+        },
         {
           "ID": 8709,
           "Title": "Categoría:Relixión"
@@ -1292,6 +1320,10 @@
         {
           "ID": 224204,
           "Title": "Goma de mascar"
+        },
+        {
+          "ID": 292814,
+          "Title": "PepsiCo"
         }
       ]
     }

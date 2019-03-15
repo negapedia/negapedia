@@ -46,6 +46,10 @@
           "Title": "Kategoria:Kirolak"
         },
         {
+          "ID": 22534,
+          "Title": "Kategoria:Idazketa"
+        },
+        {
           "ID": 24686,
           "Title": "Kategoria:Arteak"
         },
@@ -172,8 +176,16 @@
           "Title": "Felazio"
         },
         {
+          "ID": 112270,
+          "Title": "Galesezko Wikipedia"
+        },
+        {
           "ID": 112425,
           "Title": "Asturierazko Wikipedia"
+        },
+        {
+          "ID": 112810,
+          "Title": "Miranderazko Wikipedia"
         },
         {
           "ID": 116210,
@@ -512,6 +524,10 @@
       "Title": "History and events",
       "Categories": [
         {
+          "ID": 5730,
+          "Title": "Kategoria:Gizarte zientziak"
+        },
+        {
           "ID": 5732,
           "Title": "Kategoria:Historia"
         },
@@ -526,6 +542,10 @@
         {
           "ID": 157480,
           "Title": "Kategoria:Kultura ekitaldiak"
+        },
+        {
+          "ID": 655111,
+          "Title": "Kategoria:Humanitateak"
         },
         {
           "ID": 675884,
@@ -638,6 +658,10 @@
         {
           "ID": 76014,
           "Title": "Kategoria:Substantzia kimikoak"
+        },
+        {
+          "ID": 100334,
+          "Title": "Kategoria:Ezagutza"
         },
         {
           "ID": 162025,
@@ -786,6 +810,10 @@
           "Title": "Oryza sativa"
         },
         {
+          "ID": 222114,
+          "Title": "Oryza"
+        },
+        {
           "ID": 329082,
           "Title": "Intsentsu-sabina"
         },
@@ -870,6 +898,10 @@
           "Title": "Tentakulu"
         },
         {
+          "ID": 653954,
+          "Title": "Mangifera"
+        },
+        {
           "ID": 717174,
           "Title": "Sexu-organo"
         },
@@ -922,6 +954,10 @@
         {
           "ID": 668692,
           "Title": "Kategoria:Izaera"
+        },
+        {
+          "ID": 670188,
+          "Title": "Kategoria:Biografoak"
         }
       ],
       "Articles": [
@@ -1147,6 +1183,10 @@
       "ID": 2147483645,
       "Title": "Religion and belief systems",
       "Categories": [
+        {
+          "ID": 6398,
+          "Title": "Kategoria:Teologia"
+        },
         {
           "ID": 140798,
           "Title": "Kategoria:Sinesmenak"

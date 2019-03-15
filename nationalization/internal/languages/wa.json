@@ -6,6 +6,10 @@
       "Title": "Culture and the arts",
       "Categories": [
         {
+          "ID": 12723,
+          "Title": "Categoreye:Sicrijhaedje"
+        },
+        {
           "ID": 21392,
           "Title": "Categoreye:Groupe di muzike"
         },
@@ -146,6 +150,14 @@
         {
           "ID": 15806,
           "Title": "Categoreye:Istwere"
+        },
+        {
+          "ID": 20605,
+          "Title": "Categoreye:Syinces sociåles"
+        },
+        {
+          "ID": 21758,
+          "Title": "Categoreye:Syinces uminnes"
         }
       ],
       "Articles": [
@@ -292,6 +304,10 @@
         {
           "ID": 30521,
           "Title": "Categoreye:Croeyance"
+        },
+        {
+          "ID": 37392,
+          "Title": "Categoreye:Teyolodjeye"
         }
       ]
     },

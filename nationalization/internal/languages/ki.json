@@ -47,7 +47,13 @@
     },
     {
       "ID": 2147483640,
-      "Title": "History and events"
+      "Title": "History and events",
+      "Categories": [
+        {
+          "ID": 3633,
+          "Title": "Category:Thayathi cia social"
+        }
+      ]
     },
     {
       "ID": 2147483641,

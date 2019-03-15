@@ -46,6 +46,10 @@
           "Title": "Kategorie:Freizeit"
         },
         {
+          "ID": 13599,
+          "Title": "Kategorie:Schreiben"
+        },
+        {
           "ID": 13670,
           "Title": "Kategorie:Hobby"
         },
@@ -260,6 +264,14 @@
           "Title": "Kategorie:Geschichte"
         },
         {
+          "ID": 8052,
+          "Title": "Kategorie:Geisteswissenschaft"
+        },
+        {
+          "ID": 8054,
+          "Title": "Kategorie:Sozialwissenschaft"
+        },
+        {
           "ID": 13882,
           "Title": "Kategorie:Geschichte nach Staat"
         },
@@ -346,6 +358,10 @@
         {
           "ID": 17446,
           "Title": "Kategorie:Katastrophe"
+        },
+        {
+          "ID": 92028,
+          "Title": "Kategorie:Wissen"
         }
       ],
       "Articles": [
@@ -502,6 +518,10 @@
         {
           "ID": 5881,
           "Title": "Kategorie:Religion"
+        },
+        {
+          "ID": 13954,
+          "Title": "Kategorie:Theologie"
         },
         {
           "ID": 18882,

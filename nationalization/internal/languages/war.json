@@ -218,6 +218,10 @@
         {
           "ID": 33,
           "Title": "Kaarangay:Kasaysayan"
+        },
+        {
+          "ID": 162256,
+          "Title": "Kaarangay:Syensya hin Katiringban"
         }
       ],
       "Articles": [
@@ -470,6 +474,10 @@
           "Title": "Elymus farctus"
         },
         {
+          "ID": 2410798,
+          "Title": "Oryza"
+        },
+        {
           "ID": 2410909,
           "Title": "Oryza sativa"
         },
@@ -504,6 +512,10 @@
         {
           "ID": 2737556,
           "Title": "Byrsonima lucida"
+        },
+        {
+          "ID": 2804204,
+          "Title": "Mangifera"
         },
         {
           "ID": 2804307,
@@ -694,6 +706,10 @@
         {
           "ID": 38,
           "Title": "Kaarangay:Relihiyon"
+        },
+        {
+          "ID": 164528,
+          "Title": "Kaarangay:Teyolohiya"
         }
       ]
     },

@@ -46,6 +46,10 @@
           "Title": "Categori:Bandiau"
         },
         {
+          "ID": 21978,
+          "Title": "Categori:Ysgrifennu"
+        },
+        {
           "ID": 45617,
           "Title": "Categori:Ymarfer corff"
         },
@@ -213,7 +217,7 @@
         },
         {
           "ID": 104576,
-          "Title": "Realaeth (celfyddyd)"
+          "Title": "Realaeth (celf)"
         },
         {
           "ID": 136910,
@@ -372,8 +376,16 @@
       "Title": "History and events",
       "Categories": [
         {
+          "ID": 10897,
+          "Title": "Categori:Gwyddorau cymdeithas"
+        },
+        {
           "ID": 12087,
           "Title": "Categori:Hanes"
+        },
+        {
+          "ID": 16043,
+          "Title": "Categori:Dyniaethau"
         },
         {
           "ID": 20253,
@@ -472,6 +484,10 @@
           "Title": "Categori:Gwyddorau ffisegol"
         },
         {
+          "ID": 12641,
+          "Title": "Categori:Gwyddorau naturiol"
+        },
+        {
           "ID": 13016,
           "Title": "Categori:Trychinebau"
         },
@@ -494,6 +510,10 @@
         {
           "ID": 131446,
           "Title": "Categori:Ffawna yn ôl cyfandir"
+        },
+        {
+          "ID": 228402,
+          "Title": "Categori:Ffynhonnell gwybodaeth"
         }
       ],
       "Articles": [
@@ -836,6 +856,10 @@
         {
           "ID": 216665,
           "Title": "Hapusrwydd"
+        },
+        {
+          "ID": 235094,
+          "Title": "Effaith Dunning–Kruger"
         }
       ]
     },
@@ -846,6 +870,10 @@
         {
           "ID": 13512,
           "Title": "Categori:Cred"
+        },
+        {
+          "ID": 15335,
+          "Title": "Categori:Diwinyddiaeth"
         },
         {
           "ID": 31852,
@@ -1118,10 +1146,6 @@
           "Title": "Categori:Rheolaeth data"
         },
         {
-          "ID": 23027,
-          "Title": "Categori:Trydaneg"
-        },
-        {
           "ID": 29070,
           "Title": "Categori:Dylunio"
         },
@@ -1148,6 +1172,14 @@
         {
           "ID": 233517,
           "Title": "Categori:Rheoli data"
+        },
+        {
+          "ID": 235359,
+          "Title": "Categori:Technoleg yn ôl math"
+        },
+        {
+          "ID": 235625,
+          "Title": "Categori:Electroneg"
         }
       ],
       "Articles": [

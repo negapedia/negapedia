@@ -7,7 +7,7 @@
       "Categories": [
         {
           "ID": 4018,
-          "Title": "Kategoria:Kultura"
+          "Title": "Kategoria:Kulturë"
         },
         {
           "ID": 21228,
@@ -44,6 +44,10 @@
         {
           "ID": 87858,
           "Title": "Kategoria:Ngjyra"
+        },
+        {
+          "ID": 256268,
+          "Title": "Kategoria:Shkrimi"
         }
       ],
       "Articles": [
@@ -230,6 +234,10 @@
         {
           "ID": 25384,
           "Title": "Kategoria:Ngjarje"
+        },
+        {
+          "ID": 55289,
+          "Title": "Kategoria:Shkenca shoqërore"
         }
       ],
       "Articles": [
@@ -254,6 +262,10 @@
         {
           "ID": 7348,
           "Title": "Kategoria:Matematikë"
+        },
+        {
+          "ID": 117482,
+          "Title": "Kategoria:Logjikë"
         }
       ],
       "Articles": [
@@ -288,8 +300,16 @@
           "Title": "Kategoria:Zoologji"
         },
         {
+          "ID": 55288,
+          "Title": "Kategoria:Shkenca natyrore"
+        },
+        {
           "ID": 154667,
           "Title": "Kategoria:Fauna sipas kontinentit"
+        },
+        {
+          "ID": 155204,
+          "Title": "Kategoria:Dituri"
         }
       ],
       "Articles": [
@@ -577,7 +597,11 @@
       "Categories": [
         {
           "ID": 7819,
-          "Title": "Kategoria:Feja"
+          "Title": "Kategoria:Fe"
+        },
+        {
+          "ID": 21126,
+          "Title": "Kategoria:Teologji"
         },
         {
           "ID": 87572,

@@ -42,6 +42,10 @@
           "Title": "Kategoria:Rozrywki"
         },
         {
+          "ID": 281591,
+          "Title": "Kategoria:Pismo"
+        },
+        {
           "ID": 487914,
           "Title": "Kategoria:Obróbka żywności"
         },
@@ -340,6 +344,10 @@
           "Title": "Chleb bananowy"
         },
         {
+          "ID": 1028528,
+          "Title": "Regionalizm (polityka)"
+        },
+        {
           "ID": 1060395,
           "Title": "Piwo bezalkoholowe"
         },
@@ -370,6 +378,10 @@
         {
           "ID": 1312044,
           "Title": "Sos pomidorowy"
+        },
+        {
+          "ID": 1322142,
+          "Title": "Walijska Wikipedia"
         },
         {
           "ID": 1467002,
@@ -614,8 +626,16 @@
       "Title": "History and events",
       "Categories": [
         {
+          "ID": 64582,
+          "Title": "Kategoria:Nauki humanistyczne"
+        },
+        {
           "ID": 65241,
           "Title": "Kategoria:Historia"
+        },
+        {
+          "ID": 111276,
+          "Title": "Kategoria:Nauki społeczne"
         },
         {
           "ID": 755503,
@@ -732,6 +752,10 @@
         {
           "ID": 66250,
           "Title": "Kategoria:Zoologia"
+        },
+        {
+          "ID": 161617,
+          "Title": "Kategoria:Nauki ścisłe"
         },
         {
           "ID": 165209,
@@ -886,6 +910,10 @@
         {
           "ID": 160674,
           "Title": "Scomber"
+        },
+        {
+          "ID": 223450,
+          "Title": "Mango"
         },
         {
           "ID": 284808,
@@ -1240,6 +1268,10 @@
           "Title": "Chaim Soutine"
         },
         {
+          "ID": 941060,
+          "Title": "Kepler (ujednoznacznienie)"
+        },
+        {
           "ID": 1147884,
           "Title": "Francis Marion"
         },
@@ -1364,6 +1396,10 @@
         {
           "ID": 63677,
           "Title": "Kategoria:Religie"
+        },
+        {
+          "ID": 147706,
+          "Title": "Kategoria:Teologia"
         },
         {
           "ID": 1001190,
@@ -1607,7 +1643,7 @@
         },
         {
           "ID": 653196,
-          "Title": "University of Waterloo"
+          "Title": "Uniwersytet w Waterloo"
         },
         {
           "ID": 654285,
@@ -1755,7 +1791,7 @@
         },
         {
           "ID": 1535736,
-          "Title": "Australian National University"
+          "Title": "Australijski Uniwersytet Narodowy"
         },
         {
           "ID": 1589893,
@@ -1807,7 +1843,7 @@
         },
         {
           "ID": 1889227,
-          "Title": "University of Oregon"
+          "Title": "Uniwersytet Oregonu"
         },
         {
           "ID": 1904741,
@@ -1911,7 +1947,7 @@
         },
         {
           "ID": 2775493,
-          "Title": "University of Birmingham"
+          "Title": "Uniwersytet w Birmingham"
         },
         {
           "ID": 2788514,
@@ -2124,6 +2160,10 @@
         {
           "ID": 602355,
           "Title": "Mountain Dew"
+        },
+        {
+          "ID": 738216,
+          "Title": "PepsiCo"
         },
         {
           "ID": 1499679,

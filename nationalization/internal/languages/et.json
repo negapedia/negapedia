@@ -205,7 +205,7 @@
         },
         {
           "ID": 264559,
-          "Title": "Judas (singel)"
+          "Title": "Judas (Lady Gaga laul)"
         },
         {
           "ID": 268523,
@@ -394,6 +394,14 @@
         {
           "ID": 10208,
           "Title": "Kategooria:Ajalugu"
+        },
+        {
+          "ID": 16089,
+          "Title": "Kategooria:Humanitaarteadused"
+        },
+        {
+          "ID": 16210,
+          "Title": "Kategooria:Sotsiaalteadused"
         },
         {
           "ID": 25193,
@@ -682,6 +690,10 @@
           "Title": "Aganad"
         },
         {
+          "ID": 373240,
+          "Title": "Kuse-suguelundkond"
+        },
+        {
           "ID": 376830,
           "Title": "Ananass"
         },
@@ -726,6 +738,10 @@
         {
           "ID": 167965,
           "Title": "Kategooria:Elu"
+        },
+        {
+          "ID": 256972,
+          "Title": "Kategooria:Biograafid"
         },
         {
           "ID": 278445,
@@ -946,6 +962,10 @@
         {
           "ID": 16007,
           "Title": "Kategooria:Religioon"
+        },
+        {
+          "ID": 27717,
+          "Title": "Kategooria:Teoloogia"
         }
       ]
     },
@@ -1330,6 +1350,10 @@
         {
           "ID": 536086,
           "Title": "Linné Ülikool"
+        },
+        {
+          "ID": 537432,
+          "Title": "Saint Andrewsi Ülikool"
         }
       ]
     },

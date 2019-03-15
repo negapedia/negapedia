@@ -42,6 +42,10 @@
           "Title": "Categoria:Aliment"
         },
         {
+          "ID": 19590,
+          "Title": "Categoria:Escritura"
+        },
+        {
           "ID": 22478,
           "Title": "Categoria:Color"
         },
@@ -177,7 +181,7 @@
       "Articles": [
         {
           "ID": 3296,
-          "Title": "París"
+          "Title": "París (França)"
         },
         {
           "ID": 6871,
@@ -248,12 +252,20 @@
           "Title": "Categoria:Istòria"
         },
         {
+          "ID": 6344,
+          "Title": "Categoria:Sciéncias umanas"
+        },
+        {
           "ID": 8025,
           "Title": "Categoria:Istòria nacionala"
         },
         {
           "ID": 10559,
           "Title": "Categoria:Eveniment"
+        },
+        {
+          "ID": 44035,
+          "Title": "Categoria:Sciéncias umanas e socialas"
         }
       ],
       "Articles": [
@@ -328,6 +340,10 @@
         {
           "ID": 8127,
           "Title": "Categoria:Natura"
+        },
+        {
+          "ID": 32452,
+          "Title": "Categoria:Sciéncias exactas"
         },
         {
           "ID": 32453,
@@ -661,6 +677,10 @@
       "ID": 2147483645,
       "Title": "Religion and belief systems",
       "Categories": [
+        {
+          "ID": 5263,
+          "Title": "Categoria:Teologia"
+        },
         {
           "ID": 10096,
           "Title": "Categoria:Cresença"

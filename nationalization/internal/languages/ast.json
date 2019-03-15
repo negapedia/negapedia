@@ -54,6 +54,10 @@
           "Title": "Categoría:Color"
         },
         {
+          "ID": 19695,
+          "Title": "Categoría:Escritura"
+        },
+        {
           "ID": 28153,
           "Title": "Categoría:Nutrición"
         },
@@ -350,6 +354,14 @@
       "Title": "History and events",
       "Categories": [
         {
+          "ID": 57,
+          "Title": "Categoría:Ciencies sociales"
+        },
+        {
+          "ID": 61,
+          "Title": "Categoría:Ciencies humanes"
+        },
+        {
           "ID": 751,
           "Title": "Categoría:Historia"
         },
@@ -428,6 +440,10 @@
         {
           "ID": 17570,
           "Title": "Categoría:Desastres"
+        },
+        {
+          "ID": 35519,
+          "Title": "Categoría:Conocencia"
         },
         {
           "ID": 43454,
@@ -838,6 +854,10 @@
           "Title": "Categoría:Denomaciones relixoses"
         },
         {
+          "ID": 14168,
+          "Title": "Categoría:Teoloxía"
+        },
+        {
           "ID": 35448,
           "Title": "Categoría:Crítica a la relixón"
         },
@@ -1120,6 +1140,10 @@
         {
           "ID": 98228,
           "Title": "Sega 32X"
+        },
+        {
+          "ID": 98429,
+          "Title": "PepsiCo"
         },
         {
           "ID": 115006,

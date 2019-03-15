@@ -58,6 +58,10 @@
           "Title": "Kategorie:Stokperdjies"
         },
         {
+          "ID": 92896,
+          "Title": "Kategorie:Skryf"
+        },
+        {
           "ID": 124444,
           "Title": "Kategorie:Kooktegnieke"
         },
@@ -170,6 +174,10 @@
         {
           "ID": 84044,
           "Title": "Varkvleis"
+        },
+        {
+          "ID": 102461,
+          "Title": "Walliese Wikipedia"
         },
         {
           "ID": 109143,
@@ -304,8 +312,16 @@
       "Title": "History and events",
       "Categories": [
         {
+          "ID": 5732,
+          "Title": "Kategorie:Geesteswetenskappe"
+        },
+        {
           "ID": 6031,
           "Title": "Kategorie:Geskiedenis"
+        },
+        {
+          "ID": 18873,
+          "Title": "Kategorie:Sosiale wetenskappe"
         },
         {
           "ID": 48133,
@@ -336,6 +352,10 @@
         {
           "ID": 117013,
           "Title": "Amerikaanse presidentsverkiesing 2012"
+        },
+        {
+          "ID": 239280,
+          "Title": "Geskiedenis van kommunikasie"
         }
       ]
     },
@@ -398,6 +418,10 @@
         {
           "ID": 34620,
           "Title": "Kategorie:Rampe"
+        },
+        {
+          "ID": 48689,
+          "Title": "Kategorie:Kennis"
         },
         {
           "ID": 51637,
@@ -480,6 +504,10 @@
         {
           "ID": 77273,
           "Title": "Veselperske"
+        },
+        {
+          "ID": 77278,
+          "Title": "Mangifera"
         },
         {
           "ID": 77378,
@@ -652,6 +680,10 @@
         {
           "ID": 124678,
           "Title": "Oliver Cromwell"
+        },
+        {
+          "ID": 244241,
+          "Title": "Janet Margolin"
         }
       ]
     },
@@ -690,6 +722,10 @@
         {
           "ID": 10686,
           "Title": "Kategorie:Religie"
+        },
+        {
+          "ID": 18921,
+          "Title": "Kategorie:Teologie"
         },
         {
           "ID": 109732,
@@ -962,6 +998,10 @@
         {
           "ID": 39252,
           "Title": "Muur"
+        },
+        {
+          "ID": 190929,
+          "Title": "PepsiCo"
         }
       ]
     }

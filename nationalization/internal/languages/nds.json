@@ -148,8 +148,16 @@
           "Title": "Kategorie:Begeevnis"
         },
         {
+          "ID": 20491,
+          "Title": "Kategorie:Wetenschoppen vun den Geist"
+        },
+        {
           "ID": 25415,
           "Title": "Kategorie:Gedenkdag"
+        },
+        {
+          "ID": 25762,
+          "Title": "Kategorie:Sozialwetenschop"
         }
       ],
       "Articles": [
@@ -320,6 +328,10 @@
         {
           "ID": 52551,
           "Title": "Richard Wagner"
+        },
+        {
+          "ID": 109734,
+          "Title": "Kepler"
         }
       ]
     },
@@ -344,6 +356,10 @@
         {
           "ID": 2588,
           "Title": "Kategorie:Religion"
+        },
+        {
+          "ID": 8068,
+          "Title": "Kategorie:Theologie"
         }
       ]
     },
@@ -420,6 +436,10 @@
         {
           "ID": 106461,
           "Title": "Stanford University"
+        },
+        {
+          "ID": 109389,
+          "Title": "Towson University"
         }
       ]
     },

@@ -22,6 +22,10 @@
           "Title": "Categoria:Cibus"
         },
         {
+          "ID": 13000,
+          "Title": "Categoria:Scripturae"
+        },
+        {
           "ID": 13361,
           "Title": "Categoria:Colores"
         },
@@ -312,8 +316,16 @@
       "Title": "History and events",
       "Categories": [
         {
+          "ID": 6828,
+          "Title": "Categoria:Scientia humana"
+        },
+        {
           "ID": 7001,
           "Title": "Categoria:Historia"
+        },
+        {
+          "ID": 80915,
+          "Title": "Categoria:Scientiae sociales"
         },
         {
           "ID": 166173,
@@ -420,6 +432,10 @@
           "Title": "Categoria:Mali casus"
         },
         {
+          "ID": 171920,
+          "Title": "Categoria:Scientia declarativa"
+        },
+        {
           "ID": 204475,
           "Title": "Categoria:Fauna per continentes digesta"
         }
@@ -482,6 +498,10 @@
           "Title": "Solanum lycopersicum"
         },
         {
+          "ID": 35927,
+          "Title": "Mangifera"
+        },
+        {
           "ID": 36646,
           "Title": "Fragaria"
         },
@@ -504,6 +524,14 @@
         {
           "ID": 79595,
           "Title": "Oryza (victus)"
+        },
+        {
+          "ID": 91506,
+          "Title": "Oryza (genus)"
+        },
+        {
+          "ID": 102920,
+          "Title": "Oryza"
         },
         {
           "ID": 103390,
@@ -542,6 +570,10 @@
           "Title": "Hylidae"
         },
         {
+          "ID": 266149,
+          "Title": "Systema urogenitale"
+        },
+        {
           "ID": 266162,
           "Title": "Mangifera indica"
         },
@@ -566,6 +598,10 @@
         {
           "ID": 16018,
           "Title": "Categoria:Mulieres"
+        },
+        {
+          "ID": 25348,
+          "Title": "Categoria:Biographi"
         },
         {
           "ID": 49042,
@@ -690,6 +726,10 @@
           "Title": "Alanus Mathison Turing"
         },
         {
+          "ID": 67374,
+          "Title": "Keplerus"
+        },
+        {
           "ID": 68725,
           "Title": "Carolus Sagan"
         },
@@ -790,6 +830,10 @@
         {
           "ID": 5980,
           "Title": "Categoria:Religiones"
+        },
+        {
+          "ID": 27010,
+          "Title": "Categoria:Theologia"
         },
         {
           "ID": 171753,

@@ -84,8 +84,16 @@
       "Title": "History and events",
       "Categories": [
         {
+          "ID": 1181,
+          "Title": "Kategorija:Xjenza soċjali"
+        },
+        {
           "ID": 1187,
           "Title": "Kategorija:Storja"
+        },
+        {
+          "ID": 3096,
+          "Title": "Kategorija:Xjenzi soċjali"
         },
         {
           "ID": 8269,
@@ -191,6 +199,10 @@
       "ID": 2147483645,
       "Title": "Religion and belief systems",
       "Categories": [
+        {
+          "ID": 1287,
+          "Title": "Kategorija:Teoloġija"
+        },
         {
           "ID": 1288,
           "Title": "Kategorija:Reliġjon"

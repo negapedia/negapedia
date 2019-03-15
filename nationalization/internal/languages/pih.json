@@ -50,6 +50,12 @@
     {
       "ID": 2147483640,
       "Title": "History and events",
+      "Categories": [
+        {
+          "ID": 4564,
+          "Title": "Category:Social saiens"
+        }
+      ],
       "Articles": [
         {
           "ID": 4809,

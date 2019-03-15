@@ -42,6 +42,10 @@
           "Title": "Categorie:Culori"
         },
         {
+          "ID": 81320,
+          "Title": "Categorie:Scriere"
+        },
+        {
           "ID": 124360,
           "Title": "Categorie:Gastronomie"
         },
@@ -528,6 +532,14 @@
           "Title": "Categorie:Istorie după țară"
         },
         {
+          "ID": 761038,
+          "Title": "Categorie:Științe sociale"
+        },
+        {
+          "ID": 761039,
+          "Title": "Categorie:Științe umane"
+        },
+        {
           "ID": 1548546,
           "Title": "Categorie:Evenimente culturale"
         },
@@ -652,12 +664,20 @@
           "Title": "Categorie:Compuși chimici"
         },
         {
+          "ID": 749849,
+          "Title": "Categorie:Cunoaștere"
+        },
+        {
           "ID": 750628,
           "Title": "Categorie:Discipline științifice"
         },
         {
           "ID": 760265,
           "Title": "Categorie:Substanțe chimice"
+        },
+        {
+          "ID": 761032,
+          "Title": "Categorie:Științe exacte"
         },
         {
           "ID": 761041,
@@ -756,6 +776,10 @@
         {
           "ID": 312640,
           "Title": "Frag"
+        },
+        {
+          "ID": 371538,
+          "Title": "Mangifera"
         },
         {
           "ID": 381392,
@@ -1172,6 +1196,10 @@
           "Title": "Categorie:Religie"
         },
         {
+          "ID": 24724,
+          "Title": "Categorie:Teologie"
+        },
+        {
           "ID": 39732,
           "Title": "Categorie:Secularism"
         },
@@ -1526,6 +1554,10 @@
         {
           "ID": 2332226,
           "Title": "Universitatea din Sussex"
+        },
+        {
+          "ID": 2385095,
+          "Title": "National Archives and Records Administration"
         }
       ]
     },
@@ -1618,6 +1650,10 @@
         {
           "ID": 228901,
           "Title": "Sudare"
+        },
+        {
+          "ID": 235761,
+          "Title": "PepsiCo"
         },
         {
           "ID": 312776,

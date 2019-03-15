@@ -60,6 +60,14 @@
         {
           "ID": 505,
           "Title": "Sachgrubb:Gschichd"
+        },
+        {
+          "ID": 671,
+          "Title": "Sachgrubb:Gaischdswisseschafde"
+        },
+        {
+          "ID": 2643,
+          "Title": "Sachgrubb:Sozialwisseschaft"
         }
       ],
       "Articles": [
@@ -128,6 +136,12 @@
         {
           "ID": 512,
           "Title": "Sachgrubb:Philosophie"
+        }
+      ],
+      "Articles": [
+        {
+          "ID": 8261,
+          "Title": "Dunning-Kruger-Effekt"
         }
       ]
     },

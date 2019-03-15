@@ -38,6 +38,10 @@
           "Title": "Kategorio:Nutreso"
         },
         {
+          "ID": 24339,
+          "Title": "Kategorio:Skriburo"
+        },
+        {
           "ID": 24644,
           "Title": "Kategorio:Koquo tekniki"
         },
@@ -264,8 +268,16 @@
           "Title": "Kategorio:Historio"
         },
         {
+          "ID": 4240,
+          "Title": "Kategorio:Sociala cienci"
+        },
+        {
           "ID": 25219,
           "Title": "Kategorio:Eventi"
+        },
+        {
+          "ID": 27312,
+          "Title": "Kategorio:Humana cienci"
         },
         {
           "ID": 35472,
@@ -340,6 +352,10 @@
         {
           "ID": 5938,
           "Title": "Kategorio:Naturo"
+        },
+        {
+          "ID": 10791,
+          "Title": "Kategorio:Konoco"
         },
         {
           "ID": 24841,
@@ -661,6 +677,10 @@
       "ID": 2147483645,
       "Title": "Religion and belief systems",
       "Categories": [
+        {
+          "ID": 16963,
+          "Title": "Kategorio:Teologio"
+        },
         {
           "ID": 25506,
           "Title": "Kategorio:Religio"

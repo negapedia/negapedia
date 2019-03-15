@@ -74,6 +74,10 @@
         {
           "ID": 5183,
           "Title": "Piza"
+        },
+        {
+          "ID": 5248,
+          "Title": "Fantasma"
         }
       ]
     },
@@ -130,6 +134,10 @@
         {
           "ID": 291,
           "Title": "Categoria:Istoria"
+        },
+        {
+          "ID": 2168,
+          "Title": "Categoria:Siensas umana"
         }
       ],
       "Articles": [
@@ -280,6 +288,10 @@
         {
           "ID": 474,
           "Title": "Categoria:Relijio"
+        },
+        {
+          "ID": 3333,
+          "Title": "Categoria:Teolojia"
         }
       ]
     },

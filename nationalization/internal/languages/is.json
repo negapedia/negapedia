@@ -324,8 +324,16 @@
       "Title": "History and events",
       "Categories": [
         {
+          "ID": 3783,
+          "Title": "Flokkur:Hugvísindi"
+        },
+        {
           "ID": 5384,
           "Title": "Flokkur:Saga"
+        },
+        {
+          "ID": 11333,
+          "Title": "Flokkur:Félagsvísindi"
         },
         {
           "ID": 28512,
@@ -418,6 +426,10 @@
         {
           "ID": 5786,
           "Title": "Flokkur:Vísindi"
+        },
+        {
+          "ID": 13054,
+          "Title": "Flokkur:Þekking"
         },
         {
           "ID": 26914,
@@ -547,7 +559,7 @@
         },
         {
           "ID": 136178,
-          "Title": "Triticum aestivum"
+          "Title": "Brauðhveiti"
         },
         {
           "ID": 136770,
@@ -556,6 +568,10 @@
         {
           "ID": 147288,
           "Title": "Pinus kesiya"
+        },
+        {
+          "ID": 149290,
+          "Title": "Kynfæri"
         }
       ]
     },
@@ -762,6 +778,10 @@
         {
           "ID": 3804,
           "Title": "Flokkur:Trúarbrögð"
+        },
+        {
+          "ID": 12732,
+          "Title": "Flokkur:Guðfræði"
         },
         {
           "ID": 97426,
@@ -1034,6 +1054,10 @@
         {
           "ID": 83012,
           "Title": "Veggur"
+        },
+        {
+          "ID": 118604,
+          "Title": "PepsiCo"
         }
       ]
     }

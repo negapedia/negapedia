@@ -10,6 +10,10 @@
           "Title": "Kategorie:Band"
         },
         {
+          "ID": 2526,
+          "Title": "Kategorie:Schrift"
+        },
+        {
           "ID": 2552,
           "Title": "Kategorie:Kunscht"
         },
@@ -192,8 +196,16 @@
           "Title": "Kategorie:Gschicht"
         },
         {
+          "ID": 42090,
+          "Title": "Kategorie:Sozialwüsseschaft"
+        },
+        {
           "ID": 49757,
           "Title": "Kategorie:Fiirtig, Mahntag, Aktionstag"
+        },
+        {
+          "ID": 53574,
+          "Title": "Kategorie:Geisteswüsseschaft"
         },
         {
           "ID": 59420,
@@ -468,6 +480,10 @@
         {
           "ID": 13204,
           "Title": "Kategorie:Religion"
+        },
+        {
+          "ID": 37329,
+          "Title": "Kategorie:Theologii"
         },
         {
           "ID": 57987,
