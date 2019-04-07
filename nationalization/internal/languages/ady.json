@@ -9,33 +9,19 @@
           "ID": 698,
           "Title": "Category:Спорт"
         }
-      ],
-      "Articles": [
-        {
-          "ID": 163,
-          "Title": "Википедие"
-        }
       ]
     },
     {
       "ID": 2147483638,
       "Title": "Geography and places",
-      "Articles": [
+      "Categories": [
         {
-          "ID": 140,
-          "Title": "Бирмэ"
+          "ID": 692,
+          "Title": "Category:Къалэхэр"
         },
         {
-          "ID": 408,
-          "Title": "Париж"
-        },
-        {
-          "ID": 1131,
-          "Title": "Аустралие"
-        },
-        {
-          "ID": 1156,
-          "Title": "Канберрэ"
+          "ID": 700,
+          "Title": "Category:Хэгъэгухэр"
         }
       ]
     },
@@ -54,26 +40,16 @@
     {
       "ID": 2147483642,
       "Title": "Nature and physical sciences",
-      "Articles": [
+      "Categories": [
         {
-          "ID": 141,
-          "Title": "Бланэ"
-        },
-        {
-          "ID": 337,
-          "Title": "Махъушэ"
+          "ID": 694,
+          "Title": "Category:Псэушъхьэхэр"
         }
       ]
     },
     {
       "ID": 2147483643,
-      "Title": "People and self",
-      "Articles": [
-        {
-          "ID": 1208,
-          "Title": "Тьюринг Алан"
-        }
-      ]
+      "Title": "People and self"
     },
     {
       "ID": 2147483644,
@@ -85,21 +61,7 @@
     },
     {
       "ID": 2147483646,
-      "Title": "Society and social sciences",
-      "Articles": [
-        {
-          "ID": 207,
-          "Title": "Еуро Зэкъотыныгъэ"
-        },
-        {
-          "ID": 222,
-          "Title": "Иран"
-        },
-        {
-          "ID": 942,
-          "Title": "Чили"
-        }
-      ]
+      "Title": "Society and social sciences"
     },
     {
       "ID": 2147483647,

@@ -6,290 +6,240 @@
       "Title": "Culture and the arts",
       "Categories": [
         {
-          "ID": 2162,
-          "Title": "Kategorija:Sport"
+          "ID": 3554549,
+          "Title": "Kategorija:Biografija"
         },
         {
-          "ID": 4200,
-          "Title": "Kategorija:Muzičke grupe"
+          "ID": 3554550,
+          "Title": "Kategorija:Biografska djela"
         },
         {
-          "ID": 12257,
-          "Title": "Kategorija:Filmovi"
-        },
-        {
-          "ID": 13073,
-          "Title": "Kategorija:Umjetnost"
-        },
-        {
-          "ID": 20060,
-          "Title": "Kategorija:Kultura"
+          "ID": 95395,
+          "Title": "Kategorija:Biografske knjige"
         },
         {
           "ID": 46980,
           "Title": "Kategorija:Boje"
         },
         {
-          "ID": 47004,
-          "Title": "Kategorija:Hrana"
-        },
-        {
-          "ID": 47041,
-          "Title": "Kategorija:Prehrana"
-        },
-        {
-          "ID": 62215,
-          "Title": "Kategorija:Hrana i piće"
-        },
-        {
-          "ID": 72403,
-          "Title": "Kategorija:Hobi"
-        },
-        {
-          "ID": 81184,
-          "Title": "Kategorija:Sportovi"
-        },
-        {
-          "ID": 128626,
-          "Title": "Kategorija:Zabava"
-        },
-        {
-          "ID": 157218,
-          "Title": "Kategorija:Rekreacija"
+          "ID": 10847,
+          "Title": "Kategorija:Borilačke vještine"
         },
         {
           "ID": 157219,
           "Title": "Kategorija:Dokolica"
         },
         {
-          "ID": 157448,
-          "Title": "Kategorija:Pisanje"
+          "ID": 76244,
+          "Title": "Kategorija:Enciklopedije"
         },
         {
-          "ID": 170652,
-          "Title": "Kategorija:Kuhinja"
+          "ID": 13642,
+          "Title": "Kategorija:Festivali"
+        },
+        {
+          "ID": 3554152,
+          "Title": "Kategorija:Fikcija"
+        },
+        {
+          "ID": 12257,
+          "Title": "Kategorija:Filmovi"
+        },
+        {
+          "ID": 2269,
+          "Title": "Kategorija:Folklor"
         },
         {
           "ID": 1477842,
           "Title": "Kategorija:Gastronomija"
         },
         {
+          "ID": 72403,
+          "Title": "Kategorija:Hobi"
+        },
+        {
+          "ID": 47004,
+          "Title": "Kategorija:Hrana"
+        },
+        {
+          "ID": 62215,
+          "Title": "Kategorija:Hrana i piće"
+        },
+        {
+          "ID": 93378,
+          "Title": "Kategorija:Igre na ploči"
+        },
+        {
+          "ID": 153279,
+          "Title": "Kategorija:Internet-kultura"
+        },
+        {
+          "ID": 201259,
+          "Title": "Kategorija:Izvori"
+        },
+        {
+          "ID": 47103,
+          "Title": "Kategorija:Knjige"
+        },
+        {
+          "ID": 6800,
+          "Title": "Kategorija:Književnost"
+        },
+        {
+          "ID": 1414595,
+          "Title": "Kategorija:Kompozicije"
+        },
+        {
+          "ID": 170652,
+          "Title": "Kategorija:Kuhinja"
+        },
+        {
+          "ID": 20060,
+          "Title": "Kategorija:Kultura"
+        },
+        {
+          "ID": 85984,
+          "Title": "Kategorija:Kultura po državama"
+        },
+        {
+          "ID": 3555783,
+          "Title": "Kategorija:Legende"
+        },
+        {
+          "ID": 82205,
+          "Title": "Kategorija:Ljudska seksualnost"
+        },
+        {
+          "ID": 76503,
+          "Title": "Kategorija:Magija"
+        },
+        {
+          "ID": 6741,
+          "Title": "Kategorija:Muzika"
+        },
+        {
+          "ID": 13686,
+          "Title": "Kategorija:Muzičke forme"
+        },
+        {
+          "ID": 4200,
+          "Title": "Kategorija:Muzičke grupe"
+        },
+        {
+          "ID": 91300,
+          "Title": "Kategorija:Muzički žanrovi"
+        },
+        {
+          "ID": 22418,
+          "Title": "Kategorija:Novine"
+        },
+        {
+          "ID": 15835,
+          "Title": "Kategorija:Obrazovanje"
+        },
+        {
+          "ID": 1413335,
+          "Title": "Kategorija:Periodične publikacije"
+        },
+        {
+          "ID": 157448,
+          "Title": "Kategorija:Pisanje"
+        },
+        {
+          "ID": 1413559,
+          "Title": "Kategorija:Pol"
+        },
+        {
+          "ID": 151021,
+          "Title": "Kategorija:Popularna kultura"
+        },
+        {
+          "ID": 47041,
+          "Title": "Kategorija:Prehrana"
+        },
+        {
+          "ID": 134320,
+          "Title": "Kategorija:Radio-stanice"
+        },
+        {
+          "ID": 265708,
+          "Title": "Kategorija:Referentni radovi"
+        },
+        {
+          "ID": 157218,
+          "Title": "Kategorija:Rekreacija"
+        },
+        {
+          "ID": 3554025,
+          "Title": "Kategorija:Rod (sociologija)"
+        },
+        {
+          "ID": 76392,
+          "Title": "Kategorija:Rvanje"
+        },
+        {
+          "ID": 25056,
+          "Title": "Kategorija:Scenska umjetnost"
+        },
+        {
+          "ID": 3586,
+          "Title": "Kategorija:Seksualnost"
+        },
+        {
+          "ID": 55682,
+          "Title": "Kategorija:Sekularizam"
+        },
+        {
+          "ID": 2162,
+          "Title": "Kategorija:Sport"
+        },
+        {
+          "ID": 81184,
+          "Title": "Kategorija:Sportovi"
+        },
+        {
+          "ID": 157220,
+          "Title": "Kategorija:Svakodnevica"
+        },
+        {
+          "ID": 239628,
+          "Title": "Kategorija:Takmičenja"
+        },
+        {
+          "ID": 13701,
+          "Title": "Kategorija:Televizija"
+        },
+        {
+          "ID": 3555814,
+          "Title": "Kategorija:Umjetničke slike"
+        },
+        {
+          "ID": 13073,
+          "Title": "Kategorija:Umjetnost"
+        },
+        {
+          "ID": 93278,
+          "Title": "Kategorija:Videoigre"
+        },
+        {
+          "ID": 157137,
+          "Title": "Kategorija:Virtualne zajednice"
+        },
+        {
           "ID": 4029194,
           "Title": "Kategorija:Vježbanje"
-        }
-      ],
-      "Articles": [
-        {
-          "ID": 1808,
-          "Title": "Wikipedia"
         },
         {
-          "ID": 1809,
-          "Title": "Enciklopedija"
+          "ID": 128626,
+          "Title": "Kategorija:Zabava"
         },
         {
-          "ID": 2833,
-          "Title": "Hljeb"
+          "ID": 151015,
+          "Title": "Kategorija:Znanje"
         },
         {
-          "ID": 2835,
-          "Title": "Čokolada"
-        },
-        {
-          "ID": 2860,
-          "Title": "Pivo"
-        },
-        {
-          "ID": 2864,
-          "Title": "Kava"
-        },
-        {
-          "ID": 3711,
-          "Title": "Svinja"
-        },
-        {
-          "ID": 25101,
-          "Title": "Hogwarts"
-        },
-        {
-          "ID": 30919,
-          "Title": "Spisak mjesta u Harry Potteru"
-        },
-        {
-          "ID": 33257,
-          "Title": "Velška Wikipedija"
-        },
-        {
-          "ID": 37723,
-          "Title": "Ash Ketchum"
-        },
-        {
-          "ID": 38778,
-          "Title": "Led Zeppelin"
-        },
-        {
-          "ID": 38856,
-          "Title": "Green Day"
-        },
-        {
-          "ID": 38903,
-          "Title": "Sgt. Pepper's Lonely Hearts Club Band"
-        },
-        {
-          "ID": 47359,
-          "Title": "AC/DC"
-        },
-        {
-          "ID": 47563,
-          "Title": "Jaje"
-        },
-        {
-          "ID": 59618,
-          "Title": "Divlja svinja"
-        },
-        {
-          "ID": 60146,
-          "Title": "Oralni seks"
-        },
-        {
-          "ID": 66945,
-          "Title": "Stvarnost"
-        },
-        {
-          "ID": 67808,
-          "Title": "Realizam"
-        },
-        {
-          "ID": 70547,
-          "Title": "Kakaovac"
-        },
-        {
-          "ID": 77957,
-          "Title": "Realizam (umetnost)"
-        },
-        {
-          "ID": 78562,
-          "Title": "Realizam (književnost)"
-        },
-        {
-          "ID": 85228,
-          "Title": "Duh (prikaza)"
-        },
-        {
-          "ID": 86851,
-          "Title": "Bosanski lonac"
-        },
-        {
-          "ID": 99947,
-          "Title": "Celibat"
-        },
-        {
-          "ID": 106762,
-          "Title": "Buckinghamska palača"
-        },
-        {
-          "ID": 114630,
-          "Title": "Mordred"
-        },
-        {
-          "ID": 117570,
-          "Title": "Nessie"
-        },
-        {
-          "ID": 119729,
-          "Title": "Felacija"
-        },
-        {
-          "ID": 128841,
-          "Title": "Slanina"
-        },
-        {
-          "ID": 128845,
-          "Title": "Šunka"
-        },
-        {
-          "ID": 129629,
-          "Title": "Realizam (filozofija)"
-        },
-        {
-          "ID": 132317,
-          "Title": "Svinjetina"
-        },
-        {
-          "ID": 154228,
-          "Title": "Čednost"
-        },
-        {
-          "ID": 166577,
-          "Title": "Torta"
-        },
-        {
-          "ID": 209573,
-          "Title": "Pasta"
-        },
-        {
-          "ID": 220027,
-          "Title": "Bigfoot"
-        },
-        {
-          "ID": 252119,
-          "Title": "Sanjke"
-        },
-        {
-          "ID": 256627,
-          "Title": "Giuditta Pasta"
-        },
-        {
-          "ID": 1228480,
-          "Title": "The World Factbook"
-        },
-        {
-          "ID": 1947379,
-          "Title": "Domaća svinja"
-        },
-        {
-          "ID": 3552166,
-          "Title": "Sviščev dan"
-        },
-        {
-          "ID": 4032160,
-          "Title": "Pica"
-        },
-        {
-          "ID": 4032165,
-          "Title": "Sladoled"
-        },
-        {
-          "ID": 4045862,
-          "Title": "Jaje (hrana)"
-        },
-        {
-          "ID": 4052996,
-          "Title": "Pita"
-        },
-        {
-          "ID": 4515722,
-          "Title": "Band (razvrstavanje)"
-        },
-        {
-          "ID": 4537463,
-          "Title": "Hot dog"
-        },
-        {
-          "ID": 4575811,
-          "Title": "Кисело тесто"
-        },
-        {
-          "ID": 4581595,
-          "Title": "Keks"
-        },
-        {
-          "ID": 4597165,
-          "Title": "Eurosong 2017."
-        },
-        {
-          "ID": 4617965,
-          "Title": "Eurosong 2018."
+          "ID": 41488,
+          "Title": "Kategorija:Časopisi"
         }
       ]
     },
@@ -298,62 +248,64 @@
       "Title": "Geography and places",
       "Categories": [
         {
+          "ID": 15521,
+          "Title": "Kategorija:Država"
+        },
+        {
+          "ID": 4516,
+          "Title": "Kategorija:Države"
+        },
+        {
+          "ID": 2016,
+          "Title": "Kategorija:Države svijeta"
+        },
+        {
           "ID": 2002,
           "Title": "Kategorija:Geografija"
         },
         {
-          "ID": 46933,
-          "Title": "Kategorija:Spomenici"
-        },
-        {
-          "ID": 72871,
-          "Title": "Kategorija:Urbanizam"
+          "ID": 3557019,
+          "Title": "Kategorija:Geografske liste"
         },
         {
           "ID": 83428,
           "Title": "Kategorija:Geomorfologija"
         },
         {
-          "ID": 3557019,
-          "Title": "Kategorija:Geografske liste"
-        }
-      ],
-      "Articles": [
-        {
-          "ID": 2899,
-          "Title": "Pariz"
+          "ID": 1967,
+          "Title": "Kategorija:Gradovi"
         },
         {
-          "ID": 3147,
-          "Title": "Australija"
+          "ID": 2024,
+          "Title": "Kategorija:Naselja"
         },
         {
-          "ID": 4581,
-          "Title": "Canberra"
+          "ID": 72873,
+          "Title": "Kategorija:Naselja po državama"
         },
         {
-          "ID": 4745,
-          "Title": "Čovjek"
+          "ID": 219782,
+          "Title": "Kategorija:Palače"
         },
         {
-          "ID": 5535,
-          "Title": "Mjanmar"
+          "ID": 232272,
+          "Title": "Kategorija:Putevi"
         },
         {
-          "ID": 23484,
-          "Title": "Venecija"
+          "ID": 2277,
+          "Title": "Kategorija:Rijeke"
         },
         {
-          "ID": 25415,
-          "Title": "Queensland"
+          "ID": 46933,
+          "Title": "Kategorija:Spomenici"
         },
         {
-          "ID": 40686,
-          "Title": "Piramide"
+          "ID": 54540,
+          "Title": "Kategorija:Ulice"
         },
         {
-          "ID": 643485,
-          "Title": "Carlsbad, New Mexico"
+          "ID": 72871,
+          "Title": "Kategorija:Urbanizam"
         }
       ]
     },
@@ -361,6 +313,14 @@
       "ID": 2147483639,
       "Title": "Health and fitness",
       "Categories": [
+        {
+          "ID": 3555778,
+          "Title": "Kategorija:Anatomija čovjeka"
+        },
+        {
+          "ID": 160774,
+          "Title": "Kategorija:Higijena"
+        },
         {
           "ID": 2005,
           "Title": "Kategorija:Medicina"
@@ -370,24 +330,20 @@
           "Title": "Kategorija:Medicinske specijalnosti"
         },
         {
-          "ID": 87653,
-          "Title": "Kategorija:Zdravstvo"
-        },
-        {
-          "ID": 158893,
-          "Title": "Kategorija:Zdravlje"
-        },
-        {
-          "ID": 160774,
-          "Title": "Kategorija:Higijena"
-        },
-        {
           "ID": 509061,
           "Title": "Kategorija:Nasledne bolesti"
         },
         {
           "ID": 509076,
           "Title": "Kategorija:Nauke o zdravlju"
+        },
+        {
+          "ID": 158893,
+          "Title": "Kategorija:Zdravlje"
+        },
+        {
+          "ID": 87653,
+          "Title": "Kategorija:Zdravstvo"
         }
       ]
     },
@@ -396,16 +352,12 @@
       "Title": "History and events",
       "Categories": [
         {
+          "ID": 108962,
+          "Title": "Kategorija:Događaji"
+        },
+        {
           "ID": 1948,
           "Title": "Kategorija:Historija"
-        },
-        {
-          "ID": 1999,
-          "Title": "Kategorija:Društvene nauke"
-        },
-        {
-          "ID": 13209,
-          "Title": "Kategorija:Humanističke nauke"
         },
         {
           "ID": 70422,
@@ -416,46 +368,32 @@
           "Title": "Kategorija:Izbori po godinama"
         },
         {
-          "ID": 108962,
-          "Title": "Kategorija:Događaji"
-        }
-      ],
-      "Articles": [
-        {
-          "ID": 15218,
-          "Title": "Napadi 11. septembra 2001."
+          "ID": 229741,
+          "Title": "Kategorija:Politička historija"
         },
         {
-          "ID": 22905,
-          "Title": "Trojanski rat"
+          "ID": 3555789,
+          "Title": "Kategorija:Politička represija"
         },
         {
-          "ID": 50286,
-          "Title": "Patrioti (Američka revolucija)"
+          "ID": 167054,
+          "Title": "Kategorija:Procesi pred Vrhovnim sudom SAD"
         },
         {
-          "ID": 105093,
-          "Title": "Zemljotres u Sendaiju 2011"
+          "ID": 46912,
+          "Title": "Kategorija:Rat"
         },
         {
-          "ID": 122069,
-          "Title": "Predsjednički izbori u SAD 2012"
+          "ID": 11542,
+          "Title": "Kategorija:Ratovi"
         },
         {
-          "ID": 171880,
-          "Title": "Pucnjava u Aurori 2012"
+          "ID": 232263,
+          "Title": "Kategorija:Revolucije"
         },
         {
-          "ID": 183864,
-          "Title": "Donald Trump"
-        },
-        {
-          "ID": 187083,
-          "Title": "Poricanje Holokausta"
-        },
-        {
-          "ID": 187375,
-          "Title": "Izljev nafte u Meksičkom zaljevu 2010."
+          "ID": 257084,
+          "Title": "Kategorija:Teroristički napadi"
         }
       ]
     },
@@ -464,38 +402,32 @@
       "Title": "Mathematics and logic",
       "Categories": [
         {
-          "ID": 2006,
-          "Title": "Kategorija:Matematika"
-        },
-        {
-          "ID": 2011,
-          "Title": "Kategorija:Statistika"
-        },
-        {
           "ID": 7805,
           "Title": "Kategorija:Logika"
         },
         {
-          "ID": 119473,
-          "Title": "Kategorija:Primijenjena matematika"
+          "ID": 2006,
+          "Title": "Kategorija:Matematika"
         },
         {
           "ID": 865999,
           "Title": "Kategorija:Matematički koncepti"
         },
         {
-          "ID": 1355304,
-          "Title": "Kategorija:Teorijsko računarstvo"
-        }
-      ],
-      "Articles": [
-        {
-          "ID": 16876,
-          "Title": "Dužina"
+          "ID": 25062,
+          "Title": "Kategorija:Mjerne jedinice"
         },
         {
-          "ID": 4561536,
-          "Title": "Mjere za dužinu"
+          "ID": 119473,
+          "Title": "Kategorija:Primijenjena matematika"
+        },
+        {
+          "ID": 2011,
+          "Title": "Kategorija:Statistika"
+        },
+        {
+          "ID": 1355304,
+          "Title": "Kategorija:Teorijsko računarstvo"
         }
       ]
     },
@@ -504,206 +436,88 @@
       "Title": "Nature and physical sciences",
       "Categories": [
         {
-          "ID": 2004,
-          "Title": "Kategorija:Kemija"
+          "ID": 3567,
+          "Title": "Kategorija:Anatomija"
         },
         {
-          "ID": 2010,
-          "Title": "Kategorija:Prirodne nauke"
+          "ID": 10834,
+          "Title": "Kategorija:Biljke"
+        },
+        {
+          "ID": 3515,
+          "Title": "Kategorija:Ekologija"
+        },
+        {
+          "ID": 1227948,
+          "Title": "Kategorija:Fauna po kontinentima"
         },
         {
           "ID": 3418,
           "Title": "Kategorija:Fizika"
         },
         {
-          "ID": 3632,
-          "Title": "Kategorija:Zoologija"
-        },
-        {
-          "ID": 13173,
-          "Title": "Kategorija:Znanost"
-        },
-        {
-          "ID": 18608,
-          "Title": "Kategorija:Nauka"
+          "ID": 158899,
+          "Title": "Kategorija:Hemijske supstance"
         },
         {
           "ID": 47006,
           "Title": "Kategorija:Katastrofe"
         },
         {
-          "ID": 47007,
-          "Title": "Kategorija:Priroda"
-        },
-        {
-          "ID": 151015,
-          "Title": "Kategorija:Znanje"
-        },
-        {
-          "ID": 158899,
-          "Title": "Kategorija:Hemijske supstance"
-        },
-        {
-          "ID": 160930,
-          "Title": "Kategorija:Nauke o životnoj sredini"
+          "ID": 2004,
+          "Title": "Kategorija:Kemija"
         },
         {
           "ID": 219785,
           "Title": "Kategorija:Kemijska jedinjenja"
         },
         {
-          "ID": 1227948,
-          "Title": "Kategorija:Fauna po kontinentima"
-        }
-      ],
-      "Articles": [
-        {
-          "ID": 2845,
-          "Title": "Limun"
+          "ID": 18608,
+          "Title": "Kategorija:Nauka"
         },
         {
-          "ID": 2846,
-          "Title": "Naranča"
+          "ID": 160930,
+          "Title": "Kategorija:Nauke o životnoj sredini"
         },
         {
-          "ID": 2847,
-          "Title": "Kukuruz"
+          "ID": 1283404,
+          "Title": "Kategorija:Pripitomljene biljke"
         },
         {
-          "ID": 2850,
-          "Title": "Riža"
+          "ID": 47007,
+          "Title": "Kategorija:Priroda"
         },
         {
-          "ID": 2855,
-          "Title": "Pšenica"
+          "ID": 2010,
+          "Title": "Kategorija:Prirodne nauke"
         },
         {
-          "ID": 3581,
-          "Title": "Reproduktivni sistem"
+          "ID": 159739,
+          "Title": "Kategorija:Proteini"
         },
         {
-          "ID": 3583,
-          "Title": "Penis"
+          "ID": 41257,
+          "Title": "Kategorija:Voće"
         },
         {
-          "ID": 3699,
-          "Title": "Deva"
+          "ID": 70071,
+          "Title": "Kategorija:Zemlja"
         },
         {
-          "ID": 3919,
-          "Title": "Vatra"
+          "ID": 13173,
+          "Title": "Kategorija:Znanost"
         },
         {
-          "ID": 15087,
-          "Title": "Hidrologija"
+          "ID": 3632,
+          "Title": "Kategorija:Zoologija"
         },
         {
-          "ID": 15708,
-          "Title": "Majanski kalendar"
+          "ID": 98574,
+          "Title": "Kategorija:Život"
         },
         {
-          "ID": 22684,
-          "Title": "Mišićni sistem"
-        },
-        {
-          "ID": 30316,
-          "Title": "Kurac"
-        },
-        {
-          "ID": 33012,
-          "Title": "Masturbacija"
-        },
-        {
-          "ID": 34843,
-          "Title": "Hidrološki ciklus"
-        },
-        {
-          "ID": 36421,
-          "Title": "Testis"
-        },
-        {
-          "ID": 43992,
-          "Title": "Mokraća"
-        },
-        {
-          "ID": 59629,
-          "Title": "Jagoda"
-        },
-        {
-          "ID": 60365,
-          "Title": "Mišići"
-        },
-        {
-          "ID": 62856,
-          "Title": "Velike mačke"
-        },
-        {
-          "ID": 63075,
-          "Title": "Dinja"
-        },
-        {
-          "ID": 67828,
-          "Title": "Skuša"
-        },
-        {
-          "ID": 100924,
-          "Title": "Spolni organi"
-        },
-        {
-          "ID": 100925,
-          "Title": "Urogenitalni sistem"
-        },
-        {
-          "ID": 122483,
-          "Title": "Šumska jagoda"
-        },
-        {
-          "ID": 156082,
-          "Title": "Mango"
-        },
-        {
-          "ID": 186110,
-          "Title": "Rajčica"
-        },
-        {
-          "ID": 218581,
-          "Title": "Suspenzija (kemija)"
-        },
-        {
-          "ID": 225513,
-          "Title": "Los"
-        },
-        {
-          "ID": 256675,
-          "Title": "Ananas"
-        },
-        {
-          "ID": 1194663,
-          "Title": "Mirta"
-        },
-        {
-          "ID": 1337019,
-          "Title": "Karfiol"
-        },
-        {
-          "ID": 2861331,
-          "Title": "Hranidbeni lanac"
-        },
-        {
-          "ID": 2999704,
-          "Title": "Limeta"
-        },
-        {
-          "ID": 3474065,
-          "Title": "Bijeli tigar"
-        },
-        {
-          "ID": 3549589,
-          "Title": "Majmuni pauci"
-        },
-        {
-          "ID": 4543907,
-          "Title": "Klijanje"
+          "ID": 26350,
+          "Title": "Kategorija:Životinje"
         }
       ]
     },
@@ -712,202 +526,128 @@
       "Title": "People and self",
       "Categories": [
         {
-          "ID": 1830,
-          "Title": "Kategorija:Biografije"
+          "ID": 93647,
+          "Title": "Kategorija:Američki generali"
         },
         {
-          "ID": 2462,
-          "Title": "Kategorija:Prezimena"
+          "ID": 2287,
+          "Title": "Kategorija:Arhitekti"
+        },
+        {
+          "ID": 3065,
+          "Title": "Kategorija:Avijatičari"
         },
         {
           "ID": 73135,
           "Title": "Kategorija:Biografi"
         },
         {
-          "ID": 95395,
-          "Title": "Kategorija:Biografske knjige"
+          "ID": 1830,
+          "Title": "Kategorija:Biografije"
         },
         {
-          "ID": 98574,
-          "Title": "Kategorija:Život"
+          "ID": 4027489,
+          "Title": "Kategorija:Bolničarke"
         },
         {
-          "ID": 157220,
-          "Title": "Kategorija:Svakodnevica"
+          "ID": 3557815,
+          "Title": "Kategorija:Državni poglavari"
         },
         {
-          "ID": 189526,
-          "Title": "Kategorija:Žene"
+          "ID": 4633130,
+          "Title": "Kategorija:Fiktivni likovi"
         },
         {
-          "ID": 216838,
-          "Title": "Kategorija:Sopstvo"
+          "ID": 5758,
+          "Title": "Kategorija:Filmski glumci"
         },
         {
           "ID": 259718,
           "Title": "Kategorija:Filmski likovi"
         },
         {
-          "ID": 3554549,
-          "Title": "Kategorija:Biografija"
+          "ID": 2811,
+          "Title": "Kategorija:Filozofi"
         },
         {
-          "ID": 3554550,
-          "Title": "Kategorija:Biografska djela"
-        }
-      ],
-      "Articles": [
-        {
-          "ID": 2071,
-          "Title": "Adolf Hitler"
+          "ID": 5759,
+          "Title": "Kategorija:Glumci"
         },
         {
-          "ID": 2547,
-          "Title": "Kristofor Kolumbo"
+          "ID": 4719,
+          "Title": "Kategorija:Istraživači"
         },
         {
-          "ID": 2563,
-          "Title": "Galileo Galilei"
+          "ID": 67740,
+          "Title": "Kategorija:Izmišljeni likovi"
         },
         {
-          "ID": 2582,
-          "Title": "Johannes Kepler"
+          "ID": 4357,
+          "Title": "Kategorija:Izumitelji"
         },
         {
-          "ID": 2592,
-          "Title": "Sigmund Freud"
+          "ID": 25826,
+          "Title": "Kategorija:Liječnici"
         },
         {
-          "ID": 2611,
-          "Title": "Carl Friedrich Gauss"
+          "ID": 24262,
+          "Title": "Kategorija:Matematičari"
         },
         {
-          "ID": 2633,
-          "Title": "Toma Akvinski"
+          "ID": 2337,
+          "Title": "Kategorija:Muzičari"
         },
         {
-          "ID": 2639,
-          "Title": "René Descartes"
+          "ID": 1916,
+          "Title": "Kategorija:Pisci"
         },
         {
-          "ID": 2642,
-          "Title": "Adam Smith"
+          "ID": 1777,
+          "Title": "Kategorija:Političari"
         },
         {
-          "ID": 2781,
-          "Title": "Richard Wagner"
+          "ID": 160146,
+          "Title": "Kategorija:Politolozi"
         },
         {
-          "ID": 2795,
-          "Title": "Florence Nightingale"
+          "ID": 11410,
+          "Title": "Kategorija:Predsjednici"
         },
         {
-          "ID": 2812,
-          "Title": "Alan Turing"
+          "ID": 70578,
+          "Title": "Kategorija:Predsjednici po državama"
         },
         {
-          "ID": 2816,
-          "Title": "Bill Gates"
+          "ID": 2462,
+          "Title": "Kategorija:Prezimena"
         },
         {
-          "ID": 18275,
-          "Title": "John Lennon"
+          "ID": 5832,
+          "Title": "Kategorija:Revolucionari"
         },
         {
-          "ID": 20900,
-          "Title": "George Harrison"
+          "ID": 134146,
+          "Title": "Kategorija:Rođenja po godinama"
         },
         {
-          "ID": 33495,
-          "Title": "Lewis Carroll"
+          "ID": 134437,
+          "Title": "Kategorija:Smrti po godinama"
         },
         {
-          "ID": 39085,
-          "Title": "Carl Sagan"
+          "ID": 216838,
+          "Title": "Kategorija:Sopstvo"
         },
         {
-          "ID": 52633,
-          "Title": "Noam Chomsky"
+          "ID": 2044,
+          "Title": "Kategorija:Umjetnici"
         },
         {
-          "ID": 53706,
-          "Title": "Leonardo Fibonacci"
+          "ID": 189526,
+          "Title": "Kategorija:Žene"
         },
         {
-          "ID": 67709,
-          "Title": "Irving Langmuir"
-        },
-        {
-          "ID": 72341,
-          "Title": "Elton John"
-        },
-        {
-          "ID": 80104,
-          "Title": "Harry Houdini"
-        },
-        {
-          "ID": 84022,
-          "Title": "William Blake"
-        },
-        {
-          "ID": 108748,
-          "Title": "Alexander Fleming"
-        },
-        {
-          "ID": 117789,
-          "Title": "Anders Behring Breivik"
-        },
-        {
-          "ID": 124676,
-          "Title": "Richard Dawkins"
-        },
-        {
-          "ID": 127890,
-          "Title": "Daniel Radcliffe"
-        },
-        {
-          "ID": 129840,
-          "Title": "Chaim Soutine"
-        },
-        {
-          "ID": 132217,
-          "Title": "Ayn Rand"
-        },
-        {
-          "ID": 157322,
-          "Title": "The Big Bang Theory"
-        },
-        {
-          "ID": 207513,
-          "Title": "Oliver Cromwell"
-        },
-        {
-          "ID": 217038,
-          "Title": "Ted Cruz"
-        },
-        {
-          "ID": 232472,
-          "Title": "Cory Monteith"
-        },
-        {
-          "ID": 4032410,
-          "Title": "Charles Babbage"
-        },
-        {
-          "ID": 4040666,
-          "Title": "Joseph Smith"
-        },
-        {
-          "ID": 4046923,
-          "Title": "Srinivasa Ramanudžan"
-        },
-        {
-          "ID": 4550004,
-          "Title": "Sumrak (roman)"
-        },
-        {
-          "ID": 4603476,
-          "Title": "Janet Margolin"
+          "ID": 52802,
+          "Title": "Kategorija:Žive ličnosti"
         }
       ]
     },
@@ -916,70 +656,48 @@
       "Title": "Philosophy and thinking",
       "Categories": [
         {
-          "ID": 2001,
-          "Title": "Kategorija:Filozofija"
-        },
-        {
-          "ID": 20309,
-          "Title": "Kategorija:Ideologije"
-        },
-        {
           "ID": 73899,
           "Title": "Kategorija:Etika"
         },
         {
-          "ID": 76232,
-          "Title": "Kategorija:Filozofske škole i tradicije"
-        },
-        {
-          "ID": 89923,
-          "Title": "Kategorija:Političke teorije"
+          "ID": 2001,
+          "Title": "Kategorija:Filozofija"
         },
         {
           "ID": 150430,
           "Title": "Kategorija:Filozofske discipline"
         },
         {
+          "ID": 3555629,
+          "Title": "Kategorija:Filozofske teorije"
+        },
+        {
+          "ID": 76232,
+          "Title": "Kategorija:Filozofske škole i tradicije"
+        },
+        {
+          "ID": 70072,
+          "Title": "Kategorija:Filozofski koncepti"
+        },
+        {
+          "ID": 20309,
+          "Title": "Kategorija:Ideologije"
+        },
+        {
+          "ID": 228678,
+          "Title": "Kategorija:Metafizika"
+        },
+        {
           "ID": 179115,
           "Title": "Kategorija:Misao"
         },
         {
-          "ID": 3555629,
-          "Title": "Kategorija:Filozofske teorije"
-        }
-      ],
-      "Articles": [
-        {
-          "ID": 4384,
-          "Title": "Ljepota"
+          "ID": 89923,
+          "Title": "Kategorija:Političke teorije"
         },
         {
-          "ID": 9127,
-          "Title": "Sreća"
-        },
-        {
-          "ID": 77866,
-          "Title": "Vjerovanje"
-        },
-        {
-          "ID": 106733,
-          "Title": "Vjera"
-        },
-        {
-          "ID": 479326,
-          "Title": "Povjerenje"
-        },
-        {
-          "ID": 1285147,
-          "Title": "Činjenica"
-        },
-        {
-          "ID": 1588263,
-          "Title": "Hit (razvrstavanje)"
-        },
-        {
-          "ID": 4617904,
-          "Title": "Dunning-Krugerov efekt"
+          "ID": 1412500,
+          "Title": "Kategorija:Realnost"
         }
       ]
     },
@@ -988,28 +706,24 @@
       "Title": "Religion and belief systems",
       "Categories": [
         {
-          "ID": 2013,
-          "Title": "Kategorija:Religija"
-        },
-        {
-          "ID": 15106,
-          "Title": "Kategorija:Teologija"
-        },
-        {
-          "ID": 55682,
-          "Title": "Kategorija:Sekularizam"
-        },
-        {
           "ID": 71875,
           "Title": "Kategorija:Kritika religije"
+        },
+        {
+          "ID": 222556,
+          "Title": "Kategorija:Nonteizam"
+        },
+        {
+          "ID": 2013,
+          "Title": "Kategorija:Religija"
         },
         {
           "ID": 97825,
           "Title": "Kategorija:Religijske tradicije i pokreti"
         },
         {
-          "ID": 222556,
-          "Title": "Kategorija:Nonteizam"
+          "ID": 15106,
+          "Title": "Kategorija:Teologija"
         }
       ]
     },
@@ -1018,358 +732,92 @@
       "Title": "Society and social sciences",
       "Categories": [
         {
+          "ID": 74763,
+          "Title": "Kategorija:Aviokompanije"
+        },
+        {
           "ID": 1999,
           "Title": "Kategorija:Društvene nauke"
-        },
-        {
-          "ID": 3450,
-          "Title": "Kategorija:Međunarodne organizacije"
-        },
-        {
-          "ID": 8898,
-          "Title": "Kategorija:Feminizam"
-        },
-        {
-          "ID": 13209,
-          "Title": "Kategorija:Humanističke nauke"
-        },
-        {
-          "ID": 14268,
-          "Title": "Kategorija:Pravo"
         },
         {
           "ID": 216994,
           "Title": "Kategorija:Društvo"
         },
         {
+          "ID": 46481,
+          "Title": "Kategorija:Državne zastave"
+        },
+        {
+          "ID": 8898,
+          "Title": "Kategorija:Feminizam"
+        },
+        {
+          "ID": 78218,
+          "Title": "Kategorija:Financije"
+        },
+        {
+          "ID": 152643,
+          "Title": "Kategorija:Geopolitika"
+        },
+        {
+          "ID": 13209,
+          "Title": "Kategorija:Humanističke nauke"
+        },
+        {
+          "ID": 158909,
+          "Title": "Kategorija:Institucije vlasti"
+        },
+        {
+          "ID": 41379,
+          "Title": "Kategorija:Kompanije"
+        },
+        {
+          "ID": 1479342,
+          "Title": "Kategorija:Kovani novac"
+        },
+        {
+          "ID": 7931,
+          "Title": "Kategorija:Marketing"
+        },
+        {
+          "ID": 3450,
+          "Title": "Kategorija:Međunarodne organizacije"
+        },
+        {
+          "ID": 78219,
+          "Title": "Kategorija:Novac"
+        },
+        {
+          "ID": 3421691,
+          "Title": "Kategorija:Obrazovanje po državama"
+        },
+        {
+          "ID": 2173,
+          "Title": "Kategorija:Organizacije"
+        },
+        {
+          "ID": 174520,
+          "Title": "Kategorija:Politički sistemi"
+        },
+        {
+          "ID": 14268,
+          "Title": "Kategorija:Pravo"
+        },
+        {
+          "ID": 2019,
+          "Title": "Kategorija:Psihologija"
+        },
+        {
+          "ID": 19850,
+          "Title": "Kategorija:Valute"
+        },
+        {
+          "ID": 1283587,
+          "Title": "Kategorija:Vlada"
+        },
+        {
           "ID": 237991,
           "Title": "Kategorija:Zakoni"
-        }
-      ],
-      "Articles": [
-        {
-          "ID": 3298,
-          "Title": "Evropska unija"
-        },
-        {
-          "ID": 3441,
-          "Title": "Iran"
-        },
-        {
-          "ID": 3897,
-          "Title": "Ljetno vrijeme"
-        },
-        {
-          "ID": 4965,
-          "Title": "Čile"
-        },
-        {
-          "ID": 5111,
-          "Title": "Barbados"
-        },
-        {
-          "ID": 15828,
-          "Title": "Državni univerzitet Ohaja"
-        },
-        {
-          "ID": 18054,
-          "Title": "Univerzitet u Pennsylvaniji"
-        },
-        {
-          "ID": 20625,
-          "Title": "Trust"
-        },
-        {
-          "ID": 27013,
-          "Title": "Univerzitet Harvard"
-        },
-        {
-          "ID": 27102,
-          "Title": "The New York Times"
-        },
-        {
-          "ID": 36819,
-          "Title": "Univerzitet Albert-Ludvig"
-        },
-        {
-          "ID": 36917,
-          "Title": "Zastava Australije"
-        },
-        {
-          "ID": 51456,
-          "Title": "Univerzitet u Chicagu"
-        },
-        {
-          "ID": 69557,
-          "Title": "Univerzitet u Cambridgeu"
-        },
-        {
-          "ID": 82837,
-          "Title": "Massachusetts Institute of Technology"
-        },
-        {
-          "ID": 101165,
-          "Title": "Univerzitet u Nankingu"
-        },
-        {
-          "ID": 118574,
-          "Title": "Socijalni rad"
-        },
-        {
-          "ID": 119829,
-          "Title": "Univerzitet u Manchesteru"
-        },
-        {
-          "ID": 123038,
-          "Title": "Московски државни универзитет Ломоносов"
-        },
-        {
-          "ID": 123039,
-          "Title": "Univerzitet u Göteborgu"
-        },
-        {
-          "ID": 123115,
-          "Title": "Univerzitet u Sydneyju"
-        },
-        {
-          "ID": 123117,
-          "Title": "Univerzitet u Queenslandu"
-        },
-        {
-          "ID": 123118,
-          "Title": "Univerzitet u Aucklandu"
-        },
-        {
-          "ID": 123199,
-          "Title": "Универзитет у Бечу"
-        },
-        {
-          "ID": 123621,
-          "Title": "Stanford"
-        },
-        {
-          "ID": 125166,
-          "Title": "Санктпетербуршки државни универзитет"
-        },
-        {
-          "ID": 126716,
-          "Title": "Ekonomija Irana"
-        },
-        {
-          "ID": 144366,
-          "Title": "Treći svetski rat"
-        },
-        {
-          "ID": 153762,
-          "Title": "Univerzitet u Nottinghamu"
-        },
-        {
-          "ID": 154440,
-          "Title": "Univerzitet u Birminghamu"
-        },
-        {
-          "ID": 169873,
-          "Title": "Univerzitet Alabame"
-        },
-        {
-          "ID": 172765,
-          "Title": "Univerzitet u Oxfordu"
-        },
-        {
-          "ID": 183293,
-          "Title": "Univerzitet u Glasgowu"
-        },
-        {
-          "ID": 187017,
-          "Title": "Univerzitet u Bologni"
-        },
-        {
-          "ID": 187018,
-          "Title": "Univerzitet u Genovi"
-        },
-        {
-          "ID": 187456,
-          "Title": "Univerzitet u Milanu"
-        },
-        {
-          "ID": 219322,
-          "Title": "Univerzitet u Teheranu"
-        },
-        {
-          "ID": 227023,
-          "Title": "Sveučilište u Tokiju"
-        },
-        {
-          "ID": 241524,
-          "Title": "Univerzitet u Stockholmu"
-        },
-        {
-          "ID": 241708,
-          "Title": "Univerzitet u Washingtonu"
-        },
-        {
-          "ID": 254153,
-          "Title": "Padovanski univerzitet"
-        },
-        {
-          "ID": 256641,
-          "Title": "Univerzitet Columbia"
-        },
-        {
-          "ID": 256649,
-          "Title": "Univerzitet Princeton"
-        },
-        {
-          "ID": 631061,
-          "Title": "Univerzitet u Virginiji"
-        },
-        {
-          "ID": 642104,
-          "Title": "University at Buffalo, New York"
-        },
-        {
-          "ID": 1448837,
-          "Title": "Univerzitet u Bonnu"
-        },
-        {
-          "ID": 1478792,
-          "Title": "Islamski slobodni univerzitet"
-        },
-        {
-          "ID": 2581420,
-          "Title": "Hebrejski univerzitet u Jeruzalemu"
-        },
-        {
-          "ID": 2743210,
-          "Title": "Univerzitet u Delhiju"
-        },
-        {
-          "ID": 2743352,
-          "Title": "Univerzitet Jawaharlala Nehrua"
-        },
-        {
-          "ID": 3513397,
-          "Title": "Prohibicija"
-        },
-        {
-          "ID": 4020941,
-          "Title": "Univerzitet u Londonu"
-        },
-        {
-          "ID": 4021784,
-          "Title": "Univerzitet u Parizu"
-        },
-        {
-          "ID": 4027642,
-          "Title": "Univerzitet u Uppsali"
-        },
-        {
-          "ID": 4029347,
-          "Title": "Univerzitet u Calcutti"
-        },
-        {
-          "ID": 4476182,
-          "Title": "Mikronacija"
-        },
-        {
-          "ID": 4536811,
-          "Title": "Univerzitet Alexandru Ioan Cuza"
-        },
-        {
-          "ID": 4538454,
-          "Title": "Univerzitet u Tartuu"
-        },
-        {
-          "ID": 4538961,
-          "Title": "Универзитет у Лавову"
-        },
-        {
-          "ID": 4539154,
-          "Title": "Univerzitet u Michiganu"
-        },
-        {
-          "ID": 4539874,
-          "Title": "Univerzitet Cinhua"
-        },
-        {
-          "ID": 4547662,
-          "Title": "Sveučilište u Montani"
-        },
-        {
-          "ID": 4547664,
-          "Title": "Univerzitet u Minnesoti"
-        },
-        {
-          "ID": 4548258,
-          "Title": "Univerzitet u zapadnom Ontariju"
-        },
-        {
-          "ID": 4548259,
-          "Title": "Univerzitet Queen's"
-        },
-        {
-          "ID": 4548261,
-          "Title": "Univerzitet u Saskatchewanu"
-        },
-        {
-          "ID": 4548281,
-          "Title": "Univerzitet u Calgariju"
-        },
-        {
-          "ID": 4548284,
-          "Title": "Univerzitet u Manitobi"
-        },
-        {
-          "ID": 4548289,
-          "Title": "Univerzitet u Waterloou"
-        },
-        {
-          "ID": 4549595,
-          "Title": "Univerzitet na Hokkaidu"
-        },
-        {
-          "ID": 4550159,
-          "Title": "Kineska nova godina"
-        },
-        {
-          "ID": 4551259,
-          "Title": "Univerzitet u Bristolu"
-        },
-        {
-          "ID": 4552853,
-          "Title": "Univerzitet u Wrocławu"
-        },
-        {
-          "ID": 4573671,
-          "Title": "Univerzitet Boğaziçi"
-        },
-        {
-          "ID": 4579180,
-          "Title": "Univerzitet u Leedsu"
-        },
-        {
-          "ID": 4581736,
-          "Title": "Univerzitet u St Andrewsu"
-        },
-        {
-          "ID": 4601627,
-          "Title": "Univerzitet u Aberdeenu"
-        },
-        {
-          "ID": 4602933,
-          "Title": "Univerzitet u Liverpoolu"
-        },
-        {
-          "ID": 4604108,
-          "Title": "Univerzitet u Leipzigu"
-        },
-        {
-          "ID": 4630646,
-          "Title": "Univerzitet društvenih i političkih nauka Panteion"
-        },
-        {
-          "ID": 4632200,
-          "Title": "Univerzitet u Teksasu"
         }
       ]
     },
@@ -1378,24 +826,108 @@
       "Title": "Technology and applied sciences",
       "Categories": [
         {
-          "ID": 2012,
-          "Title": "Kategorija:Saobraćaj"
+          "ID": 10738,
+          "Title": "Kategorija:Alat"
         },
         {
-          "ID": 4675,
-          "Title": "Kategorija:Elektronika"
+          "ID": 265710,
+          "Title": "Kategorija:Baza podataka"
         },
         {
           "ID": 7003,
           "Title": "Kategorija:Dizajn"
         },
         {
+          "ID": 4675,
+          "Title": "Kategorija:Elektronika"
+        },
+        {
+          "ID": 46917,
+          "Title": "Kategorija:Građevinarstvo"
+        },
+        {
+          "ID": 1409787,
+          "Title": "Kategorija:Građevinski inženjering"
+        },
+        {
+          "ID": 47091,
+          "Title": "Kategorija:Igraće konzole"
+        },
+        {
           "ID": 7006,
           "Title": "Kategorija:Informatika"
         },
         {
+          "ID": 1351757,
+          "Title": "Kategorija:Informatička tehnologija"
+        },
+        {
           "ID": 8733,
           "Title": "Kategorija:Internet"
+        },
+        {
+          "ID": 62627,
+          "Title": "Kategorija:Inženjerstvo"
+        },
+        {
+          "ID": 46891,
+          "Title": "Kategorija:Konstrukcije"
+        },
+        {
+          "ID": 131486,
+          "Title": "Kategorija:Kuhinjsko posuđe"
+        },
+        {
+          "ID": 111414,
+          "Title": "Kategorija:Kućni aparati"
+        },
+        {
+          "ID": 160100,
+          "Title": "Kategorija:Mašinstvo"
+        },
+        {
+          "ID": 3555075,
+          "Title": "Kategorija:Naoružanje"
+        },
+        {
+          "ID": 1227764,
+          "Title": "Kategorija:Obrada drveta"
+        },
+        {
+          "ID": 46373,
+          "Title": "Kategorija:Posebni kalendari"
+        },
+        {
+          "ID": 1350861,
+          "Title": "Kategorija:Primijenjene nauke"
+        },
+        {
+          "ID": 18522,
+          "Title": "Kategorija:Programiranje"
+        },
+        {
+          "ID": 82550,
+          "Title": "Kategorija:Računanje"
+        },
+        {
+          "ID": 237870,
+          "Title": "Kategorija:Računari"
+        },
+        {
+          "ID": 2012,
+          "Title": "Kategorija:Saobraćaj"
+        },
+        {
+          "ID": 56915,
+          "Title": "Kategorija:Softver"
+        },
+        {
+          "ID": 160574,
+          "Title": "Kategorija:Standardi"
+        },
+        {
+          "ID": 157307,
+          "Title": "Kategorija:Strojevi"
         },
         {
           "ID": 26906,
@@ -1406,54 +938,16 @@
           "Title": "Kategorija:Tehnologija"
         },
         {
-          "ID": 62627,
-          "Title": "Kategorija:Inženjerstvo"
-        },
-        {
-          "ID": 82550,
-          "Title": "Kategorija:Računanje"
+          "ID": 624193,
+          "Title": "Kategorija:Tehnologija po tipu"
         },
         {
           "ID": 222788,
           "Title": "Kategorija:Upravljanje podacima"
         },
         {
-          "ID": 237870,
-          "Title": "Kategorija:Računari"
-        },
-        {
-          "ID": 265710,
-          "Title": "Kategorija:Baza podataka"
-        },
-        {
-          "ID": 624193,
-          "Title": "Kategorija:Tehnologija po tipu"
-        },
-        {
-          "ID": 1350861,
-          "Title": "Kategorija:Primijenjene nauke"
-        },
-        {
-          "ID": 3555075,
-          "Title": "Kategorija:Naoružanje"
-        }
-      ],
-      "Articles": [
-        {
-          "ID": 64316,
-          "Title": "Zid"
-        },
-        {
-          "ID": 99714,
-          "Title": "Kameni zid"
-        },
-        {
-          "ID": 128103,
-          "Title": "Žvaka"
-        },
-        {
-          "ID": 4497170,
-          "Title": "Zavarivanje"
+          "ID": 2503,
+          "Title": "Kategorija:Štamparstvo"
         }
       ]
     }

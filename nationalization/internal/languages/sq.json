@@ -6,130 +6,124 @@
       "Title": "Culture and the arts",
       "Categories": [
         {
-          "ID": 4018,
-          "Title": "Kategoria:Kulturë"
-        },
-        {
-          "ID": 21228,
-          "Title": "Kategoria:Sporte"
-        },
-        {
           "ID": 21808,
           "Title": "Kategoria:Argëtime"
         },
         {
-          "ID": 22338,
-          "Title": "Kategoria:Ushqime"
-        },
-        {
-          "ID": 22349,
-          "Title": "Kategoria:Kuzhinë"
-        },
-        {
-          "ID": 22350,
-          "Title": "Kategoria:Gjellëtari"
+          "ID": 28039,
+          "Title": "Kategoria:Arsim"
         },
         {
           "ID": 25928,
           "Title": "Kategoria:Arte"
         },
         {
-          "ID": 28668,
-          "Title": "Kategoria:Grupe muzike"
+          "ID": 167642,
+          "Title": "Kategoria:Burimet"
+        },
+        {
+          "ID": 155204,
+          "Title": "Kategoria:Dituri"
+        },
+        {
+          "ID": 246045,
+          "Title": "Kategoria:Enciklopedistika"
+        },
+        {
+          "ID": 8225,
+          "Title": "Kategoria:Fiktiv"
         },
         {
           "ID": 55919,
           "Title": "Kategoria:Filma"
         },
         {
+          "ID": 91171,
+          "Title": "Kategoria:Folklor"
+        },
+        {
+          "ID": 22350,
+          "Title": "Kategoria:Gjellëtari"
+        },
+        {
+          "ID": 28668,
+          "Title": "Kategoria:Grupe muzike"
+        },
+        {
+          "ID": 4018,
+          "Title": "Kategoria:Kulturë"
+        },
+        {
+          "ID": 22349,
+          "Title": "Kategoria:Kuzhinë"
+        },
+        {
+          "ID": 195427,
+          "Title": "Kategoria:Legjendë"
+        },
+        {
+          "ID": 21144,
+          "Title": "Kategoria:Letërsi"
+        },
+        {
+          "ID": 21502,
+          "Title": "Kategoria:Libra"
+        },
+        {
+          "ID": 21328,
+          "Title": "Kategoria:Lojëra vizuale"
+        },
+        {
+          "ID": 7188,
+          "Title": "Kategoria:Mundje"
+        },
+        {
+          "ID": 2048,
+          "Title": "Kategoria:Muzikë"
+        },
+        {
+          "ID": 249640,
+          "Title": "Kategoria:Mësimdhënie"
+        },
+        {
           "ID": 87858,
           "Title": "Kategoria:Ngjyra"
         },
         {
+          "ID": 21807,
+          "Title": "Kategoria:Piktura"
+        },
+        {
+          "ID": 13771,
+          "Title": "Kategoria:Seksualitet"
+        },
+        {
+          "ID": 145378,
+          "Title": "Kategoria:Shekullarizëm"
+        },
+        {
           "ID": 256268,
           "Title": "Kategoria:Shkrimi"
-        }
-      ],
-      "Articles": [
-        {
-          "ID": 1691,
-          "Title": "Wikipedia"
         },
         {
-          "ID": 2983,
-          "Title": "Enciklopedia"
+          "ID": 21228,
+          "Title": "Kategoria:Sporte"
         },
         {
-          "ID": 8153,
-          "Title": "Lista e pijeve alkoholike"
+          "ID": 16369,
+          "Title": "Kategoria:Televizion"
         },
         {
-          "ID": 8592,
-          "Title": "Akullorja"
+          "ID": 22338,
+          "Title": "Kategoria:Ushqime"
         },
         {
-          "ID": 8620,
-          "Title": "Çokollata"
+          "ID": 18586,
+          "Title": "Kategoria:Vende fiktive"
         },
         {
-          "ID": 13144,
-          "Title": "Kafeja"
-        },
-        {
-          "ID": 21438,
-          "Title": "Birra"
-        },
-        {
-          "ID": 21902,
-          "Title": "Realiteti"
-        },
-        {
-          "ID": 23416,
-          "Title": "Buka"
-        },
-        {
-          "ID": 37380,
-          "Title": "Led Zeppelin"
-        },
-        {
-          "ID": 40798,
-          "Title": "AC/DC"
-        },
-        {
-          "ID": 50716,
-          "Title": "Pandispanjë"
-        },
-        {
-          "ID": 73870,
-          "Title": "Derri"
-        },
-        {
-          "ID": 79920,
-          "Title": "Seksi oral"
-        },
-        {
-          "ID": 83931,
-          "Title": "Pica"
-        },
-        {
-          "ID": 93354,
-          "Title": "Derri i egër"
-        },
-        {
-          "ID": 132111,
-          "Title": "Shkolla e Magjisë dhe Shtrigërisë Hoguorts"
-        },
-        {
-          "ID": 153975,
-          "Title": "Grup muzikor"
-        },
-        {
-          "ID": 228665,
-          "Title": "Shkolla e Magjisë dhe Shtrigërisë \"Hoguorts\"."
-        },
-        {
-          "ID": 252462,
-          "Title": "Yūrei"
+          "ID": 49889,
+          "Title": "Kategoria:Zhanre muzikore"
         }
       ]
     },
@@ -146,58 +140,36 @@
           "Title": "Kategoria:Lista (Gjeografi)"
         },
         {
+          "ID": 20799,
+          "Title": "Kategoria:Lumenj"
+        },
+        {
           "ID": 20811,
           "Title": "Kategoria:Monumente"
+        },
+        {
+          "ID": 3345,
+          "Title": "Kategoria:Qytete"
+        },
+        {
+          "ID": 22234,
+          "Title": "Kategoria:Rrugë"
+        },
+        {
+          "ID": 20802,
+          "Title": "Kategoria:Shtete"
         },
         {
           "ID": 63040,
           "Title": "Kategoria:Urbanistikë"
         },
         {
+          "ID": 209657,
+          "Title": "Kategoria:Vendbanime sipas shtetit"
+        },
+        {
           "ID": 154838,
           "Title": "Kategoria:Vënd"
-        }
-      ],
-      "Articles": [
-        {
-          "ID": 2262,
-          "Title": "Australia"
-        },
-        {
-          "ID": 2287,
-          "Title": "Birmania"
-        },
-        {
-          "ID": 7672,
-          "Title": "Piramida"
-        },
-        {
-          "ID": 13051,
-          "Title": "Parisi"
-        },
-        {
-          "ID": 17154,
-          "Title": "Venecia"
-        },
-        {
-          "ID": 80467,
-          "Title": "Njeriu"
-        },
-        {
-          "ID": 88045,
-          "Title": "Canberra"
-        },
-        {
-          "ID": 174105,
-          "Title": "Queensland"
-        },
-        {
-          "ID": 211595,
-          "Title": "Carlsbad, New Mexico"
-        },
-        {
-          "ID": 249678,
-          "Title": "Homo sapiens"
         }
       ]
     },
@@ -205,6 +177,10 @@
       "ID": 2147483639,
       "Title": "Health and fitness",
       "Categories": [
+        {
+          "ID": 70745,
+          "Title": "Kategoria:Anatomia e njeriut"
+        },
         {
           "ID": 12869,
           "Title": "Kategoria:Mjekësi"
@@ -224,34 +200,20 @@
       "Title": "History and events",
       "Categories": [
         {
-          "ID": 8989,
-          "Title": "Kategoria:Historia e shteteve"
-        },
-        {
           "ID": 20806,
           "Title": "Kategoria:Histori"
         },
         {
+          "ID": 8989,
+          "Title": "Kategoria:Historia e shteteve"
+        },
+        {
+          "ID": 20890,
+          "Title": "Kategoria:Luftëra"
+        },
+        {
           "ID": 25384,
           "Title": "Kategoria:Ngjarje"
-        },
-        {
-          "ID": 55289,
-          "Title": "Kategoria:Shkenca shoqërore"
-        }
-      ],
-      "Articles": [
-        {
-          "ID": 63014,
-          "Title": "Donald Tramp"
-        },
-        {
-          "ID": 81048,
-          "Title": "Lufta e Trojës"
-        },
-        {
-          "ID": 138874,
-          "Title": "Sulmet e 11 shtatorit"
         }
       ]
     },
@@ -260,18 +222,16 @@
       "Title": "Mathematics and logic",
       "Categories": [
         {
+          "ID": 117482,
+          "Title": "Kategoria:Logjikë"
+        },
+        {
           "ID": 7348,
           "Title": "Kategoria:Matematikë"
         },
         {
-          "ID": 117482,
-          "Title": "Kategoria:Logjikë"
-        }
-      ],
-      "Articles": [
-        {
-          "ID": 4293,
-          "Title": "Gjatësia"
+          "ID": 14719,
+          "Title": "Kategoria:Njësi matëse"
         }
       ]
     },
@@ -280,12 +240,40 @@
       "Title": "Nature and physical sciences",
       "Categories": [
         {
-          "ID": 2044,
-          "Title": "Kategoria:Shkencë"
+          "ID": 10617,
+          "Title": "Kategoria:Anatomi"
+        },
+        {
+          "ID": 12867,
+          "Title": "Kategoria:Bimë"
+        },
+        {
+          "ID": 154777,
+          "Title": "Kategoria:Bimë shtëpiake"
+        },
+        {
+          "ID": 42998,
+          "Title": "Kategoria:Ekologji"
+        },
+        {
+          "ID": 154667,
+          "Title": "Kategoria:Fauna sipas kontinentit"
         },
         {
           "ID": 12879,
           "Title": "Kategoria:Fizikë"
+        },
+        {
+          "ID": 38870,
+          "Title": "Kategoria:Fruta"
+        },
+        {
+          "ID": 219401,
+          "Title": "Kategoria:Jeta"
+        },
+        {
+          "ID": 16286,
+          "Title": "Kategoria:Kafshë"
         },
         {
           "ID": 20491,
@@ -296,114 +284,24 @@
           "Title": "Kategoria:Natyrë"
         },
         {
-          "ID": 22346,
-          "Title": "Kategoria:Zoologji"
+          "ID": 39494,
+          "Title": "Kategoria:Proteina"
         },
         {
           "ID": 55288,
           "Title": "Kategoria:Shkenca natyrore"
         },
         {
-          "ID": 154667,
-          "Title": "Kategoria:Fauna sipas kontinentit"
+          "ID": 2044,
+          "Title": "Kategoria:Shkencë"
         },
         {
-          "ID": 155204,
-          "Title": "Kategoria:Dituri"
-        }
-      ],
-      "Articles": [
-        {
-          "ID": 4262,
-          "Title": "Portokalli"
+          "ID": 18922,
+          "Title": "Kategoria:Toka"
         },
         {
-          "ID": 4265,
-          "Title": "Limoni"
-        },
-        {
-          "ID": 4762,
-          "Title": "Fragaria"
-        },
-        {
-          "ID": 4765,
-          "Title": "Dredhëza e malit"
-        },
-        {
-          "ID": 16535,
-          "Title": "Sistemi muskulor"
-        },
-        {
-          "ID": 20163,
-          "Title": "Zjarri"
-        },
-        {
-          "ID": 22358,
-          "Title": "Domatja"
-        },
-        {
-          "ID": 32904,
-          "Title": "Hidrologjia"
-        },
-        {
-          "ID": 55004,
-          "Title": "Orizi"
-        },
-        {
-          "ID": 55007,
-          "Title": "Gruri i zakonshëm"
-        },
-        {
-          "ID": 67548,
-          "Title": "Anakonda"
-        },
-        {
-          "ID": 73880,
-          "Title": "Deveja"
-        },
-        {
-          "ID": 102147,
-          "Title": "Misri"
-        },
-        {
-          "ID": 120960,
-          "Title": "Luleshtrydhja"
-        },
-        {
-          "ID": 129485,
-          "Title": "Kalendari maja"
-        },
-        {
-          "ID": 131441,
-          "Title": "Penisi"
-        },
-        {
-          "ID": 139247,
-          "Title": "Cikli i Ujit"
-        },
-        {
-          "ID": 182519,
-          "Title": "Masturbimi"
-        },
-        {
-          "ID": 239537,
-          "Title": "Gruri"
-        },
-        {
-          "ID": 246476,
-          "Title": "Tigri i bardhë"
-        },
-        {
-          "ID": 251524,
-          "Title": "Mace e madhe"
-        },
-        {
-          "ID": 253191,
-          "Title": "Muskujt"
-        },
-        {
-          "ID": 254017,
-          "Title": "Pantherinae"
+          "ID": 22346,
+          "Title": "Kategoria:Zoologji"
         }
       ]
     },
@@ -412,142 +310,84 @@
       "Title": "People and self",
       "Categories": [
         {
-          "ID": 20995,
-          "Title": "Kategoria:Persona"
+          "ID": 13331,
+          "Title": "Kategoria:Aktorë"
+        },
+        {
+          "ID": 194585,
+          "Title": "Kategoria:Alpinistë sipas vendeve"
+        },
+        {
+          "ID": 22416,
+          "Title": "Kategoria:Arkitektë"
+        },
+        {
+          "ID": 20997,
+          "Title": "Kategoria:Artistë"
+        },
+        {
+          "ID": 94756,
+          "Title": "Kategoria:Eksplorues"
+        },
+        {
+          "ID": 21010,
+          "Title": "Kategoria:Filozofë"
         },
         {
           "ID": 200622,
           "Title": "Kategoria:Gra"
         },
         {
+          "ID": 21004,
+          "Title": "Kategoria:Kryetarë"
+        },
+        {
+          "ID": 17766,
+          "Title": "Kategoria:Lindje sipas vitit"
+        },
+        {
+          "ID": 21048,
+          "Title": "Kategoria:Matematikanë"
+        },
+        {
           "ID": 204221,
           "Title": "Kategoria:Mbiemra"
         },
         {
-          "ID": 219401,
-          "Title": "Kategoria:Jeta"
-        }
-      ],
-      "Articles": [
-        {
-          "ID": 3543,
-          "Title": "Bill Gates"
+          "ID": 20765,
+          "Title": "Kategoria:Mjekë"
         },
         {
-          "ID": 5745,
-          "Title": "Johannes Kepler"
+          "ID": 28228,
+          "Title": "Kategoria:Muzikantë"
         },
         {
-          "ID": 7526,
-          "Title": "Adolf Hitler"
+          "ID": 179860,
+          "Title": "Kategoria:Njerëz që jetojnë"
         },
         {
-          "ID": 7626,
-          "Title": "Srinivasa Ramanujan"
+          "ID": 200641,
+          "Title": "Kategoria:Njerëz sipas profesionit"
         },
         {
-          "ID": 12655,
-          "Title": "Sigmund Freud"
+          "ID": 20995,
+          "Title": "Kategoria:Persona"
         },
         {
-          "ID": 15811,
-          "Title": "Tomas Akuinas"
+          "ID": 15461,
+          "Title": "Kategoria:Personazhe fiktive"
         },
         {
-          "ID": 16671,
-          "Title": "Galileo Galilei"
+          "ID": 21003,
+          "Title": "Kategoria:Politikanë"
         },
         {
-          "ID": 17310,
-          "Title": "Carl Friedrich Gauss"
+          "ID": 21007,
+          "Title": "Kategoria:Shkrimtarë"
         },
         {
-          "ID": 19941,
-          "Title": "Richard Wagner"
-        },
-        {
-          "ID": 23059,
-          "Title": "Kristofor Kolombi"
-        },
-        {
-          "ID": 43449,
-          "Title": "George Harrison"
-        },
-        {
-          "ID": 45775,
-          "Title": "Adam Smith"
-        },
-        {
-          "ID": 52258,
-          "Title": "Alan Turing"
-        },
-        {
-          "ID": 71521,
-          "Title": "René Descartes"
-        },
-        {
-          "ID": 76705,
-          "Title": "Joseph Smith"
-        },
-        {
-          "ID": 77476,
-          "Title": "Richard Dawkins"
-        },
-        {
-          "ID": 77759,
-          "Title": "Daniel Radcliffe"
-        },
-        {
-          "ID": 82417,
-          "Title": "Muzgu (roman)"
-        },
-        {
-          "ID": 83094,
-          "Title": "John Lennon"
-        },
-        {
-          "ID": 91145,
-          "Title": "Stefan Lohner"
-        },
-        {
-          "ID": 106398,
-          "Title": "Noam Chomsky"
-        },
-        {
-          "ID": 121070,
-          "Title": "Anders Behring Breivik"
-        },
-        {
-          "ID": 148545,
-          "Title": "Charles Babbage"
-        },
-        {
-          "ID": 150787,
-          "Title": "William Blake"
-        },
-        {
-          "ID": 153595,
-          "Title": "Ayn Rand"
-        },
-        {
-          "ID": 156081,
-          "Title": "Oliver Cromwell"
-        },
-        {
-          "ID": 166589,
-          "Title": "Carl Sagan"
-        },
-        {
-          "ID": 167164,
-          "Title": "The Big Bang Theory"
-        },
-        {
-          "ID": 212724,
-          "Title": "Fibonacci"
-        },
-        {
-          "ID": 229544,
-          "Title": "Bob Ross"
+          "ID": 17767,
+          "Title": "Kategoria:Vdekje sipas shekullit"
         }
       ]
     },
@@ -555,6 +395,10 @@
       "ID": 2147483644,
       "Title": "Philosophy and thinking",
       "Categories": [
+        {
+          "ID": 31459,
+          "Title": "Kategoria:Etikë"
+        },
         {
           "ID": 20777,
           "Title": "Kategoria:Filozofi"
@@ -564,30 +408,16 @@
           "Title": "Kategoria:Ideologji"
         },
         {
-          "ID": 31459,
-          "Title": "Kategoria:Etikë"
+          "ID": 165014,
+          "Title": "Kategoria:Koncepte filozofike"
+        },
+        {
+          "ID": 25499,
+          "Title": "Kategoria:Metafizikë"
         },
         {
           "ID": 227065,
           "Title": "Kategoria:Teori filozofike"
-        }
-      ],
-      "Articles": [
-        {
-          "ID": 22543,
-          "Title": "Besimi"
-        },
-        {
-          "ID": 24030,
-          "Title": "Lumturia"
-        },
-        {
-          "ID": 50087,
-          "Title": "Estetika e trupit"
-        },
-        {
-          "ID": 188594,
-          "Title": "Gaslighting"
         }
       ]
     },
@@ -596,28 +426,24 @@
       "Title": "Religion and belief systems",
       "Categories": [
         {
+          "ID": 87572,
+          "Title": "Kategoria:Besime fetare"
+        },
+        {
           "ID": 7819,
           "Title": "Kategoria:Fe"
         },
         {
-          "ID": 21126,
-          "Title": "Kategoria:Teologji"
-        },
-        {
-          "ID": 87572,
-          "Title": "Kategoria:Besime fetare"
+          "ID": 227066,
+          "Title": "Kategoria:Fe indiane"
         },
         {
           "ID": 139658,
           "Title": "Kategoria:Kritikë të religjionit"
         },
         {
-          "ID": 145378,
-          "Title": "Kategoria:Shekullarizëm"
-        },
-        {
-          "ID": 227066,
-          "Title": "Kategoria:Fe indiane"
+          "ID": 21126,
+          "Title": "Kategoria:Teologji"
         }
       ]
     },
@@ -626,146 +452,56 @@
       "Title": "Society and social sciences",
       "Categories": [
         {
-          "ID": 9351,
-          "Title": "Kategoria:Shoqëri"
-        },
-        {
-          "ID": 20909,
-          "Title": "Kategoria:Organizata ndërkombëtare"
-        },
-        {
           "ID": 21583,
           "Title": "Kategoria:Drejtësi"
-        },
-        {
-          "ID": 55289,
-          "Title": "Kategoria:Shkenca shoqërore"
         },
         {
           "ID": 170805,
           "Title": "Kategoria:Feminizmi"
         },
         {
+          "ID": 25696,
+          "Title": "Kategoria:Financë"
+        },
+        {
+          "ID": 178041,
+          "Title": "Kategoria:Flamuj kombëtarë"
+        },
+        {
+          "ID": 154857,
+          "Title": "Kategoria:Gjeopolitikë"
+        },
+        {
+          "ID": 8174,
+          "Title": "Kategoria:Kompani"
+        },
+        {
+          "ID": 190304,
+          "Title": "Kategoria:Kompani ajrore"
+        },
+        {
+          "ID": 20983,
+          "Title": "Kategoria:Organizata"
+        },
+        {
+          "ID": 20909,
+          "Title": "Kategoria:Organizata ndërkombëtare"
+        },
+        {
+          "ID": 13318,
+          "Title": "Kategoria:Psikologji"
+        },
+        {
+          "ID": 55289,
+          "Title": "Kategoria:Shkenca shoqërore"
+        },
+        {
           "ID": 219362,
           "Title": "Kategoria:Shkencat humane"
-        }
-      ],
-      "Articles": [
-        {
-          "ID": 2274,
-          "Title": "Barbadosi"
         },
         {
-          "ID": 2714,
-          "Title": "Kili"
-        },
-        {
-          "ID": 2731,
-          "Title": "Irani"
-        },
-        {
-          "ID": 3547,
-          "Title": "Bashkimi Evropian"
-        },
-        {
-          "ID": 16374,
-          "Title": "The New York Times"
-        },
-        {
-          "ID": 38071,
-          "Title": "Universiteti i Vjenës"
-        },
-        {
-          "ID": 44677,
-          "Title": "Nëpunës i shërbimeve sociale"
-        },
-        {
-          "ID": 69359,
-          "Title": "Universiteti i Pensilvanisë"
-        },
-        {
-          "ID": 72942,
-          "Title": "Harvard University"
-        },
-        {
-          "ID": 72943,
-          "Title": "Universiteti Princeton"
-        },
-        {
-          "ID": 85905,
-          "Title": "Universiteti i Kolumbias"
-        },
-        {
-          "ID": 86034,
-          "Title": "Massachusetts Institute of Technology"
-        },
-        {
-          "ID": 91536,
-          "Title": "Universiteti i Oksfordit"
-        },
-        {
-          "ID": 91868,
-          "Title": "Universiteti i Kembrixhit"
-        },
-        {
-          "ID": 106788,
-          "Title": "Universiteti i Bolonjës"
-        },
-        {
-          "ID": 138633,
-          "Title": "Universiteti i Tybingenit"
-        },
-        {
-          "ID": 150716,
-          "Title": "Universiteti Umeå"
-        },
-        {
-          "ID": 167104,
-          "Title": "Universiteti Stanford"
-        },
-        {
-          "ID": 180223,
-          "Title": "Universiteti i Glasgout"
-        },
-        {
-          "ID": 180313,
-          "Title": "Universiteti i Shën Andreut"
-        },
-        {
-          "ID": 180924,
-          "Title": "Universiteti i Aberdinit"
-        },
-        {
-          "ID": 183101,
-          "Title": "Universiteti i Parisit"
-        },
-        {
-          "ID": 183931,
-          "Title": "Universiteti Tsinghua"
-        },
-        {
-          "ID": 189053,
-          "Title": "Universiteti në Uppsala"
-        },
-        {
-          "ID": 191208,
-          "Title": "Universiteti Shtetëror i Shën Petersburgut"
-        },
-        {
-          "ID": 195678,
-          "Title": "Universiteti i Çikagos"
-        },
-        {
-          "ID": 202254,
-          "Title": "Universiteti i Lajpcigut"
-        },
-        {
-          "ID": 213763,
-          "Title": "Universiteti Hebraik i Jeruzalemit"
-        },
-        {
-          "ID": 243807,
-          "Title": "Universiteti Shtetëror i Moskës"
+          "ID": 9351,
+          "Title": "Kategoria:Shoqëri"
         }
       ]
     },
@@ -774,78 +510,92 @@
       "Title": "Technology and applied sciences",
       "Categories": [
         {
-          "ID": 5990,
-          "Title": "Kategoria:Teknologji"
-        },
-        {
-          "ID": 7251,
-          "Title": "Kategoria:Internet"
-        },
-        {
-          "ID": 7347,
-          "Title": "Kategoria:Informatikë"
-        },
-        {
-          "ID": 16591,
-          "Title": "Kategoria:Teknikë"
-        },
-        {
-          "ID": 17245,
-          "Title": "Kategoria:Kompjuter"
-        },
-        {
-          "ID": 20987,
-          "Title": "Kategoria:Transporte"
-        },
-        {
-          "ID": 31456,
-          "Title": "Kategoria:Elektronikë"
-        },
-        {
           "ID": 83937,
           "Title": "Kategoria:Database"
-        },
-        {
-          "ID": 96460,
-          "Title": "Kategoria:Inxhinieri"
         },
         {
           "ID": 111087,
           "Title": "Kategoria:Dizajn"
         },
         {
+          "ID": 31456,
+          "Title": "Kategoria:Elektronikë"
+        },
+        {
+          "ID": 7347,
+          "Title": "Kategoria:Informatikë"
+        },
+        {
+          "ID": 7251,
+          "Title": "Kategoria:Internet"
+        },
+        {
+          "ID": 96460,
+          "Title": "Kategoria:Inxhinieri"
+        },
+        {
+          "ID": 17245,
+          "Title": "Kategoria:Kompjuter"
+        },
+        {
+          "ID": 184101,
+          "Title": "Kategoria:Makina"
+        },
+        {
+          "ID": 18259,
+          "Title": "Kategoria:Ndërtimtari"
+        },
+        {
+          "ID": 20281,
+          "Title": "Kategoria:Normim"
+        },
+        {
+          "ID": 62936,
+          "Title": "Kategoria:Programe kompjuterike"
+        },
+        {
+          "ID": 70791,
+          "Title": "Kategoria:Programimi kompjuterik"
+        },
+        {
+          "ID": 16591,
+          "Title": "Kategoria:Teknikë"
+        },
+        {
+          "ID": 5990,
+          "Title": "Kategoria:Teknologji"
+        },
+        {
           "ID": 168280,
           "Title": "Kategoria:Teknologji sipas llojit"
-        }
-      ],
-      "Articles": [
-        {
-          "ID": 3093,
-          "Title": "Kodi i internetit TLD"
         },
         {
-          "ID": 6377,
-          "Title": "Çamçakëzi"
+          "ID": 168769,
+          "Title": "Kategoria:Teknologjia e informacionit"
         },
         {
-          "ID": 35890,
-          "Title": "Pepsi"
+          "ID": 20987,
+          "Title": "Kategoria:Transporte"
         },
         {
-          "ID": 147062,
-          "Title": "Saldimi"
+          "ID": 31453,
+          "Title": "Kategoria:Vegla"
+        },
+        {
+          "ID": 257875,
+          "Title": "Kategoria:Vegla dore"
         }
       ]
     }
   ],
   "Filters": [
     {
-      "ID": 3109,
-      "Title": "Kategoria:Kthjellime"
-    },
-    {
       "ID": 184468,
       "Title": "Kategoria:Kategori të fshehura"
+    },
+    {
+      "ID": 3109,
+      "Title": "Kategoria:Kthjellime"
     }
   ]
 }

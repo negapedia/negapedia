@@ -6,646 +6,320 @@
       "Title": "Culture and the arts",
       "Categories": [
         {
-          "ID": 14826,
-          "Title": "Categoria:Bandas"
-        },
-        {
-          "ID": 14871,
-          "Title": "Categoria:Arte"
-        },
-        {
-          "ID": 14992,
-          "Title": "Categoria:Filmes"
-        },
-        {
-          "ID": 15294,
-          "Title": "Categoria:Cultura"
-        },
-        {
-          "ID": 22516,
-          "Title": "Categoria:Escrita"
-        },
-        {
-          "ID": 23552,
-          "Title": "Categoria:Cores"
-        },
-        {
-          "ID": 23932,
-          "Title": "Categoria:Passatempos"
+          "ID": 41629,
+          "Title": "Categoria:Alimentação"
         },
         {
           "ID": 38005,
           "Title": "Categoria:Alimentos"
         },
         {
-          "ID": 40393,
-          "Title": "Categoria:Nutrição"
+          "ID": 14871,
+          "Title": "Categoria:Arte"
         },
         {
-          "ID": 41629,
-          "Title": "Categoria:Alimentação"
+          "ID": 15293,
+          "Title": "Categoria:Artes cénicas"
         },
         {
-          "ID": 69904,
-          "Title": "Categoria:Entretenimento"
+          "ID": 18776,
+          "Title": "Categoria:Artes marciais"
         },
         {
-          "ID": 77932,
-          "Title": "Categoria:Grupos musicais"
+          "ID": 14826,
+          "Title": "Categoria:Bandas"
         },
         {
-          "ID": 168031,
-          "Title": "Categoria:Técnicas culinárias"
+          "ID": 2121388,
+          "Title": "Categoria:Biografias"
         },
         {
-          "ID": 283772,
-          "Title": "Categoria:Lazer"
+          "ID": 147532,
+          "Title": "Categoria:Bruxaria"
         },
         {
-          "ID": 481283,
-          "Title": "Categoria:Gastronomia"
+          "ID": 1562370,
+          "Title": "Categoria:Competições"
         },
         {
-          "ID": 620175,
-          "Title": "Categoria:Recreação"
+          "ID": 862232,
+          "Title": "Categoria:Composições musicais"
         },
         {
-          "ID": 1040835,
-          "Title": "Categoria:Exercício"
+          "ID": 1122892,
+          "Title": "Categoria:Comunidades virtuais"
         },
         {
-          "ID": 1937695,
-          "Title": "Categoria:Desportos"
+          "ID": 1403244,
+          "Title": "Categoria:Conhecimento"
         },
         {
-          "ID": 2220654,
-          "Title": "Categoria:Espetáculos"
+          "ID": 2587611,
+          "Title": "Categoria:Convenções culturais"
         },
         {
           "ID": 2346671,
           "Title": "Categoria:Cor"
         },
         {
+          "ID": 23552,
+          "Title": "Categoria:Cores"
+        },
+        {
+          "ID": 15294,
+          "Title": "Categoria:Cultura"
+        },
+        {
+          "ID": 2445157,
+          "Title": "Categoria:Cultura da Internet"
+        },
+        {
+          "ID": 44468,
+          "Title": "Categoria:Cultura popular"
+        },
+        {
+          "ID": 93682,
+          "Title": "Categoria:Cultura por país"
+        },
+        {
+          "ID": 2660366,
+          "Title": "Categoria:Culturas"
+        },
+        {
+          "ID": 1937695,
+          "Title": "Categoria:Desportos"
+        },
+        {
           "ID": 2994030,
           "Title": "Categoria:Desportos por tipo"
         },
         {
+          "ID": 15847,
+          "Title": "Categoria:Educação"
+        },
+        {
+          "ID": 38587,
+          "Title": "Categoria:Enciclopédias"
+        },
+        {
+          "ID": 168812,
+          "Title": "Categoria:Ensino"
+        },
+        {
+          "ID": 69904,
+          "Title": "Categoria:Entretenimento"
+        },
+        {
+          "ID": 22516,
+          "Title": "Categoria:Escrita"
+        },
+        {
+          "ID": 2220654,
+          "Title": "Categoria:Espetáculos"
+        },
+        {
+          "ID": 1248993,
+          "Title": "Categoria:Espécies fictícias"
+        },
+        {
+          "ID": 115618,
+          "Title": "Categoria:Estações de rádio"
+        },
+        {
+          "ID": 2421121,
+          "Title": "Categoria:Estilos musicais"
+        },
+        {
+          "ID": 1040835,
+          "Title": "Categoria:Exercício"
+        },
+        {
+          "ID": 571969,
+          "Title": "Categoria:Festivais"
+        },
+        {
+          "ID": 103486,
+          "Title": "Categoria:Ficção"
+        },
+        {
+          "ID": 14992,
+          "Title": "Categoria:Filmes"
+        },
+        {
+          "ID": 20008,
+          "Title": "Categoria:Folclore"
+        },
+        {
+          "ID": 2597495,
+          "Title": "Categoria:Fontes"
+        },
+        {
+          "ID": 181366,
+          "Title": "Categoria:Formas musicais"
+        },
+        {
+          "ID": 481283,
+          "Title": "Categoria:Gastronomia"
+        },
+        {
+          "ID": 2026300,
+          "Title": "Categoria:Gastronomia natalina"
+        },
+        {
+          "ID": 77932,
+          "Title": "Categoria:Grupos musicais"
+        },
+        {
+          "ID": 184148,
+          "Title": "Categoria:Gênero"
+        },
+        {
+          "ID": 939312,
+          "Title": "Categoria:Gêneros musicais"
+        },
+        {
+          "ID": 77807,
+          "Title": "Categoria:Ilusionismo"
+        },
+        {
+          "ID": 15935,
+          "Title": "Categoria:Imprensa"
+        },
+        {
+          "ID": 54844,
+          "Title": "Categoria:Jogos de tabuleiro"
+        },
+        {
+          "ID": 157414,
+          "Title": "Categoria:Jogos eletrônicos"
+        },
+        {
+          "ID": 40103,
+          "Title": "Categoria:Jornais"
+        },
+        {
+          "ID": 283772,
+          "Title": "Categoria:Lazer"
+        },
+        {
+          "ID": 75844,
+          "Title": "Categoria:Lendas"
+        },
+        {
+          "ID": 15629,
+          "Title": "Categoria:Literatura"
+        },
+        {
+          "ID": 15084,
+          "Title": "Categoria:Livros"
+        },
+        {
+          "ID": 139585,
+          "Title": "Categoria:Livros por autor"
+        },
+        {
+          "ID": 51677,
+          "Title": "Categoria:Lugares fictícios"
+        },
+        {
+          "ID": 3854656,
+          "Title": "Categoria:Luta"
+        },
+        {
+          "ID": 3859507,
+          "Title": "Categoria:Luta profissional"
+        },
+        {
+          "ID": 544696,
+          "Title": "Categoria:Magia"
+        },
+        {
+          "ID": 15075,
+          "Title": "Categoria:Música"
+        },
+        {
+          "ID": 4424387,
+          "Title": "Categoria:Música por género"
+        },
+        {
+          "ID": 40393,
+          "Title": "Categoria:Nutrição"
+        },
+        {
+          "ID": 5757875,
+          "Title": "Categoria:Obras biográficas"
+        },
+        {
+          "ID": 1313243,
+          "Title": "Categoria:Obras de referência"
+        },
+        {
+          "ID": 3278855,
+          "Title": "Categoria:Obras literárias por autor"
+        },
+        {
+          "ID": 23932,
+          "Title": "Categoria:Passatempos"
+        },
+        {
+          "ID": 3424845,
+          "Title": "Categoria:Periódicos"
+        },
+        {
+          "ID": 28708,
+          "Title": "Categoria:Pinturas"
+        },
+        {
           "ID": 4142065,
           "Title": "Categoria:Pratos por ingrediente principal"
-        }
-      ],
-      "Articles": [
-        {
-          "ID": 573,
-          "Title": "Cerveja"
-        },
-        {
-          "ID": 751,
-          "Title": "Enciclopédia"
-        },
-        {
-          "ID": 9069,
-          "Title": "Chocolate"
-        },
-        {
-          "ID": 14713,
-          "Title": "Ovo"
-        },
-        {
-          "ID": 19207,
-          "Title": "Realismo"
-        },
-        {
-          "ID": 23796,
-          "Title": "Pizza"
-        },
-        {
-          "ID": 26330,
-          "Title": "Bolo"
-        },
-        {
-          "ID": 30057,
-          "Title": "Led Zeppelin"
-        },
-        {
-          "ID": 43621,
-          "Title": "Porco doméstico"
-        },
-        {
-          "ID": 46571,
-          "Title": "Pão"
-        },
-        {
-          "ID": 47222,
-          "Title": "Green Day"
-        },
-        {
-          "ID": 48969,
-          "Title": "Fantasma"
-        },
-        {
-          "ID": 51471,
-          "Title": "Monstro do lago Ness"
-        },
-        {
-          "ID": 55022,
-          "Title": "AC/DC"
-        },
-        {
-          "ID": 55791,
-          "Title": "Sus"
-        },
-        {
-          "ID": 58335,
-          "Title": "Realidade"
-        },
-        {
-          "ID": 61528,
-          "Title": "Mordred"
-        },
-        {
-          "ID": 70406,
-          "Title": "Escola de Magia e Bruxaria de Hogwarts"
-        },
-        {
-          "ID": 71634,
-          "Title": "Culinária da França"
-        },
-        {
-          "ID": 75054,
-          "Title": "Palácio de Buckingham"
-        },
-        {
-          "ID": 82957,
-          "Title": "Bolacha"
-        },
-        {
-          "ID": 82975,
-          "Title": "The World Factbook"
-        },
-        {
-          "ID": 91449,
-          "Title": "Café"
-        },
-        {
-          "ID": 92212,
-          "Title": "Sgt. Pepper's Lonely Hearts Club Band"
-        },
-        {
-          "ID": 102942,
-          "Title": "Coffea arabica"
-        },
-        {
-          "ID": 110540,
-          "Title": "M\u0026M's"
-        },
-        {
-          "ID": 111877,
-          "Title": "Molho"
-        },
-        {
-          "ID": 116146,
-          "Title": "Javali"
-        },
-        {
-          "ID": 122385,
-          "Title": "Trenó"
-        },
-        {
-          "ID": 124469,
-          "Title": "Felação"
-        },
-        {
-          "ID": 135332,
-          "Title": "Dia da Marmota"
-        },
-        {
-          "ID": 139972,
-          "Title": "Pão ázimo"
-        },
-        {
-          "ID": 151055,
-          "Title": "Pé-grande"
-        },
-        {
-          "ID": 157655,
-          "Title": "Ash Ketchum"
-        },
-        {
-          "ID": 158575,
-          "Title": "Sexo oral"
-        },
-        {
-          "ID": 159922,
-          "Title": "Massa alimentícia"
-        },
-        {
-          "ID": 159956,
-          "Title": "Cafeeiro"
-        },
-        {
-          "ID": 172562,
-          "Title": "Presunto"
-        },
-        {
-          "ID": 188795,
-          "Title": "Castidade"
-        },
-        {
-          "ID": 191227,
-          "Title": "Pão de ló"
-        },
-        {
-          "ID": 197247,
-          "Title": "Pitepalt"
-        },
-        {
-          "ID": 211092,
-          "Title": "Celibato"
-        },
-        {
-          "ID": 217691,
-          "Title": "Biscoito"
-        },
-        {
-          "ID": 220605,
-          "Title": "Sorvete"
-        },
-        {
-          "ID": 224308,
-          "Title": "Criaturas em Harry Potter"
-        },
-        {
-          "ID": 237319,
-          "Title": "Banda musical"
-        },
-        {
-          "ID": 239076,
-          "Title": "Pinus cembroides"
-        },
-        {
-          "ID": 256910,
-          "Title": "Bolo de rolo"
-        },
-        {
-          "ID": 280251,
-          "Title": "Dança de rua"
-        },
-        {
-          "ID": 323590,
-          "Title": "Molho de tomate"
-        },
-        {
-          "ID": 334012,
-          "Title": "Taco (culinária)"
-        },
-        {
-          "ID": 336917,
-          "Title": "Chope"
-        },
-        {
-          "ID": 342102,
-          "Title": "Bolovo"
-        },
-        {
-          "ID": 349691,
-          "Title": "Ginger ale"
-        },
-        {
-          "ID": 385094,
-          "Title": "Pintura do realismo"
-        },
-        {
-          "ID": 393179,
-          "Title": "WWE Championship"
-        },
-        {
-          "ID": 406197,
-          "Title": "Toucinho"
-        },
-        {
-          "ID": 418537,
-          "Title": "Cachorro-quente"
-        },
-        {
-          "ID": 455532,
-          "Title": "Pão de forma"
-        },
-        {
-          "ID": 546873,
-          "Title": "Manteiga de amendoim"
-        },
-        {
-          "ID": 555089,
-          "Title": "Dinosaur Jr."
-        },
-        {
-          "ID": 1168327,
-          "Title": "Rock Band (jogo eletrônico)"
-        },
-        {
-          "ID": 1245339,
-          "Title": "Chocolate branco"
-        },
-        {
-          "ID": 1247201,
-          "Title": "Aqua (banda)"
-        },
-        {
-          "ID": 1326076,
-          "Title": "Obra de referência"
-        },
-        {
-          "ID": 1384029,
-          "Title": "Carbonara"
-        },
-        {
-          "ID": 1439632,
-          "Title": "Ovo centenário"
-        },
-        {
-          "ID": 1469172,
-          "Title": "Regionalismo (política)"
-        },
-        {
-          "ID": 1598424,
-          "Title": "Leite achocolatado"
-        },
-        {
-          "ID": 1755911,
-          "Title": "Pecorino"
-        },
-        {
-          "ID": 1767699,
-          "Title": "Curau"
-        },
-        {
-          "ID": 1849313,
-          "Title": "Wikipédia em asturiano"
-        },
-        {
-          "ID": 2012455,
-          "Title": "Carne de porco"
-        },
-        {
-          "ID": 2100000,
-          "Title": "Band (desambiguação)"
-        },
-        {
-          "ID": 2204452,
-          "Title": "Bolo de arroz"
-        },
-        {
-          "ID": 2284218,
-          "Title": "Chocolate quente"
-        },
-        {
-          "ID": 2285492,
-          "Title": "Rock Band"
-        },
-        {
-          "ID": 2301077,
-          "Title": "Pasta con le sarde"
-        },
-        {
-          "ID": 2374976,
-          "Title": "Torta"
-        },
-        {
-          "ID": 2527758,
-          "Title": "Chocolate amargo"
-        },
-        {
-          "ID": 2536494,
-          "Title": "Yūrei"
-        },
-        {
-          "ID": 2761493,
-          "Title": "Barra de chocolate"
-        },
-        {
-          "ID": 2915434,
-          "Title": "Sucker Punch - Mundo Surreal"
-        },
-        {
-          "ID": 3061255,
-          "Title": "Enchente do Nilo"
-        },
-        {
-          "ID": 3181510,
-          "Title": "Judas (canção de Lady Gaga)"
-        },
-        {
-          "ID": 3218114,
-          "Title": "Realismo filosófico"
-        },
-        {
-          "ID": 3250993,
-          "Title": "Cacau"
-        },
-        {
-          "ID": 3274866,
-          "Title": "Wikipédia"
-        },
-        {
-          "ID": 3288305,
-          "Title": "Gotas de chocolate"
-        },
-        {
-          "ID": 3323201,
-          "Title": "Enthiran"
-        },
-        {
-          "ID": 3330005,
-          "Title": "Leglock"
-        },
-        {
-          "ID": 3395629,
-          "Title": "Wikipédia em galês"
-        },
-        {
-          "ID": 3459193,
-          "Title": "The Wanted"
-        },
-        {
-          "ID": 3601143,
-          "Title": "Cultura da América do Sul"
-        },
-        {
-          "ID": 3626461,
-          "Title": "Licor de cacau"
-        },
-        {
-          "ID": 3708786,
-          "Title": "Ovo cozido"
-        },
-        {
-          "ID": 3774031,
-          "Title": "Ovo estrelado"
-        },
-        {
-          "ID": 3907361,
-          "Title": "Angry Birds Seasons"
-        },
-        {
-          "ID": 3907364,
-          "Title": "Angry Birds Rio"
-        },
-        {
-          "ID": 4010620,
-          "Title": "Pastırma"
-        },
-        {
-          "ID": 4043466,
-          "Title": "Roti (pão)"
-        },
-        {
-          "ID": 4086319,
-          "Title": "Wikipédia em mirandês"
-        },
-        {
-          "ID": 4089058,
-          "Title": "Massa lêveda"
-        },
-        {
-          "ID": 4090019,
-          "Title": "Timpano"
-        },
-        {
-          "ID": 4104126,
-          "Title": "Sopa de tomate"
-        },
-        {
-          "ID": 4125613,
-          "Title": "Pasta e fagioli"
-        },
-        {
-          "ID": 4165443,
-          "Title": "Lista de lugares da série Harry Potter"
-        },
-        {
-          "ID": 4166962,
-          "Title": "Angry Birds (jogo eletrónico)"
-        },
-        {
-          "ID": 4243257,
-          "Title": "Recheio"
-        },
-        {
-          "ID": 4245933,
-          "Title": "Ovo (alimento)"
-        },
-        {
-          "ID": 4275019,
-          "Title": "Fatback"
-        },
-        {
-          "ID": 4276663,
-          "Title": "Salo"
-        },
-        {
-          "ID": 4303384,
-          "Title": "Flappy Bird"
-        },
-        {
-          "ID": 4354264,
-          "Title": "Molho espanhol"
-        },
-        {
-          "ID": 4572439,
-          "Title": "Cerveja Pilsen"
-        },
-        {
-          "ID": 4607864,
-          "Title": "Quem Dá Mais?"
-        },
-        {
-          "ID": 4724884,
-          "Title": "Floyd Mayweather Jr. x Manny Pacquiao"
-        },
-        {
-          "ID": 4889823,
-          "Title": "English Pale Ale"
-        },
-        {
-          "ID": 4981726,
-          "Title": "War Room"
-        },
-        {
-          "ID": 5008552,
-          "Title": "Chocolate belga"
-        },
-        {
-          "ID": 5070829,
-          "Title": "Realismo (desambiguação)"
-        },
-        {
-          "ID": 5085469,
-          "Title": "Festival Eurovisão da Canção 2017"
-        },
-        {
-          "ID": 5110046,
-          "Title": "Pré-fermento"
-        },
-        {
-          "ID": 5134627,
-          "Title": "Kick (2014)"
-        },
-        {
-          "ID": 5204461,
-          "Title": "Bejeweled 2"
-        },
-        {
-          "ID": 5310571,
-          "Title": "Barros Luco"
         },
         {
-          "ID": 5316968,
-          "Title": "Festival Eurovisão da Canção 2018"
+          "ID": 4557735,
+          "Title": "Categoria:Práticas sexuais"
         },
         {
-          "ID": 5318428,
-          "Title": "Bière de Garde"
+          "ID": 620175,
+          "Title": "Categoria:Recreação"
         },
         {
-          "ID": 5321826,
-          "Title": "Mild ale"
+          "ID": 40104,
+          "Title": "Categoria:Revistas"
         },
         {
-          "ID": 5467829,
-          "Title": "Sanduíche de bacon"
+          "ID": 118803,
+          "Title": "Categoria:Revistas semanais de informação"
         },
         {
-          "ID": 5484178,
-          "Title": "Frango tikka masala"
+          "ID": 2009545,
+          "Title": "Categoria:Secularismo"
         },
         {
-          "ID": 5525946,
-          "Title": "Regionalismo"
+          "ID": 26609,
+          "Title": "Categoria:Sexo"
         },
         {
-          "ID": 5582547,
-          "Title": "Nam ngiao"
+          "ID": 43904,
+          "Title": "Categoria:Sexualidade"
         },
         {
-          "ID": 5585263,
-          "Title": "Conpoy"
+          "ID": 158835,
+          "Title": "Categoria:Sexualidade humana"
         },
         {
-          "ID": 5706842,
-          "Title": "Bolo de casamento"
+          "ID": 29480,
+          "Title": "Categoria:Televisão"
         },
         {
-          "ID": 5761093,
-          "Title": "Gelato"
+          "ID": 2006829,
+          "Title": "Categoria:Trabalhos criativos por pessoa"
         },
         {
-          "ID": 5846355,
-          "Title": "Baicoli"
+          "ID": 168031,
+          "Title": "Categoria:Técnicas culinárias"
         },
         {
-          "ID": 5900984,
-          "Title": "Bissara"
+          "ID": 469929,
+          "Title": "Categoria:Vida pessoal"
         }
       ]
     },
@@ -654,74 +328,88 @@
       "Title": "Geography and places",
       "Categories": [
         {
+          "ID": 2050052,
+          "Title": "Categoria:Assentamentos"
+        },
+        {
+          "ID": 2663761,
+          "Title": "Categoria:Cidade"
+        },
+        {
+          "ID": 14146,
+          "Title": "Categoria:Cidades"
+        },
+        {
+          "ID": 5581392,
+          "Title": "Categoria:Desenho urbano"
+        },
+        {
+          "ID": 3077104,
+          "Title": "Categoria:Estado"
+        },
+        {
+          "ID": 538413,
+          "Title": "Categoria:Estradas"
+        },
+        {
           "ID": 14746,
           "Title": "Categoria:Geografia"
-        },
-        {
-          "ID": 21640,
-          "Title": "Categoria:Monumentos"
-        },
-        {
-          "ID": 54320,
-          "Title": "Categoria:Urbanismo"
-        },
-        {
-          "ID": 66405,
-          "Title": "Categoria:Listas de geografia"
         },
         {
           "ID": 541014,
           "Title": "Categoria:Geomorfologia"
         },
         {
+          "ID": 66405,
+          "Title": "Categoria:Listas de geografia"
+        },
+        {
+          "ID": 1028082,
+          "Title": "Categoria:Localidades por país"
+        },
+        {
           "ID": 736691,
           "Title": "Categoria:Lugares"
         },
         {
-          "ID": 5581392,
-          "Title": "Categoria:Desenho urbano"
-        }
-      ],
-      "Articles": [
-        {
-          "ID": 309,
-          "Title": "Austrália"
+          "ID": 21640,
+          "Title": "Categoria:Monumentos"
         },
         {
-          "ID": 1556,
-          "Title": "Paris"
+          "ID": 3339283,
+          "Title": "Categoria:Nascentes"
         },
         {
-          "ID": 3934,
-          "Title": "Myanmar"
+          "ID": 37716,
+          "Title": "Categoria:Palácios"
         },
         {
-          "ID": 5335,
-          "Title": "Humano"
+          "ID": 55018,
+          "Title": "Categoria:Países"
         },
         {
-          "ID": 29933,
-          "Title": "Veneza"
+          "ID": 2218176,
+          "Title": "Categoria:Residências reais"
         },
         {
-          "ID": 41002,
-          "Title": "Camberra"
+          "ID": 15249,
+          "Title": "Categoria:Rios"
         },
         {
-          "ID": 69676,
-          "Title": "Queensland"
+          "ID": 640358,
+          "Title": "Categoria:Ruas e avenidas"
         },
         {
-          "ID": 874568,
-          "Title": "Carlsbad (Novo México)"
+          "ID": 91435,
+          "Title": "Categoria:Territórios"
         },
         {
-          "ID": 2235336,
-          "Title": "Pirâmide (arquitetura)"
+          "ID": 54320,
+          "Title": "Categoria:Urbanismo"
         },
         {
-          "ID": 2679238,
-          "Title": "Aberfoyle"
+          "ID": 2164908,
+          "Title": "Categoria:Vilas"
         }
       ]
     },
@@ -730,12 +418,12 @@
       "Title": "Health and fitness",
       "Categories": [
         {
-          "ID": 15055,
-          "Title": "Categoria:Medicina"
+          "ID": 399264,
+          "Title": "Categoria:Anatomia humana"
         },
         {
-          "ID": 43114,
-          "Title": "Categoria:Saúde"
+          "ID": 4437946,
+          "Title": "Categoria:Assistência médica"
         },
         {
           "ID": 44462,
@@ -746,6 +434,10 @@
           "Title": "Categoria:Doenças e desordens genéticas"
         },
         {
+          "ID": 1092992,
+          "Title": "Categoria:Enfermagem"
+        },
+        {
           "ID": 112504,
           "Title": "Categoria:Especialidades médicas"
         },
@@ -754,14 +446,12 @@
           "Title": "Categoria:Higiene"
         },
         {
-          "ID": 4437946,
-          "Title": "Categoria:Assistência médica"
-        }
-      ],
-      "Articles": [
+          "ID": 15055,
+          "Title": "Categoria:Medicina"
+        },
         {
-          "ID": 4481526,
-          "Title": "Resposta sensorial autônoma do meridiano"
+          "ID": 43114,
+          "Title": "Categoria:Saúde"
         }
       ]
     },
@@ -770,102 +460,68 @@
       "Title": "History and events",
       "Categories": [
         {
-          "ID": 15104,
-          "Title": "Categoria:História"
+          "ID": 41451,
+          "Title": "Categoria:Atentados terroristas"
         },
         {
-          "ID": 15662,
-          "Title": "Categoria:Ciências sociais"
+          "ID": 2790637,
+          "Title": "Categoria:Casos da Suprema Corte dos Estados Unidos"
+        },
+        {
+          "ID": 3161028,
+          "Title": "Categoria:Cronologias de tecnologia"
         },
         {
           "ID": 18651,
           "Title": "Categoria:Efemérides"
         },
         {
-          "ID": 28741,
-          "Title": "Categoria:História por país"
+          "ID": 1866736,
+          "Title": "Categoria:Eleições por ano"
         },
         {
           "ID": 61537,
           "Title": "Categoria:Eventos"
         },
         {
-          "ID": 90430,
-          "Title": "Categoria:Ciências humanas"
+          "ID": 2284014,
+          "Title": "Categoria:Eventos políticos"
         },
         {
-          "ID": 1866736,
-          "Title": "Categoria:Eleições por ano"
+          "ID": 393087,
+          "Title": "Categoria:Guerra"
+        },
+        {
+          "ID": 15856,
+          "Title": "Categoria:Guerras"
+        },
+        {
+          "ID": 15104,
+          "Title": "Categoria:História"
+        },
+        {
+          "ID": 355793,
+          "Title": "Categoria:História da política"
+        },
+        {
+          "ID": 262533,
+          "Title": "Categoria:História da tecnologia"
         },
         {
           "ID": 2657522,
           "Title": "Categoria:História por localização"
-        }
-      ],
-      "Articles": [
-        {
-          "ID": 13776,
-          "Title": "Guerra de Troia"
         },
         {
-          "ID": 41406,
-          "Title": "Ataques de 11 de setembro de 2001"
+          "ID": 28741,
+          "Title": "Categoria:História por país"
         },
         {
-          "ID": 42470,
-          "Title": "Donald Trump"
+          "ID": 4162380,
+          "Title": "Categoria:Repressão política"
         },
         {
-          "ID": 143564,
-          "Title": "Negacionismo do Holocausto"
-        },
-        {
-          "ID": 1026286,
-          "Title": "História da tabela periódica"
-        },
-        {
-          "ID": 1269033,
-          "Title": "Unidades de medida da Roma Antiga"
-        },
-        {
-          "ID": 2202210,
-          "Title": "Índios das Planícies"
-        },
-        {
-          "ID": 2727285,
-          "Title": "Explosão da plataforma Deepwater Horizon"
-        },
-        {
-          "ID": 2947127,
-          "Title": "Eleição presidencial nos Estados Unidos em 2012"
-        },
-        {
-          "ID": 3194979,
-          "Title": "Sismo e tsunami de Tohoku de 2011"
-        },
-        {
-          "ID": 3709509,
-          "Title": "Massacre em Aurora em 2012"
-        },
-        {
-          "ID": 4849891,
-          "Title": "Patriota (Revolução Americana)"
-        },
-        {
-          "ID": 4942473,
-          "Title": "Bappir"
-        },
-        {
-          "ID": 5111145,
-          "Title": "Massacre de Orlando"
-        },
-        {
-          "ID": 5425304,
-          "Title": "Campanha presidencial de Donald Trump em 2016"
-        },
-        {
-          "ID": 5446000,
-          "Title": "Interferência russa na eleição presidencial nos Estados Unidos em 2016"
+          "ID": 19159,
+          "Title": "Categoria:Revoluções"
         }
       ]
     },
@@ -874,42 +530,40 @@
       "Title": "Mathematics and logic",
       "Categories": [
         {
-          "ID": 14937,
-          "Title": "Categoria:Matemática aplicada"
-        },
-        {
-          "ID": 14939,
-          "Title": "Categoria:Matemática"
-        },
-        {
-          "ID": 22410,
-          "Title": "Categoria:Lógica"
+          "ID": 4548993,
+          "Title": "Categoria:Ciência da computação teórica"
         },
         {
           "ID": 37488,
           "Title": "Categoria:Estatística"
         },
         {
+          "ID": 22410,
+          "Title": "Categoria:Lógica"
+        },
+        {
+          "ID": 14939,
+          "Title": "Categoria:Matemática"
+        },
+        {
+          "ID": 14937,
+          "Title": "Categoria:Matemática aplicada"
+        },
+        {
           "ID": 1051994,
           "Title": "Categoria:Probabilidade e estatística"
         },
         {
+          "ID": 50874,
+          "Title": "Categoria:Sistemas de medidas"
+        },
+        {
+          "ID": 25003,
+          "Title": "Categoria:Unidades de medida"
+        },
+        {
           "ID": 4548974,
           "Title": "Categoria:Áreas da matemática"
-        },
-        {
-          "ID": 4548993,
-          "Title": "Categoria:Ciência da computação teórica"
-        }
-      ],
-      "Articles": [
-        {
-          "ID": 560,
-          "Title": "Comprimento"
-        },
-        {
-          "ID": 2107454,
-          "Title": "Unidades de comprimento"
         }
       ]
     },
@@ -918,32 +572,24 @@
       "Title": "Nature and physical sciences",
       "Categories": [
         {
-          "ID": 14748,
-          "Title": "Categoria:Química"
+          "ID": 14867,
+          "Title": "Categoria:Anatomia"
         },
         {
-          "ID": 14863,
-          "Title": "Categoria:Física"
-        },
-        {
-          "ID": 15252,
-          "Title": "Categoria:Ciências"
-        },
-        {
-          "ID": 30516,
-          "Title": "Categoria:Compostos químicos"
+          "ID": 19978,
+          "Title": "Categoria:Animais"
         },
         {
           "ID": 40676,
           "Title": "Categoria:Ciência"
         },
         {
-          "ID": 41906,
-          "Title": "Categoria:Zoologia"
+          "ID": 2214246,
+          "Title": "Categoria:Ciência ambiental"
         },
         {
-          "ID": 47733,
-          "Title": "Categoria:Ciências naturais"
+          "ID": 15252,
+          "Title": "Categoria:Ciências"
         },
         {
           "ID": 112517,
@@ -954,342 +600,64 @@
           "Title": "Categoria:Ciências físicas"
         },
         {
-          "ID": 645373,
-          "Title": "Categoria:Natureza"
+          "ID": 47733,
+          "Title": "Categoria:Ciências naturais"
         },
         {
-          "ID": 1244045,
-          "Title": "Categoria:Fauna por continente"
-        },
-        {
-          "ID": 1403244,
-          "Title": "Categoria:Conhecimento"
+          "ID": 30516,
+          "Title": "Categoria:Compostos químicos"
         },
         {
           "ID": 1736718,
           "Title": "Categoria:Desastres"
         },
         {
-          "ID": 2214246,
-          "Title": "Categoria:Ciência ambiental"
+          "ID": 15070,
+          "Title": "Categoria:Ecologia"
+        },
+        {
+          "ID": 1244045,
+          "Title": "Categoria:Fauna por continente"
+        },
+        {
+          "ID": 18738,
+          "Title": "Categoria:Frutos"
+        },
+        {
+          "ID": 14863,
+          "Title": "Categoria:Física"
+        },
+        {
+          "ID": 645373,
+          "Title": "Categoria:Natureza"
+        },
+        {
+          "ID": 15202,
+          "Title": "Categoria:Plantas"
+        },
+        {
+          "ID": 153790,
+          "Title": "Categoria:Proteínas"
+        },
+        {
+          "ID": 14748,
+          "Title": "Categoria:Química"
         },
         {
           "ID": 5439470,
           "Title": "Categoria:Substâncias químicas"
-        }
-      ],
-      "Articles": [
-        {
-          "ID": 259,
-          "Title": "Ananás"
-        },
-        {
-          "ID": 2626,
-          "Title": "Fogo"
-        },
-        {
-          "ID": 3351,
-          "Title": "Urina"
-        },
-        {
-          "ID": 3446,
-          "Title": "Músculo"
-        },
-        {
-          "ID": 13248,
-          "Title": "Sistema muscular"
-        },
-        {
-          "ID": 14806,
-          "Title": "Pênis"
-        },
-        {
-          "ID": 15012,
-          "Title": "Morango"
-        },
-        {
-          "ID": 19000,
-          "Title": "Tentáculo"
-        },
-        {
-          "ID": 20407,
-          "Title": "Calendário maia"
-        },
-        {
-          "ID": 22889,
-          "Title": "Milho"
-        },
-        {
-          "ID": 23221,
-          "Title": "Germinação"
-        },
-        {
-          "ID": 29296,
-          "Title": "Trigo"
-        },
-        {
-          "ID": 35407,
-          "Title": "Carapau"
-        },
-        {
-          "ID": 39470,
-          "Title": "Manga (fruta)"
-        },
-        {
-          "ID": 39544,
-          "Title": "Limão"
-        },
-        {
-          "ID": 45168,
-          "Title": "Flamingo"
-        },
-        {
-          "ID": 46077,
-          "Title": "Arroz"
-        },
-        {
-          "ID": 49487,
-          "Title": "Masturbação"
-        },
-        {
-          "ID": 53104,
-          "Title": "Melão"
-        },
-        {
-          "ID": 54242,
-          "Title": "Tomate"
-        },
-        {
-          "ID": 55080,
-          "Title": "Ciclo hidrológico"
-        },
-        {
-          "ID": 62599,
-          "Title": "Pantherinae"
-        },
-        {
-          "ID": 64641,
-          "Title": "Hidrologia"
-        },
-        {
-          "ID": 66192,
-          "Title": "Sucuri"
-        },
-        {
-          "ID": 66231,
-          "Title": "Alce"
-        },
-        {
-          "ID": 66410,
-          "Title": "Camelo"
-        },
-        {
-          "ID": 71528,
-          "Title": "Hylidae"
-        },
-        {
-          "ID": 99062,
-          "Title": "Testículo"
-        },
-        {
-          "ID": 113751,
-          "Title": "Órgão sexual"
-        },
-        {
-          "ID": 114088,
-          "Title": "Cadeia alimentar"
-        },
-        {
-          "ID": 125393,
-          "Title": "Anaconda (desambiguação)"
-        },
-        {
-          "ID": 125766,
-          "Title": "Aparelho reprodutor"
-        },
-        {
-          "ID": 144294,
-          "Title": "Lima (fruto)"
-        },
-        {
-          "ID": 145595,
-          "Title": "Manto (molusco)"
-        },
-        {
-          "ID": 149521,
-          "Title": "Meloa"
-        },
-        {
-          "ID": 154869,
-          "Title": "Couve-flor"
-        },
-        {
-          "ID": 187709,
-          "Title": "Morangueiro"
-        },
-        {
-          "ID": 202636,
-          "Title": "Rostratulidae"
-        },
-        {
-          "ID": 231865,
-          "Title": "Phoenix (género)"
-        },
-        {
-          "ID": 233210,
-          "Title": "Sistema locomotor"
-        },
-        {
-          "ID": 239004,
-          "Title": "Pinus kesiya"
-        },
-        {
-          "ID": 270136,
-          "Title": "Mangifera indica"
-        },
-        {
-          "ID": 299441,
-          "Title": "Murta-comum"
-        },
-        {
-          "ID": 335848,
-          "Title": "Ateles"
-        },
-        {
-          "ID": 381671,
-          "Title": "Oryza"
-        },
-        {
-          "ID": 383103,
-          "Title": "Triticum"
-        },
-        {
-          "ID": 389262,
-          "Title": "Cores complementares"
-        },
-        {
-          "ID": 598034,
-          "Title": "Rutilismo"
-        },
-        {
-          "ID": 618952,
-          "Title": "Lycosidae"
-        },
-        {
-          "ID": 1055848,
-          "Title": "Ecese"
-        },
-        {
-          "ID": 1067930,
-          "Title": "Neurônio motor"
-        },
-        {
-          "ID": 1286055,
-          "Title": "Suspensão (química)"
-        },
-        {
-          "ID": 1446782,
-          "Title": "Sula (género)"
-        },
-        {
-          "ID": 1451719,
-          "Title": "Juniperus thurifera"
-        },
-        {
-          "ID": 1561604,
-          "Title": "Cavalinha (peixe)"
-        },
-        {
-          "ID": 1678612,
-          "Title": "Sucuri-verde"
-        },
-        {
-          "ID": 1700405,
-          "Title": "Arroz glutinoso"
-        },
-        {
-          "ID": 2505827,
-          "Title": "Morango-silvestre"
-        },
-        {
-          "ID": 2619397,
-          "Title": "Grande felino"
-        },
-        {
-          "ID": 2741721,
-          "Title": "Laranja"
-        },
-        {
-          "ID": 3353058,
-          "Title": "Picea engelmannii"
-        },
-        {
-          "ID": 3387955,
-          "Title": "Coice"
-        },
-        {
-          "ID": 3419121,
-          "Title": "Tomate-cereja"
-        },
-        {
-          "ID": 3472272,
-          "Title": "Mangifera"
-        },
-        {
-          "ID": 3628198,
-          "Title": "Vento dominante"
-        },
-        {
-          "ID": 3717729,
-          "Title": "Cucurbita maxima"
-        },
-        {
-          "ID": 3755982,
-          "Title": "Trachurus"
-        },
-        {
-          "ID": 4291611,
-          "Title": "Physalis peruviana"
-        },
-        {
-          "ID": 4502231,
-          "Title": "Physalis ixocarpa"
-        },
-        {
-          "ID": 4550393,
-          "Title": "Triticum aestivum"
-        },
-        {
-          "ID": 4560870,
-          "Title": "Scomber"
-        },
-        {
-          "ID": 4561078,
-          "Title": "Scomber scombrus"
-        },
-        {
-          "ID": 4595987,
-          "Title": "Elymus farctus"
-        },
-        {
-          "ID": 4710887,
-          "Title": "Rede trófica"
-        },
-        {
-          "ID": 5067117,
-          "Title": "Pseudacris crucifer"
         },
         {
-          "ID": 5166792,
-          "Title": "Pénis humano"
+          "ID": 1503424,
+          "Title": "Categoria:Terra"
         },
         {
-          "ID": 5359480,
-          "Title": "Gaio (ave)"
+          "ID": 374112,
+          "Title": "Categoria:Vida"
         },
         {
-          "ID": 5621359,
-          "Title": "Hadass"
+          "ID": 41906,
+          "Title": "Categoria:Zoologia"
         }
       ]
     },
@@ -1298,262 +666,164 @@
       "Title": "People and self",
       "Categories": [
         {
-          "ID": 20070,
-          "Title": "Categoria:Pessoas"
+          "ID": 54024,
+          "Title": "Categoria:Arquitetos"
         },
         {
-          "ID": 374112,
-          "Title": "Categoria:Vida"
-        },
-        {
-          "ID": 469929,
-          "Title": "Categoria:Vida pessoal"
-        },
-        {
-          "ID": 589387,
-          "Title": "Categoria:Sobrenomes"
-        },
-        {
-          "ID": 643737,
-          "Title": "Categoria:Personagens de filmes"
-        },
-        {
-          "ID": 905259,
-          "Title": "Categoria:Biógrafos"
-        },
-        {
-          "ID": 1434825,
-          "Title": "Categoria:Mulher"
-        },
-        {
-          "ID": 2121388,
-          "Title": "Categoria:Biografias"
-        },
-        {
-          "ID": 2270850,
-          "Title": "Categoria:Ego"
-        },
-        {
-          "ID": 2519134,
-          "Title": "Categoria:Mulheres"
-        },
-        {
-          "ID": 2618955,
-          "Title": "Categoria:Teorias da personalidade"
+          "ID": 52615,
+          "Title": "Categoria:Artistas"
         },
         {
           "ID": 4287098,
           "Title": "Categoria:Artistas por mídia"
         },
         {
-          "ID": 5757875,
-          "Title": "Categoria:Obras biográficas"
-        }
-      ],
-      "Articles": [
-        {
-          "ID": 392,
-          "Title": "Adolf Hitler"
+          "ID": 2218348,
+          "Title": "Categoria:Atores"
         },
         {
-          "ID": 498,
-          "Title": "Carl Sagan"
+          "ID": 3126006,
+          "Title": "Categoria:Atores de cinema"
         },
         {
-          "ID": 920,
-          "Title": "Galileu Galilei"
+          "ID": 4285245,
+          "Title": "Categoria:Atores masculinos"
         },
         {
-          "ID": 2765,
-          "Title": "Noam Chomsky"
+          "ID": 44580,
+          "Title": "Categoria:Aviadores"
         },
         {
-          "ID": 3541,
-          "Title": "Richard Dawkins"
+          "ID": 905259,
+          "Title": "Categoria:Biógrafos"
         },
         {
-          "ID": 6637,
-          "Title": "Bill Gates"
+          "ID": 19826,
+          "Title": "Categoria:Chefes de Estado"
         },
         {
-          "ID": 7632,
-          "Title": "Adam Smith"
+          "ID": 125410,
+          "Title": "Categoria:Cientistas políticos"
         },
         {
-          "ID": 8923,
-          "Title": "Tomás de Aquino"
+          "ID": 2270850,
+          "Title": "Categoria:Ego"
         },
         {
-          "ID": 9803,
-          "Title": "Sigmund Freud"
+          "ID": 338328,
+          "Title": "Categoria:Enfermeiros"
         },
         {
-          "ID": 11457,
-          "Title": "Karl Friedrich Abel"
+          "ID": 14069,
+          "Title": "Categoria:Escritores"
         },
         {
-          "ID": 12899,
-          "Title": "Oliver Cromwell"
+          "ID": 14429,
+          "Title": "Categoria:Exploradores"
         },
         {
-          "ID": 13997,
-          "Title": "Cristóvão Colombo"
+          "ID": 14431,
+          "Title": "Categoria:Filósofos"
         },
         {
-          "ID": 20981,
-          "Title": "René Descartes"
+          "ID": 2835350,
+          "Title": "Categoria:Generais dos Estados Unidos"
         },
         {
-          "ID": 23537,
-          "Title": "Carl Friedrich Gauss"
+          "ID": 22283,
+          "Title": "Categoria:Inventores"
         },
         {
-          "ID": 26201,
-          "Title": "Alan Turing"
+          "ID": 3633477,
+          "Title": "Categoria:Líderes nacionais atuais"
         },
         {
-          "ID": 34338,
-          "Title": "John Lennon"
+          "ID": 14419,
+          "Title": "Categoria:Matemáticos"
         },
         {
-          "ID": 35449,
-          "Title": "George Harrison"
+          "ID": 253226,
+          "Title": "Categoria:Montanhistas por país"
         },
         {
-          "ID": 37251,
-          "Title": "Leonardo Fibonacci"
+          "ID": 3645989,
+          "Title": "Categoria:Mortos por ano"
         },
         {
-          "ID": 37852,
-          "Title": "Theodor Schwann"
+          "ID": 1434825,
+          "Title": "Categoria:Mulher"
         },
         {
-          "ID": 45436,
-          "Title": "Joseph Smith Jr."
+          "ID": 2519134,
+          "Title": "Categoria:Mulheres"
         },
         {
-          "ID": 46755,
-          "Title": "Florence Nightingale"
+          "ID": 14432,
+          "Title": "Categoria:Médicos"
         },
         {
-          "ID": 46902,
-          "Title": "Kepler (desambiguação)"
+          "ID": 14423,
+          "Title": "Categoria:Músicos"
         },
         {
-          "ID": 47932,
-          "Title": "Charles Babbage"
+          "ID": 3555242,
+          "Title": "Categoria:Nascidos por ano"
         },
         {
-          "ID": 48011,
-          "Title": "Lewis Carroll"
+          "ID": 22154,
+          "Title": "Categoria:Personagens"
         },
         {
-          "ID": 48024,
-          "Title": "Johannes Kepler"
+          "ID": 643737,
+          "Title": "Categoria:Personagens de filmes"
         },
         {
-          "ID": 49131,
-          "Title": "Richard Wagner"
+          "ID": 3049504,
+          "Title": "Categoria:Personagens fictícias"
         },
         {
-          "ID": 50185,
-          "Title": "Elton John"
+          "ID": 20070,
+          "Title": "Categoria:Pessoas"
         },
         {
-          "ID": 56106,
-          "Title": "Alexander Fleming"
+          "ID": 2945431,
+          "Title": "Categoria:Pessoas mortas"
         },
         {
-          "ID": 56819,
-          "Title": "Ayn Rand"
+          "ID": 2665204,
+          "Title": "Categoria:Pessoas políticas"
         },
         {
-          "ID": 57818,
-          "Title": "Irving Langmuir"
+          "ID": 3940842,
+          "Title": "Categoria:Pessoas por comportamento"
         },
         {
-          "ID": 70463,
-          "Title": "William Blake"
+          "ID": 41144,
+          "Title": "Categoria:Pessoas por ocupação"
         },
         {
-          "ID": 71201,
-          "Title": "Harry Houdini"
+          "ID": 3630896,
+          "Title": "Categoria:Pessoas vivas"
         },
         {
-          "ID": 189193,
-          "Title": "Daniel Radcliffe"
+          "ID": 14430,
+          "Title": "Categoria:Políticos"
         },
         {
-          "ID": 282813,
-          "Title": "Big Show"
+          "ID": 15095,
+          "Title": "Categoria:Presidentes"
         },
         {
-          "ID": 534672,
-          "Title": "Srinivasa Ramanujan"
+          "ID": 2538219,
+          "Title": "Categoria:Presidentes por país"
         },
         {
-          "ID": 1099890,
-          "Title": "Stefan Lochner"
+          "ID": 15660,
+          "Title": "Categoria:Revolucionários"
         },
         {
-          "ID": 1128657,
-          "Title": "Janet Margolin"
-        },
-        {
-          "ID": 1440586,
-          "Title": "The Big Bang Theory"
-        },
-        {
-          "ID": 1762304,
-          "Title": "Crepúsculo (romance)"
-        },
-        {
-          "ID": 1829154,
-          "Title": "Jacob Black"
-        },
-        {
-          "ID": 1997849,
-          "Title": "Sheldon Cooper"
-        },
-        {
-          "ID": 2185395,
-          "Title": "Chaïm Soutine"
-        },
-        {
-          "ID": 2416581,
-          "Title": "Cory Monteith"
-        },
-        {
-          "ID": 2520360,
-          "Title": "Johnny Appleseed"
-        },
-        {
-          "ID": 2780293,
-          "Title": "Francis Marion"
-        },
-        {
-          "ID": 3325279,
-          "Title": "Anders Behring Breivik"
-        },
-        {
-          "ID": 4518430,
-          "Title": "Bob Ross"
-        },
-        {
-          "ID": 4704353,
-          "Title": "Ted Cruz"
-        },
-        {
-          "ID": 5214984,
-          "Title": "Dorothy Vaughan"
-        },
-        {
-          "ID": 5258372,
-          "Title": "Daniel Hale Williams"
-        },
-        {
-          "ID": 5841329,
-          "Title": "Lista dos canais com mais inscritos do YouTube"
+          "ID": 589387,
+          "Title": "Categoria:Sobrenomes"
         }
       ]
     },
@@ -1562,16 +832,32 @@
       "Title": "Philosophy and thinking",
       "Categories": [
         {
+          "ID": 287871,
+          "Title": "Categoria:Conceitos filosóficos"
+        },
+        {
+          "ID": 2894173,
+          "Title": "Categoria:Divisões da filosofia"
+        },
+        {
+          "ID": 4735023,
+          "Title": "Categoria:Escolas e tradições filosóficas"
+        },
+        {
           "ID": 14277,
           "Title": "Categoria:Filosofia"
         },
         {
-          "ID": 15085,
-          "Title": "Categoria:Ética"
-        },
-        {
           "ID": 23548,
           "Title": "Categoria:Ideologias"
+        },
+        {
+          "ID": 2848637,
+          "Title": "Categoria:Metafilosofia"
+        },
+        {
+          "ID": 153434,
+          "Title": "Categoria:Metafísica"
         },
         {
           "ID": 1403247,
@@ -1586,62 +872,8 @@
           "Title": "Categoria:Teorias políticas"
         },
         {
-          "ID": 2894173,
-          "Title": "Categoria:Divisões da filosofia"
-        },
-        {
-          "ID": 4735023,
-          "Title": "Categoria:Escolas e tradições filosóficas"
-        }
-      ],
-      "Articles": [
-        {
-          "ID": 5275,
-          "Title": "Fé"
-        },
-        {
-          "ID": 5636,
-          "Title": "Crença"
-        },
-        {
-          "ID": 29560,
-          "Title": "Felicidade"
-        },
-        {
-          "ID": 176147,
-          "Title": "Beleza"
-        },
-        {
-          "ID": 177122,
-          "Title": "Crença (desambiguação)"
-        },
-        {
-          "ID": 231967,
-          "Title": "Alegria (desambiguação)"
-        },
-        {
-          "ID": 486639,
-          "Title": "Confiança"
-        },
-        {
-          "ID": 1323832,
-          "Title": "Efeito Dunning-Kruger"
-        },
-        {
-          "ID": 1789474,
-          "Title": "Alegria"
-        },
-        {
-          "ID": 2200380,
-          "Title": "Hit"
-        },
-        {
-          "ID": 2526443,
-          "Title": "Crença religiosa"
-        },
-        {
-          "ID": 4596938,
-          "Title": "Gaslighting"
+          "ID": 15085,
+          "Title": "Categoria:Ética"
         }
       ]
     },
@@ -1650,48 +882,40 @@
       "Title": "Religion and belief systems",
       "Categories": [
         {
-          "ID": 14276,
-          "Title": "Categoria:Religião"
-        },
-        {
-          "ID": 40548,
-          "Title": "Categoria:Teologia"
-        },
-        {
           "ID": 1908161,
           "Title": "Categoria:Antropologia da religião"
-        },
-        {
-          "ID": 2009545,
-          "Title": "Categoria:Secularismo"
-        },
-        {
-          "ID": 2538328,
-          "Title": "Categoria:Criticismo de religião"
-        },
-        {
-          "ID": 2597492,
-          "Title": "Categoria:Crenças"
         },
         {
           "ID": 3422070,
           "Title": "Categoria:Controvérsia religiosa"
         },
         {
-          "ID": 3471948,
-          "Title": "Categoria:Religiões indianas"
-        },
-        {
-          "ID": 3860561,
-          "Title": "Categoria:Não-teísmo"
+          "ID": 2597492,
+          "Title": "Categoria:Crenças"
         },
         {
           "ID": 4355182,
           "Title": "Categoria:Crenças, tradições e movimentos religiosos"
         },
         {
-          "ID": 5930085,
-          "Title": "Categoria:Não teísmo"
+          "ID": 2538328,
+          "Title": "Categoria:Criticismo de religião"
+        },
+        {
+          "ID": 3860561,
+          "Title": "Categoria:Não-teísmo"
+        },
+        {
+          "ID": 14276,
+          "Title": "Categoria:Religião"
+        },
+        {
+          "ID": 3471948,
+          "Title": "Categoria:Religiões indianas"
+        },
+        {
+          "ID": 40548,
+          "Title": "Categoria:Teologia"
         }
       ]
     },
@@ -1700,722 +924,136 @@
       "Title": "Society and social sciences",
       "Categories": [
         {
-          "ID": 15064,
-          "Title": "Categoria:Direito"
+          "ID": 1848955,
+          "Title": "Categoria:Agências governamentais"
         },
         {
-          "ID": 15662,
-          "Title": "Categoria:Ciências sociais"
+          "ID": 2114779,
+          "Title": "Categoria:Assassinatos"
         },
         {
-          "ID": 22737,
-          "Title": "Categoria:Organizações internacionais"
-        },
-        {
-          "ID": 26295,
-          "Title": "Categoria:Feminismo"
-        },
-        {
-          "ID": 37522,
-          "Title": "Categoria:Sociedade"
+          "ID": 26820,
+          "Title": "Categoria:Bandeiras nacionais"
         },
         {
           "ID": 90430,
           "Title": "Categoria:Ciências humanas"
         },
         {
-          "ID": 152533,
-          "Title": "Categoria:Leis"
+          "ID": 15662,
+          "Title": "Categoria:Ciências sociais"
         },
         {
-          "ID": 1329098,
-          "Title": "Categoria:Instituições de ensino superior por país"
+          "ID": 2658293,
+          "Title": "Categoria:Dinheiro"
         },
         {
-          "ID": 3442160,
-          "Title": "Categoria:Organizações intergovernamentais"
+          "ID": 15064,
+          "Title": "Categoria:Direito"
         },
         {
           "ID": 3550174,
           "Title": "Categoria:Direitos"
         },
         {
+          "ID": 128054,
+          "Title": "Categoria:Educação por país"
+        },
+        {
+          "ID": 15238,
+          "Title": "Categoria:Empresas"
+        },
+        {
+          "ID": 57045,
+          "Title": "Categoria:Empresas aéreas"
+        },
+        {
+          "ID": 26295,
+          "Title": "Categoria:Feminismo"
+        },
+        {
+          "ID": 39254,
+          "Title": "Categoria:Finanças"
+        },
+        {
+          "ID": 843825,
+          "Title": "Categoria:Geopolítica"
+        },
+        {
+          "ID": 128056,
+          "Title": "Categoria:Governo"
+        },
+        {
+          "ID": 3101096,
+          "Title": "Categoria:Grupos corporativos"
+        },
+        {
+          "ID": 2473439,
+          "Title": "Categoria:Guildas"
+        },
+        {
           "ID": 4939824,
           "Title": "Categoria:Humanidades"
-        }
-      ],
-      "Articles": [
-        {
-          "ID": 1235,
-          "Title": "Micronacionalismo"
-        },
-        {
-          "ID": 1886,
-          "Title": "União Europeia"
-        },
-        {
-          "ID": 3877,
-          "Title": "Irão"
-        },
-        {
-          "ID": 4771,
-          "Title": "Chile"
-        },
-        {
-          "ID": 4828,
-          "Title": "Barbados"
-        },
-        {
-          "ID": 8332,
-          "Title": "Universidade de Cambridge"
-        },
-        {
-          "ID": 9904,
-          "Title": "Universidade de Nanquim"
-        },
-        {
-          "ID": 10396,
-          "Title": "Bandeira da Austrália"
-        },
-        {
-          "ID": 15431,
-          "Title": "Universidade Columbia"
-        },
-        {
-          "ID": 29717,
-          "Title": "Terceira Guerra Mundial"
-        },
-        {
-          "ID": 44655,
-          "Title": "Pizza Hut"
-        },
-        {
-          "ID": 57514,
-          "Title": "Universidade Harvard"
-        },
-        {
-          "ID": 58228,
-          "Title": "Universidade de Londres"
-        },
-        {
-          "ID": 61158,
-          "Title": "Horário de verão"
-        },
-        {
-          "ID": 62261,
-          "Title": "Universidade de Oxford"
-        },
-        {
-          "ID": 64120,
-          "Title": "The New York Times"
-        },
-        {
-          "ID": 64467,
-          "Title": "Instituto de Tecnologia de Massachusetts"
-        },
-        {
-          "ID": 67006,
-          "Title": "Universidade de Waterloo"
-        },
-        {
-          "ID": 69553,
-          "Title": "Economia do Irão"
-        },
-        {
-          "ID": 76768,
-          "Title": "Truste"
-        },
-        {
-          "ID": 81406,
-          "Title": "Universidade de Paris"
-        },
-        {
-          "ID": 83453,
-          "Title": "American Airlines"
-        },
-        {
-          "ID": 93466,
-          "Title": "Universidade Stanford"
-        },
-        {
-          "ID": 97137,
-          "Title": "Universidade Hebraica de Jerusalém"
-        },
-        {
-          "ID": 101326,
-          "Title": "Universidade Estatal de Moscovo"
-        },
-        {
-          "ID": 104059,
-          "Title": "Universidade da Cidade de Nova Iorque"
-        },
-        {
-          "ID": 105919,
-          "Title": "Universidade de Calgary"
-        },
-        {
-          "ID": 124268,
-          "Title": "Universidade de Denver"
-        },
-        {
-          "ID": 162205,
-          "Title": "Universidade de Bonn"
-        },
-        {
-          "ID": 170081,
-          "Title": "Universidade de Münster"
-        },
-        {
-          "ID": 186835,
-          "Title": "Imperial College London"
-        },
-        {
-          "ID": 198621,
-          "Title": "Universidade de Glasgow"
-        },
-        {
-          "ID": 214438,
-          "Title": "Universidade de Princeton"
-        },
-        {
-          "ID": 233292,
-          "Title": "Fox News Channel"
-        },
-        {
-          "ID": 234204,
-          "Title": "Universidade da Pensilvânia"
-        },
-        {
-          "ID": 248545,
-          "Title": "Universidade de Bolonha"
-        },
-        {
-          "ID": 260764,
-          "Title": "Ano-novo chinês"
-        },
-        {
-          "ID": 291982,
-          "Title": "Universidade do Texas"
-        },
-        {
-          "ID": 292613,
-          "Title": "BP"
-        },
-        {
-          "ID": 301372,
-          "Title": "Universidade de Tóquio"
-        },
-        {
-          "ID": 339528,
-          "Title": "Economia de Barbados"
-        },
-        {
-          "ID": 350772,
-          "Title": "Universidade pública"
-        },
-        {
-          "ID": 399011,
-          "Title": "Universidade de Pádua"
-        },
-        {
-          "ID": 399016,
-          "Title": "Universidade de Nápoles Federico II"
-        },
-        {
-          "ID": 399888,
-          "Title": "Universidade de Viena"
-        },
-        {
-          "ID": 404714,
-          "Title": "Lei seca"
-        },
-        {
-          "ID": 420986,
-          "Title": "Taco Bell"
-        },
-        {
-          "ID": 463308,
-          "Title": "Starbucks"
-        },
-        {
-          "ID": 483504,
-          "Title": "Universidade de Bristol"
-        },
-        {
-          "ID": 544640,
-          "Title": "MIT Sloan School of Management"
-        },
-        {
-          "ID": 582026,
-          "Title": "Universidade de Southampton"
-        },
-        {
-          "ID": 584773,
-          "Title": "Universidade de Warwick"
-        },
-        {
-          "ID": 606898,
-          "Title": "Universidade do Arizona"
-        },
-        {
-          "ID": 630372,
-          "Title": "Universidade de Chicago"
-        },
-        {
-          "ID": 637531,
-          "Title": "Universidade de Sydney"
-        },
-        {
-          "ID": 641804,
-          "Title": "Serviço social"
-        },
-        {
-          "ID": 811699,
-          "Title": "Universidade de Leeds"
-        },
-        {
-          "ID": 834806,
-          "Title": "Assistente social"
-        },
-        {
-          "ID": 844834,
-          "Title": "Universidade de Uppsala"
-        },
-        {
-          "ID": 926202,
-          "Title": "Universidade de Virgínia"
-        },
-        {
-          "ID": 1028652,
-          "Title": "Universidade de Reading"
-        },
-        {
-          "ID": 1070753,
-          "Title": "City University"
-        },
-        {
-          "ID": 1130435,
-          "Title": "Universidade de Chester"
-        },
-        {
-          "ID": 1162707,
-          "Title": "Universidade de Turim"
-        },
-        {
-          "ID": 1166250,
-          "Title": "Universidade de St. Andrews"
-        },
-        {
-          "ID": 1244477,
-          "Title": "Universidade de Maryland"
-        },
-        {
-          "ID": 1272006,
-          "Title": "Universidade de Würzburgo"
-        },
-        {
-          "ID": 1274132,
-          "Title": "Universidade de Gotinga"
-        },
-        {
-          "ID": 1281043,
-          "Title": "Universidade de Indiana"
-        },
-        {
-          "ID": 1281084,
-          "Title": "Universidade Nacional da Austrália"
-        },
-        {
-          "ID": 1285617,
-          "Title": "Universidade de Tartu"
-        },
-        {
-          "ID": 1309042,
-          "Title": "Universidade de Exeter"
-        },
-        {
-          "ID": 1325696,
-          "Title": "Universidade de Queensland"
-        },
-        {
-          "ID": 1422007,
-          "Title": "Universidade Nacional de Odessa"
-        },
-        {
-          "ID": 1452243,
-          "Title": "Universidade Tsinghua"
-        },
-        {
-          "ID": 1453865,
-          "Title": "Universidade de Iaşi"
-        },
-        {
-          "ID": 1473884,
-          "Title": "Domino's Pizza"
-        },
-        {
-          "ID": 1499175,
-          "Title": "Universidade de Kent"
-        },
-        {
-          "ID": 1501009,
-          "Title": "Universidade de Friburgo (Alemanha)"
-        },
-        {
-          "ID": 1518182,
-          "Title": "Universidade de Estocolmo"
-        },
-        {
-          "ID": 1521999,
-          "Title": "Universidade Estatal de São Petersburgo"
-        },
-        {
-          "ID": 1628275,
-          "Title": "Universidade de Colônia"
-        },
-        {
-          "ID": 1677308,
-          "Title": "Universidade de Osaka"
-        },
-        {
-          "ID": 1697315,
-          "Title": "Universidade de Tubinga"
-        },
-        {
-          "ID": 1697320,
-          "Title": "Universidade de Leipzig"
-        },
-        {
-          "ID": 1744034,
-          "Title": "Universidade Moshood Abiola"
-        },
-        {
-          "ID": 1760817,
-          "Title": "Universidade de Iowa"
-        },
-        {
-          "ID": 1764838,
-          "Title": "Universidade de Hokkaido"
-        },
-        {
-          "ID": 1851685,
-          "Title": "Universidade de Milão"
-        },
-        {
-          "ID": 1883329,
-          "Title": "Universidade de Berna"
-        },
-        {
-          "ID": 1922209,
-          "Title": "Universidade de Michigan"
-        },
-        {
-          "ID": 2040380,
-          "Title": "Universidade da Tasmânia"
-        },
-        {
-          "ID": 2120942,
-          "Title": "Universidade do Sul da Califórnia"
-        },
-        {
-          "ID": 2172824,
-          "Title": "Universidade de Aberdeen"
-        },
-        {
-          "ID": 2173216,
-          "Title": "Universidade Washington em St. Louis"
-        },
-        {
-          "ID": 2185949,
-          "Title": "Instituto Balseiro"
-        },
-        {
-          "ID": 2233157,
-          "Title": "Universidade de Boston"
-        },
-        {
-          "ID": 2249065,
-          "Title": "Universidade de Leicester"
-        },
-        {
-          "ID": 2257321,
-          "Title": "Universidade de Canterbury"
-        },
-        {
-          "ID": 2312135,
-          "Title": "Universidade de Houston"
-        },
-        {
-          "ID": 2334577,
-          "Title": "Universidade de Gotemburgo"
-        },
-        {
-          "ID": 2374301,
-          "Title": "Universidade de Otago"
-        },
-        {
-          "ID": 2381900,
-          "Title": "Universidade de Manchester"
-        },
-        {
-          "ID": 2439398,
-          "Title": "Universidade de Liverpool"
-        },
-        {
-          "ID": 2451443,
-          "Title": "Universidade do Mississippi"
-        },
-        {
-          "ID": 2457874,
-          "Title": "Universidade de Washington"
-        },
-        {
-          "ID": 2473930,
-          "Title": "Universidade de Birmingham"
-        },
-        {
-          "ID": 2499369,
-          "Title": "Universidade do Tennessee"
-        },
-        {
-          "ID": 2512519,
-          "Title": "The Open University"
-        },
-        {
-          "ID": 2512945,
-          "Title": "Universidade de Minnesota"
-        },
-        {
-          "ID": 2538541,
-          "Title": "Universidade do Alabama"
-        },
-        {
-          "ID": 2554633,
-          "Title": "Universidade de Lviv"
-        },
-        {
-          "ID": 2644494,
-          "Title": "Universidade de Nottingham"
-        },
-        {
-          "ID": 2647550,
-          "Title": "Quarta Emenda à Constituição dos Estados Unidos"
-        },
-        {
-          "ID": 2681463,
-          "Title": "American University"
-        },
-        {
-          "ID": 2696399,
-          "Title": "The Times of India"
-        },
-        {
-          "ID": 2732619,
-          "Title": "Programa das Nações Unidas para o Meio Ambiente"
-        },
-        {
-          "ID": 2802979,
-          "Title": "Universidade de Carachi"
-        },
-        {
-          "ID": 2808164,
-          "Title": "Universidade de Teerã"
-        },
-        {
-          "ID": 2821078,
-          "Title": "Universidade de Colombo"
-        },
-        {
-          "ID": 2853139,
-          "Title": "Universidade da Jordânia"
-        },
-        {
-          "ID": 2879376,
-          "Title": "Universidade de Auckland"
-        },
-        {
-          "ID": 2904594,
-          "Title": "Universidade de Manitoba"
-        },
-        {
-          "ID": 2907558,
-          "Title": "Universidade de Wollongong"
-        },
-        {
-          "ID": 2907565,
-          "Title": "Universidade de Newcastle"
-        },
-        {
-          "ID": 2909212,
-          "Title": "Universidade La Trobe"
-        },
-        {
-          "ID": 2917766,
-          "Title": "Universidade Nacional de Seul"
-        },
-        {
-          "ID": 2921991,
-          "Title": "Universidade de Saskatchewan"
-        },
-        {
-          "ID": 3203511,
-          "Title": "Universidade de Trieste"
-        },
-        {
-          "ID": 3203535,
-          "Title": "Universidade de Verona"
-        },
-        {
-          "ID": 3203598,
-          "Title": "Universidade de Ferrara"
-        },
-        {
-          "ID": 3204089,
-          "Title": "Universidade de Uma"
-        },
-        {
-          "ID": 3204111,
-          "Title": "Universidade de Linköping"
-        },
-        {
-          "ID": 3687156,
-          "Title": "Economia do Utah"
-        },
-        {
-          "ID": 3703594,
-          "Title": "Universidade de Breslávia"
-        },
-        {
-          "ID": 3722473,
-          "Title": "Universidade de Montana"
-        },
-        {
-          "ID": 3772876,
-          "Title": "Universidade do Texas em Austin"
-        },
-        {
-          "ID": 3905494,
-          "Title": "Universidade Estadual de Ohio"
-        },
-        {
-          "ID": 3969755,
-          "Title": "Universidade de Tohoku"
-        },
-        {
-          "ID": 3992258,
-          "Title": "Universidade de Hull"
-        },
-        {
-          "ID": 4124105,
-          "Title": "Universidade de Bedfordshire"
-        },
-        {
-          "ID": 4152316,
-          "Title": "Universidade de Sheffield"
-        },
-        {
-          "ID": 4161186,
-          "Title": "Universidade de Sussex"
-        },
-        {
-          "ID": 4239924,
-          "Title": "Universidade de Surrey"
-        },
-        {
-          "ID": 4420956,
-          "Title": "Universidade Thammasat"
-        },
-        {
-          "ID": 4570772,
-          "Title": "Universidade de Oregon"
-        },
-        {
-          "ID": 4619486,
-          "Title": "Universidade de Lineu"
-        },
-        {
-          "ID": 4827703,
-          "Title": "Pacific-12 Conference"
-        },
-        {
-          "ID": 4891091,
-          "Title": "Trust"
-        },
-        {
-          "ID": 4940379,
-          "Title": "Universidade de Calcutá"
-        },
-        {
-          "ID": 4971316,
-          "Title": "Universidade de Hertfordshire"
-        },
-        {
-          "ID": 5264254,
-          "Title": "Universidade de Buffalo"
-        },
-        {
-          "ID": 5273064,
-          "Title": "Universidade do Missouri"
         },
         {
-          "ID": 5293236,
-          "Title": "Universidade de Kingston"
+          "ID": 1329098,
+          "Title": "Categoria:Instituições de ensino superior por país"
         },
         {
-          "ID": 5319895,
-          "Title": "Factos alternativos"
+          "ID": 1848954,
+          "Title": "Categoria:Instituições governamentais"
         },
         {
-          "ID": 5341741,
-          "Title": "Universidade de East Anglia"
+          "ID": 152533,
+          "Title": "Categoria:Leis"
         },
         {
-          "ID": 5357294,
-          "Title": "Universidade de Victoria"
+          "ID": 15864,
+          "Title": "Categoria:Marketing"
         },
         {
-          "ID": 5368924,
-          "Title": "Atentado em Westminster de 2017"
+          "ID": 22787,
+          "Title": "Categoria:Moedas"
         },
         {
-          "ID": 5380616,
-          "Title": "Universidade de Gênova"
+          "ID": 16863,
+          "Title": "Categoria:Organizações"
         },
         {
-          "ID": 5412550,
-          "Title": "Fidúcia"
+          "ID": 3442160,
+          "Title": "Categoria:Organizações intergovernamentais"
         },
         {
-          "ID": 5652619,
-          "Title": "Queen's University"
+          "ID": 22737,
+          "Title": "Categoria:Organizações internacionais"
         },
         {
-          "ID": 5727257,
-          "Title": "Universidade de Jinan"
+          "ID": 22480,
+          "Title": "Categoria:Psicologia"
         },
         {
-          "ID": 5775389,
-          "Title": "Tulane University"
+          "ID": 2229281,
+          "Title": "Categoria:Punições"
         },
         {
-          "ID": 5786027,
-          "Title": "Universidade de Coventry"
+          "ID": 3178130,
+          "Title": "Categoria:Sistemas políticos"
         },
         {
-          "ID": 5828130,
-          "Title": "Política académica de portas abertas"
+          "ID": 37522,
+          "Title": "Categoria:Sociedade"
         },
         {
-          "ID": 5862094,
-          "Title": "Universidade de Delhi"
+          "ID": 2618955,
+          "Title": "Categoria:Teorias da personalidade"
         },
         {
-          "ID": 5873634,
-          "Title": "Jio"
+          "ID": 5532604,
+          "Title": "Categoria:Tribos por localização"
         },
         {
-          "ID": 5910982,
-          "Title": "Arquivos Nacionais e Administração de Documentos"
+          "ID": 5544783,
+          "Title": "Categoria:Órgãos governamentais"
         }
       ]
     },
@@ -2424,146 +1062,156 @@
       "Title": "Technology and applied sciences",
       "Categories": [
         {
-          "ID": 15036,
-          "Title": "Categoria:Internet"
+          "ID": 2631936,
+          "Title": "Categoria:Administração de dados"
         },
         {
-          "ID": 15228,
-          "Title": "Categoria:Tecnologia"
-        },
-        {
-          "ID": 15244,
-          "Title": "Categoria:Engenharia"
-        },
-        {
-          "ID": 15377,
-          "Title": "Categoria:Ciência da computação"
-        },
-        {
-          "ID": 15775,
-          "Title": "Categoria:Computadores"
-        },
-        {
-          "ID": 15791,
-          "Title": "Categoria:Ciências aplicadas"
-        },
-        {
-          "ID": 23885,
-          "Title": "Categoria:Design"
-        },
-        {
-          "ID": 26726,
-          "Title": "Categoria:Eletrônica"
-        },
-        {
-          "ID": 43380,
-          "Title": "Categoria:Meios de transporte"
+          "ID": 3622354,
+          "Title": "Categoria:Aplicativos móveis"
         },
         {
           "ID": 48840,
           "Title": "Categoria:Bancos de dados"
         },
         {
-          "ID": 170728,
-          "Title": "Categoria:Equipamento militar"
+          "ID": 3255939,
+          "Title": "Categoria:Calendários específicos"
         },
         {
-          "ID": 262533,
-          "Title": "Categoria:História da tecnologia"
+          "ID": 907786,
+          "Title": "Categoria:Carpintaria"
         },
         {
-          "ID": 604636,
-          "Title": "Categoria:Transporte"
+          "ID": 15377,
+          "Title": "Categoria:Ciência da computação"
+        },
+        {
+          "ID": 15791,
+          "Title": "Categoria:Ciências aplicadas"
+        },
+        {
+          "ID": 15775,
+          "Title": "Categoria:Computadores"
         },
         {
           "ID": 2631675,
           "Title": "Categoria:Computação"
         },
         {
-          "ID": 2631936,
-          "Title": "Categoria:Administração de dados"
+          "ID": 64228,
+          "Title": "Categoria:Consolas de jogos"
         },
         {
-          "ID": 2632234,
-          "Title": "Categoria:Tecnologia por tipo"
+          "ID": 59758,
+          "Title": "Categoria:Construção"
+        },
+        {
+          "ID": 23885,
+          "Title": "Categoria:Design"
+        },
+        {
+          "ID": 126108,
+          "Title": "Categoria:Eletrodomésticos"
+        },
+        {
+          "ID": 26726,
+          "Title": "Categoria:Eletrônica"
+        },
+        {
+          "ID": 15244,
+          "Title": "Categoria:Engenharia"
+        },
+        {
+          "ID": 657967,
+          "Title": "Categoria:Engenharia civil"
+        },
+        {
+          "ID": 77329,
+          "Title": "Categoria:Engenharia mecânica"
+        },
+        {
+          "ID": 170728,
+          "Title": "Categoria:Equipamento militar"
+        },
+        {
+          "ID": 493814,
+          "Title": "Categoria:Equipamentos"
+        },
+        {
+          "ID": 62607,
+          "Title": "Categoria:Ferramentas"
+        },
+        {
+          "ID": 1090814,
+          "Title": "Categoria:Ferramentas de corte"
+        },
+        {
+          "ID": 3847530,
+          "Title": "Categoria:Indústria gráfica"
+        },
+        {
+          "ID": 15036,
+          "Title": "Categoria:Internet"
+        },
+        {
+          "ID": 43380,
+          "Title": "Categoria:Meios de transporte"
+        },
+        {
+          "ID": 1443285,
+          "Title": "Categoria:Máquinas"
+        },
+        {
+          "ID": 80784,
+          "Title": "Categoria:Normas"
+        },
+        {
+          "ID": 335535,
+          "Title": "Categoria:Produção gráfica"
+        },
+        {
+          "ID": 14981,
+          "Title": "Categoria:Programas de computador"
+        },
+        {
+          "ID": 44412,
+          "Title": "Categoria:Programação"
+        },
+        {
+          "ID": 15228,
+          "Title": "Categoria:Tecnologia"
+        },
+        {
+          "ID": 1068614,
+          "Title": "Categoria:Tecnologia da informação"
+        },
+        {
+          "ID": 5551473,
+          "Title": "Categoria:Tecnologia de energia"
         },
         {
           "ID": 3152026,
           "Title": "Categoria:Tecnologia militar"
         },
         {
-          "ID": 3161028,
-          "Title": "Categoria:Cronologias de tecnologia"
+          "ID": 2632234,
+          "Title": "Categoria:Tecnologia por tipo"
         },
         {
-          "ID": 3622354,
-          "Title": "Categoria:Aplicativos móveis"
-        }
-      ],
-      "Articles": [
-        {
-          "ID": 7316,
-          "Title": "Domínio de topo"
-        },
-        {
-          "ID": 61373,
-          "Title": "PepsiCo"
-        },
-        {
-          "ID": 65924,
-          "Title": "Pepsi"
-        },
-        {
-          "ID": 73356,
-          "Title": "Chiclete"
-        },
-        {
-          "ID": 109527,
-          "Title": "Alvenaria"
-        },
-        {
-          "ID": 118298,
-          "Title": "Solda"
-        },
-        {
-          "ID": 390096,
-          "Title": "Sega 32X"
-        },
-        {
-          "ID": 1029394,
-          "Title": "Mountain Dew"
-        },
-        {
-          "ID": 2145087,
-          "Title": "Muro"
-        },
-        {
-          "ID": 2426681,
-          "Title": "Soldagem TIG"
-        },
-        {
-          "ID": 3206766,
-          "Title": ".xxx"
-        },
-        {
-          "ID": 3655924,
-          "Title": "Ensambladura em cauda de andorinha"
-        },
-        {
-          "ID": 3655979,
-          "Title": "Meia madeira"
+          "ID": 604636,
+          "Title": "Categoria:Transporte"
         }
       ]
     }
   ],
   "Filters": [
     {
-      "ID": 19840,
-      "Title": "Categoria:Desambiguação"
-    },
-    {
       "ID": 2786747,
       "Title": "Categoria:!Categorias ocultas"
+    },
+    {
+      "ID": 19840,
+      "Title": "Categoria:Desambiguação"
     }
   ]
 }

@@ -6,6 +6,14 @@
       "Title": "Culture and the arts",
       "Categories": [
         {
+          "ID": 3645,
+          "Title": "Ñemohenda:Jetepyso"
+        },
+        {
+          "ID": 10249,
+          "Title": "Ñemohenda:Mba'epu porã"
+        },
+        {
           "ID": 3236,
           "Title": "Ñemohenda:Sa'y"
         },
@@ -14,54 +22,16 @@
           "Title": "Ñemohenda:Tembiapo"
         },
         {
-          "ID": 3645,
-          "Title": "Ñemohenda:Jetepyso"
+          "ID": 11612,
+          "Title": "Ñemohenda:Tembiapoporã"
+        },
+        {
+          "ID": 3644,
+          "Title": "Ñemohenda:Ñe'ẽporãhaipyre"
         },
         {
           "ID": 10188,
           "Title": "Ñemohenda:Ñemongaru"
-        },
-        {
-          "ID": 11612,
-          "Title": "Ñemohenda:Tembiapoporã"
-        }
-      ],
-      "Articles": [
-        {
-          "ID": 2880,
-          "Title": "Vikipetã"
-        },
-        {
-          "ID": 5549,
-          "Title": "Kure"
-        },
-        {
-          "ID": 7115,
-          "Title": "Kuvuasu"
-        },
-        {
-          "ID": 7117,
-          "Title": "Chokora"
-        },
-        {
-          "ID": 7618,
-          "Title": "Mbujape"
-        },
-        {
-          "ID": 7824,
-          "Title": "Typy'are'ẽ"
-        },
-        {
-          "ID": 7994,
-          "Title": "Kuvãju"
-        },
-        {
-          "ID": 9468,
-          "Title": "Kaguyjúi"
-        },
-        {
-          "ID": 10665,
-          "Title": "Añetegua reko"
         }
       ]
     },
@@ -70,30 +40,24 @@
       "Title": "Geography and places",
       "Categories": [
         {
+          "ID": 6163,
+          "Title": "Ñemohenda:Ta'ãnga'ita"
+        },
+        {
+          "ID": 2635,
+          "Title": "Ñemohenda:Tetã"
+        },
+        {
           "ID": 2650,
           "Title": "Ñemohenda:Tetãnguéra"
         },
         {
-          "ID": 6163,
-          "Title": "Ñemohenda:Ta'ãnga'ita"
-        }
-      ],
-      "Articles": [
-        {
-          "ID": 1931,
-          "Title": "Yvypóra"
+          "ID": 2636,
+          "Title": "Ñemohenda:Táva"
         },
         {
-          "ID": 5204,
-          "Title": "Parĩ"
-        },
-        {
-          "ID": 6576,
-          "Title": "Autarália"
-        },
-        {
-          "ID": 8589,
-          "Title": "Miama"
+          "ID": 4496,
+          "Title": "Ñemohenda:Ysyry"
         }
       ]
     },
@@ -114,16 +78,10 @@
         {
           "ID": 3011,
           "Title": "Ñemohenda:Tembiasakue"
-        }
-      ],
-      "Articles": [
-        {
-          "ID": 5702,
-          "Title": "Torres Gemelas ojeitypárõguare, 11 jasyporundýpe"
         },
         {
-          "ID": 10432,
-          "Title": "Donald Trump"
+          "ID": 6376,
+          "Title": "Ñemohenda:Ñorairõ"
         }
       ]
     },
@@ -134,6 +92,10 @@
         {
           "ID": 2810,
           "Title": "Ñemohenda:Papapykuaa"
+        },
+        {
+          "ID": 7415,
+          "Title": "Ñemohenda:Ta'ãha"
         }
       ]
     },
@@ -142,66 +104,32 @@
       "Title": "Nature and physical sciences",
       "Categories": [
         {
-          "ID": 2781,
-          "Title": "Ñemohenda:Tembikuaaty"
+          "ID": 3381,
+          "Title": "Ñemohenda:Ka'avo"
+        },
+        {
+          "ID": 6305,
+          "Title": "Ñemohenda:Kimikuaa"
         },
         {
           "ID": 6272,
           "Title": "Ñemohenda:Mba'erekokuaa"
         },
         {
-          "ID": 6305,
-          "Title": "Ñemohenda:Kimikuaa"
-        }
-      ],
-      "Articles": [
-        {
-          "ID": 3456,
-          "Title": "Merõ"
+          "ID": 2843,
+          "Title": "Ñemohenda:Mymba"
         },
         {
-          "ID": 3696,
-          "Title": "Tembo"
+          "ID": 2781,
+          "Title": "Ñemohenda:Tembikuaaty"
         },
         {
-          "ID": 3776,
-          "Title": "Kurapepẽ"
+          "ID": 3454,
+          "Title": "Ñemohenda:Tete"
         },
         {
-          "ID": 3824,
-          "Title": "Avati mirĩ"
-        },
-        {
-          "ID": 5017,
-          "Title": "Kuriju"
-        },
-        {
-          "ID": 6883,
-          "Title": "Avati"
-        },
-        {
-          "ID": 7067,
-          "Title": "Tata"
-        },
-        {
-          "ID": 7075,
-          "Title": "Tomáte"
-        },
-        {
-          "ID": 7503,
-          "Title": "Mymba'akãndu"
-        },
-        {
-          "ID": 7829,
-          "Title": "Yvapytã"
-        },
-        {
-          "ID": 7934,
-          "Title": "Ta'ỹi"
-        },
-        {
-          "ID": 10828,
-          "Title": "Tete pehẽnguenguéra ñemoñarã"
+          "ID": 7820,
+          "Title": "Ñemohenda:Yva"
         }
       ]
     },
@@ -212,40 +140,10 @@
         {
           "ID": 3014,
           "Title": "Ñemohenda:Tekove"
-        }
-      ],
-      "Articles": [
-        {
-          "ID": 4954,
-          "Title": "Adolf Hitler"
         },
         {
-          "ID": 5338,
-          "Title": "John Lennon"
-        },
-        {
-          "ID": 6291,
-          "Title": "Florence Nightingale"
-        },
-        {
-          "ID": 7955,
-          "Title": "The Big Bang Theory"
-        },
-        {
-          "ID": 9372,
-          "Title": "Hose Smith"
-        },
-        {
-          "ID": 9937,
-          "Title": "Galiléo Galiléi"
-        },
-        {
-          "ID": 10099,
-          "Title": "Ríchard Vágner"
-        },
-        {
-          "ID": 11802,
-          "Title": "Kiritóval Kolõ"
+          "ID": 6593,
+          "Title": "Ñemohenda:Ñe'ẽpapára"
         }
       ]
     },
@@ -256,20 +154,6 @@
         {
           "ID": 10251,
           "Title": "Ñemohenda:Arandupykuaaty"
-        }
-      ],
-      "Articles": [
-        {
-          "ID": 3531,
-          "Title": "Vy'apavẽ"
-        },
-        {
-          "ID": 3533,
-          "Title": "Vy'a"
-        },
-        {
-          "ID": 9031,
-          "Title": "Jerovia"
         }
       ]
     },
@@ -290,32 +174,10 @@
         {
           "ID": 10657,
           "Title": "Ñemohenda:Tekoiterape"
-        }
-      ],
-      "Articles": [
-        {
-          "ID": 2823,
-          "Title": "Chíle"
         },
         {
-          "ID": 5260,
-          "Title": "Iran"
-        },
-        {
-          "ID": 8835,
-          "Title": "Varvado"
-        },
-        {
-          "ID": 10321,
-          "Title": "Arahaku ára"
-        },
-        {
-          "ID": 10851,
-          "Title": "Mbo'ehaorusu Harvard"
-        },
-        {
-          "ID": 11889,
-          "Title": "Mbo'ehaorusu Towson"
+          "ID": 6282,
+          "Title": "Ñemohenda:Viru"
         }
       ]
     },
@@ -324,16 +186,24 @@
       "Title": "Technology and applied sciences",
       "Categories": [
         {
-          "ID": 3598,
-          "Title": "Ñemohenda:Mba'aporekokuaa"
+          "ID": 7313,
+          "Title": "Ñemohenda:Internet"
         },
         {
           "ID": 6772,
           "Title": "Ñemohenda:Jereraha"
         },
         {
-          "ID": 7313,
-          "Title": "Ñemohenda:Internet"
+          "ID": 3598,
+          "Title": "Ñemohenda:Mba'aporekokuaa"
+        },
+        {
+          "ID": 3599,
+          "Title": "Ñemohenda:Tembiporu"
+        },
+        {
+          "ID": 10113,
+          "Title": "Ñemohenda:Tembiporu tembi'u aporã"
         }
       ]
     }

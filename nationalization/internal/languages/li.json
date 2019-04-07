@@ -6,82 +6,80 @@
       "Title": "Culture and the arts",
       "Categories": [
         {
-          "ID": 1984,
-          "Title": "Categorie:Kuns"
-        },
-        {
-          "ID": 8967,
-          "Title": "Categorie:Voeding"
-        },
-        {
-          "ID": 9981,
-          "Title": "Categorie:Sjport"
+          "ID": 19519,
+          "Title": "Categorie:Bands"
         },
         {
           "ID": 10520,
           "Title": "Categorie:Cultuur"
         },
         {
-          "ID": 10528,
-          "Title": "Categorie:Hobby"
+          "ID": 10185,
+          "Title": "Categorie:Educatie"
+        },
+        {
+          "ID": 13110,
+          "Title": "Categorie:Encyclopedieë"
+        },
+        {
+          "ID": 13320,
+          "Title": "Categorie:Festivals"
         },
         {
           "ID": 11934,
           "Title": "Categorie:Films"
         },
         {
-          "ID": 19519,
-          "Title": "Categorie:Bands"
+          "ID": 10528,
+          "Title": "Categorie:Hobby"
+        },
+        {
+          "ID": 17531,
+          "Title": "Categorie:Internetcultuur"
         },
         {
           "ID": 23111,
           "Title": "Categorie:Kleur"
-        }
-      ],
-      "Articles": [
-        {
-          "ID": 8,
-          "Title": "Wikipedia"
         },
         {
-          "ID": 39,
-          "Title": "Encyclopedie"
+          "ID": 1984,
+          "Title": "Categorie:Kuns"
         },
         {
-          "ID": 3401,
-          "Title": "Beer"
+          "ID": 9938,
+          "Title": "Categorie:Literatuur"
         },
         {
-          "ID": 11636,
-          "Title": "Sjink"
+          "ID": 17283,
+          "Title": "Categorie:Meziek"
         },
         {
-          "ID": 11942,
-          "Title": "Sjoekelaat"
+          "ID": 27179,
+          "Title": "Categorie:Meziekgenres"
         },
         {
-          "ID": 14634,
-          "Title": "Saoze"
+          "ID": 52065,
+          "Title": "Categorie:Meziekwerke"
         },
         {
-          "ID": 16699,
-          "Title": "Ei (aete)"
+          "ID": 1948,
+          "Title": "Categorie:Podiumkunste"
         },
         {
-          "ID": 17802,
-          "Title": "Sjpek"
+          "ID": 10060,
+          "Title": "Categorie:Populair cultuur"
         },
         {
-          "ID": 23838,
-          "Title": "Pizza"
+          "ID": 29986,
+          "Title": "Categorie:Seksualiteit"
         },
         {
-          "ID": 27503,
-          "Title": "Kóffe"
+          "ID": 9981,
+          "Title": "Categorie:Sjport"
         },
         {
-          "ID": 34421,
-          "Title": "Realiteit"
+          "ID": 8967,
+          "Title": "Categorie:Voeding"
         }
       ]
     },
@@ -94,42 +92,28 @@
           "Title": "Categorie:Geografie"
         },
         {
+          "ID": 25283,
+          "Title": "Categorie:Geografielieste"
+        },
+        {
           "ID": 18618,
           "Title": "Categorie:Monumente"
         },
         {
-          "ID": 25283,
-          "Title": "Categorie:Geografielieste"
-        }
-      ],
-      "Articles": [
-        {
-          "ID": 1405,
-          "Title": "Paries"
+          "ID": 19007,
+          "Title": "Categorie:Plaatse"
         },
         {
-          "ID": 1591,
-          "Title": "Australië"
+          "ID": 12386,
+          "Title": "Categorie:Revere"
         },
         {
-          "ID": 1836,
-          "Title": "Venetië"
+          "ID": 19720,
+          "Title": "Categorie:Sjtaej"
         },
         {
-          "ID": 1970,
-          "Title": "Mins"
-        },
-        {
-          "ID": 2910,
-          "Title": "Birma"
-        },
-        {
-          "ID": 24465,
-          "Title": "Queensland"
-        },
-        {
-          "ID": 33518,
-          "Title": "Piramied"
+          "ID": 67157,
+          "Title": "Categorie:Sjtraote"
         }
       ]
     },
@@ -156,18 +140,12 @@
           "Title": "Categorie:Historie"
         },
         {
-          "ID": 7270,
-          "Title": "Categorie:Minsjweitesjappe"
-        }
-      ],
-      "Articles": [
-        {
-          "ID": 7288,
-          "Title": "Aonsleeg vaan 11 september 2001"
+          "ID": 13070,
+          "Title": "Categorie:Oorloge"
         },
         {
-          "ID": 60308,
-          "Title": "Donald Trump"
+          "ID": 24406,
+          "Title": "Categorie:Revoluties"
         }
       ]
     },
@@ -176,18 +154,16 @@
       "Title": "Mathematics and logic",
       "Categories": [
         {
-          "ID": 19382,
-          "Title": "Categorie:Wiskónde"
+          "ID": 14494,
+          "Title": "Categorie:Einhede"
         },
         {
           "ID": 23114,
           "Title": "Categorie:Logica"
-        }
-      ],
-      "Articles": [
+        },
         {
-          "ID": 34248,
-          "Title": "Lingdje"
+          "ID": 19382,
+          "Title": "Categorie:Wiskónde"
         }
       ]
     },
@@ -196,58 +172,48 @@
       "Title": "Nature and physical sciences",
       "Categories": [
         {
-          "ID": 3026,
-          "Title": "Categorie:Natuurweitesjappe"
-        },
-        {
-          "ID": 6539,
-          "Title": "Categorie:Natuurkónde"
-        },
-        {
-          "ID": 9294,
-          "Title": "Categorie:Weitesjap"
-        },
-        {
-          "ID": 19718,
-          "Title": "Categorie:Natuur"
+          "ID": 15445,
+          "Title": "Categorie:Anatomie"
         },
         {
           "ID": 19898,
           "Title": "Categorie:Chemie"
         },
         {
+          "ID": 3175,
+          "Title": "Categorie:Dere"
+        },
+        {
+          "ID": 14636,
+          "Title": "Categorie:Fruit"
+        },
+        {
+          "ID": 19718,
+          "Title": "Categorie:Natuur"
+        },
+        {
+          "ID": 6539,
+          "Title": "Categorie:Natuurkónde"
+        },
+        {
+          "ID": 3026,
+          "Title": "Categorie:Natuurweitesjappe"
+        },
+        {
+          "ID": 11537,
+          "Title": "Categorie:Plante"
+        },
+        {
+          "ID": 9294,
+          "Title": "Categorie:Weitesjap"
+        },
+        {
+          "ID": 1443,
+          "Title": "Categorie:Welt"
+        },
+        {
           "ID": 34100,
           "Title": "Categorie:Zoölogie"
-        }
-      ],
-      "Articles": [
-        {
-          "ID": 3194,
-          "Title": "Gewoan terf"
-        },
-        {
-          "ID": 13463,
-          "Title": "Ries"
-        },
-        {
-          "ID": 28477,
-          "Title": "Vuur"
-        },
-        {
-          "ID": 28498,
-          "Title": "Hydrologie"
-        },
-        {
-          "ID": 28967,
-          "Title": "Weit"
-        },
-        {
-          "ID": 28979,
-          "Title": "Meis"
-        },
-        {
-          "ID": 31779,
-          "Title": "Spier"
         }
       ]
     },
@@ -256,66 +222,72 @@
       "Title": "People and self",
       "Categories": [
         {
+          "ID": 26410,
+          "Title": "Categorie:Achternaam"
+        },
+        {
+          "ID": 11515,
+          "Title": "Categorie:Acteurs"
+        },
+        {
+          "ID": 11517,
+          "Title": "Categorie:Architekte"
+        },
+        {
+          "ID": 25536,
+          "Title": "Categorie:Dokters"
+        },
+        {
+          "ID": 11989,
+          "Title": "Categorie:Fictief persoene"
+        },
+        {
+          "ID": 11887,
+          "Title": "Categorie:Filosofe"
+        },
+        {
+          "ID": 27555,
+          "Title": "Categorie:Gesjtorve luuj"
+        },
+        {
+          "ID": 27559,
+          "Title": "Categorie:Laevende luuj"
+        },
+        {
+          "ID": 14740,
+          "Title": "Categorie:Musici"
+        },
+        {
           "ID": 17329,
           "Title": "Categorie:Persoene"
         },
         {
-          "ID": 26410,
-          "Title": "Categorie:Achternaam"
-        }
-      ],
-      "Articles": [
-        {
-          "ID": 1467,
-          "Title": "Richard Wagner"
+          "ID": 18056,
+          "Title": "Categorie:Persoene nao eigensjap"
         },
         {
-          "ID": 1539,
-          "Title": "Adolf Hitler"
+          "ID": 17380,
+          "Title": "Categorie:Pilote"
         },
         {
-          "ID": 1840,
-          "Title": "René Descartes"
+          "ID": 11888,
+          "Title": "Categorie:Politici"
         },
         {
-          "ID": 1860,
-          "Title": "Alan Turing"
+          "ID": 11880,
+          "Title": "Categorie:Sjrievers"
         },
         {
-          "ID": 2013,
-          "Title": "Bill Gates"
+          "ID": 11931,
+          "Title": "Categorie:Sjtaatshoofde"
         },
         {
-          "ID": 18931,
-          "Title": "Carl Sagan"
+          "ID": 36643,
+          "Title": "Categorie:Wiskundige"
         },
         {
-          "ID": 29631,
-          "Title": "Galileo Galilei"
-        },
-        {
-          "ID": 30576,
-          "Title": "Noam Chomsky"
-        },
-        {
-          "ID": 31499,
-          "Title": "Christoffel Columbus"
-        },
-        {
-          "ID": 34508,
-          "Title": "Fibonacci"
-        },
-        {
-          "ID": 35261,
-          "Title": "Johannes Kepler"
-        },
-        {
-          "ID": 36572,
-          "Title": "Sigmund Freud"
-        },
-        {
-          "ID": 67426,
-          "Title": "The Big Bang Theory (tillevizieserie)"
+          "ID": 11960,
+          "Title": "Categorie:Óntdèkkingsreizigers"
         }
       ]
     },
@@ -324,18 +296,12 @@
       "Title": "Philosophy and thinking",
       "Categories": [
         {
-          "ID": 7858,
-          "Title": "Categorie:Filosofie"
-        },
-        {
           "ID": 44975,
           "Title": "Categorie:Ethiek"
-        }
-      ],
-      "Articles": [
+        },
         {
-          "ID": 34849,
-          "Title": "Sjoeanigheid"
+          "ID": 7858,
+          "Title": "Categorie:Filosofie"
         }
       ]
     },
@@ -358,8 +324,32 @@
       "Title": "Society and social sciences",
       "Categories": [
         {
+          "ID": 42764,
+          "Title": "Categorie:Feminisme"
+        },
+        {
+          "ID": 12160,
+          "Title": "Categorie:Geldj"
+        },
+        {
+          "ID": 30757,
+          "Title": "Categorie:Internationaal organisatie"
+        },
+        {
+          "ID": 14219,
+          "Title": "Categorie:Lochvaartmaatsjappieje"
+        },
+        {
+          "ID": 66009,
+          "Title": "Categorie:Minsj en maotsjappie"
+        },
+        {
           "ID": 7270,
           "Title": "Categorie:Minsjweitesjappe"
+        },
+        {
+          "ID": 11954,
+          "Title": "Categorie:Psychologie"
         },
         {
           "ID": 10292,
@@ -368,40 +358,6 @@
         {
           "ID": 17330,
           "Title": "Categorie:Wètte"
-        },
-        {
-          "ID": 30757,
-          "Title": "Categorie:Internationaal organisatie"
-        },
-        {
-          "ID": 42764,
-          "Title": "Categorie:Feminisme"
-        },
-        {
-          "ID": 66009,
-          "Title": "Categorie:Minsj en maotsjappie"
-        }
-      ],
-      "Articles": [
-        {
-          "ID": 2107,
-          "Title": "Europese Unie"
-        },
-        {
-          "ID": 2341,
-          "Title": "Iran"
-        },
-        {
-          "ID": 11294,
-          "Title": "Barbados"
-        },
-        {
-          "ID": 16186,
-          "Title": "Chili"
-        },
-        {
-          "ID": 16645,
-          "Title": "Zomertied"
         }
       ]
     },
@@ -410,12 +366,28 @@
       "Title": "Technology and applied sciences",
       "Categories": [
         {
-          "ID": 2207,
-          "Title": "Categorie:Internet"
+          "ID": 11780,
+          "Title": "Categorie:Boewkuns"
+        },
+        {
+          "ID": 44635,
+          "Title": "Categorie:Bookdrökkuns"
         },
         {
           "ID": 2208,
           "Title": "Categorie:Computer"
+        },
+        {
+          "ID": 12478,
+          "Title": "Categorie:Gereidsjappe"
+        },
+        {
+          "ID": 11895,
+          "Title": "Categorie:Informatica"
+        },
+        {
+          "ID": 2207,
+          "Title": "Categorie:Internet"
         },
         {
           "ID": 4891,
@@ -424,20 +396,6 @@
         {
           "ID": 8041,
           "Title": "Categorie:Verveur"
-        },
-        {
-          "ID": 11895,
-          "Title": "Categorie:Informatica"
-        }
-      ],
-      "Articles": [
-        {
-          "ID": 1999,
-          "Title": "Top-level domain"
-        },
-        {
-          "ID": 15868,
-          "Title": "Moeër (boew)"
         }
       ]
     }

@@ -10,42 +10,28 @@
           "Title": "Kategori:Budaya"
         },
         {
-          "ID": 4148,
-          "Title": "Kategori:Seni"
+          "ID": 7691,
+          "Title": "Kategori:Hiburan"
+        },
+        {
+          "ID": 4813,
+          "Title": "Kategori:Musik"
         },
         {
           "ID": 7439,
           "Title": "Kategori:Olahraga"
         },
         {
-          "ID": 7691,
-          "Title": "Kategori:Hiburan"
-        }
-      ],
-      "Articles": [
-        {
-          "ID": 15,
-          "Title": "Wikipedia"
+          "ID": 5119,
+          "Title": "Kategori:Pendidikan"
         },
         {
-          "ID": 5214,
-          "Title": "Kripik"
+          "ID": 4474,
+          "Title": "Kategori:Sastra"
         },
         {
-          "ID": 10609,
-          "Title": "Ensiklopedia"
-        },
-        {
-          "ID": 12541,
-          "Title": "Coklat (panganan)"
-        },
-        {
-          "ID": 12944,
-          "Title": "Roti"
-        },
-        {
-          "ID": 29023,
-          "Title": "Bir"
+          "ID": 4148,
+          "Title": "Kategori:Seni"
         }
       ]
     },
@@ -56,20 +42,18 @@
         {
           "ID": 4608,
           "Title": "Kategori:Geografi"
-        }
-      ],
-      "Articles": [
-        {
-          "ID": 35,
-          "Title": "Tokoh"
         },
         {
-          "ID": 3211,
-          "Title": "Myanmar"
+          "ID": 4140,
+          "Title": "Kategori:Kota"
         },
         {
-          "ID": 3327,
-          "Title": "Menungsa"
+          "ID": 4133,
+          "Title": "Kategori:Negara"
+        },
+        {
+          "ID": 2835,
+          "Title": "Kategori:Wilayah"
         }
       ]
     },
@@ -82,12 +66,12 @@
       "Title": "History and events",
       "Categories": [
         {
-          "ID": 3951,
-          "Title": "Kategori:Sejarah"
+          "ID": 4438,
+          "Title": "Kategori:Perang"
         },
         {
-          "ID": 13349,
-          "Title": "Kategori:Ilmu sosial"
+          "ID": 3951,
+          "Title": "Kategori:Sejarah"
         }
       ]
     },
@@ -106,8 +90,8 @@
       "Title": "Nature and physical sciences",
       "Categories": [
         {
-          "ID": 7674,
-          "Title": "Kategori:Kimia"
+          "ID": 4569,
+          "Title": "Kategori:Bumi"
         },
         {
           "ID": 8471,
@@ -116,28 +100,22 @@
         {
           "ID": 13346,
           "Title": "Kategori:Ilmu"
-        }
-      ],
-      "Articles": [
-        {
-          "ID": 3910,
-          "Title": "Bléwah"
         },
         {
-          "ID": 3926,
-          "Title": "Jeruk"
+          "ID": 4385,
+          "Title": "Kategori:Kewan"
         },
         {
-          "ID": 3937,
-          "Title": "Nanas"
+          "ID": 7674,
+          "Title": "Kategori:Kimia"
         },
         {
-          "ID": 25853,
-          "Title": "Pelem"
+          "ID": 4128,
+          "Title": "Kategori:Tanduran"
         },
         {
-          "ID": 27955,
-          "Title": "Jagung"
+          "ID": 10201,
+          "Title": "Kategori:Uwoh"
         }
       ]
     },
@@ -146,34 +124,24 @@
       "Title": "People and self",
       "Categories": [
         {
+          "ID": 11907,
+          "Title": "Kategori:Kelairan miturut taun"
+        },
+        {
+          "ID": 11905,
+          "Title": "Kategori:Pati miturut taun"
+        },
+        {
+          "ID": 4138,
+          "Title": "Kategori:Presiden"
+        },
+        {
           "ID": 4162,
           "Title": "Kategori:Tokoh"
-        }
-      ],
-      "Articles": [
-        {
-          "ID": 11919,
-          "Title": "Kristoforus Kolumbus"
         },
         {
-          "ID": 12260,
-          "Title": "Richard Wagner"
-        },
-        {
-          "ID": 12268,
-          "Title": "Bill Gates"
-        },
-        {
-          "ID": 12289,
-          "Title": "Thomas Aquinas"
-        },
-        {
-          "ID": 13294,
-          "Title": "Sigmund Freud"
-        },
-        {
-          "ID": 29052,
-          "Title": "Adolf Hitler"
+          "ID": 12337,
+          "Title": "Kategori:Wong esih urip"
         }
       ]
     },
@@ -196,22 +164,20 @@
       "Title": "Society and social sciences",
       "Categories": [
         {
-          "ID": 4601,
-          "Title": "Kategori:Organisasi Internasional"
+          "ID": 13349,
+          "Title": "Kategori:Ilmu sosial"
         },
         {
           "ID": 13279,
           "Title": "Kategori:Masyarakat"
         },
         {
-          "ID": 13349,
-          "Title": "Kategori:Ilmu sosial"
-        }
-      ],
-      "Articles": [
+          "ID": 4427,
+          "Title": "Kategori:Organisasi"
+        },
         {
-          "ID": 30228,
-          "Title": "Chile"
+          "ID": 4601,
+          "Title": "Kategori:Organisasi Internasional"
         }
       ]
     },

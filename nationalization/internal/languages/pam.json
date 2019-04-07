@@ -6,6 +6,14 @@
       "Title": "Culture and the arts",
       "Categories": [
         {
+          "ID": 10150,
+          "Title": "Category:Bantug a Kalinangan"
+        },
+        {
+          "ID": 9976,
+          "Title": "Category:Diwa (kule)"
+        },
+        {
           "ID": 1404,
           "Title": "Category:Isports"
         },
@@ -14,26 +22,20 @@
           "Title": "Category:Kalinangan"
         },
         {
+          "ID": 6075,
+          "Title": "Category:Pamagaral"
+        },
+        {
           "ID": 9270,
           "Title": "Category:Talasulat"
         },
         {
-          "ID": 9976,
-          "Title": "Category:Diwa (kule)"
-        }
-      ],
-      "Articles": [
-        {
-          "ID": 2360,
-          "Title": "Wikipedia"
+          "ID": 10152,
+          "Title": "Category:Tigtigan"
         },
         {
-          "ID": 12330,
-          "Title": "Babi"
-        },
-        {
-          "ID": 20218,
-          "Title": "Kako"
+          "ID": 10151,
+          "Title": "Category:Tigtigan genres"
         }
       ]
     },
@@ -45,28 +47,6 @@
           "ID": 1422,
           "Title": "Category:Geografía"
         }
-      ],
-      "Articles": [
-        {
-          "ID": 3110,
-          "Title": "Myanmar"
-        },
-        {
-          "ID": 3687,
-          "Title": "Australia"
-        },
-        {
-          "ID": 5080,
-          "Title": "Paris"
-        },
-        {
-          "ID": 7757,
-          "Title": "Queensland"
-        },
-        {
-          "ID": 9881,
-          "Title": "Tau"
-        }
       ]
     },
     {
@@ -74,16 +54,20 @@
       "Title": "Health and fitness",
       "Categories": [
         {
+          "ID": 8396,
+          "Title": "Category:Anatomy ning tau"
+        },
+        {
+          "ID": 11109,
+          "Title": "Category:Kabulasan"
+        },
+        {
           "ID": 7364,
           "Title": "Category:Medical specialties"
         },
         {
           "ID": 7365,
           "Title": "Category:Medicine"
-        },
-        {
-          "ID": 11109,
-          "Title": "Category:Kabulasan"
         }
       ]
     },
@@ -106,74 +90,48 @@
       "Title": "Nature and physical sciences",
       "Categories": [
         {
+          "ID": 2320,
+          "Title": "Category:Anatomy"
+        },
+        {
+          "ID": 13496,
+          "Title": "Category:Animal"
+        },
+        {
+          "ID": 7485,
+          "Title": "Category:Bie"
+        },
+        {
+          "ID": 5405,
+          "Title": "Category:Bungang Tanaman"
+        },
+        {
+          "ID": 6707,
+          "Title": "Category:Chemical substances"
+        },
+        {
           "ID": 2328,
           "Title": "Category:Chemistry"
         },
         {
-          "ID": 3575,
-          "Title": "Category:Zoology"
+          "ID": 5542,
+          "Title": "Category:Deng Tanaman"
         },
         {
-          "ID": 5208,
-          "Title": "Category:Science"
+          "ID": 6250,
+          "Title": "Category:Ecology"
         },
         {
           "ID": 5550,
           "Title": "Category:Natural sciences"
         },
         {
-          "ID": 6707,
-          "Title": "Category:Chemical substances"
-        }
-      ],
-      "Articles": [
-        {
-          "ID": 5413,
-          "Title": "Mangga"
+          "ID": 5208,
+          "Title": "Category:Science"
         },
         {
-          "ID": 5433,
-          "Title": "Lemon"
-        },
-        {
-          "ID": 5434,
-          "Title": "Dalandan"
-        },
-        {
-          "ID": 6041,
-          "Title": "Pale"
-        },
-        {
-          "ID": 6241,
-          "Title": "Date Palm"
-        },
-        {
-          "ID": 6252,
-          "Title": "Kamatis"
-        },
-        {
-          "ID": 7152,
-          "Title": "Pinya"
-        },
-        {
-          "ID": 8771,
-          "Title": "Bayag"
-        },
-        {
-          "ID": 9921,
-          "Title": "Milun"
-        },
-        {
-          "ID": 14504,
-          "Title": "Trigu"
-        },
-        {
-          "ID": 14507,
-          "Title": "Mais"
-        },
-        {
-          "ID": 19351,
-          "Title": "Butu ning tau"
+          "ID": 3575,
+          "Title": "Category:Zoology"
         }
       ]
     },
@@ -182,66 +140,28 @@
       "Title": "People and self",
       "Categories": [
         {
-          "ID": 7485,
-          "Title": "Category:Bie"
+          "ID": 8033,
+          "Title": "Category:Artista"
         },
         {
           "ID": 7487,
           "Title": "Category:Deng Tau"
-        }
-      ],
-      "Articles": [
-        {
-          "ID": 5115,
-          "Title": "René Descartes"
         },
         {
-          "ID": 5215,
-          "Title": "Thomas Aquinas"
+          "ID": 11206,
+          "Title": "Category:Mabieng tau"
         },
         {
-          "ID": 11828,
-          "Title": "Richard Wagner"
+          "ID": 14694,
+          "Title": "Category:Menimbentu"
         },
         {
-          "ID": 11875,
-          "Title": "Christopher Columbus"
+          "ID": 8039,
+          "Title": "Category:Pilosopu"
         },
         {
-          "ID": 11906,
-          "Title": "Sigmund Freud"
-        },
-        {
-          "ID": 11907,
-          "Title": "Galileo Galilei"
-        },
-        {
-          "ID": 12166,
-          "Title": "Bill Gates"
-        },
-        {
-          "ID": 14645,
-          "Title": "Joseph Smith Jr."
-        },
-        {
-          "ID": 17838,
-          "Title": "Alan Turing"
-        },
-        {
-          "ID": 18634,
-          "Title": "Srinivasa Ramanujan"
-        },
-        {
-          "ID": 19570,
-          "Title": "Richard Dawkins"
-        },
-        {
-          "ID": 20410,
-          "Title": "John Lennon"
-        },
-        {
-          "ID": 20422,
-          "Title": "George Harrison"
+          "ID": 14849,
+          "Title": "Category:Tau agpang keng obra"
         }
       ]
     },
@@ -260,24 +180,22 @@
         {
           "ID": 6076,
           "Title": "Category:Aguman"
-        }
-      ],
-      "Articles": [
-        {
-          "ID": 3124,
-          "Title": "Iran"
         },
         {
-          "ID": 3277,
-          "Title": "Chile"
+          "ID": 5411,
+          "Title": "Category:Ding Cumpanya"
         },
         {
-          "ID": 4627,
-          "Title": "Barbados"
+          "ID": 2356,
+          "Title": "Category:Gubyernu"
         },
         {
-          "ID": 5935,
-          "Title": "Adamson University"
+          "ID": 4583,
+          "Title": "Category:Gubyernu institusyun"
+        },
+        {
+          "ID": 6073,
+          "Title": "Category:Pamagaral agpang keng bangsa"
         }
       ]
     },
@@ -286,16 +204,16 @@
       "Title": "Technology and applied sciences",
       "Categories": [
         {
-          "ID": 11984,
-          "Title": "Category:Engineering"
-        },
-        {
           "ID": 11985,
           "Title": "Category:Applied sciences"
         },
         {
           "ID": 16130,
           "Title": "Category:Computer science"
+        },
+        {
+          "ID": 11984,
+          "Title": "Category:Engineering"
         }
       ]
     }

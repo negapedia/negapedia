@@ -6,86 +6,92 @@
       "Title": "Culture and the arts",
       "Categories": [
         {
-          "ID": 2920,
-          "Title": "Kategori:Huner"
+          "ID": 4108,
+          "Title": "Kategori:Biyografiye"
         },
         {
-          "ID": 2951,
-          "Title": "Kategori:Spor"
+          "ID": 43091,
+          "Title": "Kategori:Cınsiyet"
         },
         {
-          "ID": 2964,
-          "Title": "Kategori:Zagon"
-        },
-        {
-          "ID": 12068,
-          "Title": "Kategori:Nuştış"
-        },
-        {
-          "ID": 33244,
-          "Title": "Kategori:Rengi"
+          "ID": 2835,
+          "Title": "Kategori:Edebiyat"
         },
         {
           "ID": 34872,
           "Title": "Kategori:Filmi"
         },
         {
+          "ID": 41070,
+          "Title": "Kategori:Folklor"
+        },
+        {
           "ID": 45294,
           "Title": "Kategori:Gastronomiye"
         },
         {
+          "ID": 44516,
+          "Title": "Kategori:Goreyê dewletan ra kultur"
+        },
+        {
           "ID": 47345,
           "Title": "Kategori:Grubê muziki"
-        }
-      ],
-      "Articles": [
-        {
-          "ID": 338,
-          "Title": "Wikipediya"
         },
         {
-          "ID": 33859,
-          "Title": "The Wanted"
+          "ID": 2920,
+          "Title": "Kategori:Huner"
         },
         {
-          "ID": 42839,
-          "Title": "Ensiklopediye"
+          "ID": 2945,
+          "Title": "Kategori:Kıtabi"
         },
         {
-          "ID": 44209,
-          "Title": "Sekso oral"
+          "ID": 2915,
+          "Title": "Kategori:Muzik"
         },
         {
-          "ID": 44224,
-          "Title": "Fellatio"
+          "ID": 12068,
+          "Title": "Kategori:Nuştış"
         },
         {
-          "ID": 44817,
-          "Title": "Judas"
+          "ID": 2947,
+          "Title": "Kategori:Pêseroki"
         },
         {
-          "ID": 45108,
-          "Title": "Bira"
+          "ID": 2948,
+          "Title": "Kategori:Qezetey"
         },
         {
-          "ID": 45446,
-          "Title": "Xozi"
+          "ID": 33244,
+          "Title": "Kategori:Rengi"
         },
         {
-          "ID": 52029,
-          "Title": "Goştê xozi"
+          "ID": 44212,
+          "Title": "Kategori:Seks"
         },
         {
-          "ID": 54548,
-          "Title": "Pizza"
+          "ID": 43752,
+          "Title": "Kategori:Sekularizm"
         },
         {
-          "ID": 56981,
-          "Title": "Hak"
+          "ID": 2951,
+          "Title": "Kategori:Spor"
         },
         {
-          "ID": 57276,
-          "Title": "Xozê yabani"
+          "ID": 11552,
+          "Title": "Kategori:Terbiyet"
+        },
+        {
+          "ID": 11866,
+          "Title": "Kategori:Têlevizyon"
+        },
+        {
+          "ID": 2964,
+          "Title": "Kategori:Zagon"
+        },
+        {
+          "ID": 7585,
+          "Title": "Kategori:Zanayış"
         }
       ]
     },
@@ -94,38 +100,28 @@
       "Title": "Geography and places",
       "Categories": [
         {
+          "ID": 34654,
+          "Title": "Kategori:Cay"
+        },
+        {
           "ID": 2863,
           "Title": "Kategori:Coğrafya"
         },
         {
-          "ID": 34654,
-          "Title": "Kategori:Cay"
-        }
-      ],
-      "Articles": [
-        {
-          "ID": 28,
-          "Title": "Australya"
+          "ID": 43228,
+          "Title": "Kategori:Dewlete"
         },
         {
-          "ID": 235,
-          "Title": "Paris"
+          "ID": 6516,
+          "Title": "Kategori:Dewleti"
         },
         {
-          "ID": 3950,
-          "Title": "Myanmar"
+          "ID": 11842,
+          "Title": "Kategori:Roy"
         },
         {
-          "ID": 33635,
-          "Title": "Merdum"
-        },
-        {
-          "ID": 47069,
-          "Title": "Venedik"
-        },
-        {
-          "ID": 53261,
-          "Title": "Piramid"
+          "ID": 31744,
+          "Title": "Kategori:Sûki"
         }
       ]
     },
@@ -144,38 +140,28 @@
       "Title": "History and events",
       "Categories": [
         {
-          "ID": 2930,
-          "Title": "Kategori:Tarix"
-        },
-        {
-          "ID": 43080,
-          "Title": "Kategori:Şınasiyê sosyali"
-        },
-        {
           "ID": 43759,
           "Title": "Kategori:Goreyê dewletan ra tarix"
         },
         {
           "ID": 43898,
           "Title": "Kategori:Hedisey"
-        }
-      ],
-      "Articles": [
-        {
-          "ID": 44241,
-          "Title": "Êrışê 11ê Keşkeluni 2001"
         },
         {
-          "ID": 48133,
-          "Title": "Donald Trump"
+          "ID": 43761,
+          "Title": "Kategori:Herb"
         },
         {
-          "ID": 48896,
-          "Title": "Cengê Troya"
+          "ID": 35338,
+          "Title": "Kategori:Herbi"
         },
         {
-          "ID": 49239,
-          "Title": "Ğarê Orlandoy 2016"
+          "ID": 2930,
+          "Title": "Kategori:Tarix"
+        },
+        {
+          "ID": 44521,
+          "Title": "Kategori:Tarixo siyasi"
         }
       ]
     },
@@ -198,6 +184,30 @@
       "Title": "Nature and physical sciences",
       "Categories": [
         {
+          "ID": 1405,
+          "Title": "Kategori:Anatomiye"
+        },
+        {
+          "ID": 8683,
+          "Title": "Kategori:Cıwiyayış"
+        },
+        {
+          "ID": 11683,
+          "Title": "Kategori:Dınya"
+        },
+        {
+          "ID": 2870,
+          "Title": "Kategori:Ekolociye"
+        },
+        {
+          "ID": 2923,
+          "Title": "Kategori:Fizik"
+        },
+        {
+          "ID": 2845,
+          "Title": "Kategori:Heywani"
+        },
+        {
           "ID": 2846,
           "Title": "Kategori:Heywanşınasiye"
         },
@@ -206,66 +216,24 @@
           "Title": "Kategori:Kimya"
         },
         {
-          "ID": 2923,
-          "Title": "Kategori:Fizik"
+          "ID": 46901,
+          "Title": "Kategori:Lızgeyê şınasiye"
         },
         {
-          "ID": 7585,
-          "Title": "Kategori:Zanayış"
+          "ID": 27363,
+          "Title": "Kategori:Meywe"
         },
         {
-          "ID": 8781,
-          "Title": "Kategori:Zanışiye"
+          "ID": 2843,
+          "Title": "Kategori:Nebat"
         },
         {
           "ID": 32869,
           "Title": "Kategori:Tebiet"
         },
         {
-          "ID": 46901,
-          "Title": "Kategori:Lızgeyê şınasiye"
-        }
-      ],
-      "Articles": [
-        {
-          "ID": 26751,
-          "Title": "Adır"
-        },
-        {
-          "ID": 27347,
-          "Title": "Bazi"
-        },
-        {
-          "ID": 43332,
-          "Title": "Deve"
-        },
-        {
-          "ID": 49177,
-          "Title": "Ğele"
-        },
-        {
-          "ID": 49181,
-          "Title": "Lazut"
-        },
-        {
-          "ID": 49281,
-          "Title": "Flamingo"
-        },
-        {
-          "ID": 49402,
-          "Title": "Beşila"
-        },
-        {
-          "ID": 52076,
-          "Title": "Penis"
-        },
-        {
-          "ID": 57036,
-          "Title": "Anakonda"
-        },
-        {
-          "ID": 57140,
-          "Title": "Şamıke"
+          "ID": 8781,
+          "Title": "Kategori:Zanışiye"
         }
       ]
     },
@@ -274,58 +242,60 @@
       "Title": "People and self",
       "Categories": [
         {
-          "ID": 4108,
-          "Title": "Kategori:Biyografiye"
+          "ID": 46665,
+          "Title": "Kategori:Cêniye"
         },
         {
-          "ID": 8683,
-          "Title": "Kategori:Cıwiyayış"
+          "ID": 3989,
+          "Title": "Kategori:Filozofi"
+        },
+        {
+          "ID": 43494,
+          "Title": "Kategori:Goreyê serran ra merdış"
+        },
+        {
+          "ID": 11806,
+          "Title": "Kategori:Hekimi"
+        },
+        {
+          "ID": 11808,
+          "Title": "Kategori:Kaykeri"
         },
         {
           "ID": 43547,
           "Title": "Kategori:Merdumi"
         },
         {
-          "ID": 46665,
-          "Title": "Kategori:Cêniye"
-        }
-      ],
-      "Articles": [
-        {
-          "ID": 3987,
-          "Title": "Adam Smith"
+          "ID": 42834,
+          "Title": "Kategori:Merdumê merdey"
         },
         {
-          "ID": 5080,
-          "Title": "Galileo Galilei"
+          "ID": 43713,
+          "Title": "Kategori:Merdumê weşi"
         },
         {
-          "ID": 8915,
-          "Title": "Adolf Hitler"
+          "ID": 11814,
+          "Title": "Kategori:Muzisyeni"
         },
         {
-          "ID": 9916,
-          "Title": "René Descartes"
+          "ID": 32783,
+          "Title": "Kategori:Nuştekari"
         },
         {
-          "ID": 34153,
-          "Title": "Daniel Radcliffe"
+          "ID": 35720,
+          "Title": "Kategori:Piloti"
         },
         {
-          "ID": 43026,
-          "Title": "Richard Dawkins"
+          "ID": 2918,
+          "Title": "Kategori:Senatkari"
         },
         {
-          "ID": 43033,
-          "Title": "Sigmund Freud"
+          "ID": 33543,
+          "Title": "Kategori:Serra biyayışi"
         },
         {
-          "ID": 47286,
-          "Title": "Alan Turing"
-        },
-        {
-          "ID": 47744,
-          "Title": "Joseph Smith"
+          "ID": 8208,
+          "Title": "Kategori:Siyasetkari"
         }
       ]
     },
@@ -338,14 +308,12 @@
           "Title": "Kategori:Felsefe"
         },
         {
+          "ID": 42703,
+          "Title": "Kategori:Metafizik"
+        },
+        {
           "ID": 2956,
           "Title": "Kategori:İdeolociy"
-        }
-      ],
-      "Articles": [
-        {
-          "ID": 10628,
-          "Title": "Bawermend"
         }
       ]
     },
@@ -354,24 +322,20 @@
       "Title": "Religion and belief systems",
       "Categories": [
         {
-          "ID": 1294,
-          "Title": "Kategori:Din"
-        },
-        {
           "ID": 10640,
           "Title": "Kategori:Baweriye"
         },
         {
-          "ID": 34446,
-          "Title": "Kategori:Teolociye"
+          "ID": 1294,
+          "Title": "Kategori:Din"
         },
         {
           "ID": 43750,
           "Title": "Kategori:Nonteizm"
         },
         {
-          "ID": 43752,
-          "Title": "Kategori:Sekularizm"
+          "ID": 34446,
+          "Title": "Kategori:Teolociye"
         }
       ]
     },
@@ -384,82 +348,56 @@
           "Title": "Kategori:Cemaet"
         },
         {
+          "ID": 43088,
+          "Title": "Kategori:Feminizm"
+        },
+        {
+          "ID": 46187,
+          "Title": "Kategori:Finans"
+        },
+        {
+          "ID": 58081,
+          "Title": "Kategori:Gorey dewletan ra musnayış"
+        },
+        {
           "ID": 40809,
           "Title": "Kategori:Heqi"
+        },
+        {
+          "ID": 2853,
+          "Title": "Kategori:Organizasyoni"
+        },
+        {
+          "ID": 46204,
+          "Title": "Kategori:Organizasyonê internasyoneli"
+        },
+        {
+          "ID": 2905,
+          "Title": "Kategori:Perey"
+        },
+        {
+          "ID": 42707,
+          "Title": "Kategori:Psikolociye"
+        },
+        {
+          "ID": 48343,
+          "Title": "Kategori:Sistemê politiki"
+        },
+        {
+          "ID": 11647,
+          "Title": "Kategori:İdare"
         },
         {
           "ID": 43080,
           "Title": "Kategori:Şınasiyê sosyali"
         },
         {
-          "ID": 43088,
-          "Title": "Kategori:Feminizm"
+          "ID": 40011,
+          "Title": "Kategori:Şırketi"
         },
         {
-          "ID": 46204,
-          "Title": "Kategori:Organizasyonê internasyoneli"
-        }
-      ],
-      "Articles": [
-        {
-          "ID": 347,
-          "Title": "Yewiya Ewropa"
-        },
-        {
-          "ID": 550,
-          "Title": "İran"
-        },
-        {
-          "ID": 1353,
-          "Title": "Enstituyê Teknolociya Massachusettsi"
-        },
-        {
-          "ID": 3142,
-          "Title": "Barbados"
-        },
-        {
-          "ID": 3248,
-          "Title": "Şili"
-        },
-        {
-          "ID": 6831,
-          "Title": "Universıteyê Oksfordi"
-        },
-        {
-          "ID": 31773,
-          "Title": "Universıtey Göttingeni"
-        },
-        {
-          "ID": 36007,
-          "Title": "Universıtey Kölni"
-        },
-        {
-          "ID": 42615,
-          "Title": "Universıteya Milanoy"
-        },
-        {
-          "ID": 44133,
-          "Title": "Universıtey Standfordi"
-        },
-        {
-          "ID": 45297,
-          "Title": "Karo sosyal"
-        },
-        {
-          "ID": 45788,
-          "Title": "Mikroşar"
-        },
-        {
-          "ID": 49782,
-          "Title": "Universıtey Kolumbiya"
-        },
-        {
-          "ID": 51816,
-          "Title": "The New York Times"
-        },
-        {
-          "ID": 57577,
-          "Title": "Universıtey Washingtoni"
+          "ID": 23288,
+          "Title": "Kategori:Şırketê heway"
         }
       ]
     },
@@ -468,36 +406,40 @@
       "Title": "Technology and applied sciences",
       "Categories": [
         {
-          "ID": 2944,
-          "Title": "Kategori:İnternet"
-        },
-        {
-          "ID": 2962,
-          "Title": "Kategori:Teknolociye"
+          "ID": 9121,
+          "Title": "Kategori:Elektronik"
         },
         {
           "ID": 9120,
           "Title": "Kategori:Komputer"
         },
         {
-          "ID": 9121,
-          "Title": "Kategori:Elektronik"
-        },
-        {
           "ID": 36532,
           "Title": "Kategori:Mıhendisiye"
+        },
+        {
+          "ID": 46884,
+          "Title": "Kategori:Programnayış"
+        },
+        {
+          "ID": 2962,
+          "Title": "Kategori:Teknolociye"
+        },
+        {
+          "ID": 2944,
+          "Title": "Kategori:İnternet"
         }
       ]
     }
   ],
   "Filters": [
     {
-      "ID": 34856,
-      "Title": "Kategori:Kategoriyê nımıtey"
-    },
-    {
       "ID": 35543,
       "Title": "Kategori:Arezekerdış"
+    },
+    {
+      "ID": 34856,
+      "Title": "Kategori:Kategoriyê nımıtey"
     }
   ]
 }

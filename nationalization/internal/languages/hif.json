@@ -6,38 +6,28 @@
       "Title": "Culture and the arts",
       "Categories": [
         {
-          "ID": 4768,
-          "Title": "vibhag:Sanskriti"
+          "ID": 17931,
+          "Title": "vibhag:Art"
+        },
+        {
+          "ID": 7552,
+          "Title": "vibhag:Board games"
+        },
+        {
+          "ID": 4905,
+          "Title": "vibhag:Competitions"
+        },
+        {
+          "ID": 16866,
+          "Title": "vibhag:Music"
         },
         {
           "ID": 10049,
           "Title": "vibhag:Rang"
         },
         {
-          "ID": 17931,
-          "Title": "vibhag:Art"
-        }
-      ],
-      "Articles": [
-        {
-          "ID": 8720,
-          "Title": "Beer"
-        },
-        {
-          "ID": 9332,
-          "Title": "Coffee"
-        },
-        {
-          "ID": 9387,
-          "Title": "Asliyat"
-        },
-        {
-          "ID": 17808,
-          "Title": "Bared"
-        },
-        {
-          "ID": 21585,
-          "Title": "Encyclopedia"
+          "ID": 4768,
+          "Title": "vibhag:Sanskriti"
         }
       ]
     },
@@ -46,38 +36,16 @@
       "Title": "Geography and places",
       "Categories": [
         {
+          "ID": 19026,
+          "Title": "vibhag:Cities"
+        },
+        {
+          "ID": 1338,
+          "Title": "vibhag:Dunia ke des"
+        },
+        {
           "ID": 4766,
           "Title": "vibhag:Jagha"
-        }
-      ],
-      "Articles": [
-        {
-          "ID": 310,
-          "Title": "Australia"
-        },
-        {
-          "ID": 3008,
-          "Title": "Paris"
-        },
-        {
-          "ID": 3162,
-          "Title": "Myanmar"
-        },
-        {
-          "ID": 5295,
-          "Title": "Canberra"
-        },
-        {
-          "ID": 8476,
-          "Title": "Queensland"
-        },
-        {
-          "ID": 8827,
-          "Title": "Pyramid"
-        },
-        {
-          "ID": 9613,
-          "Title": "Insaan"
         }
       ]
     },
@@ -104,88 +72,82 @@
       "Title": "Nature and physical sciences",
       "Categories": [
         {
-          "ID": 4497,
-          "Title": "vibhag:Science"
+          "ID": 9345,
+          "Title": "vibhag:Anatomy"
         },
         {
           "ID": 10048,
           "Title": "vibhag:Bhautik vigyan"
-        }
-      ],
-      "Articles": [
-        {
-          "ID": 9679,
-          "Title": "Uuntth"
         },
         {
-          "ID": 17805,
-          "Title": "Bhaat"
+          "ID": 8328,
+          "Title": "vibhag:Fal"
+        },
+        {
+          "ID": 8727,
+          "Title": "vibhag:Janwar"
+        },
+        {
+          "ID": 4497,
+          "Title": "vibhag:Science"
         }
       ]
     },
     {
       "ID": 2147483643,
       "Title": "People and self",
-      "Articles": [
+      "Categories": [
         {
-          "ID": 1978,
-          "Title": "Christopher Columbus"
+          "ID": 7425,
+          "Title": "vibhag:Abhineta"
         },
         {
-          "ID": 4445,
-          "Title": "Adolf Hitler"
+          "ID": 4696,
+          "Title": "vibhag:Actors"
         },
         {
-          "ID": 4587,
-          "Title": "Richard Wagner"
+          "ID": 3888,
+          "Title": "vibhag:Architects"
         },
         {
-          "ID": 4818,
-          "Title": "Fibonacci"
+          "ID": 3893,
+          "Title": "vibhag:Artists"
         },
         {
-          "ID": 4829,
-          "Title": "Galileo Galilei"
+          "ID": 4601,
+          "Title": "vibhag:Explorers"
         },
         {
-          "ID": 4831,
-          "Title": "Carl Friedrich Gauss"
+          "ID": 3897,
+          "Title": "vibhag:Inventors"
         },
         {
-          "ID": 4840,
-          "Title": "Johannes Kepler"
+          "ID": 4180,
+          "Title": "vibhag:Living people"
         },
         {
-          "ID": 4897,
-          "Title": "Alan Turing"
+          "ID": 4801,
+          "Title": "vibhag:Mathematicians"
         },
         {
-          "ID": 5015,
-          "Title": "Noam Chomsky"
+          "ID": 4715,
+          "Title": "vibhag:Musicians"
         },
         {
-          "ID": 5017,
-          "Title": "René Descartes"
+          "ID": 4750,
+          "Title": "vibhag:Philosophers"
         },
         {
-          "ID": 5018,
-          "Title": "Sigmund Freud"
+          "ID": 4828,
+          "Title": "vibhag:Physicians"
         },
         {
-          "ID": 5170,
-          "Title": "Adam Smith"
+          "ID": 5322,
+          "Title": "vibhag:Presidents"
         },
         {
-          "ID": 5649,
-          "Title": "Thomas Aquinas"
-        },
-        {
-          "ID": 5851,
-          "Title": "Florence Nightingale"
-        },
-        {
-          "ID": 32271,
-          "Title": "The Big Bang"
+          "ID": 3978,
+          "Title": "vibhag:Writers"
         }
       ]
     },
@@ -196,12 +158,6 @@
         {
           "ID": 9327,
           "Title": "vibhag:Philosophy"
-        }
-      ],
-      "Articles": [
-        {
-          "ID": 9305,
-          "Title": "Beauty"
         }
       ]
     },
@@ -217,25 +173,7 @@
     },
     {
       "ID": 2147483646,
-      "Title": "Society and social sciences",
-      "Articles": [
-        {
-          "ID": 2674,
-          "Title": "Iran"
-        },
-        {
-          "ID": 3021,
-          "Title": "Barbados"
-        },
-        {
-          "ID": 3987,
-          "Title": "Chile"
-        },
-        {
-          "ID": 4376,
-          "Title": "European Union"
-        }
-      ]
+      "Title": "Society and social sciences"
     },
     {
       "ID": 2147483647,

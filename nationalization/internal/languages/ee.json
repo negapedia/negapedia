@@ -8,18 +8,10 @@
     {
       "ID": 2147483638,
       "Title": "Geography and places",
-      "Articles": [
+      "Categories": [
         {
-          "ID": 2683,
-          "Title": "Australia"
-        },
-        {
-          "ID": 8197,
-          "Title": "Paris"
-        },
-        {
-          "ID": 9013,
-          "Title": "Myanmar"
+          "ID": 2067,
+          "Title": "Category:Dukɔwo"
         }
       ]
     },
@@ -38,10 +30,14 @@
     {
       "ID": 2147483642,
       "Title": "Nature and physical sciences",
-      "Articles": [
+      "Categories": [
         {
-          "ID": 8433,
-          "Title": "Maŋgo"
+          "ID": 8431,
+          "Title": "Category:Atikutsetsewo"
+        },
+        {
+          "ID": 3393,
+          "Title": "Category:Nugbagbewo"
         }
       ]
     },
@@ -65,17 +61,7 @@
     },
     {
       "ID": 2147483646,
-      "Title": "Society and social sciences",
-      "Articles": [
-        {
-          "ID": 2199,
-          "Title": "Barbados"
-        },
-        {
-          "ID": 2204,
-          "Title": "Chile"
-        }
-      ]
+      "Title": "Society and social sciences"
     },
     {
       "ID": 2147483647,

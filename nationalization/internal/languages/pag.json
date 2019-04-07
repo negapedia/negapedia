@@ -3,17 +3,17 @@
   "Topics": [
     {
       "ID": 2147483637,
-      "Title": "Culture and the arts",
-      "Articles": [
-        {
-          "ID": 90,
-          "Title": "Wikipedia"
-        }
-      ]
+      "Title": "Culture and the arts"
     },
     {
       "ID": 2147483638,
-      "Title": "Geography and places"
+      "Title": "Geography and places",
+      "Categories": [
+        {
+          "ID": 6880,
+          "Title": "Category:Saray dalin"
+        }
+      ]
     },
     {
       "ID": 2147483639,
@@ -29,27 +29,11 @@
     },
     {
       "ID": 2147483642,
-      "Title": "Nature and physical sciences",
-      "Articles": [
-        {
-          "ID": 5242,
-          "Title": "Laman"
-        }
-      ]
+      "Title": "Nature and physical sciences"
     },
     {
       "ID": 2147483643,
-      "Title": "People and self",
-      "Articles": [
-        {
-          "ID": 222,
-          "Title": "Thomas Aquinas"
-        },
-        {
-          "ID": 6112,
-          "Title": "John Lennon"
-        }
-      ]
+      "Title": "People and self"
     },
     {
       "ID": 2147483644,
@@ -61,17 +45,7 @@
     },
     {
       "ID": 2147483646,
-      "Title": "Society and social sciences",
-      "Articles": [
-        {
-          "ID": 7896,
-          "Title": "Chile"
-        },
-        {
-          "ID": 10820,
-          "Title": "Iran"
-        }
-      ]
+      "Title": "Society and social sciences"
     },
     {
       "ID": 2147483647,

@@ -3,37 +3,19 @@
   "Topics": [
     {
       "ID": 2147483637,
-      "Title": "Culture and the arts",
-      "Articles": [
-        {
-          "ID": 18,
-          "Title": "Wikipediya"
-        },
-        {
-          "ID": 6092,
-          "Title": "Ikomo"
-        }
-      ]
+      "Title": "Culture and the arts"
     },
     {
       "ID": 2147483638,
       "Title": "Geography and places",
-      "Articles": [
+      "Categories": [
         {
-          "ID": 1168,
-          "Title": "Otereiriya"
+          "ID": 879,
+          "Title": "Category:Eb"
         },
         {
-          "ID": 1182,
-          "Title": "Paris"
-        },
-        {
-          "ID": 3785,
-          "Title": "Canberra"
-        },
-        {
-          "ID": 4036,
-          "Title": "Miyanmar"
+          "ID": 5674,
+          "Title": "Category:Tekawa"
         }
       ]
     },
@@ -43,13 +25,7 @@
     },
     {
       "ID": 2147483640,
-      "Title": "History and events",
-      "Articles": [
-        {
-          "ID": 6582,
-          "Title": "Donald Trump"
-        }
-      ]
+      "Title": "History and events"
     },
     {
       "ID": 2147483641,
@@ -62,14 +38,10 @@
     {
       "ID": 2147483643,
       "Title": "People and self",
-      "Articles": [
+      "Categories": [
         {
-          "ID": 6137,
-          "Title": "Lewis Carroll"
-        },
-        {
-          "ID": 6222,
-          "Title": "Adolf Hitler"
+          "ID": 3433,
+          "Title": "Category:President"
         }
       ]
     },
@@ -83,25 +55,7 @@
     },
     {
       "ID": 2147483646,
-      "Title": "Society and social sciences",
-      "Articles": [
-        {
-          "ID": 1193,
-          "Title": "Barbadot"
-        },
-        {
-          "ID": 1537,
-          "Title": "Tsire"
-        },
-        {
-          "ID": 2105,
-          "Title": "Iran"
-        },
-        {
-          "ID": 6591,
-          "Title": "Hebrew University of Jerusalem"
-        }
-      ]
+      "Title": "Society and social sciences"
     },
     {
       "ID": 2147483647,

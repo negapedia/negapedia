@@ -10,8 +10,132 @@
           "Title": "Kategoria:Arte"
         },
         {
+          "ID": 20929,
+          "Title": "Kategoria:Binalabala"
+        },
+        {
+          "ID": 20153,
+          "Title": "Kategoria:Biograpia"
+        },
+        {
+          "ID": 18140,
+          "Title": "Kategoria:Dagiti apision"
+        },
+        {
+          "ID": 23094,
+          "Title": "Kategoria:Dagiti ensiklopedia"
+        },
+        {
+          "ID": 18819,
+          "Title": "Kategoria:Dagiti estasion ti radio"
+        },
+        {
+          "ID": 33236,
+          "Title": "Kategoria:Dagiti grupo ti agkankanta"
+        },
+        {
+          "ID": 21657,
+          "Title": "Kategoria:Dagiti kultura"
+        },
+        {
+          "ID": 18124,
+          "Title": "Kategoria:Dagiti kultural a taripnong"
+        },
+        {
+          "ID": 18089,
+          "Title": "Kategoria:Dagiti maipabpabuya nga arte"
+        },
+        {
+          "ID": 23095,
+          "Title": "Kategoria:Dagiti obra a pagibatayan"
+        },
+        {
+          "ID": 35780,
+          "Title": "Kategoria:Dagiti pagragragsakan"
+        },
+        {
+          "ID": 40150,
+          "Title": "Kategoria:Dagiti pinintaan"
+        },
+        {
+          "ID": 26812,
+          "Title": "Kategoria:Dagiti salisal"
+        },
+        {
+          "ID": 3177,
+          "Title": "Kategoria:Edukasion"
+        },
+        {
+          "ID": 22807,
+          "Title": "Kategoria:Gastronomia"
+        },
+        {
+          "ID": 32068,
+          "Title": "Kategoria:Henero"
+        },
+        {
+          "ID": 18141,
+          "Title": "Kategoria:Kabukbukodan a biag"
+        },
+        {
           "ID": 18088,
           "Title": "Kategoria:Kultura"
+        },
+        {
+          "ID": 20593,
+          "Title": "Kategoria:Kultura babaen ti pakipagilian"
+        },
+        {
+          "ID": 22806,
+          "Title": "Kategoria:Kultura ti taraon"
+        },
+        {
+          "ID": 21731,
+          "Title": "Kategoria:Liblibro"
+        },
+        {
+          "ID": 33,
+          "Title": "Kategoria:Literatura"
+        },
+        {
+          "ID": 22812,
+          "Title": "Kategoria:Liwliwa"
+        },
+        {
+          "ID": 22803,
+          "Title": "Kategoria:Luto"
+        },
+        {
+          "ID": 21621,
+          "Title": "Kategoria:Makan ken mainum"
+        },
+        {
+          "ID": 21620,
+          "Title": "Kategoria:Makmakan"
+        },
+        {
+          "ID": 25950,
+          "Title": "Kategoria:Maris"
+        },
+        {
+          "ID": 12866,
+          "Title": "Kategoria:Musika"
+        },
+        {
+          "ID": 44123,
+          "Title": "Kategoria:Musika babaen ti henero"
+        },
+        {
+          "ID": 35782,
+          "Title": "Kategoria:Nalatak a kultura"
+        },
+        {
+          "ID": 22808,
+          "Title": "Kategoria:Nutrision"
+        },
+        {
+          "ID": 118,
+          "Title": "Kategoria:Pagiwarnak"
         },
         {
           "ID": 18090,
@@ -22,78 +146,32 @@
           "Title": "Kategoria:Panagsurat"
         },
         {
-          "ID": 18140,
-          "Title": "Kategoria:Dagiti apision"
-        },
-        {
-          "ID": 21620,
-          "Title": "Kategoria:Makmakan"
-        },
-        {
-          "ID": 21621,
-          "Title": "Kategoria:Makan ken mainum"
-        },
-        {
-          "ID": 22803,
-          "Title": "Kategoria:Luto"
-        },
-        {
-          "ID": 22806,
-          "Title": "Kategoria:Kultura ti taraon"
-        },
-        {
-          "ID": 22807,
-          "Title": "Kategoria:Gastronomia"
-        },
-        {
-          "ID": 22808,
-          "Title": "Kategoria:Nutrision"
-        },
-        {
-          "ID": 22812,
-          "Title": "Kategoria:Liwliwa"
-        },
-        {
-          "ID": 25950,
-          "Title": "Kategoria:Maris"
+          "ID": 18110,
+          "Title": "Kategoria:Pannakaammo"
         },
         {
           "ID": 27686,
           "Title": "Kategoria:Pisikal a panagwatwat"
         },
         {
-          "ID": 33236,
-          "Title": "Kategoria:Dagiti grupo ti agkankanta"
-        }
-      ],
-      "Articles": [
-        {
-          "ID": 23,
-          "Title": "Wikipedia"
+          "ID": 21824,
+          "Title": "Kategoria:Porma ti musika"
         },
         {
-          "ID": 276,
-          "Title": "Ensiklopedia"
+          "ID": 20329,
+          "Title": "Kategoria:Sekso"
         },
         {
-          "ID": 17054,
-          "Title": "Kape"
+          "ID": 24115,
+          "Title": "Kategoria:Sekularismo"
         },
         {
-          "ID": 20710,
-          "Title": "Kinapudno"
+          "ID": 12556,
+          "Title": "Kategoria:Séksualidad"
         },
         {
-          "ID": 22813,
-          "Title": "Tinapay"
-        },
-        {
-          "ID": 25597,
-          "Title": "Napaamo a baboy"
-        },
-        {
-          "ID": 27011,
-          "Title": "Tsokolate"
+          "ID": 26721,
+          "Title": "Kategoria:Telebision"
         }
       ]
     },
@@ -102,38 +180,56 @@
       "Title": "Geography and places",
       "Categories": [
         {
+          "ID": 42538,
+          "Title": "Kategoria:Dagiti ili"
+        },
+        {
+          "ID": 22256,
+          "Title": "Kategoria:Dagiti matagtagitao a lugar"
+        },
+        {
+          "ID": 36794,
+          "Title": "Kategoria:Dagiti matagtagitao a lugar babaen ti pagilian"
+        },
+        {
+          "ID": 22254,
+          "Title": "Kategoria:Dagiti siudad"
+        },
+        {
+          "ID": 27291,
+          "Title": "Kategoria:Dagiti teritorio"
+        },
+        {
           "ID": 12862,
           "Title": "Kategoria:Heograpia"
+        },
+        {
+          "ID": 25723,
+          "Title": "Kategoria:Heomorpolohia"
+        },
+        {
+          "ID": 42539,
+          "Title": "Kategoria:Ili"
+        },
+        {
+          "ID": 22267,
+          "Title": "Kategoria:Karkarayan"
         },
         {
           "ID": 18121,
           "Title": "Kategoria:Luglugar"
         },
         {
-          "ID": 25723,
-          "Title": "Kategoria:Heomorpolohia"
-        }
-      ],
-      "Articles": [
-        {
-          "ID": 2349,
-          "Title": "Myanmar"
+          "ID": 113,
+          "Title": "Kategoria:Pagilian"
         },
         {
-          "ID": 4340,
-          "Title": "Paris"
+          "ID": 18440,
+          "Title": "Kategoria:Pagpagilian"
         },
         {
-          "ID": 4916,
-          "Title": "Australia"
-        },
-        {
-          "ID": 16187,
-          "Title": "Tao (sebbangan)"
-        },
-        {
-          "ID": 25563,
-          "Title": "Piramida"
+          "ID": 22260,
+          "Title": "Kategoria:Siudad"
         }
       ]
     },
@@ -142,24 +238,28 @@
       "Title": "Health and fitness",
       "Categories": [
         {
-          "ID": 144,
-          "Title": "Kategoria:Salun-at"
-        },
-        {
-          "ID": 2079,
-          "Title": "Kategoria:Medisina"
-        },
-        {
-          "ID": 21950,
-          "Title": "Kategoria:Dagiti siensia ti salun-at"
+          "ID": 21926,
+          "Title": "Kategoria:Anatomia ti tao"
         },
         {
           "ID": 22052,
           "Title": "Kategoria:Dagiti espesialidad ti medisina"
         },
         {
+          "ID": 21950,
+          "Title": "Kategoria:Dagiti siensia ti salun-at"
+        },
+        {
+          "ID": 2079,
+          "Title": "Kategoria:Medisina"
+        },
+        {
           "ID": 24277,
           "Title": "Kategoria:Panagaywan ti salun-at"
+        },
+        {
+          "ID": 144,
+          "Title": "Kategoria:Salun-at"
         }
       ]
     },
@@ -168,30 +268,40 @@
       "Title": "History and events",
       "Categories": [
         {
+          "ID": 24083,
+          "Title": "Kategoria:Dagiti gubat"
+        },
+        {
+          "ID": 20374,
+          "Title": "Kategoria:Dagiti yaalsa babaen ti pagilian"
+        },
+        {
+          "ID": 24084,
+          "Title": "Kategoria:Gubat"
+        },
+        {
           "ID": 2076,
           "Title": "Kategoria:Pakasaritaan"
         },
         {
-          "ID": 18103,
-          "Title": "Kategoria:Dagiti siensia sosial"
-        },
-        {
-          "ID": 20535,
-          "Title": "Kategoria:Paspasamak"
+          "ID": 24826,
+          "Title": "Kategoria:Pakasaritaan babaen ti lokasion"
         },
         {
           "ID": 24825,
           "Title": "Kategoria:Pakasaritaan babaen ti pagilian"
         },
         {
-          "ID": 24826,
-          "Title": "Kategoria:Pakasaritaan babaen ti lokasion"
-        }
-      ],
-      "Articles": [
+          "ID": 24156,
+          "Title": "Kategoria:Pakasaritaan ti politika"
+        },
         {
-          "ID": 51134,
-          "Title": "Donald Trump"
+          "ID": 23198,
+          "Title": "Kategoria:Pakasaritaan ti teknolohia"
+        },
+        {
+          "ID": 20535,
+          "Title": "Kategoria:Paspasamak"
         }
       ]
     },
@@ -200,20 +310,28 @@
       "Title": "Mathematics and logic",
       "Categories": [
         {
-          "ID": 2074,
-          "Title": "Kategoria:Lohika"
-        },
-        {
-          "ID": 5261,
-          "Title": "Kategoria:Matematika"
+          "ID": 21845,
+          "Title": "Kategoria:Dagiti matematiko a konsepto"
         },
         {
           "ID": 21623,
           "Title": "Kategoria:Dagiti pagobraan ti matematika"
         },
         {
-          "ID": 21845,
-          "Title": "Kategoria:Dagiti matematiko a konsepto"
+          "ID": 33737,
+          "Title": "Kategoria:Dagiti sistema dagiti yunit"
+        },
+        {
+          "ID": 20538,
+          "Title": "Kategoria:Dagiti yunit ti panagrukod"
+        },
+        {
+          "ID": 2074,
+          "Title": "Kategoria:Lohika"
+        },
+        {
+          "ID": 5261,
+          "Title": "Kategoria:Matematika"
         }
       ]
     },
@@ -222,44 +340,24 @@
       "Title": "Nature and physical sciences",
       "Categories": [
         {
-          "ID": 16241,
-          "Title": "Kategoria:Pisika"
+          "ID": 2144,
+          "Title": "Kategoria:Anatomia"
         },
         {
-          "ID": 16242,
-          "Title": "Kategoria:Dagiti masna a siensia"
+          "ID": 112,
+          "Title": "Kategoria:Ay-ayup"
         },
         {
-          "ID": 16244,
-          "Title": "Kategoria:Dagiti kimiko a sustansia"
+          "ID": 18094,
+          "Title": "Kategoria:Biag"
         },
         {
-          "ID": 16245,
-          "Title": "Kategoria:Kimika"
+          "ID": 20151,
+          "Title": "Kategoria:Bunga"
         },
         {
-          "ID": 16246,
-          "Title": "Kategoria:Dagiti maipapan ti bagi a siensia"
-        },
-        {
-          "ID": 18086,
-          "Title": "Kategoria:Dagiti sientipiko a disiplina"
-        },
-        {
-          "ID": 18087,
-          "Title": "Kategoria:Siensia"
-        },
-        {
-          "ID": 18098,
-          "Title": "Kategoria:Katutubo"
-        },
-        {
-          "ID": 18110,
-          "Title": "Kategoria:Pannakaammo"
-        },
-        {
-          "ID": 21971,
-          "Title": "Kategoria:Soolohia"
+          "ID": 18120,
+          "Title": "Kategoria:Daga (planeta)"
         },
         {
           "ID": 22364,
@@ -268,68 +366,54 @@
         {
           "ID": 24059,
           "Title": "Kategoria:Dagiti kimiko a kompuesto"
-        }
-      ],
-      "Articles": [
-        {
-          "ID": 320,
-          "Title": "Kamatis"
         },
         {
-          "ID": 491,
-          "Title": "Buto"
+          "ID": 16244,
+          "Title": "Kategoria:Dagiti kimiko a sustansia"
         },
         {
-          "ID": 3869,
-          "Title": "Oryza"
+          "ID": 16246,
+          "Title": "Kategoria:Dagiti maipapan ti bagi a siensia"
         },
         {
-          "ID": 15167,
-          "Title": "Dalandan"
+          "ID": 16242,
+          "Title": "Kategoria:Dagiti masna a siensia"
         },
         {
-          "ID": 22820,
-          "Title": "Mais"
+          "ID": 21897,
+          "Title": "Kategoria:Dagiti protina"
         },
         {
-          "ID": 22940,
-          "Title": "Limon"
+          "ID": 18086,
+          "Title": "Kategoria:Dagiti sientipiko a disiplina"
         },
         {
-          "ID": 24954,
-          "Title": "Piskel"
+          "ID": 20309,
+          "Title": "Kategoria:Ekolohia"
         },
         {
-          "ID": 24957,
-          "Title": "Sistema ti reproduktibo"
+          "ID": 18098,
+          "Title": "Kategoria:Katutubo"
         },
         {
-          "ID": 24980,
-          "Title": "Apuy"
+          "ID": 16245,
+          "Title": "Kategoria:Kimika"
         },
         {
-          "ID": 25579,
-          "Title": "Kamelio"
+          "ID": 111,
+          "Title": "Kategoria:Mulmula"
         },
         {
-          "ID": 25656,
-          "Title": "Mangga"
+          "ID": 16241,
+          "Title": "Kategoria:Pisika"
         },
         {
-          "ID": 25746,
-          "Title": "Trigo"
+          "ID": 18087,
+          "Title": "Kategoria:Siensia"
         },
         {
-          "ID": 25905,
-          "Title": "Saleng"
-        },
-        {
-          "ID": 38235,
-          "Title": "Mangifera indica"
-        },
-        {
-          "ID": 38238,
-          "Title": "Mangifera"
+          "ID": 21971,
+          "Title": "Kategoria:Soolohia"
         }
       ]
     },
@@ -338,90 +422,92 @@
       "Title": "People and self",
       "Categories": [
         {
+          "ID": 20471,
+          "Title": "Kategoria:Babbai"
+        },
+        {
           "ID": 61,
           "Title": "Kategoria:Biografia"
+        },
+        {
+          "ID": 44526,
+          "Title": "Kategoria:Dagiti aktor"
+        },
+        {
+          "ID": 46176,
+          "Title": "Kategoria:Dagiti aktor ti pelikula"
+        },
+        {
+          "ID": 36776,
+          "Title": "Kategoria:Dagiti arkitekto"
+        },
+        {
+          "ID": 33529,
+          "Title": "Kategoria:Dagiti artista"
+        },
+        {
+          "ID": 47870,
+          "Title": "Kategoria:Dagiti daulo ti estado"
+        },
+        {
+          "ID": 23998,
+          "Title": "Kategoria:Dagiti eksplorador"
+        },
+        {
+          "ID": 20528,
+          "Title": "Kategoria:Dagiti ipupusay babaen ti tawen"
+        },
+        {
+          "ID": 27797,
+          "Title": "Kategoria:Dagiti matematiko"
+        },
+        {
+          "ID": 20529,
+          "Title": "Kategoria:Dagiti pannakaipasngay babaen ti tawen"
+        },
+        {
+          "ID": 12854,
+          "Title": "Kategoria:Dagiti pilosopo"
+        },
+        {
+          "ID": 17132,
+          "Title": "Kategoria:Dagiti presidente"
+        },
+        {
+          "ID": 15323,
+          "Title": "Kategoria:Dagiti presidente babaen ti pagilian"
+        },
+        {
+          "ID": 20373,
+          "Title": "Kategoria:Dagiti rebolusionario"
+        },
+        {
+          "ID": 21807,
+          "Title": "Kategoria:Dagiti umiiweng"
+        },
+        {
+          "ID": 46182,
+          "Title": "Kategoria:Dagiti umiiweng a lalaki"
+        },
+        {
+          "ID": 282,
+          "Title": "Kategoria:Mamannurat"
+        },
+        {
+          "ID": 15665,
+          "Title": "Kategoria:Sibibiag a tattao"
         },
         {
           "ID": 141,
           "Title": "Kategoria:Tattao"
         },
         {
-          "ID": 18094,
-          "Title": "Kategoria:Biag"
+          "ID": 20531,
+          "Title": "Kategoria:Tattao a natay"
         },
         {
-          "ID": 18141,
-          "Title": "Kategoria:Kabukbukodan a biag"
-        },
-        {
-          "ID": 20153,
-          "Title": "Kategoria:Biograpia"
-        },
-        {
-          "ID": 20471,
-          "Title": "Kategoria:Babbai"
-        }
-      ],
-      "Articles": [
-        {
-          "ID": 1919,
-          "Title": "Joseph Smith, Jr."
-        },
-        {
-          "ID": 3367,
-          "Title": "Bill Gates"
-        },
-        {
-          "ID": 12597,
-          "Title": "Adolf Hitler"
-        },
-        {
-          "ID": 16690,
-          "Title": "Galileo Galilei"
-        },
-        {
-          "ID": 16844,
-          "Title": "Sigmund Freud"
-        },
-        {
-          "ID": 16848,
-          "Title": "Christopher Columbus"
-        },
-        {
-          "ID": 16926,
-          "Title": "Richard Wagner"
-        },
-        {
-          "ID": 18626,
-          "Title": "Fibonacci"
-        },
-        {
-          "ID": 18629,
-          "Title": "Carl Friedrich Gauss"
-        },
-        {
-          "ID": 18633,
-          "Title": "Johannes Kepler"
-        },
-        {
-          "ID": 18643,
-          "Title": "Alan Turing"
-        },
-        {
-          "ID": 18654,
-          "Title": "Adam Smith"
-        },
-        {
-          "ID": 18663,
-          "Title": "Noam Chomsky"
-        },
-        {
-          "ID": 18665,
-          "Title": "René Descartes"
-        },
-        {
-          "ID": 18724,
-          "Title": "Tomas Aquino"
+          "ID": 21809,
+          "Title": "Kategoria:Tattao babaen ti trabaho"
         }
       ]
     },
@@ -430,38 +516,44 @@
       "Title": "Philosophy and thinking",
       "Categories": [
         {
-          "ID": 12855,
-          "Title": "Kategoria:Pilosopia"
+          "ID": 20723,
+          "Title": "Kategoria:Dagiti ideolohia"
         },
         {
-          "ID": 18102,
-          "Title": "Kategoria:Dagiti sanga ti pilosopia"
+          "ID": 20714,
+          "Title": "Kategoria:Dagiti pilosopiko a konsepto"
         },
         {
-          "ID": 19646,
-          "Title": "Kategoria:Panunot"
-        },
-        {
-          "ID": 20647,
-          "Title": "Kategoria:Etika"
+          "ID": 24699,
+          "Title": "Kategoria:Dagiti pilosopiko a teoria"
         },
         {
           "ID": 20672,
           "Title": "Kategoria:Dagiti politikal a teoria"
         },
         {
-          "ID": 20723,
-          "Title": "Kategoria:Dagiti ideolohia"
+          "ID": 18102,
+          "Title": "Kategoria:Dagiti sanga ti pilosopia"
         },
         {
-          "ID": 24699,
-          "Title": "Kategoria:Dagiti pilosopiko a teoria"
-        }
-      ],
-      "Articles": [
+          "ID": 20647,
+          "Title": "Kategoria:Etika"
+        },
         {
-          "ID": 18732,
-          "Title": "Pintas"
+          "ID": 20713,
+          "Title": "Kategoria:Kinapudno"
+        },
+        {
+          "ID": 18101,
+          "Title": "Kategoria:Metapisika"
+        },
+        {
+          "ID": 19646,
+          "Title": "Kategoria:Panunot"
+        },
+        {
+          "ID": 12855,
+          "Title": "Kategoria:Pilosopia"
         }
       ]
     },
@@ -470,16 +562,8 @@
       "Title": "Religion and belief systems",
       "Categories": [
         {
-          "ID": 1914,
-          "Title": "Kategoria:Teolohia"
-        },
-        {
-          "ID": 15489,
-          "Title": "Kategoria:Panagdillaw iti relihion"
-        },
-        {
-          "ID": 16201,
-          "Title": "Kategoria:Relihion"
+          "ID": 25774,
+          "Title": "Kategoria:Antropolohia ti relihion"
         },
         {
           "ID": 18404,
@@ -494,12 +578,16 @@
           "Title": "Kategoria:Pammati"
         },
         {
-          "ID": 24115,
-          "Title": "Kategoria:Sekularismo"
+          "ID": 15489,
+          "Title": "Kategoria:Panagdillaw iti relihion"
         },
         {
-          "ID": 25774,
-          "Title": "Kategoria:Antropolohia ti relihion"
+          "ID": 16201,
+          "Title": "Kategoria:Relihion"
+        },
+        {
+          "ID": 1914,
+          "Title": "Kategoria:Teolohia"
         }
       ]
     },
@@ -508,50 +596,76 @@
       "Title": "Society and social sciences",
       "Categories": [
         {
-          "ID": 18091,
-          "Title": "Kategoria:Dagiti kinatao"
+          "ID": 34447,
+          "Title": "Kategoria:Dagiti ahensia ti gobierno"
         },
         {
-          "ID": 18093,
-          "Title": "Kategoria:Kagimongan"
-        },
-        {
-          "ID": 18103,
-          "Title": "Kategoria:Dagiti siensia sosial"
-        },
-        {
-          "ID": 18134,
-          "Title": "Kategoria:Linteg"
+          "ID": 21760,
+          "Title": "Kategoria:Dagiti gunglo"
         },
         {
           "ID": 21750,
           "Title": "Kategoria:Dagiti gunglo ti sangalubongan"
         },
         {
+          "ID": 18091,
+          "Title": "Kategoria:Dagiti kinatao"
+        },
+        {
+          "ID": 33609,
+          "Title": "Kategoria:Dagiti kompania"
+        },
+        {
+          "ID": 12551,
+          "Title": "Kategoria:Dagiti nailian a wagayway"
+        },
+        {
+          "ID": 22273,
+          "Title": "Kategoria:Dagiti patakder ti gobierno"
+        },
+        {
+          "ID": 19570,
+          "Title": "Kategoria:Dagiti politikal a sistema"
+        },
+        {
+          "ID": 18103,
+          "Title": "Kategoria:Dagiti siensia sosial"
+        },
+        {
+          "ID": 35011,
+          "Title": "Kategoria:Edukasion babaen ti pagilian"
+        },
+        {
+          "ID": 19573,
+          "Title": "Kategoria:Gobierno"
+        },
+        {
+          "ID": 18093,
+          "Title": "Kategoria:Kagimongan"
+        },
+        {
+          "ID": 22329,
+          "Title": "Kategoria:Kuarta"
+        },
+        {
+          "ID": 22328,
+          "Title": "Kategoria:Kuarta (sapasap a pangawatan)"
+        },
+        {
+          "ID": 18134,
+          "Title": "Kategoria:Linteg"
+        },
+        {
           "ID": 25846,
           "Title": "Kategoria:Peminismo"
-        }
-      ],
-      "Articles": [
-        {
-          "ID": 4925,
-          "Title": "Barbados"
         },
         {
-          "ID": 4939,
-          "Title": "Chile"
+          "ID": 24914,
+          "Title": "Kategoria:Pinansia"
         },
         {
-          "ID": 4971,
-          "Title": "Iran"
-        },
-        {
-          "ID": 12075,
-          "Title": "Kappon ti Europa"
-        },
-        {
-          "ID": 25567,
-          "Title": "Oras a panagin-inut ti lawag"
+          "ID": 17412,
+          "Title": "Kategoria:Sikolohia"
         }
       ]
     },
@@ -560,52 +674,84 @@
       "Title": "Technology and applied sciences",
       "Categories": [
         {
-          "ID": 2023,
-          "Title": "Kategoria:Inhenieria"
-        },
-        {
-          "ID": 2141,
-          "Title": "Kategoria:Teknolohia"
-        },
-        {
-          "ID": 8535,
-          "Title": "Kategoria:Internet"
-        },
-        {
-          "ID": 12857,
-          "Title": "Kategoria:Elektronika"
-        },
-        {
-          "ID": 18113,
-          "Title": "Kategoria:Dagiti naipakat a siensia"
-        },
-        {
-          "ID": 21790,
-          "Title": "Kategoria:Teknolohia babaen ti kita"
-        },
-        {
-          "ID": 23198,
-          "Title": "Kategoria:Pakasaritaan ti teknolohia"
-        },
-        {
-          "ID": 23421,
-          "Title": "Kategoria:Pagluganan"
+          "ID": 23568,
+          "Title": "Kategoria:Aruaten"
         },
         {
           "ID": 23565,
           "Title": "Kategoria:Aruaten ti militar"
         },
         {
-          "ID": 23569,
-          "Title": "Kategoria:Teknolohia ti militar"
-        },
-        {
           "ID": 33554,
           "Title": "Kategoria:Dagiti kompiuter"
         },
         {
+          "ID": 21834,
+          "Title": "Kategoria:Dagiti makina"
+        },
+        {
+          "ID": 18113,
+          "Title": "Kategoria:Dagiti naipakat a siensia"
+        },
+        {
+          "ID": 20598,
+          "Title": "Kategoria:Dagiti naisangayan a kalendario"
+        },
+        {
+          "ID": 12857,
+          "Title": "Kategoria:Elektronika"
+        },
+        {
+          "ID": 2023,
+          "Title": "Kategoria:Inhenieria"
+        },
+        {
+          "ID": 8535,
+          "Title": "Kategoria:Internet"
+        },
+        {
           "ID": 33564,
           "Title": "Kategoria:Komputado"
+        },
+        {
+          "ID": 23421,
+          "Title": "Kategoria:Pagluganan"
+        },
+        {
+          "ID": 33838,
+          "Title": "Kategoria:Panagbangon"
+        },
+        {
+          "ID": 33563,
+          "Title": "Kategoria:Panagprograma ti kompiuter"
+        },
+        {
+          "ID": 21833,
+          "Title": "Kategoria:Ramramit"
+        },
+        {
+          "ID": 22126,
+          "Title": "Kategoria:Sibil nga inhenieria"
+        },
+        {
+          "ID": 33549,
+          "Title": "Kategoria:Sopwer"
+        },
+        {
+          "ID": 2141,
+          "Title": "Kategoria:Teknolohia"
+        },
+        {
+          "ID": 21790,
+          "Title": "Kategoria:Teknolohia babaen ti kita"
+        },
+        {
+          "ID": 23569,
+          "Title": "Kategoria:Teknolohia ti militar"
+        },
+        {
+          "ID": 21629,
+          "Title": "Kategoria:Teknolohia ti pakaammo"
         }
       ]
     }

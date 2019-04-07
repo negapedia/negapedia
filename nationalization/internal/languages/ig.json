@@ -6,22 +6,16 @@
       "Title": "Culture and the arts",
       "Categories": [
         {
+          "ID": 1923,
+          "Title": "Òtù:Encyclopedias"
+        },
+        {
           "ID": 7168,
           "Title": "Òtù:Àgwà"
         },
         {
           "ID": 7169,
           "Title": "Òtù:Ǹkà"
-        }
-      ],
-      "Articles": [
-        {
-          "ID": 1921,
-          "Title": "Wikipidia"
-        },
-        {
-          "ID": 3980,
-          "Title": "Achicha"
         }
       ]
     },
@@ -32,16 +26,10 @@
         {
           "ID": 1904,
           "Title": "Òtù:Geography"
-        }
-      ],
-      "Articles": [
-        {
-          "ID": 2418,
-          "Title": "Ostraliya"
         },
         {
-          "ID": 4154,
-          "Title": "Madụ̀"
+          "ID": 3995,
+          "Title": "Òtù:Òbòdò"
         }
       ]
     },
@@ -62,12 +50,6 @@
         {
           "ID": 4163,
           "Title": "Òtù:Ákíkó mbu"
-        }
-      ],
-      "Articles": [
-        {
-          "ID": 7512,
-          "Title": "Donald Trump"
         }
       ]
     },
@@ -92,26 +74,30 @@
         {
           "ID": 7235,
           "Title": "Òtù:Amamihe"
-        }
-      ],
-      "Articles": [
-        {
-          "ID": 4061,
-          "Title": "Etemete mmírí"
         },
         {
-          "ID": 4345,
-          "Title": "Oskàpà"
+          "ID": 7161,
+          "Title": "Òtù:Osisi"
         },
         {
-          "ID": 7204,
-          "Title": "Ọku"
+          "ID": 3996,
+          "Title": "Òtù:Àlà"
         }
       ]
     },
     {
       "ID": 2147483643,
-      "Title": "People and self"
+      "Title": "People and self",
+      "Categories": [
+        {
+          "ID": 8087,
+          "Title": "Òtù:Mmadụ ndi di ndụ"
+        },
+        {
+          "ID": 7435,
+          "Title": "Òtù:Onye édémédé akwukwọ"
+        }
+      ]
     },
     {
       "ID": 2147483644,
@@ -123,21 +109,7 @@
     },
     {
       "ID": 2147483646,
-      "Title": "Society and social sciences",
-      "Articles": [
-        {
-          "ID": 4341,
-          "Title": "Barbados"
-        },
-        {
-          "ID": 6744,
-          "Title": "Chile"
-        },
-        {
-          "ID": 7979,
-          "Title": "Pizza Hut"
-        }
-      ]
+      "Title": "Society and social sciences"
     },
     {
       "ID": 2147483647,

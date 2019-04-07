@@ -6,78 +6,80 @@
       "Title": "Culture and the arts",
       "Categories": [
         {
-          "ID": 1518,
-          "Title": "Categorìa:Mangé e bèive"
+          "ID": 14417,
+          "Title": "Categorìa:Art marsiaj"
         },
         {
-          "ID": 1519,
-          "Title": "Categorìa:Mangé"
-        },
-        {
-          "ID": 1521,
-          "Title": "Categorìa:Spòrt e dësmore"
-        },
-        {
-          "ID": 19328,
-          "Title": "Categorìa:Spòrt"
-        },
-        {
-          "ID": 19346,
-          "Title": "Categorìa:Film"
-        },
-        {
-          "ID": 24615,
-          "Title": "Categorìa:Scritura"
+          "ID": 101285,
+          "Title": "Categorìa:Categorìe për géner musical"
         },
         {
           "ID": 98485,
           "Title": "Categorìa:Cultura"
         },
         {
+          "ID": 98858,
+          "Title": "Categorìa:Cultura për pais"
+        },
+        {
           "ID": 100640,
           "Title": "Categorìa:Cusin-a"
         },
         {
+          "ID": 37298,
+          "Title": "Categorìa:Educassion"
+        },
+        {
+          "ID": 19346,
+          "Title": "Categorìa:Film"
+        },
+        {
           "ID": 101278,
           "Title": "Categorìa:Formassion musicaj"
-        }
-      ],
-      "Articles": [
-        {
-          "ID": 5541,
-          "Title": "Wikipedia"
         },
         {
-          "ID": 5615,
-          "Title": "Buckingham Palace"
+          "ID": 5315,
+          "Title": "Categorìa:Giornaj"
         },
         {
-          "ID": 6171,
-          "Title": "Bagna"
+          "ID": 101286,
+          "Title": "Categorìa:Géner musicaj"
         },
         {
-          "ID": 6333,
-          "Title": "Cicolata"
+          "ID": 1482,
+          "Title": "Categorìa:Literatura"
         },
         {
-          "ID": 27573,
-          "Title": "Green Day"
+          "ID": 1519,
+          "Title": "Categorìa:Mangé"
         },
         {
-          "ID": 87197,
-          "Title": "Realtà"
+          "ID": 1518,
+          "Title": "Categorìa:Mangé e bèive"
         },
         {
-          "ID": 92433,
-          "Title": "Singial"
+          "ID": 1478,
+          "Title": "Categorìa:Mùsica"
         },
         {
-          "ID": 92796,
-          "Title": "Crin"
+          "ID": 24615,
+          "Title": "Categorìa:Scritura"
         },
         {
-          "ID": 95339,
-          "Title": "Led Zeppelin"
+          "ID": 98892,
+          "Title": "Categorìa:Sessualità"
+        },
+        {
+          "ID": 19328,
+          "Title": "Categorìa:Spòrt"
+        },
+        {
+          "ID": 1521,
+          "Title": "Categorìa:Spòrt e dësmore"
+        },
+        {
+          "ID": 101811,
+          "Title": "Categorìa:Television"
         }
       ]
     },
@@ -86,38 +88,24 @@
       "Title": "Geography and places",
       "Categories": [
         {
+          "ID": 35685,
+          "Title": "Categorìa:Fium"
+        },
+        {
           "ID": 1489,
           "Title": "Categorìa:Geografìa"
         },
         {
+          "ID": 98860,
+          "Title": "Categorìa:Pais"
+        },
+        {
+          "ID": 1678,
+          "Title": "Categorìa:Sità"
+        },
+        {
           "ID": 3197,
           "Title": "Categorìa:Sòrt ëd monument"
-        }
-      ],
-      "Articles": [
-        {
-          "ID": 1675,
-          "Title": "Paris"
-        },
-        {
-          "ID": 7388,
-          "Title": "Venessia"
-        },
-        {
-          "ID": 10014,
-          "Title": "Myanmar"
-        },
-        {
-          "ID": 19533,
-          "Title": "Australia"
-        },
-        {
-          "ID": 23630,
-          "Title": "Canberra"
-        },
-        {
-          "ID": 34561,
-          "Title": "Òm"
         }
       ]
     },
@@ -136,18 +124,8 @@
       "Title": "History and events",
       "Categories": [
         {
-          "ID": 1486,
-          "Title": "Categorìa:Siense dl'òmo"
-        },
-        {
           "ID": 1490,
           "Title": "Categorìa:Stòria"
-        }
-      ],
-      "Articles": [
-        {
-          "ID": 100295,
-          "Title": "Donald Trump"
         }
       ]
     },
@@ -156,22 +134,20 @@
       "Title": "Mathematics and logic",
       "Categories": [
         {
+          "ID": 34021,
+          "Title": "Categorìa:Amzure"
+        },
+        {
+          "ID": 93093,
+          "Title": "Categorìa:Lògica"
+        },
+        {
           "ID": 3466,
           "Title": "Categorìa:Matemàtica"
         },
         {
           "ID": 21809,
           "Title": "Categorìa:Statìstica"
-        },
-        {
-          "ID": 93093,
-          "Title": "Categorìa:Lògica"
-        }
-      ],
-      "Articles": [
-        {
-          "ID": 50965,
-          "Title": "Longheur"
         }
       ]
     },
@@ -179,6 +155,26 @@
       "ID": 2147483642,
       "Title": "Nature and physical sciences",
       "Categories": [
+        {
+          "ID": 42018,
+          "Title": "Categorìa:Animalia"
+        },
+        {
+          "ID": 6474,
+          "Title": "Categorìa:Chìmica"
+        },
+        {
+          "ID": 4302,
+          "Title": "Categorìa:Fìsica"
+        },
+        {
+          "ID": 93126,
+          "Title": "Categorìa:Notomìa"
+        },
+        {
+          "ID": 100564,
+          "Title": "Categorìa:Piante"
+        },
         {
           "ID": 1506,
           "Title": "Categorìa:Siense"
@@ -190,36 +186,6 @@
         {
           "ID": 1511,
           "Title": "Categorìa:Zoologìa"
-        },
-        {
-          "ID": 4302,
-          "Title": "Categorìa:Fìsica"
-        },
-        {
-          "ID": 6474,
-          "Title": "Categorìa:Chìmica"
-        }
-      ],
-      "Articles": [
-        {
-          "ID": 1821,
-          "Title": "Citrus limon"
-        },
-        {
-          "ID": 1824,
-          "Title": "Citrus sinensis"
-        },
-        {
-          "ID": 76879,
-          "Title": "Fragaria vesca"
-        },
-        {
-          "ID": 96664,
-          "Title": "Melia"
-        },
-        {
-          "ID": 98105,
-          "Title": "Ris (botànica)"
         }
       ]
     },
@@ -228,94 +194,52 @@
       "Title": "People and self",
       "Categories": [
         {
+          "ID": 25572,
+          "Title": "Categorìa:Anventor"
+        },
+        {
+          "ID": 23673,
+          "Title": "Categorìa:Architet"
+        },
+        {
+          "ID": 26111,
+          "Title": "Categorìa:Artista"
+        },
+        {
+          "ID": 6558,
+          "Title": "Categorìa:Ator"
+        },
+        {
+          "ID": 19303,
+          "Title": "Categorìa:Ator cinematogràfich"
+        },
+        {
           "ID": 1466,
           "Title": "Categorìa:Biografìe"
-        }
-      ],
-      "Articles": [
-        {
-          "ID": 5403,
-          "Title": "Galileo Galilei"
         },
         {
-          "ID": 5417,
-          "Title": "Lewis Carroll"
+          "ID": 85056,
+          "Title": "Categorìa:Esplorator"
         },
         {
-          "ID": 5423,
-          "Title": "Florence Nightingale"
+          "ID": 4521,
+          "Title": "Categorìa:Filòsof"
         },
         {
-          "ID": 6369,
-          "Title": "Leonardo Fibonacci"
+          "ID": 3465,
+          "Title": "Categorìa:Matemàtich"
         },
         {
-          "ID": 7380,
-          "Title": "Carl Friedrich Gauss"
+          "ID": 29627,
+          "Title": "Categorìa:Mùsich"
         },
         {
-          "ID": 8143,
-          "Title": "Cristòfo Colomb"
+          "ID": 4242,
+          "Title": "Categorìa:Scritor"
         },
         {
-          "ID": 10870,
-          "Title": "René Descartes"
-        },
-        {
-          "ID": 13091,
-          "Title": "Charles Babbage"
-        },
-        {
-          "ID": 13901,
-          "Title": "Adolf Hitler"
-        },
-        {
-          "ID": 18257,
-          "Title": "Richard Wagner"
-        },
-        {
-          "ID": 22979,
-          "Title": "Johannes Kepler"
-        },
-        {
-          "ID": 25147,
-          "Title": "Carl Friedrich Abel"
-        },
-        {
-          "ID": 25780,
-          "Title": "Alan Turing"
-        },
-        {
-          "ID": 34247,
-          "Title": "Sigmund Freud"
-        },
-        {
-          "ID": 73386,
-          "Title": "Adam Smith"
-        },
-        {
-          "ID": 86424,
-          "Title": "Noam Chomsky"
-        },
-        {
-          "ID": 87108,
-          "Title": "Tomà d'Aquin"
-        },
-        {
-          "ID": 92453,
-          "Title": "Ayn Rand"
-        },
-        {
-          "ID": 92967,
-          "Title": "Oliver Cromwell"
-        },
-        {
-          "ID": 99174,
-          "Title": "John Lennon"
-        },
-        {
-          "ID": 99214,
-          "Title": "George Harrison"
+          "ID": 12844,
+          "Title": "Categorìa:Òm polìtich"
         }
       ]
     },
@@ -326,12 +250,6 @@
         {
           "ID": 17307,
           "Title": "Categorìa:Filosofìa"
-        }
-      ],
-      "Articles": [
-        {
-          "ID": 87214,
-          "Title": "Blëssa"
         }
       ]
     },
@@ -350,98 +268,36 @@
       "Title": "Society and social sciences",
       "Categories": [
         {
-          "ID": 1486,
-          "Title": "Categorìa:Siense dl'òmo"
-        },
-        {
           "ID": 1488,
           "Title": "Categorìa:Drit"
+        },
+        {
+          "ID": 31944,
+          "Title": "Categorìa:Finansa"
+        },
+        {
+          "ID": 31943,
+          "Title": "Categorìa:Monede"
         },
         {
           "ID": 4294,
           "Title": "Categorìa:Organisassion polìtiche antrastataj"
         },
         {
+          "ID": 1492,
+          "Title": "Categorìa:Psicologìa"
+        },
+        {
+          "ID": 1486,
+          "Title": "Categorìa:Siense dl'òmo"
+        },
+        {
           "ID": 98864,
           "Title": "Categorìa:Società"
-        }
-      ],
-      "Articles": [
-        {
-          "ID": 4797,
-          "Title": "Cile"
         },
         {
-          "ID": 5577,
-          "Title": "Barbados"
-        },
-        {
-          "ID": 5741,
-          "Title": "Union Europenga"
-        },
-        {
-          "ID": 7315,
-          "Title": "Iran"
-        },
-        {
-          "ID": 8249,
-          "Title": "Starbucks"
-        },
-        {
-          "ID": 13769,
-          "Title": "The New York Times"
-        },
-        {
-          "ID": 18923,
-          "Title": "Università dla Virginia"
-        },
-        {
-          "ID": 29088,
-          "Title": "Università ëd Milan"
-        },
-        {
-          "ID": 30069,
-          "Title": "Università ëd Bològna"
-        },
-        {
-          "ID": 33797,
-          "Title": "Università ëd Pàdoa"
-        },
-        {
-          "ID": 35252,
-          "Title": "Università ëd Turin"
-        },
-        {
-          "ID": 38630,
-          "Title": "Università d'Oxford"
-        },
-        {
-          "ID": 38631,
-          "Title": "Università ëd Cambridge"
-        },
-        {
-          "ID": 39040,
-          "Title": "Università ëd Kent"
-        },
-        {
-          "ID": 44866,
-          "Title": "Università d'Aberdeen"
-        },
-        {
-          "ID": 48682,
-          "Title": "Università ëd S. Andrea"
-        },
-        {
-          "ID": 49669,
-          "Title": "Università ëd Münster"
-        },
-        {
-          "ID": 74977,
-          "Title": "Università 'd Londra"
-        },
-        {
-          "ID": 101776,
-          "Title": "Università ëd Washington"
+          "ID": 96893,
+          "Title": "Categorìa:Valude"
         }
       ]
     },
@@ -449,6 +305,18 @@
       "ID": 2147483647,
       "Title": "Technology and applied sciences",
       "Categories": [
+        {
+          "ID": 74000,
+          "Title": "Categorìa:Angegnerìa"
+        },
+        {
+          "ID": 5071,
+          "Title": "Categorìa:Informàtica"
+        },
+        {
+          "ID": 27103,
+          "Title": "Categorìa:Ragnà"
+        },
         {
           "ID": 1509,
           "Title": "Categorìa:Siense aplicà"
@@ -460,28 +328,6 @@
         {
           "ID": 1516,
           "Title": "Categorìa:Traspòrt"
-        },
-        {
-          "ID": 5071,
-          "Title": "Categorìa:Informàtica"
-        },
-        {
-          "ID": 27103,
-          "Title": "Categorìa:Ragnà"
-        },
-        {
-          "ID": 74000,
-          "Title": "Categorìa:Angegnerìa"
-        }
-      ],
-      "Articles": [
-        {
-          "ID": 26494,
-          "Title": "Pepsi Còla"
-        },
-        {
-          "ID": 95849,
-          "Title": "Cicles"
         }
       ]
     }

@@ -4,32 +4,20 @@
     {
       "ID": 2147483637,
       "Title": "Culture and the arts",
-      "Articles": [
+      "Categories": [
         {
-          "ID": 2210,
-          "Title": "ᖃᓂᖅ ᖁᐊᔪᖅ"
-        },
-        {
-          "ID": 2237,
-          "Title": "ᐅᐃᑭᐱᑎᐊ"
-        },
-        {
-          "ID": 2378,
-          "Title": "ᕿᖂᔭᖅ"
+          "ID": 2571,
+          "Title": "Category:ᐃᓕᓐᓂᐊᖅᑐᓕᕆᓂᖅ/ilinniaqtuliriniq"
         }
       ]
     },
     {
       "ID": 2147483638,
       "Title": "Geography and places",
-      "Articles": [
+      "Categories": [
         {
-          "ID": 2644,
-          "Title": "ᐄᒃ"
-        },
-        {
-          "ID": 3775,
-          "Title": "ᐊᔅᑦᕌᓕᐊ"
+          "ID": 2253,
+          "Title": "Category:ᐃᓅᖃᑎᒌᑦ ᐃᓕᖅᑯᓯᖃᑎᒌᒃᑐᑦ"
         }
       ]
     },
@@ -50,46 +38,22 @@
       "Title": "Nature and physical sciences",
       "Categories": [
         {
+          "ID": 2592,
+          "Title": "Category:ᐱᕈᖅᑐᖅ/piruqtuq"
+        },
+        {
+          "ID": 2227,
+          "Title": "Category:ᓯᓚᕐᔪᐊᒥᐅᑦ"
+        },
+        {
           "ID": 4566,
           "Title": "Category:ᖃᐅᔨᓴᕐᓃᑦ"
-        }
-      ],
-      "Articles": [
-        {
-          "ID": 2211,
-          "Title": "ᐅᓱᒃ"
-        },
-        {
-          "ID": 2374,
-          "Title": "ᒥᓗᑦᓱᑳᒐᖅ"
-        },
-        {
-          "ID": 2889,
-          "Title": "ᑐᒃᑐᕙᒃ"
-        },
-        {
-          "ID": 3296,
-          "Title": "ᐃᒡᔪᒃ"
-        },
-        {
-          "ID": 5823,
-          "Title": "ᖂᖅ"
-        },
-        {
-          "ID": 5906,
-          "Title": "ᐃᑯᒪ"
         }
       ]
     },
     {
       "ID": 2147483643,
-      "Title": "People and self",
-      "Articles": [
-        {
-          "ID": 5903,
-          "Title": "ᐦᐄᑦᓖᕐ"
-        }
-      ]
+      "Title": "People and self"
     },
     {
       "ID": 2147483644,
@@ -101,13 +65,7 @@
     },
     {
       "ID": 2147483646,
-      "Title": "Society and social sciences",
-      "Articles": [
-        {
-          "ID": 5569,
-          "Title": "ᓯᓕ"
-        }
-      ]
+      "Title": "Society and social sciences"
     },
     {
       "ID": 2147483647,
@@ -124,12 +82,6 @@
         {
           "ID": 5150,
           "Title": "Category:ᖃᕋᓴᐅᔭᖅ"
-        }
-      ],
-      "Articles": [
-        {
-          "ID": 3725,
-          "Title": "ᐱᑉᓯ ᑰᓛ"
         }
       ]
     }

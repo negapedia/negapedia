@@ -3,17 +3,7 @@
   "Topics": [
     {
       "ID": 2147483637,
-      "Title": "Culture and the arts",
-      "Articles": [
-        {
-          "ID": 4259,
-          "Title": "Өдмг"
-        },
-        {
-          "ID": 4262,
-          "Title": "Бикипеди"
-        }
-      ]
+      "Title": "Culture and the arts"
     },
     {
       "ID": 2147483638,
@@ -22,20 +12,6 @@
         {
           "ID": 4768,
           "Title": "Әәшл:Һазр делкә"
-        }
-      ],
-      "Articles": [
-        {
-          "ID": 4399,
-          "Title": "Догҗир"
-        },
-        {
-          "ID": 5687,
-          "Title": "Австралмудин Ниицән"
-        },
-        {
-          "ID": 6155,
-          "Title": "Мьянмудин Ниицән"
         }
       ]
     },
@@ -60,10 +36,14 @@
     {
       "ID": 2147483642,
       "Title": "Nature and physical sciences",
-      "Articles": [
+      "Categories": [
         {
-          "ID": 4435,
-          "Title": "Темән"
+          "ID": 7224,
+          "Title": "Әәшл:Аһурсн"
+        },
+        {
+          "ID": 7226,
+          "Title": "Әәшл:Урһмлмуд"
         }
       ]
     },
@@ -74,20 +54,6 @@
         {
           "ID": 3378,
           "Title": "Әәшл:Күмн Әмтн"
-        }
-      ],
-      "Articles": [
-        {
-          "ID": 3650,
-          "Title": "Вагнер, Рихард"
-        },
-        {
-          "ID": 3656,
-          "Title": "Колумб, Христофор"
-        },
-        {
-          "ID": 7152,
-          "Title": "Карл Фридрих Гаусс"
         }
       ]
     },
@@ -107,35 +73,11 @@
     },
     {
       "ID": 2147483646,
-      "Title": "Society and social sciences",
-      "Articles": [
-        {
-          "ID": 5912,
-          "Title": "Барбадосин Орн"
-        },
-        {
-          "ID": 6057,
-          "Title": "Сарта Иранмудин Орн"
-        },
-        {
-          "ID": 6838,
-          "Title": "Чилмудин Орн"
-        }
-      ]
+      "Title": "Society and social sciences"
     },
     {
       "ID": 2147483647,
-      "Title": "Technology and applied sciences",
-      "Articles": [
-        {
-          "ID": 4384,
-          "Title": "Эрс"
-        },
-        {
-          "ID": 11669,
-          "Title": "Тавцң лав домен"
-        }
-      ]
+      "Title": "Technology and applied sciences"
     }
   ]
 }

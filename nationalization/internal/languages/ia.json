@@ -6,98 +6,124 @@
       "Title": "Culture and the arts",
       "Categories": [
         {
-          "ID": 8300,
-          "Title": "Categoria:Arte"
-        },
-        {
-          "ID": 8330,
-          "Title": "Categoria:Sport"
-        },
-        {
-          "ID": 8399,
-          "Title": "Categoria:Film"
-        },
-        {
-          "ID": 8824,
-          "Title": "Categoria:Cultura"
-        },
-        {
           "ID": 9666,
           "Title": "Categoria:Alimentos"
         },
         {
-          "ID": 9683,
-          "Title": "Categoria:Intertenimento"
+          "ID": 8300,
+          "Title": "Categoria:Arte"
         },
         {
-          "ID": 16455,
-          "Title": "Categoria:Gruppos musical"
+          "ID": 9400,
+          "Title": "Categoria:Artes martial"
         },
         {
-          "ID": 18459,
-          "Title": "Categoria:Recreation"
+          "ID": 9957,
+          "Title": "Categoria:Cognoscentia"
         },
         {
           "ID": 18885,
           "Title": "Categoria:Color"
         },
         {
-          "ID": 19951,
-          "Title": "Categoria:Scriptura"
+          "ID": 20166,
+          "Title": "Categoria:Communitates virtual"
+        },
+        {
+          "ID": 18463,
+          "Title": "Categoria:Conventiones cultural"
+        },
+        {
+          "ID": 8824,
+          "Title": "Categoria:Cultura"
+        },
+        {
+          "ID": 18424,
+          "Title": "Categoria:Cultura per pais"
+        },
+        {
+          "ID": 9627,
+          "Title": "Categoria:Education"
+        },
+        {
+          "ID": 9856,
+          "Title": "Categoria:Fiction"
+        },
+        {
+          "ID": 8399,
+          "Title": "Categoria:Film"
+        },
+        {
+          "ID": 19077,
+          "Title": "Categoria:Formas de musica"
         },
         {
           "ID": 40473,
           "Title": "Categoria:Gastronomia"
-        }
-      ],
-      "Articles": [
-        {
-          "ID": 2943,
-          "Title": "Wikipedia"
         },
         {
-          "ID": 3965,
-          "Title": "Encyclopedia"
+          "ID": 18613,
+          "Title": "Categoria:Generes musical"
         },
         {
-          "ID": 8935,
-          "Title": "Porco"
+          "ID": 16455,
+          "Title": "Categoria:Gruppos musical"
         },
         {
-          "ID": 12273,
-          "Title": "Hogwarts"
+          "ID": 9683,
+          "Title": "Categoria:Intertenimento"
         },
         {
-          "ID": 15516,
-          "Title": "Pan"
+          "ID": 9988,
+          "Title": "Categoria:Jocos de computator"
         },
         {
-          "ID": 15554,
-          "Title": "Caffe"
+          "ID": 10318,
+          "Title": "Categoria:Jocos de tabuliero"
         },
         {
-          "ID": 16483,
-          "Title": "Bira"
+          "ID": 9654,
+          "Title": "Categoria:Libros"
         },
         {
-          "ID": 19996,
-          "Title": "Chocolate"
+          "ID": 8406,
+          "Title": "Categoria:Litteratura"
         },
         {
-          "ID": 30449,
-          "Title": "Castitate"
+          "ID": 8301,
+          "Title": "Categoria:Musica"
         },
         {
-          "ID": 34269,
-          "Title": "Porco salvage"
+          "ID": 18612,
+          "Title": "Categoria:Musica per genere"
         },
         {
-          "ID": 40529,
-          "Title": "Theobroma cacao"
+          "ID": 18459,
+          "Title": "Categoria:Recreation"
         },
         {
-          "ID": 42061,
-          "Title": "Ensemble"
+          "ID": 19951,
+          "Title": "Categoria:Scriptura"
+        },
+        {
+          "ID": 18249,
+          "Title": "Categoria:Sexualitate"
+        },
+        {
+          "ID": 30421,
+          "Title": "Categoria:Sexualitate human"
+        },
+        {
+          "ID": 8330,
+          "Title": "Categoria:Sport"
+        },
+        {
+          "ID": 12635,
+          "Title": "Categoria:Television"
+        },
+        {
+          "ID": 16831,
+          "Title": "Categoria:Vita quotidian"
         }
       ]
     },
@@ -105,6 +131,18 @@
       "ID": 2147483638,
       "Title": "Geography and places",
       "Categories": [
+        {
+          "ID": 33453,
+          "Title": "Categoria:Citate"
+        },
+        {
+          "ID": 7221,
+          "Title": "Categoria:Citates"
+        },
+        {
+          "ID": 9637,
+          "Title": "Categoria:Fluvios"
+        },
         {
           "ID": 6050,
           "Title": "Categoria:Geographia"
@@ -114,34 +152,12 @@
           "Title": "Categoria:Locos"
         },
         {
+          "ID": 6045,
+          "Title": "Categoria:Pais"
+        },
+        {
           "ID": 32295,
           "Title": "Categoria:Urbanismo"
-        }
-      ],
-      "Articles": [
-        {
-          "ID": 1400,
-          "Title": "Homine"
-        },
-        {
-          "ID": 7618,
-          "Title": "Birmania"
-        },
-        {
-          "ID": 8201,
-          "Title": "Australia"
-        },
-        {
-          "ID": 8638,
-          "Title": "Paris"
-        },
-        {
-          "ID": 8796,
-          "Title": "Humano"
-        },
-        {
-          "ID": 30197,
-          "Title": "Venetia"
         }
       ]
     },
@@ -150,20 +166,24 @@
       "Title": "Health and fitness",
       "Categories": [
         {
-          "ID": 8414,
-          "Title": "Categoria:Specialitates medic"
+          "ID": 18488,
+          "Title": "Categoria:Anatomia human"
         },
         {
           "ID": 8415,
           "Title": "Categoria:Medicina"
         },
         {
+          "ID": 9668,
+          "Title": "Categoria:Sanitate"
+        },
+        {
           "ID": 8416,
           "Title": "Categoria:Scientias de sanitate"
         },
         {
-          "ID": 9668,
-          "Title": "Categoria:Sanitate"
+          "ID": 8414,
+          "Title": "Categoria:Specialitates medic"
         }
       ]
     },
@@ -172,46 +192,36 @@
       "Title": "History and events",
       "Categories": [
         {
-          "ID": 6055,
-          "Title": "Categoria:Historia"
-        },
-        {
-          "ID": 9509,
-          "Title": "Categoria:Scientias social"
+          "ID": 32669,
+          "Title": "Categoria:Attaccos terrorista"
         },
         {
           "ID": 10169,
           "Title": "Categoria:Eventos"
         },
         {
-          "ID": 11358,
-          "Title": "Categoria:Historia per pais"
+          "ID": 10093,
+          "Title": "Categoria:Guerra"
         },
         {
-          "ID": 17080,
-          "Title": "Categoria:Scientias human"
+          "ID": 8628,
+          "Title": "Categoria:Guerras"
+        },
+        {
+          "ID": 6055,
+          "Title": "Categoria:Historia"
+        },
+        {
+          "ID": 42550,
+          "Title": "Categoria:Historia del technologia"
         },
         {
           "ID": 23471,
           "Title": "Categoria:Historia per location"
-        }
-      ],
-      "Articles": [
-        {
-          "ID": 15585,
-          "Title": "11 de septembre 2001"
         },
         {
-          "ID": 24750,
-          "Title": "Guerra de Troia"
-        },
-        {
-          "ID": 39313,
-          "Title": "Donald Trump"
-        },
-        {
-          "ID": 40340,
-          "Title": "Massacro al discotheca Pulse"
+          "ID": 11358,
+          "Title": "Categoria:Historia per pais"
         }
       ]
     },
@@ -220,42 +230,40 @@
       "Title": "Mathematics and logic",
       "Categories": [
         {
-          "ID": 6059,
-          "Title": "Categoria:Mathematica"
-        },
-        {
-          "ID": 8344,
-          "Title": "Categoria:Logica"
-        },
-        {
-          "ID": 11365,
-          "Title": "Categoria:Statistica"
-        },
-        {
-          "ID": 11366,
-          "Title": "Categoria:Probabilitate e statistica"
-        },
-        {
-          "ID": 11368,
-          "Title": "Categoria:Mathematica applicate"
-        },
-        {
           "ID": 29605,
           "Title": "Categoria:Disciplinas mathematic"
         },
         {
           "ID": 42922,
           "Title": "Categoria:Informatica theoric"
-        }
-      ],
-      "Articles": [
-        {
-          "ID": 1744,
-          "Title": "Longitude"
         },
         {
-          "ID": 2849,
-          "Title": "Unitates de longitude"
+          "ID": 8344,
+          "Title": "Categoria:Logica"
+        },
+        {
+          "ID": 6059,
+          "Title": "Categoria:Mathematica"
+        },
+        {
+          "ID": 11368,
+          "Title": "Categoria:Mathematica applicate"
+        },
+        {
+          "ID": 11366,
+          "Title": "Categoria:Probabilitate e statistica"
+        },
+        {
+          "ID": 11365,
+          "Title": "Categoria:Statistica"
+        },
+        {
+          "ID": 18717,
+          "Title": "Categoria:Systemas de unitates"
+        },
+        {
+          "ID": 9091,
+          "Title": "Categoria:Unitate de mesura"
         }
       ]
     },
@@ -264,82 +272,52 @@
       "Title": "Nature and physical sciences",
       "Categories": [
         {
-          "ID": 8117,
-          "Title": "Categoria:Scientia"
+          "ID": 8691,
+          "Title": "Categoria:Anatomia"
         },
         {
-          "ID": 8304,
-          "Title": "Categoria:Physica"
+          "ID": 9347,
+          "Title": "Categoria:Animalia"
         },
         {
           "ID": 8526,
           "Title": "Categoria:Chimia"
         },
         {
-          "ID": 9542,
-          "Title": "Categoria:Scientias natural"
+          "ID": 18706,
+          "Title": "Categoria:Compositos chimic"
         },
         {
-          "ID": 9572,
-          "Title": "Categoria:Zoologia"
+          "ID": 8341,
+          "Title": "Categoria:Ecologia"
         },
         {
-          "ID": 9957,
-          "Title": "Categoria:Cognoscentia"
+          "ID": 9702,
+          "Title": "Categoria:Fructo"
         },
         {
           "ID": 11378,
           "Title": "Categoria:Natura"
         },
         {
-          "ID": 18706,
-          "Title": "Categoria:Compositos chimic"
+          "ID": 8304,
+          "Title": "Categoria:Physica"
+        },
+        {
+          "ID": 8117,
+          "Title": "Categoria:Scientia"
+        },
+        {
+          "ID": 9542,
+          "Title": "Categoria:Scientias natural"
         },
         {
           "ID": 40800,
           "Title": "Categoria:Substantia chimic"
-        }
-      ],
-      "Articles": [
-        {
-          "ID": 9061,
-          "Title": "Zea mays"
         },
         {
-          "ID": 15735,
-          "Title": "Foco"
-        },
-        {
-          "ID": 31944,
-          "Title": "Musculo"
-        },
-        {
-          "ID": 34201,
-          "Title": "Alces alces"
-        },
-        {
-          "ID": 34292,
-          "Title": "Scomber scombrus"
-        },
-        {
-          "ID": 34626,
-          "Title": "Camelos (genere)"
-        },
-        {
-          "ID": 36869,
-          "Title": "Pantherinae"
-        },
-        {
-          "ID": 38882,
-          "Title": "Phoenicopterus"
-        },
-        {
-          "ID": 41315,
-          "Title": "Tomatiero"
-        },
-        {
-          "ID": 43189,
-          "Title": "Tritico"
+          "ID": 9572,
+          "Title": "Categoria:Zoologia"
         }
       ]
     },
@@ -348,102 +326,88 @@
       "Title": "People and self",
       "Categories": [
         {
+          "ID": 15471,
+          "Title": "Categoria:Actores"
+        },
+        {
+          "ID": 8400,
+          "Title": "Categoria:Actores de film"
+        },
+        {
+          "ID": 15621,
+          "Title": "Categoria:Architectos"
+        },
+        {
+          "ID": 8299,
+          "Title": "Categoria:Artistas"
+        },
+        {
+          "ID": 17562,
+          "Title": "Categoria:Chefes de stato"
+        },
+        {
+          "ID": 11438,
+          "Title": "Categoria:Exploratores"
+        },
+        {
           "ID": 9614,
           "Title": "Categoria:Gente"
         },
         {
-          "ID": 16831,
-          "Title": "Categoria:Vita quotidian"
+          "ID": 9628,
+          "Title": "Categoria:Gente per occupation"
+        },
+        {
+          "ID": 11349,
+          "Title": "Categoria:Inventores"
+        },
+        {
+          "ID": 7535,
+          "Title": "Categoria:Mathematicos"
+        },
+        {
+          "ID": 8811,
+          "Title": "Categoria:Medicos"
+        },
+        {
+          "ID": 9852,
+          "Title": "Categoria:Musicos"
         },
         {
           "ID": 33466,
           "Title": "Categoria:Persona"
-        }
-      ],
-      "Articles": [
-        {
-          "ID": 2176,
-          "Title": "Noam Chomsky"
         },
         {
-          "ID": 4987,
-          "Title": "René Descartes"
+          "ID": 9857,
+          "Title": "Categoria:Personages de fiction"
         },
         {
-          "ID": 8313,
-          "Title": "Christophoro Columbo"
+          "ID": 8812,
+          "Title": "Categoria:Philosophos"
         },
         {
-          "ID": 8928,
-          "Title": "Sigmund Freud"
+          "ID": 42616,
+          "Title": "Categoria:Pilotes"
         },
         {
-          "ID": 8957,
-          "Title": "Bill Gates"
+          "ID": 10084,
+          "Title": "Categoria:Politicos"
         },
         {
-          "ID": 10298,
-          "Title": "Galileo Galilei"
+          "ID": 17550,
+          "Title": "Categoria:Presidentes"
         },
         {
-          "ID": 12311,
-          "Title": "Adolf Hitler"
+          "ID": 17549,
+          "Title": "Categoria:Presidentes per pais"
         },
         {
-          "ID": 14998,
-          "Title": "Florentia Nightingale"
+          "ID": 10157,
+          "Title": "Categoria:Revolutionarios"
         },
         {
-          "ID": 16582,
-          "Title": "Thomas de Aquino"
-        },
-        {
-          "ID": 24021,
-          "Title": "Joseph Smith, Jr."
-        },
-        {
-          "ID": 24100,
-          "Title": "Richard Wagner"
-        },
-        {
-          "ID": 24136,
-          "Title": "William Blake"
-        },
-        {
-          "ID": 30660,
-          "Title": "Lewis Carroll"
-        },
-        {
-          "ID": 33152,
-          "Title": "The Big Bang Theory"
-        },
-        {
-          "ID": 39867,
-          "Title": "Carl Friedrich Gauss"
-        },
-        {
-          "ID": 39869,
-          "Title": "Johannes Kepler"
-        },
-        {
-          "ID": 39872,
-          "Title": "Alan Turing"
-        },
-        {
-          "ID": 39878,
-          "Title": "Adam Smith"
-        },
-        {
-          "ID": 42916,
-          "Title": "John Lennon"
-        },
-        {
-          "ID": 43041,
-          "Title": "Alexander Fleming"
-        },
-        {
-          "ID": 43108,
-          "Title": "George Harrison"
+          "ID": 9743,
+          "Title": "Categoria:Scriptores"
         }
       ]
     },
@@ -452,28 +416,32 @@
       "Title": "Philosophy and thinking",
       "Categories": [
         {
-          "ID": 8343,
-          "Title": "Categoria:Philosophia"
-        },
-        {
-          "ID": 10580,
-          "Title": "Categoria:Ethica"
-        },
-        {
-          "ID": 11346,
-          "Title": "Categoria:Pensamento"
+          "ID": 16218,
+          "Title": "Categoria:Conceptos philosophic"
         },
         {
           "ID": 18479,
           "Title": "Categoria:Disciplinas philosophic"
         },
         {
-          "ID": 18643,
-          "Title": "Categoria:Scholas e traditiones philosophic"
+          "ID": 10580,
+          "Title": "Categoria:Ethica"
         },
         {
           "ID": 18654,
           "Title": "Categoria:Ideologias"
+        },
+        {
+          "ID": 11346,
+          "Title": "Categoria:Pensamento"
+        },
+        {
+          "ID": 8343,
+          "Title": "Categoria:Philosophia"
+        },
+        {
+          "ID": 18643,
+          "Title": "Categoria:Scholas e traditiones philosophic"
         },
         {
           "ID": 18655,
@@ -482,24 +450,6 @@
         {
           "ID": 19723,
           "Title": "Categoria:Theorias politic"
-        }
-      ],
-      "Articles": [
-        {
-          "ID": 716,
-          "Title": "Credentia"
-        },
-        {
-          "ID": 1276,
-          "Title": "Fide"
-        },
-        {
-          "ID": 17598,
-          "Title": "Felicitate"
-        },
-        {
-          "ID": 41253,
-          "Title": "Effecto Dunning-Kruger"
         }
       ]
     },
@@ -522,78 +472,64 @@
       "Title": "Society and social sciences",
       "Categories": [
         {
-          "ID": 8823,
-          "Title": "Categoria:Societate"
-        },
-        {
-          "ID": 9509,
-          "Title": "Categoria:Scientias social"
+          "ID": 8334,
+          "Title": "Categoria:Companias"
         },
         {
           "ID": 9771,
           "Title": "Categoria:Derecto"
         },
         {
-          "ID": 9817,
-          "Title": "Categoria:Organisationes international"
+          "ID": 18428,
+          "Title": "Categoria:Education per pais"
         },
         {
           "ID": 10096,
           "Title": "Categoria:Feminismo"
         },
         {
-          "ID": 17080,
-          "Title": "Categoria:Scientias human"
+          "ID": 9865,
+          "Title": "Categoria:Financia"
+        },
+        {
+          "ID": 17564,
+          "Title": "Categoria:Governamento"
+        },
+        {
+          "ID": 24056,
+          "Title": "Categoria:Marketing"
+        },
+        {
+          "ID": 19006,
+          "Title": "Categoria:Numerario"
+        },
+        {
+          "ID": 9772,
+          "Title": "Categoria:Organisationes"
         },
         {
           "ID": 30186,
           "Title": "Categoria:Organisationes intergovernamental"
-        }
-      ],
-      "Articles": [
-        {
-          "ID": 654,
-          "Title": "Chile"
         },
         {
-          "ID": 2851,
-          "Title": "Union Europee"
+          "ID": 9817,
+          "Title": "Categoria:Organisationes international"
         },
         {
-          "ID": 9132,
-          "Title": "Barbados"
+          "ID": 8433,
+          "Title": "Categoria:Psychologia"
         },
         {
-          "ID": 9252,
-          "Title": "Iran"
+          "ID": 17080,
+          "Title": "Categoria:Scientias human"
         },
         {
-          "ID": 17165,
-          "Title": "Universitate de Turin"
+          "ID": 9509,
+          "Title": "Categoria:Scientias social"
         },
         {
-          "ID": 30235,
-          "Title": "Micronation"
-        },
-        {
-          "ID": 30804,
-          "Title": "The New York Times"
-        },
-        {
-          "ID": 31196,
-          "Title": "Universitate Oxonian"
-        },
-        {
-          "ID": 42930,
-          "Title": "Universitate de Cambridge"
-        },
-        {
-          "ID": 42957,
-          "Title": "Universitate de Uppsala"
-        },
-        {
-          "ID": 43754,
-          "Title": "Columbia University"
+          "ID": 8823,
+          "Title": "Categoria:Societate"
         }
       ]
     },
@@ -606,70 +542,80 @@
           "Title": "Categoria:Base de datos"
         },
         {
-          "ID": 8310,
-          "Title": "Categoria:Informatica"
-        },
-        {
-          "ID": 8311,
-          "Title": "Categoria:Internet"
+          "ID": 11372,
+          "Title": "Categoria:Computation"
         },
         {
           "ID": 8318,
           "Title": "Categoria:Computatores"
         },
         {
-          "ID": 8819,
-          "Title": "Categoria:Ingenieria"
-        },
-        {
-          "ID": 8820,
-          "Title": "Categoria:Technologia"
-        },
-        {
-          "ID": 8821,
-          "Title": "Categoria:Scientias applicate"
-        },
-        {
           "ID": 9700,
           "Title": "Categoria:Electronica"
-        },
-        {
-          "ID": 9851,
-          "Title": "Categoria:Transporto"
-        },
-        {
-          "ID": 11372,
-          "Title": "Categoria:Computation"
-        },
-        {
-          "ID": 20107,
-          "Title": "Categoria:Technologia per typo"
         },
         {
           "ID": 24825,
           "Title": "Categoria:Gestion de datos"
         },
         {
-          "ID": 42550,
-          "Title": "Categoria:Historia del technologia"
-        }
-      ],
-      "Articles": [
+          "ID": 8310,
+          "Title": "Categoria:Informatica"
+        },
         {
-          "ID": 15342,
-          "Title": "Dominio Internet"
+          "ID": 8819,
+          "Title": "Categoria:Ingenieria"
+        },
+        {
+          "ID": 8311,
+          "Title": "Categoria:Internet"
+        },
+        {
+          "ID": 8319,
+          "Title": "Categoria:Programmation"
+        },
+        {
+          "ID": 8821,
+          "Title": "Categoria:Scientias applicate"
+        },
+        {
+          "ID": 8357,
+          "Title": "Categoria:Software"
+        },
+        {
+          "ID": 8820,
+          "Title": "Categoria:Technologia"
+        },
+        {
+          "ID": 11373,
+          "Title": "Categoria:Technologia de information"
+        },
+        {
+          "ID": 20107,
+          "Title": "Categoria:Technologia per typo"
+        },
+        {
+          "ID": 9851,
+          "Title": "Categoria:Transporto"
+        },
+        {
+          "ID": 19017,
+          "Title": "Categoria:Utensiles"
+        },
+        {
+          "ID": 19018,
+          "Title": "Categoria:Utensiles manual"
         }
       ]
     }
   ],
   "Filters": [
     {
-      "ID": 6157,
-      "Title": "Categoria:Disambiguation"
-    },
-    {
       "ID": 14589,
       "Title": "Categoria:Categorias celate"
+    },
+    {
+      "ID": 6157,
+      "Title": "Categoria:Disambiguation"
     }
   ]
 }

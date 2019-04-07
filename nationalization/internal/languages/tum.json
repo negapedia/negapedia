@@ -9,29 +9,15 @@
           "ID": 4437,
           "Title": "Category:Chakurya"
         }
-      ],
-      "Articles": [
-        {
-          "ID": 4399,
-          "Title": "Nkhumba"
-        },
-        {
-          "ID": 4433,
-          "Title": "Chingwa"
-        }
       ]
     },
     {
       "ID": 2147483638,
       "Title": "Geography and places",
-      "Articles": [
+      "Categories": [
         {
-          "ID": 5503,
-          "Title": "Australia"
-        },
-        {
-          "ID": 5573,
-          "Title": "Myanmar"
+          "ID": 4445,
+          "Title": "Category:Mzinda"
         }
       ]
     },
@@ -56,18 +42,18 @@
     {
       "ID": 2147483642,
       "Title": "Nature and physical sciences",
-      "Articles": [
+      "Categories": [
         {
-          "ID": 4372,
-          "Title": "Chingoma"
+          "ID": 2439,
+          "Title": "Category:Vinyama"
         },
         {
-          "ID": 4382,
-          "Title": "Olenji"
+          "ID": 4376,
+          "Title": "Category:Vipaso"
         },
         {
-          "ID": 4386,
-          "Title": "Mpwetekele"
+          "ID": 4365,
+          "Title": "Category:Vyakumela"
         }
       ]
     },
@@ -85,17 +71,7 @@
     },
     {
       "ID": 2147483646,
-      "Title": "Society and social sciences",
-      "Articles": [
-        {
-          "ID": 5544,
-          "Title": "Iran"
-        },
-        {
-          "ID": 5958,
-          "Title": "Chile"
-        }
-      ]
+      "Title": "Society and social sciences"
     },
     {
       "ID": 2147483647,

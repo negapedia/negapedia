@@ -6,78 +6,80 @@
       "Title": "Culture and the arts",
       "Categories": [
         {
-          "ID": 1496,
-          "Title": "Categurìa:Film"
-        },
-        {
-          "ID": 5468,
-          "Title": "Categurìa:Cultura"
-        },
-        {
-          "ID": 5517,
-          "Title": "Categurìa:Spassatiempe"
-        },
-        {
-          "ID": 6135,
-          "Title": "Categurìa:Arte"
-        },
-        {
           "ID": 6710,
           "Title": "Categurìa:'Ntrattenimiente"
-        },
-        {
-          "ID": 6711,
-          "Title": "Categurìa:Alimentazzione"
         },
         {
           "ID": 16869,
           "Title": "Categurìa:'O mmangià"
         },
         {
+          "ID": 21158,
+          "Title": "Categurìa:Aducazzione"
+        },
+        {
+          "ID": 6711,
+          "Title": "Categurìa:Alimentazzione"
+        },
+        {
+          "ID": 6135,
+          "Title": "Categurìa:Arte"
+        },
+        {
+          "ID": 21137,
+          "Title": "Categurìa:Arte marziale"
+        },
+        {
+          "ID": 1461,
+          "Title": "Categurìa:Biografie"
+        },
+        {
+          "ID": 5468,
+          "Title": "Categurìa:Cultura"
+        },
+        {
+          "ID": 1496,
+          "Title": "Categurìa:Film"
+        },
+        {
+          "ID": 2025,
+          "Title": "Categurìa:Folklore"
+        },
+        {
           "ID": 20006,
           "Title": "Categurìa:Gruppe musecale"
+        },
+        {
+          "ID": 59687,
+          "Title": "Categurìa:Libbre"
+        },
+        {
+          "ID": 19588,
+          "Title": "Categurìa:Litteratura"
+        },
+        {
+          "ID": 19787,
+          "Title": "Categurìa:Múseca"
+        },
+        {
+          "ID": 60899,
+          "Title": "Categurìa:Quatre"
+        },
+        {
+          "ID": 5517,
+          "Title": "Categurìa:Spassatiempe"
+        },
+        {
+          "ID": 21166,
+          "Title": "Categurìa:Spettaculo"
         },
         {
           "ID": 20571,
           "Title": "Categurìa:Sport"
         },
         {
-          "ID": 21166,
-          "Title": "Categurìa:Spettaculo"
-        }
-      ],
-      "Articles": [
-        {
-          "ID": 6961,
-          "Title": "Pizza"
-        },
-        {
-          "ID": 20336,
-          "Title": "Wikipedia"
-        },
-        {
-          "ID": 25572,
-          "Title": "Presutto"
-        },
-        {
-          "ID": 25619,
-          "Title": "Cacavo"
-        },
-        {
-          "ID": 25641,
-          "Title": "Ovo"
-        },
-        {
-          "ID": 57459,
-          "Title": "Criscito"
-        },
-        {
-          "ID": 59439,
-          "Title": "Puorco"
-        },
-        {
-          "ID": 59601,
-          "Title": "Enciclopedía"
+          "ID": 21165,
+          "Title": "Categurìa:Televisione"
         }
       ]
     },
@@ -86,30 +88,24 @@
       "Title": "Geography and places",
       "Categories": [
         {
+          "ID": 27686,
+          "Title": "Categurìa:Città"
+        },
+        {
           "ID": 1406,
           "Title": "Categurìa:Giugrafia"
         },
         {
           "ID": 1479,
           "Title": "Categurìa:Monumente"
-        }
-      ],
-      "Articles": [
-        {
-          "ID": 6952,
-          "Title": "Venezia"
         },
         {
-          "ID": 20971,
-          "Title": "Parigge"
+          "ID": 23835,
+          "Title": "Categurìa:Sciumme"
         },
         {
-          "ID": 57279,
-          "Title": "Birmania"
-        },
-        {
-          "ID": 62954,
-          "Title": "Australia"
+          "ID": 20202,
+          "Title": "Categurìa:State"
         }
       ]
     },
@@ -117,6 +113,10 @@
       "ID": 2147483639,
       "Title": "Health and fitness",
       "Categories": [
+        {
+          "ID": 27626,
+          "Title": "Categurìa:Anatomia umana"
+        },
         {
           "ID": 21160,
           "Title": "Categurìa:Mericina"
@@ -130,16 +130,6 @@
         {
           "ID": 1534,
           "Title": "Categurìa:Storia"
-        },
-        {
-          "ID": 24768,
-          "Title": "Categurìa:Scienzie soggiale"
-        }
-      ],
-      "Articles": [
-        {
-          "ID": 62859,
-          "Title": "Donald Trump"
         }
       ]
     },
@@ -158,54 +148,40 @@
       "Title": "Nature and physical sciences",
       "Categories": [
         {
-          "ID": 5470,
-          "Title": "Categurìa:Scienzia"
+          "ID": 59657,
+          "Title": "Categurìa:Anatumia"
+        },
+        {
+          "ID": 26680,
+          "Title": "Categurìa:Anemale"
+        },
+        {
+          "ID": 59609,
+          "Title": "Categurìa:Chimeca"
+        },
+        {
+          "ID": 61332,
+          "Title": "Categurìa:Ecologgia"
+        },
+        {
+          "ID": 25574,
+          "Title": "Categurìa:Frutta"
         },
         {
           "ID": 20569,
           "Title": "Categurìa:Físeca"
         },
         {
+          "ID": 23902,
+          "Title": "Categurìa:Piante"
+        },
+        {
+          "ID": 5470,
+          "Title": "Categurìa:Scienzia"
+        },
+        {
           "ID": 23878,
           "Title": "Categurìa:Scienzie naturale"
-        },
-        {
-          "ID": 59609,
-          "Title": "Categurìa:Chimeca"
-        }
-      ],
-      "Articles": [
-        {
-          "ID": 19922,
-          "Title": "Pummarola"
-        },
-        {
-          "ID": 20141,
-          "Title": "Granone"
-        },
-        {
-          "ID": 20940,
-          "Title": "Ffuoco"
-        },
-        {
-          "ID": 23898,
-          "Title": "Cavolesciore"
-        },
-        {
-          "ID": 25343,
-          "Title": "Rano"
-        },
-        {
-          "ID": 59735,
-          "Title": "Purtuallo (frutta)"
-        },
-        {
-          "ID": 61256,
-          "Title": "Frávëla salvátëca"
-        },
-        {
-          "ID": 62672,
-          "Title": "Cama"
         }
       ]
     },
@@ -214,22 +190,24 @@
       "Title": "People and self",
       "Categories": [
         {
-          "ID": 1461,
-          "Title": "Categurìa:Biografie"
+          "ID": 6147,
+          "Title": "Categurìa:Atture"
         },
         {
-          "ID": 27684,
-          "Title": "Categurìa:Personaggi"
-        }
-      ],
-      "Articles": [
-        {
-          "ID": 27512,
-          "Title": "Adolf Hitler"
+          "ID": 24766,
+          "Title": "Categurìa:Filosefe"
         },
         {
-          "ID": 62600,
-          "Title": "Galileo Galilei"
+          "ID": 60159,
+          "Title": "Categurìa:Matemàtece"
+        },
+        {
+          "ID": 26034,
+          "Title": "Categurìa:Puliteche"
+        },
+        {
+          "ID": 21163,
+          "Title": "Categurìa:Scritture"
         }
       ]
     },
@@ -262,30 +240,28 @@
       "Title": "Society and social sciences",
       "Categories": [
         {
-          "ID": 5471,
-          "Title": "Categurìa:Suggità"
+          "ID": 20920,
+          "Title": "Categurìa:Aziende"
+        },
+        {
+          "ID": 60605,
+          "Title": "Categurìa:Deritto"
+        },
+        {
+          "ID": 63040,
+          "Title": "Categurìa:Munete"
+        },
+        {
+          "ID": 27684,
+          "Title": "Categurìa:Personaggi"
         },
         {
           "ID": 24768,
           "Title": "Categurìa:Scienzie soggiale"
         },
         {
-          "ID": 60605,
-          "Title": "Categurìa:Deritto"
-        }
-      ],
-      "Articles": [
-        {
-          "ID": 27991,
-          "Title": "Iran"
-        },
-        {
-          "ID": 57937,
-          "Title": "Cile"
-        },
-        {
-          "ID": 59412,
-          "Title": "Aunione europea"
+          "ID": 5471,
+          "Title": "Categurìa:Suggità"
         }
       ]
     },
@@ -294,16 +270,24 @@
       "Title": "Technology and applied sciences",
       "Categories": [
         {
-          "ID": 21159,
-          "Title": "Categurìa:Scienzie apprecate"
+          "ID": 59143,
+          "Title": "Categurìa:'Ngegnerìa"
+        },
+        {
+          "ID": 60453,
+          "Title": "Categurìa:Fravecatura"
+        },
+        {
+          "ID": 25844,
+          "Title": "Categurìa:Internet"
         },
         {
           "ID": 24838,
           "Title": "Categurìa:Nfurmateca"
         },
         {
-          "ID": 25844,
-          "Title": "Categurìa:Internet"
+          "ID": 21159,
+          "Title": "Categurìa:Scienzie apprecate"
         },
         {
           "ID": 27365,
@@ -312,10 +296,6 @@
         {
           "ID": 27372,
           "Title": "Categurìa:Traspuorto"
-        },
-        {
-          "ID": 59143,
-          "Title": "Categurìa:'Ngegnerìa"
         }
       ]
     }

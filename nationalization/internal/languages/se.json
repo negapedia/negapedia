@@ -6,32 +6,16 @@
       "Title": "Culture and the arts",
       "Categories": [
         {
-          "ID": 1715,
-          "Title": "Kategoriija:Kultuvra"
-        },
-        {
-          "ID": 6433,
-          "Title": "Kategoriija:Dáidda"
-        },
-        {
-          "ID": 6434,
-          "Title": "Kategoriija:Suohttasat"
-        },
-        {
           "ID": 6435,
           "Title": "Kategoriija:Astu"
         },
         {
-          "ID": 6814,
-          "Title": "Kategoriija:Áiggeájit"
+          "ID": 17244,
+          "Title": "Kategoriija:Aviissat"
         },
         {
           "ID": 11005,
           "Title": "Kategoriija:Biebmu"
-        },
-        {
-          "ID": 17080,
-          "Title": "Kategoriija:Filmmat"
         },
         {
           "ID": 17229,
@@ -42,30 +26,68 @@
           "Title": "Kategoriija:Biebmu tiippaid mielde"
         },
         {
+          "ID": 23268,
+          "Title": "Kategoriija:Breahttaspealut"
+        },
+        {
+          "ID": 6809,
+          "Title": "Kategoriija:Dihtor- ja videospealut"
+        },
+        {
+          "ID": 6433,
+          "Title": "Kategoriija:Dáidda"
+        },
+        {
+          "ID": 17080,
+          "Title": "Kategoriija:Filmmat"
+        },
+        {
+          "ID": 22875,
+          "Title": "Kategoriija:Gilvvut"
+        },
+        {
+          "ID": 20881,
+          "Title": "Kategoriija:Girjjit"
+        },
+        {
+          "ID": 7318,
+          "Title": "Kategoriija:Girjjálašvuohta"
+        },
+        {
+          "ID": 17028,
+          "Title": "Kategoriija:Juovlabiebmu"
+        },
+        {
+          "ID": 1715,
+          "Title": "Kategoriija:Kultuvra"
+        },
+        {
+          "ID": 6432,
+          "Title": "Kategoriija:Musihkka"
+        },
+        {
+          "ID": 23403,
+          "Title": "Kategoriija:Musihkka šáŋŋera mielde"
+        },
+        {
+          "ID": 17239,
+          "Title": "Kategoriija:Oahppu"
+        },
+        {
+          "ID": 6434,
+          "Title": "Kategoriija:Suohttasat"
+        },
+        {
+          "ID": 17242,
+          "Title": "Kategoriija:TV"
+        },
+        {
           "ID": 22873,
           "Title": "Kategoriija:Valáštallan"
-        }
-      ],
-      "Articles": [
-        {
-          "ID": 5171,
-          "Title": "Wikipedia"
         },
         {
-          "ID": 5432,
-          "Title": "Gáffe"
-        },
-        {
-          "ID": 13346,
-          "Title": "Láibi"
-        },
-        {
-          "ID": 22730,
-          "Title": "Eurovision lávllagilvvohallan 2018"
-        },
-        {
-          "ID": 23431,
-          "Title": "Vuola"
+          "ID": 6814,
+          "Title": "Kategoriija:Áiggeájit"
         }
       ]
     },
@@ -76,28 +98,22 @@
         {
           "ID": 6223,
           "Title": "Kategoriija:Eatnandiehtu"
-        }
-      ],
-      "Articles": [
-        {
-          "ID": 1205,
-          "Title": "Myanmar"
         },
         {
-          "ID": 1470,
-          "Title": "Australia"
+          "ID": 6403,
+          "Title": "Kategoriija:Geainnut"
         },
         {
-          "ID": 2852,
-          "Title": "Paris"
+          "ID": 6238,
+          "Title": "Kategoriija:Gávpogat"
         },
         {
-          "ID": 12110,
-          "Title": "Canberra"
+          "ID": 5873,
+          "Title": "Kategoriija:Jogat ja eanut"
         },
         {
-          "ID": 13225,
-          "Title": "Olmmoš"
+          "ID": 1713,
+          "Title": "Kategoriija:Riikkat"
         }
       ]
     },
@@ -110,16 +126,16 @@
           "Title": "Kategoriija:Dearvvašvuohta"
         },
         {
-          "ID": 20685,
-          "Title": "Kategoriija:Dálkkasdieđa"
-        },
-        {
           "ID": 20686,
           "Title": "Kategoriija:Dearvvašvuođadieđa"
         },
         {
           "ID": 22877,
           "Title": "Kategoriija:Dearvvašvuođadikšun"
+        },
+        {
+          "ID": 20685,
+          "Title": "Kategoriija:Dálkkasdieđa"
         }
       ]
     },
@@ -128,34 +144,32 @@
       "Title": "History and events",
       "Categories": [
         {
-          "ID": 1714,
-          "Title": "Kategoriija:Historjá"
-        },
-        {
-          "ID": 6327,
-          "Title": "Kategoriija:Humanisttalaš fágat"
-        },
-        {
-          "ID": 7329,
-          "Title": "Kategoriija:Servodatdiehtagat"
-        },
-        {
           "ID": 7491,
           "Title": "Kategoriija:Allabasit ja bassebeaivvit"
+        },
+        {
+          "ID": 22874,
+          "Title": "Kategoriija:Dáhpáhusat"
+        },
+        {
+          "ID": 1714,
+          "Title": "Kategoriija:Historjá"
         },
         {
           "ID": 17222,
           "Title": "Kategoriija:Historjá riikkaid mielde"
         },
         {
-          "ID": 22874,
-          "Title": "Kategoriija:Dáhpáhusat"
-        }
-      ],
-      "Articles": [
+          "ID": 20859,
+          "Title": "Kategoriija:Politihkalaš historjá"
+        },
         {
-          "ID": 20284,
-          "Title": "Donald Trump"
+          "ID": 22674,
+          "Title": "Kategoriija:Soahtan"
+        },
+        {
+          "ID": 22673,
+          "Title": "Kategoriija:Soađit"
         }
       ]
     },
@@ -174,12 +188,28 @@
       "Title": "Nature and physical sciences",
       "Categories": [
         {
+          "ID": 20689,
+          "Title": "Kategoriija:Anatomiija"
+        },
+        {
           "ID": 6329,
           "Title": "Kategoriija:Dieđa"
         },
         {
-          "ID": 6820,
-          "Title": "Kategoriija:Luondu"
+          "ID": 13451,
+          "Title": "Kategoriija:Eallin"
+        },
+        {
+          "ID": 8798,
+          "Title": "Kategoriija:Eallit"
+        },
+        {
+          "ID": 6038,
+          "Title": "Kategoriija:Eana"
+        },
+        {
+          "ID": 7276,
+          "Title": "Kategoriija:Ekologiija"
         },
         {
           "ID": 7417,
@@ -190,10 +220,6 @@
           "Title": "Kategoriija:Katastrofat"
         },
         {
-          "ID": 17213,
-          "Title": "Kategoriija:Luonddudieđa"
-        },
-        {
           "ID": 20321,
           "Title": "Kategoriija:Kemiija"
         },
@@ -202,26 +228,28 @@
           "Title": "Kategoriija:Kemiijalaš ávdnasat"
         },
         {
+          "ID": 17213,
+          "Title": "Kategoriija:Luonddudieđa"
+        },
+        {
+          "ID": 6820,
+          "Title": "Kategoriija:Luondu"
+        },
+        {
+          "ID": 20335,
+          "Title": "Kategoriija:Proteiinnat"
+        },
+        {
           "ID": 20690,
           "Title": "Kategoriija:Zoologiija"
-        }
-      ],
-      "Articles": [
-        {
-          "ID": 4760,
-          "Title": "Appelsiidna"
         },
         {
-          "ID": 4890,
-          "Title": "Eanamuorjjit"
+          "ID": 20241,
+          "Title": "Kategoriija:Šaddosat"
         },
         {
-          "ID": 4970,
-          "Title": "Gieddemuorji"
-        },
-        {
-          "ID": 7746,
-          "Title": "Sarvva"
+          "ID": 4882,
+          "Title": "Kategoriija:Šattut"
         }
       ]
     },
@@ -230,30 +258,56 @@
       "Title": "People and self",
       "Categories": [
         {
+          "ID": 7497,
+          "Title": "Kategoriija:Arkiteavttat"
+        },
+        {
+          "ID": 20604,
+          "Title": "Kategoriija:Doaktárat"
+        },
+        {
+          "ID": 7352,
+          "Title": "Kategoriija:Dáiddárat"
+        },
+        {
+          "ID": 22921,
+          "Title": "Kategoriija:Filosofat"
+        },
+        {
+          "ID": 2340,
+          "Title": "Kategoriija:Girječállit"
+        },
+        {
+          "ID": 3259,
+          "Title": "Kategoriija:Musihkkárat"
+        },
+        {
+          "ID": 6324,
+          "Title": "Kategoriija:Neavttárat"
+        },
+        {
           "ID": 7830,
           "Title": "Kategoriija:Olbmot"
         },
         {
-          "ID": 13451,
-          "Title": "Kategoriija:Eallin"
-        }
-      ],
-      "Articles": [
-        {
-          "ID": 4370,
-          "Title": "Harry Houdini"
+          "ID": 23566,
+          "Title": "Kategoriija:Olbmot ámmáha mielde"
         },
         {
-          "ID": 15009,
-          "Title": "Anders Behring Breivik"
+          "ID": 7338,
+          "Title": "Kategoriija:Politihkkárat"
         },
         {
-          "ID": 15724,
-          "Title": "Noam Chomsky"
+          "ID": 7372,
+          "Title": "Kategoriija:Presideanttat"
         },
         {
-          "ID": 20596,
-          "Title": "Sigmund Freud"
+          "ID": 8809,
+          "Title": "Kategoriija:Riegádeamit jahkelogu mielde"
+        },
+        {
+          "ID": 7373,
+          "Title": "Kategoriija:Stáhtajođiheaddjit"
         }
       ]
     },
@@ -262,12 +316,16 @@
       "Title": "Philosophy and thinking",
       "Categories": [
         {
+          "ID": 20660,
+          "Title": "Kategoriija:Etihkka"
+        },
+        {
           "ID": 7331,
           "Title": "Kategoriija:Filosofiija"
         },
         {
-          "ID": 20660,
-          "Title": "Kategoriija:Etihkka"
+          "ID": 20343,
+          "Title": "Kategoriija:Metafysihkka"
         }
       ]
     },
@@ -290,8 +348,40 @@
       "Title": "Society and social sciences",
       "Categories": [
         {
+          "ID": 17275,
+          "Title": "Kategoriija:Fitnodagat"
+        },
+        {
+          "ID": 7277,
+          "Title": "Kategoriija:Geopolitihkka"
+        },
+        {
           "ID": 6327,
           "Title": "Kategoriija:Humanisttalaš fágat"
+        },
+        {
+          "ID": 7769,
+          "Title": "Kategoriija:Politihkalaš vuogádagat"
+        },
+        {
+          "ID": 7353,
+          "Title": "Kategoriija:Psykologiija"
+        },
+        {
+          "ID": 22584,
+          "Title": "Kategoriija:Riikkaidgaskasaš organišuvnnat"
+        },
+        {
+          "ID": 18489,
+          "Title": "Kategoriija:Ruhta"
+        },
+        {
+          "ID": 18487,
+          "Title": "Kategoriija:Ruhtaovttadagat"
+        },
+        {
+          "ID": 7755,
+          "Title": "Kategoriija:Searvvit ja organišuvnnat"
         },
         {
           "ID": 6426,
@@ -304,32 +394,6 @@
         {
           "ID": 7443,
           "Title": "Kategoriija:Vuoigatvuođadieđa"
-        },
-        {
-          "ID": 22584,
-          "Title": "Kategoriija:Riikkaidgaskasaš organišuvnnat"
-        }
-      ],
-      "Articles": [
-        {
-          "ID": 1017,
-          "Title": "Eurohpá uniovdna"
-        },
-        {
-          "ID": 1224,
-          "Title": "Iran"
-        },
-        {
-          "ID": 1423,
-          "Title": "Chile"
-        },
-        {
-          "ID": 5431,
-          "Title": "Kiinná ođđajahki"
-        },
-        {
-          "ID": 6394,
-          "Title": "Barbados"
         }
       ]
     },
@@ -338,12 +402,16 @@
       "Title": "Technology and applied sciences",
       "Categories": [
         {
-          "ID": 6813,
-          "Title": "Kategoriija:Teknihkka"
-        },
-        {
           "ID": 17274,
           "Title": "Kategoriija:Dihtorat"
+        },
+        {
+          "ID": 6811,
+          "Title": "Kategoriija:Dihtorprográmmat"
+        },
+        {
+          "ID": 6812,
+          "Title": "Kategoriija:Informatihkka"
         },
         {
           "ID": 17303,
@@ -352,6 +420,10 @@
         {
           "ID": 17368,
           "Title": "Kategoriija:Johtolat"
+        },
+        {
+          "ID": 6813,
+          "Title": "Kategoriija:Teknihkka"
         }
       ]
     }

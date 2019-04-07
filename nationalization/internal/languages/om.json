@@ -3,13 +3,7 @@
   "Topics": [
     {
       "ID": 2147483637,
-      "Title": "Culture and the arts",
-      "Articles": [
-        {
-          "ID": 3482,
-          "Title": "Buna"
-        }
-      ]
+      "Title": "Culture and the arts"
     },
     {
       "ID": 2147483638,
@@ -18,20 +12,6 @@
         {
           "ID": 5163,
           "Title": "Category:Hawaasa"
-        }
-      ],
-      "Articles": [
-        {
-          "ID": 3567,
-          "Title": "Awustireliyaa"
-        },
-        {
-          "ID": 4290,
-          "Title": "Maaynamaar"
-        },
-        {
-          "ID": 4860,
-          "Title": "Paaris"
         }
       ]
     },
@@ -58,6 +38,14 @@
       "Title": "Nature and physical sciences",
       "Categories": [
         {
+          "ID": 4383,
+          "Title": "Category:Anaatoomii"
+        },
+        {
+          "ID": 4332,
+          "Title": "Category:Pirootiinii"
+        },
+        {
           "ID": 5028,
           "Title": "Category:Saayinsii"
         }
@@ -66,18 +54,10 @@
     {
       "ID": 2147483643,
       "Title": "People and self",
-      "Articles": [
+      "Categories": [
         {
-          "ID": 4904,
-          "Title": "Fibonaachii"
-        },
-        {
-          "ID": 4907,
-          "Title": "Kaarli Firidiriish Gaawus"
-        },
-        {
-          "ID": 4908,
-          "Title": "Galiiliyoo Galiilii"
+          "ID": 4797,
+          "Title": "Category:Kalaqxoota"
         }
       ]
     },
@@ -91,21 +71,7 @@
     },
     {
       "ID": 2147483646,
-      "Title": "Society and social sciences",
-      "Articles": [
-        {
-          "ID": 4261,
-          "Title": "Iraan"
-        },
-        {
-          "ID": 4575,
-          "Title": "Chiilii"
-        },
-        {
-          "ID": 4703,
-          "Title": "Baarbeedoos"
-        }
-      ]
+      "Title": "Society and social sciences"
     },
     {
       "ID": 2147483647,

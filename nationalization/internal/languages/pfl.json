@@ -6,30 +6,40 @@
       "Title": "Culture and the arts",
       "Categories": [
         {
-          "ID": 508,
-          "Title": "Sachgrubb:Kuldur"
+          "ID": 868,
+          "Title": "Sachgrubb:Bildung"
         },
         {
-          "ID": 525,
-          "Title": "Sachgrubb:Schbord"
+          "ID": 3947,
+          "Title": "Sachgrubb:Combjuderschbiele"
+        },
+        {
+          "ID": 2496,
+          "Title": "Sachgrubb:Esse un Dringe"
+        },
+        {
+          "ID": 508,
+          "Title": "Sachgrubb:Kuldur"
         },
         {
           "ID": 1445,
           "Title": "Sachgrubb:Leewnsmiddl"
         },
         {
-          "ID": 2496,
-          "Title": "Sachgrubb:Esse un Dringe"
-        }
-      ],
-      "Articles": [
-        {
-          "ID": 418,
-          "Title": "Hausschwein"
+          "ID": 1469,
+          "Title": "Sachgrubb:Lideradur"
         },
         {
-          "ID": 1589,
-          "Title": "Wikipedia"
+          "ID": 684,
+          "Title": "Sachgrubb:Musik"
+        },
+        {
+          "ID": 525,
+          "Title": "Sachgrubb:Schbord"
+        },
+        {
+          "ID": 1077,
+          "Title": "Sachgrubb:Zaidung"
         }
       ]
     },
@@ -38,8 +48,24 @@
       "Title": "Geography and places",
       "Categories": [
         {
+          "ID": 544,
+          "Title": "Sachgrubb:Fluss"
+        },
+        {
           "ID": 545,
           "Title": "Sachgrubb:Geographie"
+        },
+        {
+          "ID": 766,
+          "Title": "Sachgrubb:Orde"
+        },
+        {
+          "ID": 526,
+          "Title": "Sachgrubb:Schdaade"
+        },
+        {
+          "ID": 2552,
+          "Title": "Sachgrubb:Schdädte"
         }
       ]
     },
@@ -60,24 +86,6 @@
         {
           "ID": 505,
           "Title": "Sachgrubb:Gschichd"
-        },
-        {
-          "ID": 671,
-          "Title": "Sachgrubb:Gaischdswisseschafde"
-        },
-        {
-          "ID": 2643,
-          "Title": "Sachgrubb:Sozialwisseschaft"
-        }
-      ],
-      "Articles": [
-        {
-          "ID": 97,
-          "Title": "Donald Trump"
-        },
-        {
-          "ID": 3231,
-          "Title": "Terroranschläge am 11. September 2001"
         }
       ]
     },
@@ -96,26 +104,20 @@
       "Title": "Nature and physical sciences",
       "Categories": [
         {
-          "ID": 1028,
-          "Title": "Sachgrubb:Zooloschie"
+          "ID": 1503,
+          "Title": "Sachgrubb:Nadurwisseschafde"
         },
         {
           "ID": 1501,
           "Title": "Sachgrubb:Schemie"
         },
         {
-          "ID": 1503,
-          "Title": "Sachgrubb:Nadurwisseschafde"
-        },
-        {
           "ID": 3755,
           "Title": "Sachgrubb:Wisseschafd"
-        }
-      ],
-      "Articles": [
+        },
         {
-          "ID": 4079,
-          "Title": "Feuer"
+          "ID": 1028,
+          "Title": "Sachgrubb:Zooloschie"
         }
       ]
     },
@@ -124,8 +126,20 @@
       "Title": "People and self",
       "Categories": [
         {
+          "ID": 1083,
+          "Title": "Sachgrubb:Audor"
+        },
+        {
+          "ID": 4257,
+          "Title": "Sachgrubb:Kinschdler"
+        },
+        {
           "ID": 1470,
           "Title": "Sachgrubb:Persenlischkaide"
+        },
+        {
+          "ID": 904,
+          "Title": "Sachgrubb:Schauschbiela"
         }
       ]
     },
@@ -136,12 +150,6 @@
         {
           "ID": 512,
           "Title": "Sachgrubb:Philosophie"
-        }
-      ],
-      "Articles": [
-        {
-          "ID": 8261,
-          "Title": "Dunning-Kruger-Effekt"
         }
       ]
     },
@@ -172,18 +180,16 @@
           "Title": "Sachgrubb:Indernadsionali Organisadsion"
         },
         {
+          "ID": 6715,
+          "Title": "Sachgrubb:Psyschologie"
+        },
+        {
           "ID": 1575,
           "Title": "Sachgrubb:Reschd"
         },
         {
           "ID": 2643,
           "Title": "Sachgrubb:Sozialwisseschaft"
-        }
-      ],
-      "Articles": [
-        {
-          "ID": 6460,
-          "Title": "Chile"
         }
       ]
     },
@@ -192,16 +198,16 @@
       "Title": "Technology and applied sciences",
       "Categories": [
         {
+          "ID": 4853,
+          "Title": "Sachgrubb:Informadigg"
+        },
+        {
           "ID": 672,
           "Title": "Sachgrubb:Technik"
         },
         {
           "ID": 909,
           "Title": "Sachgrubb:Väkea"
-        },
-        {
-          "ID": 4853,
-          "Title": "Sachgrubb:Informadigg"
         }
       ]
     }

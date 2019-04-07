@@ -12,36 +12,20 @@
         {
           "ID": 3404,
           "Title": "Catégorie:Farikoloɲɛnajɛ"
-        }
-      ],
-      "Articles": [
-        {
-          "ID": 965,
-          "Title": "Wikipedi"
         },
         {
-          "ID": 1819,
-          "Title": "Syɛfan"
+          "ID": 3374,
+          "Title": "Catégorie:Fɔlikan"
         },
         {
-          "ID": 1828,
-          "Title": "Dɔnniyagafeba"
+          "ID": 3400,
+          "Title": "Catégorie:Kalan"
         }
       ]
     },
     {
       "ID": 2147483638,
-      "Title": "Geography and places",
-      "Articles": [
-        {
-          "ID": 2913,
-          "Title": "Ostralia"
-        },
-        {
-          "ID": 4330,
-          "Title": "Paris"
-        }
-      ]
+      "Title": "Geography and places"
     },
     {
       "ID": 2147483639,
@@ -72,18 +56,20 @@
       "Title": "Nature and physical sciences",
       "Categories": [
         {
-          "ID": 3408,
-          "Title": "Catégorie:Dɔnniya"
-        }
-      ],
-      "Articles": [
-        {
-          "ID": 1089,
-          "Title": "Kaba"
+          "ID": 1765,
+          "Title": "Catégorie:Bagan"
         },
         {
-          "ID": 3620,
-          "Title": "Mangoro"
+          "ID": 3362,
+          "Title": "Catégorie:Dunia"
+        },
+        {
+          "ID": 3408,
+          "Title": "Catégorie:Dɔnniya"
+        },
+        {
+          "ID": 3370,
+          "Title": "Catégorie:Kungodon"
         }
       ]
     },
@@ -113,17 +99,7 @@
     },
     {
       "ID": 2147483646,
-      "Title": "Society and social sciences",
-      "Articles": [
-        {
-          "ID": 2440,
-          "Title": "Eropa Jɛkulu"
-        },
-        {
-          "ID": 4268,
-          "Title": "Chile"
-        }
-      ]
+      "Title": "Society and social sciences"
     },
     {
       "ID": 2147483647,

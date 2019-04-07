@@ -6,8 +6,8 @@
       "Title": "Culture and the arts",
       "Categories": [
         {
-          "ID": 2633,
-          "Title": "Kategòrëjô:Szpòrt"
+          "ID": 9006,
+          "Title": "Kategòrëjô:Biografiô"
         },
         {
           "ID": 2637,
@@ -16,44 +16,18 @@
         {
           "ID": 2647,
           "Title": "Kategòrëjô:Kùńszt"
-        }
-      ],
-      "Articles": [
-        {
-          "ID": 1075,
-          "Title": "Wikipedijô"
         },
         {
-          "ID": 2655,
-          "Title": "Encyklopedijô"
+          "ID": 2646,
+          "Title": "Kategòrëjô:Lëteratura"
         },
         {
-          "ID": 2930,
-          "Title": "Piwò"
+          "ID": 2571,
+          "Title": "Kategòrëjô:Mùzyka"
         },
         {
-          "ID": 5815,
-          "Title": "Dzëk"
-        },
-        {
-          "ID": 6763,
-          "Title": "Kawa"
-        },
-        {
-          "ID": 7127,
-          "Title": "Wloknica"
-        },
-        {
-          "ID": 7508,
-          "Title": "Chléb"
-        },
-        {
-          "ID": 10351,
-          "Title": "Nudle"
-        },
-        {
-          "ID": 10788,
-          "Title": "Domôcô swinia"
+          "ID": 2633,
+          "Title": "Kategòrëjô:Szpòrt"
         }
       ]
     },
@@ -65,20 +39,6 @@
           "ID": 1483,
           "Title": "Kategòrëjô:Geògrafijô"
         }
-      ],
-      "Articles": [
-        {
-          "ID": 4652,
-          "Title": "Myanmar"
-        },
-        {
-          "ID": 7273,
-          "Title": "Pariz"
-        },
-        {
-          "ID": 9275,
-          "Title": "Wenecjô"
-        }
       ]
     },
     {
@@ -86,28 +46,18 @@
       "Title": "Health and fitness",
       "Categories": [
         {
-          "ID": 6375,
-          "Title": "Kategòrëjô:Medicyna"
-        },
-        {
           "ID": 11064,
           "Title": "Kategòrëjô:Higiena"
+        },
+        {
+          "ID": 6375,
+          "Title": "Kategòrëjô:Medicyna"
         }
       ]
     },
     {
       "ID": 2147483640,
-      "Title": "History and events",
-      "Categories": [
-        {
-          "ID": 2441,
-          "Title": "Kategòrëjô:Spòlëznowé ùczbë"
-        },
-        {
-          "ID": 2501,
-          "Title": "Kategòrëjô:Hùmanistné ùczbë"
-        }
-      ]
+      "Title": "History and events"
     },
     {
       "ID": 2147483641,
@@ -124,16 +74,8 @@
       "Title": "Nature and physical sciences",
       "Categories": [
         {
-          "ID": 1484,
-          "Title": "Kategòrëjô:Nôtërné ùczbë"
-        },
-        {
           "ID": 2418,
           "Title": "Kategòrëjô:Chemijô"
-        },
-        {
-          "ID": 2419,
-          "Title": "Kategòrëjô:Ùczba"
         },
         {
           "ID": 2439,
@@ -144,42 +86,24 @@
           "Title": "Kategòrëjô:Fizyka"
         },
         {
+          "ID": 1484,
+          "Title": "Kategòrëjô:Nôtërné ùczbë"
+        },
+        {
+          "ID": 10175,
+          "Title": "Kategòrëjô:Roscënë"
+        },
+        {
+          "ID": 2651,
+          "Title": "Kategòrëjô:Zemia"
+        },
+        {
           "ID": 5564,
           "Title": "Kategòrëjô:Zoòlogijô"
-        }
-      ],
-      "Articles": [
-        {
-          "ID": 5188,
-          "Title": "Ògardowô pòtrôwnica"
         },
         {
-          "ID": 5610,
-          "Title": "Mërta"
-        },
-        {
-          "ID": 5692,
-          "Title": "Kamél"
-        },
-        {
-          "ID": 7205,
-          "Title": "Cocker spaniel"
-        },
-        {
-          "ID": 9402,
-          "Title": "Kwiatnik"
-        },
-        {
-          "ID": 10050,
-          "Title": "Lasowô pòtrôwnica"
-        },
-        {
-          "ID": 10097,
-          "Title": "Jôdny lińcuch"
-        },
-        {
-          "ID": 10313,
-          "Title": "Sledzón"
+          "ID": 2419,
+          "Title": "Kategòrëjô:Ùczba"
         }
       ]
     },
@@ -188,8 +112,12 @@
       "Title": "People and self",
       "Categories": [
         {
-          "ID": 9006,
-          "Title": "Kategòrëjô:Biografiô"
+          "ID": 2570,
+          "Title": "Kategòrëjô:Mùzycë"
+        },
+        {
+          "ID": 11153,
+          "Title": "Kategòrëjô:Pisarze"
         }
       ]
     },
@@ -218,42 +146,24 @@
       "Title": "Society and social sciences",
       "Categories": [
         {
-          "ID": 2441,
-          "Title": "Kategòrëjô:Spòlëznowé ùczbë"
+          "ID": 2648,
+          "Title": "Kategòrëjô:Człowiek ë spòlëzna"
         },
         {
           "ID": 2501,
           "Title": "Kategòrëjô:Hùmanistné ùczbë"
         },
         {
-          "ID": 2648,
-          "Title": "Kategòrëjô:Człowiek ë spòlëzna"
-        },
-        {
           "ID": 10263,
           "Title": "Kategòrëjô:Prawò"
-        }
-      ],
-      "Articles": [
-        {
-          "ID": 1426,
-          "Title": "Eùropejskô Ùnijô"
         },
         {
-          "ID": 4637,
-          "Title": "Iran"
+          "ID": 2414,
+          "Title": "Kategòrëjô:Psychòlogijô"
         },
         {
-          "ID": 5248,
-          "Title": "Chile"
-        },
-        {
-          "ID": 8711,
-          "Title": "Ùniwersytet Stanforda"
-        },
-        {
-          "ID": 8720,
-          "Title": "Ùniwersytet Harvarda"
+          "ID": 2441,
+          "Title": "Kategòrëjô:Spòlëznowé ùczbë"
         }
       ]
     },
@@ -262,12 +172,28 @@
       "Title": "Technology and applied sciences",
       "Categories": [
         {
+          "ID": 8147,
+          "Title": "Kategòrëjô:Bùdowizna"
+        },
+        {
           "ID": 1492,
           "Title": "Kategòrëjô:Infòrmatika"
         },
         {
           "ID": 1495,
           "Title": "Kategòrëjô:Internet"
+        },
+        {
+          "ID": 10328,
+          "Title": "Kategòrëjô:Nôrzãdła"
+        },
+        {
+          "ID": 1490,
+          "Title": "Kategòrëjô:Soft-wôra"
+        },
+        {
+          "ID": 8578,
+          "Title": "Kategòrëjô:Statczi"
         },
         {
           "ID": 2652,

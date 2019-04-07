@@ -6,8 +6,20 @@
       "Title": "Culture and the arts",
       "Categories": [
         {
+          "ID": 7944,
+          "Title": "Catégorie:Arts"
+        },
+        {
+          "ID": 3075,
+          "Title": "Catégorie:Littéthatuthe"
+        },
+        {
           "ID": 5628,
           "Title": "Catégorie:Mangi"
+        },
+        {
+          "ID": 1763,
+          "Title": "Catégorie:Mûsique"
         },
         {
           "ID": 6346,
@@ -16,52 +28,6 @@
         {
           "ID": 6433,
           "Title": "Catégorie:Êcrithie"
-        },
-        {
-          "ID": 7944,
-          "Title": "Catégorie:Arts"
-        }
-      ],
-      "Articles": [
-        {
-          "ID": 1598,
-          "Title": "Viqùipédie"
-        },
-        {
-          "ID": 1605,
-          "Title": "Pizza"
-        },
-        {
-          "ID": 2446,
-          "Title": "Biéthe"
-        },
-        {
-          "ID": 4449,
-          "Title": "Lard"
-        },
-        {
-          "ID": 5909,
-          "Title": "Oeu"
-        },
-        {
-          "ID": 6086,
-          "Title": "Gâche"
-        },
-        {
-          "ID": 6973,
-          "Title": "Chocolat"
-        },
-        {
-          "ID": 7404,
-          "Title": "Pâté"
-        },
-        {
-          "ID": 9807,
-          "Title": "Encycliopédie"
-        },
-        {
-          "ID": 9810,
-          "Title": "Café"
         }
       ]
     },
@@ -72,24 +38,10 @@
         {
           "ID": 3082,
           "Title": "Catégorie:Géographie"
-        }
-      ],
-      "Articles": [
-        {
-          "ID": 1683,
-          "Title": "Australie"
         },
         {
-          "ID": 2240,
-          "Title": "Pyramide"
-        },
-        {
-          "ID": 4132,
-          "Title": "V'nise"
-        },
-        {
-          "ID": 9916,
-          "Title": "Paris"
+          "ID": 3721,
+          "Title": "Catégorie:Villes"
         }
       ]
     },
@@ -105,12 +57,6 @@
           "ID": 3930,
           "Title": "Catégorie:Histouaithe"
         }
-      ],
-      "Articles": [
-        {
-          "ID": 11077,
-          "Title": "Attaques terroristes du 11 dé septembe 2001"
-        }
       ]
     },
     {
@@ -120,6 +66,10 @@
         {
           "ID": 7246,
           "Title": "Catégorie:Caltchul"
+        },
+        {
+          "ID": 6194,
+          "Title": "Catégorie:M'suthes"
         }
       ]
     },
@@ -128,26 +78,28 @@
       "Title": "Nature and physical sciences",
       "Categories": [
         {
+          "ID": 5797,
+          "Title": "Catégorie:Anatonmie"
+        },
+        {
+          "ID": 2456,
+          "Title": "Catégorie:Animâ"
+        },
+        {
           "ID": 6339,
           "Title": "Catégorie:Chimie"
         },
         {
-          "ID": 6340,
-          "Title": "Catégorie:Scienches"
+          "ID": 9120,
+          "Title": "Catégorie:Frit"
         },
         {
           "ID": 6682,
           "Title": "Catégorie:Phŷsique"
-        }
-      ],
-      "Articles": [
-        {
-          "ID": 3229,
-          "Title": "Orîngna"
         },
         {
-          "ID": 3241,
-          "Title": "Hydrologie"
+          "ID": 6340,
+          "Title": "Catégorie:Scienches"
         }
       ]
     },
@@ -156,18 +108,12 @@
       "Title": "People and self",
       "Categories": [
         {
-          "ID": 2171,
-          "Title": "Catégorie:Biographie"
-        }
-      ],
-      "Articles": [
-        {
-          "ID": 10989,
-          "Title": "Thoumas d'Aqùin"
+          "ID": 3133,
+          "Title": "Catégorie:Auteurs"
         },
         {
-          "ID": 11003,
-          "Title": "René Descartes"
+          "ID": 2171,
+          "Title": "Catégorie:Biographie"
         }
       ]
     },
@@ -179,16 +125,6 @@
           "ID": 10998,
           "Title": "Catégorie:Philosophie"
         }
-      ],
-      "Articles": [
-        {
-          "ID": 3173,
-          "Title": "Crianche"
-        },
-        {
-          "ID": 10091,
-          "Title": "Fei"
-        }
       ]
     },
     {
@@ -196,12 +132,12 @@
       "Title": "Religion and belief systems",
       "Categories": [
         {
-          "ID": 5592,
-          "Title": "Catégorie:Èrligion"
-        },
-        {
           "ID": 5903,
           "Title": "Catégorie:Crianches"
+        },
+        {
+          "ID": 5592,
+          "Title": "Catégorie:Èrligion"
         }
       ]
     },
@@ -212,24 +148,10 @@
         {
           "ID": 6437,
           "Title": "Catégorie:Dreit"
-        }
-      ],
-      "Articles": [
-        {
-          "ID": 26,
-          "Title": "Unnion Ûropéenne"
         },
         {
-          "ID": 3816,
-          "Title": "Unnivèrsité d'Oxford"
-        },
-        {
-          "ID": 4663,
-          "Title": "Unnivèrsité d'Cambridge"
-        },
-        {
-          "ID": 8391,
-          "Title": "Chili"
+          "ID": 2439,
+          "Title": "Catégorie:Mounaie"
         }
       ]
     },
@@ -240,16 +162,10 @@
         {
           "ID": 6303,
           "Title": "Catégorie:Transport"
-        }
-      ],
-      "Articles": [
-        {
-          "ID": 2745,
-          "Title": "Muthâle"
         },
         {
-          "ID": 7355,
-          "Title": "TLD"
+          "ID": 5940,
+          "Title": "Catégorie:Ôtis"
         }
       ]
     }

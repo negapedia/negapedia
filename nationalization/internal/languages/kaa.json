@@ -6,22 +6,16 @@
       "Title": "Culture and the arts",
       "Categories": [
         {
+          "ID": 20,
+          "Title": "Kategoriya:A'debiyat"
+        },
+        {
+          "ID": 68,
+          "Title": "Kategoriya:Muzıka"
+        },
+        {
           "ID": 104,
           "Title": "Kategoriya:Sport"
-        }
-      ],
-      "Articles": [
-        {
-          "ID": 689,
-          "Title": "Wikipedia"
-        },
-        {
-          "ID": 1152,
-          "Title": "Nan"
-        },
-        {
-          "ID": 1163,
-          "Title": "Realizm"
         }
       ]
     },
@@ -32,28 +26,14 @@
         {
           "ID": 42,
           "Title": "Kategoriya:Geografiya"
-        }
-      ],
-      "Articles": [
-        {
-          "ID": 2819,
-          "Title": "Avstraliya"
         },
         {
-          "ID": 2972,
-          "Title": "Myanma (Birma)"
+          "ID": 64,
+          "Title": "Kategoriya:Ma'mleketler"
         },
         {
-          "ID": 2984,
-          "Title": "Parij"
-        },
-        {
-          "ID": 3185,
-          "Title": "Kanberra"
-        },
-        {
-          "ID": 3351,
-          "Title": "Vinetsiya"
+          "ID": 80,
+          "Title": "Kategoriya:Qalalar"
         }
       ]
     },
@@ -68,10 +48,6 @@
         {
           "ID": 107,
           "Title": "Kategoriya:Tariyx"
-        },
-        {
-          "ID": 658,
-          "Title": "Kategoriya:Sotsial ilimler"
         }
       ]
     },
@@ -82,6 +58,10 @@
         {
           "ID": 65,
           "Title": "Kategoriya:Matematika"
+        },
+        {
+          "ID": 1188,
+          "Title": "Kategoriya:O’lshem birlikler"
         }
       ]
     },
@@ -90,34 +70,24 @@
       "Title": "Nature and physical sciences",
       "Categories": [
         {
+          "ID": 25,
+          "Title": "Kategoriya:Anatomiya"
+        },
+        {
           "ID": 40,
           "Title": "Kategoriya:Fizika"
         },
         {
-          "ID": 123,
-          "Title": "Kategoriya:Zoologiya"
+          "ID": 46,
+          "Title": "Kategoriya:Haywanlar"
         },
         {
           "ID": 1638,
           "Title": "Kategoriya:Ta'biyat"
-        }
-      ],
-      "Articles": [
-        {
-          "ID": 1897,
-          "Title": "Pomidor"
         },
         {
-          "ID": 1905,
-          "Title": "Qawın"
-        },
-        {
-          "ID": 1909,
-          "Title": "Apelsin"
-        },
-        {
-          "ID": 1914,
-          "Title": "Limon"
+          "ID": 123,
+          "Title": "Kategoriya:Zoologiya"
         }
       ]
     },
@@ -128,40 +98,22 @@
         {
           "ID": 21,
           "Title": "Kategoriya:Adamlar"
-        }
-      ],
-      "Articles": [
-        {
-          "ID": 205,
-          "Title": "Cristoforo Colombo"
         },
         {
-          "ID": 224,
-          "Title": "Tomas Aquinas"
+          "ID": 1763,
+          "Title": "Kategoriya:Aktyorlar"
         },
         {
-          "ID": 227,
-          "Title": "Galileo Galilei"
+          "ID": 38,
+          "Title": "Kategoriya:Filosoflar"
         },
         {
-          "ID": 1075,
-          "Title": "Bill Gates"
+          "ID": 66,
+          "Title": "Kategoriya:Matematikler"
         },
         {
-          "ID": 1189,
-          "Title": "Adam Smith"
-        },
-        {
-          "ID": 2086,
-          "Title": "René Descartes"
-        },
-        {
-          "ID": 2088,
-          "Title": "Sigmund Freud"
-        },
-        {
-          "ID": 2091,
-          "Title": "Adolf Hitler"
+          "ID": 100,
+          "Title": "Kategoriya:Sayaxatshılar"
         }
       ]
     },
@@ -190,34 +142,24 @@
       "Title": "Society and social sciences",
       "Categories": [
         {
+          "ID": 39,
+          "Title": "Kategoriya:Finans"
+        },
+        {
           "ID": 48,
           "Title": "Kategoriya:Huqıq"
         },
         {
+          "ID": 975,
+          "Title": "Kategoriya:Kompaniyalar"
+        },
+        {
+          "ID": 79,
+          "Title": "Kategoriya:Psixologiya"
+        },
+        {
           "ID": 658,
           "Title": "Kategoriya:Sotsial ilimler"
-        }
-      ],
-      "Articles": [
-        {
-          "ID": 2356,
-          "Title": "Chili"
-        },
-        {
-          "ID": 2360,
-          "Title": "İran"
-        },
-        {
-          "ID": 3221,
-          "Title": "Barbados"
-        },
-        {
-          "ID": 4030,
-          "Title": "Prinston universiteti"
-        },
-        {
-          "ID": 4115,
-          "Title": "Oksford u'niversitetı"
         }
       ]
     },

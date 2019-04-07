@@ -6,126 +6,100 @@
       "Title": "Culture and the arts",
       "Categories": [
         {
-          "ID": 2834,
-          "Title": "Kateguorėjė:Mens"
+          "ID": 4671,
+          "Title": "Kateguorėjė:Filmā"
+        },
+        {
+          "ID": 34500,
+          "Title": "Kateguorėjė:Jiedis"
+        },
+        {
+          "ID": 15769,
+          "Title": "Kateguorėjė:Kningas"
         },
         {
           "ID": 2837,
           "Title": "Kateguorėjė:Koltūra"
         },
         {
-          "ID": 2973,
-          "Title": "Kateguorėjė:Spuorts"
+          "ID": 25819,
+          "Title": "Kateguorėjė:Koltūra vagol šali"
         },
         {
-          "ID": 4671,
-          "Title": "Kateguorėjė:Filmā"
+          "ID": 11038,
+          "Title": "Kateguorėjė:Kuompioterėnē žaidėmā"
         },
         {
-          "ID": 5010,
-          "Title": "Kateguorėjė:Zabuovas"
+          "ID": 25718,
+          "Title": "Kateguorėjė:Kuovuos menā"
         },
         {
-          "ID": 6417,
-          "Title": "Kateguorėjė:Rašts"
+          "ID": 6897,
+          "Title": "Kateguorėjė:Laikraštē"
         },
         {
-          "ID": 14543,
-          "Title": "Kateguorėjė:Spalvas"
+          "ID": 3235,
+          "Title": "Kateguorėjė:Literatūra"
+        },
+        {
+          "ID": 25779,
+          "Title": "Kateguorėjė:Magėjė"
+        },
+        {
+          "ID": 2834,
+          "Title": "Kateguorėjė:Mens"
+        },
+        {
+          "ID": 2881,
+          "Title": "Kateguorėjė:Mozėka"
         },
         {
           "ID": 25827,
           "Title": "Kateguorėjė:Mozėkas kuolektīvā"
         },
         {
-          "ID": 34500,
-          "Title": "Kateguorėjė:Jiedis"
-        }
-      ],
-      "Articles": [
-        {
-          "ID": 5,
-          "Title": "Vikipedėjė"
+          "ID": 19175,
+          "Title": "Kateguorėjė:Mozėkas žonrā"
         },
         {
-          "ID": 5267,
-          "Title": "Douna"
+          "ID": 27608,
+          "Title": "Kateguorėjė:Radėjė stuotis"
         },
         {
-          "ID": 5852,
-          "Title": "Pėca"
+          "ID": 6417,
+          "Title": "Kateguorėjė:Rašts"
         },
         {
-          "ID": 9144,
-          "Title": "Kava"
+          "ID": 19179,
+          "Title": "Kateguorėjė:Seksa skvarmas"
         },
         {
-          "ID": 9484,
-          "Title": "Ledā"
+          "ID": 14543,
+          "Title": "Kateguorėjė:Spalvas"
         },
         {
-          "ID": 12238,
-          "Title": "Paršos"
+          "ID": 4415,
+          "Title": "Kateguorėjė:Spauda"
         },
         {
-          "ID": 13115,
-          "Title": "Uoralėnės seksos"
+          "ID": 2973,
+          "Title": "Kateguorėjė:Spuorts"
         },
         {
-          "ID": 13295,
-          "Title": "Čėkuolads"
+          "ID": 27027,
+          "Title": "Kateguorėjė:Stala žaidėmā"
         },
         {
-          "ID": 13729,
-          "Title": "Mėrkals"
+          "ID": 5860,
+          "Title": "Kateguorėjė:Televėzėjė"
         },
         {
-          "ID": 13915,
-          "Title": "Alos"
+          "ID": 5010,
+          "Title": "Kateguorėjė:Zabuovas"
         },
         {
-          "ID": 14363,
-          "Title": "Tuomatu zopė"
-        },
-        {
-          "ID": 22482,
-          "Title": "Encikluopedėjė"
-        },
-        {
-          "ID": 23426,
-          "Title": "Šernā"
-        },
-        {
-          "ID": 30198,
-          "Title": "Šerna"
-        },
-        {
-          "ID": 30865,
-          "Title": "Kiaušis"
-        },
-        {
-          "ID": 31424,
-          "Title": "Ragės"
-        },
-        {
-          "ID": 31728,
-          "Title": "Pilzena alos"
-        },
-        {
-          "ID": 34011,
-          "Title": "Kiaušīnė"
-        },
-        {
-          "ID": 34513,
-          "Title": "Kiaulė̄na"
-        },
-        {
-          "ID": 34548,
-          "Title": "Lašėnē"
-        },
-        {
-          "ID": 34617,
-          "Title": "Rėits"
+          "ID": 4373,
+          "Title": "Kateguorėjė:Švėitėms"
         }
       ]
     },
@@ -140,28 +114,22 @@
         {
           "ID": 7101,
           "Title": "Kateguorėjė:Geuograpėjės sārašā"
-        }
-      ],
-      "Articles": [
-        {
-          "ID": 5854,
-          "Title": "Australėjė"
         },
         {
-          "ID": 6758,
-          "Title": "Parīžios"
+          "ID": 25875,
+          "Title": "Kateguorėjė:Gīvenvėitės"
         },
         {
-          "ID": 10578,
-          "Title": "Mianmars"
+          "ID": 7104,
+          "Title": "Kateguorėjė:Miestā"
         },
         {
-          "ID": 14916,
-          "Title": "Žmuogos"
+          "ID": 7312,
+          "Title": "Kateguorėjė:Opis"
         },
         {
-          "ID": 18028,
-          "Title": "Kanbera"
+          "ID": 3231,
+          "Title": "Kateguorėjė:Valstībės"
         }
       ]
     },
@@ -170,16 +138,16 @@
       "Title": "Health and fitness",
       "Categories": [
         {
+          "ID": 31480,
+          "Title": "Kateguorėjė:Gīdėms"
+        },
+        {
           "ID": 6029,
           "Title": "Kateguorėjė:Medėcėna"
         },
         {
           "ID": 7763,
           "Title": "Kateguorėjė:Svēkata"
-        },
-        {
-          "ID": 31480,
-          "Title": "Kateguorėjė:Gīdėms"
         }
       ]
     },
@@ -192,26 +160,24 @@
           "Title": "Kateguorėjė:Istuorėjė"
         },
         {
-          "ID": 17175,
-          "Title": "Kateguorėjė:Suocēlėnē muokslā"
-        },
-        {
           "ID": 25210,
           "Title": "Kateguorėjė:Notėkėmā"
         },
         {
-          "ID": 27063,
-          "Title": "Kateguorėjė:Šaliū istuorėjė"
-        }
-      ],
-      "Articles": [
-        {
-          "ID": 26698,
-          "Title": "2011 metu Sendajė žemės drebiejėms ė conamis"
+          "ID": 23685,
+          "Title": "Kateguorėjė:Puolitėkas istuorėjė"
         },
         {
-          "ID": 33935,
-          "Title": "Duonalds Tramps"
+          "ID": 17191,
+          "Title": "Kateguorėjė:Revuoliocėjės"
+        },
+        {
+          "ID": 18622,
+          "Title": "Kateguorėjė:Vainas"
+        },
+        {
+          "ID": 27063,
+          "Title": "Kateguorėjė:Šaliū istuorėjė"
         }
       ]
     },
@@ -222,12 +188,10 @@
         {
           "ID": 5969,
           "Title": "Kateguorėjė:Matematėka"
-        }
-      ],
-      "Articles": [
+        },
         {
-          "ID": 23046,
-          "Title": "Ėlgoms"
+          "ID": 15804,
+          "Title": "Kateguorėjė:Mieravėma vėinetā"
         }
       ]
     },
@@ -236,70 +200,48 @@
       "Title": "Nature and physical sciences",
       "Categories": [
         {
-          "ID": 2843,
-          "Title": "Kateguorėjė:Muokslos"
+          "ID": 10294,
+          "Title": "Kateguorėjė:Anatuomėjė"
+        },
+        {
+          "ID": 24251,
+          "Title": "Kateguorėjė:Aplėnkuotīra"
+        },
+        {
+          "ID": 7394,
+          "Title": "Kateguorėjė:Augalā"
+        },
+        {
+          "ID": 20954,
+          "Title": "Kateguorėjė:Ekuoluogėjė"
         },
         {
           "ID": 3975,
           "Title": "Kateguorėjė:Fizėka"
         },
         {
-          "ID": 7072,
-          "Title": "Kateguorėjė:Kemėjė"
-        },
-        {
           "ID": 17207,
           "Title": "Kateguorėjė:Gomta"
         },
         {
-          "ID": 24251,
-          "Title": "Kateguorėjė:Aplėnkuotīra"
-        }
-      ],
-      "Articles": [
-        {
-          "ID": 10255,
-          "Title": "Pamėduors"
+          "ID": 7983,
+          "Title": "Kateguorėjė:Gīvē"
         },
         {
-          "ID": 12124,
-          "Title": "Brėidis"
+          "ID": 17206,
+          "Title": "Kateguorėjė:Gīvībė"
         },
         {
-          "ID": 12133,
-          "Title": "Kvėitē"
+          "ID": 7072,
+          "Title": "Kateguorėjė:Kemėjė"
         },
         {
-          "ID": 12772,
-          "Title": "Ognės"
+          "ID": 2843,
+          "Title": "Kateguorėjė:Muokslos"
         },
         {
-          "ID": 13113,
-          "Title": "Mastorbacėjė"
-        },
-        {
-          "ID": 18589,
-          "Title": "Moskols"
-        },
-        {
-          "ID": 22551,
-          "Title": "Cėtrėna"
-        },
-        {
-          "ID": 27962,
-          "Title": "Ananasos"
-        },
-        {
-          "ID": 30124,
-          "Title": "Žemougė"
-        },
-        {
-          "ID": 33325,
-          "Title": "Braškė"
-        },
-        {
-          "ID": 33906,
-          "Title": "Rīžā"
+          "ID": 18689,
+          "Title": "Kateguorėjė:Žemė"
         }
       ]
     },
@@ -308,86 +250,68 @@
       "Title": "People and self",
       "Categories": [
         {
-          "ID": 2838,
-          "Title": "Kateguorėjė:Žmuonis"
+          "ID": 10144,
+          "Title": "Kateguorėjė:Aktuorē"
         },
         {
-          "ID": 17206,
-          "Title": "Kateguorėjė:Gīvībė"
+          "ID": 23622,
+          "Title": "Kateguorėjė:Arkėtektā"
+        },
+        {
+          "ID": 25870,
+          "Title": "Kateguorėjė:Biuograpėjės vagol pruofesėjė"
         },
         {
           "ID": 18812,
           "Title": "Kateguorėjė:Filmu veikiejē"
-        }
-      ],
-      "Articles": [
-        {
-          "ID": 6461,
-          "Title": "Bils Geitsos"
         },
         {
-          "ID": 7056,
-          "Title": "Ričerds Vagneris"
+          "ID": 22497,
+          "Title": "Kateguorėjė:Fėluosuopā"
         },
         {
-          "ID": 7306,
-          "Title": "Aduolfos Hitleris"
+          "ID": 17125,
+          "Title": "Kateguorėjė:Keliautuojē"
         },
         {
-          "ID": 7528,
-          "Title": "Kristops Kuolumbos"
+          "ID": 25786,
+          "Title": "Kateguorėjė:Matematėkā"
         },
         {
-          "ID": 8990,
-          "Title": "Danielios Redklėfs"
+          "ID": 17329,
+          "Title": "Kateguorėjė:Medėkā"
         },
         {
-          "ID": 17854,
-          "Title": "Fėbuonačės"
+          "ID": 15453,
+          "Title": "Kateguorėjė:Menėninkā"
         },
         {
-          "ID": 17862,
-          "Title": "Galėlies Galėliejos"
+          "ID": 7879,
+          "Title": "Kateguorėjė:Mozėkontā"
         },
         {
-          "ID": 17863,
-          "Title": "Karls Frīdrėks Gausos"
+          "ID": 25837,
+          "Title": "Kateguorėjė:Prezidėntā"
         },
         {
-          "ID": 17867,
-          "Title": "Juohanesos Kepleris"
+          "ID": 27702,
+          "Title": "Kateguorėjė:Puolitėkā"
         },
         {
-          "ID": 17883,
-          "Title": "Noam Chomsky"
+          "ID": 3259,
+          "Title": "Kateguorėjė:Rašītuojē"
         },
         {
-          "ID": 17887,
-          "Title": "Alans Tiorėngs"
+          "ID": 4408,
+          "Title": "Kateguorėjė:Valduovā"
         },
         {
-          "ID": 17888,
-          "Title": "Tuoms Akvėnėitis"
+          "ID": 16966,
+          "Title": "Kateguorėjė:Ėšradiejē"
         },
         {
-          "ID": 17897,
-          "Title": "René Descartes"
-        },
-        {
-          "ID": 17950,
-          "Title": "Adams Smits"
-        },
-        {
-          "ID": 18012,
-          "Title": "Fluorencėjė Naitėngol"
-        },
-        {
-          "ID": 23786,
-          "Title": "Zėgmonds Froids"
-        },
-        {
-          "ID": 32856,
-          "Title": "Teds Krūzos"
+          "ID": 2838,
+          "Title": "Kateguorėjė:Žmuonis"
         }
       ]
     },
@@ -396,22 +320,16 @@
       "Title": "Philosophy and thinking",
       "Categories": [
         {
-          "ID": 12431,
-          "Title": "Kateguorėjė:Fėluosuopėjė"
-        },
-        {
           "ID": 18976,
           "Title": "Kateguorėjė:Etėka"
         },
         {
+          "ID": 12431,
+          "Title": "Kateguorėjė:Fėluosuopėjė"
+        },
+        {
           "ID": 25846,
           "Title": "Kateguorėjė:Puolitėnės teuorėjės"
-        }
-      ],
-      "Articles": [
-        {
-          "ID": 22463,
-          "Title": "Gražoms"
         }
       ]
     },
@@ -430,50 +348,56 @@
       "Title": "Society and social sciences",
       "Categories": [
         {
-          "ID": 3429,
-          "Title": "Kateguorėjė:Žmuonėjės rieds"
+          "ID": 3248,
+          "Title": "Kateguorėjė:Bėndruovės"
         },
         {
-          "ID": 7292,
-          "Title": "Kateguorėjė:Teisė"
+          "ID": 27231,
+          "Title": "Kateguorėjė:Cedeliokā"
+        },
+        {
+          "ID": 17170,
+          "Title": "Kateguorėjė:Fėnansā"
+        },
+        {
+          "ID": 25873,
+          "Title": "Kateguorėjė:Geuopuolitėka"
+        },
+        {
+          "ID": 15475,
+          "Title": "Kateguorėjė:Organėzacėjės"
+        },
+        {
+          "ID": 27232,
+          "Title": "Kateguorėjė:Piningā"
+        },
+        {
+          "ID": 19183,
+          "Title": "Kateguorėjė:Psėchuoluogėjė"
         },
         {
           "ID": 17175,
           "Title": "Kateguorėjė:Suocēlėnē muokslā"
         },
         {
+          "ID": 7292,
+          "Title": "Kateguorėjė:Teisė"
+        },
+        {
           "ID": 35023,
           "Title": "Kateguorėjė:Terptautėnės organėzacėjės"
-        }
-      ],
-      "Articles": [
-        {
-          "ID": 4468,
-          "Title": "Euruopas Sājonga"
         },
         {
-          "ID": 7054,
-          "Title": "Irans"
+          "ID": 27335,
+          "Title": "Kateguorėjė:Uora lėnėju bendruovės"
         },
         {
-          "ID": 9022,
-          "Title": "Čilė"
+          "ID": 5771,
+          "Title": "Kateguorėjė:Valiota"
         },
         {
-          "ID": 9089,
-          "Title": "Barbaduosos"
-        },
-        {
-          "ID": 9943,
-          "Title": "Vasaras čiesos"
-        },
-        {
-          "ID": 28308,
-          "Title": "Masačusetsa technuoluogėjės instėtots"
-        },
-        {
-          "ID": 28313,
-          "Title": "Pruohėbėcėjė"
+          "ID": 3429,
+          "Title": "Kateguorėjė:Žmuonėjės rieds"
         }
       ]
     },
@@ -482,30 +406,32 @@
       "Title": "Technology and applied sciences",
       "Categories": [
         {
-          "ID": 2856,
-          "Title": "Kateguorėjė:Teknuoluogėjės"
-        },
-        {
           "ID": 4164,
           "Title": "Kateguorėjė:Infuormatėka"
+        },
+        {
+          "ID": 24311,
+          "Title": "Kateguorėjė:Internets"
         },
         {
           "ID": 4479,
           "Title": "Kateguorėjė:Kuompioterē"
         },
         {
-          "ID": 12468,
-          "Title": "Kateguorėjė:Transpuorts"
+          "ID": 12403,
+          "Title": "Kateguorėjė:Rakondā"
         },
         {
-          "ID": 24311,
-          "Title": "Kateguorėjė:Internets"
-        }
-      ],
-      "Articles": [
+          "ID": 6581,
+          "Title": "Kateguorėjė:Stondartā"
+        },
         {
-          "ID": 26067,
-          "Title": "Sėina"
+          "ID": 2856,
+          "Title": "Kateguorėjė:Teknuoluogėjės"
+        },
+        {
+          "ID": 12468,
+          "Title": "Kateguorėjė:Transpuorts"
         }
       ]
     }

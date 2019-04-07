@@ -12,54 +12,28 @@
         {
           "ID": 69135,
           "Title": "Categorie:Hromi"
-        }
-      ],
-      "Articles": [
-        {
-          "ID": 778,
-          "Title": "Wikipedia"
         },
         {
-          "ID": 3018,
-          "Title": "Enciclopedie"
+          "ID": 68076,
+          "Title": "Categorie:Musicã"
         },
         {
-          "ID": 69061,
-          "Title": "Pâni"
-        },
-        {
-          "ID": 69125,
-          "Title": "Cafe"
-        },
-        {
-          "ID": 69149,
-          "Title": "Ou"
-        },
-        {
-          "ID": 69385,
-          "Title": "Stihio"
-        },
-        {
-          "ID": 69394,
-          "Title": "Ciuculatâ"
-        },
-        {
-          "ID": 69924,
-          "Title": "Birâ"
+          "ID": 69430,
+          "Title": "Categorie:Sexu"
         }
       ]
     },
     {
       "ID": 2147483638,
       "Title": "Geography and places",
-      "Articles": [
+      "Categories": [
         {
-          "ID": 3785,
-          "Title": "Parij"
+          "ID": 68321,
+          "Title": "Categorie:Cãsãbã"
         },
         {
-          "ID": 69151,
-          "Title": "Omu"
+          "ID": 68324,
+          "Title": "Categorie:Stat"
         }
       ]
     },
@@ -69,7 +43,13 @@
     },
     {
       "ID": 2147483640,
-      "Title": "History and events"
+      "Title": "History and events",
+      "Categories": [
+        {
+          "ID": 69418,
+          "Title": "Categorie:Pulemati"
+        }
+      ]
     },
     {
       "ID": 2147483641,
@@ -80,72 +60,40 @@
       "Title": "Nature and physical sciences",
       "Categories": [
         {
+          "ID": 68875,
+          "Title": "Categorie:Anatomie"
+        },
+        {
+          "ID": 69698,
+          "Title": "Categorie:Animali"
+        },
+        {
           "ID": 68637,
           "Title": "Categorie:Chimie"
         },
         {
           "ID": 69159,
           "Title": "Categorie:Fizicâ"
-        }
-      ],
-      "Articles": [
-        {
-          "ID": 68894,
-          "Title": "Câpșunâ"
         },
         {
-          "ID": 69062,
-          "Title": "Grânu"
-        },
-        {
-          "ID": 69068,
-          "Title": "Urizu"
-        },
-        {
-          "ID": 69139,
-          "Title": "Focu"
-        },
-        {
-          "ID": 69157,
-          "Title": "Câlâmbuchiu"
-        },
-        {
-          "ID": 69270,
-          "Title": "Dumatâ"
+          "ID": 69378,
+          "Title": "Categorie:Locu"
         }
       ]
     },
     {
       "ID": 2147483643,
       "Title": "People and self",
-      "Articles": [
+      "Categories": [
         {
-          "ID": 2836,
-          "Title": "Adolf Hitler"
-        },
-        {
-          "ID": 68652,
-          "Title": "Galileo Galilei"
-        },
-        {
-          "ID": 68653,
-          "Title": "Johannes Kepler"
-        },
-        {
-          "ID": 68947,
-          "Title": "Sigmund Freud"
+          "ID": 68656,
+          "Title": "Categorie:Scriitori"
         }
       ]
     },
     {
       "ID": 2147483644,
-      "Title": "Philosophy and thinking",
-      "Articles": [
-        {
-          "ID": 69439,
-          "Title": "Pisti"
-        }
-      ]
+      "Title": "Philosophy and thinking"
     },
     {
       "ID": 2147483645,
@@ -153,29 +101,15 @@
     },
     {
       "ID": 2147483646,
-      "Title": "Society and social sciences",
-      "Articles": [
-        {
-          "ID": 3988,
-          "Title": "Uniunea Europeană"
-        },
-        {
-          "ID": 4609,
-          "Title": "Iran"
-        },
-        {
-          "ID": 68358,
-          "Title": "Cile"
-        }
-      ]
+      "Title": "Society and social sciences"
     },
     {
       "ID": 2147483647,
       "Title": "Technology and applied sciences",
-      "Articles": [
+      "Categories": [
         {
-          "ID": 69402,
-          "Title": "Stizmâ"
+          "ID": 69128,
+          "Title": "Categorie:Hâlăți"
         }
       ]
     }

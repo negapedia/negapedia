@@ -4,10 +4,10 @@
     {
       "ID": 2147483637,
       "Title": "Culture and the arts",
-      "Articles": [
+      "Categories": [
         {
-          "ID": 3158,
-          "Title": "Wikkapedya"
+          "ID": 5070,
+          "Title": "Category:Myuusik"
         }
       ]
     },
@@ -16,30 +16,16 @@
       "Title": "Geography and places",
       "Categories": [
         {
+          "ID": 1933,
+          "Title": "Category:Citii"
+        },
+        {
           "ID": 2493,
           "Title": "Category:Geography"
-        }
-      ],
-      "Articles": [
-        {
-          "ID": 1905,
-          "Title": "Ostrielya"
         },
         {
-          "ID": 2286,
-          "Title": "Canberra"
-        },
-        {
-          "ID": 2509,
-          "Title": "Kwiinsland"
-        },
-        {
-          "ID": 4808,
-          "Title": "Paris"
-        },
-        {
-          "ID": 4982,
-          "Title": "Myanmaa"
+          "ID": 5203,
+          "Title": "Category:Taun"
         }
       ]
     },
@@ -49,19 +35,7 @@
     },
     {
       "ID": 2147483640,
-      "Title": "History and events",
-      "Categories": [
-        {
-          "ID": 4564,
-          "Title": "Category:Social saiens"
-        }
-      ],
-      "Articles": [
-        {
-          "ID": 4809,
-          "Title": "Donald Trump"
-        }
-      ]
+      "Title": "History and events"
     },
     {
       "ID": 2147483641,
@@ -78,6 +52,10 @@
       "Title": "Nature and physical sciences",
       "Categories": [
         {
+          "ID": 4709,
+          "Title": "Category:Ikalajii"
+        },
+        {
           "ID": 1884,
           "Title": "Category:Kemistrii"
         },
@@ -85,25 +63,15 @@
           "ID": 1885,
           "Title": "Category:Saiens"
         }
-      ],
-      "Articles": [
-        {
-          "ID": 3453,
-          "Title": "Stikii rais"
-        }
       ]
     },
     {
       "ID": 2147483643,
       "Title": "People and self",
-      "Articles": [
+      "Categories": [
         {
-          "ID": 2008,
-          "Title": "Galileo Galilei"
-        },
-        {
-          "ID": 4957,
-          "Title": "Adolf Hitler"
+          "ID": 5260,
+          "Title": "Category:Akters"
         }
       ]
     },
@@ -126,22 +94,12 @@
       "Title": "Society and social sciences",
       "Categories": [
         {
+          "ID": 4715,
+          "Title": "Category:Flags"
+        },
+        {
           "ID": 4564,
           "Title": "Category:Social saiens"
-        }
-      ],
-      "Articles": [
-        {
-          "ID": 2481,
-          "Title": "Eraan"
-        },
-        {
-          "ID": 2822,
-          "Title": "Chili"
-        },
-        {
-          "ID": 5030,
-          "Title": "Barbados"
         }
       ]
     },

@@ -6,6 +6,22 @@
       "Title": "Culture and the arts",
       "Categories": [
         {
+          "ID": 1870,
+          "Title": "Kategorie:Bouke"
+        },
+        {
+          "ID": 4683,
+          "Title": "Kategorie:Bräädspil"
+        },
+        {
+          "ID": 1312,
+          "Title": "Kategorie:Computerspil"
+        },
+        {
+          "ID": 1906,
+          "Title": "Kategorie:Faawen"
+        },
+        {
           "ID": 1224,
           "Title": "Kategorie:Kultuur"
         },
@@ -14,30 +30,16 @@
           "Title": "Kategorie:Kunst"
         },
         {
-          "ID": 1906,
-          "Title": "Kategorie:Faawen"
+          "ID": 1169,
+          "Title": "Kategorie:Literatuur"
+        },
+        {
+          "ID": 755,
+          "Title": "Kategorie:Musik"
         },
         {
           "ID": 3821,
           "Title": "Kategorie:Sport"
-        }
-      ],
-      "Articles": [
-        {
-          "ID": 209,
-          "Title": "Enzyklopädie"
-        },
-        {
-          "ID": 449,
-          "Title": "Realismus"
-        },
-        {
-          "ID": 597,
-          "Title": "Wikipedia"
-        },
-        {
-          "ID": 9953,
-          "Title": "Bjoor"
         }
       ]
     },
@@ -48,24 +50,18 @@
         {
           "ID": 1530,
           "Title": "Kategorie:Geographie"
-        }
-      ],
-      "Articles": [
-        {
-          "ID": 422,
-          "Title": "Paris (Stääd)"
         },
         {
-          "ID": 2153,
-          "Title": "Australien (Lound)"
+          "ID": 1540,
+          "Title": "Kategorie:Lound"
         },
         {
-          "ID": 3777,
-          "Title": "Queensland"
+          "ID": 2816,
+          "Title": "Kategorie:Stääd"
         },
         {
-          "ID": 7977,
-          "Title": "Canberra"
+          "ID": 2789,
+          "Title": "Kategorie:Äi"
         }
       ]
     },
@@ -84,10 +80,6 @@
       "Title": "History and events",
       "Categories": [
         {
-          "ID": 2824,
-          "Title": "Kategorie:Moanskenwietenskup"
-        },
-        {
           "ID": 4510,
           "Title": "Kategorie:Geskichte"
         }
@@ -101,16 +93,6 @@
           "ID": 2461,
           "Title": "Kategorie:Statistik"
         }
-      ],
-      "Articles": [
-        {
-          "ID": 338,
-          "Title": "Laangte"
-        },
-        {
-          "ID": 339,
-          "Title": "Laangtemäite"
-        }
       ]
     },
     {
@@ -118,16 +100,16 @@
       "Title": "Nature and physical sciences",
       "Categories": [
         {
-          "ID": 1520,
-          "Title": "Kategorie:Physik"
+          "ID": 2795,
+          "Title": "Kategorie:Anatomie"
         },
         {
           "ID": 1521,
           "Title": "Kategorie:Chemie"
         },
         {
-          "ID": 2413,
-          "Title": "Kategorie:Wietenskup"
+          "ID": 4638,
+          "Title": "Kategorie:Dierte"
         },
         {
           "ID": 2823,
@@ -136,32 +118,22 @@
         {
           "ID": 3757,
           "Title": "Kategorie:Natuurwietenskup"
-        }
-      ],
-      "Articles": [
-        {
-          "ID": 3632,
-          "Title": "Weete"
         },
         {
-          "ID": 5140,
-          "Title": "Äidbäien"
+          "ID": 7733,
+          "Title": "Kategorie:Oaiwiet"
         },
         {
-          "ID": 9709,
-          "Title": "Tomoate"
+          "ID": 1520,
+          "Title": "Kategorie:Physik"
         },
         {
-          "ID": 10734,
-          "Title": "Turske Weete"
+          "ID": 6329,
+          "Title": "Kategorie:Plonten"
         },
         {
-          "ID": 10951,
-          "Title": "Anakondas"
-        },
-        {
-          "ID": 10954,
-          "Title": "Groote Anakonda"
+          "ID": 2413,
+          "Title": "Kategorie:Wietenskup"
         }
       ]
     },
@@ -170,22 +142,32 @@
       "Title": "People and self",
       "Categories": [
         {
+          "ID": 9487,
+          "Title": "Kategorie:Filmspieler"
+        },
+        {
+          "ID": 9470,
+          "Title": "Kategorie:Musiker"
+        },
+        {
           "ID": 2828,
           "Title": "Kategorie:Persoon"
-        }
-      ],
-      "Articles": [
-        {
-          "ID": 2203,
-          "Title": "Adolf Hitler"
         },
         {
-          "ID": 2735,
-          "Title": "Christoph Kolumbus"
+          "ID": 7481,
+          "Title": "Kategorie:Philosoph"
         },
         {
-          "ID": 8757,
-          "Title": "Richard Wagner"
+          "ID": 9268,
+          "Title": "Kategorie:Politiker"
+        },
+        {
+          "ID": 7185,
+          "Title": "Kategorie:Skrieuwer"
+        },
+        {
+          "ID": 9692,
+          "Title": "Kategorie:Ärfiender"
         }
       ]
     },
@@ -193,6 +175,10 @@
       "ID": 2147483644,
       "Title": "Philosophy and thinking",
       "Categories": [
+        {
+          "ID": 11167,
+          "Title": "Kategorie:Metaphysik"
+        },
         {
           "ID": 3097,
           "Title": "Kategorie:Philosophie"
@@ -218,42 +204,16 @@
       "Title": "Society and social sciences",
       "Categories": [
         {
+          "ID": 2213,
+          "Title": "Kategorie:Jäild"
+        },
+        {
           "ID": 2824,
           "Title": "Kategorie:Moanskenwietenskup"
         },
         {
           "ID": 2829,
           "Title": "Kategorie:Sälskup"
-        }
-      ],
-      "Articles": [
-        {
-          "ID": 213,
-          "Title": "Europäiske Union"
-        },
-        {
-          "ID": 3010,
-          "Title": "Chile"
-        },
-        {
-          "ID": 3747,
-          "Title": "Iroan"
-        },
-        {
-          "ID": 8533,
-          "Title": "Universität Tübingen"
-        },
-        {
-          "ID": 9393,
-          "Title": "Suumertied"
-        },
-        {
-          "ID": 11068,
-          "Title": "Barbados"
-        },
-        {
-          "ID": 11178,
-          "Title": "Universität fon Pennsylvanien"
         }
       ]
     },
@@ -262,26 +222,28 @@
       "Title": "Technology and applied sciences",
       "Categories": [
         {
-          "ID": 1313,
-          "Title": "Kategorie:Computere"
+          "ID": 2825,
+          "Title": "Kategorie:Anwoande Wietenskup"
         },
         {
-          "ID": 1513,
-          "Title": "Kategorie:Technik"
+          "ID": 1864,
+          "Title": "Kategorie:Baukunde"
+        },
+        {
+          "ID": 1313,
+          "Title": "Kategorie:Computere"
         },
         {
           "ID": 1637,
           "Title": "Kategorie:Elektronik"
         },
         {
-          "ID": 2825,
-          "Title": "Kategorie:Anwoande Wietenskup"
-        }
-      ],
-      "Articles": [
+          "ID": 10469,
+          "Title": "Kategorie:Maskiene"
+        },
         {
-          "ID": 549,
-          "Title": "TLD"
+          "ID": 1513,
+          "Title": "Kategorie:Technik"
         }
       ]
     }
@@ -290,6 +252,10 @@
     {
       "ID": 7085,
       "Title": "Kategorie:Begriepskloorenge"
+    },
+    {
+      "ID": 11424,
+      "Title": "Kategorie:Ferstatte Kategorien"
     }
   ]
 }

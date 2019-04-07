@@ -3,21 +3,15 @@
   "Topics": [
     {
       "ID": 2147483637,
-      "Title": "Culture and the arts",
-      "Articles": [
-        {
-          "ID": 1803,
-          "Title": "Wikipedia"
-        }
-      ]
+      "Title": "Culture and the arts"
     },
     {
       "ID": 2147483638,
       "Title": "Geography and places",
-      "Articles": [
+      "Categories": [
         {
-          "ID": 2728,
-          "Title": "Myanmar"
+          "ID": 12558,
+          "Title": "Kategori:Wanua"
         }
       ]
     },
@@ -44,12 +38,12 @@
       "Title": "Nature and physical sciences",
       "Categories": [
         {
-          "ID": 1596,
-          "Title": "Kategori:Kimia"
-        },
-        {
           "ID": 16690,
           "Title": "Kategori:Ilmu alam"
+        },
+        {
+          "ID": 1596,
+          "Title": "Kategori:Kimia"
         }
       ]
     },
@@ -67,17 +61,7 @@
     },
     {
       "ID": 2147483646,
-      "Title": "Society and social sciences",
-      "Articles": [
-        {
-          "ID": 11476,
-          "Title": "Iran"
-        },
-        {
-          "ID": 20098,
-          "Title": "Chili"
-        }
-      ]
+      "Title": "Society and social sciences"
     },
     {
       "ID": 2147483647,

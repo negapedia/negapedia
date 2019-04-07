@@ -6,32 +6,44 @@
       "Title": "Culture and the arts",
       "Categories": [
         {
-          "ID": 1427,
-          "Title": "Categorie:Eten"
+          "ID": 21167,
+          "Title": "Categorie:Amusement"
         },
         {
-          "ID": 1981,
-          "Title": "Categorie:Sport"
+          "ID": 2601,
+          "Title": "Categorie:Boek"
+        },
+        {
+          "ID": 9653,
+          "Title": "Categorie:Computerspel"
         },
         {
           "ID": 2164,
           "Title": "Categorie:Cultuur"
         },
         {
-          "ID": 2281,
-          "Title": "Categorie:Kunste"
+          "ID": 3518,
+          "Title": "Categorie:Cultuur noa land"
         },
         {
-          "ID": 6143,
-          "Title": "Categorie:Muziekgroep"
+          "ID": 1427,
+          "Title": "Categorie:Eten"
         },
         {
-          "ID": 6243,
-          "Title": "Categorie:Voedienge"
+          "ID": 2819,
+          "Title": "Categorie:Fictie"
         },
         {
-          "ID": 6882,
-          "Title": "Categorie:Vryen tyd"
+          "ID": 16246,
+          "Title": "Categorie:Fictieve plekke"
+        },
+        {
+          "ID": 7816,
+          "Title": "Categorie:Folklore"
+        },
+        {
+          "ID": 4207,
+          "Title": "Categorie:Gazette"
         },
         {
           "ID": 7813,
@@ -42,46 +54,64 @@
           "Title": "Categorie:Kleur"
         },
         {
+          "ID": 2281,
+          "Title": "Categorie:Kunste"
+        },
+        {
+          "ID": 2589,
+          "Title": "Categorie:Literatuur"
+        },
+        {
+          "ID": 1485,
+          "Title": "Categorie:Muziek"
+        },
+        {
+          "ID": 5424,
+          "Title": "Categorie:Muziekgenre"
+        },
+        {
+          "ID": 6143,
+          "Title": "Categorie:Muziekgroep"
+        },
+        {
+          "ID": 6885,
+          "Title": "Categorie:Onderwys"
+        },
+        {
+          "ID": 8424,
+          "Title": "Categorie:Radiozender"
+        },
+        {
+          "ID": 8967,
+          "Title": "Categorie:Sage"
+        },
+        {
           "ID": 14628,
           "Title": "Categorie:Schrift"
         },
         {
-          "ID": 21167,
-          "Title": "Categorie:Amusement"
-        }
-      ],
-      "Articles": [
-        {
-          "ID": 1406,
-          "Title": "Bier"
+          "ID": 13463,
+          "Title": "Categorie:Seksualiteit"
         },
         {
-          "ID": 1504,
-          "Title": "Kaffie"
+          "ID": 1981,
+          "Title": "Categorie:Sport"
         },
         {
-          "ID": 2935,
-          "Title": "Zwyn"
+          "ID": 6195,
+          "Title": "Categorie:TV"
         },
         {
-          "ID": 5672,
-          "Title": "AC/DC"
+          "ID": 6243,
+          "Title": "Categorie:Voedienge"
         },
         {
-          "ID": 7146,
-          "Title": "Wikipedia"
+          "ID": 6882,
+          "Title": "Categorie:Vryen tyd"
         },
         {
-          "ID": 7661,
-          "Title": "Wild zwyn"
-        },
-        {
-          "ID": 14153,
-          "Title": "Belgische chocola"
-        },
-        {
-          "ID": 22169,
-          "Title": "Gekapt"
+          "ID": 20418,
+          "Title": "Categorie:Worsteln"
         }
       ]
     },
@@ -90,38 +120,56 @@
       "Title": "Geography and places",
       "Categories": [
         {
+          "ID": 4547,
+          "Title": "Categorie:Boane"
+        },
+        {
           "ID": 4213,
           "Title": "Categorie:Geografie"
+        },
+        {
+          "ID": 21722,
+          "Title": "Categorie:Geomorfologie"
+        },
+        {
+          "ID": 2141,
+          "Title": "Categorie:Land"
         },
         {
           "ID": 11874,
           "Title": "Categorie:Monument"
         },
         {
+          "ID": 2171,
+          "Title": "Categorie:Plekke"
+        },
+        {
+          "ID": 15976,
+          "Title": "Categorie:Plekke noa land"
+        },
+        {
+          "ID": 7873,
+          "Title": "Categorie:Riviere"
+        },
+        {
+          "ID": 1430,
+          "Title": "Categorie:Stad"
+        },
+        {
           "ID": 20516,
           "Title": "Categorie:Stadsplannienge"
         },
         {
-          "ID": 21722,
-          "Title": "Categorie:Geomorfologie"
-        }
-      ],
-      "Articles": [
-        {
-          "ID": 2128,
-          "Title": "Mens"
+          "ID": 4495,
+          "Title": "Categorie:Stoat"
         },
         {
-          "ID": 3160,
-          "Title": "Parys"
+          "ID": 20500,
+          "Title": "Categorie:Stroate"
         },
         {
-          "ID": 14522,
-          "Title": "Australië (land)"
-        },
-        {
-          "ID": 21885,
-          "Title": "Myanmar"
+          "ID": 2648,
+          "Title": "Categorie:Uutvoerende macht"
         }
       ]
     },
@@ -152,22 +200,8 @@
           "Title": "Categorie:Geschiedenisse"
         },
         {
-          "ID": 7799,
-          "Title": "Categorie:Sociale weetnschap"
-        },
-        {
-          "ID": 14340,
-          "Title": "Categorie:Gêestesweetnschap"
-        }
-      ],
-      "Articles": [
-        {
-          "ID": 17840,
-          "Title": "Trojoansen orloge"
-        },
-        {
-          "ID": 22765,
-          "Title": "Donald Trump"
+          "ID": 10874,
+          "Title": "Categorie:Oorlog"
         }
       ]
     },
@@ -176,12 +210,16 @@
       "Title": "Mathematics and logic",
       "Categories": [
         {
+          "ID": 2828,
+          "Title": "Categorie:Statistiek"
+        },
+        {
           "ID": 2244,
           "Title": "Categorie:Wiskunde"
         },
         {
-          "ID": 2828,
-          "Title": "Categorie:Statistiek"
+          "ID": 14635,
+          "Title": "Categorie:Êenheid"
         }
       ]
     },
@@ -190,66 +228,68 @@
       "Title": "Nature and physical sciences",
       "Categories": [
         {
+          "ID": 13002,
+          "Title": "Categorie:Anatomie"
+        },
+        {
+          "ID": 7232,
+          "Title": "Categorie:Bêeste"
+        },
+        {
           "ID": 3412,
           "Title": "Categorie:Chemie"
-        },
-        {
-          "ID": 4508,
-          "Title": "Categorie:Zoölogie"
-        },
-        {
-          "ID": 7672,
-          "Title": "Categorie:Weetnschap"
-        },
-        {
-          "ID": 7806,
-          "Title": "Categorie:Exacte weetnschap"
-        },
-        {
-          "ID": 8962,
-          "Title": "Categorie:Fysica"
-        },
-        {
-          "ID": 12215,
-          "Title": "Categorie:Natuur"
         },
         {
           "ID": 12753,
           "Title": "Categorie:Chemische stoffe"
         },
         {
-          "ID": 13420,
-          "Title": "Categorie:Rampe"
+          "ID": 14563,
+          "Title": "Categorie:Chemische verbiendienge"
+        },
+        {
+          "ID": 11114,
+          "Title": "Categorie:Ecologie"
+        },
+        {
+          "ID": 14992,
+          "Title": "Categorie:Eirde"
+        },
+        {
+          "ID": 7806,
+          "Title": "Categorie:Exacte weetnschap"
+        },
+        {
+          "ID": 2168,
+          "Title": "Categorie:Fruut"
+        },
+        {
+          "ID": 8962,
+          "Title": "Categorie:Fysica"
         },
         {
           "ID": 14342,
           "Title": "Categorie:Nateurweetnschap"
         },
         {
-          "ID": 14563,
-          "Title": "Categorie:Chemische verbiendienge"
-        }
-      ],
-      "Articles": [
-        {
-          "ID": 2075,
-          "Title": "Freize"
+          "ID": 12215,
+          "Title": "Categorie:Natuur"
         },
         {
-          "ID": 2507,
-          "Title": "Seenappel"
+          "ID": 4510,
+          "Title": "Categorie:Plante"
         },
         {
-          "ID": 12410,
-          "Title": "Tomatte"
+          "ID": 13420,
+          "Title": "Categorie:Rampe"
         },
         {
-          "ID": 13469,
-          "Title": "Blomkôle"
+          "ID": 7672,
+          "Title": "Categorie:Weetnschap"
         },
         {
-          "ID": 14852,
-          "Title": "Myrte"
+          "ID": 4508,
+          "Title": "Categorie:Zoölogie"
         }
       ]
     },
@@ -258,22 +298,64 @@
       "Title": "People and self",
       "Categories": [
         {
+          "ID": 2260,
+          "Title": "Categorie:Acteur"
+        },
+        {
+          "ID": 9999,
+          "Title": "Categorie:Architect"
+        },
+        {
+          "ID": 14726,
+          "Title": "Categorie:Dokteur"
+        },
+        {
+          "ID": 17617,
+          "Title": "Categorie:Fictief personage"
+        },
+        {
+          "ID": 14338,
+          "Title": "Categorie:Filosoof"
+        },
+        {
+          "ID": 3543,
+          "Title": "Categorie:Kunstnoare"
+        },
+        {
           "ID": 3562,
           "Title": "Categorie:Mens"
-        }
-      ],
-      "Articles": [
-        {
-          "ID": 7025,
-          "Title": "Adolf Hitler"
         },
         {
-          "ID": 14878,
-          "Title": "Richard Dawkins"
+          "ID": 5874,
+          "Title": "Categorie:Mens noa eigenschap"
         },
         {
-          "ID": 21355,
-          "Title": "Adam Smith"
+          "ID": 3552,
+          "Title": "Categorie:Mens noa werk"
+        },
+        {
+          "ID": 3573,
+          "Title": "Categorie:Muzikant"
+        },
+        {
+          "ID": 7504,
+          "Title": "Categorie:Piloot"
+        },
+        {
+          "ID": 1959,
+          "Title": "Categorie:Polletieker"
+        },
+        {
+          "ID": 6852,
+          "Title": "Categorie:Schryver"
+        },
+        {
+          "ID": 17654,
+          "Title": "Categorie:Uutviender"
+        },
+        {
+          "ID": 17612,
+          "Title": "Categorie:Wiskundign"
         }
       ]
     },
@@ -282,12 +364,12 @@
       "Title": "Philosophy and thinking",
       "Categories": [
         {
-          "ID": 14339,
-          "Title": "Categorie:Filosofie"
-        },
-        {
           "ID": 14823,
           "Title": "Categorie:Ethiek"
+        },
+        {
+          "ID": 14339,
+          "Title": "Categorie:Filosofie"
         }
       ]
     },
@@ -310,38 +392,60 @@
       "Title": "Society and social sciences",
       "Categories": [
         {
+          "ID": 11539,
+          "Title": "Categorie:Bedryf"
+        },
+        {
+          "ID": 17453,
+          "Title": "Categorie:Geld"
+        },
+        {
+          "ID": 14340,
+          "Title": "Categorie:Gêestesweetnschap"
+        },
+        {
+          "ID": 16644,
+          "Title": "Categorie:Luchtvoartmoatschappy"
+        },
+        {
           "ID": 6886,
           "Title": "Categorie:Mens en moatschappy"
         },
         {
-          "ID": 7799,
-          "Title": "Categorie:Sociale weetnschap"
+          "ID": 6884,
+          "Title": "Categorie:Onderwys noa land"
+        },
+        {
+          "ID": 6161,
+          "Title": "Categorie:Organisoasje"
+        },
+        {
+          "ID": 2825,
+          "Title": "Categorie:Overeidsinstansje"
+        },
+        {
+          "ID": 12427,
+          "Title": "Categorie:Psychologie"
         },
         {
           "ID": 10895,
           "Title": "Categorie:Recht"
         },
         {
+          "ID": 5752,
+          "Title": "Categorie:Regerienge"
+        },
+        {
+          "ID": 7799,
+          "Title": "Categorie:Sociale weetnschap"
+        },
+        {
+          "ID": 14875,
+          "Title": "Categorie:Straffe"
+        },
+        {
           "ID": 12218,
           "Title": "Categorie:Wet"
-        },
-        {
-          "ID": 14340,
-          "Title": "Categorie:Gêestesweetnschap"
-        }
-      ],
-      "Articles": [
-        {
-          "ID": 5816,
-          "Title": "Europese Unie"
-        },
-        {
-          "ID": 16545,
-          "Title": "Chili"
-        },
-        {
-          "ID": 19938,
-          "Title": "Iran"
         }
       ]
     },
@@ -350,38 +454,56 @@
       "Title": "Technology and applied sciences",
       "Categories": [
         {
-          "ID": 1441,
-          "Title": "Categorie:Internet"
+          "ID": 5905,
+          "Title": "Categorie:Alloam"
+        },
+        {
+          "ID": 14666,
+          "Title": "Categorie:Appareil"
+        },
+        {
+          "ID": 6843,
+          "Title": "Categorie:Bouwkunde"
         },
         {
           "ID": 2184,
           "Title": "Categorie:Computer"
         },
         {
-          "ID": 2186,
-          "Title": "Categorie:Informatica"
-        },
-        {
-          "ID": 2436,
-          "Title": "Categorie:Vervoer"
-        },
-        {
-          "ID": 2438,
-          "Title": "Categorie:Techniek"
+          "ID": 14555,
+          "Title": "Categorie:Druktechniek"
         },
         {
           "ID": 6476,
           "Title": "Categorie:Electronica"
         },
         {
+          "ID": 2186,
+          "Title": "Categorie:Informatica"
+        },
+        {
+          "ID": 1441,
+          "Title": "Categorie:Internet"
+        },
+        {
+          "ID": 14359,
+          "Title": "Categorie:Software"
+        },
+        {
+          "ID": 14379,
+          "Title": "Categorie:Spelcomputer"
+        },
+        {
+          "ID": 2438,
+          "Title": "Categorie:Techniek"
+        },
+        {
           "ID": 7809,
           "Title": "Categorie:Toegepaste weetnschap"
-        }
-      ],
-      "Articles": [
+        },
         {
-          "ID": 2373,
-          "Title": "Sjeklitte"
+          "ID": 2436,
+          "Title": "Categorie:Vervoer"
         }
       ]
     }

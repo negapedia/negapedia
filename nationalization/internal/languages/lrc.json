@@ -3,21 +3,15 @@
   "Topics": [
     {
       "ID": 2147483637,
-      "Title": "Culture and the arts",
-      "Articles": [
-        {
-          "ID": 5053,
-          "Title": "ویکی پدیا ولزی"
-        }
-      ]
+      "Title": "Culture and the arts"
     },
     {
       "ID": 2147483638,
       "Title": "Geography and places",
-      "Articles": [
+      "Categories": [
         {
-          "ID": 3671,
-          "Title": "شٱئر پاریس"
+          "ID": 55,
+          "Title": "دأسە:ڤلات"
         }
       ]
     },
@@ -39,33 +33,7 @@
     },
     {
       "ID": 2147483643,
-      "Title": "People and self",
-      "Articles": [
-        {
-          "ID": 1208,
-          "Title": "آدام ئسمیت"
-        },
-        {
-          "ID": 1213,
-          "Title": "آدولف ھيتلر"
-        },
-        {
-          "ID": 2916,
-          "Title": "رئنئ دئکارت"
-        },
-        {
-          "ID": 7435,
-          "Title": "جان لئنون"
-        },
-        {
-          "ID": 8859,
-          "Title": "ألئگساندر فیلیمینگ"
-        },
-        {
-          "ID": 9769,
-          "Title": "فلورانس نایتینگل"
-        }
-      ]
+      "Title": "People and self"
     },
     {
       "ID": 2147483644,
@@ -77,21 +45,7 @@
     },
     {
       "ID": 2147483646,
-      "Title": "Society and social sciences",
-      "Articles": [
-        {
-          "ID": 3721,
-          "Title": "شیلی"
-        },
-        {
-          "ID": 6071,
-          "Title": "ایران"
-        },
-        {
-          "ID": 9794,
-          "Title": "بيتزا هت"
-        }
-      ]
+      "Title": "Society and social sciences"
     },
     {
       "ID": 2147483647,

@@ -6,218 +6,136 @@
       "Title": "Culture and the arts",
       "Categories": [
         {
-          "ID": 2865,
-          "Title": "Catagóir:Cultúr"
-        },
-        {
-          "ID": 3841,
-          "Title": "Catagóir:Caitheamh aimsire"
-        },
-        {
-          "ID": 3842,
-          "Title": "Catagóir:Spórt"
+          "ID": 72028,
+          "Title": "Catagóir:Aclaíocht"
         },
         {
           "ID": 8045,
           "Title": "Catagóir:Bannaí ceoil"
         },
         {
-          "ID": 18046,
-          "Title": "Catagóir:Siamsaíocht"
+          "ID": 24619,
+          "Title": "Catagóir:Bia"
+        },
+        {
+          "ID": 3737,
+          "Title": "Catagóir:Béaloideas"
+        },
+        {
+          "ID": 3841,
+          "Title": "Catagóir:Caitheamh aimsire"
+        },
+        {
+          "ID": 2847,
+          "Title": "Catagóir:Ceol"
+        },
+        {
+          "ID": 58584,
+          "Title": "Catagóir:Ciclipéidí"
+        },
+        {
+          "ID": 11925,
+          "Title": "Catagóir:Cluichí ríomhaire agus físchluichí"
+        },
+        {
+          "ID": 18943,
+          "Title": "Catagóir:Collaíocht"
+        },
+        {
+          "ID": 14625,
+          "Title": "Catagóir:Comhghnáis chultúrtha"
         },
         {
           "ID": 19141,
           "Title": "Catagóir:Cothú"
         },
         {
-          "ID": 19326,
-          "Title": "Catagóir:Dathanna"
+          "ID": 2865,
+          "Title": "Catagóir:Cultúr"
+        },
+        {
+          "ID": 75654,
+          "Title": "Catagóir:Cultúr de réir thír"
         },
         {
           "ID": 19329,
           "Title": "Catagóir:Dath"
         },
         {
-          "ID": 24619,
-          "Title": "Catagóir:Bia"
+          "ID": 19326,
+          "Title": "Catagóir:Dathanna"
+        },
+        {
+          "ID": 76951,
+          "Title": "Catagóir:Draíocht"
+        },
+        {
+          "ID": 25771,
+          "Title": "Catagóir:Ealaín oscartha"
+        },
+        {
+          "ID": 18047,
+          "Title": "Catagóir:Ealaíona taibhiúcháin"
+        },
+        {
+          "ID": 54921,
+          "Title": "Catagóir:Eolas"
+        },
+        {
+          "ID": 24609,
+          "Title": "Catagóir:Ficsean"
         },
         {
           "ID": 32403,
           "Title": "Catagóir:Fóillíocht"
         },
         {
+          "ID": 18944,
+          "Title": "Catagóir:Gnéas"
+        },
+        {
+          "ID": 73111,
+          "Title": "Catagóir:Irisleabhair"
+        },
+        {
+          "ID": 9551,
+          "Title": "Catagóir:Leabhair"
+        },
+        {
+          "ID": 3628,
+          "Title": "Catagóir:Litríocht"
+        },
+        {
           "ID": 34348,
           "Title": "Catagóir:Na hEalaíona"
+        },
+        {
+          "ID": 2870,
+          "Title": "Catagóir:Oideachas"
+        },
+        {
+          "ID": 26986,
+          "Title": "Catagóir:Saol pearsanta"
         },
         {
           "ID": 57246,
           "Title": "Catagóir:Scríbhneoireacht"
         },
         {
-          "ID": 72028,
-          "Title": "Catagóir:Aclaíocht"
-        }
-      ],
-      "Articles": [
-        {
-          "ID": 1845,
-          "Title": "Vicipéid"
+          "ID": 24688,
+          "Title": "Catagóir:Seánraí ceoil"
         },
         {
-          "ID": 1866,
-          "Title": "Seacláid"
+          "ID": 18046,
+          "Title": "Catagóir:Siamsaíocht"
         },
         {
-          "ID": 2578,
-          "Title": "Beoir"
+          "ID": 3842,
+          "Title": "Catagóir:Spórt"
         },
         {
-          "ID": 6508,
-          "Title": "Led Zeppelin"
-        },
-        {
-          "ID": 7594,
-          "Title": "Sgt. Pepper's Lonely Hearts Club Band"
-        },
-        {
-          "ID": 8027,
-          "Title": "Banna ceoil"
-        },
-        {
-          "ID": 8446,
-          "Title": "Arán"
-        },
-        {
-          "ID": 10818,
-          "Title": "Píotsa"
-        },
-        {
-          "ID": 11128,
-          "Title": "Caife"
-        },
-        {
-          "ID": 12715,
-          "Title": "Hogwarts"
-        },
-        {
-          "ID": 12735,
-          "Title": "Racbhanna"
-        },
-        {
-          "ID": 15649,
-          "Title": "Pálás Buckingham"
-        },
-        {
-          "ID": 18915,
-          "Title": "Muc"
-        },
-        {
-          "ID": 23218,
-          "Title": "Uachtar reoite"
-        },
-        {
-          "ID": 24251,
-          "Title": "Briosca"
-        },
-        {
-          "ID": 24653,
-          "Title": "Císte"
-        },
-        {
-          "ID": 24733,
-          "Title": "Im piseanna talún"
-        },
-        {
-          "ID": 26208,
-          "Title": "Torc allta"
-        },
-        {
-          "ID": 26921,
-          "Title": "Ciclipéid"
-        },
-        {
-          "ID": 27466,
-          "Title": "Ubh"
-        },
-        {
-          "ID": 29767,
-          "Title": "Seacláid the"
-        },
-        {
-          "ID": 34553,
-          "Title": "Green Day"
-        },
-        {
-          "ID": 44750,
-          "Title": "Anlann"
-        },
-        {
-          "ID": 44848,
-          "Title": "Arán sóide"
-        },
-        {
-          "ID": 46211,
-          "Title": "Cócó"
-        },
-        {
-          "ID": 50649,
-          "Title": "Pasta"
-        },
-        {
-          "ID": 51121,
-          "Title": "Réalachas"
-        },
-        {
-          "ID": 54393,
-          "Title": "Niseag"
-        },
-        {
-          "ID": 58251,
-          "Title": "Vicipéid na Breatnaise"
-        },
-        {
-          "ID": 61024,
-          "Title": "Comórtas Amhránaíochta na hEoraifíse 2017"
-        },
-        {
-          "ID": 62415,
-          "Title": "The Wanted"
-        },
-        {
-          "ID": 64182,
-          "Title": "Taibhse (osnádúrtha)"
-        },
-        {
-          "ID": 68106,
-          "Title": "The World Factbook"
-        },
-        {
-          "ID": 69485,
-          "Title": "Comórtas Amhránaíochta na hEoraifíse 2018"
-        },
-        {
-          "ID": 69579,
-          "Title": "Bagún"
-        },
-        {
-          "ID": 69849,
-          "Title": "Liamhás"
-        },
-        {
-          "ID": 69850,
-          "Title": "Muiceoil"
-        },
-        {
-          "ID": 83552,
-          "Title": "Gruagach"
-        },
-        {
-          "ID": 87175,
-          "Title": "Císte spúinse"
-        },
-        {
-          "ID": 87224,
-          "Title": "Pióg"
+          "ID": 3888,
+          "Title": "Catagóir:Teilifís"
         }
       ]
     },
@@ -226,6 +144,30 @@
       "Title": "Geography and places",
       "Categories": [
         {
+          "ID": 41478,
+          "Title": "Catagóir:Bailte"
+        },
+        {
+          "ID": 18194,
+          "Title": "Catagóir:Bailte agus cathracha"
+        },
+        {
+          "ID": 19262,
+          "Title": "Catagóir:Caisleáin"
+        },
+        {
+          "ID": 3661,
+          "Title": "Catagóir:Cathracha"
+        },
+        {
+          "ID": 75708,
+          "Title": "Catagóir:Páláis"
+        },
+        {
+          "ID": 3363,
+          "Title": "Catagóir:Tíortha"
+        },
+        {
           "ID": 2862,
           "Title": "Catagóir:Tíreolaíocht"
         },
@@ -233,50 +175,16 @@
           "ID": 24607,
           "Title": "Catagóir:Áiteanna"
         }
-      ],
-      "Articles": [
-        {
-          "ID": 2452,
-          "Title": "An Astráil"
-        },
-        {
-          "ID": 3850,
-          "Title": "Páras"
-        },
-        {
-          "ID": 3934,
-          "Title": "Duine"
-        },
-        {
-          "ID": 8213,
-          "Title": "Canberra"
-        },
-        {
-          "ID": 8352,
-          "Title": "Queensland"
-        },
-        {
-          "ID": 11132,
-          "Title": "Maenmar"
-        },
-        {
-          "ID": 11498,
-          "Title": "An Veinéis"
-        },
-        {
-          "ID": 29754,
-          "Title": "Pirimid"
-        },
-        {
-          "ID": 37133,
-          "Title": "Obar Phuill"
-        }
       ]
     },
     {
       "ID": 2147483639,
       "Title": "Health and fitness",
       "Categories": [
+        {
+          "ID": 74381,
+          "Title": "Catagóir:Cúram sláinte"
+        },
         {
           "ID": 2859,
           "Title": "Catagóir:Leigheas"
@@ -292,10 +200,6 @@
         {
           "ID": 55325,
           "Title": "Catagóir:Speisialtachtaí leighis"
-        },
-        {
-          "ID": 74381,
-          "Title": "Catagóir:Cúram sláinte"
         }
       ]
     },
@@ -304,38 +208,24 @@
       "Title": "History and events",
       "Categories": [
         {
+          "ID": 4258,
+          "Title": "Catagóir:Cogadh"
+        },
+        {
+          "ID": 44403,
+          "Title": "Catagóir:Cogaí"
+        },
+        {
+          "ID": 74983,
+          "Title": "Catagóir:Eachtraí sceimhlitheoireachta"
+        },
+        {
           "ID": 2849,
           "Title": "Catagóir:Stair"
         },
         {
-          "ID": 19294,
-          "Title": "Catagóir:Eolaíochtaí sóisialta"
-        },
-        {
-          "ID": 19295,
-          "Title": "Catagóir:Léann daonna"
-        },
-        {
           "ID": 80784,
           "Title": "Catagóir:Stair de réir tíre"
-        }
-      ],
-      "Articles": [
-        {
-          "ID": 7844,
-          "Title": "9/11"
-        },
-        {
-          "ID": 63331,
-          "Title": "Donald Trump"
-        },
-        {
-          "ID": 73856,
-          "Title": "Cogadh na Traoi"
-        },
-        {
-          "ID": 74976,
-          "Title": "Lámhach club oíche Orlando na bliana 2016"
         }
       ]
     },
@@ -351,12 +241,6 @@
           "ID": 3892,
           "Title": "Catagóir:Staidreamh"
         }
-      ],
-      "Articles": [
-        {
-          "ID": 85619,
-          "Title": "Fad"
-        }
       ]
     },
     {
@@ -364,190 +248,72 @@
       "Title": "Nature and physical sciences",
       "Categories": [
         {
-          "ID": 2860,
-          "Title": "Catagóir:Eolaíocht"
+          "ID": 3708,
+          "Title": "Catagóir:Ainmhithe"
         },
         {
-          "ID": 3714,
-          "Title": "Catagóir:Comhdhúile ceimiceacha"
+          "ID": 17293,
+          "Title": "Catagóir:An Domhan"
+        },
+        {
+          "ID": 11172,
+          "Title": "Catagóir:Anatamaíocht"
         },
         {
           "ID": 3715,
           "Title": "Catagóir:Ceimic"
         },
         {
-          "ID": 3890,
-          "Title": "Catagóir:Fisic"
+          "ID": 3714,
+          "Title": "Catagóir:Comhdhúile ceimiceacha"
         },
         {
-          "ID": 16400,
-          "Title": "Catagóir:Zó-eolaíocht"
+          "ID": 77385,
+          "Title": "Catagóir:Disciplíní na heolaíochta"
         },
         {
           "ID": 24605,
           "Title": "Catagóir:Dúlra"
         },
         {
-          "ID": 53163,
-          "Title": "Catagóir:Eolaíochtaí nádúrtha"
-        },
-        {
-          "ID": 54921,
-          "Title": "Catagóir:Eolas"
+          "ID": 2860,
+          "Title": "Catagóir:Eolaíocht"
         },
         {
           "ID": 77383,
           "Title": "Catagóir:Eolaíochtaí fisiceacha"
         },
         {
-          "ID": 77385,
-          "Title": "Catagóir:Disciplíní na heolaíochta"
-        }
-      ],
-      "Articles": [
-        {
-          "ID": 8132,
-          "Title": "Tine"
+          "ID": 53163,
+          "Title": "Catagóir:Eolaíochtaí nádúrtha"
         },
         {
-          "ID": 13239,
-          "Title": "Ronnach"
+          "ID": 3890,
+          "Title": "Catagóir:Fisic"
         },
         {
-          "ID": 16418,
-          "Title": "Bod"
+          "ID": 3712,
+          "Title": "Catagóir:Plandaí"
         },
         {
-          "ID": 24051,
-          "Title": "Tráta"
+          "ID": 18179,
+          "Title": "Catagóir:Próitéiní"
         },
         {
-          "ID": 24248,
-          "Title": "Uirí"
+          "ID": 24332,
+          "Title": "Catagóir:Saol"
         },
         {
-          "ID": 24553,
-          "Title": "Fual"
+          "ID": 26721,
+          "Title": "Catagóir:Torthaí"
         },
         {
-          "ID": 26190,
-          "Title": "Camall"
+          "ID": 16400,
+          "Title": "Catagóir:Zó-eolaíocht"
         },
         {
-          "ID": 26508,
-          "Title": "Oráiste (toradh)"
-        },
-        {
-          "ID": 26726,
-          "Title": "Sú talún"
-        },
-        {
-          "ID": 26727,
-          "Title": "Líomóid"
-        },
-        {
-          "ID": 26772,
-          "Title": "Mealbhacán"
-        },
-        {
-          "ID": 27430,
-          "Title": "Cóilis"
-        },
-        {
-          "ID": 27468,
-          "Title": "Arbhar Indiach"
-        },
-        {
-          "ID": 27483,
-          "Title": "Folt rua"
-        },
-        {
-          "ID": 27713,
-          "Title": "Cruithneacht"
-        },
-        {
-          "ID": 28407,
-          "Title": "Líoma (toradh)"
-        },
-        {
-          "ID": 28408,
-          "Title": "Córas matánchnámharlaigh an duine"
-        },
-        {
-          "ID": 28416,
-          "Title": "Matán"
-        },
-        {
-          "ID": 29152,
-          "Title": "Lasairéan"
-        },
-        {
-          "ID": 31356,
-          "Title": "Glacaireacht"
-        },
-        {
-          "ID": 44651,
-          "Title": "Anacanda"
-        },
-        {
-          "ID": 44713,
-          "Title": "Anann"
-        },
-        {
-          "ID": 45516,
-          "Title": "Búbaí"
-        },
-        {
-          "ID": 46812,
-          "Title": "Dathanna comhlántacha"
-        },
-        {
-          "ID": 48453,
-          "Title": "Frog crainn"
-        },
-        {
-          "ID": 48460,
-          "Title": "Fuaidreán"
-        },
-        {
-          "ID": 48724,
-          "Title": "Ginidiú"
-        },
-        {
-          "ID": 49040,
-          "Title": "Hidreolaíocht"
-        },
-        {
-          "ID": 49941,
-          "Title": "Mangó"
-        },
-        {
-          "ID": 50166,
-          "Title": "Miortal"
-        },
-        {
-          "ID": 51244,
-          "Title": "Rís"
-        },
-        {
-          "ID": 51500,
-          "Title": "Scréachóg coille"
-        },
-        {
-          "ID": 51721,
-          "Title": "Slabhra bia"
-        },
-        {
-          "ID": 51842,
-          "Title": "Spáinnéar feá"
-        },
-        {
-          "ID": 81049,
-          "Title": "Sú talún fhiáin"
-        },
-        {
-          "ID": 88903,
-          "Title": "Mús"
+          "ID": 3889,
+          "Title": "Catagóir:Éiceolaíocht"
         }
       ]
     },
@@ -556,142 +322,84 @@
       "Title": "People and self",
       "Categories": [
         {
+          "ID": 11150,
+          "Title": "Catagóir:Ailtirí"
+        },
+        {
+          "ID": 3768,
+          "Title": "Catagóir:Aisteoirí"
+        },
+        {
+          "ID": 3652,
+          "Title": "Catagóir:Blianta breithe"
+        },
+        {
+          "ID": 3653,
+          "Title": "Catagóir:Blianta báis"
+        },
+        {
+          "ID": 11984,
+          "Title": "Catagóir:Carachtair fhicseanúla"
+        },
+        {
+          "ID": 3649,
+          "Title": "Catagóir:Ceapadóirí"
+        },
+        {
+          "ID": 3685,
+          "Title": "Catagóir:Ceoltóirí"
+        },
+        {
           "ID": 2834,
           "Title": "Catagóir:Daoine"
         },
         {
-          "ID": 24332,
-          "Title": "Catagóir:Saol"
+          "ID": 65676,
+          "Title": "Catagóir:Daoine beo"
         },
         {
-          "ID": 26986,
-          "Title": "Catagóir:Saol pearsanta"
+          "ID": 10636,
+          "Title": "Catagóir:Dochtúirí"
+        },
+        {
+          "ID": 19301,
+          "Title": "Catagóir:Ealaíontóirí"
         },
         {
           "ID": 75664,
           "Title": "Catagóir:Ealaíontóirí de réir mheán"
-        }
-      ],
-      "Articles": [
-        {
-          "ID": 2592,
-          "Title": "Oilibhéar Cromail"
         },
         {
-          "ID": 2600,
-          "Title": "Richard Wagner"
+          "ID": 54717,
+          "Title": "Catagóir:Eitleoirí"
         },
         {
-          "ID": 3171,
-          "Title": "Sigmund Freud"
+          "ID": 3733,
+          "Title": "Catagóir:Fealsúna"
         },
         {
-          "ID": 6597,
-          "Title": "Bill Gates"
+          "ID": 13114,
+          "Title": "Catagóir:Matamaiticeoirí"
         },
         {
-          "ID": 6720,
-          "Title": "Adam Smith"
+          "ID": 2871,
+          "Title": "Catagóir:Polaiteoirí"
         },
         {
-          "ID": 6838,
-          "Title": "Críostóir Colambas"
+          "ID": 3609,
+          "Title": "Catagóir:Scríbhneoirí"
         },
         {
-          "ID": 7113,
-          "Title": "Alan Turing"
+          "ID": 6792,
+          "Title": "Catagóir:Taiscéalaithe"
         },
         {
-          "ID": 7224,
-          "Title": "René Descartes"
+          "ID": 34540,
+          "Title": "Catagóir:Uachtaráin"
         },
         {
-          "ID": 7337,
-          "Title": "John Lennon"
-        },
-        {
-          "ID": 7338,
-          "Title": "George Harrison"
-        },
-        {
-          "ID": 7600,
-          "Title": "Charles Babbage"
-        },
-        {
-          "ID": 7996,
-          "Title": "Galileo Galilei"
-        },
-        {
-          "ID": 12110,
-          "Title": "Johannes Kepler"
-        },
-        {
-          "ID": 12437,
-          "Title": "Lewis Carroll"
-        },
-        {
-          "ID": 13070,
-          "Title": "Tomás ó Aquino"
-        },
-        {
-          "ID": 13697,
-          "Title": "Noam Chomsky"
-        },
-        {
-          "ID": 14369,
-          "Title": "Richard Dawkins"
-        },
-        {
-          "ID": 14481,
-          "Title": "Harry Houdini"
-        },
-        {
-          "ID": 16949,
-          "Title": "Carl Friedrich Gauss"
-        },
-        {
-          "ID": 17188,
-          "Title": "Daniel Radcliffe"
-        },
-        {
-          "ID": 21176,
-          "Title": "Elton John"
-        },
-        {
-          "ID": 22011,
-          "Title": "Adolf Hitler"
-        },
-        {
-          "ID": 30032,
-          "Title": "Florence Nightingale"
-        },
-        {
-          "ID": 48231,
-          "Title": "Leonardo Fibonacci"
-        },
-        {
-          "ID": 48300,
-          "Title": "Alexander Fleming"
-        },
-        {
-          "ID": 49501,
-          "Title": "Irving Langmuir"
-        },
-        {
-          "ID": 51340,
-          "Title": "Carl Sagan"
-        },
-        {
-          "ID": 51468,
-          "Title": "Theodor Schwann"
-        },
-        {
-          "ID": 66712,
-          "Title": "Ted Cruz"
-        },
-        {
-          "ID": 77272,
-          "Title": "William Blake"
+          "ID": 80780,
+          "Title": "Catagóir:Uachtaráin de réir tíre"
         }
       ]
     },
@@ -707,12 +415,6 @@
           "ID": 54923,
           "Title": "Catagóir:Smaoineamh"
         }
-      ],
-      "Articles": [
-        {
-          "ID": 82742,
-          "Title": "Áilleacht"
-        }
       ]
     },
     {
@@ -720,16 +422,16 @@
       "Title": "Religion and belief systems",
       "Categories": [
         {
-          "ID": 3677,
-          "Title": "Catagóir:Reiligiún"
-        },
-        {
           "ID": 10635,
           "Title": "Catagóir:Creideamh"
         },
         {
           "ID": 20148,
           "Title": "Catagóir:Diagacht"
+        },
+        {
+          "ID": 3677,
+          "Title": "Catagóir:Reiligiún"
         }
       ]
     },
@@ -738,190 +440,68 @@
       "Title": "Society and social sciences",
       "Categories": [
         {
-          "ID": 3907,
-          "Title": "Catagóir:Dlí"
+          "ID": 9878,
+          "Title": "Catagóir:Aerlínte"
         },
         {
-          "ID": 3909,
-          "Title": "Catagóir:Sochaí"
-        },
-        {
-          "ID": 19294,
-          "Title": "Catagóir:Eolaíochtaí sóisialta"
-        },
-        {
-          "ID": 19295,
-          "Title": "Catagóir:Léann daonna"
-        },
-        {
-          "ID": 25524,
-          "Title": "Catagóir:Eagraíochtaí idirnáisiúnta"
+          "ID": 19148,
+          "Title": "Catagóir:Airgeadas"
         },
         {
           "ID": 32363,
           "Title": "Catagóir:Cearta"
         },
         {
+          "ID": 11424,
+          "Title": "Catagóir:Comhlachtaí"
+        },
+        {
           "ID": 35770,
           "Title": "Catagóir:Daonnachtaí"
         },
         {
+          "ID": 3907,
+          "Title": "Catagóir:Dlí"
+        },
+        {
+          "ID": 33658,
+          "Title": "Catagóir:Eagraíochtaí"
+        },
+        {
+          "ID": 25524,
+          "Title": "Catagóir:Eagraíochtaí idirnáisiúnta"
+        },
+        {
+          "ID": 19294,
+          "Title": "Catagóir:Eolaíochtaí sóisialta"
+        },
+        {
+          "ID": 36919,
+          "Title": "Catagóir:Gníomhaireachtaí rialtais"
+        },
+        {
+          "ID": 19295,
+          "Title": "Catagóir:Léann daonna"
+        },
+        {
+          "ID": 26639,
+          "Title": "Catagóir:Margaíocht"
+        },
+        {
+          "ID": 77192,
+          "Title": "Catagóir:Oideachas de réir tíre"
+        },
+        {
           "ID": 76984,
           "Title": "Catagóir:Ollscoileanna de réir tíre"
-        }
-      ],
-      "Articles": [
-        {
-          "ID": 2619,
-          "Title": "An tAontas Eorpach"
         },
         {
-          "ID": 6261,
-          "Title": "Ollscoil Ghlaschú"
+          "ID": 3909,
+          "Title": "Catagóir:Sochaí"
         },
         {
-          "ID": 6452,
-          "Title": "Ollscoil Uppsala"
-        },
-        {
-          "ID": 6548,
-          "Title": "Ollscoil Bhologna"
-        },
-        {
-          "ID": 7206,
-          "Title": "An tSile"
-        },
-        {
-          "ID": 7241,
-          "Title": "An Iaráin"
-        },
-        {
-          "ID": 9110,
-          "Title": "Ollscoil Oxford"
-        },
-        {
-          "ID": 9928,
-          "Title": "Ollscoil Harvard"
-        },
-        {
-          "ID": 10331,
-          "Title": "Ollscoil Uladh"
-        },
-        {
-          "ID": 10983,
-          "Title": "Barbadós"
-        },
-        {
-          "ID": 11111,
-          "Title": "Open University"
-        },
-        {
-          "ID": 11163,
-          "Title": "Massachusetts Institute of Technology"
-        },
-        {
-          "ID": 12797,
-          "Title": "Starbucks"
-        },
-        {
-          "ID": 21908,
-          "Title": "Boston University"
-        },
-        {
-          "ID": 29158,
-          "Title": "Ollscoil Learphoill"
-        },
-        {
-          "ID": 31224,
-          "Title": "The New York Times"
-        },
-        {
-          "ID": 35681,
-          "Title": "Micreanáisiún"
-        },
-        {
-          "ID": 38230,
-          "Title": "Ollscoil Cambridge"
-        },
-        {
-          "ID": 44628,
-          "Title": "Am samhraidh"
-        },
-        {
-          "ID": 54307,
-          "Title": "Acadamaidh Allt a' Mhuilinn"
-        },
-        {
-          "ID": 54882,
-          "Title": "Oilthigh Obar Dheathain"
-        },
-        {
-          "ID": 54994,
-          "Title": "Oilthigh Chill Rímhinn"
-        },
-        {
-          "ID": 55040,
-          "Title": "Oilthigh Obar Thatha"
-        },
-        {
-          "ID": 55076,
-          "Title": "Eabhrais Ollscoil Iarúsailéim"
-        },
-        {
-          "ID": 59397,
-          "Title": "Ollscoil Columbia"
-        },
-        {
-          "ID": 59574,
-          "Title": "Ollscoil Princeton"
-        },
-        {
-          "ID": 61135,
-          "Title": "Fox News Channel"
-        },
-        {
-          "ID": 61799,
-          "Title": "Ollscoil Chicago"
-        },
-        {
-          "ID": 62762,
-          "Title": "Ollscoil Bonn"
-        },
-        {
-          "ID": 62769,
-          "Title": "Ollscoil Göttingen"
-        },
-        {
-          "ID": 64636,
-          "Title": "Imperial College London"
-        },
-        {
-          "ID": 64649,
-          "Title": "Ollscoil Londain"
-        },
-        {
-          "ID": 64842,
-          "Title": "Ollscoil Kingston"
-        },
-        {
-          "ID": 69526,
-          "Title": "Bliain Nua na Síneach"
-        },
-        {
-          "ID": 72540,
-          "Title": "2017 Ionsaí Westminster"
-        },
-        {
-          "ID": 75929,
-          "Title": "Ollscoil Washington in St. Louis"
-        },
-        {
-          "ID": 76706,
-          "Title": "Pizza Hut"
-        },
-        {
-          "ID": 83530,
-          "Title": "Ollscoil Stáit Moscó"
+          "ID": 3910,
+          "Title": "Catagóir:Síceolaíocht"
         }
       ]
     },
@@ -930,50 +510,80 @@
       "Title": "Technology and applied sciences",
       "Categories": [
         {
-          "ID": 2872,
-          "Title": "Catagóir:Iompar"
+          "ID": 54854,
+          "Title": "Catagóir:Aipeanna"
         },
         {
-          "ID": 10630,
-          "Title": "Catagóir:Innealtóireacht"
-        },
-        {
-          "ID": 11924,
-          "Title": "Catagóir:Ríomhaireacht"
-        },
-        {
-          "ID": 11945,
-          "Title": "Catagóir:Idirlíon"
+          "ID": 9614,
+          "Title": "Catagóir:Bogearraí"
         },
         {
           "ID": 12222,
           "Title": "Catagóir:Bunachair shonraí"
         },
         {
+          "ID": 11973,
+          "Title": "Catagóir:Caighdeáin"
+        },
+        {
+          "ID": 26624,
+          "Title": "Catagóir:Earraí cistine"
+        },
+        {
           "ID": 21166,
           "Title": "Catagóir:Eolaíochtaí feidhmeacha"
+        },
+        {
+          "ID": 11945,
+          "Title": "Catagóir:Idirlíon"
+        },
+        {
+          "ID": 10630,
+          "Title": "Catagóir:Innealtóireacht"
+        },
+        {
+          "ID": 18435,
+          "Title": "Catagóir:Innealtóireacht foirgníochta"
+        },
+        {
+          "ID": 24883,
+          "Title": "Catagóir:Innealtóireacht mheicniúil"
+        },
+        {
+          "ID": 2872,
+          "Title": "Catagóir:Iompar"
+        },
+        {
+          "ID": 75661,
+          "Title": "Catagóir:Meáin chlóite"
+        },
+        {
+          "ID": 11924,
+          "Title": "Catagóir:Ríomhaireacht"
+        },
+        {
+          "ID": 11926,
+          "Title": "Catagóir:Ríomhchlárúchán"
         },
         {
           "ID": 23271,
           "Title": "Catagóir:Teicneolaíocht"
         },
         {
-          "ID": 54854,
-          "Title": "Catagóir:Aipeanna"
-        }
-      ],
-      "Articles": [
-        {
-          "ID": 27112,
-          "Title": "Balla (struchtúr)"
+          "ID": 55017,
+          "Title": "Catagóir:Teicneolaíocht faisnéise"
         },
         {
-          "ID": 48937,
-          "Title": "Guma coganta"
+          "ID": 24601,
+          "Title": "Catagóir:Tógáil"
         },
         {
-          "ID": 61288,
-          "Title": "Pepsi"
+          "ID": 26623,
+          "Title": "Catagóir:Uirlisí"
+        },
+        {
+          "ID": 28879,
+          "Title": "Catagóir:Uirlisí láimhe"
         }
       ]
     }

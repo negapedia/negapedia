@@ -6,38 +6,32 @@
       "Title": "Culture and the arts",
       "Categories": [
         {
-          "ID": 4267,
-          "Title": "Wàll:Melo"
-        },
-        {
-          "ID": 4497,
-          "Title": "Wàll:Sport"
-        },
-        {
           "ID": 4892,
           "Title": "Wàll:Filmi"
         },
         {
           "ID": 5651,
           "Title": "Wàll:Fànn"
-        }
-      ],
-      "Articles": [
-        {
-          "ID": 3019,
-          "Title": "Wikipedia"
         },
         {
-          "ID": 4390,
-          "Title": "Mburu"
+          "ID": 4319,
+          "Title": "Wàll:Jimbulang"
         },
         {
-          "ID": 5437,
-          "Title": "Mbaam"
+          "ID": 4267,
+          "Title": "Wàll:Melo"
         },
         {
-          "ID": 5491,
-          "Title": "Jimbulang"
+          "ID": 3574,
+          "Title": "Wàll:Njàngat"
+        },
+        {
+          "ID": 4497,
+          "Title": "Wàll:Sport"
+        },
+        {
+          "ID": 5254,
+          "Title": "Wàll:Woy"
         }
       ]
     },
@@ -46,22 +40,16 @@
       "Title": "Geography and places",
       "Categories": [
         {
+          "ID": 1938,
+          "Title": "Wàll:Dëkk"
+        },
+        {
           "ID": 4458,
           "Title": "Wàll:Melosuuf"
-        }
-      ],
-      "Articles": [
-        {
-          "ID": 1701,
-          "Title": "Óstraali"
         },
         {
-          "ID": 1809,
-          "Title": "Miyanmaar"
-        },
-        {
-          "ID": 1896,
-          "Title": "Pari"
+          "ID": 1898,
+          "Title": "Wàll:Réew"
         }
       ]
     },
@@ -82,6 +70,10 @@
         {
           "ID": 3114,
           "Title": "Wàll:Taariix"
+        },
+        {
+          "ID": 5614,
+          "Title": "Wàll:Xare"
         }
       ]
     },
@@ -100,30 +92,34 @@
       "Title": "Nature and physical sciences",
       "Categories": [
         {
-          "ID": 4204,
-          "Title": "Wàll:Xam-xam"
+          "ID": 4502,
+          "Title": "Wàll:Dundat yi"
+        },
+        {
+          "ID": 5250,
+          "Title": "Wàll:Gàncax"
         },
         {
           "ID": 4220,
           "Title": "Wàll:Jëmm"
-        }
-      ],
-      "Articles": [
+        },
         {
-          "ID": 4380,
-          "Title": "Safara"
+          "ID": 5439,
+          "Title": "Wàll:Rab"
+        },
+        {
+          "ID": 5444,
+          "Title": "Wàll:Suuf"
+        },
+        {
+          "ID": 4204,
+          "Title": "Wàll:Xam-xam"
         }
       ]
     },
     {
       "ID": 2147483643,
-      "Title": "People and self",
-      "Categories": [
-        {
-          "ID": 4502,
-          "Title": "Wàll:Dundat yi"
-        }
-      ]
+      "Title": "People and self"
     },
     {
       "ID": 2147483644,
@@ -147,21 +143,7 @@
     },
     {
       "ID": 2147483646,
-      "Title": "Society and social sciences",
-      "Articles": [
-        {
-          "ID": 1690,
-          "Title": "Barbados"
-        },
-        {
-          "ID": 1711,
-          "Title": "Sili"
-        },
-        {
-          "ID": 1750,
-          "Title": "Iraan"
-        }
-      ]
+      "Title": "Society and social sciences"
     },
     {
       "ID": 2147483647,
@@ -170,6 +152,10 @@
         {
           "ID": 3528,
           "Title": "Wàll:Mbëjfeppal"
+        },
+        {
+          "ID": 5430,
+          "Title": "Wàll:Suti"
         },
         {
           "ID": 4219,

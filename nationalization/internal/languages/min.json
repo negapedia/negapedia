@@ -10,8 +10,16 @@
           "Title": "Kategori:Cabang ulahrago"
         },
         {
+          "ID": 1142,
+          "Title": "Kategori:Ensiklopedia"
+        },
+        {
           "ID": 1193,
           "Title": "Kategori:Makanan"
+        },
+        {
+          "ID": 317735,
+          "Title": "Kategori:Musik"
         },
         {
           "ID": 1213,
@@ -20,36 +28,6 @@
         {
           "ID": 1231,
           "Title": "Kategori:Ulahrago"
-        }
-      ],
-      "Articles": [
-        {
-          "ID": 274,
-          "Title": "Ensiklopedia"
-        },
-        {
-          "ID": 517,
-          "Title": "Roti"
-        },
-        {
-          "ID": 1833,
-          "Title": "Wikipedia"
-        },
-        {
-          "ID": 6310,
-          "Title": "Kandiak"
-        },
-        {
-          "ID": 231326,
-          "Title": "Asam padeh"
-        },
-        {
-          "ID": 317047,
-          "Title": "Kopi"
-        },
-        {
-          "ID": 317320,
-          "Title": "Cokelat"
         }
       ]
     },
@@ -60,24 +38,10 @@
         {
           "ID": 1144,
           "Title": "Kategori:Geografi"
-        }
-      ],
-      "Articles": [
-        {
-          "ID": 190,
-          "Title": "Australia"
         },
         {
-          "ID": 228497,
-          "Title": "Myanmar"
-        },
-        {
-          "ID": 228955,
-          "Title": "Paris"
-        },
-        {
-          "ID": 319491,
-          "Title": "Manusia"
+          "ID": 1198,
+          "Title": "Kategori:Nagara"
         }
       ]
     },
@@ -92,10 +56,6 @@
         {
           "ID": 1211,
           "Title": "Kategori:Sijarah"
-        },
-        {
-          "ID": 317130,
-          "Title": "Kategori:Ilmu sosial"
         }
       ]
     },
@@ -116,10 +76,18 @@
     {
       "ID": 2147483642,
       "Title": "Nature and physical sciences",
-      "Articles": [
+      "Categories": [
         {
-          "ID": 317173,
-          "Title": "Naneh"
+          "ID": 317104,
+          "Title": "Kategori:Buah-buahan"
+        },
+        {
+          "ID": 1140,
+          "Title": "Kategori:Bumi"
+        },
+        {
+          "ID": 317219,
+          "Title": "Kategori:Hewan"
         }
       ]
     },
@@ -128,46 +96,12 @@
       "Title": "People and self",
       "Categories": [
         {
+          "ID": 228006,
+          "Title": "Kategori:Presiden"
+        },
+        {
           "ID": 1229,
           "Title": "Kategori:Tokoh"
-        }
-      ],
-      "Articles": [
-        {
-          "ID": 254,
-          "Title": "Christopher Columbus"
-        },
-        {
-          "ID": 284,
-          "Title": "Galileo Galilei"
-        },
-        {
-          "ID": 583,
-          "Title": "Thomas Aquinas"
-        },
-        {
-          "ID": 2796,
-          "Title": "Big Show"
-        },
-        {
-          "ID": 4500,
-          "Title": "Richard Dawkins"
-        },
-        {
-          "ID": 4739,
-          "Title": "Carl Sagan"
-        },
-        {
-          "ID": 11669,
-          "Title": "Adolf Hitler"
-        },
-        {
-          "ID": 317271,
-          "Title": "Richard Wagner"
-        },
-        {
-          "ID": 317719,
-          "Title": "Florence Nightingale"
         }
       ]
     },
@@ -186,16 +120,10 @@
         {
           "ID": 317130,
           "Title": "Kategori:Ilmu sosial"
-        }
-      ],
-      "Articles": [
-        {
-          "ID": 227688,
-          "Title": "Chili"
         },
         {
-          "ID": 231356,
-          "Title": "Iran"
+          "ID": 1200,
+          "Title": "Kategori:Organisasi"
         }
       ]
     },

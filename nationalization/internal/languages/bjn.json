@@ -3,69 +3,31 @@
   "Topics": [
     {
       "ID": 2147483637,
-      "Title": "Culture and the arts",
-      "Articles": [
-        {
-          "ID": 203,
-          "Title": "Hintalu"
-        },
-        {
-          "ID": 296,
-          "Title": "Kupi"
-        },
-        {
-          "ID": 425,
-          "Title": "Suklat"
-        },
-        {
-          "ID": 477,
-          "Title": "Wadai"
-        },
-        {
-          "ID": 1488,
-          "Title": "Wikipidia"
-        },
-        {
-          "ID": 2287,
-          "Title": "Kelembén"
-        },
-        {
-          "ID": 10997,
-          "Title": "Daging babi"
-        },
-        {
-          "ID": 14747,
-          "Title": "Insiklupidia"
-        }
-      ]
+      "Title": "Culture and the arts"
     },
     {
       "ID": 2147483638,
       "Title": "Geography and places",
-      "Articles": [
+      "Categories": [
         {
-          "ID": 63,
-          "Title": "Australia"
+          "ID": 5364,
+          "Title": "Tumbung:Nagara"
         }
       ]
     },
     {
       "ID": 2147483639,
-      "Title": "Health and fitness"
+      "Title": "Health and fitness",
+      "Categories": [
+        {
+          "ID": 578,
+          "Title": "Tumbung:Anatomi manusia"
+        }
+      ]
     },
     {
       "ID": 2147483640,
-      "Title": "History and events",
-      "Articles": [
-        {
-          "ID": 3402,
-          "Title": "Lindu wan tsunami Sendai 2011"
-        },
-        {
-          "ID": 13913,
-          "Title": "Donald Trump"
-        }
-      ]
+      "Title": "History and events"
     },
     {
       "ID": 2147483641,
@@ -82,12 +44,16 @@
       "Title": "Nature and physical sciences",
       "Categories": [
         {
-          "ID": 613,
-          "Title": "Tumbung:Kimia"
+          "ID": 577,
+          "Title": "Tumbung:Anatomi"
         },
         {
-          "ID": 2984,
-          "Title": "Tumbung:Pisika"
+          "ID": 589,
+          "Title": "Tumbung:Buah-buahan"
+        },
+        {
+          "ID": 591,
+          "Title": "Tumbung:Bumi"
         },
         {
           "ID": 2985,
@@ -96,38 +62,40 @@
         {
           "ID": 2986,
           "Title": "Tumbung:Ilmu"
-        }
-      ],
-      "Articles": [
-        {
-          "ID": 87,
-          "Title": "Balinjan"
         },
         {
-          "ID": 92,
-          "Title": "Banih"
+          "ID": 613,
+          "Title": "Tumbung:Kimia"
         },
         {
-          "ID": 255,
-          "Title": "Kamih"
+          "ID": 628,
+          "Title": "Tumbung:Pamakanan"
         },
         {
-          "ID": 357,
-          "Title": "Palir"
+          "ID": 2984,
+          "Title": "Tumbung:Pisika"
+        },
+        {
+          "ID": 642,
+          "Title": "Tumbung:Satua"
         }
       ]
     },
     {
       "ID": 2147483643,
       "Title": "People and self",
-      "Articles": [
+      "Categories": [
         {
-          "ID": 3847,
-          "Title": "Adolf Hitler"
+          "ID": 6490,
+          "Title": "Tumbung:Kalahiran manurut tahun"
         },
         {
-          "ID": 10878,
-          "Title": "Bill Gates"
+          "ID": 6491,
+          "Title": "Tumbung:Kamatian manurut tahun"
+        },
+        {
+          "ID": 3075,
+          "Title": "Tumbung:Urang hidup"
         }
       ]
     },
@@ -147,17 +115,7 @@
     },
     {
       "ID": 2147483646,
-      "Title": "Society and social sciences",
-      "Articles": [
-        {
-          "ID": 3325,
-          "Title": "Tahun puga Cina"
-        },
-        {
-          "ID": 11692,
-          "Title": "Cili"
-        }
-      ]
+      "Title": "Society and social sciences"
     },
     {
       "ID": 2147483647,

@@ -6,54 +6,36 @@
       "Title": "Culture and the arts",
       "Categories": [
         {
-          "ID": 1457,
-          "Title": "Categorîa:Gastronomia"
-        },
-        {
-          "ID": 1818,
-          "Title": "Categorîa:Sport"
-        },
-        {
-          "ID": 2430,
-          "Title": "Categorîa:Cuxinn-a"
+          "ID": 4752,
+          "Title": "Categorîa:Alimentaçion"
         },
         {
           "ID": 2504,
           "Title": "Categorîa:Coltùa e Arti finn-e"
         },
         {
-          "ID": 4752,
-          "Title": "Categorîa:Alimentaçion"
-        }
-      ],
-      "Articles": [
-        {
-          "ID": 2008,
-          "Title": "Pòrco sarvægo"
+          "ID": 2430,
+          "Title": "Categorîa:Cuxinn-a"
         },
         {
-          "ID": 3670,
-          "Title": "Wikipedia"
+          "ID": 1457,
+          "Title": "Categorîa:Gastronomia"
         },
         {
-          "ID": 4744,
-          "Title": "Bïra"
+          "ID": 1370,
+          "Title": "Categorîa:Letiatûa"
         },
         {
-          "ID": 6017,
-          "Title": "Caffè"
+          "ID": 1886,
+          "Title": "Categorîa:Muxica"
         },
         {
-          "ID": 9355,
-          "Title": "Övo"
+          "ID": 1818,
+          "Title": "Categorîa:Sport"
         },
         {
-          "ID": 9367,
-          "Title": "Pòrco"
-        },
-        {
-          "ID": 15376,
-          "Title": "Realtæ"
+          "ID": 1384,
+          "Title": "Categorîa:Televixon"
         }
       ]
     },
@@ -64,36 +46,22 @@
         {
           "ID": 1434,
           "Title": "Categorîa:Geografia"
-        }
-      ],
-      "Articles": [
-        {
-          "ID": 2362,
-          "Title": "Australia"
         },
         {
-          "ID": 2520,
-          "Title": "Pariggi"
+          "ID": 5020,
+          "Title": "Categorîa:Sciummi"
         },
         {
-          "ID": 2640,
-          "Title": "Venessia"
+          "ID": 1872,
+          "Title": "Categorîa:Stati do mondo"
         },
         {
-          "ID": 3033,
-          "Title": "Myanmar"
+          "ID": 5011,
+          "Title": "Categorîa:Stato"
         },
         {
-          "ID": 3481,
-          "Title": "Queensland"
-        },
-        {
-          "ID": 4420,
-          "Title": "Canberra"
-        },
-        {
-          "ID": 5075,
-          "Title": "Ëse uman"
+          "ID": 14253,
+          "Title": "Categorîa:Çittæ"
         }
       ]
     },
@@ -128,6 +96,10 @@
         {
           "ID": 2214,
           "Title": "Categorîa:Statistica"
+        },
+        {
+          "ID": 5007,
+          "Title": "Categorîa:Unitæ de mesùa"
         }
       ]
     },
@@ -136,42 +108,28 @@
       "Title": "Nature and physical sciences",
       "Categories": [
         {
-          "ID": 2215,
-          "Title": "Categorîa:Fixica"
+          "ID": 1867,
+          "Title": "Categorîa:A fruta"
+        },
+        {
+          "ID": 1987,
+          "Title": "Categorîa:Animalia"
         },
         {
           "ID": 2217,
           "Title": "Categorîa:Chimica"
         },
         {
+          "ID": 2406,
+          "Title": "Categorîa:Ecòlogia"
+        },
+        {
+          "ID": 2215,
+          "Title": "Categorîa:Fixica"
+        },
+        {
           "ID": 2484,
           "Title": "Categorîa:Zoologia"
-        }
-      ],
-      "Articles": [
-        {
-          "ID": 4751,
-          "Title": "Gran"
-        },
-        {
-          "ID": 4753,
-          "Title": "Granon"
-        },
-        {
-          "ID": 4754,
-          "Title": "Riso"
-        },
-        {
-          "ID": 4904,
-          "Title": "Cöosciô"
-        },
-        {
-          "ID": 5947,
-          "Title": "Laxerto"
-        },
-        {
-          "ID": 9373,
-          "Title": "Merello"
         }
       ]
     },
@@ -182,48 +140,6 @@
         {
           "ID": 2428,
           "Title": "Categorîa:Biografie"
-        }
-      ],
-      "Articles": [
-        {
-          "ID": 1775,
-          "Title": "Sigmund Freud"
-        },
-        {
-          "ID": 5183,
-          "Title": "Bill Gates"
-        },
-        {
-          "ID": 5203,
-          "Title": "Richard Wagner"
-        },
-        {
-          "ID": 5261,
-          "Title": "Johannes Kepler"
-        },
-        {
-          "ID": 5264,
-          "Title": "Galileo Galilei"
-        },
-        {
-          "ID": 5537,
-          "Title": "John Lennon"
-        },
-        {
-          "ID": 5552,
-          "Title": "Carl Friedrich Gauss"
-        },
-        {
-          "ID": 9348,
-          "Title": "Cristoffa Combo"
-        },
-        {
-          "ID": 10408,
-          "Title": "Alan Turing"
-        },
-        {
-          "ID": 10409,
-          "Title": "Charles Babbage"
         }
       ]
     },
@@ -258,28 +174,10 @@
         {
           "ID": 5050,
           "Title": "Categorîa:Organizzaçioin Internaçionâ"
-        }
-      ],
-      "Articles": [
-        {
-          "ID": 1892,
-          "Title": "Cile"
         },
         {
-          "ID": 1905,
-          "Title": "Barbados"
-        },
-        {
-          "ID": 2603,
-          "Title": "Universcitæ di Studdi de Zena"
-        },
-        {
-          "ID": 2641,
-          "Title": "Union Europea"
-        },
-        {
-          "ID": 3060,
-          "Title": "Iran"
+          "ID": 1773,
+          "Title": "Categorîa:Psicologia"
         }
       ]
     },
@@ -288,8 +186,16 @@
       "Title": "Technology and applied sciences",
       "Categories": [
         {
+          "ID": 2496,
+          "Title": "Categorîa:Arti e Sciense applicæ"
+        },
+        {
           "ID": 2216,
           "Title": "Categorîa:Informatica"
+        },
+        {
+          "ID": 2436,
+          "Title": "Categorîa:Internet"
         },
         {
           "ID": 2418,
@@ -298,14 +204,6 @@
         {
           "ID": 2419,
           "Title": "Categorîa:Traspòrti"
-        },
-        {
-          "ID": 2436,
-          "Title": "Categorîa:Internet"
-        },
-        {
-          "ID": 2496,
-          "Title": "Categorîa:Arti e Sciense applicæ"
         }
       ]
     }

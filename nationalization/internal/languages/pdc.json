@@ -6,42 +6,20 @@
       "Title": "Culture and the arts",
       "Categories": [
         {
+          "ID": 4013,
+          "Title": "Abdeeling:Bicher"
+        },
+        {
           "ID": 1878,
           "Title": "Abdeeling:Ess-Sache"
-        }
-      ],
-      "Articles": [
-        {
-          "ID": 174,
-          "Title": "Sau"
         },
         {
-          "ID": 290,
-          "Title": "Oi"
+          "ID": 384,
+          "Title": "Abdeeling:Myuusick"
         },
         {
-          "ID": 439,
-          "Title": "Grundsaudaag"
-        },
-        {
-          "ID": 2113,
-          "Title": "Brot"
-        },
-        {
-          "ID": 2370,
-          "Title": "Schlidde"
-        },
-        {
-          "ID": 3863,
-          "Title": "Uffguckbichli"
-        },
-        {
-          "ID": 5989,
-          "Title": "Seifleesch"
-        },
-        {
-          "ID": 7714,
-          "Title": "Wikipedia"
+          "ID": 1831,
+          "Title": "Abdeeling:Zeidinge / Infobaabledder"
         }
       ]
     },
@@ -56,20 +34,22 @@
         {
           "ID": 3941,
           "Title": "Abdeeling:Geography"
-        }
-      ],
-      "Articles": [
-        {
-          "ID": 3641,
-          "Title": "Australie"
         },
         {
-          "ID": 5046,
-          "Title": "Paris"
+          "ID": 387,
+          "Title": "Abdeeling:Lenner"
         },
         {
-          "ID": 6661,
-          "Title": "Canberra"
+          "ID": 5534,
+          "Title": "Abdeeling:Rewwer"
+        },
+        {
+          "ID": 391,
+          "Title": "Abdeeling:Schtettlin unn Schtedt"
+        },
+        {
+          "ID": 5437,
+          "Title": "Abdeeling:Schtroosse"
         }
       ]
     },
@@ -82,18 +62,12 @@
       "Title": "History and events",
       "Categories": [
         {
-          "ID": 5565,
-          "Title": "Abdeeling:Gschicht"
-        }
-      ],
-      "Articles": [
-        {
-          "ID": 2693,
-          "Title": "Donald Trump"
+          "ID": 3935,
+          "Title": "Abdeeling:Grieg"
         },
         {
-          "ID": 5716,
-          "Title": "11. September 2001"
+          "ID": 5565,
+          "Title": "Abdeeling:Gschicht"
         }
       ]
     },
@@ -106,26 +80,24 @@
       "Title": "Nature and physical sciences",
       "Categories": [
         {
+          "ID": 386,
+          "Title": "Abdeeling:Blanze"
+        },
+        {
+          "ID": 350,
+          "Title": "Abdeeling:Gediere"
+        },
+        {
           "ID": 3936,
           "Title": "Abdeeling:Naduur"
         },
         {
+          "ID": 1884,
+          "Title": "Abdeeling:Obscht"
+        },
+        {
           "ID": 5564,
           "Title": "Abdeeling:Wisseschaft"
-        }
-      ],
-      "Articles": [
-        {
-          "ID": 337,
-          "Title": "Welschkann"
-        },
-        {
-          "ID": 2091,
-          "Title": "Weeze"
-        },
-        {
-          "ID": 2619,
-          "Title": "Feier"
         }
       ]
     },
@@ -134,8 +106,8 @@
       "Title": "People and self",
       "Categories": [
         {
-          "ID": 380,
-          "Title": "Abdeeling:Leit"
+          "ID": 390,
+          "Title": "Abdeeling:Ballidischeners"
         },
         {
           "ID": 3942,
@@ -144,6 +116,22 @@
         {
           "ID": 7522,
           "Title": "Abdeeling:Fraa"
+        },
+        {
+          "ID": 7244,
+          "Title": "Abdeeling:Gebore nooch Yaahre"
+        },
+        {
+          "ID": 7245,
+          "Title": "Abdeeling:Gschtaerewe nooch Yaahre"
+        },
+        {
+          "ID": 380,
+          "Title": "Abdeeling:Leit"
+        },
+        {
+          "ID": 1820,
+          "Title": "Abdeeling:Schreiwer"
         }
       ]
     },
@@ -164,18 +152,10 @@
     {
       "ID": 2147483646,
       "Title": "Society and social sciences",
-      "Articles": [
+      "Categories": [
         {
-          "ID": 3644,
-          "Title": "Eiropeeische Union"
-        },
-        {
-          "ID": 4026,
-          "Title": "Iraen"
-        },
-        {
-          "ID": 7750,
-          "Title": "Chile"
+          "ID": 5586,
+          "Title": "Abdeeling:Kumpanie"
         }
       ]
     },
@@ -183,6 +163,10 @@
       "ID": 2147483647,
       "Title": "Technology and applied sciences",
       "Categories": [
+        {
+          "ID": 385,
+          "Title": "Abdeeling:Gscharr"
+        },
         {
           "ID": 7625,
           "Title": "Abdeeling:Waerkzeichheit"

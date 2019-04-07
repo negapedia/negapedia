@@ -6,30 +6,28 @@
       "Title": "Culture and the arts",
       "Categories": [
         {
-          "ID": 70,
-          "Title": "Taggayt:Tira"
+          "ID": 108,
+          "Title": "Taggayt:Addal"
+        },
+        {
+          "ID": 103,
+          "Title": "Taggayt:Aẓawan"
+        },
+        {
+          "ID": 537,
+          "Title": "Taggayt:Isura"
+        },
+        {
+          "ID": 123,
+          "Title": "Taggayt:Tasekla"
         },
         {
           "ID": 107,
           "Title": "Taggayt:Taẓuri"
         },
         {
-          "ID": 108,
-          "Title": "Taggayt:Addal"
-        },
-        {
-          "ID": 537,
-          "Title": "Taggayt:Isura"
-        }
-      ],
-      "Articles": [
-        {
-          "ID": 24,
-          "Title": "Wikipedia"
-        },
-        {
-          "ID": 6362,
-          "Title": "Ilef"
+          "ID": 70,
+          "Title": "Taggayt:Tira"
         }
       ]
     },
@@ -40,28 +38,14 @@
         {
           "ID": 48,
           "Title": "Taggayt:Tarakalt"
-        }
-      ],
-      "Articles": [
-        {
-          "ID": 1133,
-          "Title": "Paris (Fransa)"
         },
         {
-          "ID": 5013,
-          "Title": "Usṭralya"
+          "ID": 105,
+          "Title": "Taggayt:Timdinin"
         },
         {
-          "ID": 5827,
-          "Title": "Canberra"
-        },
-        {
-          "ID": 6109,
-          "Title": "Queensland"
-        },
-        {
-          "ID": 6453,
-          "Title": "Birmanya"
+          "ID": 101,
+          "Title": "Taggayt:Timura"
         }
       ]
     },
@@ -73,10 +57,6 @@
       "ID": 2147483640,
       "Title": "History and events",
       "Categories": [
-        {
-          "ID": 51,
-          "Title": "Taggayt:Tussna n tmetti"
-        },
         {
           "ID": 104,
           "Title": "Taggayt:Amezruy"
@@ -98,64 +78,22 @@
       "Title": "Nature and physical sciences",
       "Categories": [
         {
-          "ID": 83,
-          "Title": "Taggayt:Tussna"
-        },
-        {
           "ID": 1269,
           "Title": "Taggayt:Tasengama"
-        }
-      ],
-      "Articles": [
-        {
-          "ID": 5939,
-          "Title": "Cilmun"
         },
         {
-          "ID": 14351,
-          "Title": "Aywal"
-        },
-        {
-          "ID": 14492,
-          "Title": "Cilmum"
+          "ID": 83,
+          "Title": "Taggayt:Tussna"
         }
       ]
     },
     {
       "ID": 2147483643,
       "Title": "People and self",
-      "Articles": [
+      "Categories": [
         {
-          "ID": 82,
-          "Title": "Galileo Galilei"
-        },
-        {
-          "ID": 119,
-          "Title": "Adolf Hitler"
-        },
-        {
-          "ID": 164,
-          "Title": "Sigmund Freud"
-        },
-        {
-          "ID": 167,
-          "Title": "Leonardo Fibonacci"
-        },
-        {
-          "ID": 5072,
-          "Title": "Carl Friedrich Gauss"
-        },
-        {
-          "ID": 5271,
-          "Title": "Adam Smith"
-        },
-        {
-          "ID": 11700,
-          "Title": "Bill Gates"
-        },
-        {
-          "ID": 12323,
-          "Title": "René Descartes"
+          "ID": 389,
+          "Title": "Taggayt:Amaru"
         }
       ]
     },
@@ -184,30 +122,12 @@
       "Title": "Society and social sciences",
       "Categories": [
         {
-          "ID": 51,
-          "Title": "Taggayt:Tussna n tmetti"
-        },
-        {
           "ID": 112,
           "Title": "Taggayt:Timetti"
-        }
-      ],
-      "Articles": [
-        {
-          "ID": 801,
-          "Title": "Iṛan"
         },
         {
-          "ID": 5594,
-          "Title": "Cili"
-        },
-        {
-          "ID": 6910,
-          "Title": "Barbados"
-        },
-        {
-          "ID": 12132,
-          "Title": "Hebrew University of Jerusalem"
+          "ID": 51,
+          "Title": "Taggayt:Tussna n tmetti"
         }
       ]
     },
@@ -216,12 +136,12 @@
       "Title": "Technology and applied sciences",
       "Categories": [
         {
-          "ID": 106,
-          "Title": "Taggayt:Teknoloji"
-        },
-        {
           "ID": 398,
           "Title": "Taggayt:Tasenselkimt"
+        },
+        {
+          "ID": 106,
+          "Title": "Taggayt:Teknoloji"
         }
       ]
     }

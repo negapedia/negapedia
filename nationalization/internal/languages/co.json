@@ -10,34 +10,36 @@
           "Title": "Categoria:Arte"
         },
         {
+          "ID": 10818,
+          "Title": "Categoria:Arti marziali"
+        },
+        {
           "ID": 11787,
           "Title": "Categoria:Cucina"
+        },
+        {
+          "ID": 18279,
+          "Title": "Categoria:Cultura"
+        },
+        {
+          "ID": 18172,
+          "Title": "Categoria:Educazione"
+        },
+        {
+          "ID": 10302,
+          "Title": "Categoria:Littiratura"
+        },
+        {
+          "ID": 11675,
+          "Title": "Categoria:Musica"
         },
         {
           "ID": 12009,
           "Title": "Categoria:Sport"
         },
         {
-          "ID": 18279,
-          "Title": "Categoria:Cultura"
-        }
-      ],
-      "Articles": [
-        {
-          "ID": 16,
-          "Title": "Wikipedia"
-        },
-        {
-          "ID": 1175,
-          "Title": "Porcu"
-        },
-        {
-          "ID": 1339,
-          "Title": "Cignali"
-        },
-        {
-          "ID": 6223,
-          "Title": "Pastasciutta"
+          "ID": 18316,
+          "Title": "Categoria:Televisione"
         }
       ]
     },
@@ -48,20 +50,6 @@
         {
           "ID": 5960,
           "Title": "Categoria:Geografia"
-        }
-      ],
-      "Articles": [
-        {
-          "ID": 10036,
-          "Title": "Parighji"
-        },
-        {
-          "ID": 13399,
-          "Title": "Australia"
-        },
-        {
-          "ID": 14869,
-          "Title": "Venezia"
         }
       ]
     },
@@ -80,16 +68,8 @@
       "Title": "History and events",
       "Categories": [
         {
-          "ID": 3652,
-          "Title": "Categoria:Scienze umane"
-        },
-        {
           "ID": 3653,
           "Title": "Categoria:Storia"
-        },
-        {
-          "ID": 5977,
-          "Title": "Categoria:Scienze sociale"
         }
       ]
     },
@@ -98,12 +78,12 @@
       "Title": "Mathematics and logic",
       "Categories": [
         {
-          "ID": 1248,
-          "Title": "Categoria:Matematica"
-        },
-        {
           "ID": 11689,
           "Title": "Categoria:Logica"
+        },
+        {
+          "ID": 1248,
+          "Title": "Categoria:Matematica"
         }
       ]
     },
@@ -112,50 +92,44 @@
       "Title": "Nature and physical sciences",
       "Categories": [
         {
-          "ID": 5962,
-          "Title": "Categoria:Scienze"
+          "ID": 11767,
+          "Title": "Categoria:Anatumia"
+        },
+        {
+          "ID": 11732,
+          "Title": "Categoria:Animale"
         },
         {
           "ID": 10378,
           "Title": "Categoria:Chimica"
         },
         {
-          "ID": 11687,
-          "Title": "Categoria:Scienze esatte è naturale"
+          "ID": 11698,
+          "Title": "Categoria:Eculugia"
         },
         {
           "ID": 11691,
           "Title": "Categoria:Fisica"
         },
         {
+          "ID": 11788,
+          "Title": "Categoria:Fruttu"
+        },
+        {
+          "ID": 5962,
+          "Title": "Categoria:Scienze"
+        },
+        {
+          "ID": 11687,
+          "Title": "Categoria:Scienze esatte è naturale"
+        },
+        {
+          "ID": 17671,
+          "Title": "Categoria:Terra"
+        },
+        {
           "ID": 18160,
           "Title": "Categoria:Zoologia"
-        }
-      ],
-      "Articles": [
-        {
-          "ID": 1224,
-          "Title": "Pumata"
-        },
-        {
-          "ID": 1295,
-          "Title": "Fraula"
-        },
-        {
-          "ID": 7983,
-          "Title": "Cavulifiori"
-        },
-        {
-          "ID": 8938,
-          "Title": "Murta"
-        },
-        {
-          "ID": 9796,
-          "Title": "Limonu (arburu)"
-        },
-        {
-          "ID": 11303,
-          "Title": "Focu"
         }
       ]
     },
@@ -164,42 +138,36 @@
       "Title": "People and self",
       "Categories": [
         {
+          "ID": 17921,
+          "Title": "Categoria:Architettu"
+        },
+        {
+          "ID": 10570,
+          "Title": "Categoria:Attore"
+        },
+        {
           "ID": 18161,
           "Title": "Categoria:Biugrafia"
-        }
-      ],
-      "Articles": [
-        {
-          "ID": 13531,
-          "Title": "Sigmund Freud"
         },
         {
-          "ID": 13533,
-          "Title": "Adam Smith"
+          "ID": 10363,
+          "Title": "Categoria:Filosofu"
         },
         {
-          "ID": 14666,
-          "Title": "Adolf Hitler"
+          "ID": 10366,
+          "Title": "Categoria:Matematicu"
         },
         {
-          "ID": 14835,
-          "Title": "Galileo Galilei"
+          "ID": 11768,
+          "Title": "Categoria:Musicante"
         },
         {
-          "ID": 15718,
-          "Title": "Ghjuvanni Kepleru"
+          "ID": 16214,
+          "Title": "Categoria:Puliticante"
         },
         {
-          "ID": 15727,
-          "Title": "Alanu Turing"
-        },
-        {
-          "ID": 16469,
-          "Title": "Lewis Carroll"
-        },
-        {
-          "ID": 20333,
-          "Title": "Leonardu Fibonacci"
+          "ID": 18088,
+          "Title": "Categoria:Scrivanu"
         }
       ]
     },
@@ -211,12 +179,6 @@
           "ID": 10364,
           "Title": "Categoria:Filosofia"
         }
-      ],
-      "Articles": [
-        {
-          "ID": 11290,
-          "Title": "Fedi"
-        }
       ]
     },
     {
@@ -224,12 +186,12 @@
       "Title": "Religion and belief systems",
       "Categories": [
         {
-          "ID": 11694,
-          "Title": "Categoria:Religione è credenze"
-        },
-        {
           "ID": 11697,
           "Title": "Categoria:Religione"
+        },
+        {
+          "ID": 11694,
+          "Title": "Categoria:Religione è credenze"
         }
       ]
     },
@@ -238,38 +200,20 @@
       "Title": "Society and social sciences",
       "Categories": [
         {
-          "ID": 3652,
-          "Title": "Categoria:Scienze umane"
+          "ID": 12848,
+          "Title": "Categoria:Cumpagnia aerea"
         },
         {
           "ID": 5977,
           "Title": "Categoria:Scienze sociale"
         },
         {
+          "ID": 3652,
+          "Title": "Categoria:Scienze umane"
+        },
+        {
           "ID": 11722,
           "Title": "Categoria:Società"
-        }
-      ],
-      "Articles": [
-        {
-          "ID": 4725,
-          "Title": "Unioni Auropea"
-        },
-        {
-          "ID": 13955,
-          "Title": "Iranu"
-        },
-        {
-          "ID": 14447,
-          "Title": "Cile"
-        },
-        {
-          "ID": 14712,
-          "Title": "Università di Lipsia"
-        },
-        {
-          "ID": 16390,
-          "Title": "Università di Tubinga"
         }
       ]
     },
@@ -282,12 +226,12 @@
           "Title": "Categoria:Informatica"
         },
         {
-          "ID": 11725,
-          "Title": "Categoria:Tennulugii è scenzi applicati"
-        },
-        {
           "ID": 18028,
           "Title": "Categoria:Ingegneria"
+        },
+        {
+          "ID": 11725,
+          "Title": "Categoria:Tennulugii è scenzi applicati"
         },
         {
           "ID": 18140,

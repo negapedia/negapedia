@@ -6,64 +6,124 @@
       "Title": "Culture and the arts",
       "Categories": [
         {
+          "ID": 107212,
+          "Title": "Kateqoriya:Asudə vaxt"
+        },
+        {
+          "ID": 106670,
+          "Title": "Kateqoriya:Bilik"
+        },
+        {
+          "ID": 437415,
+          "Title": "Kateqoriya:Bioqrafik əsərlər"
+        },
+        {
+          "ID": 463747,
+          "Title": "Kateqoriya:Cadugərlik"
+        },
+        {
+          "ID": 370803,
+          "Title": "Kateqoriya:Cinsəllik"
+        },
+        {
+          "ID": 200866,
+          "Title": "Kateqoriya:Döyüş sənəti"
+        },
+        {
+          "ID": 18510,
+          "Title": "Kateqoriya:Ensiklopediyalar"
+        },
+        {
+          "ID": 266392,
+          "Title": "Kateqoriya:Festivallar"
+        },
+        {
+          "ID": 125731,
+          "Title": "Kateqoriya:Filmlər"
+        },
+        {
+          "ID": 51909,
+          "Title": "Kateqoriya:Folklor"
+        },
+        {
+          "ID": 437439,
+          "Title": "Kateqoriya:Gender"
+        },
+        {
+          "ID": 5336,
+          "Title": "Kateqoriya:Güləş"
+        },
+        {
           "ID": 5050,
           "Title": "Kateqoriya:Hobbi"
         },
         {
-          "ID": 5330,
-          "Title": "Kateqoriya:İdman"
+          "ID": 423931,
+          "Title": "Kateqoriya:Həftəlik jurnallar"
         },
         {
-          "ID": 6607,
-          "Title": "Kateqoriya:Mədəniyyət"
+          "ID": 422000,
+          "Title": "Kateqoriya:Janrlarına görə musiqi"
         },
         {
-          "ID": 6609,
-          "Title": "Kateqoriya:İncəsənət"
+          "ID": 52536,
+          "Title": "Kateqoriya:Jurnallar"
         },
         {
-          "ID": 6618,
-          "Title": "Kateqoriya:Əyləncə"
+          "ID": 47363,
+          "Title": "Kateqoriya:Kitablar"
         },
         {
-          "ID": 15454,
-          "Title": "Kateqoriya:Mətbəx"
+          "ID": 275186,
+          "Title": "Kateqoriya:Kütləvi mədəniyyət"
         },
         {
-          "ID": 29541,
-          "Title": "Kateqoriya:Rənglər"
+          "ID": 106559,
+          "Title": "Kateqoriya:Magiya"
         },
         {
-          "ID": 38734,
-          "Title": "Kateqoriya:Rəng"
+          "ID": 537255,
+          "Title": "Kateqoriya:Milad yeməkləri"
+        },
+        {
+          "ID": 5053,
+          "Title": "Kateqoriya:Musiqi"
+        },
+        {
+          "ID": 292585,
+          "Title": "Kateqoriya:Musiqi formaları"
+        },
+        {
+          "ID": 138865,
+          "Title": "Kateqoriya:Musiqi janrları"
         },
         {
           "ID": 43950,
           "Title": "Kateqoriya:Musiqi qrupları"
         },
         {
+          "ID": 179473,
+          "Title": "Kateqoriya:Musiqi əsərləri"
+        },
+        {
+          "ID": 183941,
+          "Title": "Kateqoriya:Müəlliflərinə görə kitablar"
+        },
+        {
+          "ID": 6607,
+          "Title": "Kateqoriya:Mədəniyyət"
+        },
+        {
+          "ID": 275183,
+          "Title": "Kateqoriya:Mədəniyyətlər"
+        },
+        {
+          "ID": 15454,
+          "Title": "Kateqoriya:Mətbəx"
+        },
+        {
           "ID": 54625,
           "Title": "Kateqoriya:Qida məhsulları"
-        },
-        {
-          "ID": 95321,
-          "Title": "Kateqoriya:İdman növləri"
-        },
-        {
-          "ID": 96380,
-          "Title": "Kateqoriya:Xörəklər"
-        },
-        {
-          "ID": 105339,
-          "Title": "Kateqoriya:Yazı"
-        },
-        {
-          "ID": 107212,
-          "Title": "Kateqoriya:Asudə vaxt"
-        },
-        {
-          "ID": 125731,
-          "Title": "Kateqoriya:Filmlər"
         },
         {
           "ID": 127437,
@@ -74,262 +134,140 @@
           "Title": "Kateqoriya:Qidalar"
         },
         {
-          "ID": 266606,
-          "Title": "Kateqoriya:İstirahət"
+          "ID": 52524,
+          "Title": "Kateqoriya:Qəzetlər"
+        },
+        {
+          "ID": 38734,
+          "Title": "Kateqoriya:Rəng"
+        },
+        {
+          "ID": 29541,
+          "Title": "Kateqoriya:Rənglər"
+        },
+        {
+          "ID": 103756,
+          "Title": "Kateqoriya:Rəsm əsərləri"
+        },
+        {
+          "ID": 435464,
+          "Title": "Kateqoriya:Seks"
+        },
+        {
+          "ID": 292391,
+          "Title": "Kateqoriya:Stolüstü oyunlar"
+        },
+        {
+          "ID": 292575,
+          "Title": "Kateqoriya:Səhnə incəsənəti"
+        },
+        {
+          "ID": 431361,
+          "Title": "Kateqoriya:Sənətkarlarına görə əsərlər"
         },
         {
           "ID": 323063,
           "Title": "Kateqoriya:Tamaşalar"
-        }
-      ],
-      "Articles": [
-        {
-          "ID": 5036,
-          "Title": "Vikipediya"
         },
         {
-          "ID": 53465,
-          "Title": "Ensiklopediya"
+          "ID": 5436,
+          "Title": "Kateqoriya:Televiziya"
         },
         {
-          "ID": 53772,
-          "Title": "Şokolad"
+          "ID": 550220,
+          "Title": "Kateqoriya:Tədris"
         },
         {
-          "ID": 54624,
-          "Title": "Çörək"
+          "ID": 5299,
+          "Title": "Kateqoriya:Təhsil"
         },
         {
-          "ID": 55855,
-          "Title": "Realizm (ədəbiyyat)"
+          "ID": 191334,
+          "Title": "Kateqoriya:Uydurma"
         },
         {
-          "ID": 58810,
-          "Title": "Qəhvə"
+          "ID": 439086,
+          "Title": "Kateqoriya:Uydurma coğrafiya"
         },
         {
-          "ID": 66783,
-          "Title": "Ərəb qəhvəsi"
+          "ID": 425612,
+          "Title": "Kateqoriya:Uydurma həyat formaları"
         },
         {
-          "ID": 70736,
-          "Title": "Pivə"
+          "ID": 65923,
+          "Title": "Kateqoriya:Video oyunlar"
         },
         {
-          "ID": 71764,
-          "Title": "Realizm"
+          "ID": 555710,
+          "Title": "Kateqoriya:Virtual icmalar"
         },
         {
-          "ID": 77097,
-          "Title": "Pitsa"
+          "ID": 96380,
+          "Title": "Kateqoriya:Xörəklər"
         },
         {
-          "ID": 79734,
-          "Title": "Dondurma"
+          "ID": 162393,
+          "Title": "Kateqoriya:Yarışlar"
         },
         {
-          "ID": 80934,
-          "Title": "Külçə (yemək)"
+          "ID": 105339,
+          "Title": "Kateqoriya:Yazı"
         },
         {
-          "ID": 81064,
-          "Title": "Tort"
+          "ID": 438938,
+          "Title": "Kateqoriya:Yazıçılarına görə əsərlər"
         },
         {
-          "ID": 84352,
-          "Title": "Biskvit"
+          "ID": 35868,
+          "Title": "Kateqoriya:Ölkələrinə görə mədəniyyət"
         },
         {
-          "ID": 86065,
-          "Title": "Yumurta"
+          "ID": 5330,
+          "Title": "Kateqoriya:İdman"
         },
         {
-          "ID": 90917,
-          "Title": "Makaron"
+          "ID": 95321,
+          "Title": "Kateqoriya:İdman növləri"
         },
         {
-          "ID": 95015,
-          "Title": "Sous"
+          "ID": 6609,
+          "Title": "Kateqoriya:İncəsənət"
         },
         {
-          "ID": 101278,
-          "Title": "Çöldonuzu"
+          "ID": 370802,
+          "Title": "Kateqoriya:İnsan cinsəlliyi"
         },
         {
-          "ID": 104947,
-          "Title": "Green Day"
+          "ID": 275178,
+          "Title": "Kateqoriya:İnternet-mədəniyyət"
         },
         {
-          "ID": 107244,
-          "Title": "Südlü kakao"
+          "ID": 266606,
+          "Title": "Kateqoriya:İstirahət"
         },
         {
-          "ID": 111653,
-          "Title": "Donuz"
+          "ID": 107215,
+          "Title": "Kateqoriya:Şəxsi həyat"
         },
         {
-          "ID": 112990,
-          "Title": "Kakao ağacı"
+          "ID": 106784,
+          "Title": "Kateqoriya:Ədəbi əsərlər"
         },
         {
-          "ID": 132483,
-          "Title": "Bukingem sarayı"
+          "ID": 5047,
+          "Title": "Kateqoriya:Ədəbiyyat"
         },
         {
-          "ID": 133996,
-          "Title": "Led Zeppelin"
+          "ID": 74782,
+          "Title": "Kateqoriya:Əfsanələr"
         },
         {
-          "ID": 143243,
-          "Title": "Qəhvə ağacı"
+          "ID": 120399,
+          "Title": "Kateqoriya:Əlifba sırasına görə şəxslər"
         },
         {
-          "ID": 153869,
-          "Title": "Gerçəklik"
-        },
-        {
-          "ID": 160345,
-          "Title": "Pinus cembroides"
-        },
-        {
-          "ID": 255541,
-          "Title": "Pən dö mi"
-        },
-        {
-          "ID": 273942,
-          "Title": "Marmot günü"
-        },
-        {
-          "ID": 276843,
-          "Title": "M\u0026M's"
-        },
-        {
-          "ID": 284580,
-          "Title": "AC/DC"
-        },
-        {
-          "ID": 288292,
-          "Title": "Fransa mətbəxi"
-        },
-        {
-          "ID": 293730,
-          "Title": "Düyü qazmağı"
-        },
-        {
-          "ID": 295081,
-          "Title": "Tako"
-        },
-        {
-          "ID": 300840,
-          "Title": "Nə qədər ki sağam (film, 2012)"
-        },
-        {
-          "ID": 302400,
-          "Title": "Kakao (içki)"
-        },
-        {
-          "ID": 347320,
-          "Title": "Flappy bird"
-        },
-        {
-          "ID": 368418,
-          "Title": "Ness gölü bədheybəti"
-        },
-        {
-          "ID": 371727,
-          "Title": "Kabus"
-        },
-        {
-          "ID": 373183,
-          "Title": "Hoqvarts"
-        },
-        {
-          "ID": 373277,
-          "Title": "Cənubi Amerika mədəniyyəti"
-        },
-        {
-          "ID": 377156,
-          "Title": "Hot-doq"
-        },
-        {
-          "ID": 384644,
-          "Title": "The World Factbook"
-        },
-        {
-          "ID": 448191,
-          "Title": "2017 Avroviziya Mahnı Müsabiqəsi"
-        },
-        {
-          "ID": 458532,
-          "Title": "Bolo de rolo"
-        },
-        {
-          "ID": 486425,
-          "Title": "Harri Potter romanlarındakı yerlər"
-        },
-        {
-          "ID": 489911,
-          "Title": "2018 Avroviziya Mahnı Müsabiqəsi"
-        },
-        {
-          "ID": 527315,
-          "Title": "Donuz əti"
-        },
-        {
-          "ID": 528575,
-          "Title": "Oral seks"
-        },
-        {
-          "ID": 535698,
-          "Title": "Basdırma"
-        },
-        {
-          "ID": 535855,
-          "Title": "Miçiqan salatı"
-        },
-        {
-          "ID": 536502,
-          "Title": "Vetçina"
-        },
-        {
-          "ID": 536509,
-          "Title": "Pirojna"
-        },
-        {
-          "ID": 537261,
-          "Title": "Əncir keksi"
-        },
-        {
-          "ID": 537268,
-          "Title": "Salo"
-        },
-        {
-          "ID": 537348,
-          "Title": "Opera tortu"
-        },
-        {
-          "ID": 537713,
-          "Title": "Riz qras"
-        },
-        {
-          "ID": 538024,
-          "Title": "Tart"
-        },
-        {
-          "ID": 538072,
-          "Title": "Belçika şokoladı"
-        },
-        {
-          "ID": 568065,
-          "Title": "Realizm (incəsənət)"
-        },
-        {
-          "ID": 570396,
-          "Title": "Fellatio"
-        },
-        {
-          "ID": 581985,
-          "Title": "Ev donuzu"
+          "ID": 6618,
+          "Title": "Kateqoriya:Əyləncə"
         }
       ]
     },
@@ -338,62 +276,84 @@
       "Title": "Geography and places",
       "Categories": [
         {
+          "ID": 425183,
+          "Title": "Kateqoriya:Abidələr"
+        },
+        {
+          "ID": 139639,
+          "Title": "Kateqoriya:Bulaqlar"
+        },
+        {
           "ID": 1109,
           "Title": "Kateqoriya:Coğrafiya"
+        },
+        {
+          "ID": 93829,
+          "Title": "Kateqoriya:Dövlət"
+        },
+        {
+          "ID": 18520,
+          "Title": "Kateqoriya:Dövlət təşkilatları"
         },
         {
           "ID": 138122,
           "Title": "Kateqoriya:Geomorfologiya"
         },
         {
-          "ID": 156579,
-          "Title": "Kateqoriya:Şəhərsalma"
+          "ID": 543857,
+          "Title": "Kateqoriya:Kral iqamətgahları"
         },
         {
-          "ID": 301919,
-          "Title": "Kateqoriya:Yerlər"
+          "ID": 269664,
+          "Title": "Kateqoriya:Küçələr"
+        },
+        {
+          "ID": 74218,
+          "Title": "Kateqoriya:Saraylar"
         },
         {
           "ID": 421708,
           "Title": "Kateqoriya:Siyahılar:Coğrafiya"
         },
         {
-          "ID": 425183,
-          "Title": "Kateqoriya:Abidələr"
-        }
-      ],
-      "Articles": [
-        {
-          "ID": 6028,
-          "Title": "Paris"
+          "ID": 169192,
+          "Title": "Kateqoriya:Yaşayış məntəqələri"
         },
         {
-          "ID": 7068,
-          "Title": "İnsan"
+          "ID": 301919,
+          "Title": "Kateqoriya:Yerlər"
         },
         {
-          "ID": 52278,
-          "Title": "Myanma"
+          "ID": 95911,
+          "Title": "Kateqoriya:Yollar"
         },
         {
-          "ID": 60547,
-          "Title": "Venesiya"
+          "ID": 58585,
+          "Title": "Kateqoriya:Çaylar"
         },
         {
-          "ID": 102033,
-          "Title": "Avstraliya"
+          "ID": 5120,
+          "Title": "Kateqoriya:Ölkələr"
         },
         {
-          "ID": 176547,
-          "Title": "Kanberra"
+          "ID": 295140,
+          "Title": "Kateqoriya:Ölkələrinə görə yaşayış məntəqələri"
         },
         {
-          "ID": 269107,
-          "Title": "Kvinslend"
+          "ID": 543860,
+          "Title": "Kateqoriya:Şatolar"
         },
         {
-          "ID": 332220,
-          "Title": "Ehram"
+          "ID": 271547,
+          "Title": "Kateqoriya:Şəhər"
+        },
+        {
+          "ID": 6625,
+          "Title": "Kateqoriya:Şəhərlər"
+        },
+        {
+          "ID": 156579,
+          "Title": "Kateqoriya:Şəhərsalma"
         }
       ]
     },
@@ -402,28 +362,28 @@
       "Title": "Health and fitness",
       "Categories": [
         {
-          "ID": 14880,
-          "Title": "Kateqoriya:Tibb"
-        },
-        {
-          "ID": 101127,
-          "Title": "Kateqoriya:İrsi xəstəliklər"
-        },
-        {
-          "ID": 106966,
-          "Title": "Kateqoriya:Səhiyyə"
+          "ID": 299626,
+          "Title": "Kateqoriya:Gigiyena"
         },
         {
           "ID": 106967,
           "Title": "Kateqoriya:Sağlamlıq"
         },
         {
+          "ID": 106966,
+          "Title": "Kateqoriya:Səhiyyə"
+        },
+        {
+          "ID": 14880,
+          "Title": "Kateqoriya:Tibb"
+        },
+        {
           "ID": 266572,
           "Title": "Kateqoriya:Tibbin klinik bölmələri"
         },
         {
-          "ID": 299626,
-          "Title": "Kateqoriya:Gigiyena"
+          "ID": 106530,
+          "Title": "Kateqoriya:İnsan anatomiyası"
         }
       ]
     },
@@ -432,62 +392,64 @@
       "Title": "History and events",
       "Categories": [
         {
-          "ID": 5070,
-          "Title": "Kateqoriya:Tarix"
-        },
-        {
-          "ID": 6611,
-          "Title": "Kateqoriya:Sosial elmlər"
+          "ID": 147287,
+          "Title": "Kateqoriya:Hadisələr"
         },
         {
           "ID": 6805,
           "Title": "Kateqoriya:Millətlərinə görə tarix"
         },
         {
-          "ID": 27927,
-          "Title": "Kateqoriya:Ölkələrinə görə tarix"
+          "ID": 63746,
+          "Title": "Kateqoriya:Müharibə"
         },
         {
-          "ID": 72737,
-          "Title": "Kateqoriya:Humanitar elmlər"
-        },
-        {
-          "ID": 147287,
-          "Title": "Kateqoriya:Hadisələr"
+          "ID": 60026,
+          "Title": "Kateqoriya:Müharibələr"
         },
         {
           "ID": 299204,
           "Title": "Kateqoriya:Mədəni həyat"
         },
         {
+          "ID": 293564,
+          "Title": "Kateqoriya:Siyasi hadisələr"
+        },
+        {
+          "ID": 276744,
+          "Title": "Kateqoriya:Siyasi repressiyalar"
+        },
+        {
+          "ID": 266539,
+          "Title": "Kateqoriya:Siyasi tarix"
+        },
+        {
+          "ID": 5070,
+          "Title": "Kateqoriya:Tarix"
+        },
+        {
+          "ID": 442073,
+          "Title": "Kateqoriya:Terror hadisələri"
+        },
+        {
+          "ID": 451411,
+          "Title": "Kateqoriya:Texnologiya tarixi"
+        },
+        {
           "ID": 397390,
           "Title": "Kateqoriya:Yerlərinə görə tarix"
-        }
-      ],
-      "Articles": [
-        {
-          "ID": 9271,
-          "Title": "11 sentyabr terror aktları"
         },
         {
-          "ID": 118169,
-          "Title": "Troya müharibəsi"
+          "ID": 383194,
+          "Title": "Kateqoriya:Ölkələrinə görə inqilablar"
         },
         {
-          "ID": 178994,
-          "Title": "Senday zəlzələsi və sunami (2011)"
+          "ID": 27927,
+          "Title": "Kateqoriya:Ölkələrinə görə tarix"
         },
         {
-          "ID": 279182,
-          "Title": "ABŞ Prezident seçkiləri (2012)"
-        },
-        {
-          "ID": 415171,
-          "Title": "Donald Tramp"
-        },
-        {
-          "ID": 451268,
-          "Title": "2016 Orlando gecə klubu gülləbaranı"
+          "ID": 63312,
+          "Title": "Kateqoriya:İnqilablar"
         }
       ]
     },
@@ -495,6 +457,14 @@
       "ID": 2147483641,
       "Title": "Mathematics and logic",
       "Categories": [
+        {
+          "ID": 214630,
+          "Title": "Kateqoriya:Ehtimallar nəzəriyyəsi və riyazi statistika"
+        },
+        {
+          "ID": 18640,
+          "Title": "Kateqoriya:Məntiq"
+        },
         {
           "ID": 5530,
           "Title": "Kateqoriya:Riyaziyyat"
@@ -504,22 +474,16 @@
           "Title": "Kateqoriya:Statistika"
         },
         {
-          "ID": 18640,
-          "Title": "Kateqoriya:Məntiq"
-        },
-        {
           "ID": 125340,
           "Title": "Kateqoriya:Tətbiqi riyaziyyat"
         },
         {
-          "ID": 214630,
-          "Title": "Kateqoriya:Ehtimallar nəzəriyyəsi və riyazi statistika"
-        }
-      ],
-      "Articles": [
+          "ID": 259842,
+          "Title": "Kateqoriya:Ölçü sistemləri"
+        },
         {
-          "ID": 54651,
-          "Title": "Uzunluq (fizika)"
+          "ID": 94222,
+          "Title": "Kateqoriya:Ölçü vahidləri"
         }
       ]
     },
@@ -528,40 +492,28 @@
       "Title": "Nature and physical sciences",
       "Categories": [
         {
-          "ID": 1893,
-          "Title": "Kateqoriya:Fizika"
+          "ID": 64257,
+          "Title": "Kateqoriya:Anatomiya"
         },
         {
-          "ID": 6612,
-          "Title": "Kateqoriya:Elm"
-        },
-        {
-          "ID": 6613,
-          "Title": "Kateqoriya:Təbiət"
-        },
-        {
-          "ID": 6614,
-          "Title": "Kateqoriya:Kimya"
-        },
-        {
-          "ID": 6632,
-          "Title": "Kateqoriya:Zoologiya"
-        },
-        {
-          "ID": 64312,
-          "Title": "Kateqoriya:Təbiət elmləri"
+          "ID": 28027,
+          "Title": "Kateqoriya:Bitkilər"
         },
         {
           "ID": 72741,
           "Title": "Kateqoriya:Dəqiq elmlər"
         },
         {
-          "ID": 101186,
-          "Title": "Kateqoriya:Kimyəvi maddələr"
+          "ID": 6665,
+          "Title": "Kateqoriya:Ekologiya"
         },
         {
-          "ID": 106670,
-          "Title": "Kateqoriya:Bilik"
+          "ID": 6612,
+          "Title": "Kateqoriya:Elm"
+        },
+        {
+          "ID": 1893,
+          "Title": "Kateqoriya:Fizika"
         },
         {
           "ID": 265561,
@@ -572,6 +524,30 @@
           "Title": "Kateqoriya:Fəlakətlər"
         },
         {
+          "ID": 6634,
+          "Title": "Kateqoriya:Heyvanlar"
+        },
+        {
+          "ID": 27923,
+          "Title": "Kateqoriya:Həyat"
+        },
+        {
+          "ID": 6614,
+          "Title": "Kateqoriya:Kimya"
+        },
+        {
+          "ID": 507179,
+          "Title": "Kateqoriya:Kimyəvi birləşmələr"
+        },
+        {
+          "ID": 101186,
+          "Title": "Kateqoriya:Kimyəvi maddələr"
+        },
+        {
+          "ID": 23191,
+          "Title": "Kateqoriya:Meyvə"
+        },
+        {
           "ID": 270538,
           "Title": "Kateqoriya:Qitələrə görə fauna"
         },
@@ -580,194 +556,24 @@
           "Title": "Kateqoriya:Qruplara görə elmlər"
         },
         {
-          "ID": 507179,
-          "Title": "Kateqoriya:Kimyəvi birləşmələr"
-        }
-      ],
-      "Articles": [
-        {
-          "ID": 33574,
-          "Title": "Ağacqurbağaları"
+          "ID": 6613,
+          "Title": "Kateqoriya:Təbiət"
         },
         {
-          "ID": 36647,
-          "Title": "Penis"
+          "ID": 64312,
+          "Title": "Kateqoriya:Təbiət elmləri"
         },
         {
-          "ID": 53785,
-          "Title": "Pomidor"
+          "ID": 134152,
+          "Title": "Kateqoriya:Yer"
         },
         {
-          "ID": 65373,
-          "Title": "Düyü"
+          "ID": 6632,
+          "Title": "Kateqoriya:Zoologiya"
         },
         {
-          "ID": 66762,
-          "Title": "Çiyələk"
-        },
-        {
-          "ID": 66804,
-          "Title": "Limon"
-        },
-        {
-          "ID": 67251,
-          "Title": "Qızılqaz"
-        },
-        {
-          "ID": 67803,
-          "Title": "Dəvə"
-        },
-        {
-          "ID": 69504,
-          "Title": "Əsl ananas"
-        },
-        {
-          "ID": 69508,
-          "Title": "Portağal"
-        },
-        {
-          "ID": 75987,
-          "Title": "Od"
-        },
-        {
-          "ID": 90919,
-          "Title": "Buğda"
-        },
-        {
-          "ID": 91959,
-          "Title": "Manqo (meyvə)"
-        },
-        {
-          "ID": 92419,
-          "Title": "Əzələlər"
-        },
-        {
-          "ID": 94609,
-          "Title": "Yemiş"
-        },
-        {
-          "ID": 98217,
-          "Title": "Qarğıdalı"
-        },
-        {
-          "ID": 102388,
-          "Title": "Dayaq və hərəkət sistemi (Anatomiya)"
-        },
-        {
-          "ID": 110785,
-          "Title": "Böyük pişiklər"
-        },
-        {
-          "ID": 112565,
-          "Title": "Meşə çiyələyi"
-        },
-        {
-          "ID": 118955,
-          "Title": "Sığın"
-        },
-        {
-          "ID": 139159,
-          "Title": "Bağ çiyələyi"
-        },
-        {
-          "ID": 140921,
-          "Title": "Hidrologiya"
-        },
-        {
-          "ID": 141801,
-          "Title": "Mərsin"
-        },
-        {
-          "ID": 141802,
-          "Title": "Adi mərsin"
-        },
-        {
-          "ID": 143540,
-          "Title": "İri balqabaq"
-        },
-        {
-          "ID": 143939,
-          "Title": "Yumşaq buğda"
-        },
-        {
-          "ID": 150413,
-          "Title": "Rəngbərəng tənbəlcüllütlər"
-        },
-        {
-          "ID": 152020,
-          "Title": "Juniperus thurifera"
-        },
-        {
-          "ID": 158729,
-          "Title": "Fragaria × vescana"
-        },
-        {
-          "ID": 159970,
-          "Title": "Peru yergilası"
-        },
-        {
-          "ID": 159971,
-          "Title": "Physalis philadelphica"
-        },
-        {
-          "ID": 160366,
-          "Title": "Pinus kesiya"
-        },
-        {
-          "ID": 179093,
-          "Title": "Hindistan mangiferası"
-        },
-        {
-          "ID": 179766,
-          "Title": "Xurma palması"
-        },
-        {
-          "ID": 284854,
-          "Title": "Masturbasiya"
-        },
-        {
-          "ID": 316187,
-          "Title": "Xaya"
-        },
-        {
-          "ID": 317591,
-          "Title": "Cinsiyyət üzvləri (insan)"
-        },
-        {
-          "ID": 332916,
-          "Title": "Su dövranı"
-        },
-        {
-          "ID": 402868,
-          "Title": "Çəltik"
-        },
-        {
-          "ID": 432619,
-          "Title": "Sidik"
-        },
-        {
-          "ID": 454942,
-          "Title": "Engelman küknarı"
-        },
-        {
-          "ID": 477002,
-          "Title": "Skumbriyalar"
-        },
-        {
-          "ID": 487530,
-          "Title": "Talış arıquşu"
-        },
-        {
-          "ID": 492368,
-          "Title": "Anakondalar"
-        },
-        {
-          "ID": 524209,
-          "Title": "Zanbaqçiçək maqnoliya"
-        },
-        {
-          "ID": 561598,
-          "Title": "Anakonda"
+          "ID": 265880,
+          "Title": "Kateqoriya:Zülallar"
         }
       ]
     },
@@ -776,214 +582,160 @@
       "Title": "People and self",
       "Categories": [
         {
-          "ID": 5305,
-          "Title": "Kateqoriya:Şəxslər"
+          "ID": 370611,
+          "Title": "Kateqoriya:ABŞ generalları"
         },
         {
-          "ID": 27923,
-          "Title": "Kateqoriya:Həyat"
+          "ID": 21626,
+          "Title": "Kateqoriya:Aktyorlar"
         },
         {
-          "ID": 36869,
-          "Title": "Kateqoriya:Qadın"
-        },
-        {
-          "ID": 107215,
-          "Title": "Kateqoriya:Şəxsi həyat"
-        },
-        {
-          "ID": 114225,
-          "Title": "Kateqoriya:Soyadlar"
-        },
-        {
-          "ID": 116468,
-          "Title": "Kateqoriya:Şəxsiyyət"
-        },
-        {
-          "ID": 120399,
-          "Title": "Kateqoriya:Əlifba sırasına görə şəxslər"
-        },
-        {
-          "ID": 151520,
-          "Title": "Kateqoriya:Qadınlar"
-        },
-        {
-          "ID": 265911,
-          "Title": "Kateqoriya:Film personajları"
+          "ID": 458541,
+          "Title": "Kateqoriya:Belletristlər"
         },
         {
           "ID": 358722,
           "Title": "Kateqoriya:Bioqraflar"
         },
         {
-          "ID": 437415,
-          "Title": "Kateqoriya:Bioqrafik əsərlər"
+          "ID": 6780,
+          "Title": "Kateqoriya:Doğum illərinə görə şəxslər"
+        },
+        {
+          "ID": 405482,
+          "Title": "Kateqoriya:Dövlət başçıları"
+        },
+        {
+          "ID": 440455,
+          "Title": "Kateqoriya:Film aktyorları"
+        },
+        {
+          "ID": 265911,
+          "Title": "Kateqoriya:Film personajları"
+        },
+        {
+          "ID": 9544,
+          "Title": "Kateqoriya:Filosoflar"
+        },
+        {
+          "ID": 376301,
+          "Title": "Kateqoriya:Fəaliyyətdə olan dövlət rəhbərləri"
+        },
+        {
+          "ID": 15515,
+          "Title": "Kateqoriya:Həkimlər"
+        },
+        {
+          "ID": 569858,
+          "Title": "Kateqoriya:Kişi musiqiçilər"
+        },
+        {
+          "ID": 55171,
+          "Title": "Kateqoriya:Memarlar"
+        },
+        {
+          "ID": 9882,
+          "Title": "Kateqoriya:Musiqiçilər"
         },
         {
           "ID": 437479,
           "Title": "Kateqoriya:Mənlik"
         },
         {
-          "ID": 464133,
-          "Title": "Kateqoriya:Şəxsiyyət nəzəriyyələri"
-        }
-      ],
-      "Articles": [
-        {
-          "ID": 8656,
-          "Title": "Xristofor Kolumb"
+          "ID": 6776,
+          "Title": "Kateqoriya:Məşğuliyyətlərinə görə şəxslər"
         },
         {
-          "ID": 9142,
-          "Title": "Qalileo Qaliley"
+          "ID": 260825,
+          "Title": "Kateqoriya:Personajlar"
         },
         {
-          "ID": 9582,
-          "Title": "Ziqmund Freyd"
+          "ID": 292379,
+          "Title": "Kateqoriya:Peşələrinə görə şəxslər"
         },
         {
-          "ID": 11143,
-          "Title": "Adolf Hitler"
+          "ID": 63256,
+          "Title": "Kateqoriya:Politoloqlar"
         },
         {
-          "ID": 14133,
-          "Title": "İohann Kepler"
+          "ID": 6778,
+          "Title": "Kateqoriya:Prezidentlər"
         },
         {
-          "ID": 29098,
-          "Title": "Karl Fridrix Qauss"
+          "ID": 36869,
+          "Title": "Kateqoriya:Qadın"
         },
         {
-          "ID": 36830,
-          "Title": "Con Lennon"
+          "ID": 151520,
+          "Title": "Kateqoriya:Qadınlar"
         },
         {
-          "ID": 44458,
-          "Title": "Rene Dekart"
+          "ID": 6783,
+          "Title": "Kateqoriya:Riyaziyyatçılar"
         },
         {
-          "ID": 44762,
-          "Title": "Rixard Vaqner"
+          "ID": 454569,
+          "Title": "Kateqoriya:Rollarına görə şəxslər"
         },
         {
-          "ID": 49413,
-          "Title": "Çarlz Bebbic"
+          "ID": 15514,
+          "Title": "Kateqoriya:Siyasətçilər"
         },
         {
-          "ID": 56672,
-          "Title": "Adam Smit"
+          "ID": 114225,
+          "Title": "Kateqoriya:Soyadlar"
         },
         {
-          "ID": 56687,
-          "Title": "Akvinalı Foma"
+          "ID": 429107,
+          "Title": "Kateqoriya:Sənətkarlar"
         },
         {
-          "ID": 69597,
-          "Title": "Bill Geyts"
+          "ID": 96331,
+          "Title": "Kateqoriya:Tədqiqatçılar"
         },
         {
-          "ID": 90166,
-          "Title": "Elton Con"
+          "ID": 72819,
+          "Title": "Kateqoriya:Təyyarəçilər"
         },
         {
-          "ID": 131682,
-          "Title": "Şvann Teodor"
+          "ID": 247784,
+          "Title": "Kateqoriya:Vəfat etmiş şəxslər"
         },
         {
-          "ID": 160462,
-          "Title": "Oliver Kromvel"
+          "ID": 6781,
+          "Title": "Kateqoriya:Vəfat illərinə görə şəxslər"
         },
         {
-          "ID": 183735,
-          "Title": "Corc Harrison"
+          "ID": 12105,
+          "Title": "Kateqoriya:Yazıçılar"
         },
         {
-          "ID": 247831,
-          "Title": "Anders Berinq Breyvik"
+          "ID": 446618,
+          "Title": "Kateqoriya:Yaşayan insanlar"
         },
         {
-          "ID": 254206,
-          "Title": "Luis Kerroll"
+          "ID": 383222,
+          "Title": "Kateqoriya:Ölkələrinə görə alpinistlər"
         },
         {
-          "ID": 254330,
-          "Title": "Florens Naytingel"
+          "ID": 60426,
+          "Title": "Kateqoriya:Ölkələrinə görə prezidentlər"
         },
         {
-          "ID": 255607,
-          "Title": "Leonardo Fibonaççi"
+          "ID": 73531,
+          "Title": "Kateqoriya:İnqilabçılar"
         },
         {
-          "ID": 258142,
-          "Title": "Deniel Redkliff"
+          "ID": 9309,
+          "Title": "Kateqoriya:İxtiraçılar"
         },
         {
-          "ID": 268304,
-          "Title": "Noam Çomski"
+          "ID": 5305,
+          "Title": "Kateqoriya:Şəxslər"
         },
         {
-          "ID": 292147,
-          "Title": "Uilyam Bleyk"
-        },
-        {
-          "ID": 297306,
-          "Title": "Karl Saqan"
-        },
-        {
-          "ID": 299415,
-          "Title": "Srinivasa Ramanucan"
-        },
-        {
-          "ID": 300350,
-          "Title": "Harri Hudini"
-        },
-        {
-          "ID": 313206,
-          "Title": "Alatoran (roman)"
-        },
-        {
-          "ID": 316505,
-          "Title": "Böyük partlayış nəzəriyyəsi (teleserial, 2007)"
-        },
-        {
-          "ID": 320501,
-          "Title": "Riçard Dokinz"
-        },
-        {
-          "ID": 324971,
-          "Title": "Ceykob Blek"
-        },
-        {
-          "ID": 331686,
-          "Title": "Bob Ross"
-        },
-        {
-          "ID": 352887,
-          "Title": "Aleksandr Fleminq"
-        },
-        {
-          "ID": 410034,
-          "Title": "Cozef Smit"
-        },
-        {
-          "ID": 414626,
-          "Title": "Alan Türinq"
-        },
-        {
-          "ID": 418086,
-          "Title": "Big Show"
-        },
-        {
-          "ID": 439571,
-          "Title": "Ayn Rand"
-        },
-        {
-          "ID": 467941,
-          "Title": "Ted Kruz"
-        },
-        {
-          "ID": 536663,
-          "Title": "Battenberq tortu"
+          "ID": 292423,
+          "Title": "Kateqoriya:Şəxslər:Siyasət"
         }
       ]
     },
@@ -992,62 +744,52 @@
       "Title": "Philosophy and thinking",
       "Categories": [
         {
-          "ID": 6623,
-          "Title": "Kateqoriya:Fəlsəfə"
-        },
-        {
           "ID": 83540,
           "Title": "Kateqoriya:Etika"
         },
         {
-          "ID": 93924,
-          "Title": "Kateqoriya:İdeologiyalar"
+          "ID": 435858,
+          "Title": "Kateqoriya:Fəlsəfi anlayışlar"
         },
         {
-          "ID": 106564,
-          "Title": "Kateqoriya:Təfəkkür"
-        },
-        {
-          "ID": 111759,
-          "Title": "Kateqoriya:Siyasi nəzəriyyələr"
-        },
-        {
-          "ID": 167963,
-          "Title": "Kateqoriya:Fəlsəfənin bölmələri"
+          "ID": 416247,
+          "Title": "Kateqoriya:Fəlsəfi cərəyanlar və məktəblər"
         },
         {
           "ID": 295150,
           "Title": "Kateqoriya:Fəlsəfi nəzəriyyələr"
         },
         {
-          "ID": 416247,
-          "Title": "Kateqoriya:Fəlsəfi cərəyanlar və məktəblər"
-        }
-      ],
-      "Articles": [
-        {
-          "ID": 52777,
-          "Title": "Gözəllik"
+          "ID": 6623,
+          "Title": "Kateqoriya:Fəlsəfə"
         },
         {
-          "ID": 109829,
-          "Title": "Hit"
+          "ID": 167963,
+          "Title": "Kateqoriya:Fəlsəfənin bölmələri"
         },
         {
-          "ID": 117628,
-          "Title": "Fakt"
+          "ID": 435857,
+          "Title": "Kateqoriya:Metafizika"
         },
         {
-          "ID": 404732,
-          "Title": "İnanc"
+          "ID": 551195,
+          "Title": "Kateqoriya:Metafəlsəfə"
         },
         {
-          "ID": 444990,
-          "Title": "Danninq-Krüger effekti"
+          "ID": 435855,
+          "Title": "Kateqoriya:Reallıq"
         },
         {
-          "ID": 521850,
-          "Title": "Xoşbəxtlik"
+          "ID": 111759,
+          "Title": "Kateqoriya:Siyasi nəzəriyyələr"
+        },
+        {
+          "ID": 106564,
+          "Title": "Kateqoriya:Təfəkkür"
+        },
+        {
+          "ID": 93924,
+          "Title": "Kateqoriya:İdeologiyalar"
         }
       ]
     },
@@ -1060,18 +802,6 @@
           "Title": "Kateqoriya:Din"
         },
         {
-          "ID": 28596,
-          "Title": "Kateqoriya:Dinlər"
-        },
-        {
-          "ID": 28938,
-          "Title": "Kateqoriya:Teologiya"
-        },
-        {
-          "ID": 292609,
-          "Title": "Kateqoriya:Etiqad"
-        },
-        {
           "ID": 440898,
           "Title": "Kateqoriya:Dini mübahisələr"
         },
@@ -1080,8 +810,20 @@
           "Title": "Kateqoriya:Dinin tənqidi"
         },
         {
+          "ID": 28596,
+          "Title": "Kateqoriya:Dinlər"
+        },
+        {
+          "ID": 292609,
+          "Title": "Kateqoriya:Etiqad"
+        },
+        {
           "ID": 498664,
           "Title": "Kateqoriya:Hind dinləri"
+        },
+        {
+          "ID": 28938,
+          "Title": "Kateqoriya:Teologiya"
         }
       ]
     },
@@ -1090,414 +832,108 @@
       "Title": "Society and social sciences",
       "Categories": [
         {
-          "ID": 6611,
-          "Title": "Kateqoriya:Sosial elmlər"
-        },
-        {
-          "ID": 6622,
-          "Title": "Kateqoriya:Hüquq"
+          "ID": 39827,
+          "Title": "Kateqoriya:Aviaşirkətlər"
         },
         {
           "ID": 33338,
           "Title": "Kateqoriya:Beynəlxalq təşkilatlar"
         },
         {
+          "ID": 73968,
+          "Title": "Kateqoriya:Cəmiyyət"
+        },
+        {
+          "ID": 129235,
+          "Title": "Kateqoriya:Cəzalar"
+        },
+        {
+          "ID": 292553,
+          "Title": "Kateqoriya:Dövlət aparatı"
+        },
+        {
           "ID": 49465,
           "Title": "Kateqoriya:Feminizm"
+        },
+        {
+          "ID": 169443,
+          "Title": "Kateqoriya:Geosiyasət"
         },
         {
           "ID": 72737,
           "Title": "Kateqoriya:Humanitar elmlər"
         },
         {
-          "ID": 73968,
-          "Title": "Kateqoriya:Cəmiyyət"
+          "ID": 108613,
+          "Title": "Kateqoriya:Hökumət"
+        },
+        {
+          "ID": 6622,
+          "Title": "Kateqoriya:Hüquq"
         },
         {
           "ID": 449862,
           "Title": "Kateqoriya:Hüquqlar"
-        }
-      ],
-      "Articles": [
-        {
-          "ID": 1564,
-          "Title": "İran"
-        },
-        {
-          "ID": 5409,
-          "Title": "Avropa İttifaqı"
-        },
-        {
-          "ID": 5762,
-          "Title": "Çili"
-        },
-        {
-          "ID": 5763,
-          "Title": "Barbados"
-        },
-        {
-          "ID": 18696,
-          "Title": "Massaçusets Texnologiya İnstitutu"
-        },
-        {
-          "ID": 36758,
-          "Title": "M.V.Lomonosov adına Moskva Dövlət Universiteti"
-        },
-        {
-          "ID": 44075,
-          "Title": "Harvard Universiteti"
-        },
-        {
-          "ID": 50889,
-          "Title": "Oksford Universiteti"
-        },
-        {
-          "ID": 54921,
-          "Title": "Osaka Universiteti"
-        },
-        {
-          "ID": 55451,
-          "Title": "Boğaziçi Universiteti"
-        },
-        {
-          "ID": 82555,
-          "Title": "Qoç Universiteti"
-        },
-        {
-          "ID": 83016,
-          "Title": "Prinston Universiteti"
-        },
-        {
-          "ID": 94562,
-          "Title": "Yay vaxtı"
-        },
-        {
-          "ID": 95560,
-          "Title": "Çikaqo Universiteti"
-        },
-        {
-          "ID": 95561,
-          "Title": "Pensilvaniya Universiteti"
-        },
-        {
-          "ID": 95562,
-          "Title": "Kolumbiya Universiteti"
-        },
-        {
-          "ID": 95563,
-          "Title": "London İmperial Kolleci"
-        },
-        {
-          "ID": 96254,
-          "Title": "Vaterloo Universiteti"
-        },
-        {
-          "ID": 96962,
-          "Title": "Domino's Pizza"
-        },
-        {
-          "ID": 97071,
-          "Title": "Bonn Universiteti"
-        },
-        {
-          "ID": 97076,
-          "Title": "Starbucks"
-        },
-        {
-          "ID": 97080,
-          "Title": "Pizza Hut"
-        },
-        {
-          "ID": 101505,
-          "Title": "Avstraliya Milli Universiteti"
-        },
-        {
-          "ID": 101512,
-          "Title": "Miçiqan Universiteti"
-        },
-        {
-          "ID": 101525,
-          "Title": "Tokio Universiteti"
-        },
-        {
-          "ID": 118470,
-          "Title": "BP"
-        },
-        {
-          "ID": 118885,
-          "Title": "Sankt-Peterburq Dövlət Universiteti"
-        },
-        {
-          "ID": 130486,
-          "Title": "Mançester Universiteti"
-        },
-        {
-          "ID": 156073,
-          "Title": "Çin Yeni ili"
-        },
-        {
-          "ID": 156938,
-          "Title": "Avstraliya bayrağı"
-        },
-        {
-          "ID": 237475,
-          "Title": "Linşöping Universiteti"
-        },
-        {
-          "ID": 246981,
-          "Title": "The New York Times"
-        },
-        {
-          "ID": 254965,
-          "Title": "Mikrodövlət"
-        },
-        {
-          "ID": 258437,
-          "Title": "Stenford Universiteti"
-        },
-        {
-          "ID": 259603,
-          "Title": "Şeffild Universiteti"
-        },
-        {
-          "ID": 259609,
-          "Title": "Bristol Universiteti"
-        },
-        {
-          "ID": 269372,
-          "Title": "Sosial iş"
-        },
-        {
-          "ID": 284202,
-          "Title": "Manitoba Universiteti"
-        },
-        {
-          "ID": 295277,
-          "Title": "Aberdin Universiteti"
-        },
-        {
-          "ID": 299079,
-          "Title": "Bolonya Universiteti"
-        },
-        {
-          "ID": 302601,
-          "Title": "İvan Franko adına Lvov Milli Universiteti"
-        },
-        {
-          "ID": 302605,
-          "Title": "Odessa Universiteti"
-        },
-        {
-          "ID": 325886,
-          "Title": "Tübingen Universiteti"
-        },
-        {
-          "ID": 328076,
-          "Title": "Trest"
-        },
-        {
-          "ID": 329056,
-          "Title": "Paris Universiteti"
-        },
-        {
-          "ID": 346783,
-          "Title": "Kembric Universiteti"
-        },
-        {
-          "ID": 348774,
-          "Title": "Sidney Universiteti"
-        },
-        {
-          "ID": 349477,
-          "Title": "Yerusəlim Yəhudi Universiteti"
-        },
-        {
-          "ID": 354763,
-          "Title": "İndiana Universiteti"
-        },
-        {
-          "ID": 361610,
-          "Title": "Spirtli içki qadağası"
-        },
-        {
-          "ID": 373633,
-          "Title": "Qlazqo Universiteti"
-        },
-        {
-          "ID": 374820,
-          "Title": "Misisipi Universiteti"
-        },
-        {
-          "ID": 375681,
-          "Title": "Üçüncü dünya müharibəsi"
-        },
-        {
-          "ID": 380467,
-          "Title": "Rays Universiteti"
-        },
-        {
-          "ID": 393979,
-          "Title": "Sent-Endryus Universiteti"
-        },
-        {
-          "ID": 398442,
-          "Title": "Uppsala Universiteti"
-        },
-        {
-          "ID": 398652,
-          "Title": "Sauthempton Universiteti"
-        },
-        {
-          "ID": 398665,
-          "Title": "Tsinxua Universiteti"
-        },
-        {
-          "ID": 399065,
-          "Title": "Lids Universiteti"
-        },
-        {
-          "ID": 399073,
-          "Title": "Tohoku Universiteti"
-        },
-        {
-          "ID": 399103,
-          "Title": "Hokkaydo Universiteti"
-        },
-        {
-          "ID": 400667,
-          "Title": "Nottingem Universiteti"
-        },
-        {
-          "ID": 400716,
-          "Title": "Boston Universiteti"
-        },
-        {
-          "ID": 400874,
-          "Title": "Seul Milli Universiteti"
-        },
-        {
-          "ID": 400948,
-          "Title": "Kvinslend Universiteti"
-        },
-        {
-          "ID": 400951,
-          "Title": "Vaşinqton Universiteti"
-        },
-        {
-          "ID": 400995,
-          "Title": "Ostin Texas Universiteti"
-        },
-        {
-          "ID": 400999,
-          "Title": "Sent-Luis Vaşinqton Universiteti"
-        },
-        {
-          "ID": 401872,
-          "Title": "Birminhem Universiteti"
-        },
-        {
-          "ID": 402334,
-          "Title": "Oklənd Universiteti"
-        },
-        {
-          "ID": 402394,
-          "Title": "Uorvik Universiteti"
-        },
-        {
-          "ID": 402541,
-          "Title": "Minnesota Universiteti"
-        },
-        {
-          "ID": 403152,
-          "Title": "London Şəhər Universiteti"
-        },
-        {
-          "ID": 404256,
-          "Title": "Merilend Universiteti"
-        },
-        {
-          "ID": 405174,
-          "Title": "Tehran Universiteti"
-        },
-        {
-          "ID": 413550,
-          "Title": "Padua Universiteti"
-        },
-        {
-          "ID": 414092,
-          "Title": "Tartu Universiteti"
-        },
-        {
-          "ID": 417167,
-          "Title": "Cənubi Kaliforniya Universiteti"
-        },
-        {
-          "ID": 419683,
-          "Title": "Leypsiq Universiteti"
-        },
-        {
-          "ID": 420198,
-          "Title": "Milan Universiteti"
         },
         {
-          "ID": 420322,
-          "Title": "Frayburq Universiteti"
+          "ID": 6620,
+          "Title": "Kateqoriya:Maliyyə"
         },
         {
-          "ID": 421020,
-          "Title": "Vyana Universiteti"
+          "ID": 39352,
+          "Title": "Kateqoriya:Marketinq"
         },
         {
-          "ID": 422890,
-          "Title": "Göttingen Universiteti"
+          "ID": 9423,
+          "Title": "Kateqoriya:Psixologiya"
         },
         {
-          "ID": 423003,
-          "Title": "Vürtsburq Universiteti"
+          "ID": 5948,
+          "Title": "Kateqoriya:Pul"
         },
         {
-          "ID": 424817,
-          "Title": "Kəlkətə Universiteti"
+          "ID": 17646,
+          "Title": "Kateqoriya:Pul vahidləri"
         },
         {
-          "ID": 424823,
-          "Title": "Mumbay Universiteti"
+          "ID": 407238,
+          "Title": "Kateqoriya:Qətllər"
         },
         {
-          "ID": 424917,
-          "Title": "Dehli Universiteti"
+          "ID": 459298,
+          "Title": "Kateqoriya:Sikkələr"
         },
         {
-          "ID": 425383,
-          "Title": "Nankin Universiteti"
+          "ID": 200704,
+          "Title": "Kateqoriya:Siyasi sistemlər"
         },
         {
-          "ID": 432025,
-          "Title": "Verona Universiteti"
+          "ID": 6611,
+          "Title": "Kateqoriya:Sosial elmlər"
         },
         {
-          "ID": 432516,
-          "Title": "Ferrara Universiteti"
+          "ID": 6654,
+          "Title": "Kateqoriya:Təşkilatlar"
         },
         {
-          "ID": 437065,
-          "Title": "Stokholm Universiteti"
+          "ID": 75728,
+          "Title": "Kateqoriya:Ölkə bayraqları"
         },
         {
-          "ID": 455008,
-          "Title": "İordaniya Universiteti"
+          "ID": 95630,
+          "Title": "Kateqoriya:Ölkələrinə görə təhsil"
         },
         {
-          "ID": 535308,
-          "Title": "Hall Universiteti"
+          "ID": 68331,
+          "Title": "Kateqoriya:Şirkətlər"
         },
         {
-          "ID": 553650,
-          "Title": "Birləşmiş Millətlər Təşkilatının Ətraf Mühit Proqramı"
+          "ID": 116468,
+          "Title": "Kateqoriya:Şəxsiyyət"
         },
         {
-          "ID": 577111,
-          "Title": "The Times of India"
+          "ID": 464133,
+          "Title": "Kateqoriya:Şəxsiyyət nəzəriyyələri"
         }
       ]
     },
@@ -1506,110 +942,136 @@
       "Title": "Technology and applied sciences",
       "Categories": [
         {
-          "ID": 5350,
-          "Title": "Kateqoriya:Texnologiya"
-        },
-        {
-          "ID": 5434,
-          "Title": "Kateqoriya:İnternet"
-        },
-        {
-          "ID": 16729,
-          "Title": "Kateqoriya:Mühəndislik"
-        },
-        {
-          "ID": 42402,
-          "Title": "Kateqoriya:İnformatika"
-        },
-        {
-          "ID": 63745,
-          "Title": "Kateqoriya:Hərbi texnika"
-        },
-        {
-          "ID": 63747,
-          "Title": "Kateqoriya:Texnika"
-        },
-        {
-          "ID": 69920,
-          "Title": "Kateqoriya:Nəqliyyat"
-        },
-        {
-          "ID": 92975,
-          "Title": "Kateqoriya:Tətbiqi elmlər"
-        },
-        {
-          "ID": 106872,
-          "Title": "Kateqoriya:Hesablama texnikası"
-        },
-        {
-          "ID": 127354,
-          "Title": "Kateqoriya:Elektronika"
+          "ID": 15463,
+          "Title": "Kateqoriya:Alətlər"
         },
         {
           "ID": 212197,
           "Title": "Kateqoriya:Dizayn"
         },
         {
-          "ID": 259363,
-          "Title": "Kateqoriya:Hərbi texnologiyalar"
+          "ID": 127354,
+          "Title": "Kateqoriya:Elektronika"
         },
         {
-          "ID": 259364,
-          "Title": "Kateqoriya:Növünə görə texnologiyalar"
+          "ID": 106872,
+          "Title": "Kateqoriya:Hesablama texnikası"
+        },
+        {
+          "ID": 63745,
+          "Title": "Kateqoriya:Hərbi texnika"
+        },
+        {
+          "ID": 259363,
+          "Title": "Kateqoriya:Hərbi texnologiyalar"
         },
         {
           "ID": 371206,
           "Title": "Kateqoriya:Kompüter"
         },
         {
-          "ID": 451411,
-          "Title": "Kateqoriya:Texnologiya tarixi"
+          "ID": 266639,
+          "Title": "Kateqoriya:Maşınlar"
+        },
+        {
+          "ID": 50637,
+          "Title": "Kateqoriya:Maşınqayırma"
+        },
+        {
+          "ID": 16729,
+          "Title": "Kateqoriya:Mühəndislik"
+        },
+        {
+          "ID": 67627,
+          "Title": "Kateqoriya:Məişət texnikası"
+        },
+        {
+          "ID": 259364,
+          "Title": "Kateqoriya:Növünə görə texnologiyalar"
+        },
+        {
+          "ID": 69920,
+          "Title": "Kateqoriya:Nəqliyyat"
+        },
+        {
+          "ID": 492559,
+          "Title": "Kateqoriya:Printer"
+        },
+        {
+          "ID": 106871,
+          "Title": "Kateqoriya:Proqram təminatı"
+        },
+        {
+          "ID": 265471,
+          "Title": "Kateqoriya:Proqramlaşdırma"
+        },
+        {
+          "ID": 297999,
+          "Title": "Kateqoriya:Qab-qacaq"
+        },
+        {
+          "ID": 201461,
+          "Title": "Kateqoriya:Standartlar"
+        },
+        {
+          "ID": 305910,
+          "Title": "Kateqoriya:Standartlaşdırma"
+        },
+        {
+          "ID": 63747,
+          "Title": "Kateqoriya:Texnika"
+        },
+        {
+          "ID": 5350,
+          "Title": "Kateqoriya:Texnologiya"
+        },
+        {
+          "ID": 55720,
+          "Title": "Kateqoriya:Təqvimlər"
+        },
+        {
+          "ID": 92975,
+          "Title": "Kateqoriya:Tətbiqi elmlər"
         },
         {
           "ID": 509142,
           "Title": "Kateqoriya:Verilənlərin idarəedilməsi"
-        }
-      ],
-      "Articles": [
-        {
-          "ID": 50790,
-          "Title": "Qaynaq (texnika)"
         },
         {
-          "ID": 79732,
-          "Title": "Saqqız"
+          "ID": 415368,
+          "Title": "Kateqoriya:Video oyun konsolları"
         },
         {
-          "ID": 97095,
-          "Title": "Pepsi"
+          "ID": 55042,
+          "Title": "Kateqoriya:İnformasiya texnologiyaları"
         },
         {
-          "ID": 276796,
-          "Title": "Bənna"
+          "ID": 42402,
+          "Title": "Kateqoriya:İnformatika"
         },
         {
-          "ID": 322374,
-          "Title": "Yüksək səviyyəli domenlər"
+          "ID": 5434,
+          "Title": "Kateqoriya:İnternet"
         },
         {
-          "ID": 537897,
-          "Title": "Mountain Dew"
+          "ID": 111978,
+          "Title": "Kateqoriya:İnşaat"
         },
         {
-          "ID": 538505,
-          "Title": "PepsiCo"
+          "ID": 407861,
+          "Title": "Kateqoriya:Əl alətləri"
         }
       ]
     }
   ],
   "Filters": [
     {
-      "ID": 75141,
-      "Title": "Kateqoriya:Vikipediya:Dəqiqləşdirmə"
-    },
-    {
       "ID": 133354,
       "Title": "Kateqoriya:Gizli kateqoriyalar"
+    },
+    {
+      "ID": 75141,
+      "Title": "Kateqoriya:Vikipediya:Dəqiqləşdirmə"
     }
   ]
 }

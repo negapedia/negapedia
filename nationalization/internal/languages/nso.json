@@ -3,27 +3,11 @@
   "Topics": [
     {
       "ID": 2147483637,
-      "Title": "Culture and the arts",
-      "Articles": [
-        {
-          "ID": 372,
-          "Title": "Kolobe"
-        },
-        {
-          "ID": 600,
-          "Title": "Wikipedia"
-        }
-      ]
+      "Title": "Culture and the arts"
     },
     {
       "ID": 2147483638,
-      "Title": "Geography and places",
-      "Articles": [
-        {
-          "ID": 2175,
-          "Title": "Australia (naga)"
-        }
-      ]
+      "Title": "Geography and places"
     },
     {
       "ID": 2147483639,
@@ -31,13 +15,7 @@
     },
     {
       "ID": 2147483640,
-      "Title": "History and events",
-      "Articles": [
-        {
-          "ID": 11537,
-          "Title": "Donald Trump"
-        }
-      ]
+      "Title": "History and events"
     },
     {
       "ID": 2147483641,
@@ -48,34 +26,16 @@
       "Title": "Nature and physical sciences",
       "Categories": [
         {
-          "ID": 1771,
-          "Title": "Setensele:Thutamahlale"
-        },
-        {
           "ID": 1772,
           "Title": "Setensele:Khemise"
-        }
-      ],
-      "Articles": [
-        {
-          "ID": 354,
-          "Title": "Kamela"
         },
         {
-          "ID": 4076,
-          "Title": "Namune"
+          "ID": 856,
+          "Title": "Setensele:Lefase"
         },
         {
-          "ID": 5255,
-          "Title": "Phaeneapole"
-        },
-        {
-          "ID": 6322,
-          "Title": "Menkô"
-        },
-        {
-          "ID": 11186,
-          "Title": "Tamati"
+          "ID": 1771,
+          "Title": "Setensele:Thutamahlale"
         }
       ]
     },
@@ -99,17 +59,7 @@
     },
     {
       "ID": 2147483646,
-      "Title": "Society and social sciences",
-      "Articles": [
-        {
-          "ID": 1202,
-          "Title": "Chile"
-        },
-        {
-          "ID": 6549,
-          "Title": "Iran"
-        }
-      ]
+      "Title": "Society and social sciences"
     },
     {
       "ID": 2147483647,

@@ -6,22 +6,12 @@
       "Title": "Culture and the arts",
       "Categories": [
         {
+          "ID": 3580,
+          "Title": "Category:Buk"
+        },
+        {
           "ID": 2655,
           "Title": "Category:Kultur"
-        }
-      ],
-      "Articles": [
-        {
-          "ID": 2030,
-          "Title": "Wikipedia"
-        },
-        {
-          "ID": 3589,
-          "Title": "Kofi"
-        },
-        {
-          "ID": 4215,
-          "Title": "Pig"
         }
       ]
     },
@@ -32,20 +22,10 @@
         {
           "ID": 2942,
           "Title": "Category:Jiografi"
-        }
-      ],
-      "Articles": [
-        {
-          "ID": 2113,
-          "Title": "Paris"
         },
         {
-          "ID": 2130,
-          "Title": "Ostrelia"
-        },
-        {
-          "ID": 3239,
-          "Title": "Burma"
+          "ID": 2218,
+          "Title": "Category:Kaontri"
         }
       ]
     },
@@ -60,16 +40,6 @@
         {
           "ID": 3277,
           "Title": "Category:Histri"
-        },
-        {
-          "ID": 3938,
-          "Title": "Category:Saens blong Pipol"
-        }
-      ],
-      "Articles": [
-        {
-          "ID": 4783,
-          "Title": "Donald Trump"
         }
       ]
     },
@@ -88,22 +58,12 @@
       "Title": "Nature and physical sciences",
       "Categories": [
         {
+          "ID": 2952,
+          "Title": "Category:Animol"
+        },
+        {
           "ID": 2917,
           "Title": "Category:Saens"
-        }
-      ],
-      "Articles": [
-        {
-          "ID": 2953,
-          "Title": "Kamel"
-        },
-        {
-          "ID": 4530,
-          "Title": "Corn"
-        },
-        {
-          "ID": 4547,
-          "Title": "Lemon"
         }
       ]
     },
@@ -112,58 +72,20 @@
       "Title": "People and self",
       "Categories": [
         {
+          "ID": 3962,
+          "Title": "Category:Hed blong Stet"
+        },
+        {
+          "ID": 5310,
+          "Title": "Category:Ol akta"
+        },
+        {
           "ID": 3579,
           "Title": "Category:Pipol"
-        }
-      ],
-      "Articles": [
-        {
-          "ID": 2270,
-          "Title": "Josef Smit"
         },
         {
-          "ID": 4742,
-          "Title": "Adolf Hitler"
-        },
-        {
-          "ID": 4787,
-          "Title": "John Lennon"
-        },
-        {
-          "ID": 4789,
-          "Title": "George Harrison"
-        },
-        {
-          "ID": 4796,
-          "Title": "Elton John"
-        },
-        {
-          "ID": 4905,
-          "Title": "Fibonacci"
-        },
-        {
-          "ID": 4906,
-          "Title": "Galileo Galilei"
-        },
-        {
-          "ID": 5008,
-          "Title": "Richard Wagner"
-        },
-        {
-          "ID": 5151,
-          "Title": "Bill Gates"
-        },
-        {
-          "ID": 5367,
-          "Title": "Tommaso d'Aquino"
-        },
-        {
-          "ID": 5421,
-          "Title": "Carl Friedrich Gauss"
-        },
-        {
-          "ID": 5422,
-          "Title": "Johannes Kepler"
+          "ID": 3889,
+          "Title": "Category:Politikis"
         }
       ]
     },
@@ -186,18 +108,12 @@
       "Title": "Society and social sciences",
       "Categories": [
         {
-          "ID": 3593,
-          "Title": "Category:Sosaeti"
-        },
-        {
           "ID": 3938,
           "Title": "Category:Saens blong Pipol"
-        }
-      ],
-      "Articles": [
+        },
         {
-          "ID": 2463,
-          "Title": "Chile"
+          "ID": 3593,
+          "Title": "Category:Sosaeti"
         }
       ]
     },

@@ -10,34 +10,40 @@
           "Title": "Categorie:Band"
         },
         {
-          "ID": 2115,
-          "Title": "Categorie:Kunst en cultuur"
+          "ID": 8470,
+          "Title": "Categorie:Boek"
         },
         {
-          "ID": 3274,
-          "Title": "Categorie:Sport"
+          "ID": 10840,
+          "Title": "Categorie:Gerecht"
+        },
+        {
+          "ID": 8071,
+          "Title": "Categorie:Krante"
         },
         {
           "ID": 4351,
           "Title": "Categorie:Kunst"
         },
         {
-          "ID": 10840,
-          "Title": "Categorie:Gerecht"
-        }
-      ],
-      "Articles": [
-        {
-          "ID": 2696,
-          "Title": "Wikipedia"
+          "ID": 2115,
+          "Title": "Categorie:Kunst en cultuur"
         },
         {
-          "ID": 8994,
-          "Title": "Koffie"
+          "ID": 2113,
+          "Title": "Categorie:Muziek"
         },
         {
-          "ID": 9714,
-          "Title": "Flappy Bird"
+          "ID": 10352,
+          "Title": "Categorie:Seksualiteit"
+        },
+        {
+          "ID": 3274,
+          "Title": "Categorie:Sport"
+        },
+        {
+          "ID": 8149,
+          "Title": "Categorie:Tillevisie"
         }
       ]
     },
@@ -48,32 +54,18 @@
         {
           "ID": 3263,
           "Title": "Categorie:Geografie"
-        }
-      ],
-      "Articles": [
-        {
-          "ID": 1730,
-          "Title": "Australië"
         },
         {
-          "ID": 2607,
-          "Title": "Queensland"
+          "ID": 4020,
+          "Title": "Categorie:Land"
         },
         {
-          "ID": 3512,
-          "Title": "Myanmar"
+          "ID": 10894,
+          "Title": "Categorie:Plekke"
         },
         {
-          "ID": 8051,
-          "Title": "Paries"
-        },
-        {
-          "ID": 10911,
-          "Title": "Canberra"
-        },
-        {
-          "ID": 11582,
-          "Title": "Venetië"
+          "ID": 10902,
+          "Title": "Categorie:Stad"
         }
       ]
     },
@@ -92,16 +84,10 @@
         {
           "ID": 11009,
           "Title": "Categorie:Geschiedenisse naer land"
-        }
-      ],
-      "Articles": [
-        {
-          "ID": 9239,
-          "Title": "Anslaegen op 11 september 2001"
         },
         {
-          "ID": 11011,
-          "Title": "Donald Trump"
+          "ID": 10361,
+          "Title": "Categorie:Oorlog"
         }
       ]
     },
@@ -114,22 +100,12 @@
       "Title": "Nature and physical sciences",
       "Categories": [
         {
+          "ID": 4876,
+          "Title": "Categorie:Plant'n"
+        },
+        {
           "ID": 1992,
           "Title": "Categorie:Weêtenschap"
-        }
-      ],
-      "Articles": [
-        {
-          "ID": 2967,
-          "Title": "Houdsnippen"
-        },
-        {
-          "ID": 3931,
-          "Title": "Aerebezems"
-        },
-        {
-          "ID": 9026,
-          "Title": "Masturberen"
         }
       ]
     },
@@ -138,30 +114,32 @@
       "Title": "People and self",
       "Categories": [
         {
+          "ID": 10657,
+          "Title": "Categorie:Acteur"
+        },
+        {
+          "ID": 10717,
+          "Title": "Categorie:Filosoof"
+        },
+        {
+          "ID": 10640,
+          "Title": "Categorie:Kunstenaer"
+        },
+        {
+          "ID": 10638,
+          "Title": "Categorie:Muzikant"
+        },
+        {
           "ID": 4188,
           "Title": "Categorie:Persoôn"
-        }
-      ],
-      "Articles": [
-        {
-          "ID": 7179,
-          "Title": "Adolf Hitler"
         },
         {
-          "ID": 7214,
-          "Title": "Christoffel Columbus"
+          "ID": 10639,
+          "Title": "Categorie:Politicus"
         },
         {
-          "ID": 8104,
-          "Title": "Sigmund Freud"
-        },
-        {
-          "ID": 9215,
-          "Title": "Galileo Galilei"
-        },
-        {
-          "ID": 9643,
-          "Title": "Johannes Kepler"
+          "ID": 9176,
+          "Title": "Categorie:Schriever"
         }
       ]
     },
@@ -188,22 +166,10 @@
     {
       "ID": 2147483646,
       "Title": "Society and social sciences",
-      "Articles": [
+      "Categories": [
         {
-          "ID": 3142,
-          "Title": "Chili"
-        },
-        {
-          "ID": 4531,
-          "Title": "Europese Unie"
-        },
-        {
-          "ID": 7903,
-          "Title": "Iran"
-        },
-        {
-          "ID": 9073,
-          "Title": "Barbados"
+          "ID": 9053,
+          "Title": "Categorie:Bedrief"
         }
       ]
     },
@@ -214,12 +180,6 @@
         {
           "ID": 11288,
           "Title": "Categorie:Vervoer"
-        }
-      ],
-      "Articles": [
-        {
-          "ID": 8997,
-          "Title": "PepsiCo"
         }
       ]
     }

@@ -6,286 +6,268 @@
       "Title": "Culture and the arts",
       "Categories": [
         {
-          "ID": 1862,
-          "Title": "Kategori:Kultur"
+          "ID": 4005,
+          "Title": "Kategori:Aviser"
         },
         {
-          "ID": 1947,
-          "Title": "Kategori:Idrettar"
+          "ID": 230574,
+          "Title": "Kategori:Biografiar"
         },
         {
-          "ID": 1954,
-          "Title": "Kategori:Mat"
+          "ID": 11624,
+          "Title": "Kategori:Brettspel"
         },
         {
-          "ID": 3086,
-          "Title": "Kategori:Kunst"
+          "ID": 222607,
+          "Title": "Kategori:Bryting"
         },
         {
-          "ID": 3675,
-          "Title": "Kategori:Skrift"
+          "ID": 1937,
+          "Title": "Kategori:Bøker"
         },
         {
-          "ID": 6527,
-          "Title": "Kategori:Underhaldning"
+          "ID": 9425,
+          "Title": "Kategori:Daglegliv"
         },
         {
-          "ID": 6665,
-          "Title": "Kategori:Farger"
-        },
-        {
-          "ID": 8452,
-          "Title": "Kategori:Rekreasjon"
-        },
-        {
-          "ID": 8453,
-          "Title": "Kategori:Fritid"
-        },
-        {
-          "ID": 29372,
-          "Title": "Kategori:Matretter"
-        },
-        {
-          "ID": 32445,
-          "Title": "Kategori:Musikkgrupper"
-        },
-        {
-          "ID": 38682,
-          "Title": "Kategori:Filmar"
+          "ID": 28690,
+          "Title": "Kategori:Dataspel"
         },
         {
           "ID": 99190,
           "Title": "Kategori:Ernæring"
         },
         {
-          "ID": 129514,
-          "Title": "Kategori:Trening"
+          "ID": 265591,
+          "Title": "Kategori:Farge"
         },
         {
-          "ID": 148777,
-          "Title": "Kategori:Idrett"
+          "ID": 6665,
+          "Title": "Kategori:Farger"
+        },
+        {
+          "ID": 33096,
+          "Title": "Kategori:Festivalar"
+        },
+        {
+          "ID": 153570,
+          "Title": "Kategori:Fiksjon"
+        },
+        {
+          "ID": 38682,
+          "Title": "Kategori:Filmar"
+        },
+        {
+          "ID": 3115,
+          "Title": "Kategori:Fjernsyn"
+        },
+        {
+          "ID": 103356,
+          "Title": "Kategori:Folkeminne"
+        },
+        {
+          "ID": 8453,
+          "Title": "Kategori:Fritid"
         },
         {
           "ID": 204582,
           "Title": "Kategori:Hobbyar"
         },
         {
-          "ID": 265591,
-          "Title": "Kategori:Farge"
+          "ID": 148777,
+          "Title": "Kategori:Idrett"
+        },
+        {
+          "ID": 1947,
+          "Title": "Kategori:Idrettar"
+        },
+        {
+          "ID": 237577,
+          "Title": "Kategori:Internettkultur"
+        },
+        {
+          "ID": 48804,
+          "Title": "Kategori:Julemat"
+        },
+        {
+          "ID": 230569,
+          "Title": "Kategori:Kjelder"
+        },
+        {
+          "ID": 29182,
+          "Title": "Kategori:Kjønn"
+        },
+        {
+          "ID": 153748,
+          "Title": "Kategori:Klassiske musikkstilar"
+        },
+        {
+          "ID": 1862,
+          "Title": "Kategori:Kultur"
+        },
+        {
+          "ID": 101842,
+          "Title": "Kategori:Kultur etter land"
+        },
+        {
+          "ID": 68684,
+          "Title": "Kategori:Kulturar"
+        },
+        {
+          "ID": 332578,
+          "Title": "Kategori:Kulturelle konvensjonar"
+        },
+        {
+          "ID": 8598,
+          "Title": "Kategori:Kunnskap"
+        },
+        {
+          "ID": 3086,
+          "Title": "Kategori:Kunst"
+        },
+        {
+          "ID": 3047,
+          "Title": "Kategori:Litteratur"
+        },
+        {
+          "ID": 133892,
+          "Title": "Kategori:Magi"
+        },
+        {
+          "ID": 1954,
+          "Title": "Kategori:Mat"
         },
         {
           "ID": 291645,
           "Title": "Kategori:Mat og drikke"
         },
         {
+          "ID": 361619,
+          "Title": "Kategori:Matprodukt"
+        },
+        {
+          "ID": 29372,
+          "Title": "Kategori:Matretter"
+        },
+        {
           "ID": 354907,
           "Title": "Kategori:Matretter etter ingrediens"
         },
         {
-          "ID": 361619,
-          "Title": "Kategori:Matprodukt"
-        }
-      ],
-      "Articles": [
-        {
-          "ID": 753,
-          "Title": "Wikipedia"
+          "ID": 291730,
+          "Title": "Kategori:Menneskeleg seksualitet"
         },
         {
-          "ID": 3005,
-          "Title": "Roti"
+          "ID": 1901,
+          "Title": "Kategori:Musikk"
         },
         {
-          "ID": 3205,
-          "Title": "Kaffi"
+          "ID": 34349,
+          "Title": "Kategori:Musikkformer"
         },
         {
-          "ID": 5846,
-          "Title": "Oppslagsverk"
+          "ID": 32445,
+          "Title": "Kategori:Musikkgrupper"
         },
         {
-          "ID": 6145,
-          "Title": "Led Zeppelin"
+          "ID": 6659,
+          "Title": "Kategori:Musikksjangrar"
         },
         {
-          "ID": 6227,
-          "Title": "Iskrem"
+          "ID": 35770,
+          "Title": "Kategori:Musikkstykke"
         },
         {
-          "ID": 7596,
-          "Title": "Pizza"
+          "ID": 81119,
+          "Title": "Kategori:Måleri"
         },
         {
-          "ID": 8321,
-          "Title": "Leksikon"
+          "ID": 230592,
+          "Title": "Kategori:Nettkultur"
         },
         {
-          "ID": 9800,
-          "Title": "Sjokolade"
+          "ID": 230562,
+          "Title": "Kategori:Nyhendemedia"
         },
         {
-          "ID": 12523,
-          "Title": "Egg"
+          "ID": 41090,
+          "Title": "Kategori:Oppdikta stader"
         },
         {
-          "ID": 17752,
-          "Title": "Brød"
+          "ID": 2195,
+          "Title": "Kategori:Oppslagsverk"
         },
         {
-          "ID": 18130,
-          "Title": "Aqua"
+          "ID": 335532,
+          "Title": "Kategori:Periodikum"
         },
         {
-          "ID": 22498,
-          "Title": "Pølse i brød"
+          "ID": 103360,
+          "Title": "Kategori:Populærkultur"
         },
         {
-          "ID": 26622,
-          "Title": "Pilsner"
+          "ID": 24159,
+          "Title": "Kategori:Radiokanalar"
         },
         {
-          "ID": 31629,
-          "Title": "Øl"
+          "ID": 8452,
+          "Title": "Kategori:Rekreasjon"
         },
         {
-          "ID": 35614,
-          "Title": "Kake"
+          "ID": 129519,
+          "Title": "Kategori:Ressursar"
         },
         {
-          "ID": 42877,
-          "Title": "Galtvort"
+          "ID": 123784,
+          "Title": "Kategori:Scenekunst"
         },
         {
-          "ID": 46039,
-          "Title": "Tomatsuppe"
+          "ID": 18429,
+          "Title": "Kategori:Seksualitet"
         },
         {
-          "ID": 49113,
-          "Title": "Green Day"
+          "ID": 99375,
+          "Title": "Kategori:Sekularisering"
         },
         {
-          "ID": 49614,
-          "Title": "Kaffiplante"
+          "ID": 294879,
+          "Title": "Kategori:Servering"
         },
         {
-          "ID": 52259,
-          "Title": "Pasta"
+          "ID": 3675,
+          "Title": "Kategori:Skrift"
         },
         {
-          "ID": 54158,
-          "Title": "Gris"
+          "ID": 25717,
+          "Title": "Kategori:Tevlingar"
         },
         {
-          "ID": 58158,
-          "Title": "Sjokolademjølk"
+          "ID": 26681,
+          "Title": "Kategori:Tidsskrift"
         },
         {
-          "ID": 62095,
-          "Title": "Taco"
+          "ID": 129514,
+          "Title": "Kategori:Trening"
         },
         {
-          "ID": 63470,
-          "Title": "Flesk"
+          "ID": 6527,
+          "Title": "Kategori:Underhaldning"
         },
         {
-          "ID": 64347,
-          "Title": "AC/DC"
+          "ID": 3389,
+          "Title": "Kategori:Utdanning"
         },
         {
-          "ID": 65737,
-          "Title": "Villsvin"
+          "ID": 102218,
+          "Title": "Kategori:Verk etter artist"
         },
         {
-          "ID": 79770,
-          "Title": "Realismen"
+          "ID": 178456,
+          "Title": "Kategori:Verk etter forfattar"
         },
         {
-          "ID": 96563,
-          "Title": "Buckingham Palace"
-        },
-        {
-          "ID": 101202,
-          "Title": "Kjeks"
-        },
-        {
-          "ID": 106114,
-          "Title": "Realisme"
-        },
-        {
-          "ID": 116306,
-          "Title": "Sgt. Pepper’s Lonely Hearts Club Band"
-        },
-        {
-          "ID": 127949,
-          "Title": "Surdeig"
-        },
-        {
-          "ID": 127954,
-          "Title": "Usyra brød"
-        },
-        {
-          "ID": 134117,
-          "Title": "Røyndom"
-        },
-        {
-          "ID": 153030,
-          "Title": "Kakaotre"
-        },
-        {
-          "ID": 158836,
-          "Title": "Kyskleik"
-        },
-        {
-          "ID": 170808,
-          "Title": "M\u0026M’s"
-        },
-        {
-          "ID": 209076,
-          "Title": "Vesen i Harry Potter-serien"
-        },
-        {
-          "ID": 214625,
-          "Title": "Pai"
-        },
-        {
-          "ID": 221289,
-          "Title": "Spøkelse"
-        },
-        {
-          "ID": 226308,
-          "Title": "Stader i Harry Potter-serien"
-        },
-        {
-          "ID": 277923,
-          "Title": "Fleskesuppe"
-        },
-        {
-          "ID": 303330,
-          "Title": "Bitterøl"
-        },
-        {
-          "ID": 313815,
-          "Title": "Eurovision Song Contest 2017"
-        },
-        {
-          "ID": 324675,
-          "Title": "Riz gras"
-        },
-        {
-          "ID": 331655,
-          "Title": "Eurovision Song Contest 2018"
-        },
-        {
-          "ID": 338065,
-          "Title": "Saus"
-        },
-        {
-          "ID": 339535,
-          "Title": "Skinke"
-        },
-        {
-          "ID": 354912,
-          "Title": "Scotch egg"
+          "ID": 156454,
+          "Title": "Kategori:Wrestling"
         }
       ]
     },
@@ -293,6 +275,38 @@
       "ID": 2147483638,
       "Title": "Geography and places",
       "Categories": [
+        {
+          "ID": 115633,
+          "Title": "Kategori:Busetnader"
+        },
+        {
+          "ID": 226738,
+          "Title": "Kategori:Busetnader etter land"
+        },
+        {
+          "ID": 329735,
+          "Title": "Kategori:Busetnadsgeografi"
+        },
+        {
+          "ID": 3112,
+          "Title": "Kategori:Byar"
+        },
+        {
+          "ID": 59403,
+          "Title": "Kategori:Byplanlegging"
+        },
+        {
+          "ID": 123416,
+          "Title": "Kategori:Byteori"
+        },
+        {
+          "ID": 3113,
+          "Title": "Kategori:Elvar"
+        },
+        {
+          "ID": 112781,
+          "Title": "Kategori:Gater"
+        },
         {
           "ID": 1890,
           "Title": "Kategori:Geografi"
@@ -302,54 +316,44 @@
           "Title": "Kategori:Geomorfologi"
         },
         {
-          "ID": 41091,
-          "Title": "Kategori:Stader"
+          "ID": 289873,
+          "Title": "Kategori:Kongebustader"
         },
         {
-          "ID": 59403,
-          "Title": "Kategori:Byplanlegging"
+          "ID": 1872,
+          "Title": "Kategori:Land"
         },
         {
           "ID": 130664,
           "Title": "Kategori:Minnesmerke"
-        }
-      ],
-      "Articles": [
-        {
-          "ID": 8978,
-          "Title": "Paris"
         },
         {
-          "ID": 9724,
-          "Title": "Australia"
+          "ID": 286601,
+          "Title": "Kategori:Palass"
         },
         {
-          "ID": 15552,
-          "Title": "Myanmar"
+          "ID": 229863,
+          "Title": "Kategori:Shtetlekh"
         },
         {
-          "ID": 15910,
-          "Title": "Menneske"
+          "ID": 147420,
+          "Title": "Kategori:Slott"
         },
         {
-          "ID": 22868,
-          "Title": "Venezia"
+          "ID": 41091,
+          "Title": "Kategori:Stader"
         },
         {
-          "ID": 36613,
-          "Title": "Pyramidar"
+          "ID": 229866,
+          "Title": "Kategori:Territorium"
         },
         {
-          "ID": 37036,
-          "Title": "Canberra"
+          "ID": 164064,
+          "Title": "Kategori:Vasskjelder"
         },
         {
-          "ID": 54089,
-          "Title": "Queensland"
-        },
-        {
-          "ID": 198812,
-          "Title": "Aberfoyle"
+          "ID": 17281,
+          "Title": "Kategori:Vegar"
         }
       ]
     },
@@ -358,40 +362,48 @@
       "Title": "Health and fitness",
       "Categories": [
         {
-          "ID": 3122,
-          "Title": "Kategori:Medisin"
-        },
-        {
-          "ID": 10297,
-          "Title": "Kategori:Helse"
-        },
-        {
-          "ID": 29109,
-          "Title": "Kategori:Helsevesen"
-        },
-        {
-          "ID": 32158,
-          "Title": "Kategori:Medisinske spesialitetar"
-        },
-        {
-          "ID": 33518,
-          "Title": "Kategori:Helsepersonell"
-        },
-        {
-          "ID": 115924,
-          "Title": "Kategori:Reinsemd"
-        },
-        {
-          "ID": 150299,
-          "Title": "Kategori:Helsevitskap"
+          "ID": 325592,
+          "Title": "Kategori:Eigenomsorg"
         },
         {
           "ID": 292371,
           "Title": "Kategori:Genetiske sjukdommar"
         },
         {
-          "ID": 325592,
-          "Title": "Kategori:Eigenomsorg"
+          "ID": 10297,
+          "Title": "Kategori:Helse"
+        },
+        {
+          "ID": 33518,
+          "Title": "Kategori:Helsepersonell"
+        },
+        {
+          "ID": 29109,
+          "Title": "Kategori:Helsevesen"
+        },
+        {
+          "ID": 150299,
+          "Title": "Kategori:Helsevitskap"
+        },
+        {
+          "ID": 3122,
+          "Title": "Kategori:Medisin"
+        },
+        {
+          "ID": 32158,
+          "Title": "Kategori:Medisinske spesialitetar"
+        },
+        {
+          "ID": 240008,
+          "Title": "Kategori:Menneskeanatomi"
+        },
+        {
+          "ID": 115924,
+          "Title": "Kategori:Reinsemd"
+        },
+        {
+          "ID": 33549,
+          "Title": "Kategori:Sjukepleie"
         }
       ]
     },
@@ -400,24 +412,12 @@
       "Title": "History and events",
       "Categories": [
         {
-          "ID": 2964,
-          "Title": "Kategori:Historie"
-        },
-        {
-          "ID": 9426,
-          "Title": "Kategori:Humaniora"
-        },
-        {
-          "ID": 29997,
-          "Title": "Kategori:Merkedagar"
-        },
-        {
-          "ID": 33587,
-          "Title": "Kategori:Samfunnsvitskapar"
-        },
-        {
           "ID": 68459,
           "Title": "Kategori:Hendingar"
+        },
+        {
+          "ID": 2964,
+          "Title": "Kategori:Historie"
         },
         {
           "ID": 75805,
@@ -428,30 +428,52 @@
           "Title": "Kategori:Historie etter område"
         },
         {
+          "ID": 3243,
+          "Title": "Kategori:Krig"
+        },
+        {
+          "ID": 2868,
+          "Title": "Kategori:Krigar"
+        },
+        {
+          "ID": 29997,
+          "Title": "Kategori:Merkedagar"
+        },
+        {
+          "ID": 278872,
+          "Title": "Kategori:Mord etter år"
+        },
+        {
+          "ID": 68682,
+          "Title": "Kategori:Politisk historie"
+        },
+        {
+          "ID": 102565,
+          "Title": "Kategori:Politisk undertrykking"
+        },
+        {
+          "ID": 124156,
+          "Title": "Kategori:Politiske hendingar"
+        },
+        {
+          "ID": 29395,
+          "Title": "Kategori:Revolusjonar"
+        },
+        {
+          "ID": 280656,
+          "Title": "Kategori:Revolusjonar etter land"
+        },
+        {
+          "ID": 140636,
+          "Title": "Kategori:Teknologihistorie"
+        },
+        {
+          "ID": 119350,
+          "Title": "Kategori:Terroråtak"
+        },
+        {
           "ID": 323075,
           "Title": "Kategori:Val etter år"
-        }
-      ],
-      "Articles": [
-        {
-          "ID": 53568,
-          "Title": "Holocaustfornekting"
-        },
-        {
-          "ID": 177989,
-          "Title": "Jordskjelvet i Sendai 11. mars 2011"
-        },
-        {
-          "ID": 196971,
-          "Title": "Terroråtaka 11. september 2001"
-        },
-        {
-          "ID": 221548,
-          "Title": "Aurora-massakren"
-        },
-        {
-          "ID": 310994,
-          "Title": "Donald Trump"
         }
       ]
     },
@@ -460,42 +482,40 @@
       "Title": "Mathematics and logic",
       "Categories": [
         {
-          "ID": 1935,
-          "Title": "Kategori:Matematikk"
-        },
-        {
-          "ID": 7961,
-          "Title": "Kategori:Statistikk"
-        },
-        {
-          "ID": 68113,
-          "Title": "Kategori:Sannsyn og statistikk"
+          "ID": 199709,
+          "Title": "Kategori:Bruksmatematikk"
         },
         {
           "ID": 68128,
           "Title": "Kategori:Logikk"
         },
         {
-          "ID": 84083,
-          "Title": "Kategori:Teoretisk informatikk"
+          "ID": 1935,
+          "Title": "Kategori:Matematikk"
         },
         {
           "ID": 195168,
           "Title": "Kategori:Matematiske konsept"
         },
         {
-          "ID": 199709,
-          "Title": "Kategori:Bruksmatematikk"
-        }
-      ],
-      "Articles": [
-        {
-          "ID": 168002,
-          "Title": "Lengd"
+          "ID": 7558,
+          "Title": "Kategori:Måleiningar"
         },
         {
-          "ID": 265860,
-          "Title": "Lengdeeining"
+          "ID": 195217,
+          "Title": "Kategori:Målesystem"
+        },
+        {
+          "ID": 68113,
+          "Title": "Kategori:Sannsyn og statistikk"
+        },
+        {
+          "ID": 7961,
+          "Title": "Kategori:Statistikk"
+        },
+        {
+          "ID": 84083,
+          "Title": "Kategori:Teoretisk informatikk"
         }
       ]
     },
@@ -504,210 +524,88 @@
       "Title": "Nature and physical sciences",
       "Categories": [
         {
-          "ID": 1964,
-          "Title": "Kategori:Zoologi"
+          "ID": 25321,
+          "Title": "Kategori:Anatomi"
         },
         {
-          "ID": 1969,
-          "Title": "Kategori:Vitskapar"
-        },
-        {
-          "ID": 2642,
-          "Title": "Kategori:Natur"
-        },
-        {
-          "ID": 2779,
-          "Title": "Kategori:Kjemi"
-        },
-        {
-          "ID": 2827,
-          "Title": "Kategori:Fysikk"
-        },
-        {
-          "ID": 2828,
-          "Title": "Kategori:Naturvitskap"
-        },
-        {
-          "ID": 6172,
-          "Title": "Kategori:Kjemiske sambindingar"
-        },
-        {
-          "ID": 8598,
-          "Title": "Kategori:Kunnskap"
-        },
-        {
-          "ID": 73140,
-          "Title": "Kategori:Katastrofar"
-        },
-        {
-          "ID": 99189,
-          "Title": "Kategori:Kjemiske stoff"
-        },
-        {
-          "ID": 111309,
-          "Title": "Kategori:Miljøfag"
+          "ID": 5303,
+          "Title": "Kategori:Dyr"
         },
         {
           "ID": 238889,
           "Title": "Kategori:Dyr etter verdsdel"
         },
         {
+          "ID": 6566,
+          "Title": "Kategori:Frukt"
+        },
+        {
+          "ID": 2827,
+          "Title": "Kategori:Fysikk"
+        },
+        {
+          "ID": 5662,
+          "Title": "Kategori:Jorda"
+        },
+        {
+          "ID": 73140,
+          "Title": "Kategori:Katastrofar"
+        },
+        {
+          "ID": 2779,
+          "Title": "Kategori:Kjemi"
+        },
+        {
+          "ID": 6172,
+          "Title": "Kategori:Kjemiske sambindingar"
+        },
+        {
+          "ID": 99189,
+          "Title": "Kategori:Kjemiske stoff"
+        },
+        {
+          "ID": 302064,
+          "Title": "Kategori:Kulturplantar"
+        },
+        {
+          "ID": 28686,
+          "Title": "Kategori:Liv"
+        },
+        {
+          "ID": 111309,
+          "Title": "Kategori:Miljøfag"
+        },
+        {
+          "ID": 2642,
+          "Title": "Kategori:Natur"
+        },
+        {
+          "ID": 2828,
+          "Title": "Kategori:Naturvitskap"
+        },
+        {
+          "ID": 6708,
+          "Title": "Kategori:Plantar"
+        },
+        {
+          "ID": 129397,
+          "Title": "Kategori:Protein"
+        },
+        {
+          "ID": 1969,
+          "Title": "Kategori:Vitskapar"
+        },
+        {
           "ID": 291724,
           "Title": "Kategori:Vitskaplege fag"
-        }
-      ],
-      "Articles": [
-        {
-          "ID": 3325,
-          "Title": "Ris"
         },
         {
-          "ID": 3475,
-          "Title": "Kveite"
+          "ID": 1964,
+          "Title": "Kategori:Zoologi"
         },
         {
-          "ID": 6542,
-          "Title": "Appelsin"
-        },
-        {
-          "ID": 7519,
-          "Title": "Lime"
-        },
-        {
-          "ID": 12832,
-          "Title": "Penis"
-        },
-        {
-          "ID": 20926,
-          "Title": "Mais"
-        },
-        {
-          "ID": 21306,
-          "Title": "Jordbærslekta"
-        },
-        {
-          "ID": 22521,
-          "Title": "Blomkål"
-        },
-        {
-          "ID": 29180,
-          "Title": "Testikkel"
-        },
-        {
-          "ID": 30202,
-          "Title": "Elg"
-        },
-        {
-          "ID": 32460,
-          "Title": "Muskel"
-        },
-        {
-          "ID": 41236,
-          "Title": "Kjønnsorgan"
-        },
-        {
-          "ID": 41252,
-          "Title": "Onani"
-        },
-        {
-          "ID": 42501,
-          "Title": "Tentakel"
-        },
-        {
-          "ID": 51838,
-          "Title": "Kumøkk"
-        },
-        {
-          "ID": 54430,
-          "Title": "Vasskrinslaupet"
-        },
-        {
-          "ID": 63775,
-          "Title": "Urin"
-        },
-        {
-          "ID": 70055,
-          "Title": "Makrell"
-        },
-        {
-          "ID": 79313,
-          "Title": "Næringskjede"
-        },
-        {
-          "ID": 81447,
-          "Title": "Eld"
-        },
-        {
-          "ID": 101557,
-          "Title": "Kamelar"
-        },
-        {
-          "ID": 130929,
-          "Title": "Phoenicopterus"
-        },
-        {
-          "ID": 137640,
-          "Title": "Tomat"
-        },
-        {
-          "ID": 141925,
-          "Title": "Riksesniper"
-        },
-        {
-          "ID": 152970,
-          "Title": "Mango"
-        },
-        {
-          "ID": 160380,
-          "Title": "Markjordbær"
-        },
-        {
-          "ID": 174653,
-          "Title": "Forplantingssystem"
-        },
-        {
-          "ID": 186697,
-          "Title": "Skrikjer"
-        },
-        {
-          "ID": 191367,
-          "Title": "Hagejordbær"
-        },
-        {
-          "ID": 194842,
-          "Title": "Hydrologi"
-        },
-        {
-          "ID": 257949,
-          "Title": "Melon"
-        },
-        {
-          "ID": 262767,
-          "Title": "Ananas"
-        },
-        {
-          "ID": 265337,
-          "Title": "Grunnfarge"
-        },
-        {
-          "ID": 298734,
-          "Title": "Kantalupp"
-        },
-        {
-          "ID": 330334,
-          "Title": "Edderkoppapar"
-        },
-        {
-          "ID": 339876,
-          "Title": "Oryza"
-        },
-        {
-          "ID": 341035,
-          "Title": "Myrt"
-        },
-        {
-          "ID": 341500,
-          "Title": "Myrteslekta"
+          "ID": 5924,
+          "Title": "Kategori:Økologi"
         }
       ]
     },
@@ -716,182 +614,148 @@
       "Title": "People and self",
       "Categories": [
         {
-          "ID": 9425,
-          "Title": "Kategori:Daglegliv"
-        },
-        {
-          "ID": 16772,
-          "Title": "Kategori:Slektsnamn"
-        },
-        {
-          "ID": 28686,
-          "Title": "Kategori:Liv"
-        },
-        {
-          "ID": 29652,
-          "Title": "Kategori:Kvinner"
-        },
-        {
-          "ID": 68650,
-          "Title": "Kategori:Sjølvet"
-        },
-        {
-          "ID": 68653,
-          "Title": "Kategori:Personlegdom"
-        },
-        {
-          "ID": 163121,
-          "Title": "Kategori:Folk"
-        },
-        {
-          "ID": 230574,
-          "Title": "Kategori:Biografiar"
-        },
-        {
-          "ID": 296642,
-          "Title": "Kategori:Einskildkvinner"
+          "ID": 2820,
+          "Title": "Kategori:Arkitektar"
         },
         {
           "ID": 332091,
           "Title": "Kategori:Biografar"
         },
         {
+          "ID": 207982,
+          "Title": "Kategori:Døde"
+        },
+        {
+          "ID": 296642,
+          "Title": "Kategori:Einskildkvinner"
+        },
+        {
+          "ID": 1932,
+          "Title": "Kategori:Filosofar"
+        },
+        {
+          "ID": 252085,
+          "Title": "Kategori:Fjellklatrarar etter nasjonalitet"
+        },
+        {
+          "ID": 142163,
+          "Title": "Kategori:Flygarar"
+        },
+        {
+          "ID": 163121,
+          "Title": "Kategori:Folk"
+        },
+        {
+          "ID": 30459,
+          "Title": "Kategori:Folk etter dødsår"
+        },
+        {
+          "ID": 30446,
+          "Title": "Kategori:Folk etter fødselsår"
+        },
+        {
+          "ID": 331043,
+          "Title": "Kategori:Folk etter rolle"
+        },
+        {
+          "ID": 163129,
+          "Title": "Kategori:Folk etter yrke"
+        },
+        {
+          "ID": 203613,
+          "Title": "Kategori:Folk etter åtferd"
+        },
+        {
+          "ID": 2462,
+          "Title": "Kategori:Forfattarar"
+        },
+        {
+          "ID": 3089,
+          "Title": "Kategori:Kunstnarar"
+        },
+        {
           "ID": 337864,
           "Title": "Kategori:Kunstnarar etter medium"
-        }
-      ],
-      "Articles": [
-        {
-          "ID": 2049,
-          "Title": "Carl Friedrich Abel"
         },
         {
-          "ID": 3860,
-          "Title": "Adolf Hitler"
+          "ID": 29652,
+          "Title": "Kategori:Kvinner"
         },
         {
-          "ID": 7148,
-          "Title": "Adam Smith"
+          "ID": 44791,
+          "Title": "Kategori:Legar"
         },
         {
-          "ID": 8599,
-          "Title": "Srinivasa Ramanujan"
+          "ID": 8602,
+          "Title": "Kategori:Matematikarar"
         },
         {
-          "ID": 11352,
-          "Title": "Oliver Cromwell"
+          "ID": 326734,
+          "Title": "Kategori:Medisinske forskarar"
         },
         {
-          "ID": 11667,
-          "Title": "Ayn Rand"
+          "ID": 1899,
+          "Title": "Kategori:Musikarar"
         },
         {
-          "ID": 18414,
-          "Title": "Alan Turing"
+          "ID": 28919,
+          "Title": "Kategori:Oppdagarar"
         },
         {
-          "ID": 21339,
-          "Title": "Bill Gates"
+          "ID": 38688,
+          "Title": "Kategori:Oppdikta personar"
         },
         {
-          "ID": 26417,
-          "Title": "Galileo Galilei"
+          "ID": 17970,
+          "Title": "Kategori:Oppfinnarar"
         },
         {
-          "ID": 26927,
-          "Title": "Johannes Kepler"
+          "ID": 1945,
+          "Title": "Kategori:Politikarar"
         },
         {
-          "ID": 28891,
-          "Title": "Kristoffer Columbus"
+          "ID": 334023,
+          "Title": "Kategori:Politiske folk"
         },
         {
-          "ID": 34952,
-          "Title": "Thomas Aquinas"
+          "ID": 3064,
+          "Title": "Kategori:Presidentar"
         },
         {
-          "ID": 37016,
-          "Title": "Sigmund Freud"
+          "ID": 196052,
+          "Title": "Kategori:Revolusjonære"
         },
         {
-          "ID": 43088,
-          "Title": "Noam Chomsky"
+          "ID": 147509,
+          "Title": "Kategori:Sjukepleiarar"
         },
         {
-          "ID": 53596,
-          "Title": "René Descartes"
+          "ID": 68650,
+          "Title": "Kategori:Sjølvet"
         },
         {
-          "ID": 62513,
-          "Title": "Richard Dawkins"
+          "ID": 332054,
+          "Title": "Kategori:Skjønnlitterære forfattarar"
         },
         {
-          "ID": 65431,
-          "Title": "John Lennon"
+          "ID": 11716,
+          "Title": "Kategori:Skodespelarar"
         },
         {
-          "ID": 66403,
-          "Title": "Florence Nightingale"
+          "ID": 16772,
+          "Title": "Kategori:Slektsnamn"
         },
         {
-          "ID": 96768,
-          "Title": "Richard Wagner"
+          "ID": 3498,
+          "Title": "Kategori:Statsleiarar"
         },
         {
-          "ID": 98579,
-          "Title": "William Blake"
+          "ID": 129359,
+          "Title": "Kategori:Statsvitarar"
         },
         {
-          "ID": 109358,
-          "Title": "George Harrison"
-        },
-        {
-          "ID": 132721,
-          "Title": "Fibonacci"
-        },
-        {
-          "ID": 148125,
-          "Title": "Elton John"
-        },
-        {
-          "ID": 159275,
-          "Title": "Carl Friedrich Gauss"
-        },
-        {
-          "ID": 192745,
-          "Title": "Anders Behring Breivik"
-        },
-        {
-          "ID": 198416,
-          "Title": "Charles Babbage"
-        },
-        {
-          "ID": 213999,
-          "Title": "Stefan Lochner"
-        },
-        {
-          "ID": 215612,
-          "Title": "Daniel Radcliffe"
-        },
-        {
-          "ID": 261309,
-          "Title": "The Big Bang Theory"
-        },
-        {
-          "ID": 263903,
-          "Title": "Carl Sagan"
-        },
-        {
-          "ID": 301044,
-          "Title": "Alexander Fleming"
-        },
-        {
-          "ID": 345885,
-          "Title": "Lewis Carroll"
-        },
-        {
-          "ID": 356480,
-          "Title": "Harry Houdini"
+          "ID": 184032,
+          "Title": "Kategori:USA-amerikanske generalar"
         }
       ]
     },
@@ -900,58 +764,52 @@
       "Title": "Philosophy and thinking",
       "Categories": [
         {
-          "ID": 1934,
-          "Title": "Kategori:Filosofi"
-        },
-        {
           "ID": 44771,
           "Title": "Kategori:Etikk"
         },
         {
-          "ID": 68119,
-          "Title": "Kategori:Tanke"
+          "ID": 1934,
+          "Title": "Kategori:Filosofi"
         },
         {
           "ID": 68655,
           "Title": "Kategori:Filosofi etter tema"
         },
         {
-          "ID": 68692,
-          "Title": "Kategori:Politiske teoriar"
+          "ID": 68740,
+          "Title": "Kategori:Filosofiske konsept"
         },
         {
-          "ID": 114013,
-          "Title": "Kategori:Ideologiar"
+          "ID": 195973,
+          "Title": "Kategori:Filosofiske skular og tradisjonar"
         },
         {
           "ID": 129522,
           "Title": "Kategori:Filosofiske teoriar"
         },
         {
-          "ID": 195973,
-          "Title": "Kategori:Filosofiske skular og tradisjonar"
-        }
-      ],
-      "Articles": [
-        {
-          "ID": 72735,
-          "Title": "Lukke"
+          "ID": 114013,
+          "Title": "Kategori:Ideologiar"
         },
         {
-          "ID": 85548,
-          "Title": "Tru"
+          "ID": 195446,
+          "Title": "Kategori:Metafilosofi"
         },
         {
-          "ID": 134099,
-          "Title": "Venleik"
+          "ID": 68651,
+          "Title": "Kategori:Metafysikk"
         },
         {
-          "ID": 203855,
-          "Title": "Glede"
+          "ID": 68692,
+          "Title": "Kategori:Politiske teoriar"
         },
         {
-          "ID": 338113,
-          "Title": "Faktum"
+          "ID": 68652,
+          "Title": "Kategori:Røyndom"
+        },
+        {
+          "ID": 68119,
+          "Title": "Kategori:Tanke"
         }
       ]
     },
@@ -960,8 +818,16 @@
       "Title": "Religion and belief systems",
       "Categories": [
         {
+          "ID": 78140,
+          "Title": "Kategori:Dharmiske religionar"
+        },
+        {
           "ID": 1861,
           "Title": "Kategori:Religion og livssyn"
+        },
+        {
+          "ID": 203235,
+          "Title": "Kategori:Religionskritikk"
         },
         {
           "ID": 3054,
@@ -970,18 +836,6 @@
         {
           "ID": 68735,
           "Title": "Kategori:Tru"
-        },
-        {
-          "ID": 78140,
-          "Title": "Kategori:Dharmiske religionar"
-        },
-        {
-          "ID": 99375,
-          "Title": "Kategori:Sekularisering"
-        },
-        {
-          "ID": 203235,
-          "Title": "Kategori:Religionskritikk"
         }
       ]
     },
@@ -990,218 +844,116 @@
       "Title": "Society and social sciences",
       "Categories": [
         {
-          "ID": 3030,
-          "Title": "Kategori:Lover"
+          "ID": 119037,
+          "Title": "Kategori:Feminisme"
         },
         {
-          "ID": 3242,
-          "Title": "Kategori:Samfunn"
+          "ID": 68892,
+          "Title": "Kategori:Finans"
         },
         {
-          "ID": 3528,
-          "Title": "Kategori:Rettsvitskap"
+          "ID": 12716,
+          "Title": "Kategori:Flyselskap"
         },
         {
-          "ID": 6495,
-          "Title": "Kategori:Internasjonale organisasjonar"
+          "ID": 33041,
+          "Title": "Kategori:Føretak"
         },
         {
           "ID": 9426,
           "Title": "Kategori:Humaniora"
         },
         {
-          "ID": 33587,
-          "Title": "Kategori:Samfunnsvitskapar"
+          "ID": 6495,
+          "Title": "Kategori:Internasjonale organisasjonar"
         },
         {
-          "ID": 119037,
-          "Title": "Kategori:Feminisme"
+          "ID": 64327,
+          "Title": "Kategori:Laug"
+        },
+        {
+          "ID": 3030,
+          "Title": "Kategori:Lover"
+        },
+        {
+          "ID": 85967,
+          "Title": "Kategori:Marknadsføring"
         },
         {
           "ID": 276863,
           "Title": "Kategori:Mellomstatlege organisasjonar"
         },
         {
+          "ID": 169914,
+          "Title": "Kategori:Myntar"
+        },
+        {
+          "ID": 15385,
+          "Title": "Kategori:Nasjonalflagg"
+        },
+        {
+          "ID": 332975,
+          "Title": "Kategori:Offentlege etatar"
+        },
+        {
+          "ID": 334821,
+          "Title": "Kategori:Offentlege organ"
+        },
+        {
+          "ID": 6497,
+          "Title": "Kategori:Organisasjonar"
+        },
+        {
+          "ID": 49203,
+          "Title": "Kategori:Pengar"
+        },
+        {
+          "ID": 68653,
+          "Title": "Kategori:Personlegdom"
+        },
+        {
+          "ID": 68761,
+          "Title": "Kategori:Politiske system"
+        },
+        {
+          "ID": 7706,
+          "Title": "Kategori:Psykologi"
+        },
+        {
+          "ID": 3528,
+          "Title": "Kategori:Rettsvitskap"
+        },
+        {
+          "ID": 3242,
+          "Title": "Kategori:Samfunn"
+        },
+        {
+          "ID": 33587,
+          "Title": "Kategori:Samfunnsvitskapar"
+        },
+        {
+          "ID": 68877,
+          "Title": "Kategori:Statsinstitusjonar"
+        },
+        {
+          "ID": 118540,
+          "Title": "Kategori:Straff"
+        },
+        {
+          "ID": 68772,
+          "Title": "Kategori:Styresmakter"
+        },
+        {
           "ID": 334642,
           "Title": "Kategori:Universitet og høgskular etter land"
-        }
-      ],
-      "Articles": [
-        {
-          "ID": 2545,
-          "Title": "Sommartid"
         },
         {
-          "ID": 13391,
-          "Title": "Chile"
+          "ID": 96218,
+          "Title": "Kategori:Utdanning etter land"
         },
         {
-          "ID": 15544,
-          "Title": "Massachusetts Institute of Technology"
-        },
-        {
-          "ID": 15948,
-          "Title": "Iran"
-        },
-        {
-          "ID": 18716,
-          "Title": "Oljeselskapet BP"
-        },
-        {
-          "ID": 18931,
-          "Title": "Den europeiske unionen"
-        },
-        {
-          "ID": 24407,
-          "Title": "Barbados"
-        },
-        {
-          "ID": 25257,
-          "Title": "Starbucks"
-        },
-        {
-          "ID": 27438,
-          "Title": "Det australske flagget"
-        },
-        {
-          "ID": 32542,
-          "Title": "Kinesisk nyttår"
-        },
-        {
-          "ID": 62278,
-          "Title": "Uppsala universitet"
-        },
-        {
-          "ID": 65627,
-          "Title": "University of Oxford"
-        },
-        {
-          "ID": 65631,
-          "Title": "University of Cambridge"
-        },
-        {
-          "ID": 86865,
-          "Title": "The New York Times"
-        },
-        {
-          "ID": 96068,
-          "Title": "University of London"
-        },
-        {
-          "ID": 120927,
-          "Title": "Princeton University"
-        },
-        {
-          "ID": 123484,
-          "Title": "Universitetet i Torino"
-        },
-        {
-          "ID": 137635,
-          "Title": "Universitetet i Tartu"
-        },
-        {
-          "ID": 138841,
-          "Title": "Tulane University"
-        },
-        {
-          "ID": 142301,
-          "Title": "University of Delaware"
-        },
-        {
-          "ID": 166477,
-          "Title": "Columbia University"
-        },
-        {
-          "ID": 197656,
-          "Title": "Universitetet i Leipzig"
-        },
-        {
-          "ID": 200244,
-          "Title": "Statsuniversitetet i Moskva"
-        },
-        {
-          "ID": 234933,
-          "Title": "Miljøprogrammet til SN"
-        },
-        {
-          "ID": 246033,
-          "Title": "University of Minnesota"
-        },
-        {
-          "ID": 247731,
-          "Title": "Ohio State University"
-        },
-        {
-          "ID": 247932,
-          "Title": "University of Canterbury"
-        },
-        {
-          "ID": 248301,
-          "Title": "University of Glasgow"
-        },
-        {
-          "ID": 249035,
-          "Title": "Statsuniversitetet i St. Petersburg"
-        },
-        {
-          "ID": 249338,
-          "Title": "University of Maryland"
-        },
-        {
-          "ID": 250000,
-          "Title": "University of Washington"
-        },
-        {
-          "ID": 250150,
-          "Title": "Stanford University"
-        },
-        {
-          "ID": 250155,
-          "Title": "University of Otago"
-        },
-        {
-          "ID": 250933,
-          "Title": "University of Chicago"
-        },
-        {
-          "ID": 264040,
-          "Title": "Universitetet i Tübingen"
-        },
-        {
-          "ID": 268826,
-          "Title": "University of Michigan"
-        },
-        {
-          "ID": 268866,
-          "Title": "Universitetet i Bern"
-        },
-        {
-          "ID": 269007,
-          "Title": "University of Auckland"
-        },
-        {
-          "ID": 269015,
-          "Title": "University of Houston"
-        },
-        {
-          "ID": 278877,
-          "Title": "Umeå universitet"
-        },
-        {
-          "ID": 295750,
-          "Title": "The Times of India"
-        },
-        {
-          "ID": 330948,
-          "Title": "Alternative fakta"
-        },
-        {
-          "ID": 345500,
-          "Title": "Harvard University"
-        },
-        {
-          "ID": 359601,
-          "Title": "Universitetet i Paris"
+          "ID": 7049,
+          "Title": "Kategori:Valuta"
         }
       ]
     },
@@ -1210,24 +962,48 @@
       "Title": "Technology and applied sciences",
       "Categories": [
         {
-          "ID": 3090,
-          "Title": "Kategori:Internett"
+          "ID": 332999,
+          "Title": "Kategori:Bruksinformatikk"
         },
         {
-          "ID": 5731,
-          "Title": "Kategori:Teknologi"
+          "ID": 68103,
+          "Title": "Kategori:Bruksvitskapar"
+        },
+        {
+          "ID": 119651,
+          "Title": "Kategori:Bygg og anlegg"
+        },
+        {
+          "ID": 169726,
+          "Title": "Kategori:Dataadministrasjon"
+        },
+        {
+          "ID": 169725,
+          "Title": "Kategori:Databasar"
         },
         {
           "ID": 6205,
           "Title": "Kategori:Datamaskinar"
         },
         {
+          "ID": 195114,
+          "Title": "Kategori:Design"
+        },
+        {
           "ID": 22270,
           "Title": "Kategori:Elektronikk"
         },
         {
-          "ID": 68103,
-          "Title": "Kategori:Bruksvitskapar"
+          "ID": 106287,
+          "Title": "Kategori:Energiteknologi"
+        },
+        {
+          "ID": 97695,
+          "Title": "Kategori:Hushaldsreiskapar"
+        },
+        {
+          "ID": 26674,
+          "Title": "Kategori:Informasjonsteknologi"
         },
         {
           "ID": 68449,
@@ -1238,66 +1014,80 @@
           "Title": "Kategori:Ingeniørfag"
         },
         {
-          "ID": 70136,
-          "Title": "Kategori:Teknikk"
+          "ID": 3090,
+          "Title": "Kategori:Internett"
+        },
+        {
+          "ID": 6170,
+          "Title": "Kategori:Maskinar"
+        },
+        {
+          "ID": 49859,
+          "Title": "Kategori:Maskinteknikk"
         },
         {
           "ID": 127532,
           "Title": "Kategori:Militærteknologi"
         },
         {
-          "ID": 140636,
-          "Title": "Kategori:Teknologihistorie"
+          "ID": 239704,
+          "Title": "Kategori:Militærutstyr"
         },
         {
-          "ID": 169725,
-          "Title": "Kategori:Databasar"
+          "ID": 37720,
+          "Title": "Kategori:Programmering"
         },
         {
-          "ID": 169726,
-          "Title": "Kategori:Dataadministrasjon"
+          "ID": 7746,
+          "Title": "Kategori:Programvare"
         },
         {
-          "ID": 195114,
-          "Title": "Kategori:Design"
+          "ID": 294877,
+          "Title": "Kategori:Servise"
         },
         {
-          "ID": 220683,
-          "Title": "Kategori:Transport"
+          "ID": 347330,
+          "Title": "Kategori:Skjerereiskapar"
+        },
+        {
+          "ID": 26985,
+          "Title": "Kategori:Spelekonsollar"
+        },
+        {
+          "ID": 8195,
+          "Title": "Kategori:Standardar"
+        },
+        {
+          "ID": 70136,
+          "Title": "Kategori:Teknikk"
+        },
+        {
+          "ID": 5731,
+          "Title": "Kategori:Teknologi"
         },
         {
           "ID": 230846,
           "Title": "Kategori:Teknologi etter type"
         },
         {
-          "ID": 239704,
-          "Title": "Kategori:Militærutstyr"
+          "ID": 220683,
+          "Title": "Kategori:Transport"
         },
         {
-          "ID": 332999,
-          "Title": "Kategori:Bruksinformatikk"
-        }
-      ],
-      "Articles": [
-        {
-          "ID": 14084,
-          "Title": "Toppnivådomene"
+          "ID": 257860,
+          "Title": "Kategori:Trearbeid"
         },
         {
-          "ID": 38661,
-          "Title": "Pepsi"
+          "ID": 81236,
+          "Title": "Kategori:Trykking"
         },
         {
-          "ID": 71280,
-          "Title": "Mountain Dew"
+          "ID": 107791,
+          "Title": "Kategori:Utstyr"
         },
         {
-          "ID": 177070,
-          "Title": "Sveising"
-        },
-        {
-          "ID": 344975,
-          "Title": "Vegg"
+          "ID": 85964,
+          "Title": "Kategori:Verktøy"
         }
       ]
     }

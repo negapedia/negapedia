@@ -12,12 +12,10 @@
         {
           "ID": 74,
           "Title": "Guru:Kultur"
-        }
-      ],
-      "Articles": [
+        },
         {
-          "ID": 924,
-          "Title": "Wikipedia"
+          "ID": 131,
+          "Title": "Guru:Skoro"
         }
       ]
     },
@@ -28,12 +26,10 @@
         {
           "ID": 60,
           "Title": "Guru:Geografi"
-        }
-      ],
-      "Articles": [
+        },
         {
-          "ID": 2327,
-          "Title": "Paris"
+          "ID": 69,
+          "Title": "Guru:Kondre"
         }
       ]
     },
@@ -60,18 +56,20 @@
       "Title": "Nature and physical sciences",
       "Categories": [
         {
+          "ID": 25,
+          "Title": "Guru:Anatomi"
+        },
+        {
+          "ID": 82,
+          "Title": "Guru:Meti"
+        },
+        {
           "ID": 116,
           "Title": "Guru:Sabi"
         },
         {
           "ID": 121,
           "Title": "Guru:Sabi fu natru"
-        }
-      ],
-      "Articles": [
-        {
-          "ID": 2158,
-          "Title": "Aboma"
         }
       ]
     },
@@ -80,8 +78,24 @@
       "Title": "People and self",
       "Categories": [
         {
+          "ID": 18,
+          "Title": "Guru:Aktori"
+        },
+        {
+          "ID": 31,
+          "Title": "Guru:Argitekti"
+        },
+        {
           "ID": 78,
           "Title": "Guru:Man"
+        },
+        {
+          "ID": 114,
+          "Title": "Guru:Reydi"
+        },
+        {
+          "ID": 132,
+          "Title": "Guru:Skrifiman"
         }
       ]
     },
@@ -107,23 +121,11 @@
           "ID": 119,
           "Title": "Guru:Sabi fu den man"
         }
-      ],
-      "Articles": [
-        {
-          "ID": 2664,
-          "Title": "Sili"
-        }
       ]
     },
     {
       "ID": 2147483647,
-      "Title": "Technology and applied sciences",
-      "Articles": [
-        {
-          "ID": 1611,
-          "Title": "Internet TLD"
-        }
-      ]
+      "Title": "Technology and applied sciences"
     }
   ]
 }

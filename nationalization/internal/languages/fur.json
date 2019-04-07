@@ -6,62 +6,64 @@
       "Title": "Culture and the arts",
       "Categories": [
         {
-          "ID": 1651,
-          "Title": "Categorie:Clapis musicâls"
-        },
-        {
-          "ID": 2447,
-          "Title": "Categorie:Hobbys"
-        },
-        {
-          "ID": 2448,
-          "Title": "Categorie:Cusine"
-        },
-        {
-          "ID": 2453,
-          "Title": "Categorie:Spetacul"
-        },
-        {
           "ID": 2468,
           "Title": "Categorie:Art"
         },
         {
-          "ID": 2541,
-          "Title": "Categorie:Culture"
+          "ID": 6440,
+          "Title": "Categorie:Arts marziâls"
         },
         {
-          "ID": 2584,
-          "Title": "Categorie:Nutrizion"
+          "ID": 1651,
+          "Title": "Categorie:Clapis musicâls"
         },
         {
           "ID": 6044,
           "Title": "Categorie:Colôrs"
         },
         {
+          "ID": 2541,
+          "Title": "Categorie:Culture"
+        },
+        {
+          "ID": 2448,
+          "Title": "Categorie:Cusine"
+        },
+        {
+          "ID": 6619,
+          "Title": "Categorie:Educazion"
+        },
+        {
+          "ID": 2471,
+          "Title": "Categorie:Folclôr"
+        },
+        {
+          "ID": 2447,
+          "Title": "Categorie:Hobbys"
+        },
+        {
+          "ID": 2487,
+          "Title": "Categorie:Leterature"
+        },
+        {
+          "ID": 3869,
+          "Title": "Categorie:Musiche"
+        },
+        {
+          "ID": 2584,
+          "Title": "Categorie:Nutrizion"
+        },
+        {
+          "ID": 2453,
+          "Title": "Categorie:Spetacul"
+        },
+        {
           "ID": 6116,
           "Title": "Categorie:Sport"
-        }
-      ],
-      "Articles": [
-        {
-          "ID": 28,
-          "Title": "Vichipedie"
         },
         {
-          "ID": 4762,
-          "Title": "Pan"
-        },
-        {
-          "ID": 4778,
-          "Title": "Bire"
-        },
-        {
-          "ID": 4831,
-          "Title": "Cafè"
-        },
-        {
-          "ID": 6916,
-          "Title": "Cjocolate"
+          "ID": 6777,
+          "Title": "Categorie:Television"
         }
       ]
     },
@@ -70,26 +72,24 @@
       "Title": "Geography and places",
       "Categories": [
         {
+          "ID": 2312,
+          "Title": "Categorie:Citâts"
+        },
+        {
+          "ID": 1826,
+          "Title": "Categorie:Flums"
+        },
+        {
           "ID": 1694,
           "Title": "Categorie:Gjeografie"
-        }
-      ],
-      "Articles": [
-        {
-          "ID": 2960,
-          "Title": "Parîs"
         },
         {
-          "ID": 2973,
-          "Title": "Vignesie"
+          "ID": 5385,
+          "Title": "Categorie:Palaçs"
         },
         {
-          "ID": 6370,
-          "Title": "Australie"
-        },
-        {
-          "ID": 7430,
-          "Title": "Omp"
+          "ID": 1539,
+          "Title": "Categorie:Stâts dal mont"
         }
       ]
     },
@@ -112,22 +112,16 @@
       "Title": "History and events",
       "Categories": [
         {
-          "ID": 3577,
-          "Title": "Categorie:Siencis sociâls"
-        },
-        {
           "ID": 6261,
           "Title": "Categorie:Storie"
-        }
-      ],
-      "Articles": [
-        {
-          "ID": 4253,
-          "Title": "Vuere di Troie"
         },
         {
-          "ID": 9734,
-          "Title": "Donald Trump"
+          "ID": 9353,
+          "Title": "Categorie:Vuere"
+        },
+        {
+          "ID": 9299,
+          "Title": "Categorie:Vueris"
         }
       ]
     },
@@ -138,6 +132,10 @@
         {
           "ID": 4581,
           "Title": "Categorie:Matematiche"
+        },
+        {
+          "ID": 9329,
+          "Title": "Categorie:Unitâts di misure"
         }
       ]
     },
@@ -146,38 +144,28 @@
       "Title": "Nature and physical sciences",
       "Categories": [
         {
-          "ID": 1648,
-          "Title": "Categorie:Siencis"
-        },
-        {
-          "ID": 1862,
-          "Title": "Categorie:Zoologjie"
-        },
-        {
-          "ID": 2531,
-          "Title": "Categorie:Fisiche"
+          "ID": 4771,
+          "Title": "Categorie:Chimiche"
         },
         {
           "ID": 4770,
           "Title": "Categorie:Composts chimics"
         },
         {
-          "ID": 4771,
-          "Title": "Categorie:Chimiche"
+          "ID": 2531,
+          "Title": "Categorie:Fisiche"
+        },
+        {
+          "ID": 1648,
+          "Title": "Categorie:Siencis"
         },
         {
           "ID": 4772,
           "Title": "Categorie:Siencis naturâls"
-        }
-      ],
-      "Articles": [
-        {
-          "ID": 4783,
-          "Title": "Fûc"
         },
         {
-          "ID": 9210,
-          "Title": "Blave"
+          "ID": 1862,
+          "Title": "Categorie:Zoologjie"
         }
       ]
     },
@@ -188,36 +176,14 @@
         {
           "ID": 2401,
           "Title": "Categorie:Biografiis"
-        }
-      ],
-      "Articles": [
-        {
-          "ID": 6568,
-          "Title": "Johannes Kepler"
         },
         {
-          "ID": 6907,
-          "Title": "Cristoforo Colombo"
+          "ID": 6908,
+          "Title": "Categorie:Esploradôrs"
         },
         {
-          "ID": 7170,
-          "Title": "Richard Wagner"
-        },
-        {
-          "ID": 8690,
-          "Title": "Sigmund Freud"
-        },
-        {
-          "ID": 8710,
-          "Title": "Galileo Galilei"
-        },
-        {
-          "ID": 9187,
-          "Title": "Alan Turing"
-        },
-        {
-          "ID": 9336,
-          "Title": "Adolf Hitler"
+          "ID": 9409,
+          "Title": "Categorie:Scritôrs"
         }
       ]
     },
@@ -254,38 +220,24 @@
       "Title": "Society and social sciences",
       "Categories": [
         {
+          "ID": 6620,
+          "Title": "Categorie:Dirit"
+        },
+        {
           "ID": 1544,
           "Title": "Categorie:Organisims internazionâi"
+        },
+        {
+          "ID": 7187,
+          "Title": "Categorie:Psicologjie"
         },
         {
           "ID": 3577,
           "Title": "Categorie:Siencis sociâls"
         },
         {
-          "ID": 6620,
-          "Title": "Categorie:Dirit"
-        },
-        {
           "ID": 9277,
           "Title": "Categorie:Societât"
-        }
-      ],
-      "Articles": [
-        {
-          "ID": 1541,
-          "Title": "Union Europeane"
-        },
-        {
-          "ID": 3527,
-          "Title": "Universitât di Udin"
-        },
-        {
-          "ID": 6538,
-          "Title": "Universitât di Bologne"
-        },
-        {
-          "ID": 7355,
-          "Title": "Cile"
         }
       ]
     },

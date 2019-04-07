@@ -6,34 +6,32 @@
       "Title": "Culture and the arts",
       "Categories": [
         {
+          "ID": 174499,
+          "Title": "Klad:Dugäl"
+        },
+        {
           "ID": 7267,
           "Title": "Klad:Lekans"
         },
         {
-          "ID": 156164,
-          "Title": "Klad:Spot"
+          "ID": 6513,
+          "Title": "Klad:Lifajenäds"
+        },
+        {
+          "ID": 7202,
+          "Title": "Klad:Literat"
+        },
+        {
+          "ID": 170697,
+          "Title": "Klad:Musig"
         },
         {
           "ID": 170696,
           "Title": "Klad:Musiganefs"
-        }
-      ],
-      "Articles": [
-        {
-          "ID": 147736,
-          "Title": "Lejenöf"
         },
         {
-          "ID": 174477,
-          "Title": "Bir"
-        },
-        {
-          "ID": 252816,
-          "Title": "Vükiped"
-        },
-        {
-          "ID": 252818,
-          "Title": "Sikloped"
+          "ID": 156164,
+          "Title": "Klad:Spot"
         }
       ]
     },
@@ -42,34 +40,20 @@
       "Title": "Geography and places",
       "Categories": [
         {
+          "ID": 259571,
+          "Title": "Klad:Flumeds"
+        },
+        {
+          "ID": 2082,
+          "Title": "Klad:Läns"
+        },
+        {
           "ID": 2143,
           "Title": "Klad:Taledav"
-        }
-      ],
-      "Articles": [
-        {
-          "ID": 1893,
-          "Title": "Paris"
         },
         {
-          "ID": 2070,
-          "Title": "Laustralän"
-        },
-        {
-          "ID": 2265,
-          "Title": "Mianmarän"
-        },
-        {
-          "ID": 2394,
-          "Title": "Venezia"
-        },
-        {
-          "ID": 6734,
-          "Title": "Canberra"
-        },
-        {
-          "ID": 14483,
-          "Title": "Carlsbad (New Mexico)"
+          "ID": 2111,
+          "Title": "Klad:Zifs"
         }
       ]
     },
@@ -84,12 +68,10 @@
         {
           "ID": 7265,
           "Title": "Klad:Jenav"
-        }
-      ],
-      "Articles": [
+        },
         {
-          "ID": 255561,
-          "Title": "Donald Trump"
+          "ID": 259441,
+          "Title": "Klad:Krigs"
         }
       ]
     },
@@ -108,26 +90,24 @@
       "Title": "Nature and physical sciences",
       "Categories": [
         {
-          "ID": 6661,
-          "Title": "Klad:Nolavs"
-        },
-        {
           "ID": 7201,
           "Title": "Klad:Füsüd"
         },
         {
           "ID": 7254,
           "Title": "Klad:Kiemav"
-        }
-      ],
-      "Articles": [
-        {
-          "ID": 258042,
-          "Title": "Mait"
         },
         {
-          "ID": 258043,
-          "Title": "Tomat"
+          "ID": 174393,
+          "Title": "Klad:Naatom"
+        },
+        {
+          "ID": 255482,
+          "Title": "Klad:Nims"
+        },
+        {
+          "ID": 6661,
+          "Title": "Klad:Nolavs"
         }
       ]
     },
@@ -136,62 +116,36 @@
       "Title": "People and self",
       "Categories": [
         {
-          "ID": 6513,
-          "Title": "Klad:Lifajenäds"
-        }
-      ],
-      "Articles": [
-        {
-          "ID": 141411,
-          "Title": "Richard Wagner"
+          "ID": 182587,
+          "Title": "Klad:Bolitans"
         },
         {
-          "ID": 210689,
-          "Title": "Cristoforo Colombo"
+          "ID": 207662,
+          "Title": "Klad:Datuvans"
         },
         {
-          "ID": 220324,
-          "Title": "Carl Friedrich Gauss"
+          "ID": 259067,
+          "Title": "Klad:Deadams"
         },
         {
-          "ID": 220632,
-          "Title": "Fibonacci"
+          "ID": 164963,
+          "Title": "Klad:Dramatans"
         },
         {
-          "ID": 221467,
-          "Title": "Galileo Galilei"
+          "ID": 6516,
+          "Title": "Klad:Filosopans"
         },
         {
-          "ID": 225235,
-          "Title": "Johannes Kepler"
+          "ID": 4740,
+          "Title": "Klad:Lautans"
         },
         {
-          "ID": 231097,
-          "Title": "Alan Turing"
+          "ID": 7196,
+          "Title": "Klad:Matematans"
         },
         {
-          "ID": 239920,
-          "Title": "Thomas Aquinas"
-        },
-        {
-          "ID": 255563,
-          "Title": "Adolf Hitler"
-        },
-        {
-          "ID": 255579,
-          "Title": "René Descartes"
-        },
-        {
-          "ID": 255604,
-          "Title": "Adam Smith"
-        },
-        {
-          "ID": 255606,
-          "Title": "Noam Chomsky"
-        },
-        {
-          "ID": 255619,
-          "Title": "Sigmund Freud"
+          "ID": 174389,
+          "Title": "Klad:Musigans"
         }
       ]
     },
@@ -202,6 +156,10 @@
         {
           "ID": 7198,
           "Title": "Klad:Filosop"
+        },
+        {
+          "ID": 7320,
+          "Title": "Klad:Metafüd"
         }
       ]
     },
@@ -220,30 +178,16 @@
       "Title": "Society and social sciences",
       "Categories": [
         {
-          "ID": 200600,
-          "Title": "Klad:Sogäd"
+          "ID": 252373,
+          "Title": "Klad:Lanav"
         },
         {
           "ID": 259749,
           "Title": "Klad:Nogans bevünetik"
-        }
-      ],
-      "Articles": [
-        {
-          "ID": 2041,
-          "Title": "Lirän"
         },
         {
-          "ID": 2101,
-          "Title": "Cilän"
-        },
-        {
-          "ID": 2246,
-          "Title": "Barbadeän"
-        },
-        {
-          "ID": 258148,
-          "Title": "Balatam Yuropik"
+          "ID": 200600,
+          "Title": "Klad:Sogäd"
         }
       ]
     },

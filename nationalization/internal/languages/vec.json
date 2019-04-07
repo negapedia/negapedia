@@ -10,6 +10,46 @@
           "Title": "Categoria:Arte"
         },
         {
+          "ID": 20681,
+          "Title": "Categoria:Conpoxisioni muxicałi"
+        },
+        {
+          "ID": 26448,
+          "Title": "Categoria:Cołori"
+        },
+        {
+          "ID": 36320,
+          "Title": "Categoria:Cultura"
+        },
+        {
+          "ID": 40112,
+          "Title": "Categoria:Cultura par nasionałità"
+        },
+        {
+          "ID": 31525,
+          "Title": "Categoria:Cuxina"
+        },
+        {
+          "ID": 22505,
+          "Title": "Categoria:Educasion"
+        },
+        {
+          "ID": 7337,
+          "Title": "Categoria:Ençiclopedie"
+        },
+        {
+          "ID": 32502,
+          "Title": "Categoria:Film"
+        },
+        {
+          "ID": 20676,
+          "Title": "Categoria:Genari muxicałi"
+        },
+        {
+          "ID": 39768,
+          "Title": "Categoria:Giornałi"
+        },
+        {
           "ID": 14768,
           "Title": "Categoria:Grupi muxicałi"
         },
@@ -18,94 +58,52 @@
           "Title": "Categoria:Intratenimento"
         },
         {
-          "ID": 26248,
-          "Title": "Categoria:Spor"
-        },
-        {
-          "ID": 26448,
-          "Title": "Categoria:Cołori"
+          "ID": 37681,
+          "Title": "Categoria:Libri"
         },
         {
           "ID": 27554,
           "Title": "Categoria:Magnar"
         },
         {
-          "ID": 31525,
-          "Title": "Categoria:Cuxina"
-        },
-        {
-          "ID": 32502,
-          "Title": "Categoria:Film"
-        },
-        {
-          "ID": 36320,
-          "Title": "Categoria:Cultura"
+          "ID": 11028,
+          "Title": "Categoria:Mùxega"
         },
         {
           "ID": 38188,
           "Title": "Categoria:Scritura"
         },
         {
+          "ID": 17765,
+          "Title": "Categoria:Sesuałità"
+        },
+        {
           "ID": 39707,
           "Title": "Categoria:Spetacoło"
-        }
-      ],
-      "Articles": [
-        {
-          "ID": 1658,
-          "Title": "Ençiclopedia"
         },
         {
-          "ID": 1679,
-          "Title": "Wikipedia"
+          "ID": 26248,
+          "Title": "Categoria:Spor"
         },
         {
-          "ID": 7461,
-          "Title": "Baìcołi"
+          "ID": 13519,
+          "Title": "Categoria:Tełevixion"
         },
         {
-          "ID": 10319,
-          "Title": "Móstro de Loch Ness"
+          "ID": 24448,
+          "Title": "Categoria:Tradision popołari"
         },
         {
-          "ID": 13523,
-          "Title": "Mas-cio"
+          "ID": 38678,
+          "Title": "Categoria:Videozughi"
         },
         {
-          "ID": 13574,
-          "Title": "Pan"
+          "ID": 27845,
+          "Title": "Categoria:Xughi da toła"
         },
         {
-          "ID": 13669,
-          "Title": "Bira"
-        },
-        {
-          "ID": 18848,
-          "Title": "Pisa"
-        },
-        {
-          "ID": 20059,
-          "Title": "Feriòn"
-        },
-        {
-          "ID": 20157,
-          "Title": "Vóvo"
-        },
-        {
-          "ID": 21258,
-          "Title": "Sengiałe"
-        },
-        {
-          "ID": 27025,
-          "Title": "Pasta e faxołi"
-        },
-        {
-          "ID": 27842,
-          "Title": "Cafè"
-        },
-        {
-          "ID": 40919,
-          "Title": "Hogwarts"
+          "ID": 6340,
+          "Title": "Categoria:Łiteratura"
         }
       ]
     },
@@ -114,8 +112,28 @@
       "Title": "Geography and places",
       "Categories": [
         {
+          "ID": 1816,
+          "Title": "Categoria:Fiumi"
+        },
+        {
           "ID": 1523,
           "Title": "Categoria:Giografia"
+        },
+        {
+          "ID": 38080,
+          "Title": "Categoria:Nažion"
+        },
+        {
+          "ID": 29189,
+          "Title": "Categoria:Sità"
+        },
+        {
+          "ID": 18919,
+          "Title": "Categoria:Stati"
+        },
+        {
+          "ID": 11867,
+          "Title": "Categoria:Stato"
         },
         {
           "ID": 7372,
@@ -124,32 +142,6 @@
         {
           "ID": 36705,
           "Title": "Categoria:Łiste de giografia"
-        }
-      ],
-      "Articles": [
-        {
-          "ID": 482,
-          "Title": "Venesia"
-        },
-        {
-          "ID": 7500,
-          "Title": "Birmania"
-        },
-        {
-          "ID": 13364,
-          "Title": "Parixe"
-        },
-        {
-          "ID": 13476,
-          "Title": "Austrałia"
-        },
-        {
-          "ID": 20971,
-          "Title": "Homo sapiens"
-        },
-        {
-          "ID": 28199,
-          "Title": "Queensland"
         }
       ]
     },
@@ -168,26 +160,12 @@
       "Title": "History and events",
       "Categories": [
         {
-          "ID": 22463,
-          "Title": "Categoria:Siense sociałi"
+          "ID": 15059,
+          "Title": "Categoria:Guera"
         },
         {
           "ID": 28967,
           "Title": "Categoria:Istoria"
-        }
-      ],
-      "Articles": [
-        {
-          "ID": 15942,
-          "Title": "Atentati de l'11 setenbre"
-        },
-        {
-          "ID": 21120,
-          "Title": "Guera de Troia"
-        },
-        {
-          "ID": 40064,
-          "Title": "Donald Trump"
         }
       ]
     },
@@ -202,12 +180,10 @@
         {
           "ID": 12610,
           "Title": "Categoria:Statìstega"
-        }
-      ],
-      "Articles": [
+        },
         {
-          "ID": 14054,
-          "Title": "Łonghesa"
+          "ID": 32870,
+          "Title": "Categoria:Unità de mixura"
         }
       ]
     },
@@ -216,12 +192,28 @@
       "Title": "Nature and physical sciences",
       "Categories": [
         {
+          "ID": 15060,
+          "Title": "Categoria:Anatomia"
+        },
+        {
+          "ID": 11346,
+          "Title": "Categoria:Animałi"
+        },
+        {
           "ID": 14963,
           "Title": "Categoria:Chìmega"
         },
         {
+          "ID": 27690,
+          "Title": "Categoria:Conposti chìmeghi"
+        },
+        {
           "ID": 14977,
           "Title": "Categoria:Fìxica"
+        },
+        {
+          "ID": 7787,
+          "Title": "Categoria:Piante"
         },
         {
           "ID": 20121,
@@ -230,40 +222,6 @@
         {
           "ID": 24441,
           "Title": "Categoria:Siense naturałi"
-        },
-        {
-          "ID": 27690,
-          "Title": "Categoria:Conposti chìmeghi"
-        }
-      ],
-      "Articles": [
-        {
-          "ID": 6944,
-          "Title": "Idrołogia"
-        },
-        {
-          "ID": 12959,
-          "Title": "Fógo"
-        },
-        {
-          "ID": 17285,
-          "Title": "Zea mays"
-        },
-        {
-          "ID": 20147,
-          "Title": "Cojon"
-        },
-        {
-          "ID": 29184,
-          "Title": "Formento"
-        },
-        {
-          "ID": 32019,
-          "Title": "Limonara"
-        },
-        {
-          "ID": 35047,
-          "Title": "Rixo"
         }
       ]
     },
@@ -272,34 +230,56 @@
       "Title": "People and self",
       "Categories": [
         {
+          "ID": 38436,
+          "Title": "Categoria:Architeti"
+        },
+        {
+          "ID": 38389,
+          "Title": "Categoria:Artisti"
+        },
+        {
+          "ID": 12628,
+          "Title": "Categoria:Atori"
+        },
+        {
           "ID": 6072,
           "Title": "Categoria:Biografie"
-        }
-      ],
-      "Articles": [
-        {
-          "ID": 19552,
-          "Title": "Adolf Hitler"
         },
         {
-          "ID": 19924,
-          "Title": "Cristoforo Colombo"
+          "ID": 19118,
+          "Title": "Categoria:Biografie par atività"
         },
         {
-          "ID": 27805,
-          "Title": "Richard Wagner"
+          "ID": 19119,
+          "Title": "Categoria:Esploratori"
         },
         {
-          "ID": 28049,
-          "Title": "Bill Gates"
+          "ID": 27020,
+          "Title": "Categoria:Fiłòxofi"
         },
         {
-          "ID": 30541,
-          "Title": "Galileo Galilei"
+          "ID": 33893,
+          "Title": "Categoria:Inventori"
         },
         {
-          "ID": 32513,
-          "Title": "Elton John"
+          "ID": 34841,
+          "Title": "Categoria:Matematici"
+        },
+        {
+          "ID": 36617,
+          "Title": "Categoria:Muxicanti"
+        },
+        {
+          "ID": 19120,
+          "Title": "Categoria:Połiteghi"
+        },
+        {
+          "ID": 38429,
+          "Title": "Categoria:Rivołusionari"
+        },
+        {
+          "ID": 7380,
+          "Title": "Categoria:Scritori"
         }
       ]
     },
@@ -318,16 +298,16 @@
       "Title": "Religion and belief systems",
       "Categories": [
         {
-          "ID": 6337,
-          "Title": "Categoria:Teołojia"
+          "ID": 39670,
+          "Title": "Categoria:Antropołogia rełijoxa"
         },
         {
           "ID": 12586,
           "Title": "Categoria:Rełijon"
         },
         {
-          "ID": 39670,
-          "Title": "Categoria:Antropołogia rełijoxa"
+          "ID": 6337,
+          "Title": "Categoria:Teołojia"
         }
       ]
     },
@@ -336,8 +316,8 @@
       "Title": "Society and social sciences",
       "Categories": [
         {
-          "ID": 6298,
-          "Title": "Categoria:Soçietà"
+          "ID": 19128,
+          "Title": "Categoria:Aziende"
         },
         {
           "ID": 12665,
@@ -348,58 +328,28 @@
           "Title": "Categoria:Feminismo"
         },
         {
-          "ID": 22463,
-          "Title": "Categoria:Siense sociałi"
+          "ID": 20127,
+          "Title": "Categoria:Finansa"
+        },
+        {
+          "ID": 31657,
+          "Title": "Categoria:Lexi"
         },
         {
           "ID": 24146,
           "Title": "Categoria:Organixasion internasionałi"
         },
         {
-          "ID": 31657,
-          "Title": "Categoria:Lexi"
-        }
-      ],
-      "Articles": [
-        {
-          "ID": 592,
-          "Title": "Union Eoropea"
+          "ID": 15103,
+          "Title": "Categoria:Sicołogia"
         },
         {
-          "ID": 6365,
-          "Title": "Università de Pàdova"
+          "ID": 22463,
+          "Title": "Categoria:Siense sociałi"
         },
         {
-          "ID": 6367,
-          "Title": "Università de Verona"
-        },
-        {
-          "ID": 6931,
-          "Title": "Università de Trieste"
-        },
-        {
-          "ID": 6951,
-          "Title": "Università de Oxford"
-        },
-        {
-          "ID": 12563,
-          "Title": "Ciłe"
-        },
-        {
-          "ID": 16949,
-          "Title": "Barbados"
-        },
-        {
-          "ID": 23694,
-          "Title": "Fox News Channel"
-        },
-        {
-          "ID": 23923,
-          "Title": "Iran"
-        },
-        {
-          "ID": 36766,
-          "Title": "Università de Tubinga"
+          "ID": 6298,
+          "Title": "Categoria:Soçietà"
         }
       ]
     },
@@ -412,34 +362,44 @@
           "Title": "Categoria:Elitronega"
         },
         {
-          "ID": 6416,
-          "Title": "Categoria:Trasporti"
-        },
-        {
-          "ID": 6696,
-          "Title": "Categoria:Internet"
-        },
-        {
-          "ID": 6698,
-          "Title": "Categoria:Tecnologia e siense aplicae"
+          "ID": 34714,
+          "Title": "Categoria:Enformàdega"
         },
         {
           "ID": 14011,
           "Title": "Categoria:Ingegneria"
         },
         {
-          "ID": 34714,
-          "Title": "Categoria:Enformàdega"
-        }
-      ],
-      "Articles": [
-        {
-          "ID": 1717,
-          "Title": "Sufisi Internet de Primo Liveło"
+          "ID": 15482,
+          "Title": "Categoria:Ingegneria Xiviłe"
         },
         {
-          "ID": 21047,
-          "Title": "Ciunga"
+          "ID": 6696,
+          "Title": "Categoria:Internet"
+        },
+        {
+          "ID": 18661,
+          "Title": "Categoria:Machine"
+        },
+        {
+          "ID": 6700,
+          "Title": "Categoria:Software"
+        },
+        {
+          "ID": 13475,
+          "Title": "Categoria:Standard"
+        },
+        {
+          "ID": 26837,
+          "Title": "Categoria:Stanpa"
+        },
+        {
+          "ID": 6698,
+          "Title": "Categoria:Tecnologia e siense aplicae"
+        },
+        {
+          "ID": 6416,
+          "Title": "Categoria:Trasporti"
         }
       ]
     }

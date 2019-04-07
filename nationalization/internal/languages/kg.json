@@ -8,38 +8,20 @@
         {
           "ID": 4965,
           "Title": "Kalasi:Langi"
-        }
-      ],
-      "Articles": [
-        {
-          "ID": 5255,
-          "Title": "Ngulu ya musitu"
         },
         {
-          "ID": 5263,
-          "Title": "Ngulu"
+          "ID": 4618,
+          "Title": "Kalasi:Musique"
         }
       ]
     },
     {
       "ID": 2147483638,
       "Title": "Geography and places",
-      "Articles": [
+      "Categories": [
         {
-          "ID": 2323,
-          "Title": "Australia"
-        },
-        {
-          "ID": 2326,
-          "Title": "Muntu"
-        },
-        {
-          "ID": 3696,
-          "Title": "Paris"
-        },
-        {
-          "ID": 5476,
-          "Title": "Myanmar"
+          "ID": 3374,
+          "Title": "Kalasi:Babantu"
         }
       ]
     },
@@ -62,20 +44,14 @@
         {
           "ID": 3373,
           "Title": "Kalasi:Bizabu"
-        }
-      ],
-      "Articles": [
-        {
-          "ID": 5199,
-          "Title": "Dilala"
         },
         {
-          "ID": 5203,
-          "Title": "Manga"
+          "ID": 4966,
+          "Title": "Kalasi:Kibulu"
         },
         {
-          "ID": 5327,
-          "Title": "Disângu"
+          "ID": 1764,
+          "Title": "Kalasi:Ntoto"
         }
       ]
     },
@@ -99,17 +75,7 @@
     },
     {
       "ID": 2147483646,
-      "Title": "Society and social sciences",
-      "Articles": [
-        {
-          "ID": 3792,
-          "Title": "Chile"
-        },
-        {
-          "ID": 4836,
-          "Title": "Iran"
-        }
-      ]
+      "Title": "Society and social sciences"
     },
     {
       "ID": 2147483647,

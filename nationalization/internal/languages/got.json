@@ -9,35 +9,11 @@
           "ID": 2310,
           "Title": "𐌷𐌰𐌽𐍃𐌰:𐍆𐍉𐌳𐌴𐌹𐌽𐍃"
         }
-      ],
-      "Articles": [
-        {
-          "ID": 1421,
-          "Title": "𐌷𐌻𐌰𐌹𐍆𐍃"
-        },
-        {
-          "ID": 4084,
-          "Title": "𐌰𐌻𐌿"
-        },
-        {
-          "ID": 4536,
-          "Title": "𐌺𐌰𐍈𐌰"
-        },
-        {
-          "ID": 5106,
-          "Title": "𐍅𐌹𐌺𐌹𐍀𐌰𐌹𐌳𐌾𐌰"
-        }
       ]
     },
     {
       "ID": 2147483638,
-      "Title": "Geography and places",
-      "Articles": [
-        {
-          "ID": 4467,
-          "Title": "𐍀𐌰𐍂𐌹𐍃"
-        }
-      ]
+      "Title": "Geography and places"
     },
     {
       "ID": 2147483639,
@@ -45,13 +21,7 @@
     },
     {
       "ID": 2147483640,
-      "Title": "History and events",
-      "Articles": [
-        {
-          "ID": 6458,
-          "Title": "𐌳𐌰𐌿𐌽𐌰𐌻𐌳 𐍄𐍂𐌰𐌼𐍀"
-        }
-      ]
+      "Title": "History and events"
     },
     {
       "ID": 2147483641,
@@ -59,31 +29,25 @@
     },
     {
       "ID": 2147483642,
-      "Title": "Nature and physical sciences"
+      "Title": "Nature and physical sciences",
+      "Categories": [
+        {
+          "ID": 2497,
+          "Title": "𐌷𐌰𐌽𐍃𐌰:𐌰𐌹𐍂𐌸𐌰"
+        },
+        {
+          "ID": 4983,
+          "Title": "𐌷𐌰𐌽𐍃𐌰:𐌻𐌴𐌹𐌺𐌺𐌿𐌽𐌸𐌹"
+        }
+      ]
     },
     {
       "ID": 2147483643,
-      "Title": "People and self",
-      "Articles": [
-        {
-          "ID": 4238,
-          "Title": "𐌴𐌾𐌽 𐍂𐌰𐌽𐌳"
-        },
-        {
-          "ID": 6515,
-          "Title": "𐌻𐌿𐍅𐌹𐍃 𐌺𐌰𐍂𐌰𐌿𐌻"
-        }
-      ]
+      "Title": "People and self"
     },
     {
       "ID": 2147483644,
-      "Title": "Philosophy and thinking",
-      "Articles": [
-        {
-          "ID": 5905,
-          "Title": "𐌲𐌰𐌻𐌰𐌿𐌱𐌴𐌹𐌽𐍃"
-        }
-      ]
+      "Title": "Philosophy and thinking"
     },
     {
       "ID": 2147483645,
@@ -91,17 +55,7 @@
     },
     {
       "ID": 2147483646,
-      "Title": "Society and social sciences",
-      "Articles": [
-        {
-          "ID": 4097,
-          "Title": "𐌰𐌹𐍅𐍂𐍉𐍀𐌹𐍃𐌺𐌰 𐌿𐌽𐌾𐍉"
-        },
-        {
-          "ID": 6410,
-          "Title": "𐍄𐍃𐌾𐌹𐌻𐌴𐌹"
-        }
-      ]
+      "Title": "Society and social sciences"
     },
     {
       "ID": 2147483647,
@@ -110,12 +64,6 @@
         {
           "ID": 2496,
           "Title": "𐌷𐌰𐌽𐍃𐌰:𐍄𐌴𐌺𐌽𐍉𐌻𐍉𐌲𐌹𐌴"
-        }
-      ],
-      "Articles": [
-        {
-          "ID": 4841,
-          "Title": "𐌺𐌹𐌲𐌲𐍅𐌰𐌵𐌹𐌸𐍉"
         }
       ]
     }

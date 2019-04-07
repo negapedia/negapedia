@@ -6,34 +6,36 @@
       "Title": "Culture and the arts",
       "Categories": [
         {
+          "ID": 2471,
+          "Title": "Categoría:Cultura"
+        },
+        {
           "ID": 2111,
           "Title": "Categoría:Deporte"
         },
         {
-          "ID": 2115,
-          "Title": "Categoría:Gastronomia"
-        },
-        {
-          "ID": 2121,
-          "Title": "Categoría:Ocio"
+          "ID": 2093,
+          "Title": "Categoría:Educacion"
         },
         {
           "ID": 2382,
           "Title": "Categoría:El Artes"
         },
         {
-          "ID": 2471,
-          "Title": "Categoría:Cultura"
-        }
-      ],
-      "Articles": [
-        {
-          "ID": 2502,
-          "Title": "El Palacio de Buckingham"
+          "ID": 2115,
+          "Title": "Categoría:Gastronomia"
         },
         {
-          "ID": 7429,
-          "Title": "Wikipedia"
+          "ID": 2117,
+          "Title": "Categoría:Literatura"
+        },
+        {
+          "ID": 2118,
+          "Title": "Categoría:Musica"
+        },
+        {
+          "ID": 2121,
+          "Title": "Categoría:Ocio"
         }
       ]
     },
@@ -44,20 +46,10 @@
         {
           "ID": 2095,
           "Title": "Categoría:Geografia"
-        }
-      ],
-      "Articles": [
-        {
-          "ID": 19340,
-          "Title": "Paris"
         },
         {
-          "ID": 21061,
-          "Title": "Australia"
-        },
-        {
-          "ID": 21289,
-          "Title": "Birmania"
+          "ID": 1656,
+          "Title": "Categoría:Maga Nacion del Mundo"
         }
       ]
     },
@@ -90,30 +82,38 @@
       "Title": "Nature and physical sciences",
       "Categories": [
         {
+          "ID": 2360,
+          "Title": "Categoría:Ciencia"
+        },
+        {
           "ID": 2084,
           "Title": "Categoría:Fisica"
         },
         {
           "ID": 2088,
           "Title": "Categoría:Quimica"
-        },
-        {
-          "ID": 2360,
-          "Title": "Categoría:Ciencia"
         }
       ]
     },
     {
       "ID": 2147483643,
       "Title": "People and self",
-      "Articles": [
+      "Categories": [
         {
-          "ID": 7635,
-          "Title": "Adolf Hitler"
+          "ID": 19132,
+          "Title": "Categoría:Escritores"
         },
         {
-          "ID": 18833,
-          "Title": "Galileo Galilei"
+          "ID": 19138,
+          "Title": "Categoría:Fallecidos por año"
+        },
+        {
+          "ID": 19137,
+          "Title": "Categoría:Nacidos por año"
+        },
+        {
+          "ID": 7432,
+          "Title": "Categoría:Politicos"
         }
       ]
     },
@@ -146,26 +146,12 @@
           "Title": "Categoría:Derecho"
         },
         {
+          "ID": 2099,
+          "Title": "Categoría:Psicologia"
+        },
+        {
           "ID": 2119,
           "Title": "Categoría:Sociedad"
-        }
-      ],
-      "Articles": [
-        {
-          "ID": 2043,
-          "Title": "Unión Europea"
-        },
-        {
-          "ID": 2545,
-          "Title": "Chile"
-        },
-        {
-          "ID": 21078,
-          "Title": "Barbados"
-        },
-        {
-          "ID": 21124,
-          "Title": "Irán"
         }
       ]
     },
@@ -174,12 +160,12 @@
       "Title": "Technology and applied sciences",
       "Categories": [
         {
-          "ID": 2105,
-          "Title": "Categoría:Tecnologia"
-        },
-        {
           "ID": 7436,
           "Title": "Categoría:Internet"
+        },
+        {
+          "ID": 2105,
+          "Title": "Categoría:Tecnologia"
         }
       ]
     }

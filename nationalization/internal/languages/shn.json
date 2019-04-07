@@ -4,26 +4,16 @@
     {
       "ID": 2147483637,
       "Title": "Culture and the arts",
-      "Articles": [
+      "Categories": [
         {
-          "ID": 415,
-          "Title": "ပပ်ႉသႅၼ်သမ်ႇ"
-        },
-        {
-          "ID": 918,
-          "Title": "ဝီႇၶီႇၽီးတီးယႃး"
+          "ID": 5901,
+          "Title": "ပိူင်ထၢၼ်ႈ:ပၢႆးပႆႇၺႃႇ"
         }
       ]
     },
     {
       "ID": 2147483638,
-      "Title": "Geography and places",
-      "Articles": [
-        {
-          "ID": 568,
-          "Title": "မိူင်းမၢၼ်ႈ"
-        }
-      ]
+      "Title": "Geography and places"
     },
     {
       "ID": 2147483639,
@@ -43,7 +33,13 @@
     },
     {
       "ID": 2147483643,
-      "Title": "People and self"
+      "Title": "People and self",
+      "Categories": [
+        {
+          "ID": 5895,
+          "Title": "ပိူင်ထၢၼ်ႈ:ၵူၼ်းၸိူဝ်းတိုၵ်ႉမီးဢႃႇယု"
+        }
+      ]
     },
     {
       "ID": 2147483644,

@@ -10,18 +10,32 @@
           "Title": "Categorie:Arte"
         },
         {
-          "ID": 4018,
-          "Title": "Categorie:Sport"
+          "ID": 4775,
+          "Title": "Categorie:Conossentie"
         },
         {
           "ID": 9264,
           "Title": "Categorie:Cultura"
-        }
-      ],
-      "Articles": [
+        },
         {
-          "ID": 3987,
-          "Title": "Wikipedia"
+          "ID": 4776,
+          "Title": "Categorie:Education"
+        },
+        {
+          "ID": 4022,
+          "Title": "Categorie:Litteratura"
+        },
+        {
+          "ID": 9231,
+          "Title": "Categorie:Musica"
+        },
+        {
+          "ID": 4777,
+          "Title": "Categorie:Omnidial vive"
+        },
+        {
+          "ID": 4018,
+          "Title": "Categorie:Sport"
         }
       ]
     },
@@ -30,30 +44,20 @@
       "Title": "Geography and places",
       "Categories": [
         {
+          "ID": 9232,
+          "Title": "Categorie:Cités"
+        },
+        {
+          "ID": 3054,
+          "Title": "Categorie:Fluvies"
+        },
+        {
           "ID": 2296,
           "Title": "Categorie:Geografie"
-        }
-      ],
-      "Articles": [
-        {
-          "ID": 2202,
-          "Title": "Australia"
         },
         {
-          "ID": 2991,
-          "Title": "Myanmar"
-        },
-        {
-          "ID": 3853,
-          "Title": "Paris"
-        },
-        {
-          "ID": 5568,
-          "Title": "Canberra"
-        },
-        {
-          "ID": 6506,
-          "Title": "Venezia"
+          "ID": 2293,
+          "Title": "Categorie:Landes"
         }
       ]
     },
@@ -66,18 +70,8 @@
       "Title": "History and events",
       "Categories": [
         {
-          "ID": 4765,
-          "Title": "Categorie:Social scienties"
-        },
-        {
           "ID": 5723,
           "Title": "Categorie:Historie"
-        }
-      ],
-      "Articles": [
-        {
-          "ID": 8268,
-          "Title": "Donald Trump"
         }
       ]
     },
@@ -100,18 +94,8 @@
           "Title": "Categorie:Scientie"
         },
         {
-          "ID": 4775,
-          "Title": "Categorie:Conossentie"
-        }
-      ],
-      "Articles": [
-        {
-          "ID": 4655,
-          "Title": "Foy"
-        },
-        {
-          "ID": 6228,
-          "Title": "Pénis"
+          "ID": 6058,
+          "Title": "Categorie:Zoologie"
         }
       ]
     },
@@ -120,22 +104,16 @@
       "Title": "People and self",
       "Categories": [
         {
-          "ID": 4777,
-          "Title": "Categorie:Omnidial vive"
-        }
-      ],
-      "Articles": [
-        {
-          "ID": 1845,
-          "Title": "Galileo Galilei"
+          "ID": 8555,
+          "Title": "Categorie:Actores"
         },
         {
-          "ID": 4000,
-          "Title": "Adolf Hitler"
+          "ID": 4027,
+          "Title": "Categorie:Autores"
         },
         {
-          "ID": 5587,
-          "Title": "Lewis Carroll"
+          "ID": 4595,
+          "Title": "Categorie:Presidentes"
         }
       ]
     },
@@ -164,34 +142,20 @@
       "Title": "Society and social sciences",
       "Categories": [
         {
-          "ID": 3469,
-          "Title": "Categorie:Societá"
+          "ID": 7278,
+          "Title": "Categorie:International Organisationes"
+        },
+        {
+          "ID": 4769,
+          "Title": "Categorie:Psichologie"
         },
         {
           "ID": 4765,
           "Title": "Categorie:Social scienties"
         },
         {
-          "ID": 7278,
-          "Title": "Categorie:International Organisationes"
-        }
-      ],
-      "Articles": [
-        {
-          "ID": 126,
-          "Title": "Europan Union"
-        },
-        {
-          "ID": 2979,
-          "Title": "Iran"
-        },
-        {
-          "ID": 3886,
-          "Title": "Chile"
-        },
-        {
-          "ID": 8591,
-          "Title": "Barbados"
+          "ID": 3469,
+          "Title": "Categorie:Societá"
         }
       ]
     },
@@ -200,16 +164,16 @@
       "Title": "Technology and applied sciences",
       "Categories": [
         {
-          "ID": 3471,
-          "Title": "Categorie:Technologie"
-        },
-        {
           "ID": 5446,
           "Title": "Categorie:Informatica"
         },
         {
           "ID": 7098,
           "Title": "Categorie:Internet"
+        },
+        {
+          "ID": 3471,
+          "Title": "Categorie:Technologie"
         }
       ]
     }

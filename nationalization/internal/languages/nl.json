@@ -6,598 +6,236 @@
       "Title": "Culture and the arts",
       "Categories": [
         {
-          "ID": 63472,
-          "Title": "Categorie:Kunst"
+          "ID": 104217,
+          "Title": "Categorie:Amusement"
         },
         {
-          "ID": 63604,
-          "Title": "Categorie:Sport"
+          "ID": 171555,
+          "Title": "Categorie:Biografie"
         },
         {
-          "ID": 64029,
-          "Title": "Categorie:Kleur"
+          "ID": 63398,
+          "Title": "Categorie:Boek"
+        },
+        {
+          "ID": 1090631,
+          "Title": "Categorie:Boek naar schrijver"
+        },
+        {
+          "ID": 71860,
+          "Title": "Categorie:Bordspel"
+        },
+        {
+          "ID": 71990,
+          "Title": "Categorie:Compositie"
+        },
+        {
+          "ID": 1852925,
+          "Title": "Categorie:Computerspel"
         },
         {
           "ID": 66068,
           "Title": "Categorie:Cultuur"
         },
         {
-          "ID": 66072,
-          "Title": "Categorie:Voeding"
+          "ID": 765407,
+          "Title": "Categorie:Cultuur naar land"
         },
         {
-          "ID": 67269,
-          "Title": "Categorie:Lichaamsbeweging"
+          "ID": 738070,
+          "Title": "Categorie:Dagelijks leven"
         },
         {
-          "ID": 68304,
-          "Title": "Categorie:Recreatie"
+          "ID": 64218,
+          "Title": "Categorie:Encyclopedie"
         },
         {
-          "ID": 83860,
-          "Title": "Categorie:Gerecht"
+          "ID": 63734,
+          "Title": "Categorie:Festival"
         },
         {
-          "ID": 104217,
-          "Title": "Categorie:Amusement"
+          "ID": 91612,
+          "Title": "Categorie:Fictie"
         },
         {
-          "ID": 116261,
-          "Title": "Categorie:Kooktechniek"
+          "ID": 89388,
+          "Title": "Categorie:Fictief wezen"
         },
         {
-          "ID": 194158,
-          "Title": "Categorie:Schrift"
+          "ID": 1666811,
+          "Title": "Categorie:Fictieve locatie"
         },
         {
-          "ID": 197208,
-          "Title": "Categorie:Vrije tijd"
-        },
-        {
-          "ID": 464694,
-          "Title": "Categorie:Voedselbereiding"
-        },
-        {
-          "ID": 1702982,
-          "Title": "Categorie:Voedsel"
+          "ID": 66834,
+          "Title": "Categorie:Folklore"
         },
         {
           "ID": 1833678,
           "Title": "Categorie:Gastronomie"
         },
         {
+          "ID": 4370359,
+          "Title": "Categorie:Gender"
+        },
+        {
+          "ID": 83860,
+          "Title": "Categorie:Gerecht"
+        },
+        {
+          "ID": 5059228,
+          "Title": "Categorie:Gerecht naar ingrediënt"
+        },
+        {
+          "ID": 67130,
+          "Title": "Categorie:Goochelen"
+        },
+        {
+          "ID": 1526313,
+          "Title": "Categorie:Hekserij"
+        },
+        {
+          "ID": 1423070,
+          "Title": "Categorie:Internetcultuur"
+        },
+        {
+          "ID": 64029,
+          "Title": "Categorie:Kleur"
+        },
+        {
+          "ID": 116261,
+          "Title": "Categorie:Kooktechniek"
+        },
+        {
+          "ID": 63943,
+          "Title": "Categorie:Krant"
+        },
+        {
+          "ID": 63472,
+          "Title": "Categorie:Kunst"
+        },
+        {
+          "ID": 67269,
+          "Title": "Categorie:Lichaamsbeweging"
+        },
+        {
+          "ID": 63529,
+          "Title": "Categorie:Literatuur"
+        },
+        {
+          "ID": 1824433,
+          "Title": "Categorie:Magie"
+        },
+        {
+          "ID": 63474,
+          "Title": "Categorie:Muziek"
+        },
+        {
+          "ID": 64048,
+          "Title": "Categorie:Muziekgenre"
+        },
+        {
           "ID": 2310977,
           "Title": "Categorie:Muziekgroep"
+        },
+        {
+          "ID": 80081,
+          "Title": "Categorie:Naslagwerk"
+        },
+        {
+          "ID": 63505,
+          "Title": "Categorie:Onderwijs"
+        },
+        {
+          "ID": 63473,
+          "Title": "Categorie:Podiumkunsten"
+        },
+        {
+          "ID": 5051634,
+          "Title": "Categorie:Popcultuur"
+        },
+        {
+          "ID": 572927,
+          "Title": "Categorie:Professioneel worstelen"
+        },
+        {
+          "ID": 81792,
+          "Title": "Categorie:Radiozender"
+        },
+        {
+          "ID": 68304,
+          "Title": "Categorie:Recreatie"
+        },
+        {
+          "ID": 66007,
+          "Title": "Categorie:Schilderij"
+        },
+        {
+          "ID": 194158,
+          "Title": "Categorie:Schrift"
+        },
+        {
+          "ID": 3842681,
+          "Title": "Categorie:Secularisme"
+        },
+        {
+          "ID": 1586380,
+          "Title": "Categorie:Sekse"
+        },
+        {
+          "ID": 63352,
+          "Title": "Categorie:Seksualiteit"
+        },
+        {
+          "ID": 196608,
+          "Title": "Categorie:Seksuele handeling"
+        },
+        {
+          "ID": 63604,
+          "Title": "Categorie:Sport"
         },
         {
           "ID": 4917634,
           "Title": "Categorie:Sport naar type"
         },
         {
-          "ID": 5059228,
-          "Title": "Categorie:Gerecht naar ingrediënt"
-        }
-      ],
-      "Articles": [
-        {
-          "ID": 437,
-          "Title": "Encyclopedie"
-        },
-        {
-          "ID": 959,
-          "Title": "Koffie"
-        },
-        {
-          "ID": 1538,
-          "Title": "Realisme (kunststroming)"
-        },
-        {
-          "ID": 1869,
-          "Title": "Wikipedia"
-        },
-        {
-          "ID": 3347,
-          "Title": "Pasta (deegwaar)"
-        },
-        {
-          "ID": 7196,
-          "Title": "Muziekensemble"
-        },
-        {
-          "ID": 9424,
-          "Title": "Orale seks"
-        },
-        {
-          "ID": 10251,
-          "Title": "Buckingham Palace"
-        },
-        {
-          "ID": 14688,
-          "Title": "Chocolade"
-        },
-        {
-          "ID": 14689,
-          "Title": "Chocolademelk"
-        },
-        {
-          "ID": 16579,
-          "Title": "Brood"
-        },
-        {
-          "ID": 18437,
-          "Title": "Fellatio"
-        },
-        {
-          "ID": 19196,
-          "Title": "Ei (voeding)"
-        },
-        {
-          "ID": 19198,
-          "Title": "Ei (dier)"
-        },
-        {
-          "ID": 29963,
-          "Title": "The World Factbook"
-        },
-        {
-          "ID": 33518,
-          "Title": "Band"
-        },
-        {
-          "ID": 34065,
-          "Title": "Bigfoot (cryptide)"
-        },
-        {
-          "ID": 38476,
-          "Title": "Appelmoes"
-        },
-        {
-          "ID": 39904,
-          "Title": "Celibaat"
-        },
-        {
-          "ID": 41566,
-          "Title": "Zuurdesem"
-        },
-        {
-          "ID": 41728,
-          "Title": "Pizza"
-        },
-        {
-          "ID": 44602,
-          "Title": "Monster van Loch Ness"
-        },
-        {
-          "ID": 47363,
-          "Title": "Pindakaas"
-        },
-        {
-          "ID": 47627,
-          "Title": "Pils"
-        },
-        {
-          "ID": 50922,
-          "Title": "Aqua (danceact)"
-        },
-        {
-          "ID": 56712,
-          "Title": "Cacaoboom"
-        },
-        {
-          "ID": 59799,
-          "Title": "Led Zeppelin"
-        },
-        {
-          "ID": 69276,
-          "Title": "Roomijs"
-        },
-        {
-          "ID": 77956,
-          "Title": "Consumptie-ijs"
-        },
-        {
-          "ID": 78104,
-          "Title": "Ham (vlees)"
-        },
-        {
-          "ID": 80477,
-          "Title": "Green Day"
-        },
-        {
-          "ID": 84794,
-          "Title": "AC/DC"
-        },
-        {
-          "ID": 85908,
-          "Title": "Koffieplant"
-        },
-        {
-          "ID": 95419,
-          "Title": "Regionalisme (politiek)"
-        },
-        {
-          "ID": 96474,
-          "Title": "Gehakt"
-        },
-        {
-          "ID": 98415,
-          "Title": "Spook"
-        },
-        {
-          "ID": 98647,
-          "Title": "Spek"
-        },
-        {
-          "ID": 101842,
-          "Title": "Saus"
-        },
-        {
-          "ID": 111358,
-          "Title": "Slee"
-        },
-        {
-          "ID": 114791,
-          "Title": "Streetdance"
-        },
-        {
-          "ID": 117870,
-          "Title": "Zweinstein"
-        },
-        {
-          "ID": 146108,
-          "Title": "Taart"
-        },
-        {
-          "ID": 159197,
-          "Title": "Duizendjarig ei"
-        },
-        {
-          "ID": 160981,
-          "Title": "Lijst van alcoholische dranken"
-        },
-        {
-          "ID": 168077,
-          "Title": "Varkensvlees"
-        },
-        {
-          "ID": 177154,
-          "Title": "XXXX"
-        },
-        {
-          "ID": 185209,
-          "Title": "Realisme"
-        },
-        {
-          "ID": 185213,
-          "Title": "Realisme (filosofie)"
-        },
-        {
-          "ID": 200496,
-          "Title": "Roti (gerecht)"
-        },
-        {
-          "ID": 206672,
-          "Title": "Kaakje"
-        },
-        {
-          "ID": 207177,
-          "Title": "Franse keuken"
-        },
-        {
-          "ID": 224243,
-          "Title": "Babi pangang"
-        },
-        {
-          "ID": 240792,
-          "Title": "Sgt. Pepper's Lonely Hearts Club Band"
-        },
-        {
-          "ID": 255094,
-          "Title": "Kaassoufflé"
-        },
-        {
-          "ID": 255508,
-          "Title": "Fries suikerbrood"
-        },
-        {
-          "ID": 258767,
-          "Title": "Dinosaur Jr."
-        },
-        {
-          "ID": 259679,
-          "Title": "Scheepsbeschuit"
-        },
-        {
-          "ID": 259993,
-          "Title": "Hotdog"
-        },
-        {
-          "ID": 270199,
-          "Title": "Boterletter"
-        },
-        {
-          "ID": 273345,
-          "Title": "Tomatensoep"
-        },
-        {
-          "ID": 293438,
-          "Title": "Taco"
-        },
-        {
-          "ID": 296911,
-          "Title": "Witte chocolade"
-        },
-        {
-          "ID": 301601,
-          "Title": "Werkelijkheid"
-        },
-        {
-          "ID": 306476,
-          "Title": "Naslagwerk"
-        },
-        {
-          "ID": 308032,
-          "Title": "Mordred"
-        },
-        {
-          "ID": 311257,
-          "Title": "Echte zwijnen"
-        },
-        {
-          "ID": 311302,
-          "Title": "Chocoladevlokken"
-        },
-        {
-          "ID": 359118,
-          "Title": "Rauwkost"
-        },
-        {
-          "ID": 368778,
-          "Title": "Alcoholvrij bier"
-        },
-        {
-          "ID": 398248,
-          "Title": "Muziekgroep"
-        },
-        {
-          "ID": 415364,
-          "Title": "Volkorenbrood"
-        },
-        {
-          "ID": 418265,
-          "Title": "Ash Ketchum"
-        },
-        {
-          "ID": 421968,
-          "Title": "Candybar (snoep)"
-        },
-        {
-          "ID": 435655,
-          "Title": "Rockband"
-        },
-        {
-          "ID": 448742,
-          "Title": "Bacon (vlees)"
-        },
-        {
-          "ID": 518266,
-          "Title": "M\u0026M's"
-        },
-        {
-          "ID": 545352,
-          "Title": "Kuisheid"
-        },
-        {
-          "ID": 556036,
-          "Title": "WWE Championship"
-        },
-        {
-          "ID": 574349,
-          "Title": "Koekje"
-        },
-        {
-          "ID": 592157,
-          "Title": "Lijst van Franse gerechten"
-        },
-        {
-          "ID": 701621,
-          "Title": "Tijgerbrood"
-        },
-        {
-          "ID": 709405,
-          "Title": "Pastırma"
-        },
-        {
-          "ID": 852744,
-          "Title": "Pecorino"
-        },
-        {
-          "ID": 982818,
-          "Title": "Lijst van locaties in Harry Potter"
-        },
-        {
-          "ID": 1018406,
-          "Title": "Rijstepap"
-        },
-        {
-          "ID": 1149085,
-          "Title": "Magische wezens in de Harry Potter-reeks"
-        },
-        {
-          "ID": 1199686,
-          "Title": "Nurungji"
-        },
-        {
-          "ID": 1242428,
-          "Title": "Realisme (literatuur)"
-        },
-        {
-          "ID": 1254536,
-          "Title": "Gemberbier"
-        },
-        {
-          "ID": 1329106,
-          "Title": "Varken (tam)"
-        },
-        {
-          "ID": 1355719,
-          "Title": "Tomatensaus"
-        },
-        {
-          "ID": 1387969,
-          "Title": "Poet chaj koow"
-        },
-        {
-          "ID": 1400087,
-          "Title": "Bier"
-        },
-        {
-          "ID": 1533184,
-          "Title": "Cracker (voedsel)"
-        },
-        {
-          "ID": 1597548,
-          "Title": "Gebakken rijst"
-        },
-        {
-          "ID": 1615800,
-          "Title": "Sucker Punch"
-        },
-        {
-          "ID": 1718046,
-          "Title": "Wild zwijn"
-        },
-        {
-          "ID": 1777592,
-          "Title": "Gelukskoekje"
-        },
-        {
-          "ID": 1801843,
-          "Title": "Regionalisme"
-        },
-        {
-          "ID": 1857902,
-          "Title": "Gekookt ei"
-        },
-        {
-          "ID": 1910451,
-          "Title": "Yurei"
-        },
-        {
-          "ID": 1966703,
-          "Title": "Carbonara"
-        },
-        {
-          "ID": 1999636,
-          "Title": "Vogelnestje (eiergerecht)"
-        },
-        {
-          "ID": 2062362,
-          "Title": "The Wanted"
-        },
-        {
-          "ID": 2072642,
-          "Title": "Rock Band (computerspel)"
-        },
-        {
-          "ID": 2083956,
-          "Title": "Groundhog Day (feestdag)"
-        },
-        {
-          "ID": 2090845,
-          "Title": "Angry Birds (computerspel)"
-        },
-        {
-          "ID": 2133851,
-          "Title": "Bruidstaart"
-        },
-        {
-          "ID": 2165723,
-          "Title": "Judas (single)"
-        },
-        {
-          "ID": 2873096,
-          "Title": "Bigfoot"
-        },
-        {
-          "ID": 2991417,
-          "Title": "Angry Birds Seasons"
-        },
-        {
-          "ID": 2991419,
-          "Title": "Angry Birds Rio"
-        },
-        {
-          "ID": 3882032,
-          "Title": "Pitepalt"
-        },
-        {
-          "ID": 3903969,
-          "Title": "Flappy Bird"
-        },
-        {
-          "ID": 3957767,
-          "Title": "Angry Birds"
-        },
-        {
-          "ID": 4111168,
-          "Title": "PK (film)"
-        },
-        {
-          "ID": 4333218,
-          "Title": "Spiegelei"
-        },
-        {
-          "ID": 4346192,
-          "Title": "Charlie Charlie Challenge"
-        },
-        {
-          "ID": 4439106,
-          "Title": "Chicken tikka masala"
-        },
-        {
-          "ID": 4465009,
-          "Title": "Welshe Wikipedia"
-        },
-        {
-          "ID": 4571215,
-          "Title": "Eurovisiesongfestival 2017"
+          "ID": 63957,
+          "Title": "Categorie:Televisie"
         },
         {
-          "ID": 4807101,
-          "Title": "Tapbier"
+          "ID": 63946,
+          "Title": "Categorie:Tijdschrift"
         },
         {
-          "ID": 4816284,
-          "Title": "Eurovisiesongfestival 2018"
+          "ID": 610571,
+          "Title": "Categorie:Virtuele gemeenschap"
         },
         {
-          "ID": 4826431,
-          "Title": "Pizza Hawaï"
+          "ID": 66072,
+          "Title": "Categorie:Voeding"
         },
         {
-          "ID": 4826987,
-          "Title": "Warme chocolademelk"
+          "ID": 1702982,
+          "Title": "Categorie:Voedsel"
         },
         {
-          "ID": 4838779,
-          "Title": "Bitter (bier)"
+          "ID": 464694,
+          "Title": "Categorie:Voedselbereiding"
         },
         {
-          "ID": 4944943,
-          "Title": "Bejeweled"
+          "ID": 197208,
+          "Title": "Categorie:Vrije tijd"
         },
         {
-          "ID": 5082290,
-          "Title": "Cacaomassa"
+          "ID": 116886,
+          "Title": "Categorie:Wedstrijd"
         },
         {
-          "ID": 5116867,
-          "Title": "Pastei"
+          "ID": 1506177,
+          "Title": "Categorie:Werk naar auteur"
         },
         {
-          "ID": 5176228,
-          "Title": "Platbrood"
+          "ID": 233298,
+          "Title": "Categorie:Worstelen"
         }
       ]
     },
@@ -606,66 +244,76 @@
       "Title": "Geography and places",
       "Categories": [
         {
+          "ID": 2149875,
+          "Title": "Categorie:Bron"
+        },
+        {
           "ID": 63658,
           "Title": "Categorie:Geografie"
         },
         {
-          "ID": 140853,
-          "Title": "Categorie:Stedenbouwkunde"
-        },
-        {
-          "ID": 226089,
-          "Title": "Categorie:Monument"
-        },
-        {
-          "ID": 311672,
-          "Title": "Categorie:Planologie"
+          "ID": 1690942,
+          "Title": "Categorie:Geografielijsten"
         },
         {
           "ID": 482136,
           "Title": "Categorie:Geomorfologie"
         },
         {
-          "ID": 1690942,
-          "Title": "Categorie:Geografielijsten"
-        }
-      ],
-      "Articles": [
-        {
-          "ID": 1323,
-          "Title": "Parijs"
+          "ID": 63276,
+          "Title": "Categorie:Land"
         },
         {
-          "ID": 10402,
-          "Title": "Venetië (stad)"
+          "ID": 226089,
+          "Title": "Categorie:Monument"
         },
         {
-          "ID": 13620,
-          "Title": "Myanmar"
+          "ID": 78893,
+          "Title": "Categorie:Paleis"
         },
         {
-          "ID": 26972,
-          "Title": "Australië (land)"
+          "ID": 129055,
+          "Title": "Categorie:Plaats"
         },
         {
-          "ID": 29418,
-          "Title": "Queensland"
+          "ID": 1779212,
+          "Title": "Categorie:Plaats naar land"
         },
         {
-          "ID": 29634,
-          "Title": "Canberra"
+          "ID": 311672,
+          "Title": "Categorie:Planologie"
         },
         {
-          "ID": 77219,
-          "Title": "Piramide (bouwwerk)"
+          "ID": 63708,
+          "Title": "Categorie:Rivier"
         },
         {
-          "ID": 1032238,
-          "Title": "Carlsbad (New Mexico)"
+          "ID": 80396,
+          "Title": "Categorie:Staat"
         },
         {
-          "ID": 1434816,
-          "Title": "Mens"
+          "ID": 63511,
+          "Title": "Categorie:Stad"
+        },
+        {
+          "ID": 140853,
+          "Title": "Categorie:Stedenbouwkunde"
+        },
+        {
+          "ID": 668798,
+          "Title": "Categorie:Straat"
+        },
+        {
+          "ID": 4048803,
+          "Title": "Categorie:Territorium (deelgebied)"
+        },
+        {
+          "ID": 80417,
+          "Title": "Categorie:Uitvoerende macht"
+        },
+        {
+          "ID": 67660,
+          "Title": "Categorie:Weg"
         }
       ]
     },
@@ -674,42 +322,40 @@
       "Title": "Health and fitness",
       "Categories": [
         {
+          "ID": 93346,
+          "Title": "Categorie:Erfelijke aandoening"
+        },
+        {
           "ID": 63397,
           "Title": "Categorie:Geneeskunde"
-        },
-        {
-          "ID": 67421,
-          "Title": "Categorie:Gezondheidszorg"
-        },
-        {
-          "ID": 80097,
-          "Title": "Categorie:Gezondheid"
         },
         {
           "ID": 93115,
           "Title": "Categorie:Geneeskundig specialisme"
         },
         {
-          "ID": 93346,
-          "Title": "Categorie:Erfelijke aandoening"
+          "ID": 80097,
+          "Title": "Categorie:Gezondheid"
+        },
+        {
+          "ID": 67421,
+          "Title": "Categorie:Gezondheidszorg"
         },
         {
           "ID": 124302,
           "Title": "Categorie:Hygiëne"
         },
         {
+          "ID": 1761439,
+          "Title": "Categorie:Lichaamsverzorging"
+        },
+        {
           "ID": 623852,
           "Title": "Categorie:Medisch beroep"
         },
         {
-          "ID": 1761439,
-          "Title": "Categorie:Lichaamsverzorging"
-        }
-      ],
-      "Articles": [
-        {
-          "ID": 5083247,
-          "Title": "Autonomous sensory meridian response"
+          "ID": 1295199,
+          "Title": "Categorie:Verpleegkunde"
         }
       ]
     },
@@ -718,82 +364,48 @@
       "Title": "History and events",
       "Categories": [
         {
+          "ID": 4812818,
+          "Title": "Categorie:Gebeurtenis"
+        },
+        {
           "ID": 63562,
           "Title": "Categorie:Geschiedenis"
-        },
-        {
-          "ID": 72308,
-          "Title": "Categorie:Sociale wetenschap"
-        },
-        {
-          "ID": 80491,
-          "Title": "Categorie:Geschiedenis naar plaats"
-        },
-        {
-          "ID": 1582541,
-          "Title": "Categorie:Verkiezingen naar jaar"
         },
         {
           "ID": 1685925,
           "Title": "Categorie:Geschiedenis naar land"
         },
         {
-          "ID": 4812818,
-          "Title": "Categorie:Gebeurtenis"
-        }
-      ],
-      "Articles": [
-        {
-          "ID": 2021,
-          "Title": "Aanslagen op 11 september 2001"
+          "ID": 80491,
+          "Title": "Categorie:Geschiedenis naar plaats"
         },
         {
-          "ID": 10483,
-          "Title": "Trojaanse Oorlog"
+          "ID": 563863,
+          "Title": "Categorie:Geschiedenis van de techniek"
         },
         {
-          "ID": 37054,
-          "Title": "Geschiedenis van het periodiek systeem"
+          "ID": 63578,
+          "Title": "Categorie:Oorlog"
         },
         {
-          "ID": 49898,
-          "Title": "Holocaustontkenning"
+          "ID": 2297181,
+          "Title": "Categorie:Politieke geschiedenis"
         },
         {
-          "ID": 52648,
-          "Title": "Donald Trump"
+          "ID": 68079,
+          "Title": "Categorie:Revolutie"
         },
         {
-          "ID": 1536140,
-          "Title": "Amerikaanse presidentsverkiezingen 2012"
+          "ID": 1062985,
+          "Title": "Categorie:Themadag of themaweek"
         },
         {
-          "ID": 1875347,
-          "Title": "Prairie-indianen"
+          "ID": 1582541,
+          "Title": "Categorie:Verkiezingen naar jaar"
         },
         {
-          "ID": 1900972,
-          "Title": "Olieramp in de Golf van Mexico 2010"
-        },
-        {
-          "ID": 2136025,
-          "Title": "Zeebeving Sendai 2011"
-        },
-        {
-          "ID": 2874816,
-          "Title": "Schietpartij in Aurora"
-        },
-        {
-          "ID": 2991391,
-          "Title": "Bappir"
-        },
-        {
-          "ID": 3049896,
-          "Title": "Coup (indianen)"
-        },
-        {
-          "ID": 4582980,
-          "Title": "Schietpartij in Orlando"
+          "ID": 185910,
+          "Title": "Categorie:Zaak van het Hooggerechtshof van de VS"
         }
       ]
     },
@@ -802,30 +414,28 @@
       "Title": "Mathematics and logic",
       "Categories": [
         {
-          "ID": 63315,
-          "Title": "Categorie:Wiskunde"
-        },
-        {
-          "ID": 70121,
-          "Title": "Categorie:Statistiek"
+          "ID": 73074,
+          "Title": "Categorie:Eenheid"
         },
         {
           "ID": 81303,
           "Title": "Categorie:Logica"
         },
         {
+          "ID": 70121,
+          "Title": "Categorie:Statistiek"
+        },
+        {
           "ID": 302435,
           "Title": "Categorie:Theoretische informatica"
         },
         {
+          "ID": 63315,
+          "Title": "Categorie:Wiskunde"
+        },
+        {
           "ID": 2986591,
           "Title": "Categorie:Wiskunde naar deelgebied"
-        }
-      ],
-      "Articles": [
-        {
-          "ID": 11108,
-          "Title": "Lengte (meetkunde)"
         }
       ]
     },
@@ -834,346 +444,72 @@
       "Title": "Nature and physical sciences",
       "Categories": [
         {
-          "ID": 63337,
-          "Title": "Categorie:Natuurkunde"
+          "ID": 652813,
+          "Title": "Categorie:Aarde"
         },
         {
-          "ID": 63432,
-          "Title": "Categorie:Scheikunde"
-        },
-        {
-          "ID": 63433,
-          "Title": "Categorie:Exacte wetenschap"
+          "ID": 63353,
+          "Title": "Categorie:Anatomie"
         },
         {
           "ID": 63456,
           "Title": "Categorie:Chemische stof"
         },
         {
-          "ID": 63481,
-          "Title": "Categorie:Wetenschap"
+          "ID": 877730,
+          "Title": "Categorie:Dierenrijk"
+        },
+        {
+          "ID": 67166,
+          "Title": "Categorie:Ecologie"
+        },
+        {
+          "ID": 63433,
+          "Title": "Categorie:Exacte wetenschap"
+        },
+        {
+          "ID": 67924,
+          "Title": "Categorie:Fruit"
+        },
+        {
+          "ID": 1387558,
+          "Title": "Categorie:Milieuwetenschappen"
         },
         {
           "ID": 68387,
           "Title": "Categorie:Natuur"
         },
         {
-          "ID": 72646,
-          "Title": "Categorie:Zoölogie"
-        },
-        {
-          "ID": 102006,
-          "Title": "Categorie:Ramp"
+          "ID": 63337,
+          "Title": "Categorie:Natuurkunde"
         },
         {
           "ID": 806654,
           "Title": "Categorie:Natuurwetenschappen"
         },
         {
-          "ID": 1387558,
-          "Title": "Categorie:Milieuwetenschappen"
-        }
-      ],
-      "Articles": [
-        {
-          "ID": 3341,
-          "Title": "Aziatische rijst"
-        },
-        {
-          "ID": 8209,
-          "Title": "Teelbal"
-        },
-        {
-          "ID": 9439,
-          "Title": "Masturbatie"
-        },
-        {
-          "ID": 9440,
-          "Title": "Geslachtsorgaan"
-        },
-        {
-          "ID": 15086,
-          "Title": "Urine"
-        },
-        {
-          "ID": 18314,
-          "Title": "Hydrologie"
-        },
-        {
-          "ID": 19128,
-          "Title": "Mayakalender"
-        },
-        {
-          "ID": 20224,
-          "Title": "Eland"
-        },
-        {
-          "ID": 20800,
-          "Title": "Mangifera"
-        },
-        {
-          "ID": 22875,
-          "Title": "Goudbes"
-        },
-        {
-          "ID": 27828,
-          "Title": "Spier (anatomie)"
-        },
-        {
-          "ID": 30734,
-          "Title": "Tomaat"
-        },
-        {
-          "ID": 33655,
-          "Title": "Complementaire kleur"
-        },
-        {
-          "ID": 41270,
-          "Title": "Tarwe"
-        },
-        {
-          "ID": 43888,
-          "Title": "Sinaasappel"
-        },
-        {
-          "ID": 44332,
-          "Title": "Citroen (vrucht)"
-        },
-        {
-          "ID": 44430,
-          "Title": "Mais"
-        },
-        {
-          "ID": 48708,
-          "Title": "Ananas"
-        },
-        {
-          "ID": 52122,
-          "Title": "Aardbei"
-        },
-        {
-          "ID": 53351,
-          "Title": "Kieming"
-        },
-        {
-          "ID": 67545,
-          "Title": "Vuur"
-        },
-        {
-          "ID": 70810,
-          "Title": "Bosaardbei"
-        },
-        {
-          "ID": 70871,
-          "Title": "Suikermeloen"
-        },
-        {
-          "ID": 92319,
-          "Title": "Bloemkool"
-        },
-        {
-          "ID": 98140,
-          "Title": "Waterkringloop"
-        },
-        {
-          "ID": 99010,
-          "Title": "Suspensie (scheikunde)"
-        },
-        {
-          "ID": 118327,
-          "Title": "Aartje"
-        },
-        {
-          "ID": 118357,
-          "Title": "Gewone tarwe"
-        },
-        {
-          "ID": 119853,
-          "Title": "Anaconda (slang)"
-        },
-        {
-          "ID": 121665,
-          "Title": "Kruisboomkikker"
-        },
-        {
-          "ID": 133077,
-          "Title": "Boomkikkers"
-        },
-        {
-          "ID": 144898,
-          "Title": "Tentakel"
-        },
-        {
-          "ID": 148999,
-          "Title": "Limoen"
-        },
-        {
-          "ID": 153035,
-          "Title": "Mirte"
-        },
-        {
-          "ID": 184352,
-          "Title": "Slingerapen"
-        },
-        {
-          "ID": 195399,
-          "Title": "Makreel"
-        },
-        {
-          "ID": 201640,
-          "Title": "Motorische zenuwcel"
-        },
-        {
-          "ID": 206315,
-          "Title": "Voedselketen"
-        },
-        {
-          "ID": 246795,
-          "Title": "Goudsnippen"
-        },
-        {
-          "ID": 261143,
-          "Title": "Kamelen"
-        },
-        {
-          "ID": 312530,
-          "Title": "Bewegingsapparaat"
-        },
-        {
-          "ID": 359989,
-          "Title": "Tomatillo"
-        },
-        {
-          "ID": 387550,
-          "Title": "Mango (soort)"
-        },
-        {
-          "ID": 398458,
-          "Title": "Reuzenpompoen"
-        },
-        {
-          "ID": 459676,
-          "Title": "Wolfspinnen"
-        },
-        {
-          "ID": 501347,
-          "Title": "Voedselweb"
-        },
-        {
-          "ID": 546454,
-          "Title": "Rood haar"
-        },
-        {
-          "ID": 639124,
-          "Title": "Urogenitaal stelsel"
-        },
-        {
-          "ID": 739283,
-          "Title": "Indische makreel"
-        },
-        {
-          "ID": 1073489,
-          "Title": "Anaconda"
-        },
-        {
-          "ID": 1205785,
-          "Title": "Kroonkafje"
-        },
-        {
-          "ID": 1405817,
-          "Title": "Kleefrijst"
-        },
-        {
-          "ID": 1434814,
-          "Title": "Penis"
-        },
-        {
-          "ID": 1559907,
-          "Title": "Meloen"
-        },
-        {
-          "ID": 1568912,
-          "Title": "Voortplantingssysteem"
-        },
-        {
-          "ID": 1818416,
-          "Title": "Oryza"
-        },
-        {
-          "ID": 1966416,
-          "Title": "Garrulus"
-        },
-        {
-          "ID": 1995898,
-          "Title": "Sula (geslacht)"
-        },
-        {
-          "ID": 1995951,
-          "Title": "Phoenicopterus"
-        },
-        {
-          "ID": 2012616,
-          "Title": "Haackgreerius miopus"
-        },
-        {
-          "ID": 2013251,
-          "Title": "Glaphyromorphus"
-        },
-        {
-          "ID": 2113162,
-          "Title": "Osmunda claytoniana"
-        },
-        {
-          "ID": 2270569,
-          "Title": "Kerstomaat"
-        },
-        {
-          "ID": 2435279,
-          "Title": "Scomber"
-        },
-        {
-          "ID": 2435538,
-          "Title": "Trachurus"
-        },
-        {
-          "ID": 2440310,
-          "Title": "Diplocrepis puniceus"
-        },
-        {
-          "ID": 2735974,
-          "Title": "Phoenix (geslacht)"
-        },
-        {
-          "ID": 2767904,
-          "Title": "Ophisaurus"
-        },
-        {
-          "ID": 2796984,
-          "Title": "Anaconda's"
-        },
-        {
-          "ID": 3024050,
-          "Title": "Menselijke penis"
+          "ID": 65915,
+          "Title": "Categorie:Plant"
         },
         {
-          "ID": 3969783,
-          "Title": "Iraanse rouwmees"
+          "ID": 245276,
+          "Title": "Categorie:Proteïne"
         },
         {
-          "ID": 4191926,
-          "Title": "Pantherinae"
+          "ID": 102006,
+          "Title": "Categorie:Ramp"
         },
         {
-          "ID": 4272553,
-          "Title": "Cantaloupe"
+          "ID": 63432,
+          "Title": "Categorie:Scheikunde"
         },
         {
-          "ID": 4606955,
-          "Title": "Menselijk spierstelsel"
+          "ID": 63481,
+          "Title": "Categorie:Wetenschap"
         },
         {
-          "ID": 5085625,
-          "Title": "Rijst"
+          "ID": 72646,
+          "Title": "Categorie:Zoölogie"
         }
       ]
     },
@@ -1186,234 +522,108 @@
           "Title": "Categorie:Achternaam"
         },
         {
-          "ID": 171555,
-          "Title": "Categorie:Biografie"
+          "ID": 64023,
+          "Title": "Categorie:Acteur"
         },
         {
-          "ID": 738070,
-          "Title": "Categorie:Dagelijks leven"
-        },
-        {
-          "ID": 1677948,
-          "Title": "Categorie:Persoon"
-        },
-        {
-          "ID": 1691630,
-          "Title": "Categorie:Personage uit film"
+          "ID": 67268,
+          "Title": "Categorie:Architect"
         },
         {
           "ID": 4849992,
           "Title": "Categorie:Biograaf"
         },
         {
+          "ID": 67475,
+          "Title": "Categorie:Filmacteur"
+        },
+        {
+          "ID": 64379,
+          "Title": "Categorie:Filosoof"
+        },
+        {
+          "ID": 67357,
+          "Title": "Categorie:Kunstenaar"
+        },
+        {
+          "ID": 4353292,
+          "Title": "Categorie:Medicus"
+        },
+        {
+          "ID": 64049,
+          "Title": "Categorie:Musicus"
+        },
+        {
+          "ID": 68430,
+          "Title": "Categorie:Ontdekkingsreiziger"
+        },
+        {
+          "ID": 878363,
+          "Title": "Categorie:Personage"
+        },
+        {
+          "ID": 1691630,
+          "Title": "Categorie:Personage uit film"
+        },
+        {
+          "ID": 1677948,
+          "Title": "Categorie:Persoon"
+        },
+        {
+          "ID": 101041,
+          "Title": "Categorie:Persoon naar beroep"
+        },
+        {
+          "ID": 104784,
+          "Title": "Categorie:Persoon naar eigenschap"
+        },
+        {
+          "ID": 133141,
+          "Title": "Categorie:Politicoloog"
+        },
+        {
+          "ID": 63542,
+          "Title": "Categorie:Politicus"
+        },
+        {
+          "ID": 67387,
+          "Title": "Categorie:President"
+        },
+        {
+          "ID": 1292092,
+          "Title": "Categorie:President naar land"
+        },
+        {
+          "ID": 113453,
+          "Title": "Categorie:Revolutionair"
+        },
+        {
+          "ID": 64040,
+          "Title": "Categorie:Schrijver"
+        },
+        {
+          "ID": 67388,
+          "Title": "Categorie:Staatshoofd"
+        },
+        {
+          "ID": 67383,
+          "Title": "Categorie:Uitvinder"
+        },
+        {
+          "ID": 699468,
+          "Title": "Categorie:Verpleegkundige"
+        },
+        {
+          "ID": 2999862,
+          "Title": "Categorie:Vliegenier"
+        },
+        {
           "ID": 4909534,
           "Title": "Categorie:Vrouw"
-        }
-      ],
-      "Articles": [
-        {
-          "ID": 8,
-          "Title": "Alan Turing"
         },
         {
-          "ID": 83,
-          "Title": "Adolf Hitler"
-        },
-        {
-          "ID": 271,
-          "Title": "Charles Babbage"
-        },
-        {
-          "ID": 622,
-          "Title": "George Harrison"
-        },
-        {
-          "ID": 633,
-          "Title": "Carl Friedrich Gauss"
-        },
-        {
-          "ID": 836,
-          "Title": "Johannes Kepler"
-        },
-        {
-          "ID": 1537,
-          "Title": "René Descartes"
-        },
-        {
-          "ID": 1677,
-          "Title": "Sigmund Freud"
-        },
-        {
-          "ID": 5600,
-          "Title": "Christoffel Columbus"
-        },
-        {
-          "ID": 5985,
-          "Title": "Alexander Fleming"
-        },
-        {
-          "ID": 6464,
-          "Title": "Galileo Galilei"
-        },
-        {
-          "ID": 6823,
-          "Title": "Florence Nightingale"
-        },
-        {
-          "ID": 8755,
-          "Title": "Richard Wagner"
-        },
-        {
-          "ID": 9478,
-          "Title": "John Lennon"
-        },
-        {
-          "ID": 9693,
-          "Title": "Thomas van Aquino"
-        },
-        {
-          "ID": 10822,
-          "Title": "Fibonacci"
-        },
-        {
-          "ID": 14434,
-          "Title": "Elton John"
-        },
-        {
-          "ID": 14481,
-          "Title": "Lewis Carroll"
-        },
-        {
-          "ID": 15107,
-          "Title": "Noam Chomsky"
-        },
-        {
-          "ID": 15856,
-          "Title": "Srinivasa Aaiyangar Ramanujan"
-        },
-        {
-          "ID": 17617,
-          "Title": "Harry Houdini"
-        },
-        {
-          "ID": 23889,
-          "Title": "Bill Gates"
-        },
-        {
-          "ID": 24034,
-          "Title": "Adam Smith"
-        },
-        {
-          "ID": 28877,
-          "Title": "Joseph Smith"
-        },
-        {
-          "ID": 34575,
-          "Title": "Oliver Cromwell"
-        },
-        {
-          "ID": 50747,
-          "Title": "Bob Ross"
-        },
-        {
-          "ID": 68300,
-          "Title": "Carl Sagan"
-        },
-        {
-          "ID": 70720,
-          "Title": "William Blake"
-        },
-        {
-          "ID": 84633,
-          "Title": "Karl Friedrich Abel"
-        },
-        {
-          "ID": 86179,
-          "Title": "Irving Langmuir"
-        },
-        {
-          "ID": 121428,
-          "Title": "Kepler"
-        },
-        {
-          "ID": 131086,
-          "Title": "Ayn Rand"
-        },
-        {
-          "ID": 146315,
-          "Title": "Daniel Radcliffe"
-        },
-        {
-          "ID": 188606,
-          "Title": "Chaïm Soutine"
-        },
-        {
-          "ID": 236999,
-          "Title": "Theodor Schwann"
-        },
-        {
-          "ID": 282815,
-          "Title": "Richard Dawkins"
-        },
-        {
-          "ID": 352951,
-          "Title": "Stefan Lochner"
-        },
-        {
-          "ID": 386258,
-          "Title": "Paul Wight"
-        },
-        {
-          "ID": 538618,
-          "Title": "Rupsje Nooitgenoeg"
-        },
-        {
-          "ID": 1465387,
-          "Title": "The Big Bang Theory (televisieserie)"
-        },
-        {
-          "ID": 1493613,
-          "Title": "Twilight (roman)"
-        },
-        {
-          "ID": 1672811,
-          "Title": "Jacob Black"
-        },
-        {
-          "ID": 1748619,
-          "Title": "Cory Monteith"
-        },
-        {
-          "ID": 1815232,
-          "Title": "Gilles Borrie"
-        },
-        {
-          "ID": 2157864,
-          "Title": "Janet Margolin"
-        },
-        {
-          "ID": 2278493,
-          "Title": "Anders Behring Breivik"
-        },
-        {
-          "ID": 2353420,
-          "Title": "Evan"
-        },
-        {
-          "ID": 3196547,
-          "Title": "Ted Cruz"
-        },
-        {
-          "ID": 4559843,
-          "Title": "Dorothy Vaughan"
-        },
-        {
-          "ID": 5063823,
-          "Title": "Evan (voornaam)"
-        },
-        {
-          "ID": 5131436,
-          "Title": "Norah McClintock"
+          "ID": 63967,
+          "Title": "Categorie:Wiskundige"
         }
       ]
     },
@@ -1422,66 +632,28 @@
       "Title": "Philosophy and thinking",
       "Categories": [
         {
+          "ID": 67172,
+          "Title": "Categorie:Ethiek"
+        },
+        {
           "ID": 64385,
           "Title": "Categorie:Filosofie"
         },
         {
-          "ID": 67172,
-          "Title": "Categorie:Ethiek"
+          "ID": 1122561,
+          "Title": "Categorie:Filosofisch concept"
+        },
+        {
+          "ID": 510413,
+          "Title": "Categorie:Filosofisch vakgebied"
         },
         {
           "ID": 148839,
           "Title": "Categorie:Filosofische stroming"
         },
         {
-          "ID": 510413,
-          "Title": "Categorie:Filosofisch vakgebied"
-        }
-      ],
-      "Articles": [
-        {
-          "ID": 13169,
-          "Title": "Geluk (emotie)"
-        },
-        {
-          "ID": 91155,
-          "Title": "Schoonheid"
-        },
-        {
-          "ID": 109338,
-          "Title": "Hit"
-        },
-        {
-          "ID": 122515,
-          "Title": "Vreugde"
-        },
-        {
-          "ID": 675678,
-          "Title": "Feit"
-        },
-        {
-          "ID": 1892129,
-          "Title": "Dunning-krugereffect"
-        },
-        {
-          "ID": 2124290,
-          "Title": "Vertrouwen"
-        },
-        {
-          "ID": 2839636,
-          "Title": "Alegria"
-        },
-        {
-          "ID": 4406310,
-          "Title": "Believer"
-        },
-        {
-          "ID": 4947708,
-          "Title": "Gaslighting"
-        },
-        {
-          "ID": 5127022,
-          "Title": "Geloof (religieus)"
+          "ID": 701220,
+          "Title": "Categorie:Metafysica"
         }
       ]
     },
@@ -1494,20 +666,16 @@
           "Title": "Categorie:Religie"
         },
         {
-          "ID": 885049,
-          "Title": "Categorie:Religieuze stroming"
-        },
-        {
           "ID": 1067417,
           "Title": "Categorie:Religiekritiek"
         },
         {
-          "ID": 3842681,
-          "Title": "Categorie:Secularisme"
-        },
-        {
           "ID": 4358933,
           "Title": "Categorie:Religieuze antropologie"
+        },
+        {
+          "ID": 885049,
+          "Title": "Categorie:Religieuze stroming"
         }
       ]
     },
@@ -1516,606 +684,108 @@
       "Title": "Society and social sciences",
       "Categories": [
         {
-          "ID": 67086,
-          "Title": "Categorie:Internationale organisatie"
-        },
-        {
-          "ID": 67092,
-          "Title": "Categorie:Recht"
-        },
-        {
-          "ID": 67420,
-          "Title": "Categorie:Wet"
-        },
-        {
-          "ID": 72308,
-          "Title": "Categorie:Sociale wetenschap"
+          "ID": 67321,
+          "Title": "Categorie:Bedrijf"
         },
         {
           "ID": 142921,
           "Title": "Categorie:Feminisme"
         },
         {
-          "ID": 176685,
-          "Title": "Categorie:Mens en maatschappij"
+          "ID": 1975531,
+          "Title": "Categorie:Financiering"
         },
         {
           "ID": 428560,
           "Title": "Categorie:Geesteswetenschappen"
         },
         {
-          "ID": 690868,
-          "Title": "Categorie:Intergouvernementele organisatie"
+          "ID": 68350,
+          "Title": "Categorie:Geld"
+        },
+        {
+          "ID": 455107,
+          "Title": "Categorie:Geopolitiek"
+        },
+        {
+          "ID": 1780842,
+          "Title": "Categorie:Gilde"
         },
         {
           "ID": 842971,
           "Title": "Categorie:Hogeronderwijsinstelling naar land"
-        }
-      ],
-      "Articles": [
-        {
-          "ID": 264,
-          "Title": "Chili"
-        },
-        {
-          "ID": 409,
-          "Title": "Europese Unie"
-        },
-        {
-          "ID": 811,
-          "Title": "Iran"
-        },
-        {
-          "ID": 10020,
-          "Title": "Zomertijd"
-        },
-        {
-          "ID": 11004,
-          "Title": "Trust (rechtsvorm)"
-        },
-        {
-          "ID": 13985,
-          "Title": "Universiteit van Oxford"
-        },
-        {
-          "ID": 13987,
-          "Title": "Universiteit van Cambridge"
-        },
-        {
-          "ID": 17483,
-          "Title": "Barbados"
-        },
-        {
-          "ID": 30304,
-          "Title": "Universiteit van Parijs"
-        },
-        {
-          "ID": 35437,
-          "Title": "Harvard-universiteit"
-        },
-        {
-          "ID": 36070,
-          "Title": "The New York Times"
-        },
-        {
-          "ID": 42952,
-          "Title": "Massachusetts Institute of Technology"
-        },
-        {
-          "ID": 48747,
-          "Title": "Maatschappelijk werk"
-        },
-        {
-          "ID": 56621,
-          "Title": "Universiteit van Nanjing"
-        },
-        {
-          "ID": 84708,
-          "Title": "Antropogene ramp"
-        },
-        {
-          "ID": 102667,
-          "Title": "Universiteit van Sydney"
-        },
-        {
-          "ID": 114941,
-          "Title": "Chinees Nieuwjaar"
-        },
-        {
-          "ID": 122912,
-          "Title": "Hebreeuwse Universiteit van Jeruzalem"
-        },
-        {
-          "ID": 126572,
-          "Title": "Princeton-universiteit"
-        },
-        {
-          "ID": 126575,
-          "Title": "Universiteit van Genua"
-        },
-        {
-          "ID": 143347,
-          "Title": "Wetlook"
-        },
-        {
-          "ID": 153881,
-          "Title": "Fox News Channel"
-        },
-        {
-          "ID": 199356,
-          "Title": "Universiteit van Triëst"
-        },
-        {
-          "ID": 202277,
-          "Title": "Vlag van Australië"
-        },
-        {
-          "ID": 222730,
-          "Title": "Columbia-universiteit"
-        },
-        {
-          "ID": 226694,
-          "Title": "Pizza Hut"
-        },
-        {
-          "ID": 237830,
-          "Title": "American Airlines"
-        },
-        {
-          "ID": 246376,
-          "Title": "Trust"
-        },
-        {
-          "ID": 247396,
-          "Title": "Stanford-universiteit"
-        },
-        {
-          "ID": 272054,
-          "Title": "BP (oliemaatschappij)"
-        },
-        {
-          "ID": 308724,
-          "Title": "Universiteit van Bologna"
-        },
-        {
-          "ID": 347083,
-          "Title": "Universiteit van Umeå"
-        },
-        {
-          "ID": 348094,
-          "Title": "Universiteit van Chicago"
-        },
-        {
-          "ID": 358535,
-          "Title": "Universiteit van Pennsylvania"
-        },
-        {
-          "ID": 393476,
-          "Title": "Universiteit van Wenen"
-        },
-        {
-          "ID": 410340,
-          "Title": "Universiteit van Texas in Austin"
-        },
-        {
-          "ID": 411176,
-          "Title": "Universiteit van Michigan"
-        },
-        {
-          "ID": 416715,
-          "Title": "Universiteit van Virginia"
-        },
-        {
-          "ID": 423885,
-          "Title": "Starbucks"
-        },
-        {
-          "ID": 424017,
-          "Title": "Micronatie"
-        },
-        {
-          "ID": 507170,
-          "Title": "University of Southern California"
-        },
-        {
-          "ID": 517549,
-          "Title": "Universiteit van Londen"
-        },
-        {
-          "ID": 524660,
-          "Title": "Rheinische Friedrich-Wilhelms-Universiteit"
-        },
-        {
-          "ID": 528507,
-          "Title": "Centrum Wiskunde \u0026 Informatica"
-        },
-        {
-          "ID": 540654,
-          "Title": "Taco Bell"
-        },
-        {
-          "ID": 594117,
-          "Title": "Tsinghua-universiteit"
-        },
-        {
-          "ID": 615951,
-          "Title": "Universiteit van Queensland"
-        },
-        {
-          "ID": 649552,
-          "Title": "Universiteit van Uppsala"
-        },
-        {
-          "ID": 666585,
-          "Title": "Universiti Malaya"
-        },
-        {
-          "ID": 733156,
-          "Title": "Domino's Pizza"
-        },
-        {
-          "ID": 761426,
-          "Title": "Coventry-universiteit"
-        },
-        {
-          "ID": 799303,
-          "Title": "The Open University"
-        },
-        {
-          "ID": 843805,
-          "Title": "Universiteit van Keulen"
-        },
-        {
-          "ID": 865540,
-          "Title": "Universiteit van Lincoln"
-        },
-        {
-          "ID": 875342,
-          "Title": "Westfaalse Wilhelms-Universiteit"
-        },
-        {
-          "ID": 884996,
-          "Title": "Staatsuniversiteit van Moskou"
-        },
-        {
-          "ID": 907651,
-          "Title": "City University London"
-        },
-        {
-          "ID": 941462,
-          "Title": "Universiteit van Bern"
-        },
-        {
-          "ID": 960680,
-          "Title": "Universiteit van Stockholm"
-        },
-        {
-          "ID": 974807,
-          "Title": "Universiteit van Göteborg"
-        },
-        {
-          "ID": 1012578,
-          "Title": "Universiteit van Indiana"
-        },
-        {
-          "ID": 1014654,
-          "Title": "Thammasat-universiteit"
-        },
-        {
-          "ID": 1038320,
-          "Title": "VN-Milieuprogramma"
-        },
-        {
-          "ID": 1043024,
-          "Title": "Julius Maximilians-Universiteit"
-        },
-        {
-          "ID": 1076474,
-          "Title": "Georg-August-Universität Göttingen"
-        },
-        {
-          "ID": 1085457,
-          "Title": "Universiteit van Linköping"
-        },
-        {
-          "ID": 1104272,
-          "Title": "Universiteit van Leeds"
-        },
-        {
-          "ID": 1169711,
-          "Title": "National Archives and Records Administration"
-        },
-        {
-          "ID": 1186083,
-          "Title": "Imperial College London"
-        },
-        {
-          "ID": 1226824,
-          "Title": "Staatsuniversiteit van Sint-Petersburg"
-        },
-        {
-          "ID": 1254024,
-          "Title": "Eberhard-Karls-Universiteit"
-        },
-        {
-          "ID": 1257995,
-          "Title": "Universiteit van Osaka"
-        },
-        {
-          "ID": 1318545,
-          "Title": "Rice University"
-        },
-        {
-          "ID": 1349111,
-          "Title": "Universiteit van Milaan"
-        },
-        {
-          "ID": 1360929,
-          "Title": "Universiteit van Washington"
-        },
-        {
-          "ID": 1406968,
-          "Title": "Universiteit van St Andrews"
-        },
-        {
-          "ID": 1416602,
-          "Title": "Universiteit van Wrocław"
-        },
-        {
-          "ID": 1435273,
-          "Title": "Universiteit van Tartu"
-        },
-        {
-          "ID": 1449200,
-          "Title": "Universiteit van Tokio"
-        },
-        {
-          "ID": 1450381,
-          "Title": "Universiteit van Manchester"
-        },
-        {
-          "ID": 1467894,
-          "Title": "Universiteit van Padua"
-        },
-        {
-          "ID": 1489760,
-          "Title": "Universiteit van Glasgow"
-        },
-        {
-          "ID": 1547306,
-          "Title": "Universiteit Leipzig"
-        },
-        {
-          "ID": 1575345,
-          "Title": "Universiteit van Illinois te Chicago"
-        },
-        {
-          "ID": 1585314,
-          "Title": "Universiteit van Delhi"
-        },
-        {
-          "ID": 1586127,
-          "Title": "Universiteit van Arizona"
-        },
-        {
-          "ID": 1586684,
-          "Title": "Universiteit van Missouri"
-        },
-        {
-          "ID": 1587052,
-          "Title": "Ohio State University"
-        },
-        {
-          "ID": 1589067,
-          "Title": "Universiteit van Oregon"
-        },
-        {
-          "ID": 1601438,
-          "Title": "University at Buffalo, The State University of New York"
-        },
-        {
-          "ID": 1618776,
-          "Title": "Universiteit van Birmingham"
-        },
-        {
-          "ID": 1625091,
-          "Title": "Universiteit van Sussex"
-        },
-        {
-          "ID": 1639076,
-          "Title": "Universiteit van Bristol"
-        },
-        {
-          "ID": 1659198,
-          "Title": "Universiteit van Auckland"
-        },
-        {
-          "ID": 1671769,
-          "Title": "Universiteit van Turijn"
-        },
-        {
-          "ID": 1683429,
-          "Title": "Universiteit van Calcutta"
-        },
-        {
-          "ID": 1690055,
-          "Title": "Universiteit van Maryland, College Park"
-        },
-        {
-          "ID": 1741212,
-          "Title": "Universiteit van Warwick"
-        },
-        {
-          "ID": 1759909,
-          "Title": "Universiteit van Liverpool"
-        },
-        {
-          "ID": 1786942,
-          "Title": "Universiteit van East Anglia"
-        },
-        {
-          "ID": 1793917,
-          "Title": "Universiteit van Minnesota"
-        },
-        {
-          "ID": 1795027,
-          "Title": "Universiteit van Napels Federico II"
-        },
-        {
-          "ID": 1819019,
-          "Title": "University college"
-        },
-        {
-          "ID": 1834144,
-          "Title": "Universiteit van Freiburg"
-        },
-        {
-          "ID": 1897978,
-          "Title": "Universiteit van Boston"
-        },
-        {
-          "ID": 1961792,
-          "Title": "Universiteit van Nottingham"
-        },
-        {
-          "ID": 1993741,
-          "Title": "Universiteit van Hull"
-        },
-        {
-          "ID": 1994643,
-          "Title": "Universiteit van Sheffield"
-        },
-        {
-          "ID": 1994944,
-          "Title": "Universiteit van Lancaster"
-        },
-        {
-          "ID": 2007075,
-          "Title": "Alexander Jan Cuza-universiteit van Iași"
-        },
-        {
-          "ID": 2105828,
-          "Title": "Universiteit van Leicester"
-        },
-        {
-          "ID": 2122610,
-          "Title": "Universiteit van Catania"
-        },
-        {
-          "ID": 2179407,
-          "Title": "Universiteit van KwaZoeloe-Natal"
-        },
-        {
-          "ID": 2192318,
-          "Title": "Universiteit van Exeter"
-        },
-        {
-          "ID": 2323656,
-          "Title": "MIT Sloan School of Management"
-        },
-        {
-          "ID": 2548530,
-          "Title": "Queen's University"
-        },
-        {
-          "ID": 2844478,
-          "Title": "Miami-universiteit"
-        },
-        {
-          "ID": 2847085,
-          "Title": "Universiteit van Calgary"
-        },
-        {
-          "ID": 2873966,
-          "Title": "Australian National University"
-        },
-        {
-          "ID": 2880240,
-          "Title": "American University"
-        },
-        {
-          "ID": 3019988,
-          "Title": "City University of New York"
-        },
-        {
-          "ID": 3021756,
-          "Title": "Openbare universiteit"
-        },
-        {
-          "ID": 3195244,
-          "Title": "Universiteit van Wollongong"
         },
         {
-          "ID": 3837283,
-          "Title": "Universiteit van Waterloo"
+          "ID": 690868,
+          "Title": "Categorie:Intergouvernementele organisatie"
         },
         {
-          "ID": 3995924,
-          "Title": "Universiteit van Akron"
+          "ID": 67086,
+          "Title": "Categorie:Internationale organisatie"
         },
         {
-          "ID": 4066705,
-          "Title": "Universiteit van Mumbai"
+          "ID": 64248,
+          "Title": "Categorie:Luchtvaartmaatschappij"
         },
         {
-          "ID": 4259346,
-          "Title": "The Times of India"
+          "ID": 215353,
+          "Title": "Categorie:Marketing en verkoop"
         },
         {
-          "ID": 4370340,
-          "Title": "Universiteit van Aberdeen"
+          "ID": 176685,
+          "Title": "Categorie:Mens en maatschappij"
         },
         {
-          "ID": 4452543,
-          "Title": "University of Kent"
+          "ID": 1869180,
+          "Title": "Categorie:Moordzaak"
         },
         {
-          "ID": 4562145,
-          "Title": "Plymouth University"
+          "ID": 63697,
+          "Title": "Categorie:Munteenheid"
         },
         {
-          "ID": 4609916,
-          "Title": "University of Iowa"
+          "ID": 2966449,
+          "Title": "Categorie:Muntstuk"
         },
         {
-          "ID": 4744606,
-          "Title": "Universiteit van Southampton"
+          "ID": 236782,
+          "Title": "Categorie:Onderwijs naar land"
         },
         {
-          "ID": 4796463,
-          "Title": "Aanslag in Londen op 22 maart 2017"
+          "ID": 116413,
+          "Title": "Categorie:Organisatie"
         },
         {
-          "ID": 4799680,
-          "Title": "Washington-universiteit te Saint Louis"
+          "ID": 63736,
+          "Title": "Categorie:Overheid"
         },
         {
-          "ID": 4800506,
-          "Title": "University of Delaware"
+          "ID": 125088,
+          "Title": "Categorie:Overheidsinstantie"
         },
         {
-          "ID": 4801076,
-          "Title": "Tulane University"
+          "ID": 66843,
+          "Title": "Categorie:Psychologie"
         },
         {
-          "ID": 4849048,
-          "Title": "Noordwest-Universiteit"
+          "ID": 67092,
+          "Title": "Categorie:Recht"
         },
         {
-          "ID": 4869397,
-          "Title": "Derde Wereldoorlog"
+          "ID": 80401,
+          "Title": "Categorie:Regering"
         },
         {
-          "ID": 4892258,
-          "Title": "University of Tennessee"
+          "ID": 72308,
+          "Title": "Categorie:Sociale wetenschap"
         },
         {
-          "ID": 4893011,
-          "Title": "University of Alabama"
+          "ID": 92791,
+          "Title": "Categorie:Straf"
         },
         {
-          "ID": 5162755,
-          "Title": "Nationale Ivan Franko-universiteit van Lviv"
+          "ID": 67420,
+          "Title": "Categorie:Wet"
         }
       ]
     },
@@ -2124,36 +794,20 @@
       "Title": "Technology and applied sciences",
       "Categories": [
         {
-          "ID": 63316,
-          "Title": "Categorie:Informatica"
+          "ID": 80509,
+          "Title": "Categorie:Bouwkunde"
         },
         {
-          "ID": 63366,
-          "Title": "Categorie:Techniek"
-        },
-        {
-          "ID": 63436,
-          "Title": "Categorie:Elektronica"
-        },
-        {
-          "ID": 63440,
-          "Title": "Categorie:Internet"
-        },
-        {
-          "ID": 63635,
-          "Title": "Categorie:Vervoer"
-        },
-        {
-          "ID": 80542,
-          "Title": "Categorie:Verkeer en vervoer"
-        },
-        {
-          "ID": 80855,
-          "Title": "Categorie:Toegepaste wetenschap"
+          "ID": 140389,
+          "Title": "Categorie:Civiele techniek"
         },
         {
           "ID": 85026,
           "Title": "Categorie:Computer"
+        },
+        {
+          "ID": 2095177,
+          "Title": "Categorie:Database"
         },
         {
           "ID": 90015,
@@ -2164,94 +818,112 @@
           "Title": "Categorie:Dataopslag"
         },
         {
-          "ID": 563863,
-          "Title": "Categorie:Geschiedenis van de techniek"
+          "ID": 79523,
+          "Title": "Categorie:Druktechniek"
         },
         {
-          "ID": 1840514,
-          "Title": "Categorie:Vormgeving"
+          "ID": 63436,
+          "Title": "Categorie:Elektronica"
         },
         {
-          "ID": 2095177,
-          "Title": "Categorie:Database"
-        },
-        {
-          "ID": 2193054,
-          "Title": "Categorie:Militaire apparatuur"
+          "ID": 1455055,
+          "Title": "Categorie:Energietechniek"
         },
         {
           "ID": 4001060,
           "Title": "Categorie:Engineering"
         },
         {
-          "ID": 4246091,
-          "Title": "Categorie:Toegepaste informatica"
+          "ID": 63660,
+          "Title": "Categorie:Gereedschap"
+        },
+        {
+          "ID": 4913012,
+          "Title": "Categorie:Handgereedschap"
+        },
+        {
+          "ID": 417608,
+          "Title": "Categorie:Houtbewerking"
+        },
+        {
+          "ID": 92659,
+          "Title": "Categorie:Huishoudelijke apparatuur"
+        },
+        {
+          "ID": 63316,
+          "Title": "Categorie:Informatica"
+        },
+        {
+          "ID": 3556259,
+          "Title": "Categorie:Informatietechnologie"
+        },
+        {
+          "ID": 63440,
+          "Title": "Categorie:Internet"
+        },
+        {
+          "ID": 2290895,
+          "Title": "Categorie:Machine"
+        },
+        {
+          "ID": 2193054,
+          "Title": "Categorie:Militaire apparatuur"
+        },
+        {
+          "ID": 263771,
+          "Title": "Categorie:Programmeren"
+        },
+        {
+          "ID": 2192848,
+          "Title": "Categorie:Serviesgoed"
+        },
+        {
+          "ID": 3758654,
+          "Title": "Categorie:Snijgereedschap"
+        },
+        {
+          "ID": 65258,
+          "Title": "Categorie:Software"
+        },
+        {
+          "ID": 79496,
+          "Title": "Categorie:Spelcomputer"
+        },
+        {
+          "ID": 79693,
+          "Title": "Categorie:Standaard"
+        },
+        {
+          "ID": 63366,
+          "Title": "Categorie:Techniek"
         },
         {
           "ID": 4918004,
           "Title": "Categorie:Technologie"
-        }
-      ],
-      "Articles": [
-        {
-          "ID": 16342,
-          "Title": "Topleveldomein"
         },
         {
-          "ID": 30604,
-          "Title": "Lassen"
+          "ID": 4246091,
+          "Title": "Categorie:Toegepaste informatica"
         },
         {
-          "ID": 32778,
-          "Title": "Zwaluwstaartverbinding"
+          "ID": 80855,
+          "Title": "Categorie:Toegepaste wetenschap"
         },
         {
-          "ID": 37440,
-          "Title": "Kauwgom"
+          "ID": 80542,
+          "Title": "Categorie:Verkeer en vervoer"
         },
         {
-          "ID": 41546,
-          "Title": "Broodmachine"
+          "ID": 63635,
+          "Title": "Categorie:Vervoer"
         },
         {
-          "ID": 70409,
-          "Title": "Monoprint"
+          "ID": 1840514,
+          "Title": "Categorie:Vormgeving"
         },
         {
-          "ID": 85145,
-          "Title": "Muur (bouwsel)"
-        },
-        {
-          "ID": 199269,
-          "Title": "Pepsi"
-        },
-        {
-          "ID": 226683,
-          "Title": "PepsiCo"
-        },
-        {
-          "ID": 388306,
-          "Title": "Metselen"
-        },
-        {
-          "ID": 1322232,
-          "Title": "Sega 32X"
-        },
-        {
-          "ID": 1443082,
-          "Title": "Mountain Dew"
-        },
-        {
-          "ID": 1940458,
-          "Title": ".xxx"
-        },
-        {
-          "ID": 1951465,
-          "Title": "Badparel"
-        },
-        {
-          "ID": 2199182,
-          "Title": "TIG-lassen"
+          "ID": 114261,
+          "Title": "Categorie:Werktuigbouwkunde"
         }
       ]
     }

@@ -6,62 +6,48 @@
       "Title": "Culture and the arts",
       "Categories": [
         {
-          "ID": 3370,
-          "Title": "Kateggoría:Kultura"
+          "ID": 14531,
+          "Title": "Kateggoría:Alimentos"
         },
         {
           "ID": 4828,
           "Title": "Kateggoría:Arte"
         },
         {
+          "ID": 15187,
+          "Title": "Kateggoría:Edukasion"
+        },
+        {
           "ID": 5259,
           "Title": "Kateggoría:Espor"
         },
         {
-          "ID": 14531,
-          "Title": "Kateggoría:Alimentos"
-        }
-      ],
-      "Articles": [
-        {
-          "ID": 8,
-          "Title": "בֿיקיפידײה"
+          "ID": 11269,
+          "Title": "Kateggoría:Jurnales"
         },
         {
-          "ID": 23,
-          "Title": "Vikipedya"
+          "ID": 3370,
+          "Title": "Kateggoría:Kultura"
         },
         {
-          "ID": 1711,
-          "Title": "Ansiklopedya"
+          "ID": 15667,
+          "Title": "Kateggoría:Kultura por paiz"
         },
         {
-          "ID": 7147,
-          "Title": "Chikolata"
+          "ID": 4821,
+          "Title": "Kateggoría:Literatura"
         },
         {
-          "ID": 9811,
-          "Title": "Kavé"
+          "ID": 14733,
+          "Title": "Kateggoría:Livros"
         },
         {
-          "ID": 10438,
-          "Title": "Bira"
+          "ID": 6660,
+          "Title": "Kateggoría:Muzika"
         },
         {
-          "ID": 11367,
-          "Title": "Pan"
-        },
-        {
-          "ID": 17626,
-          "Title": "Puerko"
-        },
-        {
-          "ID": 17628,
-          "Title": "Puerkos"
-        },
-        {
-          "ID": 17642,
-          "Title": "Djavali"
+          "ID": 17835,
+          "Title": "Kateggoría:Televizyón"
         }
       ]
     },
@@ -72,24 +58,18 @@
         {
           "ID": 4585,
           "Title": "Kateggoría:Jeografiya"
-        }
-      ],
-      "Articles": [
-        {
-          "ID": 1724,
-          "Title": "Paris"
         },
         {
-          "ID": 6191,
-          "Title": "Australia"
+          "ID": 14031,
+          "Title": "Kateggoría:Lokalidades por paiz"
         },
         {
-          "ID": 14373,
-          "Title": "Venezia"
+          "ID": 14262,
+          "Title": "Kateggoría:Paizes"
         },
         {
-          "ID": 14654,
-          "Title": "Camberra"
+          "ID": 6075,
+          "Title": "Kateggoría:Sivdades"
         }
       ]
     },
@@ -102,22 +82,12 @@
       "Title": "History and events",
       "Categories": [
         {
-          "ID": 3368,
-          "Title": "Kateggoría:Sensias sosiales"
+          "ID": 15789,
+          "Title": "Kateggoría:Istoria por paiz"
         },
         {
           "ID": 4823,
           "Title": "Kateggoría:Istorya"
-        },
-        {
-          "ID": 15789,
-          "Title": "Kateggoría:Istoria por paiz"
-        }
-      ],
-      "Articles": [
-        {
-          "ID": 16981,
-          "Title": "Donald Trump"
         }
       ]
     },
@@ -136,50 +106,28 @@
       "Title": "Nature and physical sciences",
       "Categories": [
         {
-          "ID": 1485,
-          "Title": "Kateggoría:Kemika"
-        },
-        {
-          "ID": 1486,
-          "Title": "Kateggoría:Sensias naturales"
+          "ID": 7264,
+          "Title": "Kateggoría:Animales"
         },
         {
           "ID": 3377,
           "Title": "Kateggoría:Fisika"
         },
         {
+          "ID": 1485,
+          "Title": "Kateggoría:Kemika"
+        },
+        {
+          "ID": 14352,
+          "Title": "Kateggoría:Plantas"
+        },
+        {
           "ID": 4831,
           "Title": "Kateggoría:Sensias"
-        }
-      ],
-      "Articles": [
-        {
-          "ID": 6463,
-          "Title": "Gameo"
         },
         {
-          "ID": 7176,
-          "Title": "Tomat"
-        },
-        {
-          "ID": 7231,
-          "Title": "Arroz"
-        },
-        {
-          "ID": 10409,
-          "Title": "Portokal"
-        },
-        {
-          "ID": 11529,
-          "Title": "Limon"
-        },
-        {
-          "ID": 15241,
-          "Title": "Mais"
-        },
-        {
-          "ID": 15246,
-          "Title": "Portokalero"
+          "ID": 1486,
+          "Title": "Kateggoría:Sensias naturales"
         }
       ]
     },
@@ -188,34 +136,48 @@
       "Title": "People and self",
       "Categories": [
         {
+          "ID": 12609,
+          "Title": "Kateggoría:Aktores"
+        },
+        {
           "ID": 12441,
           "Title": "Kateggoría:Alkunyas"
         },
         {
+          "ID": 15081,
+          "Title": "Kateggoría:Arkitektos"
+        },
+        {
+          "ID": 3390,
+          "Title": "Kateggoría:Eskritores"
+        },
+        {
+          "ID": 18207,
+          "Title": "Kateggoría:Filosofos"
+        },
+        {
+          "ID": 16983,
+          "Title": "Kateggoría:Finados por anyo"
+        },
+        {
+          "ID": 17561,
+          "Title": "Kateggoría:Medikos"
+        },
+        {
+          "ID": 6665,
+          "Title": "Kateggoría:Muzikos"
+        },
+        {
+          "ID": 17014,
+          "Title": "Kateggoría:Nasidos por anyo"
+        },
+        {
           "ID": 14060,
           "Title": "Kateggoría:Personas"
-        }
-      ],
-      "Articles": [
-        {
-          "ID": 4580,
-          "Title": "Galileo Galilei"
         },
         {
-          "ID": 6963,
-          "Title": "Kristof Kolomb"
-        },
-        {
-          "ID": 10183,
-          "Title": "Adolf Hitler"
-        },
-        {
-          "ID": 17524,
-          "Title": "Rene Descartes"
-        },
-        {
-          "ID": 17528,
-          "Title": "Sigmund Freud"
+          "ID": 11104,
+          "Title": "Kateggoría:Shefes de Estado o Governo aktualos"
         }
       ]
     },
@@ -244,38 +206,24 @@
       "Title": "Society and social sciences",
       "Categories": [
         {
+          "ID": 4895,
+          "Title": "Kateggoría:Aerolineas"
+        },
+        {
+          "ID": 14226,
+          "Title": "Kateggoría:Bandyeras nasionalas"
+        },
+        {
+          "ID": 9995,
+          "Title": "Kateggoría:Monedas"
+        },
+        {
           "ID": 3368,
           "Title": "Kateggoría:Sensias sosiales"
         },
         {
           "ID": 4853,
           "Title": "Kateggoría:Sosiedad"
-        }
-      ],
-      "Articles": [
-        {
-          "ID": 1794,
-          "Title": "Chile"
-        },
-        {
-          "ID": 5642,
-          "Title": "Union Evropea"
-        },
-        {
-          "ID": 5643,
-          "Title": "אוניון איברופיה"
-        },
-        {
-          "ID": 6539,
-          "Title": "Iran"
-        },
-        {
-          "ID": 7203,
-          "Title": "Universita Ebrea de Yerushalayim"
-        },
-        {
-          "ID": 15343,
-          "Title": "Barbados"
         }
       ]
     },

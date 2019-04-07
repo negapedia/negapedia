@@ -6,46 +6,20 @@
       "Title": "Culture and the arts",
       "Categories": [
         {
-          "ID": 4365,
-          "Title": "Category:Tsika"
+          "ID": 5455,
+          "Title": "Category:Dzidzo"
         },
         {
           "ID": 4636,
           "Title": "Category:Mitambo"
-        }
-      ],
-      "Articles": [
-        {
-          "ID": 4019,
-          "Title": "Dovi"
         },
         {
-          "ID": 4181,
-          "Title": "Nguruve"
+          "ID": 12190,
+          "Title": "Category:Mumhanzi"
         },
         {
-          "ID": 4311,
-          "Title": "Zai"
-        },
-        {
-          "ID": 4339,
-          "Title": "Chingwa"
-        },
-        {
-          "ID": 4494,
-          "Title": "Nhanzva"
-        },
-        {
-          "ID": 4692,
-          "Title": "Doro"
-        },
-        {
-          "ID": 5447,
-          "Title": "Kudhoma"
-        },
-        {
-          "ID": 10236,
-          "Title": "Wikipedhiya"
+          "ID": 4365,
+          "Title": "Category:Tsika"
         }
       ]
     },
@@ -54,38 +28,20 @@
       "Title": "Geography and places",
       "Categories": [
         {
+          "ID": 7048,
+          "Title": "Category:Nyika"
+        },
+        {
           "ID": 2354,
           "Title": "Category:Nzwimbo"
         },
         {
+          "ID": 4316,
+          "Title": "Category:Rwizi"
+        },
+        {
           "ID": 4083,
           "Title": "Category:Taranyika"
-        }
-      ],
-      "Articles": [
-        {
-          "ID": 3854,
-          "Title": "Dumba"
-        },
-        {
-          "ID": 4954,
-          "Title": "Australia"
-        },
-        {
-          "ID": 7121,
-          "Title": "Paris"
-        },
-        {
-          "ID": 7250,
-          "Title": "Canberra"
-        },
-        {
-          "ID": 7260,
-          "Title": "Burma"
-        },
-        {
-          "ID": 10662,
-          "Title": "Desvenenga"
         }
       ]
     },
@@ -111,12 +67,6 @@
           "ID": 3486,
           "Title": "Category:Masvomhu"
         }
-      ],
-      "Articles": [
-        {
-          "ID": 3902,
-          "Title": "Hurefu"
-        }
       ]
     },
     {
@@ -124,66 +74,24 @@
       "Title": "Nature and physical sciences",
       "Categories": [
         {
+          "ID": 4173,
+          "Title": "Category:Chemishonga"
+        },
+        {
           "ID": 4081,
           "Title": "Category:Fundoyetsimba"
         },
         {
-          "ID": 4173,
-          "Title": "Category:Chemishonga"
-        }
-      ],
-      "Articles": [
-        {
-          "ID": 1866,
-          "Title": "Bonyora"
+          "ID": 4373,
+          "Title": "Category:Madzinde"
         },
         {
-          "ID": 2106,
-          "Title": "Machende"
+          "ID": 2351,
+          "Title": "Category:Mhuka"
         },
         {
-          "ID": 2173,
-          "Title": "Mboro"
-        },
-        {
-          "ID": 3848,
-          "Title": "Nhevedzwa dzeMvura"
-        },
-        {
-          "ID": 4074,
-          "Title": "Nhengo dzesikarudzi"
-        },
-        {
-          "ID": 4125,
-          "Title": "Nghamera"
-        },
-        {
-          "ID": 4185,
-          "Title": "Chibage"
-        },
-        {
-          "ID": 4219,
-          "Title": "Mupunga"
-        },
-        {
-          "ID": 4340,
-          "Title": "Gorosi"
-        },
-        {
-          "ID": 4411,
-          "Title": "Moto"
-        },
-        {
-          "ID": 4521,
-          "Title": "Madomasi"
-        },
-        {
-          "ID": 4928,
-          "Title": "Ranjisi"
-        },
-        {
-          "ID": 5319,
-          "Title": "Mutundo"
+          "ID": 2356,
+          "Title": "Category:Muviri"
         }
       ]
     },
@@ -195,67 +103,29 @@
           "ID": 12180,
           "Title": "Category:Vanhu"
         }
-      ],
-      "Articles": [
-        {
-          "ID": 11245,
-          "Title": "Adolf Hitler"
-        }
       ]
     },
     {
       "ID": 2147483644,
-      "Title": "Philosophy and thinking",
-      "Articles": [
-        {
-          "ID": 2352,
-          "Title": "Chitendero"
-        },
-        {
-          "ID": 5912,
-          "Title": "Idi"
-        },
-        {
-          "ID": 8572,
-          "Title": "Ruvimbo"
-        }
-      ]
+      "Title": "Philosophy and thinking"
     },
     {
       "ID": 2147483645,
       "Title": "Religion and belief systems",
       "Categories": [
         {
-          "ID": 2353,
-          "Title": "Category:Chitendero"
-        },
-        {
           "ID": 4095,
           "Title": "Category:Chinamato"
+        },
+        {
+          "ID": 2353,
+          "Title": "Category:Chitendero"
         }
       ]
     },
     {
       "ID": 2147483646,
-      "Title": "Society and social sciences",
-      "Articles": [
-        {
-          "ID": 7022,
-          "Title": "Chile"
-        },
-        {
-          "ID": 7221,
-          "Title": "Iran"
-        },
-        {
-          "ID": 7435,
-          "Title": "Barbados"
-        },
-        {
-          "ID": 11913,
-          "Title": "Pizza Hut"
-        }
-      ]
+      "Title": "Society and social sciences"
     },
     {
       "ID": 2147483647,

@@ -3,13 +3,7 @@
   "Topics": [
     {
       "ID": 2147483637,
-      "Title": "Culture and the arts",
-      "Articles": [
-        {
-          "ID": 2430,
-          "Title": "Wikipedia"
-        }
-      ]
+      "Title": "Culture and the arts"
     },
     {
       "ID": 2147483638,
@@ -44,16 +38,24 @@
       "Title": "Nature and physical sciences",
       "Categories": [
         {
-          "ID": 2698,
-          "Title": "Category:Saintsi"
-        },
-        {
           "ID": 2711,
           "Title": "Category:Mupo"
         },
         {
+          "ID": 2710,
+          "Title": "Category:Phukha"
+        },
+        {
+          "ID": 2698,
+          "Title": "Category:Saintsi"
+        },
+        {
           "ID": 2712,
           "Title": "Category:Saintsi ya mupo"
+        },
+        {
+          "ID": 2718,
+          "Title": "Category:Tshimela"
         }
       ]
     },
@@ -71,17 +73,7 @@
     },
     {
       "ID": 2147483646,
-      "Title": "Society and social sciences",
-      "Articles": [
-        {
-          "ID": 3659,
-          "Title": "Yunivesithi ya Devhula-Vhukovhela"
-        },
-        {
-          "ID": 3780,
-          "Title": "Shile"
-        }
-      ]
+      "Title": "Society and social sciences"
     },
     {
       "ID": 2147483647,

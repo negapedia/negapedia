@@ -3,49 +3,7 @@
   "Topics": [
     {
       "ID": 2147483637,
-      "Title": "Culture and the arts",
-      "Articles": [
-        {
-          "ID": 116,
-          "Title": "Ickoteapo"
-        },
-        {
-          "ID": 120,
-          "Title": "Irinkokoc"
-        },
-        {
-          "ID": 146,
-          "Title": "Ka takaiak"
-        },
-        {
-          "ID": 152,
-          "Title": "Kapi"
-        },
-        {
-          "ID": 154,
-          "Title": "Karkonacic"
-        },
-        {
-          "ID": 227,
-          "Title": "Morasikan"
-        },
-        {
-          "ID": 378,
-          "Title": "Rikwato"
-        },
-        {
-          "ID": 413,
-          "Title": "Tcipa"
-        },
-        {
-          "ID": 475,
-          "Title": "Wow"
-        },
-        {
-          "ID": 517,
-          "Title": "Wikipetcia"
-        }
-      ]
+      "Title": "Culture and the arts"
     },
     {
       "ID": 2147483638,
@@ -61,49 +19,15 @@
     },
     {
       "ID": 2147483641,
-      "Title": "Mathematics and logic",
-      "Articles": [
-        {
-          "ID": 426,
-          "Title": "Tipahikinatikw"
-        }
-      ]
+      "Title": "Mathematics and logic"
     },
     {
       "ID": 2147483642,
       "Title": "Nature and physical sciences",
-      "Articles": [
+      "Categories": [
         {
-          "ID": 77,
-          "Title": "Cikokominan"
-        },
-        {
-          "ID": 221,
-          "Title": "Miromin"
-        },
-        {
-          "ID": 228,
-          "Title": "Mos"
-        },
-        {
-          "ID": 303,
-          "Title": "Otehimin"
-        },
-        {
-          "ID": 380,
-          "Title": "Ritamate"
-        },
-        {
-          "ID": 438,
-          "Title": "Wamin ka ocawacicitc"
-        },
-        {
-          "ID": 440,
-          "Title": "Wamincic ka mirokisitc"
-        },
-        {
-          "ID": 1043,
-          "Title": "Ickote"
+          "ID": 14,
+          "Title": "Tipanictawin:Awesis"
         }
       ]
     },

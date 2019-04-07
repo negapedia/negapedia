@@ -3,33 +3,19 @@
   "Topics": [
     {
       "ID": 2147483637,
-      "Title": "Culture and the arts",
-      "Articles": [
-        {
-          "ID": 4486,
-          "Title": "Vitipetia"
-        },
-        {
-          "ID": 4870,
-          "Title": "Faraoa"
-        }
-      ]
+      "Title": "Culture and the arts"
     },
     {
       "ID": 2147483638,
       "Title": "Geography and places",
-      "Articles": [
+      "Categories": [
         {
-          "ID": 1707,
-          "Title": "Paris"
+          "ID": 1701,
+          "Title": "Catégorie:Fenua"
         },
         {
-          "ID": 1914,
-          "Title": "Canberra"
-        },
-        {
-          "ID": 5058,
-          "Title": "Auterāria"
+          "ID": 1823,
+          "Title": "Catégorie:’Oire"
         }
       ]
     },
@@ -48,18 +34,10 @@
     {
       "ID": 2147483642,
       "Title": "Nature and physical sciences",
-      "Articles": [
+      "Categories": [
         {
-          "ID": 5752,
-          "Title": "Painapo"
-        },
-        {
-          "ID": 5763,
-          "Title": "Ânani"
-        },
-        {
-          "ID": 5767,
-          "Title": "Vī"
+          "ID": 5727,
+          "Title": "Catégorie:Ihirāau"
         }
       ]
     },
@@ -70,12 +48,6 @@
         {
           "ID": 1785,
           "Title": "Catégorie:Ta’ata"
-        }
-      ],
-      "Articles": [
-        {
-          "ID": 2887,
-          "Title": "Iosepha Semita"
         }
       ]
     },
@@ -95,13 +67,7 @@
     },
     {
       "ID": 2147483646,
-      "Title": "Society and social sciences",
-      "Articles": [
-        {
-          "ID": 5501,
-          "Title": "Tīri"
-        }
-      ]
+      "Title": "Society and social sciences"
     },
     {
       "ID": 2147483647,

@@ -9,20 +9,6 @@
           "ID": 4430,
           "Title": "Category:Ndhzavuko"
         }
-      ],
-      "Articles": [
-        {
-          "ID": 2506,
-          "Title": "Wikipediya"
-        },
-        {
-          "ID": 2523,
-          "Title": "Encyclopediya"
-        },
-        {
-          "ID": 4656,
-          "Title": "Byala"
-        }
       ]
     },
     {
@@ -32,12 +18,6 @@
         {
           "ID": 3144,
           "Title": "Category:Ntivo-misava"
-        }
-      ],
-      "Articles": [
-        {
-          "ID": 4434,
-          "Title": "Vanhu"
         }
       ]
     },
@@ -70,34 +50,28 @@
       "Title": "Nature and physical sciences",
       "Categories": [
         {
-          "ID": 3145,
-          "Title": "Category:Sayense ya ntumbuluko"
-        },
-        {
           "ID": 3146,
           "Title": "Category:Sayense"
+        },
+        {
+          "ID": 3145,
+          "Title": "Category:Sayense ya ntumbuluko"
         }
       ]
     },
     {
       "ID": 2147483643,
       "Title": "People and self",
-      "Articles": [
+      "Categories": [
         {
-          "ID": 4111,
-          "Title": "Oliver Cromwell"
+          "ID": 2798,
+          "Title": "Category:Living people"
         }
       ]
     },
     {
       "ID": 2147483644,
-      "Title": "Philosophy and thinking",
-      "Articles": [
-        {
-          "ID": 4954,
-          "Title": "Ntsako"
-        }
-      ]
+      "Title": "Philosophy and thinking"
     },
     {
       "ID": 2147483645,
@@ -105,21 +79,7 @@
     },
     {
       "ID": 2147483646,
-      "Title": "Society and social sciences",
-      "Articles": [
-        {
-          "ID": 3320,
-          "Title": "Chile"
-        },
-        {
-          "ID": 4848,
-          "Title": "Nhlangono wa matiko ya Yuropa"
-        },
-        {
-          "ID": 5040,
-          "Title": "Iran"
-        }
-      ]
+      "Title": "Society and social sciences"
     },
     {
       "ID": 2147483647,

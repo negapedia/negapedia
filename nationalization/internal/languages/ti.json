@@ -4,10 +4,10 @@
     {
       "ID": 2147483637,
       "Title": "Culture and the arts",
-      "Articles": [
+      "Categories": [
         {
-          "ID": 2523,
-          "Title": "ዊኪፔዲያ"
+          "ID": 2757,
+          "Title": "Category:ትምህርቲ"
         }
       ]
     },
@@ -16,14 +16,12 @@
       "Title": "Geography and places",
       "Categories": [
         {
+          "ID": 2900,
+          "Title": "Category:ሀገራት"
+        },
+        {
           "ID": 2867,
           "Title": "Category:ጆግራፍ"
-        }
-      ],
-      "Articles": [
-        {
-          "ID": 2758,
-          "Title": "ኣውስትራሊያ"
         }
       ]
     },
@@ -56,22 +54,16 @@
       "Title": "Nature and physical sciences",
       "Categories": [
         {
-          "ID": 2864,
-          "Title": "Category:ኣስተዋጽኦ ፍልጠት"
-        },
-        {
           "ID": 2869,
           "Title": "Category:ስነ እንስሳ"
-        }
-      ],
-      "Articles": [
-        {
-          "ID": 2940,
-          "Title": "መሸኒ"
         },
         {
-          "ID": 2955,
-          "Title": "መሳርዕ ግብረ-ስጋ"
+          "ID": 2957,
+          "Title": "Category:ተኽሊ"
+        },
+        {
+          "ID": 2864,
+          "Title": "Category:ኣስተዋጽኦ ፍልጠት"
         }
       ]
     },
@@ -95,17 +87,7 @@
     },
     {
       "ID": 2147483646,
-      "Title": "Society and social sciences",
-      "Articles": [
-        {
-          "ID": 3672,
-          "Title": "ቺሌ"
-        },
-        {
-          "ID": 4509,
-          "Title": "ኢራን"
-        }
-      ]
+      "Title": "Society and social sciences"
     },
     {
       "ID": 2147483647,

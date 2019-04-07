@@ -4,14 +4,10 @@
     {
       "ID": 2147483637,
       "Title": "Culture and the arts",
-      "Articles": [
+      "Categories": [
         {
-          "ID": 2204,
-          "Title": "Puke noi‘i kū‘ikena"
-        },
-        {
-          "ID": 4120,
-          "Title": "Wikipikia"
+          "ID": 4681,
+          "Title": "Māhele:Kelewikiona"
         }
       ]
     },
@@ -23,20 +19,6 @@
           "ID": 5640,
           "Title": "Māhele:Hōʻike honua"
         }
-      ],
-      "Articles": [
-        {
-          "ID": 2628,
-          "Title": "Palika"
-        },
-        {
-          "ID": 3958,
-          "Title": "‘Aukekulelia"
-        },
-        {
-          "ID": 4343,
-          "Title": "Puruma"
-        }
       ]
     },
     {
@@ -45,13 +27,7 @@
     },
     {
       "ID": 2147483640,
-      "Title": "History and events",
-      "Categories": [
-        {
-          "ID": 5641,
-          "Title": "Māhele:Huli kanaka"
-        }
-      ]
+      "Title": "History and events"
     },
     {
       "ID": 2147483641,
@@ -65,23 +41,11 @@
           "ID": 2490,
           "Title": "Māhele:Akeakamai"
         }
-      ],
-      "Articles": [
-        {
-          "ID": 5340,
-          "Title": "ʻōhiʻa lomi"
-        }
       ]
     },
     {
       "ID": 2147483643,
-      "Title": "People and self",
-      "Articles": [
-        {
-          "ID": 3800,
-          "Title": "Josepa Samika"
-        }
-      ]
+      "Title": "People and self"
     },
     {
       "ID": 2147483644,
@@ -98,28 +62,6 @@
         {
           "ID": 5641,
           "Title": "Māhele:Huli kanaka"
-        }
-      ],
-      "Articles": [
-        {
-          "ID": 4106,
-          "Title": "‘Ilana"
-        },
-        {
-          "ID": 5621,
-          "Title": "Chile"
-        },
-        {
-          "ID": 6652,
-          "Title": "Hebera University o Ierusalema"
-        },
-        {
-          "ID": 6806,
-          "Title": "Pizza Hut"
-        },
-        {
-          "ID": 7117,
-          "Title": "Ke Kulanuiʻo Moscow State"
         }
       ]
     },

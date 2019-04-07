@@ -3,35 +3,19 @@
   "Topics": [
     {
       "ID": 2147483637,
-      "Title": "Culture and the arts",
-      "Articles": [
-        {
-          "ID": 3584,
-          "Title": "Wikipedia"
-        }
-      ]
+      "Title": "Culture and the arts"
     },
     {
       "ID": 2147483638,
       "Title": "Geography and places",
       "Categories": [
         {
+          "ID": 1828,
+          "Title": "Category:Ensi"
+        },
+        {
           "ID": 7181,
           "Title": "Category:Essomansi"
-        }
-      ],
-      "Articles": [
-        {
-          "ID": 3777,
-          "Title": "Paris"
-        },
-        {
-          "ID": 6397,
-          "Title": "Omuntu"
-        },
-        {
-          "ID": 6969,
-          "Title": "Omuntu kalimagezi"
         }
       ]
     },
@@ -41,13 +25,7 @@
     },
     {
       "ID": 2147483640,
-      "Title": "History and events",
-      "Articles": [
-        {
-          "ID": 7323,
-          "Title": "Donald Trump"
-        }
-      ]
+      "Title": "History and events"
     },
     {
       "ID": 2147483641,
@@ -64,40 +42,34 @@
       "Title": "Nature and physical sciences",
       "Categories": [
         {
-          "ID": 2781,
-          "Title": "Category:Okumanya"
+          "ID": 2603,
+          "Title": "Category:Ebimera"
         },
         {
           "ID": 6512,
           "Title": "Category:Ebyobuziba"
-        }
-      ],
-      "Articles": [
+        },
         {
-          "ID": 4263,
-          "Title": "Omuchungwa"
+          "ID": 4118,
+          "Title": "Category:Ekyazinnamabeere"
+        },
+        {
+          "ID": 6605,
+          "Title": "Category:Entababutonde"
+        },
+        {
+          "ID": 2781,
+          "Title": "Category:Okumanya"
         }
       ]
     },
     {
       "ID": 2147483643,
-      "Title": "People and self",
-      "Articles": [
-        {
-          "ID": 3694,
-          "Title": "Adolf Hitler"
-        }
-      ]
+      "Title": "People and self"
     },
     {
       "ID": 2147483644,
-      "Title": "Philosophy and thinking",
-      "Articles": [
-        {
-          "ID": 7005,
-          "Title": "Fakikya (fact)"
-        }
-      ]
+      "Title": "Philosophy and thinking"
     },
     {
       "ID": 2147483645,
@@ -105,13 +77,7 @@
     },
     {
       "ID": 2147483646,
-      "Title": "Society and social sciences",
-      "Articles": [
-        {
-          "ID": 3907,
-          "Title": "Chile"
-        }
-      ]
+      "Title": "Society and social sciences"
     },
     {
       "ID": 2147483647,

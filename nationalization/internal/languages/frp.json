@@ -10,26 +10,24 @@
           "Title": "Catègorie:Alimentacion"
         },
         {
+          "ID": 6814,
+          "Title": "Catègorie:Art marciâl"
+        },
+        {
+          "ID": 8832,
+          "Title": "Catègorie:Composicion musicâla"
+        },
+        {
+          "ID": 4787,
+          "Title": "Catègorie:Litèratura"
+        },
+        {
+          "ID": 8825,
+          "Title": "Catègorie:Musica"
+        },
+        {
           "ID": 9949,
           "Title": "Catègorie:Sport"
-        }
-      ],
-      "Articles": [
-        {
-          "ID": 1375,
-          "Title": "Vouiquipèdia"
-        },
-        {
-          "ID": 3635,
-          "Title": "Sengllér"
-        },
-        {
-          "ID": 8058,
-          "Title": "Jorn de la marmota"
-        },
-        {
-          "ID": 8491,
-          "Title": "Gâtyô"
         }
       ]
     },
@@ -42,36 +40,36 @@
           "Title": "Catègorie:G·eografia"
         },
         {
+          "ID": 9344,
+          "Title": "Catègorie:Localitât"
+        },
+        {
+          "ID": 1651,
+          "Title": "Catègorie:Payis"
+        },
+        {
+          "ID": 9301,
+          "Title": "Catègorie:Tèrritouèro"
+        },
+        {
           "ID": 9340,
           "Title": "Catègorie:Urbanismo"
-        }
-      ],
-      "Articles": [
-        {
-          "ID": 1857,
-          "Title": "Birmanie"
         },
         {
-          "ID": 2011,
-          "Title": "Ôstralia"
-        },
-        {
-          "ID": 2272,
-          "Title": "Paris"
-        },
-        {
-          "ID": 3638,
-          "Title": "Homo sapiens"
-        },
-        {
-          "ID": 5082,
-          "Title": "Canberra"
+          "ID": 9342,
+          "Title": "Catègorie:Vela"
         }
       ]
     },
     {
       "ID": 2147483639,
-      "Title": "Health and fitness"
+      "Title": "Health and fitness",
+      "Categories": [
+        {
+          "ID": 6877,
+          "Title": "Catègorie:Anatomia humana"
+        }
+      ]
     },
     {
       "ID": 2147483640,
@@ -80,12 +78,6 @@
         {
           "ID": 9973,
           "Title": "Catègorie:Histouère"
-        }
-      ],
-      "Articles": [
-        {
-          "ID": 9666,
-          "Title": "Donald Trump"
         }
       ]
     },
@@ -98,30 +90,48 @@
       "Title": "Nature and physical sciences",
       "Categories": [
         {
+          "ID": 6116,
+          "Title": "Catègorie:Animâl"
+        },
+        {
+          "ID": 6205,
+          "Title": "Catègorie:Fruita"
+        },
+        {
+          "ID": 6198,
+          "Title": "Catègorie:Planta"
+        },
+        {
           "ID": 1693,
           "Title": "Catègorie:Science"
-        }
-      ],
-      "Articles": [
-        {
-          "ID": 10637,
-          "Title": "Hidrologia"
         }
       ]
     },
     {
       "ID": 2147483643,
-      "Title": "People and self"
+      "Title": "People and self",
+      "Categories": [
+        {
+          "ID": 3418,
+          "Title": "Catègorie:Ch·èf d’Ètat"
+        },
+        {
+          "ID": 8810,
+          "Title": "Catègorie:Musicien"
+        },
+        {
+          "ID": 8759,
+          "Title": "Catègorie:Politicien"
+        },
+        {
+          "ID": 8736,
+          "Title": "Catègorie:Pèrsonâjo de ficcion"
+        }
+      ]
     },
     {
       "ID": 2147483644,
-      "Title": "Philosophy and thinking",
-      "Articles": [
-        {
-          "ID": 10636,
-          "Title": "Creyence"
-        }
-      ]
+      "Title": "Philosophy and thinking"
     },
     {
       "ID": 2147483645,
@@ -138,30 +148,12 @@
       "Title": "Society and social sciences",
       "Categories": [
         {
+          "ID": 2827,
+          "Title": "Catègorie:Monéya"
+        },
+        {
           "ID": 9317,
           "Title": "Catègorie:Sociètât"
-        }
-      ],
-      "Articles": [
-        {
-          "ID": 1754,
-          "Title": "Éran"
-        },
-        {
-          "ID": 1768,
-          "Title": "Ch·ili"
-        },
-        {
-          "ID": 1884,
-          "Title": "Union eropèèna"
-        },
-        {
-          "ID": 2024,
-          "Title": "Barbâda"
-        },
-        {
-          "ID": 7796,
-          "Title": "Universitá Tübingen"
         }
       ]
     },

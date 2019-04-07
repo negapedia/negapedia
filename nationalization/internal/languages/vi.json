@@ -6,494 +6,332 @@
       "Title": "Culture and the arts",
       "Categories": [
         {
-          "ID": 4113,
-          "Title": "Thể loại:Văn hóa"
+          "ID": 32702,
+          "Title": "Thể loại:Ban nhạc"
         },
         {
-          "ID": 4117,
-          "Title": "Thể loại:Màu sắc"
+          "ID": 4838,
+          "Title": "Thể loại:Bách khoa toàn thư"
         },
         {
-          "ID": 5373,
-          "Title": "Thể loại:Ẩm thực"
+          "ID": 153043,
+          "Title": "Thể loại:Báo viết"
         },
         {
-          "ID": 5997,
-          "Title": "Thể loại:Phim"
+          "ID": 13971299,
+          "Title": "Thể loại:Bệnh giả tưởng"
         },
         {
-          "ID": 6073,
-          "Title": "Thể loại:Giải trí"
+          "ID": 3211724,
+          "Title": "Thể loại:Chủ nghĩa thế tục"
         },
         {
-          "ID": 6515,
-          "Title": "Thể loại:Nghệ thuật"
+          "ID": 55150,
+          "Title": "Thể loại:Cuộc thi"
         },
         {
-          "ID": 6834,
-          "Title": "Thể loại:Thể thao"
+          "ID": 1645567,
+          "Title": "Thể loại:Cộng đồng ảo"
         },
         {
           "ID": 16701,
           "Title": "Thể loại:Dinh dưỡng"
         },
         {
-          "ID": 23615,
-          "Title": "Thể loại:Tiêu khiển"
-        },
-        {
-          "ID": 32702,
-          "Title": "Thể loại:Ban nhạc"
-        },
-        {
-          "ID": 33900,
-          "Title": "Thể loại:Thực phẩm"
-        },
-        {
-          "ID": 262234,
-          "Title": "Thể loại:Thể dục"
-        },
-        {
-          "ID": 442736,
-          "Title": "Thể loại:Sở thích"
-        },
-        {
-          "ID": 444426,
-          "Title": "Thể loại:Văn hóa ẩm thực"
-        },
-        {
-          "ID": 494980,
-          "Title": "Thể loại:Ăn uống"
+          "ID": 1706915,
+          "Title": "Thể loại:Dạng sống hư cấu"
         },
         {
           "ID": 495046,
           "Title": "Thể loại:Dịch vụ ăn uống"
         },
         {
-          "ID": 2414729,
-          "Title": "Thể loại:Món ăn theo thành phần chính"
+          "ID": 7506,
+          "Title": "Thể loại:Giáo dục"
         },
         {
-          "ID": 2429390,
-          "Title": "Thể loại:Sáng tác"
+          "ID": 6073,
+          "Title": "Thể loại:Giải trí"
+        },
+        {
+          "ID": 797023,
+          "Title": "Thể loại:Giảng dạy"
+        },
+        {
+          "ID": 66927,
+          "Title": "Thể loại:Giới tính"
+        },
+        {
+          "ID": 3243404,
+          "Title": "Thể loại:Giới tính (xã hội học)"
+        },
+        {
+          "ID": 47002,
+          "Title": "Thể loại:Hành vi tính dục"
+        },
+        {
+          "ID": 397665,
+          "Title": "Thể loại:Hư cấu"
+        },
+        {
+          "ID": 3297757,
+          "Title": "Thể loại:Kỹ thuật nấu ăn"
+        },
+        {
+          "ID": 30658,
+          "Title": "Thể loại:Lễ hội"
+        },
+        {
+          "ID": 575615,
+          "Title": "Thể loại:Ma thuật"
+        },
+        {
+          "ID": 4117,
+          "Title": "Thể loại:Màu sắc"
+        },
+        {
+          "ID": 2414729,
+          "Title": "Thể loại:Món ăn theo thành phần chính"
         },
         {
           "ID": 2443569,
           "Title": "Thể loại:Môn thể thao theo loại"
         },
         {
+          "ID": 6515,
+          "Title": "Thể loại:Nghệ thuật"
+        },
+        {
+          "ID": 189083,
+          "Title": "Thể loại:Nghệ thuật biểu diễn"
+        },
+        {
           "ID": 3119901,
           "Title": "Thể loại:Nhàn rỗi"
         },
         {
-          "ID": 3297757,
-          "Title": "Thể loại:Kỹ thuật nấu ăn"
-        }
-      ],
-      "Articles": [
-        {
-          "ID": 961,
-          "Title": "Bách khoa toàn thư"
-        },
-        {
-          "ID": 1345,
-          "Title": "Wikipedia"
-        },
-        {
-          "ID": 16173,
-          "Title": "Cà phê"
-        },
-        {
-          "ID": 16692,
-          "Title": "Chi Cà phê"
-        },
-        {
-          "ID": 16841,
-          "Title": "Cà phê chè"
-        },
-        {
-          "ID": 19451,
-          "Title": "Bia (thức uống)"
-        },
-        {
-          "ID": 21811,
-          "Title": "Hogwarts"
-        },
-        {
-          "ID": 26972,
-          "Title": "Ma"
-        },
-        {
-          "ID": 33585,
-          "Title": "Pizza"
-        },
-        {
-          "ID": 35581,
-          "Title": "Quái vật hồ Loch Ness"
-        },
-        {
-          "ID": 45078,
-          "Title": "Chi Lợn"
-        },
-        {
-          "ID": 47310,
-          "Title": "Bánh mì"
-        },
-        {
-          "ID": 47465,
-          "Title": "Làm tình bằng miệng"
-        },
-        {
-          "ID": 48447,
-          "Title": "Sô-cô-la"
-        },
-        {
-          "ID": 48459,
-          "Title": "Trứng (thực phẩm)"
-        },
-        {
-          "ID": 56375,
-          "Title": "Cơm chiên"
-        },
-        {
-          "ID": 67131,
-          "Title": "Bia tươi"
-        },
-        {
-          "ID": 95173,
-          "Title": "Bia không cồn"
-        },
-        {
-          "ID": 103951,
-          "Title": "WWE Championship"
-        },
-        {
-          "ID": 109547,
-          "Title": "Aqua (ban nhạc)"
-        },
-        {
-          "ID": 136380,
-          "Title": "Cung điện Buckingham"
-        },
-        {
-          "ID": 175706,
-          "Title": "Cacao"
-        },
-        {
-          "ID": 184489,
-          "Title": "Ẩm thực Pháp"
-        },
-        {
-          "ID": 187862,
-          "Title": "Thịt mỡ"
-        },
-        {
-          "ID": 188604,
-          "Title": "Green Day"
-        },
-        {
-          "ID": 193737,
-          "Title": "Thịt lợn"
-        },
-        {
-          "ID": 197851,
-          "Title": "The World Factbook"
-        },
-        {
-          "ID": 200028,
-          "Title": "Led Zeppelin"
-        },
-        {
-          "ID": 200055,
-          "Title": "Trứng luộc"
-        },
-        {
-          "ID": 241115,
-          "Title": "Sinh vật huyền bí trong Harry Potter"
-        },
-        {
-          "ID": 292171,
-          "Title": "Kem (thực phẩm)"
-        },
-        {
-          "ID": 320908,
-          "Title": "Wikipedia tiếng Asturias"
-        },
-        {
-          "ID": 334340,
-          "Title": "Bánh pía"
-        },
-        {
-          "ID": 396186,
-          "Title": "Lợn rừng"
-        },
-        {
-          "ID": 405833,
-          "Title": "Chủ nghĩa hiện thực"
-        },
-        {
-          "ID": 455836,
-          "Title": "Địa điểm trong Harry Potter"
-        },
-        {
-          "ID": 469422,
-          "Title": "Thực tế"
-        },
-        {
-          "ID": 470048,
-          "Title": "Lợn nhà"
-        },
-        {
-          "ID": 528985,
-          "Title": "Giăm bông"
-        },
-        {
-          "ID": 529278,
-          "Title": "Trứng (sinh học)"
-        },
-        {
-          "ID": 586322,
-          "Title": "Trứng vịt Bắc Thảo"
-        },
-        {
-          "ID": 598150,
-          "Title": "Satoshi (Pokémon)"
-        },
-        {
-          "ID": 742917,
-          "Title": "Trứng vịt muối"
-        },
-        {
-          "ID": 780936,
-          "Title": "Xúp cua"
-        },
-        {
-          "ID": 781658,
-          "Title": "Judas (bài hát)"
-        },
-        {
-          "ID": 800356,
-          "Title": "Thịt muối"
+          "ID": 1738103,
+          "Title": "Thể loại:Nhạc theo thể loại nhạc"
         },
         {
-          "ID": 807051,
-          "Title": "Trứng ốp la"
+          "ID": 2436525,
+          "Title": "Thể loại:Nhạc thể"
         },
         {
-          "ID": 810548,
-          "Title": "Bánh Opera"
+          "ID": 2452074,
+          "Title": "Thể loại:Nền văn hóa"
         },
         {
-          "ID": 811724,
-          "Title": "AC/DC"
+          "ID": 5997,
+          "Title": "Thể loại:Phim"
         },
         {
-          "ID": 814666,
-          "Title": "Ban nhạc"
+          "ID": 3172288,
+          "Title": "Thể loại:Phong cách âm nhạc cổ điển phương Tây"
         },
         {
-          "ID": 824157,
-          "Title": "Sgt. Pepper's Lonely Hearts Club Band"
+          "ID": 14634221,
+          "Title": "Thể loại:Phương tiện truyền thông tin tức"
         },
         {
-          "ID": 824880,
-          "Title": "Mỡ muối"
+          "ID": 38914,
+          "Title": "Thể loại:Sinh hoạt"
         },
         {
-          "ID": 825016,
-          "Title": "Bánh may mắn"
+          "ID": 36750,
+          "Title": "Thể loại:Sách"
         },
         {
-          "ID": 829772,
-          "Title": "Bánh gạo"
+          "ID": 441946,
+          "Title": "Thể loại:Sách theo tác giả"
         },
         {
-          "ID": 829775,
-          "Title": "Lát bánh mì"
+          "ID": 2429390,
+          "Title": "Thể loại:Sáng tác"
         },
         {
-          "ID": 830171,
-          "Title": "Bánh mì nâu"
+          "ID": 442736,
+          "Title": "Thể loại:Sở thích"
         },
         {
-          "ID": 835774,
-          "Title": "Bánh mì chuối"
+          "ID": 3421813,
+          "Title": "Thể loại:Thuật phù thủy"
         },
         {
-          "ID": 859259,
-          "Title": "Há cảo"
+          "ID": 262234,
+          "Title": "Thể loại:Thể dục"
         },
         {
-          "ID": 880456,
-          "Title": "Sô-cô-la thỏi"
+          "ID": 38080,
+          "Title": "Thể loại:Thể loại nhạc"
         },
         {
-          "ID": 1377523,
-          "Title": "Hot dog"
+          "ID": 2461461,
+          "Title": "Thể loại:Thể loại theo nhà văn"
         },
         {
-          "ID": 1446700,
-          "Title": "Bơ đậu phộng"
+          "ID": 6834,
+          "Title": "Thể loại:Thể thao"
         },
         {
-          "ID": 1551253,
-          "Title": "M\u0026M's"
+          "ID": 2458067,
+          "Title": "Thể loại:Thức ăn mùa Giáng sinh"
         },
         {
-          "ID": 1643627,
-          "Title": "Pasta"
+          "ID": 33900,
+          "Title": "Thể loại:Thực phẩm"
         },
         {
-          "ID": 1644503,
-          "Title": "Pitepalt"
+          "ID": 23615,
+          "Title": "Thể loại:Tiêu khiển"
         },
         {
-          "ID": 1702588,
-          "Title": "Xốt cà"
+          "ID": 1111824,
+          "Title": "Thể loại:Tiểu sử"
         },
         {
-          "ID": 1748670,
-          "Title": "The Wanted"
+          "ID": 1263799,
+          "Title": "Thể loại:Tranh vẽ"
         },
         {
-          "ID": 2220678,
-          "Title": "Bigfoot"
+          "ID": 24894,
+          "Title": "Thể loại:Tri thức"
         },
         {
-          "ID": 2264083,
-          "Title": "Pinus cembroides"
+          "ID": 15079,
+          "Title": "Thể loại:Truyền hình"
         },
         {
-          "ID": 2360468,
-          "Title": "Bánh ngọt"
+          "ID": 138407,
+          "Title": "Thể loại:Truyền thuyết"
         },
         {
-          "ID": 2393158,
-          "Title": "Wikipedia tiếng Wales"
+          "ID": 296766,
+          "Title": "Thể loại:Trò chơi với bàn cờ"
         },
         {
-          "ID": 2421945,
-          "Title": "Cơm cháy"
+          "ID": 94805,
+          "Title": "Thể loại:Trò chơi điện tử"
         },
         {
-          "ID": 2439303,
-          "Title": "Flappy Bird"
+          "ID": 3208634,
+          "Title": "Thể loại:Tài liệu tham khảo"
         },
         {
-          "ID": 2450054,
-          "Title": "Sô-cô-la nóng"
+          "ID": 1446228,
+          "Title": "Thể loại:Tài nguyên"
         },
         {
-          "ID": 2455680,
-          "Title": "Xốt"
+          "ID": 13938185,
+          "Title": "Thể loại:Tác phẩm theo nghệ sĩ"
         },
         {
-          "ID": 2459716,
-          "Title": "Chủ nghĩa duy thực"
+          "ID": 13855421,
+          "Title": "Thể loại:Tác phẩm theo người sáng tạo"
         },
         {
-          "ID": 2461334,
-          "Title": "Angry Birds Seasons"
+          "ID": 441947,
+          "Title": "Thể loại:Tác phẩm theo nhà văn"
         },
         {
-          "ID": 2789072,
-          "Title": "Angry Birds Rio"
+          "ID": 2461476,
+          "Title": "Thể loại:Tác phẩm tiểu sử"
         },
         {
-          "ID": 2885416,
-          "Title": "Angry Birds (video game)"
+          "ID": 105212,
+          "Title": "Thể loại:Tác phẩm văn học"
         },
         {
-          "ID": 3139240,
-          "Title": "Bánh cưới"
+          "ID": 86432,
+          "Title": "Thể loại:Tác phẩm âm nhạc"
         },
         {
-          "ID": 3181811,
-          "Title": "Taco"
+          "ID": 35715,
+          "Title": "Thể loại:Tính dục"
         },
         {
-          "ID": 3208557,
-          "Title": "PK (phim)"
+          "ID": 42341,
+          "Title": "Thể loại:Tính dục người"
         },
         {
-          "ID": 3244804,
-          "Title": "Bejeweled"
+          "ID": 124752,
+          "Title": "Thể loại:Tạp chí"
         },
         {
-          "ID": 3246592,
-          "Title": "Pie"
+          "ID": 124751,
+          "Title": "Thể loại:Tạp chí hàng tuần"
         },
         {
-          "ID": 3270132,
-          "Title": "Ginger ale"
+          "ID": 1681755,
+          "Title": "Thể loại:Video game"
         },
         {
-          "ID": 3274427,
-          "Title": "Gà Tikka Masala"
+          "ID": 31444,
+          "Title": "Thể loại:Võ thuật"
         },
         {
-          "ID": 3282830,
-          "Title": "Dinosaur Jr."
+          "ID": 4113,
+          "Title": "Thể loại:Văn hóa"
         },
         {
-          "ID": 3303363,
-          "Title": "Xúp cà chua"
+          "ID": 121265,
+          "Title": "Thể loại:Văn hóa Internet"
         },
         {
-          "ID": 3305395,
-          "Title": "Roti"
+          "ID": 321336,
+          "Title": "Thể loại:Văn hóa dân gian"
         },
         {
-          "ID": 3389504,
-          "Title": "Mordred"
+          "ID": 38859,
+          "Title": "Thể loại:Văn hóa theo quốc gia"
         },
         {
-          "ID": 3657665,
-          "Title": "Gelato"
+          "ID": 2414945,
+          "Title": "Thể loại:Văn hóa đại chúng"
         },
         {
-          "ID": 3657891,
-          "Title": "Spaghetti alla carbonara"
+          "ID": 444426,
+          "Title": "Thể loại:Văn hóa ẩm thực"
         },
         {
-          "ID": 3674407,
-          "Title": "Band"
+          "ID": 6286,
+          "Title": "Thể loại:Văn học"
         },
         {
-          "ID": 3679336,
-          "Title": "Bánh quy"
+          "ID": 3273605,
+          "Title": "Thể loại:Xuất bản phẩm định kỳ"
         },
         {
-          "ID": 3687162,
-          "Title": "Eurovision Song Contest 2017"
+          "ID": 6155,
+          "Title": "Thể loại:Âm nhạc"
         },
         {
-          "ID": 3689483,
-          "Title": "Các món ăn từ thịt lợn"
+          "ID": 494980,
+          "Title": "Thể loại:Ăn uống"
         },
         {
-          "ID": 3689598,
-          "Title": "Nghêu hấp"
+          "ID": 366876,
+          "Title": "Thể loại:Đài phát thanh"
         },
         {
-          "ID": 3691365,
-          "Title": "Khúc thịt lợn"
+          "ID": 519267,
+          "Title": "Thể loại:Đấu vật"
         },
         {
-          "ID": 7642449,
-          "Title": "Liếm dương vật"
+          "ID": 3191924,
+          "Title": "Thể loại:Đấu vật chuyên nghiệp"
         },
         {
-          "ID": 7876595,
-          "Title": "Timballo"
+          "ID": 880403,
+          "Title": "Thể loại:Địa danh giả tưởng"
         },
         {
-          "ID": 13480270,
-          "Title": "Eurovision Song Contest 2018"
+          "ID": 1101897,
+          "Title": "Thể loại:Ảo thuật"
         },
         {
-          "ID": 14379103,
-          "Title": "Sống độc thân"
+          "ID": 5373,
+          "Title": "Thể loại:Ẩm thực"
         }
       ]
     },
@@ -502,74 +340,100 @@
       "Title": "Geography and places",
       "Categories": [
         {
-          "ID": 1362,
-          "Title": "Thể loại:Địa lý học"
+          "ID": 68551,
+          "Title": "Thể loại:Cung điện"
         },
         {
-          "ID": 4665,
-          "Title": "Thể loại:Quy hoạch đô thị"
+          "ID": 12475415,
+          "Title": "Thể loại:Danh sách địa lý"
         },
         {
-          "ID": 14213,
-          "Title": "Thể loại:Tượng đài"
+          "ID": 2421396,
+          "Title": "Thể loại:Khu dân cư"
         },
         {
-          "ID": 39431,
-          "Title": "Thể loại:Địa mạo học"
+          "ID": 2421394,
+          "Title": "Thể loại:Khu dân cư theo quốc gia"
+        },
+        {
+          "ID": 14518693,
+          "Title": "Thể loại:Mạch nước"
+        },
+        {
+          "ID": 3172218,
+          "Title": "Thể loại:Nhà nước"
         },
         {
           "ID": 1698425,
           "Title": "Thể loại:Nơi chốn"
         },
         {
+          "ID": 13989359,
+          "Title": "Thể loại:Nơi đông dân"
+        },
+        {
+          "ID": 14213496,
+          "Title": "Thể loại:Nơi ở hoàng gia"
+        },
+        {
+          "ID": 4665,
+          "Title": "Thể loại:Quy hoạch đô thị"
+        },
+        {
+          "ID": 1358,
+          "Title": "Thể loại:Quốc gia"
+        },
+        {
+          "ID": 5252,
+          "Title": "Thể loại:Sông"
+        },
+        {
           "ID": 3181496,
           "Title": "Thể loại:Thiết kế đô thị"
         },
         {
-          "ID": 12475415,
-          "Title": "Thể loại:Danh sách địa lý"
-        }
-      ],
-      "Articles": [
-        {
-          "ID": 2584,
-          "Title": "Paris"
+          "ID": 6756,
+          "Title": "Thể loại:Thành phố"
         },
         {
-          "ID": 2849,
-          "Title": "Úc"
+          "ID": 1644880,
+          "Title": "Thể loại:Thị trấn"
         },
         {
-          "ID": 24176,
-          "Title": "Myanmar"
+          "ID": 14213,
+          "Title": "Thể loại:Tượng đài"
         },
         {
-          "ID": 40074,
-          "Title": "Kim tự tháp"
+          "ID": 2455699,
+          "Title": "Thể loại:Vùng lãnh thổ"
         },
         {
-          "ID": 46840,
-          "Title": "Người"
+          "ID": 3102443,
+          "Title": "Thể loại:Xa lộ"
         },
         {
-          "ID": 52273,
-          "Title": "Venezia"
+          "ID": 806778,
+          "Title": "Thể loại:Đường"
         },
         {
-          "ID": 78700,
-          "Title": "Canberra"
+          "ID": 62777,
+          "Title": "Thể loại:Đường bộ"
         },
         {
-          "ID": 133296,
-          "Title": "Queensland"
+          "ID": 85715,
+          "Title": "Thể loại:Đường phố"
         },
         {
-          "ID": 820026,
-          "Title": "Carlsbad, New Mexico"
+          "ID": 1362,
+          "Title": "Thể loại:Địa lý học"
         },
         {
-          "ID": 3404431,
-          "Title": "Homo sapiens"
+          "ID": 39431,
+          "Title": "Thể loại:Địa mạo học"
+        },
+        {
+          "ID": 14039055,
+          "Title": "Thể loại:Định cư"
         }
       ]
     },
@@ -578,12 +442,28 @@
       "Title": "Health and fitness",
       "Categories": [
         {
-          "ID": 4159,
-          "Title": "Thể loại:Khoa học sức khỏe"
+          "ID": 134818,
+          "Title": "Thể loại:Bệnh di truyền"
         },
         {
-          "ID": 8417,
-          "Title": "Thể loại:Y học"
+          "ID": 3180293,
+          "Title": "Thể loại:Chuyên ngành y khoa"
+        },
+        {
+          "ID": 59678,
+          "Title": "Thể loại:Chuyên viên y tế"
+        },
+        {
+          "ID": 3175949,
+          "Title": "Thể loại:Chăm sóc cá nhân"
+        },
+        {
+          "ID": 54740,
+          "Title": "Thể loại:Giải phẫu người"
+        },
+        {
+          "ID": 4159,
+          "Title": "Thể loại:Khoa học sức khỏe"
         },
         {
           "ID": 15516,
@@ -594,24 +474,16 @@
           "Title": "Thể loại:Vệ sinh"
         },
         {
-          "ID": 59678,
-          "Title": "Thể loại:Chuyên viên y tế"
-        },
-        {
-          "ID": 134818,
-          "Title": "Thể loại:Bệnh di truyền"
+          "ID": 8417,
+          "Title": "Thể loại:Y học"
         },
         {
           "ID": 1619814,
           "Title": "Thể loại:Y tế"
         },
         {
-          "ID": 3175949,
-          "Title": "Thể loại:Chăm sóc cá nhân"
-        },
-        {
-          "ID": 3180293,
-          "Title": "Thể loại:Chuyên ngành y khoa"
+          "ID": 804625,
+          "Title": "Thể loại:Điều dưỡng"
         }
       ]
     },
@@ -620,82 +492,80 @@
       "Title": "History and events",
       "Categories": [
         {
+          "ID": 14752566,
+          "Title": "Thể loại:Bầu cử theo năm"
+        },
+        {
+          "ID": 17199,
+          "Title": "Thể loại:Chiến tranh"
+        },
+        {
+          "ID": 5324524,
+          "Title": "Thể loại:Các cuộc chiến tranh"
+        },
+        {
+          "ID": 68157,
+          "Title": "Thể loại:Cách mạng"
+        },
+        {
+          "ID": 12485867,
+          "Title": "Thể loại:Cách mạng theo quốc gia"
+        },
+        {
+          "ID": 3251747,
+          "Title": "Thể loại:Giết người theo năm"
+        },
+        {
+          "ID": 526904,
+          "Title": "Thể loại:Lễ kỷ niệm"
+        },
+        {
           "ID": 3080,
           "Title": "Thể loại:Lịch sử"
         },
         {
-          "ID": 32787,
-          "Title": "Thể loại:Khoa học xã hội"
+          "ID": 64067,
+          "Title": "Thể loại:Lịch sử chính trị"
         },
         {
-          "ID": 33278,
-          "Title": "Thể loại:Lịch sử theo quốc gia"
-        },
-        {
-          "ID": 68192,
-          "Title": "Thể loại:Sự kiện"
+          "ID": 68461,
+          "Title": "Thể loại:Lịch sử công nghệ"
         },
         {
           "ID": 1407633,
           "Title": "Thể loại:Lịch sử theo khu vực"
         },
         {
+          "ID": 33278,
+          "Title": "Thể loại:Lịch sử theo quốc gia"
+        },
+        {
           "ID": 1772198,
           "Title": "Thể loại:Ngày kỷ niệm"
+        },
+        {
+          "ID": 68192,
+          "Title": "Thể loại:Sự kiện"
+        },
+        {
+          "ID": 91260,
+          "Title": "Thể loại:Sự kiện chính trị"
         },
         {
           "ID": 3424592,
           "Title": "Thể loại:Sự kiện văn hóa"
         },
         {
-          "ID": 3527143,
-          "Title": "Thể loại:Khoa học nhân văn"
-        }
-      ],
-      "Articles": [
-        {
-          "ID": 24657,
-          "Title": "Sự kiện 11 tháng 9"
+          "ID": 3121928,
+          "Title": "Thể loại:Thời biểu công nghệ"
         },
         {
-          "ID": 51174,
-          "Title": "Chiến tranh thành Troia"
+          "ID": 2459451,
+          "Title": "Thể loại:Vụ khủng bố"
         },
         {
-          "ID": 250885,
-          "Title": "Donald Trump"
-        },
-        {
-          "ID": 514776,
-          "Title": "Vụ tràn dầu Deepwater Horizon"
-        },
-        {
-          "ID": 702831,
-          "Title": "Động đất và sóng thần Tōhoku 2011"
-        },
-        {
-          "ID": 1266475,
-          "Title": "Bầu cử tổng thống Hoa Kỳ, 2012"
-        },
-        {
-          "ID": 1402377,
-          "Title": "Nổ súng tại Aurora 2012"
-        },
-        {
-          "ID": 2364376,
-          "Title": "Hệ đo lường La Mã"
-        },
-        {
-          "ID": 3393485,
-          "Title": "Xả súng tại hộp đêm ở Orlando 2016"
-        },
-        {
-          "ID": 3632723,
-          "Title": "Cáo buộc Nga can thiệp vào cuộc bầu cử tổng thống Hoa Kỳ 2016"
-        },
-        {
-          "ID": 3684786,
-          "Title": "Việc chối bỏ vụ diệt chủng Holocaust"
+          "ID": 2443826,
+          "Title": "Thể loại:Áp bức chính trị"
         }
       ]
     },
@@ -703,6 +573,30 @@
       "ID": 2147483641,
       "Title": "Mathematics and logic",
       "Categories": [
+        {
+          "ID": 3272,
+          "Title": "Thể loại:Các đơn vị đo"
+        },
+        {
+          "ID": 19439,
+          "Title": "Thể loại:Hệ thống đo lường"
+        },
+        {
+          "ID": 90704,
+          "Title": "Thể loại:Khoa học máy tính lý thuyết"
+        },
+        {
+          "ID": 1765722,
+          "Title": "Thể loại:Khái niệm toán học"
+        },
+        {
+          "ID": 88708,
+          "Title": "Thể loại:Logic"
+        },
+        {
+          "ID": 24601,
+          "Title": "Thể loại:Thống kê"
+        },
         {
           "ID": 1331,
           "Title": "Thể loại:Toán học"
@@ -714,32 +608,6 @@
         {
           "ID": 4701,
           "Title": "Thể loại:Xác suất và thống kê"
-        },
-        {
-          "ID": 24601,
-          "Title": "Thể loại:Thống kê"
-        },
-        {
-          "ID": 88708,
-          "Title": "Thể loại:Logic"
-        },
-        {
-          "ID": 90704,
-          "Title": "Thể loại:Khoa học máy tính lý thuyết"
-        },
-        {
-          "ID": 1765722,
-          "Title": "Thể loại:Khái niệm toán học"
-        }
-      ],
-      "Articles": [
-        {
-          "ID": 2644,
-          "Title": "Chiều dài"
-        },
-        {
-          "ID": 3288,
-          "Title": "Đơn vị đo chiều dài"
         }
       ]
     },
@@ -748,418 +616,92 @@
       "Title": "Nature and physical sciences",
       "Categories": [
         {
-          "ID": 1179,
-          "Title": "Thể loại:Khoa học tự nhiên"
-        },
-        {
-          "ID": 1420,
-          "Title": "Thể loại:Vật lý học"
-        },
-        {
-          "ID": 1648,
-          "Title": "Thể loại:Hóa học"
-        },
-        {
-          "ID": 7492,
-          "Title": "Thể loại:Khoa học"
-        },
-        {
-          "ID": 12958,
-          "Title": "Thể loại:Hợp chất hóa học"
-        },
-        {
-          "ID": 24894,
-          "Title": "Thể loại:Tri thức"
-        },
-        {
-          "ID": 24895,
-          "Title": "Thể loại:Tự nhiên"
-        },
-        {
-          "ID": 25808,
-          "Title": "Thể loại:Động vật học"
-        },
-        {
-          "ID": 56496,
-          "Title": "Thể loại:Khoa học môi trường"
-        },
-        {
-          "ID": 59544,
-          "Title": "Thể loại:Hóa chất"
-        },
-        {
-          "ID": 73231,
-          "Title": "Thể loại:Thảm họa"
-        },
-        {
-          "ID": 405111,
-          "Title": "Thể loại:Động vật theo lục địa"
+          "ID": 1699313,
+          "Title": "Thể loại:Chuyên ngành khoa học"
         },
         {
           "ID": 1678405,
           "Title": "Thể loại:Chất hóa học"
         },
         {
-          "ID": 1699313,
-          "Title": "Thể loại:Chuyên ngành khoa học"
-        }
-      ],
-      "Articles": [
-        {
-          "ID": 9578,
-          "Title": "Huyền phù"
-        },
-        {
-          "ID": 10844,
-          "Title": "Lạc đà"
-        },
-        {
-          "ID": 25994,
-          "Title": "Thủ dâm"
-        },
-        {
-          "ID": 30898,
-          "Title": "Chi Lúa"
-        },
-        {
-          "ID": 32055,
-          "Title": "Dương vật"
-        },
-        {
-          "ID": 32564,
-          "Title": "Gạo"
-        },
-        {
-          "ID": 35528,
-          "Title": "Chi Chà là"
-        },
-        {
-          "ID": 36522,
-          "Title": "Cam"
-        },
-        {
-          "ID": 39907,
-          "Title": "Lúa"
-        },
-        {
-          "ID": 41932,
-          "Title": "Chim điên"
-        },
-        {
-          "ID": 45588,
-          "Title": "Lửa"
-        },
-        {
-          "ID": 52400,
-          "Title": "Vòng tuần hoàn nước"
-        },
-        {
-          "ID": 54582,
-          "Title": "Cơ (sinh học)"
-        },
-        {
-          "ID": 55445,
-          "Title": "Thủy văn học"
-        },
-        {
-          "ID": 56522,
-          "Title": "Chi Xoài"
-        },
-        {
-          "ID": 62046,
-          "Title": "Trăn anaconda"
-        },
-        {
-          "ID": 63663,
-          "Title": "Thông ba lá"
-        },
-        {
-          "ID": 68936,
-          "Title": "Xôi"
-        },
-        {
-          "ID": 90616,
-          "Title": "Cá thu"
-        },
-        {
-          "ID": 97190,
-          "Title": "Cà chua"
-        },
-        {
-          "ID": 107742,
-          "Title": "Phân họ Báo"
-        },
-        {
-          "ID": 119971,
-          "Title": "Ngô"
-        },
-        {
-          "ID": 122661,
-          "Title": "Dâu tây"
-        },
-        {
-          "ID": 146335,
-          "Title": "Họ Nhái bén"
-        },
-        {
-          "ID": 148098,
-          "Title": "Lúa mì"
-        },
-        {
-          "ID": 188612,
-          "Title": "Bông cải trắng"
-        },
-        {
-          "ID": 197432,
-          "Title": "Chuỗi thức ăn"
-        },
-        {
-          "ID": 197873,
-          "Title": "Họ Nhát hoa"
-        },
-        {
-          "ID": 248255,
-          "Title": "Hệ vận động"
-        },
-        {
-          "ID": 250985,
-          "Title": "Hồng hạc"
-        },
-        {
-          "ID": 328238,
-          "Title": "Chanh tây"
-        },
-        {
-          "ID": 328239,
-          "Title": "Chanh"
-        },
-        {
-          "ID": 330562,
-          "Title": "Xoài"
-        },
-        {
-          "ID": 371878,
-          "Title": "Tinh hoàn"
-        },
-        {
-          "ID": 445556,
-          "Title": "Hổ trắng"
-        },
-        {
-          "ID": 471154,
-          "Title": "Hệ sinh dục"
-        },
-        {
-          "ID": 494952,
-          "Title": "Dứa"
-        },
-        {
-          "ID": 503077,
-          "Title": "Dưa vàng"
-        },
-        {
-          "ID": 511406,
-          "Title": "Cơ quan sinh dục"
-        },
-        {
-          "ID": 511494,
-          "Title": "Cá bạc má"
-        },
-        {
-          "ID": 525735,
-          "Title": "Gạo nếp"
-        },
-        {
-          "ID": 732375,
-          "Title": "Dưa bở"
-        },
-        {
-          "ID": 781424,
-          "Title": "Lịch Maya"
-        },
-        {
-          "ID": 864065,
-          "Title": "Cà chua bi"
-        },
-        {
-          "ID": 1058817,
-          "Title": "Dương vật người"
-        },
-        {
-          "ID": 1262065,
-          "Title": "Lycosidae"
-        },
-        {
-          "ID": 1329717,
-          "Title": "Cá thu Đại Tây Dương"
-        },
-        {
-          "ID": 1509814,
-          "Title": "Nước tiểu"
-        },
-        {
-          "ID": 1519680,
-          "Title": "Mộc lan tím"
-        },
-        {
-          "ID": 1653345,
-          "Title": "Poecile hyrcanus"
-        },
-        {
-          "ID": 1682562,
-          "Title": "Ateles"
-        },
-        {
-          "ID": 1733051,
-          "Title": "Garrulus"
-        },
-        {
-          "ID": 1746494,
-          "Title": "Mèo lớn"
-        },
-        {
-          "ID": 1766005,
-          "Title": "Eunectes murinus"
-        },
-        {
-          "ID": 1775041,
-          "Title": "Haackgreerius miopus"
-        },
-        {
-          "ID": 1828069,
-          "Title": "Origanum onites"
-        },
-        {
-          "ID": 1862484,
-          "Title": "Elymus farctus"
-        },
-        {
-          "ID": 1891379,
-          "Title": "Corymbia ficifolia"
-        },
-        {
-          "ID": 1901311,
-          "Title": "Hương đào"
-        },
-        {
-          "ID": 1926313,
-          "Title": "Triticum aestivum"
-        },
-        {
-          "ID": 2022653,
-          "Title": "Fragaria vesca"
-        },
-        {
-          "ID": 2058920,
-          "Title": "Citrus sinensis"
-        },
-        {
-          "ID": 2110476,
-          "Title": "Physalis peruviana"
-        },
-        {
-          "ID": 2110477,
-          "Title": "Physalis philadelphica"
-        },
-        {
-          "ID": 2264042,
-          "Title": "Picea engelmannii"
-        },
-        {
-          "ID": 2363060,
-          "Title": "Cucurbita maxima"
-        },
-        {
-          "ID": 2372533,
-          "Title": "Byrsonima lucida"
-        },
-        {
-          "ID": 2390110,
-          "Title": "Mangifera indica"
-        },
-        {
-          "ID": 2424303,
-          "Title": "Hươu Florida"
-        },
-        {
-          "ID": 2430278,
-          "Title": "Dâu tây vườn"
+          "ID": 1406728,
+          "Title": "Thể loại:Cây trồng trọt"
         },
         {
-          "ID": 2463637,
-          "Title": "Juniperus thurifera"
+          "ID": 12913,
+          "Title": "Thể loại:Giải phẫu học"
         },
         {
-          "ID": 2465663,
-          "Title": "Osmunda claytoniana"
+          "ID": 59544,
+          "Title": "Thể loại:Hóa chất"
         },
         {
-          "ID": 2962102,
-          "Title": "Màu phụ"
+          "ID": 1648,
+          "Title": "Thể loại:Hóa học"
         },
         {
-          "ID": 3127878,
-          "Title": "Cocker Spaniel"
+          "ID": 12958,
+          "Title": "Thể loại:Hợp chất hóa học"
         },
         {
-          "ID": 3182202,
-          "Title": "Cá sòng"
+          "ID": 7492,
+          "Title": "Thể loại:Khoa học"
         },
         {
-          "ID": 3203745,
-          "Title": "Ếch cây"
+          "ID": 56496,
+          "Title": "Thể loại:Khoa học môi trường"
         },
         {
-          "ID": 3218393,
-          "Title": "Sự nảy mầm"
+          "ID": 1179,
+          "Title": "Thể loại:Khoa học tự nhiên"
         },
         {
-          "ID": 3226095,
-          "Title": "Dưa lê"
+          "ID": 17168,
+          "Title": "Thể loại:Protein"
         },
         {
-          "ID": 3240131,
-          "Title": "Nai sừng tấm Á-Âu"
+          "ID": 1407,
+          "Title": "Thể loại:Sinh thái học"
         },
         {
-          "ID": 3243066,
-          "Title": "Dê lùn Nigeria"
+          "ID": 64793,
+          "Title": "Thể loại:Sự sống"
         },
         {
-          "ID": 3256778,
-          "Title": "Chi Cá thu"
+          "ID": 73231,
+          "Title": "Thể loại:Thảm họa"
         },
         {
-          "ID": 3280704,
-          "Title": "Myrtus"
+          "ID": 12825,
+          "Title": "Thể loại:Thực vật"
         },
         {
-          "ID": 3428607,
-          "Title": "Phân bò"
+          "ID": 45486,
+          "Title": "Thể loại:Trái cây"
         },
         {
-          "ID": 3431334,
-          "Title": "Trấu"
+          "ID": 7295,
+          "Title": "Thể loại:Trái Đất"
         },
         {
-          "ID": 3434762,
-          "Title": "Lưới thức ăn"
+          "ID": 24895,
+          "Title": "Thể loại:Tự nhiên"
         },
         {
-          "ID": 3653505,
-          "Title": "Côca (cây)"
+          "ID": 1420,
+          "Title": "Thể loại:Vật lý học"
         },
         {
-          "ID": 13522302,
-          "Title": "Chanh Ponderosa"
+          "ID": 61620,
+          "Title": "Thể loại:Động vật"
         },
         {
-          "ID": 13686378,
-          "Title": "Tóc đỏ"
+          "ID": 25808,
+          "Title": "Thể loại:Động vật học"
         },
         {
-          "ID": 14121082,
-          "Title": "Nơron vận động"
+          "ID": 405111,
+          "Title": "Thể loại:Động vật theo lục địa"
         }
       ]
     },
@@ -1168,222 +710,172 @@
       "Title": "People and self",
       "Categories": [
         {
-          "ID": 7433,
-          "Title": "Thể loại:Nhân vật"
+          "ID": 19962,
+          "Title": "Thể loại:Bác sĩ"
         },
         {
-          "ID": 38914,
-          "Title": "Thể loại:Sinh hoạt"
-        },
-        {
-          "ID": 49587,
-          "Title": "Thể loại:Họ tên"
-        },
-        {
-          "ID": 53839,
-          "Title": "Thể loại:Phụ nữ"
-        },
-        {
-          "ID": 64793,
-          "Title": "Thể loại:Sự sống"
+          "ID": 6855,
+          "Title": "Thể loại:Chính khách"
         },
         {
           "ID": 831920,
           "Title": "Thể loại:Cá nhân"
         },
         {
-          "ID": 1111824,
-          "Title": "Thể loại:Tiểu sử"
+          "ID": 27729,
+          "Title": "Thể loại:Diễn viên"
         },
         {
-          "ID": 1297885,
-          "Title": "Thể loại:Nhân vật trong phim"
+          "ID": 56738,
+          "Title": "Thể loại:Diễn viên điện ảnh"
         },
         {
-          "ID": 1407135,
-          "Title": "Thể loại:Nhân cách"
+          "ID": 49587,
+          "Title": "Thể loại:Họ tên"
         },
         {
-          "ID": 2461476,
-          "Title": "Thể loại:Tác phẩm tiểu sử"
+          "ID": 17894,
+          "Title": "Thể loại:Kiến trúc sư"
         },
         {
-          "ID": 2979924,
-          "Title": "Thể loại:Nữ giới"
+          "ID": 786128,
+          "Title": "Thể loại:Nam diễn viên"
+        },
+        {
+          "ID": 3247424,
+          "Title": "Thể loại:Nam nhạc sĩ"
+        },
+        {
+          "ID": 3420951,
+          "Title": "Thể loại:Nghề nghiệp hàng không"
+        },
+        {
+          "ID": 93429,
+          "Title": "Thể loại:Nghệ sĩ"
         },
         {
           "ID": 3171170,
           "Title": "Thể loại:Nghệ sĩ theo phương tiện"
         },
         {
+          "ID": 8754,
+          "Title": "Thể loại:Nguyên thủ quốc gia"
+        },
+        {
+          "ID": 1762554,
+          "Title": "Thể loại:Người chết"
+        },
+        {
+          "ID": 1614168,
+          "Title": "Thể loại:Người theo hành vi"
+        },
+        {
+          "ID": 241269,
+          "Title": "Thể loại:Người theo nghề nghiệp"
+        },
+        {
+          "ID": 38489,
+          "Title": "Thể loại:Người theo năm mất"
+        },
+        {
+          "ID": 2447712,
+          "Title": "Thể loại:Người theo vai trò"
+        },
+        {
           "ID": 3247893,
           "Title": "Thể loại:Người viết tiểu sử"
-        }
-      ],
-      "Articles": [
-        {
-          "ID": 9992,
-          "Title": "Alan Turing"
         },
         {
-          "ID": 13118,
-          "Title": "Bill Gates"
+          "ID": 23718,
+          "Title": "Thể loại:Nhà cách mạng"
         },
         {
-          "ID": 18348,
-          "Title": "Carl Friedrich Gauß"
+          "ID": 3093843,
+          "Title": "Thể loại:Nhà khoa học chính trị"
         },
         {
-          "ID": 18763,
-          "Title": "René Descartes"
+          "ID": 13804,
+          "Title": "Thể loại:Nhà phát minh"
         },
         {
-          "ID": 22581,
-          "Title": "Adam Smith"
+          "ID": 26622,
+          "Title": "Thể loại:Nhà thám hiểm"
         },
         {
-          "ID": 26915,
-          "Title": "Theodor Schwann"
+          "ID": 5552,
+          "Title": "Thể loại:Nhà toán học"
         },
         {
-          "ID": 27572,
-          "Title": "Alexander Fleming"
+          "ID": 28197,
+          "Title": "Thể loại:Nhà triết học"
         },
         {
-          "ID": 27803,
-          "Title": "Sigmund Freud"
+          "ID": 6284,
+          "Title": "Thể loại:Nhà văn"
         },
         {
-          "ID": 31442,
-          "Title": "John Lennon"
+          "ID": 2493700,
+          "Title": "Thể loại:Nhà văn giả tưởng"
         },
         {
-          "ID": 32049,
-          "Title": "Adolf Hitler"
+          "ID": 7433,
+          "Title": "Thể loại:Nhân vật"
         },
         {
-          "ID": 33400,
-          "Title": "Daniel Radcliffe"
+          "ID": 11096134,
+          "Title": "Thể loại:Nhân vật chính trị"
         },
         {
-          "ID": 34112,
-          "Title": "Richard Wagner"
+          "ID": 280254,
+          "Title": "Thể loại:Nhân vật còn sống"
         },
         {
-          "ID": 36266,
-          "Title": "Johannes Kepler"
+          "ID": 103991,
+          "Title": "Thể loại:Nhân vật giả tưởng"
         },
         {
-          "ID": 51805,
-          "Title": "Cristoforo Colombo"
+          "ID": 1297885,
+          "Title": "Thể loại:Nhân vật trong phim"
         },
         {
-          "ID": 59671,
-          "Title": "Florence Nightingale"
+          "ID": 10383,
+          "Title": "Thể loại:Nhạc sĩ"
         },
         {
-          "ID": 61796,
-          "Title": "Ayn Rand"
+          "ID": 2979924,
+          "Title": "Thể loại:Nữ giới"
         },
         {
-          "ID": 66698,
-          "Title": "Paul Wight"
+          "ID": 49037,
+          "Title": "Thể loại:Phi công"
         },
         {
-          "ID": 73796,
-          "Title": "Noam Chomsky"
+          "ID": 53839,
+          "Title": "Thể loại:Phụ nữ"
         },
         {
-          "ID": 110694,
-          "Title": "William Blake"
+          "ID": 91150,
+          "Title": "Thể loại:Sinh theo năm"
         },
         {
-          "ID": 110897,
-          "Title": "Tôma Aquinô"
+          "ID": 39246,
+          "Title": "Thể loại:Thầy thuốc"
         },
         {
-          "ID": 112923,
-          "Title": "Elton John"
+          "ID": 144753,
+          "Title": "Thể loại:Tướng Hoa Kỳ"
         },
         {
-          "ID": 186157,
-          "Title": "Fibonacci"
+          "ID": 5657,
+          "Title": "Thể loại:Tổng thống"
         },
         {
-          "ID": 275056,
-          "Title": "Oliver Cromwell"
+          "ID": 90586,
+          "Title": "Thể loại:Tổng thống theo quốc gia"
         },
         {
-          "ID": 308845,
-          "Title": "Chạng vạng (tiểu thuyết)"
-        },
-        {
-          "ID": 321161,
-          "Title": "George Harrison"
-        },
-        {
-          "ID": 323109,
-          "Title": "Jacob Black"
-        },
-        {
-          "ID": 330291,
-          "Title": "Lewis Carroll"
-        },
-        {
-          "ID": 350073,
-          "Title": "Srinivasa Ramanujan"
-        },
-        {
-          "ID": 445934,
-          "Title": "Galileo Galilei"
-        },
-        {
-          "ID": 753295,
-          "Title": "Harry Houdini"
-        },
-        {
-          "ID": 775984,
-          "Title": "Richard Dawkins"
-        },
-        {
-          "ID": 806208,
-          "Title": "Anders Behring Breivik"
-        },
-        {
-          "ID": 818528,
-          "Title": "Irving Langmuir"
-        },
-        {
-          "ID": 1519246,
-          "Title": "Carl Sagan"
-        },
-        {
-          "ID": 1741824,
-          "Title": "Cory Monteith"
-        },
-        {
-          "ID": 2199519,
-          "Title": "Charles Babbage"
-        },
-        {
-          "ID": 2358900,
-          "Title": "Joseph Smith"
-        },
-        {
-          "ID": 2442642,
-          "Title": "The Big Bang Theory"
-        },
-        {
-          "ID": 3311663,
-          "Title": "Ted Cruz"
-        },
-        {
-          "ID": 11309481,
-          "Title": "Danh sách những kênh được đăng ký nhiều nhất YouTube"
-        },
-        {
-          "ID": 13814921,
-          "Title": "Bob Ross"
+          "ID": 3180303,
+          "Title": "Thể loại:Y tá và điều dưỡng viên"
         }
       ]
     },
@@ -1392,62 +884,52 @@
       "Title": "Philosophy and thinking",
       "Categories": [
         {
-          "ID": 6845,
-          "Title": "Thể loại:Triết học"
-        },
-        {
           "ID": 48836,
           "Title": "Thể loại:Học thuyết chính trị"
         },
         {
-          "ID": 62165,
-          "Title": "Thể loại:Phân nhánh triết học"
+          "ID": 1407439,
+          "Title": "Thể loại:Khái niệm triết học"
         },
         {
           "ID": 62169,
           "Title": "Thể loại:Luân lý học"
         },
         {
-          "ID": 279520,
-          "Title": "Thể loại:Ý thức hệ"
+          "ID": 1680538,
+          "Title": "Thể loại:Lý thuyết triết học"
+        },
+        {
+          "ID": 62165,
+          "Title": "Thể loại:Phân nhánh triết học"
+        },
+        {
+          "ID": 31651,
+          "Title": "Thể loại:Siêu hình học"
+        },
+        {
+          "ID": 2461474,
+          "Title": "Thể loại:Siêu triết học"
+        },
+        {
+          "ID": 1439389,
+          "Title": "Thể loại:Thực tế"
+        },
+        {
+          "ID": 6845,
+          "Title": "Thể loại:Triết học"
+        },
+        {
+          "ID": 3250680,
+          "Title": "Thể loại:Trường phái và truyền thống triết học"
         },
         {
           "ID": 865987,
           "Title": "Thể loại:Tư duy"
         },
         {
-          "ID": 1680538,
-          "Title": "Thể loại:Lý thuyết triết học"
-        },
-        {
-          "ID": 3250680,
-          "Title": "Thể loại:Trường phái và truyền thống triết học"
-        }
-      ],
-      "Articles": [
-        {
-          "ID": 6250,
-          "Title": "Tín ngưỡng"
-        },
-        {
-          "ID": 101634,
-          "Title": "Đẹp"
-        },
-        {
-          "ID": 250882,
-          "Title": "Hạnh phúc"
-        },
-        {
-          "ID": 1347291,
-          "Title": "Alegria"
-        },
-        {
-          "ID": 3297253,
-          "Title": "Gaslighting"
-        },
-        {
-          "ID": 7890322,
-          "Title": "Sự thật"
+          "ID": 279520,
+          "Title": "Thể loại:Ý thức hệ"
         }
       ]
     },
@@ -1456,32 +938,8 @@
       "Title": "Religion and belief systems",
       "Categories": [
         {
-          "ID": 4619,
-          "Title": "Thể loại:Tôn giáo"
-        },
-        {
-          "ID": 32556,
-          "Title": "Thể loại:Thần học"
-        },
-        {
-          "ID": 65113,
-          "Title": "Thể loại:Tôn giáo Ấn Độ"
-        },
-        {
-          "ID": 3211724,
-          "Title": "Thể loại:Chủ nghĩa thế tục"
-        },
-        {
-          "ID": 3386166,
-          "Title": "Thể loại:Phê bình tôn giáo"
-        },
-        {
-          "ID": 7553620,
-          "Title": "Thể loại:Tranh cãi tôn giáo"
-        },
-        {
-          "ID": 7567990,
-          "Title": "Thể loại:Tín ngưỡng, truyền thống và phong trào tôn giáo"
+          "ID": 14200742,
+          "Title": "Thể loại:Nhân loại học tôn giáo"
         },
         {
           "ID": 13490222,
@@ -1492,8 +950,28 @@
           "Title": "Thể loại:Phi hữu thần"
         },
         {
-          "ID": 14200742,
-          "Title": "Thể loại:Nhân loại học tôn giáo"
+          "ID": 3386166,
+          "Title": "Thể loại:Phê bình tôn giáo"
+        },
+        {
+          "ID": 32556,
+          "Title": "Thể loại:Thần học"
+        },
+        {
+          "ID": 7553620,
+          "Title": "Thể loại:Tranh cãi tôn giáo"
+        },
+        {
+          "ID": 7567990,
+          "Title": "Thể loại:Tín ngưỡng, truyền thống và phong trào tôn giáo"
+        },
+        {
+          "ID": 4619,
+          "Title": "Thể loại:Tôn giáo"
+        },
+        {
+          "ID": 65113,
+          "Title": "Thể loại:Tôn giáo Ấn Độ"
         }
       ]
     },
@@ -1502,450 +980,136 @@
       "Title": "Society and social sciences",
       "Categories": [
         {
-          "ID": 6821,
-          "Title": "Thể loại:Tổ chức quốc tế"
+          "ID": 13469610,
+          "Title": "Thể loại:Bộ lạc theo khu vực"
         },
         {
-          "ID": 7494,
-          "Title": "Thể loại:Xã hội"
+          "ID": 48944,
+          "Title": "Thể loại:Chính phủ"
         },
         {
-          "ID": 7508,
-          "Title": "Thể loại:Luật pháp"
-        },
-        {
-          "ID": 32787,
-          "Title": "Thể loại:Khoa học xã hội"
-        },
-        {
-          "ID": 88920,
-          "Title": "Thể loại:Trường đại học và cao đẳng theo quốc gia"
-        },
-        {
-          "ID": 91137,
-          "Title": "Thể loại:Nhân văn học"
-        },
-        {
-          "ID": 263145,
-          "Title": "Thể loại:Quyền"
-        },
-        {
-          "ID": 1699735,
-          "Title": "Thể loại:Tổ chức liên chính phủ"
-        },
-        {
-          "ID": 3150124,
-          "Title": "Thể loại:Luật thành văn"
+          "ID": 43453,
+          "Title": "Thể loại:Chế độ chính trị"
         },
         {
           "ID": 3156295,
           "Title": "Thể loại:Chủ nghĩa nữ giới"
         },
         {
+          "ID": 62090,
+          "Title": "Thể loại:Công ty"
+        },
+        {
+          "ID": 334699,
+          "Title": "Thể loại:Cơ quan chính phủ"
+        },
+        {
+          "ID": 79186,
+          "Title": "Thể loại:Giáo dục theo quốc gia"
+        },
+        {
+          "ID": 92608,
+          "Title": "Thể loại:Hãng hàng không"
+        },
+        {
+          "ID": 814782,
+          "Title": "Thể loại:Hình phạt"
+        },
+        {
           "ID": 3527143,
           "Title": "Thể loại:Khoa học nhân văn"
-        }
-      ],
-      "Articles": [
-        {
-          "ID": 5568,
-          "Title": "Liên minh châu Âu"
-        },
-        {
-          "ID": 8599,
-          "Title": "Quy ước giờ mùa hè"
-        },
-        {
-          "ID": 9813,
-          "Title": "Đại học Pennsylvania"
-        },
-        {
-          "ID": 11621,
-          "Title": "Đại học Stanford"
-        },
-        {
-          "ID": 36289,
-          "Title": "The New York Times"
-        },
-        {
-          "ID": 36688,
-          "Title": "Iran"
-        },
-        {
-          "ID": 38294,
-          "Title": "Chile"
-        },
-        {
-          "ID": 46843,
-          "Title": "Đại học Harvard"
-        },
-        {
-          "ID": 47819,
-          "Title": "Đại học Victoria"
-        },
-        {
-          "ID": 50528,
-          "Title": "Đại học Princeton"
-        },
-        {
-          "ID": 51203,
-          "Title": "Đại học Columbia"
-        },
-        {
-          "ID": 54914,
-          "Title": "Barbados"
-        },
-        {
-          "ID": 57895,
-          "Title": "Đại học Quốc gia Moskva"
-        },
-        {
-          "ID": 67463,
-          "Title": "Viện Công nghệ Massachusetts"
-        },
-        {
-          "ID": 69447,
-          "Title": "Đại học Virginia"
-        },
-        {
-          "ID": 78262,
-          "Title": "Đại học Ulster"
-        },
-        {
-          "ID": 78934,
-          "Title": "American Airlines"
-        },
-        {
-          "ID": 86126,
-          "Title": "Đại học Tōkyō"
-        },
-        {
-          "ID": 88805,
-          "Title": "Đại học Thanh Hoa"
-        },
-        {
-          "ID": 88996,
-          "Title": "Đại học Malaya"
-        },
-        {
-          "ID": 89102,
-          "Title": "Đại học Tiểu bang Ohio"
-        },
-        {
-          "ID": 89320,
-          "Title": "Đại học Paris"
-        },
-        {
-          "ID": 91853,
-          "Title": "Đại học Lviv"
-        },
-        {
-          "ID": 91860,
-          "Title": "Đại học Odessa"
-        },
-        {
-          "ID": 94105,
-          "Title": "Đại học Oxford"
-        },
-        {
-          "ID": 94176,
-          "Title": "Đại học Cambridge"
-        },
-        {
-          "ID": 102608,
-          "Title": "Đại học Glasgow"
-        },
-        {
-          "ID": 103361,
-          "Title": "Đại học Southampton"
-        },
-        {
-          "ID": 120197,
-          "Title": "Đại học Nottingham"
-        },
-        {
-          "ID": 121211,
-          "Title": "Công tác xã hội"
-        },
-        {
-          "ID": 129870,
-          "Title": "Đại học Washington tại St. Louis"
-        },
-        {
-          "ID": 134147,
-          "Title": "Đại học Oregon"
-        },
-        {
-          "ID": 136372,
-          "Title": "Đại học công lập"
-        },
-        {
-          "ID": 141263,
-          "Title": "Đại học Sydney"
-        },
-        {
-          "ID": 141299,
-          "Title": "Đại học La Trobe"
-        },
-        {
-          "ID": 141573,
-          "Title": "Đại học Quốc gia Úc"
-        },
-        {
-          "ID": 142615,
-          "Title": "Đại học Osaka"
-        },
-        {
-          "ID": 153099,
-          "Title": "Đại học Chicago"
-        },
-        {
-          "ID": 176013,
-          "Title": "Đại học Missouri"
-        },
-        {
-          "ID": 196366,
-          "Title": "Đại học Maryland, College Park"
-        },
-        {
-          "ID": 203510,
-          "Title": "Đại học Indiana tại Bloomington"
-        },
-        {
-          "ID": 214804,
-          "Title": "Đại học Leipzig"
-        },
-        {
-          "ID": 251998,
-          "Title": "Đại học Göttingen"
-        },
-        {
-          "ID": 298362,
-          "Title": "Kinh tế Iran"
-        },
-        {
-          "ID": 408695,
-          "Title": "Đại học Hokkaido"
-        },
-        {
-          "ID": 433961,
-          "Title": "Quốc kỳ Úc"
-        },
-        {
-          "ID": 475659,
-          "Title": "Tiền mệnh giá lớn của Hoa Kỳ"
-        },
-        {
-          "ID": 485147,
-          "Title": "Đại học Nam Kinh"
-        },
-        {
-          "ID": 514773,
-          "Title": "BP"
-        },
-        {
-          "ID": 521862,
-          "Title": "Starbucks"
-        },
-        {
-          "ID": 528226,
-          "Title": "Đại học Otago"
-        },
-        {
-          "ID": 528304,
-          "Title": "Đại học Uppsala"
-        },
-        {
-          "ID": 540339,
-          "Title": "Đại học Milano"
-        },
-        {
-          "ID": 540447,
-          "Title": "Đại học Bologna"
-        },
-        {
-          "ID": 540815,
-          "Title": "Đại học Stockholm"
-        },
-        {
-          "ID": 541135,
-          "Title": "Đại học Linköping"
-        },
-        {
-          "ID": 541348,
-          "Title": "Chiến tranh thế giới thứ ba"
-        },
-        {
-          "ID": 543014,
-          "Title": "Đại học Bonn"
-        },
-        {
-          "ID": 543525,
-          "Title": "Đại học Gothenburg"
-        },
-        {
-          "ID": 545735,
-          "Title": "Đại học Manchester"
-        },
-        {
-          "ID": 792375,
-          "Title": "Đại học Padova"
-        },
-        {
-          "ID": 804532,
-          "Title": "Đại học Liverpool"
-        },
-        {
-          "ID": 810253,
-          "Title": "Đại học Nam California"
-        },
-        {
-          "ID": 815506,
-          "Title": "Pizza Hut"
-        },
-        {
-          "ID": 824068,
-          "Title": "Đại học Tartu"
-        },
-        {
-          "ID": 825350,
-          "Title": "Đại học Tübingen"
-        },
-        {
-          "ID": 836295,
-          "Title": "Tết Trung Quốc"
-        },
-        {
-          "ID": 841348,
-          "Title": "Vi quốc gia"
-        },
-        {
-          "ID": 841350,
-          "Title": "Đại học Tổng hợp Sankt-Peterburg"
-        },
-        {
-          "ID": 1220642,
-          "Title": "Đại học Luân Đôn"
-        },
-        {
-          "ID": 1242619,
-          "Title": "Đại học Quốc gia Seoul"
-        },
-        {
-          "ID": 1408593,
-          "Title": "Đại học Hebrew của Jerusalem"
-        },
-        {
-          "ID": 1439825,
-          "Title": "Đại học Texas tại Austin"
-        },
-        {
-          "ID": 1446083,
-          "Title": "Đại học Auckland"
-        },
-        {
-          "ID": 1536807,
-          "Title": "Đại học Freiburg"
-        },
-        {
-          "ID": 1678725,
-          "Title": "Đại học Calgary"
-        },
-        {
-          "ID": 1735083,
-          "Title": "Đại học Đông Nam"
         },
         {
-          "ID": 1747166,
-          "Title": "Đại học St. Andrews"
+          "ID": 32787,
+          "Title": "Thể loại:Khoa học xã hội"
         },
         {
-          "ID": 1765383,
-          "Title": "Fox News"
+          "ID": 7508,
+          "Title": "Thể loại:Luật pháp"
         },
         {
-          "ID": 2261372,
-          "Title": "Chương trình Môi trường Liên Hiệp Quốc"
+          "ID": 3150124,
+          "Title": "Thể loại:Luật thành văn"
         },
         {
-          "ID": 2282514,
-          "Title": "Đại học Waterloo"
+          "ID": 1407135,
+          "Title": "Thể loại:Nhân cách"
         },
         {
-          "ID": 2419927,
-          "Title": "Đại học Sungkyunkwan"
+          "ID": 91137,
+          "Title": "Thể loại:Nhân văn học"
         },
         {
-          "ID": 2424830,
-          "Title": "Domino's Pizza"
+          "ID": 14247986,
+          "Title": "Thể loại:Nhóm đoàn thể"
         },
         {
-          "ID": 2461267,
-          "Title": "Đại học Leeds"
+          "ID": 263145,
+          "Title": "Thể loại:Quyền"
         },
         {
-          "ID": 3148441,
-          "Title": "Đại học Umeå"
+          "ID": 13447,
+          "Title": "Thể loại:Quốc kỳ"
         },
         {
-          "ID": 3184677,
-          "Title": "Đại học Wollongong"
+          "ID": 37653,
+          "Title": "Thể loại:Tiếp thị"
         },
         {
-          "ID": 3209574,
-          "Title": "Đại học Quốc gia"
+          "ID": 588527,
+          "Title": "Thể loại:Tiền"
         },
         {
-          "ID": 3223425,
-          "Title": "Đại học Newcastle (Úc)"
+          "ID": 418765,
+          "Title": "Thể loại:Tiền kim loại"
         },
         {
-          "ID": 3235491,
-          "Title": "Đại học Iowa"
+          "ID": 34053,
+          "Title": "Thể loại:Tiền tệ"
         },
         {
-          "ID": 3259802,
-          "Title": "Đại học Viên"
+          "ID": 88920,
+          "Title": "Thể loại:Trường đại học và cao đẳng theo quốc gia"
         },
         {
-          "ID": 3341738,
-          "Title": "Đại học Queensland"
+          "ID": 7534,
+          "Title": "Thể loại:Tài chính"
         },
         {
-          "ID": 3519919,
-          "Title": "The Times of India"
+          "ID": 7791,
+          "Title": "Thể loại:Tâm lý học"
         },
         {
-          "ID": 3521071,
-          "Title": "Đại học Tohoku"
+          "ID": 62092,
+          "Title": "Thể loại:Tổ chức"
         },
         {
-          "ID": 3669499,
-          "Title": "Vụ tấn công ở Westminster 2017"
+          "ID": 1581776,
+          "Title": "Thể loại:Tổ chức chính quyền"
         },
         {
-          "ID": 3712487,
-          "Title": "Đại học Minnesota"
+          "ID": 1699735,
+          "Title": "Thể loại:Tổ chức liên chính phủ"
         },
         {
-          "ID": 12311645,
-          "Title": "Đại học Michigan"
+          "ID": 6821,
+          "Title": "Thể loại:Tổ chức quốc tế"
         },
         {
-          "ID": 13174651,
-          "Title": "Đại học Arizona"
+          "ID": 14515391,
+          "Title": "Thể loại:Vụ giết người"
         },
         {
-          "ID": 13376518,
-          "Title": "Đại học Washington"
+          "ID": 7494,
+          "Title": "Thể loại:Xã hội"
         },
         {
-          "ID": 13485338,
-          "Title": "Jio"
+          "ID": 401828,
+          "Title": "Thể loại:Đơn vị tiền tệ đang lưu thông"
         },
         {
-          "ID": 13714555,
-          "Title": "Đại học Napoli Federico II"
+          "ID": 61941,
+          "Title": "Thể loại:Địa chính trị"
         }
       ]
     },
@@ -1954,122 +1118,156 @@
       "Title": "Technology and applied sciences",
       "Categories": [
         {
-          "ID": 1180,
-          "Title": "Thể loại:Internet"
+          "ID": 2421176,
+          "Title": "Thể loại:Chế biến gỗ"
         },
         {
-          "ID": 1543,
-          "Title": "Thể loại:Máy tính"
-        },
-        {
-          "ID": 1566,
-          "Title": "Thể loại:Kỹ thuật"
+          "ID": 38805,
+          "Title": "Thể loại:Công cụ"
         },
         {
           "ID": 2208,
           "Title": "Thể loại:Công nghệ"
         },
         {
-          "ID": 3082,
-          "Title": "Thể loại:Khoa học ứng dụng"
-        },
-        {
-          "ID": 4647,
-          "Title": "Thể loại:Tin học"
-        },
-        {
-          "ID": 4783,
-          "Title": "Thể loại:Khoa học máy tính"
-        },
-        {
-          "ID": 4950,
-          "Title": "Thể loại:Điện tử học"
-        },
-        {
-          "ID": 7509,
-          "Title": "Thể loại:Giao thông"
-        },
-        {
-          "ID": 7675,
-          "Title": "Thể loại:Cơ sở dữ liệu"
-        },
-        {
-          "ID": 14974,
-          "Title": "Thể loại:Quản trị dữ liệu"
-        },
-        {
-          "ID": 37651,
-          "Title": "Thể loại:Thiết kế"
-        },
-        {
-          "ID": 68461,
-          "Title": "Thể loại:Lịch sử công nghệ"
-        },
-        {
-          "ID": 77352,
-          "Title": "Thể loại:Thiết bị quân sự"
+          "ID": 7624018,
+          "Title": "Thể loại:Công nghệ quân sự"
         },
         {
           "ID": 2432322,
           "Title": "Thể loại:Công nghệ theo dạng"
         },
         {
-          "ID": 3121928,
-          "Title": "Thể loại:Thời biểu công nghệ"
+          "ID": 9175,
+          "Title": "Thể loại:Công nghệ thông tin"
         },
         {
-          "ID": 7624018,
-          "Title": "Thể loại:Công nghệ quân sự"
-        }
-      ],
-      "Articles": [
-        {
-          "ID": 9824,
-          "Title": "Hàn (công nghệ)"
+          "ID": 7675,
+          "Title": "Thể loại:Cơ sở dữ liệu"
         },
         {
-          "ID": 81563,
-          "Title": "Kẹo cao su"
+          "ID": 14033102,
+          "Title": "Thể loại:Cải thiện chỗ ở"
         },
         {
-          "ID": 104952,
-          "Title": "Tên miền cấp cao nhất"
+          "ID": 300165,
+          "Title": "Thể loại:Dụng cụ cầm tay"
         },
         {
-          "ID": 281435,
-          "Title": "Xây cất bằng gạch"
+          "ID": 2421173,
+          "Title": "Thể loại:Dụng cụ cắt"
         },
         {
-          "ID": 423840,
-          "Title": "Pepsi"
+          "ID": 7509,
+          "Title": "Thể loại:Giao thông"
         },
         {
-          "ID": 1220453,
-          "Title": "Nghiên cứu khả thi"
+          "ID": 444338,
+          "Title": "Thể loại:Hàng gia dụng"
         },
         {
-          "ID": 2353498,
-          "Title": "Tường"
+          "ID": 25876,
+          "Title": "Thể loại:In ấn"
         },
         {
-          "ID": 2414295,
-          "Title": "Mountain Dew"
+          "ID": 1180,
+          "Title": "Thể loại:Internet"
         },
         {
-          "ID": 3492628,
-          "Title": "PepsiCo"
+          "ID": 4783,
+          "Title": "Thể loại:Khoa học máy tính"
+        },
+        {
+          "ID": 3082,
+          "Title": "Thể loại:Khoa học ứng dụng"
+        },
+        {
+          "ID": 1566,
+          "Title": "Thể loại:Kỹ thuật"
+        },
+        {
+          "ID": 72297,
+          "Title": "Thể loại:Kỹ thuật cơ khí"
+        },
+        {
+          "ID": 5702,
+          "Title": "Thể loại:Kỹ thuật xây dựng"
+        },
+        {
+          "ID": 2458905,
+          "Title": "Thể loại:Kỹ thuật xây dựng dân dụng"
+        },
+        {
+          "ID": 25631,
+          "Title": "Thể loại:Lập trình máy tính"
+        },
+        {
+          "ID": 11297243,
+          "Title": "Thể loại:Lịch cụ thể"
+        },
+        {
+          "ID": 491738,
+          "Title": "Thể loại:Máy móc"
+        },
+        {
+          "ID": 249045,
+          "Title": "Thể loại:Máy trò chơi điện tử"
+        },
+        {
+          "ID": 1543,
+          "Title": "Thể loại:Máy tính"
+        },
+        {
+          "ID": 2314,
+          "Title": "Thể loại:Phần mềm"
+        },
+        {
+          "ID": 14974,
+          "Title": "Thể loại:Quản trị dữ liệu"
+        },
+        {
+          "ID": 62726,
+          "Title": "Thể loại:Thiết bị"
+        },
+        {
+          "ID": 77369,
+          "Title": "Thể loại:Thiết bị nhà bếp"
+        },
+        {
+          "ID": 77352,
+          "Title": "Thể loại:Thiết bị quân sự"
+        },
+        {
+          "ID": 37651,
+          "Title": "Thể loại:Thiết kế"
+        },
+        {
+          "ID": 4647,
+          "Title": "Thể loại:Tin học"
+        },
+        {
+          "ID": 17654,
+          "Title": "Thể loại:Tiêu chuẩn"
+        },
+        {
+          "ID": 9383,
+          "Title": "Thể loại:Xây dựng"
+        },
+        {
+          "ID": 4950,
+          "Title": "Thể loại:Điện tử học"
         }
       ]
     }
   ],
   "Filters": [
     {
-      "ID": 2717,
-      "Title": "Thể loại:Trang định hướng"
-    },
-    {
       "ID": 239282,
       "Title": "Thể loại:Thể loại ẩn"
+    },
+    {
+      "ID": 2717,
+      "Title": "Thể loại:Trang định hướng"
     }
   ]
 }

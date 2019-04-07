@@ -9,21 +9,21 @@
           "ID": 5946,
           "Title": "Category:Gunu - Kakana"
         }
-      ],
-      "Articles": [
-        {
-          "ID": 2273,
-          "Title": "Madrai"
-        },
-        {
-          "ID": 5945,
-          "Title": "Bia"
-        }
       ]
     },
     {
       "ID": 2147483638,
-      "Title": "Geography and places"
+      "Title": "Geography and places",
+      "Categories": [
+        {
+          "ID": 7286,
+          "Title": "Category:Matanitu"
+        },
+        {
+          "ID": 7374,
+          "Title": "Category:Siti"
+        }
+      ]
     },
     {
       "ID": 2147483639,
@@ -40,26 +40,20 @@
     {
       "ID": 2147483642,
       "Title": "Nature and physical sciences",
-      "Articles": [
+      "Categories": [
         {
-          "ID": 7345,
-          "Title": "Vainaviu"
+          "ID": 5813,
+          "Title": "Category:Manumanu"
         },
         {
-          "ID": 7346,
-          "Title": "Sila"
+          "ID": 5948,
+          "Title": "Category:Vua"
         }
       ]
     },
     {
       "ID": 2147483643,
-      "Title": "People and self",
-      "Articles": [
-        {
-          "ID": 2328,
-          "Title": "Josefa Simici"
-        }
-      ]
+      "Title": "People and self"
     },
     {
       "ID": 2147483644,
@@ -71,17 +65,7 @@
     },
     {
       "ID": 2147483646,
-      "Title": "Society and social sciences",
-      "Articles": [
-        {
-          "ID": 7320,
-          "Title": "Chile"
-        },
-        {
-          "ID": 7730,
-          "Title": "Iran"
-        }
-      ]
+      "Title": "Society and social sciences"
     },
     {
       "ID": 2147483647,

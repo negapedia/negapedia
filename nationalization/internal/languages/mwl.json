@@ -10,78 +10,132 @@
           "Title": "Catadorie:Alimentaçon"
         },
         {
-          "ID": 23,
-          "Title": "Catadorie:Arte"
-        },
-        {
-          "ID": 55,
-          "Title": "Catadorie:Cultura"
-        },
-        {
-          "ID": 68,
-          "Title": "Catadorie:Filmes"
-        },
-        {
-          "ID": 77,
-          "Title": "Catadorie:Gastronomie"
-        },
-        {
-          "ID": 114,
-          "Title": "Catadorie:Passatiempo"
-        },
-        {
-          "ID": 170,
-          "Title": "Catadorie:Çportos"
-        },
-        {
-          "ID": 1683,
-          "Title": "Catadorie:Scrita"
-        },
-        {
           "ID": 2562,
           "Title": "Catadorie:Alimientos"
         },
         {
-          "ID": 2889,
-          "Title": "Catadorie:Spetaclos"
+          "ID": 2448,
+          "Title": "Catadorie:Amprensa"
         },
         {
           "ID": 2890,
           "Title": "Catadorie:Antretenimiento"
         },
         {
+          "ID": 23,
+          "Title": "Catadorie:Arte"
+        },
+        {
+          "ID": 2887,
+          "Title": "Catadorie:Artes cénicas"
+        },
+        {
+          "ID": 4047,
+          "Title": "Catadorie:Artes marciales"
+        },
+        {
+          "ID": 2891,
+          "Title": "Catadorie:Bida pessonal"
+        },
+        {
+          "ID": 39,
+          "Title": "Catadorie:Biografies"
+        },
+        {
+          "ID": 2726,
+          "Title": "Catadorie:Coincimiento"
+        },
+        {
+          "ID": 55,
+          "Title": "Catadorie:Cultura"
+        },
+        {
+          "ID": 4947,
+          "Title": "Catadorie:Cultura de la Anterneta"
+        },
+        {
+          "ID": 2823,
+          "Title": "Catadorie:Cultura popular"
+        },
+        {
+          "ID": 1878,
+          "Title": "Catadorie:Cultura por paíç"
+        },
+        {
+          "ID": 61,
+          "Title": "Catadorie:Eiducaçon"
+        },
+        {
+          "ID": 68,
+          "Title": "Catadorie:Filmes"
+        },
+        {
+          "ID": 2821,
+          "Title": "Catadorie:Fulclore"
+        },
+        {
+          "ID": 77,
+          "Title": "Catadorie:Gastronomie"
+        },
+        {
+          "ID": 1896,
+          "Title": "Catadorie:Género"
+        },
+        {
+          "ID": 2312,
+          "Title": "Catadorie:Géneros musicales"
+        },
+        {
+          "ID": 2447,
+          "Title": "Catadorie:Jornales"
+        },
+        {
           "ID": 2894,
           "Title": "Catadorie:Lhazer"
         },
         {
+          "ID": 1717,
+          "Title": "Catadorie:Lhibros"
+        },
+        {
+          "ID": 2036,
+          "Title": "Catadorie:Lhibros por outor"
+        },
+        {
+          "ID": 3303,
+          "Title": "Catadorie:Lhiendas"
+        },
+        {
+          "ID": 90,
+          "Title": "Catadorie:Lhiteratura"
+        },
+        {
+          "ID": 104,
+          "Title": "Catadorie:Música"
+        },
+        {
+          "ID": 114,
+          "Title": "Catadorie:Passatiempo"
+        },
+        {
           "ID": 2895,
           "Title": "Catadorie:Recreaçon"
-        }
-      ],
-      "Articles": [
-        {
-          "ID": 348,
-          "Title": "Anciclopédia"
         },
         {
-          "ID": 1188,
-          "Title": "Wikipedia"
+          "ID": 1683,
+          "Title": "Catadorie:Scrita"
         },
         {
-          "ID": 3729,
-          "Title": "Cacau"
+          "ID": 2889,
+          "Title": "Catadorie:Spetaclos"
         },
         {
-          "ID": 5658,
-          "Title": "Biquipédia"
+          "ID": 10295,
+          "Title": "Catadorie:Telbison"
         },
         {
-          "ID": 7694,
-          "Title": "Pan"
-        },
-        {
-          "ID": 9097,
-          "Title": "Festibal Ourobison de la Cançon 2018"
+          "ID": 170,
+          "Title": "Catadorie:Çportos"
         }
       ]
     },
@@ -89,6 +143,14 @@
       "ID": 2147483638,
       "Title": "Geography and places",
       "Categories": [
+        {
+          "ID": 2421,
+          "Title": "Catadorie:Bilas"
+        },
+        {
+          "ID": 1661,
+          "Title": "Catadorie:Cidades"
+        },
         {
           "ID": 78,
           "Title": "Catadorie:Geografie"
@@ -100,24 +162,14 @@
         {
           "ID": 2108,
           "Title": "Catadorie:Menumientos"
-        }
-      ],
-      "Articles": [
-        {
-          "ID": 522,
-          "Title": "Houmano"
         },
         {
-          "ID": 693,
-          "Title": "Oustrália"
+          "ID": 6096,
+          "Title": "Catadorie:Paízes de l mundo"
         },
         {
-          "ID": 701,
-          "Title": "Paris"
-        },
-        {
-          "ID": 4625,
-          "Title": "Homo sapiens"
+          "ID": 2165,
+          "Title": "Catadorie:Rius"
         }
       ]
     },
@@ -130,12 +182,12 @@
           "Title": "Catadorie:Ciéncias de la salude"
         },
         {
-          "ID": 139,
-          "Title": "Catadorie:Salude"
-        },
-        {
           "ID": 2910,
           "Title": "Catadorie:Medecina"
+        },
+        {
+          "ID": 139,
+          "Title": "Catadorie:Salude"
         },
         {
           "ID": 3075,
@@ -148,34 +200,44 @@
       "Title": "History and events",
       "Categories": [
         {
-          "ID": 52,
-          "Title": "Catadorie:Ciéncias houmanas"
+          "ID": 1598,
+          "Title": "Catadorie:Eibentos"
         },
         {
-          "ID": 53,
-          "Title": "Catadorie:Ciéncias sociales"
+          "ID": 3448,
+          "Title": "Catadorie:Eibentos políticos"
+        },
+        {
+          "ID": 3426,
+          "Title": "Catadorie:Guerra"
+        },
+        {
+          "ID": 1596,
+          "Title": "Catadorie:Guerras"
+        },
+        {
+          "ID": 1576,
+          "Title": "Catadorie:Reboluçones"
         },
         {
           "ID": 151,
           "Title": "Catadorie:Stória"
         },
         {
-          "ID": 1598,
-          "Title": "Catadorie:Eibentos"
+          "ID": 1793,
+          "Title": "Catadorie:Stória de la política"
         },
         {
-          "ID": 2056,
-          "Title": "Catadorie:Stória por region"
+          "ID": 1820,
+          "Title": "Catadorie:Stória de la tecnologie"
         },
         {
           "ID": 6083,
           "Title": "Catadorie:Stória de ls paízes"
-        }
-      ],
-      "Articles": [
+        },
         {
-          "ID": 8755,
-          "Title": "Donald Trump"
+          "ID": 2056,
+          "Title": "Catadorie:Stória por region"
         }
       ]
     },
@@ -184,20 +246,20 @@
       "Title": "Mathematics and logic",
       "Categories": [
         {
-          "ID": 94,
-          "Title": "Catadorie:Matemática"
-        },
-        {
           "ID": 2699,
           "Title": "Catadorie:Lógica"
         },
         {
-          "ID": 3927,
-          "Title": "Catadorie:Statística"
+          "ID": 94,
+          "Title": "Catadorie:Matemática"
         },
         {
           "ID": 8725,
           "Title": "Catadorie:Matemática aplicada"
+        },
+        {
+          "ID": 3927,
+          "Title": "Catadorie:Statística"
         }
       ]
     },
@@ -206,36 +268,20 @@
       "Title": "Nature and physical sciences",
       "Categories": [
         {
-          "ID": 76,
-          "Title": "Catadorie:Física"
+          "ID": 3313,
+          "Title": "Catadorie:Anatomie"
         },
         {
-          "ID": 131,
-          "Title": "Catadorie:Química"
+          "ID": 17,
+          "Title": "Catadorie:Animales"
+        },
+        {
+          "ID": 2020,
+          "Title": "Catadorie:Bida"
         },
         {
           "ID": 1296,
           "Title": "Catadorie:Ciéncia"
-        },
-        {
-          "ID": 1720,
-          "Title": "Catadorie:Natureza"
-        },
-        {
-          "ID": 1845,
-          "Title": "Catadorie:Cumpuostos químicos"
-        },
-        {
-          "ID": 2498,
-          "Title": "Catadorie:Zologie"
-        },
-        {
-          "ID": 2726,
-          "Title": "Catadorie:Coincimiento"
-        },
-        {
-          "ID": 2907,
-          "Title": "Catadorie:Zastres"
         },
         {
           "ID": 3069,
@@ -244,16 +290,42 @@
         {
           "ID": 3926,
           "Title": "Catadorie:Ciéncias naturales"
-        }
-      ],
-      "Articles": [
-        {
-          "ID": 324,
-          "Title": "Trigo"
         },
         {
-          "ID": 1498,
-          "Title": "Fuogo"
+          "ID": 1845,
+          "Title": "Catadorie:Cumpuostos químicos"
+        },
+        {
+          "ID": 2025,
+          "Title": "Catadorie:Eicologie"
+        },
+        {
+          "ID": 76,
+          "Title": "Catadorie:Física"
+        },
+        {
+          "ID": 1720,
+          "Title": "Catadorie:Natureza"
+        },
+        {
+          "ID": 3084,
+          "Title": "Catadorie:Plantas"
+        },
+        {
+          "ID": 131,
+          "Title": "Catadorie:Química"
+        },
+        {
+          "ID": 161,
+          "Title": "Catadorie:Tierra"
+        },
+        {
+          "ID": 2907,
+          "Title": "Catadorie:Zastres"
+        },
+        {
+          "ID": 2498,
+          "Title": "Catadorie:Zologie"
         }
       ]
     },
@@ -262,86 +334,84 @@
       "Title": "People and self",
       "Categories": [
         {
-          "ID": 39,
-          "Title": "Catadorie:Biografies"
+          "ID": 10817,
+          "Title": "Catadorie:Abiadores"
         },
         {
-          "ID": 118,
-          "Title": "Catadorie:Pessonas"
+          "ID": 8466,
+          "Title": "Catadorie:Ambentores"
+        },
+        {
+          "ID": 4954,
+          "Title": "Catadorie:Arquitetos"
+        },
+        {
+          "ID": 31,
+          "Title": "Catadorie:Artistas"
+        },
+        {
+          "ID": 37,
+          "Title": "Catadorie:Atores"
+        },
+        {
+          "ID": 1830,
+          "Title": "Catadorie:Filósofos"
+        },
+        {
+          "ID": 1910,
+          "Title": "Catadorie:Matemáticos"
         },
         {
           "ID": 1894,
           "Title": "Catadorie:Mulhier"
         },
         {
-          "ID": 2020,
-          "Title": "Catadorie:Bida"
+          "ID": 105,
+          "Title": "Catadorie:Músicos"
         },
         {
-          "ID": 2891,
-          "Title": "Catadorie:Bida pessonal"
+          "ID": 3424,
+          "Title": "Catadorie:Persidentes"
         },
         {
-          "ID": 2892,
-          "Title": "Catadorie:Personalidade"
-        }
-      ],
-      "Articles": [
-        {
-          "ID": 545,
-          "Title": "Joseph Smith Jr."
+          "ID": 3423,
+          "Title": "Catadorie:Persidentes por paíç"
         },
         {
-          "ID": 776,
-          "Title": "Alan Turing"
+          "ID": 118,
+          "Title": "Catadorie:Pessonas"
         },
         {
-          "ID": 939,
-          "Title": "Carl Friedrich Gauss"
+          "ID": 9873,
+          "Title": "Catadorie:Pessonas bibas"
         },
         {
-          "ID": 2272,
-          "Title": "Cristobo Colombo"
+          "ID": 9872,
+          "Title": "Catadorie:Pessonas muortas"
         },
         {
-          "ID": 3508,
-          "Title": "Leonardo Fibonacci"
+          "ID": 119,
+          "Title": "Catadorie:Pessonas por acupaçon"
         },
         {
-          "ID": 3698,
-          "Title": "Galileu Galilei"
+          "ID": 124,
+          "Title": "Catadorie:Políticos"
         },
         {
-          "ID": 3712,
-          "Title": "René Descartes"
+          "ID": 1964,
+          "Title": "Catadorie:Rebolucionários"
         },
         {
-          "ID": 4283,
-          "Title": "Adolf Hitler"
+          "ID": 140,
+          "Title": "Catadorie:Scritores"
         },
         {
-          "ID": 4630,
-          "Title": "John Lennon"
+          "ID": 2100,
+          "Title": "Catadorie:Sploradores"
         },
         {
-          "ID": 7586,
-          "Title": "Richard Wagner"
-        },
-        {
-          "ID": 7600,
-          "Title": "Bill Gates"
-        },
-        {
-          "ID": 7615,
-          "Title": "Srinivasa Ramanujan"
-        },
-        {
-          "ID": 7618,
-          "Title": "Adam Smith"
-        },
-        {
-          "ID": 8380,
-          "Title": "Sigmund Freud"
+          "ID": 2361,
+          "Title": "Catadorie:Xefes de Stado"
         }
       ]
     },
@@ -350,16 +420,20 @@
       "Title": "Philosophy and thinking",
       "Categories": [
         {
-          "ID": 74,
-          "Title": "Catadorie:Filosofie"
-        },
-        {
-          "ID": 171,
-          "Title": "Catadorie:Ética"
+          "ID": 1893,
+          "Title": "Catadorie:Cunceitos filosóficos"
         },
         {
           "ID": 1613,
           "Title": "Catadorie:Eideologies"
+        },
+        {
+          "ID": 74,
+          "Title": "Catadorie:Filosofie"
+        },
+        {
+          "ID": 1692,
+          "Title": "Catadorie:Metafísica"
         },
         {
           "ID": 2220,
@@ -372,12 +446,10 @@
         {
           "ID": 2715,
           "Title": "Catadorie:Teories filosóficas"
-        }
-      ],
-      "Articles": [
+        },
         {
-          "ID": 3545,
-          "Title": "Felcidade"
+          "ID": 171,
+          "Title": "Catadorie:Ética"
         }
       ]
     },
@@ -390,12 +462,12 @@
           "Title": "Catadorie:Relegion"
         },
         {
-          "ID": 1833,
-          "Title": "Catadorie:Teologie"
-        },
-        {
           "ID": 10389,
           "Title": "Catadorie:Religion"
+        },
+        {
+          "ID": 1833,
+          "Title": "Catadorie:Teologie"
         }
       ]
     },
@@ -403,6 +475,18 @@
       "ID": 2147483646,
       "Title": "Society and social sciences",
       "Categories": [
+        {
+          "ID": 4809,
+          "Title": "Catadorie:Ampresas"
+        },
+        {
+          "ID": 2641,
+          "Title": "Catadorie:Anstituiçones de ansino superior por paíç"
+        },
+        {
+          "ID": 2676,
+          "Title": "Catadorie:Anstituiçones gobernamentales"
+        },
         {
           "ID": 52,
           "Title": "Catadorie:Ciéncias houmanas"
@@ -412,46 +496,64 @@
           "Title": "Catadorie:Ciéncias sociales"
         },
         {
+          "ID": 3526,
+          "Title": "Catadorie:Denheiro"
+        },
+        {
           "ID": 60,
           "Title": "Catadorie:Dreito"
         },
         {
-          "ID": 144,
-          "Title": "Catadorie:Sociadade"
-        },
-        {
-          "ID": 1618,
-          "Title": "Catadorie:Ourganizaçones anternacionales"
+          "ID": 2635,
+          "Title": "Catadorie:Eiducaçon por paíç"
         },
         {
           "ID": 1891,
           "Title": "Catadorie:Femenismo"
         },
         {
-          "ID": 2641,
-          "Title": "Catadorie:Anstituiçones de ansino superior por paíç"
+          "ID": 1614,
+          "Title": "Catadorie:Geopolítica"
+        },
+        {
+          "ID": 8643,
+          "Title": "Catadorie:Gobierno"
+        },
+        {
+          "ID": 4811,
+          "Title": "Catadorie:Grupos corporatibos"
+        },
+        {
+          "ID": 2663,
+          "Title": "Catadorie:Guildas"
         },
         {
           "ID": 3308,
           "Title": "Catadorie:Lheis"
-        }
-      ],
-      "Articles": [
-        {
-          "ID": 689,
-          "Title": "Ounion Ouropeia"
         },
         {
-          "ID": 3945,
-          "Title": "Chile"
+          "ID": 4766,
+          "Title": "Catadorie:Monedas"
         },
         {
-          "ID": 6144,
-          "Title": "Ounibersidade de Milan"
+          "ID": 1678,
+          "Title": "Catadorie:Ourganizaçones"
         },
         {
-          "ID": 7895,
-          "Title": "Ounibersidade de Umeå"
+          "ID": 1618,
+          "Title": "Catadorie:Ourganizaçones anternacionales"
+        },
+        {
+          "ID": 2892,
+          "Title": "Catadorie:Personalidade"
+        },
+        {
+          "ID": 128,
+          "Title": "Catadorie:Psicologie"
+        },
+        {
+          "ID": 144,
+          "Title": "Catadorie:Sociadade"
         }
       ]
     },
@@ -468,32 +570,12 @@
           "Title": "Catadorie:Anternete"
         },
         {
-          "ID": 49,
-          "Title": "Catadorie:Ciéncias aplicadas"
-        },
-        {
-          "ID": 158,
-          "Title": "Catadorie:Tecnologie"
-        },
-        {
-          "ID": 1818,
-          "Title": "Catadorie:Eiquipamiento melitar"
-        },
-        {
-          "ID": 1820,
-          "Title": "Catadorie:Stória de la tecnologie"
-        },
-        {
-          "ID": 1995,
-          "Title": "Catadorie:Eiletrónica"
-        },
-        {
           "ID": 3068,
           "Title": "Catadorie:Ciéncia de la cumputaçon"
         },
         {
-          "ID": 3533,
-          "Title": "Catadorie:Trasporte"
+          "ID": 49,
+          "Title": "Catadorie:Ciéncias aplicadas"
         },
         {
           "ID": 8573,
@@ -502,18 +584,42 @@
         {
           "ID": 8574,
           "Title": "Catadorie:Cumputaçon"
+        },
+        {
+          "ID": 8586,
+          "Title": "Catadorie:Eiletrodomésticos"
+        },
+        {
+          "ID": 1995,
+          "Title": "Catadorie:Eiletrónica"
+        },
+        {
+          "ID": 1818,
+          "Title": "Catadorie:Eiquipamiento melitar"
+        },
+        {
+          "ID": 1819,
+          "Title": "Catadorie:Eiquipamientos"
+        },
+        {
+          "ID": 158,
+          "Title": "Catadorie:Tecnologie"
+        },
+        {
+          "ID": 3533,
+          "Title": "Catadorie:Trasporte"
         }
       ]
     }
   ],
   "Filters": [
     {
-      "ID": 2044,
-      "Title": "Catadorie:Catadories scundidas"
-    },
-    {
       "ID": 5673,
       "Title": "Catadorie:!Zambiguaçon"
+    },
+    {
+      "ID": 2044,
+      "Title": "Catadorie:Catadories scundidas"
     }
   ]
 }

@@ -10,44 +10,26 @@
           "Title": "Category:ᎠᎵᏍᏓᏴᏗ ᎠᎴ ᎠᏗᏔᏍᏗ"
         },
         {
+          "ID": 3885,
+          "Title": "Category:ᏗᎧᏃᎩᏛ"
+        },
+        {
           "ID": 3932,
           "Title": "Category:ᏗᎧᏃᏗ"
-        }
-      ],
-      "Articles": [
-        {
-          "ID": 859,
-          "Title": "ᏫᎩᏇᏗᏯ"
         },
         {
-          "ID": 2715,
-          "Title": "ᎠᏂᏣᏍᎩᎵ"
-        },
-        {
-          "ID": 2850,
-          "Title": "ᎧᏫ"
-        },
-        {
-          "ID": 4766,
-          "Title": "ᎦᏚ"
-        },
-        {
-          "ID": 5092,
-          "Title": "ᏏᏆ"
-        },
-        {
-          "ID": 6414,
-          "Title": "ᏒᏩᏱᎩ"
+          "ID": 4133,
+          "Title": "Category:ᏗᎪᏪᎵ"
         }
       ]
     },
     {
       "ID": 2147483638,
       "Title": "Geography and places",
-      "Articles": [
+      "Categories": [
         {
-          "ID": 5744,
-          "Title": "ᎡᎳᏗᏜ"
+          "ID": 4068,
+          "Title": "Category:ᎠᏰᎵ ᏚᎾᏙᏢᏩᏗᏒ"
         }
       ]
     },
@@ -69,12 +51,6 @@
           "ID": 3907,
           "Title": "Category:ᎧᏃᎮᏍᎩ"
         }
-      ],
-      "Articles": [
-        {
-          "ID": 2701,
-          "Title": "ᏚᎵᏍᏗ 11, 2001 ᏗᎦᏘᎸᏍᏗ"
-        }
       ]
     },
     {
@@ -86,66 +62,36 @@
       "Title": "Nature and physical sciences",
       "Categories": [
         {
-          "ID": 3887,
-          "Title": "Category:ᎤᏁᎳᏅ ᎤᏬᏢᏅ"
+          "ID": 2339,
+          "Title": "Category:Animalia"
         },
         {
           "ID": 6331,
           "Title": "Category:ᎠᏑᏰᏗᏧᏓᎴᎲᏓᏅᏬᏘ"
         },
         {
+          "ID": 3900,
+          "Title": "Category:ᎡᎶᎯ"
+        },
+        {
+          "ID": 4794,
+          "Title": "Category:ᎤᎾᏓᏔᏅ ᎠᎩᏍᏗ"
+        },
+        {
+          "ID": 3887,
+          "Title": "Category:ᎤᏁᎳᏅ ᎤᏬᏢᏅ"
+        },
+        {
+          "ID": 3890,
+          "Title": "Category:ᎥᎴᏂᏙᎲ"
+        },
+        {
           "ID": 6423,
           "Title": "Category:ᏂᎦᎥ ᎠᎦᏎᏍᏔᏅ"
-        }
-      ],
-      "Articles": [
-        {
-          "ID": 2613,
-          "Title": "ᏎᎷ"
         },
         {
-          "ID": 3814,
-          "Title": "ᎠᏂ"
-        },
-        {
-          "ID": 4763,
-          "Title": "ᎴᎹᏂ"
-        },
-        {
-          "ID": 4767,
-          "Title": "ᎦᏩᏒᎩ"
-        },
-        {
-          "ID": 4783,
-          "Title": "ᎣᏂᏥ"
-        },
-        {
-          "ID": 4790,
-          "Title": "ᏔᎹᏟ"
-        },
-        {
-          "ID": 4792,
-          "Title": "ᎳᎢᎻ"
-        },
-        {
-          "ID": 4934,
-          "Title": "ᏩᏙᎵ"
-        },
-        {
-          "ID": 6464,
-          "Title": "ᎠᎹ ᎠᏓᏁᏟᏴᏎᎬ"
-        },
-        {
-          "ID": 6496,
-          "Title": "ᎠᏗᎧᏓ"
-        },
-        {
-          "ID": 6804,
-          "Title": "ᎪᏛᎢ"
-        },
-        {
-          "ID": 6825,
-          "Title": "ᎭᏫᏯᎭ ᏧᏈᏓᏟ"
+          "ID": 4203,
+          "Title": "Category:ᏗᎦᎪᎯᏗ"
         }
       ]
     },
@@ -156,28 +102,12 @@
         {
           "ID": 3875,
           "Title": "Category:ᎠᏂᏴᏫ"
-        },
-        {
-          "ID": 3890,
-          "Title": "Category:ᎥᎴᏂᏙᎲ"
-        }
-      ],
-      "Articles": [
-        {
-          "ID": 6474,
-          "Title": "ᏏᎩᎹᏂᏗ ᎦᎶᎢᏗ"
         }
       ]
     },
     {
       "ID": 2147483644,
-      "Title": "Philosophy and thinking",
-      "Articles": [
-        {
-          "ID": 2563,
-          "Title": "ᎤᏬᏚ"
-        }
-      ]
+      "Title": "Philosophy and thinking"
     },
     {
       "ID": 2147483645,
@@ -194,22 +124,12 @@
       "Title": "Society and social sciences",
       "Categories": [
         {
+          "ID": 5731,
+          "Title": "Category:ᎠᏕᎳ"
+        },
+        {
           "ID": 3891,
           "Title": "Category:ᎤᎾᏙᏢᎯ"
-        }
-      ],
-      "Articles": [
-        {
-          "ID": 5557,
-          "Title": "ᏥᎵ"
-        },
-        {
-          "ID": 6332,
-          "Title": "ᏆᏇᏙᏍ"
-        },
-        {
-          "ID": 6890,
-          "Title": "ᎢᎴᏂ"
         }
       ]
     },
@@ -220,6 +140,10 @@
         {
           "ID": 6533,
           "Title": "Category:ᎡᏓᏍᏙᏗ"
+        },
+        {
+          "ID": 6427,
+          "Title": "Category:ᏗᎬᎳᏂᏓᏍᏗ"
         }
       ]
     }

@@ -6,12 +6,12 @@
       "Title": "Culture and the arts",
       "Categories": [
         {
-          "ID": 2835,
-          "Title": "Category:ལྟོ"
-        },
-        {
           "ID": 3406,
           "Title": "Category:རྩེད་རིགས"
+        },
+        {
+          "ID": 2835,
+          "Title": "Category:ལྟོ"
         }
       ]
     },
@@ -20,18 +20,16 @@
       "Title": "Geography and places",
       "Categories": [
         {
-          "ID": 2818,
-          "Title": "Category:འཛམ་གླིང་རྒྱས་བཤད"
-        }
-      ],
-      "Articles": [
-        {
-          "ID": 2078,
-          "Title": "མེ་མར་"
+          "ID": 2793,
+          "Title": "Category:གྲོང་􀮣"
         },
         {
-          "ID": 2087,
-          "Title": "ཨས་ཊེཡེ་ལི་ཡ"
+          "ID": 2818,
+          "Title": "Category:འཛམ་གླིང་རྒྱས་བཤད"
+        },
+        {
+          "ID": 2498,
+          "Title": "Category:རྒྱལ་ཁབ"
         }
       ]
     },
@@ -54,12 +52,6 @@
         {
           "ID": 2816,
           "Title": "Category:རང་བཞིན"
-        }
-      ],
-      "Articles": [
-        {
-          "ID": 2746,
-          "Title": "ཨམ་ཅུ་ཀུ་ལི"
         }
       ]
     },
@@ -89,17 +81,7 @@
     },
     {
       "ID": 2147483646,
-      "Title": "Society and social sciences",
-      "Articles": [
-        {
-          "ID": 2115,
-          "Title": "ཨི་རཱན་"
-        },
-        {
-          "ID": 3597,
-          "Title": "ཅི་ལེ"
-        }
-      ]
+      "Title": "Society and social sciences"
     },
     {
       "ID": 2147483647,

@@ -3,45 +3,15 @@
   "Topics": [
     {
       "ID": 2147483637,
-      "Title": "Culture and the arts",
-      "Articles": [
-        {
-          "ID": 205,
-          "Title": "Wikipèdia"
-        },
-        {
-          "ID": 2613,
-          "Title": "Bui"
-        }
-      ]
+      "Title": "Culture and the arts"
     },
     {
       "ID": 2147483638,
       "Title": "Geography and places",
-      "Articles": [
+      "Categories": [
         {
-          "ID": 134,
-          "Title": "Myanmar"
-        },
-        {
-          "ID": 547,
-          "Title": "Australia"
-        },
-        {
-          "ID": 1028,
-          "Title": "Queensland"
-        },
-        {
-          "ID": 1264,
-          "Title": "Paris"
-        },
-        {
-          "ID": 1284,
-          "Title": "Canberra"
-        },
-        {
-          "ID": 2571,
-          "Title": "Tokoh"
+          "ID": 312,
+          "Title": "Kawan:Neugara"
         }
       ]
     },
@@ -51,13 +21,7 @@
     },
     {
       "ID": 2147483640,
-      "Title": "History and events",
-      "Articles": [
-        {
-          "ID": 10633,
-          "Title": "Donald Trump"
-        }
-      ]
+      "Title": "History and events"
     },
     {
       "ID": 2147483641,
@@ -66,18 +30,18 @@
     {
       "ID": 2147483642,
       "Title": "Nature and physical sciences",
-      "Articles": [
+      "Categories": [
         {
-          "ID": 2449,
-          "Title": "Mamplam"
+          "ID": 300,
+          "Title": "Kawan:Bumoë"
         },
         {
-          "ID": 2457,
-          "Title": "Truëng kléng"
+          "ID": 299,
+          "Title": "Kawan:Meunatang"
         },
         {
-          "ID": 9592,
-          "Title": "Jeunara"
+          "ID": 2596,
+          "Title": "Kawan:Peunula"
         }
       ]
     },
@@ -85,6 +49,10 @@
       "ID": 2147483643,
       "Title": "People and self",
       "Categories": [
+        {
+          "ID": 5073,
+          "Title": "Kawan:Aktor"
+        },
         {
           "ID": 4580,
           "Title": "Kawan:Ureuëng inong"
@@ -107,17 +75,7 @@
     },
     {
       "ID": 2147483646,
-      "Title": "Society and social sciences",
-      "Articles": [
-        {
-          "ID": 418,
-          "Title": "Chili"
-        },
-        {
-          "ID": 2241,
-          "Title": "Iran"
-        }
-      ]
+      "Title": "Society and social sciences"
     },
     {
       "ID": 2147483647,

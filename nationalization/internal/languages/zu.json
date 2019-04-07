@@ -6,10 +6,6 @@
       "Title": "Culture and the arts",
       "Categories": [
         {
-          "ID": 1892,
-          "Title": "Category:Ezemidlalo"
-        },
-        {
           "ID": 4038,
           "Title": "Category:Amabhendi"
         },
@@ -18,42 +14,36 @@
           "Title": "Category:Amafilimu"
         },
         {
-          "ID": 7599,
-          "Title": "Category:Ukudla"
+          "ID": 1892,
+          "Title": "Category:Ezemidlalo"
         },
         {
-          "ID": 7639,
-          "Title": "Category:Ubuciko"
+          "ID": 7797,
+          "Title": "Category:Imfundo"
         },
         {
           "ID": 7640,
           "Title": "Category:Isiko"
         },
         {
+          "ID": 7651,
+          "Title": "Category:Izinkomba zemisebenzi"
+        },
+        {
+          "ID": 7639,
+          "Title": "Category:Ubuciko"
+        },
+        {
+          "ID": 7599,
+          "Title": "Category:Ukudla"
+        },
+        {
           "ID": 7940,
           "Title": "Category:Ukudla neziphuzo"
-        }
-      ],
-      "Articles": [
-        {
-          "ID": 3811,
-          "Title": "Amaqanda"
         },
         {
-          "ID": 3946,
-          "Title": "Wikipedia"
-        },
-        {
-          "ID": 4647,
-          "Title": "Ikhofi"
-        },
-        {
-          "ID": 9543,
-          "Title": "Ubhiya"
-        },
-        {
-          "ID": 9957,
-          "Title": "Isinkwa"
+          "ID": 3612,
+          "Title": "Category:Umculo"
         }
       ]
     },
@@ -62,22 +52,20 @@
       "Title": "Geography and places",
       "Categories": [
         {
+          "ID": 3937,
+          "Title": "Category:Amadolobha"
+        },
+        {
+          "ID": 4107,
+          "Title": "Category:Amazwe"
+        },
+        {
           "ID": 7642,
           "Title": "Category:Ezezwe"
-        }
-      ],
-      "Articles": [
-        {
-          "ID": 1726,
-          "Title": "I-Ostreliya"
         },
         {
-          "ID": 3770,
-          "Title": "IParisi"
-        },
-        {
-          "ID": 7309,
-          "Title": "Umuntu"
+          "ID": 7751,
+          "Title": "Category:Imifula"
         }
       ]
     },
@@ -98,12 +86,6 @@
         {
           "ID": 7644,
           "Title": "Category:Umlando"
-        }
-      ],
-      "Articles": [
-        {
-          "ID": 7369,
-          "Title": "Donald Trump"
         }
       ]
     },
@@ -130,18 +112,24 @@
           "Title": "Category:ISayensi"
         },
         {
-          "ID": 7601,
-          "Title": "Category:Imvelo"
-        }
-      ],
-      "Articles": [
-        {
-          "ID": 2162,
-          "Title": "Utamatisi"
+          "ID": 7646,
+          "Title": "Category:Impilo"
         },
         {
-          "ID": 3587,
-          "Title": "I-eliki"
+          "ID": 7601,
+          "Title": "Category:Imvelo"
+        },
+        {
+          "ID": 1717,
+          "Title": "Category:Izilwane"
+        },
+        {
+          "ID": 4190,
+          "Title": "Category:Izithelo"
+        },
+        {
+          "ID": 7843,
+          "Title": "Category:Izitshalo"
         }
       ]
     },
@@ -150,26 +138,24 @@
       "Title": "People and self",
       "Categories": [
         {
-          "ID": 7646,
-          "Title": "Category:Impilo"
+          "ID": 7794,
+          "Title": "Category:Ababhali"
+        },
+        {
+          "ID": 7833,
+          "Title": "Category:Abalingisi"
         },
         {
           "ID": 7648,
           "Title": "Category:Abantu"
-        }
-      ],
-      "Articles": [
-        {
-          "ID": 4245,
-          "Title": "George Harrison"
         },
         {
-          "ID": 4257,
-          "Title": "John Lennon"
+          "ID": 3979,
+          "Title": "Category:Abantu baphilayo"
         },
         {
-          "ID": 8099,
-          "Title": "The Big Bang Theory (Izinhlelo ze-TV)"
+          "ID": 3935,
+          "Title": "Category:OMongameli bamazwe"
         }
       ]
     },
@@ -198,38 +184,12 @@
       "Title": "Society and social sciences",
       "Categories": [
         {
+          "ID": 4101,
+          "Title": "Category:Izimali"
+        },
+        {
           "ID": 7645,
           "Title": "Category:Umthetho"
-        }
-      ],
-      "Articles": [
-        {
-          "ID": 3471,
-          "Title": "I-Irani"
-        },
-        {
-          "ID": 4054,
-          "Title": "University of London"
-        },
-        {
-          "ID": 4055,
-          "Title": "University of Sussex"
-        },
-        {
-          "ID": 5700,
-          "Title": "ITshile"
-        },
-        {
-          "ID": 6697,
-          "Title": "University of Tübingen"
-        },
-        {
-          "ID": 7581,
-          "Title": "Pizza Hut"
-        },
-        {
-          "ID": 9632,
-          "Title": "INyuvesi yakwaZulu-Natali"
         }
       ]
     },
@@ -238,12 +198,12 @@
       "Title": "Technology and applied sciences",
       "Categories": [
         {
-          "ID": 7608,
-          "Title": "Category:Ubuchwepheshe"
-        },
-        {
           "ID": 7712,
           "Title": "Category:I-Intanethi"
+        },
+        {
+          "ID": 7608,
+          "Title": "Category:Ubuchwepheshe"
         }
       ]
     }

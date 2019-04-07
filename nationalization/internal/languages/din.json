@@ -7,13 +7,7 @@
     },
     {
       "ID": 2147483638,
-      "Title": "Geography and places",
-      "Articles": [
-        {
-          "ID": 958,
-          "Title": "Australia"
-        }
-      ]
+      "Title": "Geography and places"
     },
     {
       "ID": 2147483639,
@@ -21,17 +15,7 @@
     },
     {
       "ID": 2147483640,
-      "Title": "History and events",
-      "Articles": [
-        {
-          "ID": 32,
-          "Title": "Donald Trump"
-        },
-        {
-          "ID": 77,
-          "Title": "Mucmuc ɣöndiër wakɔ̈u Orlando 2016"
-        }
-      ]
+      "Title": "History and events"
     },
     {
       "ID": 2147483641,
@@ -39,17 +23,7 @@
     },
     {
       "ID": 2147483642,
-      "Title": "Nature and physical sciences",
-      "Articles": [
-        {
-          "ID": 18,
-          "Title": "Anyuɔl"
-        },
-        {
-          "ID": 65,
-          "Title": "Lop"
-        }
-      ]
+      "Title": "Nature and physical sciences"
     },
     {
       "ID": 2147483643,
@@ -58,12 +32,6 @@
         {
           "ID": 858,
           "Title": "Bekätakthook:Kɔc"
-        }
-      ],
-      "Articles": [
-        {
-          "ID": 948,
-          "Title": "Adolf Hitler"
         }
       ]
     },

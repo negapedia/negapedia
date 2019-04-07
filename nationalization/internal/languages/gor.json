@@ -3,17 +3,7 @@
   "Topics": [
     {
       "ID": 2147483637,
-      "Title": "Culture and the arts",
-      "Articles": [
-        {
-          "ID": 2969,
-          "Title": "Wikipedia"
-        },
-        {
-          "ID": 3933,
-          "Title": "Lati"
-        }
-      ]
+      "Title": "Culture and the arts"
     },
     {
       "ID": 2147483638,
@@ -39,21 +29,7 @@
     },
     {
       "ID": 2147483642,
-      "Title": "Nature and physical sciences",
-      "Articles": [
-        {
-          "ID": 641,
-          "Title": "Oyile"
-        },
-        {
-          "ID": 670,
-          "Title": "Pale"
-        },
-        {
-          "ID": 2445,
-          "Title": "Binte"
-        }
-      ]
+      "Title": "Nature and physical sciences"
     },
     {
       "ID": 2147483643,
@@ -62,12 +38,6 @@
         {
           "ID": 1817,
           "Title": "Dalala:Taapulu"
-        }
-      ],
-      "Articles": [
-        {
-          "ID": 4176,
-          "Title": "Galileo Galilei"
         }
       ]
     },

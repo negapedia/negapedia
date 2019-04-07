@@ -1,5 +1,5 @@
 {
-  "Language": "ii",
+  "Language": "be-tarask",
   "Topics": [
     {
       "ID": 2147483637,
@@ -23,25 +23,7 @@
     },
     {
       "ID": 2147483642,
-      "Title": "Nature and physical sciences",
-      "Articles": [
-        {
-          "ID": 8267,
-          "Title": "ꍯ"
-        },
-        {
-          "ID": 8268,
-          "Title": "ꑳꍂ"
-        },
-        {
-          "ID": 8271,
-          "Title": "ꑗ"
-        },
-        {
-          "ID": 8272,
-          "Title": "ꅪ"
-        }
-      ]
+      "Title": "Nature and physical sciences"
     },
     {
       "ID": 2147483643,
@@ -61,7 +43,13 @@
     },
     {
       "ID": 2147483647,
-      "Title": "Technology and applied sciences"
+      "Title": "Technology and applied sciences",
+      "Categories": [
+        {
+          "ID": 18429,
+          "Title": "Катэгорыя:Будаўніцтва"
+        }
+      ]
     }
   ]
 }

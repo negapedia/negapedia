@@ -6,18 +6,36 @@
       "Title": "Culture and the arts",
       "Categories": [
         {
-          "ID": 687,
-          "Title": "Kategoriya:Sanat"
+          "ID": 689,
+          "Title": "Kategoriya:Edebiyat"
+        },
+        {
+          "ID": 19286,
+          "Title": "Kategoriya:Elifbe sırasına köre adamlar"
+        },
+        {
+          "ID": 3561,
+          "Title": "Kategoriya:Kitaplar"
         },
         {
           "ID": 688,
           "Title": "Kategoriya:Medeniyet"
-        }
-      ],
-      "Articles": [
+        },
         {
-          "ID": 960,
-          "Title": "Vikipediya"
+          "ID": 1124,
+          "Title": "Kategoriya:Muzıka"
+        },
+        {
+          "ID": 687,
+          "Title": "Kategoriya:Sanat"
+        },
+        {
+          "ID": 3606,
+          "Title": "Kategoriya:Tasil"
+        },
+        {
+          "ID": 7119,
+          "Title": "Kategoriya:Telekörüv"
         }
       ]
     },
@@ -28,20 +46,14 @@
         {
           "ID": 710,
           "Title": "Kategoriya:Coğrafiya"
-        }
-      ],
-      "Articles": [
-        {
-          "ID": 243,
-          "Title": "Avstraliya"
         },
         {
-          "ID": 445,
-          "Title": "Myanmar"
+          "ID": 1708,
+          "Title": "Kategoriya:Özenler"
         },
         {
-          "ID": 474,
-          "Title": "Paris"
+          "ID": 1022,
+          "Title": "Kategoriya:Şeerler"
         }
       ]
     },
@@ -57,12 +69,6 @@
           "ID": 707,
           "Title": "Kategoriya:Tarih"
         }
-      ],
-      "Articles": [
-        {
-          "ID": 19644,
-          "Title": "Donald Trump"
-        }
       ]
     },
     {
@@ -74,18 +80,20 @@
       "Title": "Nature and physical sciences",
       "Categories": [
         {
-          "ID": 709,
-          "Title": "Kategoriya:İlimler"
+          "ID": 5979,
+          "Title": "Kategoriya:Ayvanlar"
         },
         {
           "ID": 9173,
           "Title": "Kategoriya:Himiya"
-        }
-      ],
-      "Articles": [
+        },
         {
-          "ID": 9144,
-          "Title": "Deve"
+          "ID": 4028,
+          "Title": "Kategoriya:Ösümlikler"
+        },
+        {
+          "ID": 709,
+          "Title": "Kategoriya:İlimler"
         }
       ]
     },
@@ -98,8 +106,16 @@
           "Title": "Kategoriya:Adamlar"
         },
         {
-          "ID": 19286,
-          "Title": "Kategoriya:Elifbe sırasına köre adamlar"
+          "ID": 1299,
+          "Title": "Kategoriya:Doğum senelerine köre adamlar"
+        },
+        {
+          "ID": 699,
+          "Title": "Kategoriya:Yazıcılar"
+        },
+        {
+          "ID": 1300,
+          "Title": "Kategoriya:Ölüm senelerine köre adamlar"
         }
       ]
     },
@@ -124,24 +140,10 @@
         {
           "ID": 3689,
           "Title": "Kategoriya:Cemiyet"
-        }
-      ],
-      "Articles": [
-        {
-          "ID": 257,
-          "Title": "Barbados"
         },
         {
-          "ID": 615,
-          "Title": "Çile"
-        },
-        {
-          "ID": 631,
-          "Title": "İran"
-        },
-        {
-          "ID": 2680,
-          "Title": "Avropa Birligi"
+          "ID": 4669,
+          "Title": "Kategoriya:Para"
         }
       ]
     },
@@ -150,12 +152,12 @@
       "Title": "Technology and applied sciences",
       "Categories": [
         {
-          "ID": 1560,
-          "Title": "Kategoriya:İnternet"
-        },
-        {
           "ID": 9285,
           "Title": "Kategoriya:Tehnologiya"
+        },
+        {
+          "ID": 1560,
+          "Title": "Kategoriya:İnternet"
         }
       ]
     }

@@ -6,610 +6,240 @@
       "Title": "Culture and the arts",
       "Categories": [
         {
-          "ID": 8542,
-          "Title": "Kategori:Hobi"
+          "ID": 337600,
+          "Title": "Kategori:Biografi"
         },
         {
-          "ID": 8543,
-          "Title": "Kategori:Hiburan"
+          "ID": 2580897,
+          "Title": "Kategori:Biografi (buku)"
         },
         {
           "ID": 8546,
           "Title": "Kategori:Budaya"
         },
         {
-          "ID": 8565,
-          "Title": "Kategori:Olahraga"
+          "ID": 14909,
+          "Title": "Kategori:Budaya internet"
         },
         {
-          "ID": 8569,
-          "Title": "Kategori:Rekreasi"
+          "ID": 100312,
+          "Title": "Kategori:Budaya menurut negara"
         },
         {
-          "ID": 8571,
-          "Title": "Kategori:Seni"
+          "ID": 2763925,
+          "Title": "Kategori:Budaya populer"
         },
         {
-          "ID": 16533,
-          "Title": "Kategori:Grup musik"
+          "ID": 66447,
+          "Title": "Kategori:Buku"
         },
         {
-          "ID": 16631,
-          "Title": "Kategori:Warna"
-        },
-        {
-          "ID": 19275,
-          "Title": "Kategori:Makanan"
-        },
-        {
-          "ID": 62093,
-          "Title": "Kategori:Nutrisi"
-        },
-        {
-          "ID": 69939,
-          "Title": "Kategori:Makanan dan minuman"
-        },
-        {
-          "ID": 112370,
-          "Title": "Kategori:Menulis"
+          "ID": 205361,
+          "Title": "Kategori:Buku menurut penulis"
         },
         {
           "ID": 140076,
           "Title": "Kategori:Cabang olahraga"
         },
         {
-          "ID": 288276,
-          "Title": "Kategori:Masakan"
+          "ID": 56776,
+          "Title": "Kategori:Cerita rakyat"
+        },
+        {
+          "ID": 41406,
+          "Title": "Kategori:Ensiklopedia"
+        },
+        {
+          "ID": 15438,
+          "Title": "Kategori:Festival"
+        },
+        {
+          "ID": 80099,
+          "Title": "Kategori:Fiksi"
         },
         {
           "ID": 549118,
           "Title": "Kategori:Gastronomi"
         },
         {
+          "ID": 127728,
+          "Title": "Kategori:Genre musik"
+        },
+        {
+          "ID": 16533,
+          "Title": "Kategori:Grup musik"
+        },
+        {
+          "ID": 737997,
+          "Title": "Kategori:Gubahan musik"
+        },
+        {
+          "ID": 55905,
+          "Title": "Kategori:Gulat"
+        },
+        {
+          "ID": 8543,
+          "Title": "Kategori:Hiburan"
+        },
+        {
+          "ID": 8542,
+          "Title": "Kategori:Hobi"
+        },
+        {
+          "ID": 100838,
+          "Title": "Kategori:Jenis kelamin"
+        },
+        {
+          "ID": 2580898,
+          "Title": "Kategori:Karya biografi"
+        },
+        {
+          "ID": 224494,
+          "Title": "Kategori:Karya menurut seniman"
+        },
+        {
+          "ID": 2541321,
+          "Title": "Kategori:Karya referensi"
+        },
+        {
+          "ID": 373081,
+          "Title": "Kategori:Kebudayaan"
+        },
+        {
+          "ID": 443765,
+          "Title": "Kategori:Kehidupan pribadi"
+        },
+        {
+          "ID": 33664,
+          "Title": "Kategori:Kompetisi"
+        },
+        {
+          "ID": 91780,
+          "Title": "Kategori:Komunitas maya"
+        },
+        {
+          "ID": 135617,
+          "Title": "Kategori:Legenda"
+        },
+        {
+          "ID": 14344,
+          "Title": "Kategori:Majalah"
+        },
+        {
+          "ID": 19275,
+          "Title": "Kategori:Makanan"
+        },
+        {
+          "ID": 69939,
+          "Title": "Kategori:Makanan dan minuman"
+        },
+        {
+          "ID": 288276,
+          "Title": "Kategori:Masakan"
+        },
+        {
+          "ID": 112370,
+          "Title": "Kategori:Menulis"
+        },
+        {
+          "ID": 8564,
+          "Title": "Kategori:Musik"
+        },
+        {
+          "ID": 590350,
+          "Title": "Kategori:Musik menurut genre"
+        },
+        {
+          "ID": 62093,
+          "Title": "Kategori:Nutrisi"
+        },
+        {
+          "ID": 8565,
+          "Title": "Kategori:Olahraga"
+        },
+        {
+          "ID": 286884,
+          "Title": "Kategori:Pembelajaran"
+        },
+        {
+          "ID": 8531,
+          "Title": "Kategori:Pendidikan"
+        },
+        {
+          "ID": 125437,
+          "Title": "Kategori:Pengetahuan"
+        },
+        {
+          "ID": 16418,
+          "Title": "Kategori:Permainan komputer"
+        },
+        {
+          "ID": 107337,
+          "Title": "Kategori:Permainan papan"
+        },
+        {
+          "ID": 16866,
+          "Title": "Kategori:Permainan video"
+        },
+        {
+          "ID": 8569,
+          "Title": "Kategori:Rekreasi"
+        },
+        {
+          "ID": 8447,
+          "Title": "Kategori:Sastra"
+        },
+        {
+          "ID": 40024,
+          "Title": "Kategori:Seks"
+        },
+        {
+          "ID": 82277,
+          "Title": "Kategori:Seksualitas"
+        },
+        {
+          "ID": 8571,
+          "Title": "Kategori:Seni"
+        },
+        {
+          "ID": 17115,
+          "Title": "Kategori:Seni bela diri"
+        },
+        {
+          "ID": 104355,
+          "Title": "Kategori:Seni pertunjukan"
+        },
+        {
+          "ID": 214292,
+          "Title": "Kategori:Sihir, Ramalan, Tenung"
+        },
+        {
+          "ID": 30589,
+          "Title": "Kategori:Stasiun radio"
+        },
+        {
+          "ID": 93900,
+          "Title": "Kategori:Sulap"
+        },
+        {
+          "ID": 13642,
+          "Title": "Kategori:Surat kabar"
+        },
+        {
           "ID": 1760317,
           "Title": "Kategori:Teknik memasak"
-        }
-      ],
-      "Articles": [
-        {
-          "ID": 2995,
-          "Title": "Kue"
-        },
-        {
-          "ID": 6235,
-          "Title": "Wikipedia"
-        },
-        {
-          "ID": 7841,
-          "Title": "Ensiklopedia"
-        },
-        {
-          "ID": 12155,
-          "Title": "Roti"
-        },
-        {
-          "ID": 14156,
-          "Title": "Kopi"
-        },
-        {
-          "ID": 15998,
-          "Title": "Cokelat"
-        },
-        {
-          "ID": 18878,
-          "Title": "Piza"
-        },
-        {
-          "ID": 24400,
-          "Title": "Telur mata sapi"
-        },
-        {
-          "ID": 25630,
-          "Title": "Led Zeppelin"
-        },
-        {
-          "ID": 27777,
-          "Title": "Es krim"
-        },
-        {
-          "ID": 28047,
-          "Title": "Bir"
-        },
-        {
-          "ID": 34397,
-          "Title": "Seks oral"
-        },
-        {
-          "ID": 35394,
-          "Title": "Green Day"
-        },
-        {
-          "ID": 40002,
-          "Title": "Babi"
-        },
-        {
-          "ID": 40371,
-          "Title": "Coffea"
-        },
-        {
-          "ID": 40372,
-          "Title": "Kopi arabika"
-        },
-        {
-          "ID": 53151,
-          "Title": "Taco"
-        },
-        {
-          "ID": 54092,
-          "Title": "Selibat"
-        },
-        {
-          "ID": 59879,
-          "Title": "Hogwarts"
-        },
-        {
-          "ID": 64360,
-          "Title": "AC/DC"
-        },
-        {
-          "ID": 68978,
-          "Title": "Realisme (seni rupa)"
-        },
-        {
-          "ID": 72756,
-          "Title": "Telur"
-        },
-        {
-          "ID": 73936,
-          "Title": "Hantu"
-        },
-        {
-          "ID": 74636,
-          "Title": "Istana Buckingham"
-        },
-        {
-          "ID": 86195,
-          "Title": "Saus"
-        },
-        {
-          "ID": 86973,
-          "Title": "Akashiyaki"
-        },
-        {
-          "ID": 100263,
-          "Title": "Hot dog"
-        },
-        {
-          "ID": 105907,
-          "Title": "Telur (makanan)"
-        },
-        {
-          "ID": 105922,
-          "Title": "Pasta"
-        },
-        {
-          "ID": 105978,
-          "Title": "Kue keberuntungan"
-        },
-        {
-          "ID": 107425,
-          "Title": "Selai kacang"
-        },
-        {
-          "ID": 107428,
-          "Title": "Sgt. Pepper's Lonely Hearts Club Band"
-        },
-        {
-          "ID": 131984,
-          "Title": "Grup musik"
-        },
-        {
-          "ID": 131999,
-          "Title": "Band"
-        },
-        {
-          "ID": 135588,
-          "Title": "Monster Loch Ness"
-        },
-        {
-          "ID": 141703,
-          "Title": "Kakao"
-        },
-        {
-          "ID": 146929,
-          "Title": "CIA World Factbook"
-        },
-        {
-          "ID": 147904,
-          "Title": "Telur asin"
-        },
-        {
-          "ID": 151567,
-          "Title": "Babi celeng"
-        },
-        {
-          "ID": 183803,
-          "Title": "Tongseng"
-        },
-        {
-          "ID": 200433,
-          "Title": "Saus apel"
-        },
-        {
-          "ID": 203448,
-          "Title": "Bolu"
-        },
-        {
-          "ID": 204671,
-          "Title": "Pastei"
-        },
-        {
-          "ID": 223827,
-          "Title": "Asam pedas"
-        },
-        {
-          "ID": 230826,
-          "Title": "Daging babi"
-        },
-        {
-          "ID": 232312,
-          "Title": "Keripik"
-        },
-        {
-          "ID": 267729,
-          "Title": "Aqua (band)"
-        },
-        {
-          "ID": 282857,
-          "Title": "Biskuit"
-        },
-        {
-          "ID": 283823,
-          "Title": "Rengginang"
-        },
-        {
-          "ID": 288112,
-          "Title": "Hidangan Prancis"
-        },
-        {
-          "ID": 298703,
-          "Title": "Kenyataan"
-        },
-        {
-          "ID": 311211,
-          "Title": "Ash Ketchum"
-        },
-        {
-          "ID": 318767,
-          "Title": "Roti soda"
-        },
-        {
-          "ID": 327001,
-          "Title": "M\u0026M's"
-        },
-        {
-          "ID": 327919,
-          "Title": "Carbonara"
-        },
-        {
-          "ID": 337130,
-          "Title": "Cokelat batangan"
-        },
-        {
-          "ID": 344762,
-          "Title": "Butir cokelat"
-        },
-        {
-          "ID": 358113,
-          "Title": "Sepong"
-        },
-        {
-          "ID": 395197,
-          "Title": "Bigfoot"
-        },
-        {
-          "ID": 493258,
-          "Title": "Kereta salju"
-        },
-        {
-          "ID": 530976,
-          "Title": "Pecorino"
-        },
-        {
-          "ID": 548041,
-          "Title": "WWE Championship"
-        },
-        {
-          "ID": 548742,
-          "Title": "Pilsner"
-        },
-        {
-          "ID": 555225,
-          "Title": "Endhiran"
-        },
-        {
-          "ID": 590769,
-          "Title": "Saus tomat (klasik)"
-        },
-        {
-          "ID": 591628,
-          "Title": "Saus Espagnole"
-        },
-        {
-          "ID": 593333,
-          "Title": "Bubur ayam"
-        },
-        {
-          "ID": 616376,
-          "Title": "Butterkuchen"
-        },
-        {
-          "ID": 622717,
-          "Title": "Telur bitan"
-        },
-        {
-          "ID": 710295,
-          "Title": "Judas (lagu)"
-        },
-        {
-          "ID": 721451,
-          "Title": "The Wanted"
-        },
-        {
-          "ID": 753650,
-          "Title": "Vlokken"
-        },
-        {
-          "ID": 754767,
-          "Title": "Cokelat panas"
-        },
-        {
-          "ID": 803254,
-          "Title": "Rock Band"
-        },
-        {
-          "ID": 900440,
-          "Title": "Yūrei"
-        },
-        {
-          "ID": 971679,
-          "Title": "Kue kering"
-        },
-        {
-          "ID": 1086711,
-          "Title": "Sucker Punch (film)"
-        },
-        {
-          "ID": 1101692,
-          "Title": "Adonan asam"
-        },
-        {
-          "ID": 1111797,
-          "Title": "Telur rebus"
-        },
-        {
-          "ID": 1128271,
-          "Title": "Daftar lokasi dalam Harry Potter"
-        },
-        {
-          "ID": 1158553,
-          "Title": "Sup kepiting jagung"
-        },
-        {
-          "ID": 1198699,
-          "Title": "Realisme sastra"
-        },
-        {
-          "ID": 1405863,
-          "Title": "Ham (daging)"
-        },
-        {
-          "ID": 1442763,
-          "Title": "Flappy Bird"
-        },
-        {
-          "ID": 1455593,
-          "Title": "Daging bakon"
-        },
-        {
-          "ID": 1527655,
-          "Title": "Kue beras"
-        },
-        {
-          "ID": 1530787,
-          "Title": "Kue sponge"
-        },
-        {
-          "ID": 1578694,
-          "Title": "Kue pernikahan"
-        },
-        {
-          "ID": 1669371,
-          "Title": "Angry Birds Rio"
-        },
-        {
-          "ID": 1670198,
-          "Title": "Angry Birds Seasons"
-        },
-        {
-          "ID": 1672036,
-          "Title": "Angry Birds (permainan video)"
-        },
-        {
-          "ID": 1691627,
-          "Title": "PK (film)"
-        },
-        {
-          "ID": 1740651,
-          "Title": "Nasi goreng Thai"
-        },
-        {
-          "ID": 1749780,
-          "Title": "Floyd Mayweather, Jr. vs Manny Pacquiao"
-        },
-        {
-          "ID": 1803269,
-          "Title": "Tart"
-        },
-        {
-          "ID": 1824102,
-          "Title": "Kick (film 2014)"
-        },
-        {
-          "ID": 1833423,
-          "Title": "War Room (film)"
-        },
-        {
-          "ID": 1862690,
-          "Title": "Wikipedia bahasa Wales"
-        },
-        {
-          "ID": 1895497,
-          "Title": "Karya referensi"
-        },
-        {
-          "ID": 2040047,
-          "Title": "Kemurnian (kebajikan)"
-        },
-        {
-          "ID": 2042896,
-          "Title": "Isian"
-        },
-        {
-          "ID": 2051624,
-          "Title": "Kelelawar (makanan)"
-        },
-        {
-          "ID": 2065644,
-          "Title": "Jab Tak Hai Jaan"
-        },
-        {
-          "ID": 2084896,
-          "Title": "Daging cincang"
-        },
-        {
-          "ID": 2086371,
-          "Title": "Roti pipih"
-        },
-        {
-          "ID": 2117952,
-          "Title": "Jajanan jalanan di Indonesia"
-        },
-        {
-          "ID": 2342241,
-          "Title": "Regionalisme (politik)"
-        },
-        {
-          "ID": 2361540,
-          "Title": "Kue alpukat"
-        },
-        {
-          "ID": 2433466,
-          "Title": "Pizza Hawaii"
-        },
-        {
-          "ID": 2457598,
-          "Title": "Nasi goreng"
-        },
-        {
-          "ID": 2467502,
-          "Title": "Kontes Lagu Eurovision 2017"
-        },
-        {
-          "ID": 2467566,
-          "Title": "Kerak nasi"
-        },
-        {
-          "ID": 2490303,
-          "Title": "Babi kecap"
-        },
-        {
-          "ID": 2492335,
-          "Title": "Sup selada"
-        },
-        {
-          "ID": 2492422,
-          "Title": "Mi minyak"
-        },
-        {
-          "ID": 2496957,
-          "Title": "Hardtack"
-        },
-        {
-          "ID": 2498964,
-          "Title": "Nam ngiao"
-        },
-        {
-          "ID": 2501959,
-          "Title": "Cokelat Belgia"
-        },
-        {
-          "ID": 2505538,
-          "Title": "Gelato"
-        },
-        {
-          "ID": 2525064,
-          "Title": "Pasta con le sarde"
-        },
-        {
-          "ID": 2548489,
-          "Title": "Roti lapis teh"
-        },
-        {
-          "ID": 2548575,
-          "Title": "Roti lapis Gerber"
-        },
-        {
-          "ID": 2561488,
-          "Title": "Kontes Lagu Eurovision 2018"
-        },
-        {
-          "ID": 2640872,
-          "Title": "Kaabil"
-        },
-        {
-          "ID": 2643231,
-          "Title": "Realisme filsafat"
-        },
-        {
-          "ID": 2668633,
-          "Title": "Mordred"
-        },
-        {
-          "ID": 2693504,
-          "Title": "Banjir Sungai Nil"
-        },
-        {
-          "ID": 2728916,
-          "Title": "Barros Jarpa"
-        },
-        {
-          "ID": 2728923,
-          "Title": "Barros Luco"
-        },
-        {
-          "ID": 2729185,
-          "Title": "Roti lapis bakon"
-        },
-        {
-          "ID": 2731727,
-          "Title": "Ale jahe"
-        },
-        {
-          "ID": 2731730,
-          "Title": "Bir jahe"
         },
         {
-          "ID": 2732342,
-          "Title": "Telur kukus"
+          "ID": 8538,
+          "Title": "Kategori:Televisi"
         },
         {
-          "ID": 2734676,
-          "Title": "Dumpling talas"
+          "ID": 259495,
+          "Title": "Kategori:Tempat fiktif"
         },
         {
-          "ID": 2735863,
-          "Title": "Burger kimchi"
+          "ID": 16631,
+          "Title": "Kategori:Warna"
         }
       ]
     },
@@ -618,62 +248,60 @@
       "Title": "Geography and places",
       "Categories": [
         {
-          "ID": 8558,
-          "Title": "Kategori:Geografi"
+          "ID": 71852,
+          "Title": "Kategori:Daftar bertopik geografi"
         },
         {
-          "ID": 27956,
-          "Title": "Kategori:Monumen"
+          "ID": 8558,
+          "Title": "Kategori:Geografi"
         },
         {
           "ID": 51924,
           "Title": "Kategori:Geomorfologi"
         },
         {
-          "ID": 71852,
-          "Title": "Kategori:Daftar bertopik geografi"
+          "ID": 17588,
+          "Title": "Kategori:Kota"
+        },
+        {
+          "ID": 1890673,
+          "Title": "Kategori:Kotamadya"
+        },
+        {
+          "ID": 27956,
+          "Title": "Kategori:Monumen"
+        },
+        {
+          "ID": 14449,
+          "Title": "Kategori:Negara"
         },
         {
           "ID": 112473,
           "Title": "Kategori:Perencanaan perkotaan"
         },
         {
+          "ID": 1083081,
+          "Title": "Kategori:Permukiman"
+        },
+        {
+          "ID": 1040937,
+          "Title": "Kategori:Permukiman menurut negara"
+        },
+        {
+          "ID": 83529,
+          "Title": "Kategori:Shtetl"
+        },
+        {
+          "ID": 17592,
+          "Title": "Kategori:Sungai"
+        },
+        {
           "ID": 505067,
           "Title": "Kategori:Tempat"
-        }
-      ],
-      "Articles": [
-        {
-          "ID": 1003,
-          "Title": "Paris"
         },
         {
-          "ID": 4403,
-          "Title": "Australia"
-        },
-        {
-          "ID": 4472,
-          "Title": "Myanmar"
-        },
-        {
-          "ID": 10448,
-          "Title": "Manusia"
-        },
-        {
-          "ID": 10881,
-          "Title": "Piramida"
-        },
-        {
-          "ID": 11270,
-          "Title": "Canberra"
-        },
-        {
-          "ID": 43473,
-          "Title": "Queensland"
-        },
-        {
-          "ID": 45205,
-          "Title": "Venesia"
+          "ID": 721000,
+          "Title": "Kategori:Wilayah"
         }
       ]
     },
@@ -682,32 +310,36 @@
       "Title": "Health and fitness",
       "Categories": [
         {
-          "ID": 14387,
-          "Title": "Kategori:Kesehatan"
+          "ID": 76710,
+          "Title": "Kategori:Anatomi manusia"
         },
         {
-          "ID": 37780,
-          "Title": "Kategori:Kedokteran"
-        },
-        {
-          "ID": 93822,
-          "Title": "Kategori:Spesialisasi medis"
+          "ID": 307853,
+          "Title": "Kategori:Higienitas"
         },
         {
           "ID": 129904,
           "Title": "Kategori:Ilmu kesehatan"
         },
         {
-          "ID": 142915,
-          "Title": "Kategori:Perawatan kesehatan"
+          "ID": 37780,
+          "Title": "Kategori:Kedokteran"
+        },
+        {
+          "ID": 14387,
+          "Title": "Kategori:Kesehatan"
         },
         {
           "ID": 143677,
           "Title": "Kategori:Penyakit genetik"
         },
         {
-          "ID": 307853,
-          "Title": "Kategori:Higienitas"
+          "ID": 142915,
+          "Title": "Kategori:Perawatan kesehatan"
+        },
+        {
+          "ID": 93822,
+          "Title": "Kategori:Spesialisasi medis"
         }
       ]
     },
@@ -715,6 +347,34 @@
       "ID": 2147483640,
       "Title": "History and events",
       "Categories": [
+        {
+          "ID": 837431,
+          "Title": "Kategori:Pembunuhan menurut tahun"
+        },
+        {
+          "ID": 528985,
+          "Title": "Kategori:Pemilihan umum menurut tahun"
+        },
+        {
+          "ID": 13261,
+          "Title": "Kategori:Perang"
+        },
+        {
+          "ID": 2068614,
+          "Title": "Kategori:Perang-perang"
+        },
+        {
+          "ID": 134614,
+          "Title": "Kategori:Peristiwa"
+        },
+        {
+          "ID": 839126,
+          "Title": "Kategori:Peristiwa politik"
+        },
+        {
+          "ID": 58039,
+          "Title": "Kategori:Revolusi"
+        },
         {
           "ID": 8501,
           "Title": "Kategori:Sejarah"
@@ -724,78 +384,16 @@
           "Title": "Kategori:Sejarah menurut negara"
         },
         {
-          "ID": 51276,
-          "Title": "Kategori:Ilmu sosial"
-        },
-        {
-          "ID": 134614,
-          "Title": "Kategori:Peristiwa"
-        },
-        {
-          "ID": 528985,
-          "Title": "Kategori:Pemilihan umum menurut tahun"
-        },
-        {
-          "ID": 1754030,
-          "Title": "Kategori:Ilmu manusia"
-        },
-        {
           "ID": 2135807,
           "Title": "Kategori:Sejarah menurut tempat"
-        }
-      ],
-      "Articles": [
-        {
-          "ID": 24418,
-          "Title": "Serangan 11 September 2001"
         },
         {
-          "ID": 165704,
-          "Title": "Donald Trump"
+          "ID": 1437373,
+          "Title": "Kategori:Sejarah politik"
         },
         {
-          "ID": 193722,
-          "Title": "Perang Troya"
-        },
-        {
-          "ID": 549119,
-          "Title": "Kebocoran minyak Deepwater Horizon"
-        },
-        {
-          "ID": 684165,
-          "Title": "Gempa bumi dan tsunami Tōhoku 2011"
-        },
-        {
-          "ID": 970011,
-          "Title": "Penembakan Aurora 2012"
-        },
-        {
-          "ID": 992248,
-          "Title": "Pemilihan umum Presiden Amerika Serikat 2012"
-        },
-        {
-          "ID": 993936,
-          "Title": "Penyangkalan Holokaus"
-        },
-        {
-          "ID": 1881821,
-          "Title": "Sejarah tabel periodik"
-        },
-        {
-          "ID": 2080550,
-          "Title": "Penembakan klub malam Orlando 2016"
-        },
-        {
-          "ID": 2082977,
-          "Title": "Sejarah komunikasi"
-        },
-        {
-          "ID": 2114202,
-          "Title": "Pembunuhan Harambe"
-        },
-        {
-          "ID": 2552341,
-          "Title": "Patriot (Revolusi Amerika)"
+          "ID": 148294,
+          "Title": "Kategori:Sejarah teknologi"
         }
       ]
     },
@@ -804,30 +402,32 @@
       "Title": "Mathematics and logic",
       "Categories": [
         {
-          "ID": 8518,
-          "Title": "Kategori:Statistika"
-        },
-        {
-          "ID": 8519,
-          "Title": "Kategori:Matematika"
+          "ID": 606719,
+          "Title": "Kategori:Konsep matematika"
         },
         {
           "ID": 30288,
           "Title": "Kategori:Logika"
         },
         {
+          "ID": 8519,
+          "Title": "Kategori:Matematika"
+        },
+        {
           "ID": 132645,
           "Title": "Kategori:Matematika terapan"
         },
         {
-          "ID": 606719,
-          "Title": "Kategori:Konsep matematika"
-        }
-      ],
-      "Articles": [
+          "ID": 20317,
+          "Title": "Kategori:Satuan ukur"
+        },
         {
-          "ID": 83759,
-          "Title": "Panjang"
+          "ID": 48404,
+          "Title": "Kategori:Sistem satuan"
+        },
+        {
+          "ID": 8518,
+          "Title": "Kategori:Statistika"
         }
       ]
     },
@@ -836,16 +436,48 @@
       "Title": "Nature and physical sciences",
       "Categories": [
         {
-          "ID": 6255,
-          "Title": "Kategori:Kimia"
+          "ID": 70769,
+          "Title": "Kategori:Alam"
+        },
+        {
+          "ID": 15993,
+          "Title": "Kategori:Anatomi"
+        },
+        {
+          "ID": 1809741,
+          "Title": "Kategori:Animalia"
+        },
+        {
+          "ID": 72215,
+          "Title": "Kategori:Bencana"
+        },
+        {
+          "ID": 26173,
+          "Title": "Kategori:Buah-buahan"
+        },
+        {
+          "ID": 58863,
+          "Title": "Kategori:Bumi"
+        },
+        {
+          "ID": 1769866,
+          "Title": "Kategori:Disiplin ilmu"
+        },
+        {
+          "ID": 39724,
+          "Title": "Kategori:Ekologi"
+        },
+        {
+          "ID": 269951,
+          "Title": "Kategori:Fauna menurut kawasan"
         },
         {
           "ID": 8523,
           "Title": "Kategori:Fisika"
         },
         {
-          "ID": 16704,
-          "Title": "Kategori:Senyawa kimia"
+          "ID": 14568,
+          "Title": "Kategori:Hewan"
         },
         {
           "ID": 48575,
@@ -856,270 +488,36 @@
           "Title": "Kategori:Ilmu alam"
         },
         {
-          "ID": 70769,
-          "Title": "Kategori:Alam"
+          "ID": 1470300,
+          "Title": "Kategori:Ilmu lingkungan"
         },
         {
-          "ID": 72215,
-          "Title": "Kategori:Bencana"
+          "ID": 91073,
+          "Title": "Kategori:Kehidupan"
         },
         {
-          "ID": 109145,
-          "Title": "Kategori:Zoologi"
+          "ID": 6255,
+          "Title": "Kategori:Kimia"
         },
         {
-          "ID": 125437,
-          "Title": "Kategori:Pengetahuan"
+          "ID": 14138,
+          "Title": "Kategori:Protein"
+        },
+        {
+          "ID": 16704,
+          "Title": "Kategori:Senyawa kimia"
+        },
+        {
+          "ID": 26337,
+          "Title": "Kategori:Tumbuhan"
         },
         {
           "ID": 127208,
           "Title": "Kategori:Zat kimia"
         },
         {
-          "ID": 269951,
-          "Title": "Kategori:Fauna menurut kawasan"
-        },
-        {
-          "ID": 1470300,
-          "Title": "Kategori:Ilmu lingkungan"
-        },
-        {
-          "ID": 1769866,
-          "Title": "Kategori:Disiplin ilmu"
-        }
-      ],
-      "Articles": [
-        {
-          "ID": 2788,
-          "Title": "Jagung"
-        },
-        {
-          "ID": 2982,
-          "Title": "Otot"
-        },
-        {
-          "ID": 7434,
-          "Title": "Api"
-        },
-        {
-          "ID": 14154,
-          "Title": "Beras"
-        },
-        {
-          "ID": 15641,
-          "Title": "Nanas"
-        },
-        {
-          "ID": 18025,
-          "Title": "Masturbasi"
-        },
-        {
-          "ID": 21248,
-          "Title": "Urin"
-        },
-        {
-          "ID": 23894,
-          "Title": "Padi"
-        },
-        {
-          "ID": 30655,
-          "Title": "Jeruk manis"
-        },
-        {
-          "ID": 38573,
-          "Title": "Fragaria"
-        },
-        {
-          "ID": 40129,
-          "Title": "Hidrologi"
-        },
-        {
-          "ID": 40276,
-          "Title": "Penis"
-        },
-        {
-          "ID": 43459,
-          "Title": "Kembang kol"
-        },
-        {
-          "ID": 46805,
-          "Title": "Sitrun"
-        },
-        {
-          "ID": 55823,
-          "Title": "Gandum"
-        },
-        {
-          "ID": 57905,
-          "Title": "Rantai makanan"
-        },
-        {
-          "ID": 66101,
-          "Title": "Tomat"
-        },
-        {
-          "ID": 67389,
-          "Title": "Sistem otot"
-        },
-        {
-          "ID": 67392,
-          "Title": "Sistem reproduksi"
-        },
-        {
-          "ID": 69774,
-          "Title": "Alat kelamin"
-        },
-        {
-          "ID": 75510,
-          "Title": "Testis"
-        },
-        {
-          "ID": 86060,
-          "Title": "Unta"
-        },
-        {
-          "ID": 109990,
-          "Title": "Kaki sapi"
-        },
-        {
-          "ID": 142799,
-          "Title": "Siklus air"
-        },
-        {
-          "ID": 154416,
-          "Title": "Mangga"
-        },
-        {
-          "ID": 154417,
-          "Title": "Mangifera"
-        },
-        {
-          "ID": 185364,
-          "Title": "Blewah"
-        },
-        {
-          "ID": 190336,
-          "Title": "Ceplukan"
-        },
-        {
-          "ID": 195606,
-          "Title": "Melon"
-        },
-        {
-          "ID": 210463,
-          "Title": "Perkecambahan"
-        },
-        {
-          "ID": 235003,
-          "Title": "Anakonda"
-        },
-        {
-          "ID": 280535,
-          "Title": "Tentakel"
-        },
-        {
-          "ID": 285896,
-          "Title": "Makerel"
-        },
-        {
-          "ID": 286067,
-          "Title": "Suspensi"
-        },
-        {
-          "ID": 288941,
-          "Title": "Trachurus"
-        },
-        {
-          "ID": 341270,
-          "Title": "Koka"
-        },
-        {
-          "ID": 354277,
-          "Title": "Migrasi serangga"
-        },
-        {
-          "ID": 385520,
-          "Title": "Kucing besar"
-        },
-        {
-          "ID": 388221,
-          "Title": "Flamingo"
-        },
-        {
-          "ID": 411100,
-          "Title": "Rusa besar"
-        },
-        {
-          "ID": 422505,
-          "Title": "Stroberi kebun"
-        },
-        {
-          "ID": 460887,
-          "Title": "Sekam"
-        },
-        {
-          "ID": 468050,
-          "Title": "Angsa-batu"
-        },
-        {
-          "ID": 539405,
-          "Title": "Cocker Spaniel"
-        },
-        {
-          "ID": 607472,
-          "Title": "Kalender Maya"
-        },
-        {
-          "ID": 850857,
-          "Title": "Beras ketan"
-        },
-        {
-          "ID": 941396,
-          "Title": "Harimau putih"
-        },
-        {
-          "ID": 1070155,
-          "Title": "Penis manusia"
-        },
-        {
-          "ID": 1163154,
-          "Title": "Rambut merah"
-        },
-        {
-          "ID": 1400046,
-          "Title": "Anakonda hijau"
-        },
-        {
-          "ID": 1414743,
-          "Title": "Kembung lelaki"
-        },
-        {
-          "ID": 1427687,
-          "Title": "Kotoran sapi"
-        },
-        {
-          "ID": 1432520,
-          "Title": "Scomber"
-        },
-        {
-          "ID": 1699817,
-          "Title": "Myrtus"
-        },
-        {
-          "ID": 2083193,
-          "Title": "Pantherinae"
-        },
-        {
-          "ID": 2551474,
-          "Title": "Warna komplementer"
-        },
-        {
-          "ID": 2596888,
-          "Title": "Jaring-jaring makanan"
-        },
-        {
-          "ID": 2726706,
-          "Title": "Sistem urogenital"
+          "ID": 109145,
+          "Title": "Kategori:Zoologi"
         }
       ]
     },
@@ -1128,222 +526,132 @@
       "Title": "People and self",
       "Categories": [
         {
-          "ID": 68885,
-          "Title": "Kategori:Tokoh"
-        },
-        {
-          "ID": 91073,
-          "Title": "Kategori:Kehidupan"
-        },
-        {
-          "ID": 93800,
-          "Title": "Kategori:Wanita"
-        },
-        {
-          "ID": 133071,
-          "Title": "Kategori:Seniman menurut medium"
-        },
-        {
-          "ID": 186981,
-          "Title": "Kategori:Karakter film"
-        },
-        {
-          "ID": 337600,
-          "Title": "Kategori:Biografi"
-        },
-        {
-          "ID": 443765,
-          "Title": "Kategori:Kehidupan pribadi"
+          "ID": 27720,
+          "Title": "Kategori:Arsitek"
         },
         {
           "ID": 443768,
           "Title": "Kategori:Diri"
         },
         {
-          "ID": 1960475,
-          "Title": "Kategori:Kepribadian"
+          "ID": 91804,
+          "Title": "Kategori:Dokter"
+        },
+        {
+          "ID": 17451,
+          "Title": "Kategori:Filsuf"
+        },
+        {
+          "ID": 291093,
+          "Title": "Kategori:Ilmuwan politik"
+        },
+        {
+          "ID": 2467742,
+          "Title": "Kategori:Jenderal Amerika Serikat"
+        },
+        {
+          "ID": 186981,
+          "Title": "Kategori:Karakter film"
+        },
+        {
+          "ID": 214229,
+          "Title": "Kategori:Kelahiran menurut tahun"
+        },
+        {
+          "ID": 214223,
+          "Title": "Kategori:Kematian menurut tahun"
+        },
+        {
+          "ID": 49022,
+          "Title": "Kategori:Kepala negara"
+        },
+        {
+          "ID": 25775,
+          "Title": "Kategori:Matematikawan"
         },
         {
           "ID": 2344821,
           "Title": "Kategori:Nama belakang"
         },
         {
-          "ID": 2580897,
-          "Title": "Kategori:Biografi (buku)"
+          "ID": 222221,
+          "Title": "Kategori:Orang hidup"
         },
         {
-          "ID": 2580898,
-          "Title": "Kategori:Karya biografi"
-        }
-      ],
-      "Articles": [
-        {
-          "ID": 3597,
-          "Title": "Bill Gates"
+          "ID": 476908,
+          "Title": "Kategori:Orang mati"
         },
         {
-          "ID": 3908,
-          "Title": "Adolf Hitler"
+          "ID": 104365,
+          "Title": "Kategori:Pemeran"
         },
         {
-          "ID": 6608,
-          "Title": "Adam Smith"
+          "ID": 1570440,
+          "Title": "Kategori:Pemeran laki-laki"
         },
         {
-          "ID": 6874,
-          "Title": "Kristoforus Kolumbus"
+          "ID": 1613484,
+          "Title": "Kategori:Pemeran sinema"
         },
         {
-          "ID": 11970,
-          "Title": "Galileo Galilei"
+          "ID": 24071,
+          "Title": "Kategori:Pemusik"
         },
         {
-          "ID": 12024,
-          "Title": "Florence Nightingale"
+          "ID": 614762,
+          "Title": "Kategori:Penemu"
         },
         {
-          "ID": 12047,
-          "Title": "Thomas Aquinas"
+          "ID": 27735,
+          "Title": "Kategori:Penjelajah"
         },
         {
-          "ID": 12559,
-          "Title": "Leonardo da Pisa"
+          "ID": 21265,
+          "Title": "Kategori:Penulis"
         },
         {
-          "ID": 12911,
-          "Title": "Richard Wagner"
+          "ID": 39326,
+          "Title": "Kategori:Pilot"
         },
         {
-          "ID": 13172,
-          "Title": "Sigmund Freud"
+          "ID": 15479,
+          "Title": "Kategori:Politikus"
         },
         {
-          "ID": 14911,
-          "Title": "René Descartes"
+          "ID": 6120,
+          "Title": "Kategori:Presiden"
         },
         {
-          "ID": 14919,
-          "Title": "Alexander Fleming"
+          "ID": 21497,
+          "Title": "Kategori:Seniman"
         },
         {
-          "ID": 18646,
-          "Title": "Alan Turing"
+          "ID": 133071,
+          "Title": "Kategori:Seniman menurut medium"
         },
         {
-          "ID": 19821,
-          "Title": "Carl Friedrich Gauss"
+          "ID": 68885,
+          "Title": "Kategori:Tokoh"
         },
         {
-          "ID": 40715,
-          "Title": "Noam Chomsky"
+          "ID": 259502,
+          "Title": "Kategori:Tokoh fiktif"
         },
         {
-          "ID": 47481,
-          "Title": "Charles Babbage"
+          "ID": 180337,
+          "Title": "Kategori:Tokoh menurut pekerjaan"
         },
         {
-          "ID": 50234,
-          "Title": "Elton John"
+          "ID": 2707824,
+          "Title": "Kategori:Tokoh menurut peran"
         },
         {
-          "ID": 58172,
-          "Title": "George Harrison"
+          "ID": 612648,
+          "Title": "Kategori:Tokoh politik"
         },
         {
-          "ID": 58174,
-          "Title": "John Lennon"
-        },
-        {
-          "ID": 80773,
-          "Title": "Harry Houdini"
-        },
-        {
-          "ID": 84884,
-          "Title": "Oliver Cromwell"
-        },
-        {
-          "ID": 132101,
-          "Title": "Irving Langmuir"
-        },
-        {
-          "ID": 132827,
-          "Title": "Joseph Smith, Jr."
-        },
-        {
-          "ID": 177726,
-          "Title": "Kepler (disambiguasi)"
-        },
-        {
-          "ID": 178399,
-          "Title": "Daniel Radcliffe"
-        },
-        {
-          "ID": 226576,
-          "Title": "Ayn Rand"
-        },
-        {
-          "ID": 233842,
-          "Title": "Richard Dawkins"
-        },
-        {
-          "ID": 234900,
-          "Title": "Johannes Kepler"
-        },
-        {
-          "ID": 308334,
-          "Title": "Carl Sagan"
-        },
-        {
-          "ID": 338447,
-          "Title": "Twilight (novel)"
-        },
-        {
-          "ID": 466609,
-          "Title": "Jacob Black"
-        },
-        {
-          "ID": 535288,
-          "Title": "William Blake"
-        },
-        {
-          "ID": 537537,
-          "Title": "Lewis Carroll"
-        },
-        {
-          "ID": 635158,
-          "Title": "Cory Monteith"
-        },
-        {
-          "ID": 684359,
-          "Title": "Srinivasa Ramanujan"
-        },
-        {
-          "ID": 777012,
-          "Title": "The Big Bang Theory"
-        },
-        {
-          "ID": 911701,
-          "Title": "Theodor Schwann"
-        },
-        {
-          "ID": 1440240,
-          "Title": "Anders Behring Breivik"
-        },
-        {
-          "ID": 1560831,
-          "Title": "Chaim Soutine"
-        },
-        {
-          "ID": 1642156,
-          "Title": "Ted Cruz"
-        },
-        {
-          "ID": 2312350,
-          "Title": "Dorothy Vaughan"
-        },
-        {
-          "ID": 2571228,
-          "Title": "Bob Ross"
+          "ID": 93800,
+          "Title": "Kategori:Wanita"
         }
       ]
     },
@@ -1351,6 +659,14 @@
       "ID": 2147483644,
       "Title": "Philosophy and thinking",
       "Categories": [
+        {
+          "ID": 136442,
+          "Title": "Kategori:Cabang filsafat"
+        },
+        {
+          "ID": 70759,
+          "Title": "Kategori:Etika"
+        },
         {
           "ID": 8559,
           "Title": "Kategori:Filsafat"
@@ -1360,58 +676,36 @@
           "Title": "Kategori:Ideologi"
         },
         {
-          "ID": 70759,
-          "Title": "Kategori:Etika"
+          "ID": 789385,
+          "Title": "Kategori:Kenyataan"
         },
         {
-          "ID": 93839,
-          "Title": "Kategori:Teori politik"
+          "ID": 457983,
+          "Title": "Kategori:Konsep filsafat"
         },
         {
-          "ID": 136442,
-          "Title": "Kategori:Cabang filsafat"
+          "ID": 1438167,
+          "Title": "Kategori:Metafilosofi"
+        },
+        {
+          "ID": 123924,
+          "Title": "Kategori:Metafisika"
         },
         {
           "ID": 285214,
           "Title": "Kategori:Pikiran"
         },
         {
+          "ID": 1438162,
+          "Title": "Kategori:Sekolah filsafat dan tradisi"
+        },
+        {
           "ID": 1437897,
           "Title": "Kategori:Teori filosofis"
         },
         {
-          "ID": 1438162,
-          "Title": "Kategori:Sekolah filsafat dan tradisi"
-        }
-      ],
-      "Articles": [
-        {
-          "ID": 3505,
-          "Title": "Fakta"
-        },
-        {
-          "ID": 14093,
-          "Title": "Iman"
-        },
-        {
-          "ID": 84809,
-          "Title": "Keindahan"
-        },
-        {
-          "ID": 264957,
-          "Title": "Keyakinan dan kepercayaan"
-        },
-        {
-          "ID": 431734,
-          "Title": "Kebahagiaan"
-        },
-        {
-          "ID": 1188479,
-          "Title": "Efek Dunning–Kruger"
-        },
-        {
-          "ID": 2458353,
-          "Title": "Gaslighting"
+          "ID": 93839,
+          "Title": "Kategori:Teori politik"
         }
       ]
     },
@@ -1428,16 +722,16 @@
           "Title": "Kategori:Kepercayaan"
         },
         {
-          "ID": 41318,
-          "Title": "Kategori:Teologi"
+          "ID": 2707286,
+          "Title": "Kategori:Kepercayaan, tradisi, dan pergerakan agama"
         },
         {
           "ID": 1401319,
           "Title": "Kategori:Kritik agama"
         },
         {
-          "ID": 2707286,
-          "Title": "Kategori:Kepercayaan, tradisi, dan pergerakan agama"
+          "ID": 41318,
+          "Title": "Kategori:Teologi"
         }
       ]
     },
@@ -1446,24 +740,28 @@
       "Title": "Society and social sciences",
       "Categories": [
         {
-          "ID": 8535,
-          "Title": "Kategori:Hukum"
-        },
-        {
-          "ID": 13689,
-          "Title": "Kategori:Organisasi internasional"
-        },
-        {
-          "ID": 33784,
-          "Title": "Kategori:Masyarakat"
-        },
-        {
-          "ID": 51276,
-          "Title": "Kategori:Ilmu sosial"
+          "ID": 111594,
+          "Title": "Kategori:Bendera nasional"
         },
         {
           "ID": 56658,
           "Title": "Kategori:Feminisme"
+        },
+        {
+          "ID": 1762245,
+          "Title": "Kategori:Geopolitik"
+        },
+        {
+          "ID": 2602434,
+          "Title": "Kategori:Gilda"
+        },
+        {
+          "ID": 8535,
+          "Title": "Kategori:Hukum"
+        },
+        {
+          "ID": 17167,
+          "Title": "Kategori:Hukuman"
         },
         {
           "ID": 1198401,
@@ -1474,458 +772,80 @@
           "Title": "Kategori:Ilmu manusia"
         },
         {
+          "ID": 51276,
+          "Title": "Kategori:Ilmu sosial"
+        },
+        {
+          "ID": 1960475,
+          "Title": "Kategori:Kepribadian"
+        },
+        {
+          "ID": 15188,
+          "Title": "Kategori:Keuangan"
+        },
+        {
+          "ID": 2586404,
+          "Title": "Kategori:Koin"
+        },
+        {
+          "ID": 115980,
+          "Title": "Kategori:Lembaga di pemerintahan"
+        },
+        {
+          "ID": 15740,
+          "Title": "Kategori:Maskapai penerbangan"
+        },
+        {
+          "ID": 33784,
+          "Title": "Kategori:Masyarakat"
+        },
+        {
+          "ID": 76324,
+          "Title": "Kategori:Mata uang"
+        },
+        {
+          "ID": 2479299,
+          "Title": "Kategori:Mata uang yang beredar"
+        },
+        {
+          "ID": 33782,
+          "Title": "Kategori:Organisasi"
+        },
+        {
           "ID": 1769173,
           "Title": "Kategori:Organisasi antarpemerintah"
-        }
-      ],
-      "Articles": [
-        {
-          "ID": 4413,
-          "Title": "Chili"
-        },
-        {
-          "ID": 4436,
-          "Title": "Iran"
-        },
-        {
-          "ID": 4571,
-          "Title": "Uni Eropa"
-        },
-        {
-          "ID": 6104,
-          "Title": "Universitas Malaya"
-        },
-        {
-          "ID": 13198,
-          "Title": "Tahun Baru Imlek"
-        },
-        {
-          "ID": 14270,
-          "Title": "Barbados"
-        },
-        {
-          "ID": 14904,
-          "Title": "Universitas Harvard"
-        },
-        {
-          "ID": 15261,
-          "Title": "Universitas Tokyo"
-        },
-        {
-          "ID": 15406,
-          "Title": "Universitas Georg August Göttingen"
-        },
-        {
-          "ID": 19761,
-          "Title": "Institut Teknologi Massachusetts"
-        },
-        {
-          "ID": 20302,
-          "Title": "Starbucks"
-        },
-        {
-          "ID": 22102,
-          "Title": "Universitas Columbia"
-        },
-        {
-          "ID": 22111,
-          "Title": "Universitas Princeton"
-        },
-        {
-          "ID": 24507,
-          "Title": "Pizza Hut"
-        },
-        {
-          "ID": 27783,
-          "Title": "Universitas Cambridge"
-        },
-        {
-          "ID": 27998,
-          "Title": "Bp"
-        },
-        {
-          "ID": 34303,
-          "Title": "Universitas Cincinnati"
-        },
-        {
-          "ID": 40679,
-          "Title": "Waktu Musim Panas"
-        },
-        {
-          "ID": 43708,
-          "Title": "Universitas Pennsylvania"
-        },
-        {
-          "ID": 47174,
-          "Title": "Universitas Paris"
-        },
-        {
-          "ID": 60349,
-          "Title": "American Airlines"
-        },
-        {
-          "ID": 63829,
-          "Title": "Universitas Nasional Australia"
-        },
-        {
-          "ID": 102300,
-          "Title": "Bendera Australia"
-        },
-        {
-          "ID": 103412,
-          "Title": "Universitas Nasional Seoul"
-        },
-        {
-          "ID": 108128,
-          "Title": "Universitas Stanford"
-        },
-        {
-          "ID": 114118,
-          "Title": "Universitas Wollongong"
-        },
-        {
-          "ID": 122906,
-          "Title": "Universitas Nottingham"
-        },
-        {
-          "ID": 125381,
-          "Title": "Universitas Oxford"
-        },
-        {
-          "ID": 145944,
-          "Title": "Universitas California Selatan"
-        },
-        {
-          "ID": 148610,
-          "Title": "Universitas Arizona"
-        },
-        {
-          "ID": 149790,
-          "Title": "The New York Times"
-        },
-        {
-          "ID": 185156,
-          "Title": "Universitas Uppsala"
-        },
-        {
-          "ID": 186461,
-          "Title": "Universitas Oregon"
-        },
-        {
-          "ID": 198436,
-          "Title": "Universitas Soka"
-        },
-        {
-          "ID": 206633,
-          "Title": "Arsip Nasional Amerika Serikat"
-        },
-        {
-          "ID": 220092,
-          "Title": "Universitas Glasgow"
-        },
-        {
-          "ID": 226808,
-          "Title": "Universitas Washington"
-        },
-        {
-          "ID": 230811,
-          "Title": "Universitas Milano"
-        },
-        {
-          "ID": 230816,
-          "Title": "Universitas Torino"
-        },
-        {
-          "ID": 230853,
-          "Title": "Universitas Stockholm"
-        },
-        {
-          "ID": 242540,
-          "Title": "Domino's Pizza"
-        },
-        {
-          "ID": 242547,
-          "Title": "Taco Bell"
-        },
-        {
-          "ID": 274156,
-          "Title": "Universitas Wina"
-        },
-        {
-          "ID": 274470,
-          "Title": "Universitas Liverpool"
-        },
-        {
-          "ID": 277192,
-          "Title": "Universitas Osaka"
-        },
-        {
-          "ID": 301497,
-          "Title": "Universitas KwaZulu-Natal"
-        },
-        {
-          "ID": 318268,
-          "Title": "Universitas Negeri Moskwa M.V. Lomonosov"
-        },
-        {
-          "ID": 320738,
-          "Title": "Fox News Channel"
-        },
-        {
-          "ID": 337523,
-          "Title": "Program Lingkungan Perserikatan Bangsa-Bangsa"
-        },
-        {
-          "ID": 387133,
-          "Title": "Universitas Bologna"
-        },
-        {
-          "ID": 413965,
-          "Title": "Universitas Bonn"
-        },
-        {
-          "ID": 467472,
-          "Title": "Negara mikro"
-        },
-        {
-          "ID": 471317,
-          "Title": "Universitas Leeds"
-        },
-        {
-          "ID": 474112,
-          "Title": "Universitas Tohoku"
-        },
-        {
-          "ID": 524234,
-          "Title": "Universitas Iaşi"
-        },
-        {
-          "ID": 532947,
-          "Title": "Universitas Nanjing"
-        },
-        {
-          "ID": 534722,
-          "Title": "Universitas Chicago"
-        },
-        {
-          "ID": 542637,
-          "Title": "Universitas Sydney"
-        },
-        {
-          "ID": 555330,
-          "Title": "Universitas Ibrani Yerusalem"
-        },
-        {
-          "ID": 573771,
-          "Title": "Universitas Verona"
-        },
-        {
-          "ID": 573773,
-          "Title": "Universitas Genoa"
-        },
-        {
-          "ID": 590069,
-          "Title": "Universitas negeri"
-        },
-        {
-          "ID": 698275,
-          "Title": "Universitas London"
-        },
-        {
-          "ID": 701052,
-          "Title": "Universitas Udine"
-        },
-        {
-          "ID": 726980,
-          "Title": "Universitas Tartu"
-        },
-        {
-          "ID": 743941,
-          "Title": "Universitas Padova"
-        },
-        {
-          "ID": 746623,
-          "Title": "The Times of India"
-        },
-        {
-          "ID": 754793,
-          "Title": "Universitas Albert Ludwig Freiburg"
-        },
-        {
-          "ID": 826933,
-          "Title": "Universitas Delhi"
-        },
-        {
-          "ID": 827263,
-          "Title": "Universitas Guru Gobind Singh Indraprastha"
-        },
-        {
-          "ID": 855625,
-          "Title": "Universitas Mississippi"
-        },
-        {
-          "ID": 896783,
-          "Title": "Perang Dunia III"
-        },
-        {
-          "ID": 900325,
-          "Title": "University of Calgary"
-        },
-        {
-          "ID": 901023,
-          "Title": "Universitas Adamson"
-        },
-        {
-          "ID": 901522,
-          "Title": "Universitas Iowa"
-        },
-        {
-          "ID": 902950,
-          "Title": "Universitas Minnesota"
-        },
-        {
-          "ID": 947297,
-          "Title": "Universitas Hokkaido"
-        },
-        {
-          "ID": 949264,
-          "Title": "Universitas Islam Azad"
-        },
-        {
-          "ID": 997005,
-          "Title": "Universitas Ferrara"
-        },
-        {
-          "ID": 1097487,
-          "Title": "MIT Sloan School of Management"
-        },
-        {
-          "ID": 1179265,
-          "Title": "Universitas Leipzig"
-        },
-        {
-          "ID": 1198884,
-          "Title": "Universitas Auckland"
-        },
-        {
-          "ID": 1401109,
-          "Title": "Universitas Tübingen"
-        },
-        {
-          "ID": 1448208,
-          "Title": "Universitas Newcastle (Australia)"
-        },
-        {
-          "ID": 1459420,
-          "Title": "Universitas Alabama"
-        },
-        {
-          "ID": 1460956,
-          "Title": "Universitas Negeri Ohio"
-        },
-        {
-          "ID": 1461135,
-          "Title": "Universitas Lancaster"
-        },
-        {
-          "ID": 1464740,
-          "Title": "Universitas Guelph"
-        },
-        {
-          "ID": 1466894,
-          "Title": "Universitas Queensland"
-        },
-        {
-          "ID": 1475567,
-          "Title": "Pekerja sosial"
-        },
-        {
-          "ID": 1608543,
-          "Title": "Universitas Nalanda"
-        },
-        {
-          "ID": 1673208,
-          "Title": "Universitas East Anglia"
-        },
-        {
-          "ID": 1725508,
-          "Title": "Universitas Boston"
-        },
-        {
-          "ID": 1758129,
-          "Title": "Imperial College London"
-        },
-        {
-          "ID": 1803238,
-          "Title": "Universitas Bristol"
-        },
-        {
-          "ID": 1842930,
-          "Title": "Universitas Michigan"
-        },
-        {
-          "ID": 2016554,
-          "Title": "Universitas Boğaziçi"
-        },
-        {
-          "ID": 2035490,
-          "Title": "Universitas Koç"
-        },
-        {
-          "ID": 2089110,
-          "Title": "Universitas Muslim Aligarh"
-        },
-        {
-          "ID": 2097376,
-          "Title": "Universitas Otago"
-        },
-        {
-          "ID": 2104455,
-          "Title": "Ekonomi Iran"
-        },
-        {
-          "ID": 2130899,
-          "Title": "Universitas Birmingham"
-        },
-        {
-          "ID": 2143386,
-          "Title": "Universitas Tsinghua"
-        },
-        {
-          "ID": 2148491,
-          "Title": "Angkatan Darat Singapura"
         },
         {
-          "ID": 2151550,
-          "Title": "Universitas Negeri Sankt-Peterburg"
+          "ID": 13689,
+          "Title": "Kategori:Organisasi internasional"
         },
         {
-          "ID": 2345129,
-          "Title": "Universitas Mumbai"
+          "ID": 37003,
+          "Title": "Kategori:Pemasaran"
         },
         {
-          "ID": 2353320,
-          "Title": "Serangan Westminster 2017"
+          "ID": 47711,
+          "Title": "Kategori:Pemerintahan"
         },
         {
-          "ID": 2439314,
-          "Title": "Universitas Maryland"
+          "ID": 107420,
+          "Title": "Kategori:Pendidikan menurut negara"
         },
         {
-          "ID": 2478070,
-          "Title": "Universitas Sungkyunkwan"
+          "ID": 17047,
+          "Title": "Kategori:Perusahaan"
         },
         {
-          "ID": 2491182,
-          "Title": "Universitas Thammasat"
+          "ID": 8555,
+          "Title": "Kategori:Psikologi"
         },
         {
-          "ID": 2601735,
-          "Title": "Universitas Troy"
+          "ID": 136440,
+          "Title": "Kategori:Sistem politik"
         },
         {
-          "ID": 2670700,
-          "Title": "Fakta alternatif"
+          "ID": 38523,
+          "Title": "Kategori:Uang"
         }
       ]
     },
@@ -1934,32 +854,24 @@
       "Title": "Technology and applied sciences",
       "Categories": [
         {
-          "ID": 8527,
-          "Title": "Kategori:Transportasi"
+          "ID": 56219,
+          "Title": "Kategori:Alat"
         },
         {
-          "ID": 8528,
-          "Title": "Kategori:Teknologi"
+          "ID": 270823,
+          "Title": "Kategori:Alat tangan"
         },
         {
-          "ID": 8529,
-          "Title": "Kategori:Teknik"
-        },
-        {
-          "ID": 8541,
-          "Title": "Kategori:Internet"
-        },
-        {
-          "ID": 13294,
-          "Title": "Kategori:Komputer"
-        },
-        {
-          "ID": 17194,
-          "Title": "Kategori:Elektronika"
+          "ID": 102304,
+          "Title": "Kategori:Basis data"
         },
         {
           "ID": 30062,
           "Title": "Kategori:Desain"
+        },
+        {
+          "ID": 17194,
+          "Title": "Kategori:Elektronika"
         },
         {
           "ID": 48193,
@@ -1970,62 +882,100 @@
           "Title": "Kategori:Ilmu terapan"
         },
         {
-          "ID": 102304,
-          "Title": "Kategori:Basis data"
+          "ID": 8541,
+          "Title": "Kategori:Internet"
         },
         {
-          "ID": 109712,
-          "Title": "Kategori:Peralatan militer"
+          "ID": 1842418,
+          "Title": "Kategori:Kalender spesifik"
         },
         {
-          "ID": 123950,
-          "Title": "Kategori:Teknologi militer"
+          "ID": 13294,
+          "Title": "Kategori:Komputer"
+        },
+        {
+          "ID": 13893,
+          "Title": "Kategori:Konsol permainan"
+        },
+        {
+          "ID": 49068,
+          "Title": "Kategori:Konstruksi"
         },
         {
           "ID": 125731,
           "Title": "Kategori:Manajemen data"
         },
         {
-          "ID": 148294,
-          "Title": "Kategori:Sejarah teknologi"
+          "ID": 92438,
+          "Title": "Kategori:Pemrograman komputer"
+        },
+        {
+          "ID": 1463057,
+          "Title": "Kategori:Pengerjaan kayu"
+        },
+        {
+          "ID": 59965,
+          "Title": "Kategori:Peralatan"
+        },
+        {
+          "ID": 100911,
+          "Title": "Kategori:Peralatan dapur"
+        },
+        {
+          "ID": 130363,
+          "Title": "Kategori:Peralatan elektronik rumah tangga"
+        },
+        {
+          "ID": 109712,
+          "Title": "Kategori:Peralatan militer"
+        },
+        {
+          "ID": 29565,
+          "Title": "Kategori:Perangkat lunak"
+        },
+        {
+          "ID": 70122,
+          "Title": "Kategori:Percetakan"
+        },
+        {
+          "ID": 79799,
+          "Title": "Kategori:Standar"
+        },
+        {
+          "ID": 8529,
+          "Title": "Kategori:Teknik"
+        },
+        {
+          "ID": 269989,
+          "Title": "Kategori:Teknik bangunan"
+        },
+        {
+          "ID": 103474,
+          "Title": "Kategori:Teknik mesin"
+        },
+        {
+          "ID": 53770,
+          "Title": "Kategori:Teknik sipil"
+        },
+        {
+          "ID": 8528,
+          "Title": "Kategori:Teknologi"
+        },
+        {
+          "ID": 39077,
+          "Title": "Kategori:Teknologi informasi"
         },
         {
           "ID": 308729,
           "Title": "Kategori:Teknologi menurut tipe"
-        }
-      ],
-      "Articles": [
-        {
-          "ID": 3632,
-          "Title": "Ranah Internet tingkat teratas"
         },
         {
-          "ID": 101538,
-          "Title": "Pepsi"
+          "ID": 123950,
+          "Title": "Kategori:Teknologi militer"
         },
         {
-          "ID": 186077,
-          "Title": "Dinding"
-        },
-        {
-          "ID": 1005493,
-          "Title": "Las"
-        },
-        {
-          "ID": 1056904,
-          "Title": "Mountain Dew"
-        },
-        {
-          "ID": 1673405,
-          "Title": "PepsiCo"
-        },
-        {
-          "ID": 2557041,
-          "Title": "32X"
-        },
-        {
-          "ID": 2651887,
-          "Title": "Bath bomb"
+          "ID": 8527,
+          "Title": "Kategori:Transportasi"
         }
       ]
     }

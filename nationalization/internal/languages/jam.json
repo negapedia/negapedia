@@ -14,30 +14,16 @@
           "Title": "Category:Kolcha"
         },
         {
+          "ID": 1763,
+          "Title": "Category:Lichicha"
+        },
+        {
           "ID": 1791,
           "Title": "Category:Rikrieshan"
         },
         {
           "ID": 1806,
           "Title": "Category:Spuots"
-        }
-      ],
-      "Articles": [
-        {
-          "ID": 246,
-          "Title": "Bred"
-        },
-        {
-          "ID": 430,
-          "Title": "Filasafikal Riilizim"
-        },
-        {
-          "ID": 703,
-          "Title": "Kaafi"
-        },
-        {
-          "ID": 1519,
-          "Title": "Wikipidia"
         }
       ]
     },
@@ -48,28 +34,10 @@
         {
           "ID": 1737,
           "Title": "Category:Jaagrafi"
-        }
-      ],
-      "Articles": [
-        {
-          "ID": 149,
-          "Title": "Aschrielia"
         },
         {
-          "ID": 929,
-          "Title": "Mianmaa"
-        },
-        {
-          "ID": 1081,
-          "Title": "Paris"
-        },
-        {
-          "ID": 2373,
-          "Title": "Yuuman"
-        },
-        {
-          "ID": 2406,
-          "Title": "Piramid"
+          "ID": 1949,
+          "Title": "Category:Konchri"
         }
       ]
     },
@@ -84,12 +52,6 @@
         {
           "ID": 1728,
           "Title": "Category:Ischri"
-        }
-      ],
-      "Articles": [
-        {
-          "ID": 2185,
-          "Title": "Chuojan Waar"
         }
       ]
     },
@@ -108,38 +70,20 @@
       "Title": "Nature and physical sciences",
       "Categories": [
         {
+          "ID": 1699,
+          "Title": "Category:Anatomi"
+        },
+        {
+          "ID": 1861,
+          "Title": "Category:Kimischri"
+        },
+        {
           "ID": 1797,
           "Title": "Category:Sayans"
         },
         {
           "ID": 1820,
           "Title": "Category:Zuulaji"
-        },
-        {
-          "ID": 1861,
-          "Title": "Category:Kimischri"
-        }
-      ],
-      "Articles": [
-        {
-          "ID": 704,
-          "Title": "Kaan"
-        },
-        {
-          "ID": 886,
-          "Title": "Manggo"
-        },
-        {
-          "ID": 1160,
-          "Title": "Rais"
-        },
-        {
-          "ID": 1517,
-          "Title": "Wiit"
-        },
-        {
-          "ID": 2428,
-          "Title": "Faya"
         }
       ]
     },
@@ -148,46 +92,24 @@
       "Title": "People and self",
       "Categories": [
         {
+          "ID": 1693,
+          "Title": "Category:Aata"
+        },
+        {
+          "ID": 1694,
+          "Title": "Category:Aatis"
+        },
+        {
+          "ID": 1767,
+          "Title": "Category:Matimatishan"
+        },
+        {
+          "ID": 1772,
+          "Title": "Category:Myuuzishan"
+        },
+        {
           "ID": 1781,
           "Title": "Category:Piipl"
-        }
-      ],
-      "Articles": [
-        {
-          "ID": 42,
-          "Title": "Adalf Itla"
-        },
-        {
-          "ID": 63,
-          "Title": "Alan Turing"
-        },
-        {
-          "ID": 283,
-          "Title": "Carl Friedrich Gauss"
-        },
-        {
-          "ID": 480,
-          "Title": "Gialiliyo Gialileyi"
-        },
-        {
-          "ID": 766,
-          "Title": "Krixtifa Kolombos"
-        },
-        {
-          "ID": 1174,
-          "Title": "Renei Deikaat"
-        },
-        {
-          "ID": 1185,
-          "Title": "Richard Wagner"
-        },
-        {
-          "ID": 1283,
-          "Title": "Sigmund Freud"
-        },
-        {
-          "ID": 1378,
-          "Title": "Tamas Akwainas"
         }
       ]
     },
@@ -198,16 +120,10 @@
         {
           "ID": 1960,
           "Title": "Category:Filasafi"
-        }
-      ],
-      "Articles": [
-        {
-          "ID": 129,
-          "Title": "Apinis"
         },
         {
-          "ID": 215,
-          "Title": "Biliif"
+          "ID": 2555,
+          "Title": "Category:Metafizix"
         }
       ]
     },
@@ -229,24 +145,6 @@
           "ID": 1803,
           "Title": "Category:Sasayati"
         }
-      ],
-      "Articles": [
-        {
-          "ID": 171,
-          "Title": "Baabiedoz"
-        },
-        {
-          "ID": 312,
-          "Title": "Chili"
-        },
-        {
-          "ID": 598,
-          "Title": "Iran"
-        },
-        {
-          "ID": 2067,
-          "Title": "Yuropiyan Yuunian"
-        }
       ]
     },
     {
@@ -254,12 +152,12 @@
       "Title": "Technology and applied sciences",
       "Categories": [
         {
-          "ID": 2578,
-          "Title": "Category:Teknalaji"
-        },
-        {
           "ID": 2590,
           "Title": "Category:Ilekchtranix"
+        },
+        {
+          "ID": 2578,
+          "Title": "Category:Teknalaji"
         }
       ]
     }

@@ -8,24 +8,16 @@
         {
           "ID": 2550,
           "Title": "Category:Inhlonipho"
-        }
-      ],
-      "Articles": [
+        },
         {
-          "ID": 3031,
-          "Title": "Wikipedia"
+          "ID": 2515,
+          "Title": "Category:Tíncwâdzi"
         }
       ]
     },
     {
       "ID": 2147483638,
-      "Title": "Geography and places",
-      "Articles": [
-        {
-          "ID": 3256,
-          "Title": "IMayanima"
-        }
-      ]
+      "Title": "Geography and places"
     },
     {
       "ID": 2147483639,
@@ -68,6 +60,14 @@
         {
           "ID": 2020,
           "Title": "Category:Bantfu"
+        },
+        {
+          "ID": 2050,
+          "Title": "Category:Úm-bháli"
+        },
+        {
+          "ID": 2034,
+          "Title": "Category:Úm-dláli"
         }
       ]
     },
@@ -87,21 +87,7 @@
     },
     {
       "ID": 2147483646,
-      "Title": "Society and social sciences",
-      "Articles": [
-        {
-          "ID": 3236,
-          "Title": "I-Irani"
-        },
-        {
-          "ID": 3315,
-          "Title": "IBhadosi"
-        },
-        {
-          "ID": 3450,
-          "Title": "IShile"
-        }
-      ]
+      "Title": "Society and social sciences"
     },
     {
       "ID": 2147483647,

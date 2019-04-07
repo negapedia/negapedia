@@ -6,6 +6,18 @@
       "Title": "Culture and the arts",
       "Categories": [
         {
+          "ID": 8507,
+          "Title": "Catégorie:Botáli"
+        },
+        {
+          "ID": 2038,
+          "Title": "Catégorie:Botéyi"
+        },
+        {
+          "ID": 5289,
+          "Title": "Catégorie:Búku"
+        },
+        {
           "ID": 3488,
           "Title": "Catégorie:Lángi"
         },
@@ -14,46 +26,16 @@
           "Title": "Catégorie:Masano"
         },
         {
+          "ID": 4733,
+          "Title": "Catégorie:Mikanda"
+        },
+        {
+          "ID": 2158,
+          "Title": "Catégorie:Mizíki"
+        },
+        {
           "ID": 10498,
           "Title": "Catégorie:Ntɔ́ki"
-        }
-      ],
-      "Articles": [
-        {
-          "ID": 2073,
-          "Title": "Wikipedia"
-        },
-        {
-          "ID": 2872,
-          "Title": "Líki"
-        },
-        {
-          "ID": 3526,
-          "Title": "Límpa"
-        },
-        {
-          "ID": 3682,
-          "Title": "Sokolá (pɔtɔpɔ́tɔ)"
-        },
-        {
-          "ID": 3683,
-          "Title": "Kaukau"
-        },
-        {
-          "ID": 6170,
-          "Title": "Ngúlu"
-        },
-        {
-          "ID": 6171,
-          "Title": "Ngulúbɛ"
-        },
-        {
-          "ID": 6508,
-          "Title": "Mwǎmba-ngúba"
-        },
-        {
-          "ID": 8972,
-          "Title": "Pizza"
         }
       ]
     },
@@ -62,22 +44,20 @@
       "Title": "Geography and places",
       "Categories": [
         {
+          "ID": 3440,
+          "Title": "Catégorie:Engumba"
+        },
+        {
+          "ID": 2920,
+          "Title": "Catégorie:Esé"
+        },
+        {
           "ID": 3925,
           "Title": "Catégorie:Mambí ma mabelé"
-        }
-      ],
-      "Articles": [
-        {
-          "ID": 1056,
-          "Title": "Moto"
         },
         {
-          "ID": 2303,
-          "Title": "Pari"
-        },
-        {
-          "ID": 4473,
-          "Title": "Myanmar"
+          "ID": 7350,
+          "Title": "Catégorie:Motíma"
         }
       ]
     },
@@ -106,6 +86,10 @@
       "Title": "Mathematics and logic",
       "Categories": [
         {
+          "ID": 5263,
+          "Title": "Catégorie:Lomeka"
+        },
+        {
           "ID": 7709,
           "Title": "Catégorie:Matématíki"
         }
@@ -115,6 +99,14 @@
       "ID": 2147483642,
       "Title": "Nature and physical sciences",
       "Categories": [
+        {
+          "ID": 2980,
+          "Title": "Catégorie:Bomɔi"
+        },
+        {
+          "ID": 3873,
+          "Title": "Catégorie:Etɔɛlɛ"
+        },
         {
           "ID": 2159,
           "Title": "Catégorie:Fízíkí"
@@ -130,52 +122,14 @@
         {
           "ID": 5528,
           "Title": "Catégorie:Mambí ma nyama"
-        }
-      ],
-      "Articles": [
-        {
-          "ID": 1040,
-          "Title": "Língoló"
         },
         {
-          "ID": 2976,
-          "Title": "Ndímo"
+          "ID": 1121,
+          "Title": "Catégorie:Mbuma"
         },
         {
-          "ID": 2989,
-          "Title": "Montungá"
-        },
-        {
-          "ID": 3138,
-          "Title": "Tomáti"
-        },
-        {
-          "ID": 3287,
-          "Title": "Lilála"
-        },
-        {
-          "ID": 3323,
-          "Title": "Lisángú"
-        },
-        {
-          "ID": 3326,
-          "Title": "Lɔ́sɔ"
-        },
-        {
-          "ID": 3527,
-          "Title": "Blé"
-        },
-        {
-          "ID": 3841,
-          "Title": "Nsɔ́ka"
-        },
-        {
-          "ID": 6126,
-          "Title": "Ananási"
-        },
-        {
-          "ID": 6429,
-          "Title": "Mɔ̌tɔ"
+          "ID": 1114,
+          "Title": "Catégorie:Nyama"
         }
       ]
     },
@@ -184,22 +138,36 @@
       "Title": "People and self",
       "Categories": [
         {
+          "ID": 5914,
+          "Title": "Catégorie:Liwá"
+        },
+        {
+          "ID": 3050,
+          "Title": "Catégorie:Mokambi-ekólo"
+        },
+        {
+          "ID": 4732,
+          "Title": "Catégorie:Mokomi"
+        },
+        {
+          "ID": 7701,
+          "Title": "Catégorie:Mosani"
+        },
+        {
           "ID": 2134,
           "Title": "Catégorie:Moto"
         },
         {
-          "ID": 2980,
-          "Title": "Catégorie:Bomɔi"
+          "ID": 10497,
+          "Title": "Catégorie:Moí-ntɔ́ki"
         },
         {
           "ID": 6362,
           "Title": "Catégorie:Mwǎsí"
-        }
-      ],
-      "Articles": [
+        },
         {
-          "ID": 6705,
-          "Title": "Toma ya Aquin"
+          "ID": 8648,
+          "Title": "Catégorie:Mónganga"
         }
       ]
     },
@@ -222,30 +190,24 @@
       "Title": "Society and social sciences",
       "Categories": [
         {
+          "ID": 8503,
+          "Title": "Catégorie:Kompaní"
+        },
+        {
+          "ID": 8502,
+          "Title": "Catégorie:Kompaní ya mpɛ́pɔ"
+        },
+        {
           "ID": 2000,
           "Title": "Catégorie:Lisangá"
         },
         {
           "ID": 6605,
           "Title": "Catégorie:Mambí ma mibéko"
-        }
-      ],
-      "Articles": [
-        {
-          "ID": 4486,
-          "Title": "Iran"
         },
         {
-          "ID": 4581,
-          "Title": "Barbados"
-        },
-        {
-          "ID": 4599,
-          "Title": "Shíle"
-        },
-        {
-          "ID": 7783,
-          "Title": "Lisangá lya Erópa"
+          "ID": 6500,
+          "Title": "Catégorie:Mbɔ́ngɔ"
         }
       ]
     },
@@ -254,26 +216,24 @@
       "Title": "Technology and applied sciences",
       "Categories": [
         {
+          "ID": 6406,
+          "Title": "Catégorie:Botóngi"
+        },
+        {
           "ID": 3254,
           "Title": "Catégorie:Bónganga-masíni"
         },
         {
-          "ID": 4783,
-          "Title": "Catégorie:Ɛntɛrnɛ́tɛ"
+          "ID": 5159,
+          "Title": "Catégorie:Litámbwisi"
         },
         {
           "ID": 6531,
           "Title": "Catégorie:Tɛkníki"
-        }
-      ],
-      "Articles": [
-        {
-          "ID": 6398,
-          "Title": "Efelo"
         },
         {
-          "ID": 9303,
-          "Title": "Pepsi"
+          "ID": 4783,
+          "Title": "Catégorie:Ɛntɛrnɛ́tɛ"
         }
       ]
     }

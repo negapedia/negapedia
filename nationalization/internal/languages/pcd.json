@@ -6,70 +6,52 @@
       "Title": "Culture and the arts",
       "Categories": [
         {
-          "ID": 397,
-          "Title": "Catégorie:Arts"
-        },
-        {
-          "ID": 470,
-          "Title": "Catégorie:Sport"
-        },
-        {
           "ID": 538,
           "Title": "Catégorie:Alimint"
         },
         {
-          "ID": 1144,
-          "Title": "Catégorie:Éspéctake"
+          "ID": 397,
+          "Title": "Catégorie:Arts"
+        },
+        {
+          "ID": 8871,
+          "Title": "Catégorie:Couleur"
         },
         {
           "ID": 3765,
           "Title": "Catégorie:Cultchure"
         },
         {
+          "ID": 535,
+          "Title": "Catégorie:Litérature"
+        },
+        {
           "ID": 6164,
           "Title": "Catégorie:Louésir"
+        },
+        {
+          "ID": 4221,
+          "Title": "Catégorie:Légindes"
+        },
+        {
+          "ID": 5461,
+          "Title": "Catégorie:Musike"
+        },
+        {
+          "ID": 470,
+          "Title": "Catégorie:Sport"
         },
         {
           "ID": 7869,
           "Title": "Catégorie:Tchuisine"
         },
         {
-          "ID": 8871,
-          "Title": "Catégorie:Couleur"
-        }
-      ],
-      "Articles": [
-        {
-          "ID": 479,
-          "Title": "Biére"
+          "ID": 7416,
+          "Title": "Catégorie:Télévision"
         },
         {
-          "ID": 2428,
-          "Title": "Caféyé"
-        },
-        {
-          "ID": 2591,
-          "Title": "Caco"
-        },
-        {
-          "ID": 2666,
-          "Title": "Uë"
-        },
-        {
-          "ID": 4379,
-          "Title": "Wikipédia"
-        },
-        {
-          "ID": 9219,
-          "Title": "Pain"
-        },
-        {
-          "ID": 9368,
-          "Title": "Watieu"
-        },
-        {
-          "ID": 9415,
-          "Title": "Led Zeppelin"
+          "ID": 1144,
+          "Title": "Catégorie:Éspéctake"
         }
       ]
     },
@@ -78,34 +60,24 @@
       "Title": "Geography and places",
       "Categories": [
         {
+          "ID": 5470,
+          "Title": "Catégorie:Catiau"
+        },
+        {
+          "ID": 4516,
+          "Title": "Catégorie:Fleufes pi rivières"
+        },
+        {
           "ID": 322,
           "Title": "Catégorie:Jografie"
         },
         {
           "ID": 5469,
           "Title": "Catégorie:Monumint"
-        }
-      ],
-      "Articles": [
-        {
-          "ID": 400,
-          "Title": "Paris"
         },
         {
-          "ID": 6656,
-          "Title": "Australie"
-        },
-        {
-          "ID": 7138,
-          "Title": "Venise"
-        },
-        {
-          "ID": 8056,
-          "Title": "Birmanie"
-        },
-        {
-          "ID": 9754,
-          "Title": "Homo sapiens"
+          "ID": 725,
+          "Title": "Catégorie:Vile"
         }
       ]
     },
@@ -120,16 +92,6 @@
         {
           "ID": 491,
           "Title": "Catégorie:Histoère"
-        }
-      ],
-      "Articles": [
-        {
-          "ID": 9055,
-          "Title": "Atakes térorisses du 11 ed sétimbe 2001"
-        },
-        {
-          "ID": 9439,
-          "Title": "Dgère ed Troée"
         }
       ]
     },
@@ -148,46 +110,28 @@
       "Title": "Nature and physical sciences",
       "Categories": [
         {
-          "ID": 1285,
-          "Title": "Catégorie:Nature"
+          "ID": 489,
+          "Title": "Catégorie:Biètes"
         },
         {
           "ID": 5559,
           "Title": "Catégorie:Fisike"
         },
         {
+          "ID": 561,
+          "Title": "Catégorie:Flore"
+        },
+        {
+          "ID": 2729,
+          "Title": "Catégorie:Fruts"
+        },
+        {
           "ID": 5561,
           "Title": "Catégorie:Kémie"
-        }
-      ],
-      "Articles": [
-        {
-          "ID": 1893,
-          "Title": "Camioe"
         },
         {
-          "ID": 2466,
-          "Title": "Paturon"
-        },
-        {
-          "ID": 2499,
-          "Title": "Fourmint"
-        },
-        {
-          "ID": 2501,
-          "Title": "Blèi"
-        },
-        {
-          "ID": 2517,
-          "Title": "Limon"
-        },
-        {
-          "ID": 2559,
-          "Title": "Choufloer"
-        },
-        {
-          "ID": 5078,
-          "Title": "Melon (plante)"
+          "ID": 1285,
+          "Title": "Catégorie:Nature"
         }
       ]
     },
@@ -196,34 +140,44 @@
       "Title": "People and self",
       "Categories": [
         {
+          "ID": 5447,
+          "Title": "Catégorie:Acteu"
+        },
+        {
+          "ID": 5468,
+          "Title": "Catégorie:Arkitecte"
+        },
+        {
+          "ID": 7473,
+          "Title": "Catégorie:Aviateu"
+        },
+        {
+          "ID": 7462,
+          "Title": "Catégorie:Esploreu"
+        },
+        {
+          "ID": 5526,
+          "Title": "Catégorie:Filosofe"
+        },
+        {
           "ID": 5439,
           "Title": "Catégorie:Gin"
-        }
-      ],
-      "Articles": [
-        {
-          "ID": 5522,
-          "Title": "Richard Dawkins"
         },
         {
-          "ID": 5527,
-          "Title": "René Descartes"
+          "ID": 7470,
+          "Title": "Catégorie:Invinteu"
         },
         {
-          "ID": 7497,
-          "Title": "Cristofe Colomb"
+          "ID": 5462,
+          "Title": "Catégorie:Musichien"
         },
         {
-          "ID": 8854,
-          "Title": "Richard Wagner"
+          "ID": 5450,
+          "Title": "Catégorie:Politichien"
         },
         {
-          "ID": 9188,
-          "Title": "Saint Tomas d'Aquin"
-        },
-        {
-          "ID": 9710,
-          "Title": "Adolf Hitler"
+          "ID": 5443,
+          "Title": "Catégorie:Écrivin"
         }
       ]
     },
@@ -232,18 +186,12 @@
       "Title": "Philosophy and thinking",
       "Categories": [
         {
-          "ID": 4206,
-          "Title": "Catégorie:Pinsèe"
-        },
-        {
           "ID": 4207,
           "Title": "Catégorie:Filosofie"
-        }
-      ],
-      "Articles": [
+        },
         {
-          "ID": 9632,
-          "Title": "Bieutè"
+          "ID": 4206,
+          "Title": "Catégorie:Pinsèe"
         }
       ]
     },
@@ -252,16 +200,16 @@
       "Title": "Religion and belief systems",
       "Categories": [
         {
-          "ID": 4204,
-          "Title": "Catégorie:Érligion"
+          "ID": 5543,
+          "Title": "Catégorie:Arligion"
         },
         {
           "ID": 4205,
           "Title": "Catégorie:Croéyanche"
         },
         {
-          "ID": 5543,
-          "Title": "Catégorie:Arligion"
+          "ID": 4204,
+          "Title": "Catégorie:Érligion"
         }
       ]
     },
@@ -270,22 +218,12 @@
       "Title": "Society and social sciences",
       "Categories": [
         {
+          "ID": 4156,
+          "Title": "Catégorie:Monnouaie"
+        },
+        {
           "ID": 5547,
           "Title": "Catégorie:Sochiétè"
-        }
-      ],
-      "Articles": [
-        {
-          "ID": 314,
-          "Title": "Union uropéyine"
-        },
-        {
-          "ID": 503,
-          "Title": "Iran"
-        },
-        {
-          "ID": 7145,
-          "Title": "Kili"
         }
       ]
     },

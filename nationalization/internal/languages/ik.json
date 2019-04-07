@@ -6,44 +6,26 @@
       "Title": "Culture and the arts",
       "Categories": [
         {
-          "ID": 2935,
-          "Title": "Category:Qiñiqsitaat"
-        },
-        {
           "ID": 2983,
           "Title": "Category:Niqi"
-        }
-      ],
-      "Articles": [
-        {
-          "ID": 2036,
-          "Title": "Uiqipitia"
         },
         {
-          "ID": 2731,
-          "Title": "Tuttuqłuk"
-        },
-        {
-          "ID": 2790,
-          "Title": "Mannik"
-        },
-        {
-          "ID": 3322,
-          "Title": "Punniq"
-        },
-        {
-          "ID": 3323,
-          "Title": "Qaqqulaaq"
+          "ID": 2935,
+          "Title": "Category:Qiñiqsitaat"
         }
       ]
     },
     {
       "ID": 2147483638,
       "Title": "Geography and places",
-      "Articles": [
+      "Categories": [
         {
-          "ID": 4624,
-          "Title": "Myanmar"
+          "ID": 2759,
+          "Title": "Category:Kurgit"
+        },
+        {
+          "ID": 2150,
+          "Title": "Category:Nunaurat"
         }
       ]
     },
@@ -62,26 +44,18 @@
     {
       "ID": 2147483642,
       "Title": "Nature and physical sciences",
-      "Articles": [
+      "Categories": [
         {
-          "ID": 2723,
-          "Title": "Tuttuvak"
+          "ID": 2500,
+          "Title": "Category:Aŋusralluq"
         },
         {
-          "ID": 2872,
-          "Title": "Usuk"
+          "ID": 3469,
+          "Title": "Category:Nautchiat"
         },
         {
-          "ID": 2875,
-          "Title": "Igruk"
-        },
-        {
-          "ID": 2925,
-          "Title": "Pikukturuaq"
-        },
-        {
-          "ID": 4191,
-          "Title": "Palauvakstrat"
+          "ID": 3467,
+          "Title": "Category:Niġrutit"
         }
       ]
     },
@@ -99,13 +73,7 @@
     },
     {
       "ID": 2147483646,
-      "Title": "Society and social sciences",
-      "Articles": [
-        {
-          "ID": 4514,
-          "Title": "Cili"
-        }
-      ]
+      "Title": "Society and social sciences"
     },
     {
       "ID": 2147483647,
@@ -114,12 +82,6 @@
         {
           "ID": 3532,
           "Title": "Category:Taimani Igliġutit"
-        }
-      ],
-      "Articles": [
-        {
-          "ID": 4206,
-          "Title": "Kutchuq"
         }
       ]
     }

@@ -3,35 +3,11 @@
   "Topics": [
     {
       "ID": 2147483637,
-      "Title": "Culture and the arts",
-      "Articles": [
-        {
-          "ID": 3609,
-          "Title": "ویکیپیٖڈیا"
-        },
-        {
-          "ID": 4971,
-          "Title": "اِنسیکُلوپیٖڈیا"
-        },
-        {
-          "ID": 5887,
-          "Title": "विकिपीडिया"
-        }
-      ]
+      "Title": "Culture and the arts"
     },
     {
       "ID": 2147483638,
-      "Title": "Geography and places",
-      "Articles": [
-        {
-          "ID": 3317,
-          "Title": "اِنسان"
-        },
-        {
-          "ID": 5969,
-          "Title": "बर्मा"
-        }
-      ]
+      "Title": "Geography and places"
     },
     {
       "ID": 2147483639,
@@ -51,13 +27,7 @@
     },
     {
       "ID": 2147483643,
-      "Title": "People and self",
-      "Articles": [
-        {
-          "ID": 4968,
-          "Title": "نٲؤم چومسکۍ"
-        }
-      ]
+      "Title": "People and self"
     },
     {
       "ID": 2147483644,
@@ -75,13 +45,7 @@
     },
     {
       "ID": 2147483646,
-      "Title": "Society and social sciences",
-      "Articles": [
-        {
-          "ID": 3306,
-          "Title": "ایٖران"
-        }
-      ]
+      "Title": "Society and social sciences"
     },
     {
       "ID": 2147483647,

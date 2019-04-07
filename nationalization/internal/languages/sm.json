@@ -3,13 +3,7 @@
   "Topics": [
     {
       "ID": 2147483637,
-      "Title": "Culture and the arts",
-      "Articles": [
-        {
-          "ID": 3631,
-          "Title": "Wikipedia"
-        }
-      ]
+      "Title": "Culture and the arts"
     },
     {
       "ID": 2147483638,
@@ -18,24 +12,10 @@
         {
           "ID": 2750,
           "Title": "Category:Geography"
-        }
-      ],
-      "Articles": [
-        {
-          "ID": 2475,
-          "Title": "Ausetalia"
         },
         {
-          "ID": 4481,
-          "Title": "Kuiniselani"
-        },
-        {
-          "ID": 4539,
-          "Title": "Canberra"
-        },
-        {
-          "ID": 5431,
-          "Title": "Pale"
+          "ID": 2803,
+          "Title": "Category:Le Lalolagi"
         }
       ]
     },
@@ -45,13 +25,7 @@
     },
     {
       "ID": 2147483640,
-      "Title": "History and events",
-      "Articles": [
-        {
-          "ID": 6867,
-          "Title": "Donald Trump"
-        }
-      ]
+      "Title": "History and events"
     },
     {
       "ID": 2147483641,
@@ -59,23 +33,11 @@
     },
     {
       "ID": 2147483642,
-      "Title": "Nature and physical sciences",
-      "Articles": [
-        {
-          "ID": 3064,
-          "Title": "Moli"
-        }
-      ]
+      "Title": "Nature and physical sciences"
     },
     {
       "ID": 2147483643,
-      "Title": "People and self",
-      "Articles": [
-        {
-          "ID": 2762,
-          "Title": "Iosefa Samita"
-        }
-      ]
+      "Title": "People and self"
     },
     {
       "ID": 2147483644,
@@ -87,29 +49,7 @@
     },
     {
       "ID": 2147483646,
-      "Title": "Society and social sciences",
-      "Articles": [
-        {
-          "ID": 4322,
-          "Title": "Shili"
-        },
-        {
-          "ID": 4556,
-          "Title": "Iuni a Europa"
-        },
-        {
-          "ID": 4753,
-          "Title": "Fuʻa o Ausetalia"
-        },
-        {
-          "ID": 5437,
-          "Title": "Iran"
-        },
-        {
-          "ID": 6890,
-          "Title": "Pizza tamai"
-        }
-      ]
+      "Title": "Society and social sciences"
     },
     {
       "ID": 2147483647,

@@ -3,31 +3,19 @@
   "Topics": [
     {
       "ID": 2147483637,
-      "Title": "Culture and the arts",
-      "Articles": [
-        {
-          "ID": 1605,
-          "Title": "Saggitorde huuɓnude"
-        },
-        {
-          "ID": 1984,
-          "Title": "Wikipeediya"
-        }
-      ]
+      "Title": "Culture and the arts"
     },
     {
       "ID": 2147483638,
       "Title": "Geography and places",
       "Categories": [
         {
+          "ID": 1583,
+          "Title": "Catégorie:Leydi"
+        },
+        {
           "ID": 3598,
           "Title": "Catégorie:Mbaalaandi"
-        }
-      ],
-      "Articles": [
-        {
-          "ID": 3861,
-          "Title": "Pari"
         }
       ]
     },
@@ -42,12 +30,6 @@
         {
           "ID": 3596,
           "Title": "Catégorie:Taariika"
-        }
-      ],
-      "Articles": [
-        {
-          "ID": 3916,
-          "Title": "Donald Trump"
         }
       ]
     },
@@ -66,14 +48,12 @@
       "Title": "Nature and physical sciences",
       "Categories": [
         {
+          "ID": 2781,
+          "Title": "Catégorie:Dabbaji"
+        },
+        {
           "ID": 3597,
           "Title": "Catégorie:Siyansi"
-        }
-      ],
-      "Articles": [
-        {
-          "ID": 2777,
-          "Title": "Masarji"
         }
       ]
     },
@@ -84,12 +64,6 @@
         {
           "ID": 2786,
           "Title": "Catégorie:Yimɓe"
-        }
-      ],
-      "Articles": [
-        {
-          "ID": 3490,
-          "Title": "Carl Friedrich Gauss"
         }
       ]
     },
@@ -109,13 +83,7 @@
     },
     {
       "ID": 2147483646,
-      "Title": "Society and social sciences",
-      "Articles": [
-        {
-          "ID": 3601,
-          "Title": "Ciile"
-        }
-      ]
+      "Title": "Society and social sciences"
     },
     {
       "ID": 2147483647,

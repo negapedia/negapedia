@@ -6,8 +6,28 @@
       "Title": "Culture and the arts",
       "Categories": [
         {
+          "ID": 1182,
+          "Title": "Kategoriya:Biografiya"
+        },
+        {
+          "ID": 5661,
+          "Title": "Kategoriya:Gazeta"
+        },
+        {
+          "ID": 5438,
+          "Title": "Kategoriya:Güreş"
+        },
+        {
           "ID": 1129,
           "Title": "Kategoriya:Kultura"
+        },
+        {
+          "ID": 1131,
+          "Title": "Kategoriya:Literatura"
+        },
+        {
+          "ID": 1135,
+          "Title": "Kategoriya:Muzika"
         },
         {
           "ID": 1148,
@@ -17,16 +37,6 @@
           "ID": 1150,
           "Title": "Kategoriya:Sport"
         }
-      ],
-      "Articles": [
-        {
-          "ID": 395,
-          "Title": "Vikipediya"
-        },
-        {
-          "ID": 1983,
-          "Title": "Realizma"
-        }
       ]
     },
     {
@@ -34,26 +44,20 @@
       "Title": "Geography and places",
       "Categories": [
         {
+          "ID": 6783,
+          "Title": "Kategoriya:Devlet"
+        },
+        {
+          "ID": 1100,
+          "Title": "Kategoriya:Devletlär"
+        },
+        {
           "ID": 1119,
           "Title": "Kategoriya:Geografiya"
-        }
-      ],
-      "Articles": [
-        {
-          "ID": 74,
-          "Title": "Avstraliya"
         },
         {
-          "ID": 313,
-          "Title": "Paris"
-        },
-        {
-          "ID": 323,
-          "Title": "Queensland"
-        },
-        {
-          "ID": 1784,
-          "Title": "Myanmar"
+          "ID": 1124,
+          "Title": "Kategoriya:Kasabalar"
         }
       ]
     },
@@ -71,6 +75,10 @@
       "ID": 2147483640,
       "Title": "History and events",
       "Categories": [
+        {
+          "ID": 1147,
+          "Title": "Kategoriya:Savaşlar"
+        },
         {
           "ID": 1167,
           "Title": "Kategoriya:İstoriya"
@@ -100,14 +108,20 @@
           "Title": "Kategoriya:Fizika"
         },
         {
+          "ID": 1120,
+          "Title": "Kategoriya:Hayvannar"
+        },
+        {
+          "ID": 6832,
+          "Title": "Kategoriya:Meevalar"
+        },
+        {
           "ID": 1152,
           "Title": "Kategoriya:Tabiat"
-        }
-      ],
-      "Articles": [
+        },
         {
-          "ID": 6419,
-          "Title": "Devä"
+          "ID": 1160,
+          "Title": "Kategoriya:Yaşamak"
         }
       ]
     },
@@ -120,12 +134,12 @@
           "Title": "Kategoriya:Kişiler"
         },
         {
-          "ID": 1160,
-          "Title": "Kategoriya:Yaşamak"
+          "ID": 1143,
+          "Title": "Kategoriya:Prezidentler"
         },
         {
-          "ID": 1182,
-          "Title": "Kategoriya:Biografiya"
+          "ID": 1159,
+          "Title": "Kategoriya:Yazıcılar"
         }
       ]
     },
@@ -148,34 +162,16 @@
       "Title": "Society and social sciences",
       "Categories": [
         {
+          "ID": 4718,
+          "Title": "Kategoriya:Cebelitarık"
+        },
+        {
           "ID": 1140,
           "Title": "Kategoriya:Prava"
         },
         {
-          "ID": 4718,
-          "Title": "Kategoriya:Cebelitarık"
-        }
-      ],
-      "Articles": [
-        {
-          "ID": 434,
-          "Title": "İran"
-        },
-        {
-          "ID": 1762,
-          "Title": "Çili"
-        },
-        {
-          "ID": 2575,
-          "Title": "Evropa Birlii"
-        },
-        {
-          "ID": 2843,
-          "Title": "Barbados"
-        },
-        {
-          "ID": 6353,
-          "Title": "Tübingen Universiteti"
+          "ID": 1141,
+          "Title": "Kategoriya:Pravitelstva"
         }
       ]
     },

@@ -3,35 +3,27 @@
   "Topics": [
     {
       "ID": 2147483637,
-      "Title": "Culture and the arts",
-      "Articles": [
-        {
-          "ID": 4,
-          "Title": "Vikipidiya"
-        }
-      ]
+      "Title": "Culture and the arts"
     },
     {
       "ID": 2147483638,
       "Title": "Geography and places",
       "Categories": [
         {
+          "ID": 2029,
+          "Title": "Shopni:Phuvipen"
+        },
+        {
           "ID": 2025,
           "Title": "Shopni:Phuvipnaske patrinipena"
         },
         {
-          "ID": 2029,
-          "Title": "Shopni:Phuvipen"
-        }
-      ],
-      "Articles": [
-        {
-          "ID": 4736,
-          "Title": "Paris"
+          "ID": 2602,
+          "Title": "Shopni:Thanimata pa e thema"
         },
         {
-          "ID": 4789,
-          "Title": "Manush"
+          "ID": 2159,
+          "Title": "Shopni:Thema"
         }
       ]
     },
@@ -41,19 +33,7 @@
     },
     {
       "ID": 2147483640,
-      "Title": "History and events",
-      "Categories": [
-        {
-          "ID": 2026,
-          "Title": "Shopni:Manushikanipnaske janglimata"
-        }
-      ],
-      "Articles": [
-        {
-          "ID": 4832,
-          "Title": "Donald Trump"
-        }
-      ]
+      "Title": "History and events"
     },
     {
       "ID": 2147483641,
@@ -70,32 +50,28 @@
       "Title": "Nature and physical sciences",
       "Categories": [
         {
+          "ID": 2197,
+          "Title": "Shopni:Fizika"
+        },
+        {
           "ID": 2027,
           "Title": "Shopni:Janglipen"
         },
         {
-          "ID": 2197,
-          "Title": "Shopni:Fizika"
-        }
-      ],
-      "Articles": [
-        {
-          "ID": 1723,
-          "Title": "Giv"
-        },
-        {
-          "ID": 3303,
-          "Title": "Car"
-        },
-        {
-          "ID": 4754,
-          "Title": "Odari"
+          "ID": 2193,
+          "Title": "Shopni:Phuv"
         }
       ]
     },
     {
       "ID": 2147483643,
-      "Title": "People and self"
+      "Title": "People and self",
+      "Categories": [
+        {
+          "ID": 4552,
+          "Title": "Shopni:Phirne"
+        }
+      ]
     },
     {
       "ID": 2147483644,
@@ -116,22 +92,20 @@
       "Title": "Society and social sciences",
       "Categories": [
         {
+          "ID": 2028,
+          "Title": "Shopni:Manushikanimos"
+        },
+        {
           "ID": 2026,
           "Title": "Shopni:Manushikanipnaske janglimata"
         },
         {
-          "ID": 2028,
-          "Title": "Shopni:Manushikanimos"
-        }
-      ],
-      "Articles": [
-        {
-          "ID": 1415,
-          "Title": "Europikano Ekipen"
+          "ID": 2271,
+          "Title": "Shopni:Themenge stagurya"
         },
         {
-          "ID": 3595,
-          "Title": "Chile"
+          "ID": 2160,
+          "Title": "Shopni:Xulyaripen"
         }
       ]
     },

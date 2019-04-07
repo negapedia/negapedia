@@ -6,40 +6,112 @@
       "Title": "Culture and the arts",
       "Categories": [
         {
-          "ID": 6830,
-          "Title": "Categoria:Ars"
-        },
-        {
           "ID": 7339,
           "Title": "Categoria:Alimenta"
         },
         {
-          "ID": 7347,
-          "Title": "Categoria:Exercitatio corporis"
+          "ID": 6830,
+          "Title": "Categoria:Ars"
+        },
+        {
+          "ID": 109811,
+          "Title": "Categoria:Ars acroamatica"
+        },
+        {
+          "ID": 5785,
+          "Title": "Categoria:Artes martiales"
+        },
+        {
+          "ID": 156597,
+          "Title": "Categoria:Biota ficticia"
         },
         {
           "ID": 7355,
           "Title": "Categoria:Cibus"
         },
         {
-          "ID": 13000,
-          "Title": "Categoria:Scripturae"
-        },
-        {
           "ID": 13361,
           "Title": "Categoria:Colores"
         },
         {
-          "ID": 14087,
-          "Title": "Categoria:Pelliculae"
+          "ID": 94632,
+          "Title": "Categoria:Compositiones musicae"
         },
         {
           "ID": 73782,
           "Title": "Categoria:Cultura"
         },
         {
-          "ID": 82751,
-          "Title": "Categoria:Studia"
+          "ID": 221255,
+          "Title": "Categoria:Cultura interretialis"
+        },
+        {
+          "ID": 92974,
+          "Title": "Categoria:Cultura popularis"
+        },
+        {
+          "ID": 196898,
+          "Title": "Categoria:Culturae per civitates digestae"
+        },
+        {
+          "ID": 28475,
+          "Title": "Categoria:Diaria"
+        },
+        {
+          "ID": 108183,
+          "Title": "Categoria:Educatio"
+        },
+        {
+          "ID": 201572,
+          "Title": "Categoria:Encyclopaediae"
+        },
+        {
+          "ID": 7347,
+          "Title": "Categoria:Exercitatio corporis"
+        },
+        {
+          "ID": 149605,
+          "Title": "Categoria:Fictio"
+        },
+        {
+          "ID": 101825,
+          "Title": "Categoria:Genera musica"
+        },
+        {
+          "ID": 102877,
+          "Title": "Categoria:Greges musici"
+        },
+        {
+          "ID": 7412,
+          "Title": "Categoria:Libri"
+        },
+        {
+          "ID": 46393,
+          "Title": "Categoria:Litterae"
+        },
+        {
+          "ID": 26020,
+          "Title": "Categoria:Loci ficticii"
+        },
+        {
+          "ID": 261206,
+          "Title": "Categoria:Luctatio"
+        },
+        {
+          "ID": 28262,
+          "Title": "Categoria:Ludi computatrales"
+        },
+        {
+          "ID": 4572,
+          "Title": "Categoria:Ludi tabulares"
+        },
+        {
+          "ID": 174858,
+          "Title": "Categoria:Ludi televisifici"
+        },
+        {
+          "ID": 6846,
+          "Title": "Categoria:Musica"
         },
         {
           "ID": 94224,
@@ -50,190 +122,56 @@
           "Title": "Categoria:Otium"
         },
         {
-          "ID": 102877,
-          "Title": "Categoria:Greges musici"
-        }
-      ],
-      "Articles": [
-        {
-          "ID": 229,
-          "Title": "Encyclopaedia"
+          "ID": 14087,
+          "Title": "Categoria:Pelliculae"
         },
         {
-          "ID": 866,
-          "Title": "Panis"
+          "ID": 18508,
+          "Title": "Categoria:Periodica"
         },
         {
-          "ID": 3404,
-          "Title": "Vicipaedia"
+          "ID": 227674,
+          "Title": "Categoria:Saecularismus"
         },
         {
-          "ID": 4295,
-          "Title": "Cervesia"
+          "ID": 171920,
+          "Title": "Categoria:Scientia declarativa"
         },
         {
-          "ID": 9507,
-          "Title": "Pecorinus Romanus"
+          "ID": 118518,
+          "Title": "Categoria:Scientia popularis"
         },
         {
-          "ID": 10087,
-          "Title": "Coffeum"
+          "ID": 13000,
+          "Title": "Categoria:Scripturae"
         },
         {
-          "ID": 12469,
-          "Title": "Porcus"
+          "ID": 26183,
+          "Title": "Categoria:Sexualitas"
         },
         {
-          "ID": 14685,
-          "Title": "Trahea"
+          "ID": 77686,
+          "Title": "Categoria:Sexualitas humana"
         },
         {
-          "ID": 14906,
-          "Title": "Schola Hogvartensis"
+          "ID": 15499,
+          "Title": "Categoria:Sollemnia"
         },
         {
-          "ID": 16198,
-          "Title": "Crustulum Fortunae"
+          "ID": 201743,
+          "Title": "Categoria:Stationes Radiophonicae"
         },
         {
-          "ID": 17417,
-          "Title": "Manes"
+          "ID": 82751,
+          "Title": "Categoria:Studia"
         },
         {
-          "ID": 25221,
-          "Title": "Sgt. Pepper's Lonely Hearts Club Band"
+          "ID": 53343,
+          "Title": "Categoria:Tabulae pictae"
         },
         {
-          "ID": 25358,
-          "Title": "Coitus oralis"
-        },
-        {
-          "ID": 25389,
-          "Title": "Socolata"
-        },
-        {
-          "ID": 26695,
-          "Title": "Green Day"
-        },
-        {
-          "ID": 27345,
-          "Title": "Ovum"
-        },
-        {
-          "ID": 29637,
-          "Title": "Sus"
-        },
-        {
-          "ID": 30536,
-          "Title": "Sus scrofa"
-        },
-        {
-          "ID": 34205,
-          "Title": "Coffea"
-        },
-        {
-          "ID": 37196,
-          "Title": "Led Zeppelin"
-        },
-        {
-          "ID": 38067,
-          "Title": "Theobroma cacao"
-        },
-        {
-          "ID": 44139,
-          "Title": "Iudicta Pasta"
-        },
-        {
-          "ID": 45586,
-          "Title": "M\u0026M's"
-        },
-        {
-          "ID": 50135,
-          "Title": "Placenta Neapolitana"
-        },
-        {
-          "ID": 53788,
-          "Title": "Hilla calens"
-        },
-        {
-          "ID": 54985,
-          "Title": "AC/DC"
-        },
-        {
-          "ID": 56966,
-          "Title": "Bra (caseus)"
-        },
-        {
-          "ID": 57006,
-          "Title": "Pecorinus"
-        },
-        {
-          "ID": 69952,
-          "Title": "Realitas"
-        },
-        {
-          "ID": 82452,
-          "Title": "Lardum"
-        },
-        {
-          "ID": 93004,
-          "Title": "Suilla"
-        },
-        {
-          "ID": 97747,
-          "Title": "Potio Guaxacana"
-        },
-        {
-          "ID": 111241,
-          "Title": "Caelibatus"
-        },
-        {
-          "ID": 116083,
-          "Title": "Grex musicus"
-        },
-        {
-          "ID": 130677,
-          "Title": "Pasta"
-        },
-        {
-          "ID": 161895,
-          "Title": "Castitas"
-        },
-        {
-          "ID": 162271,
-          "Title": "Glacies edibilis"
-        },
-        {
-          "ID": 169097,
-          "Title": "Scriblita"
-        },
-        {
-          "ID": 197510,
-          "Title": "Bigfoot"
-        },
-        {
-          "ID": 223270,
-          "Title": "Realismus (artes)"
-        },
-        {
-          "ID": 223282,
-          "Title": "Realismus litterarius"
-        },
-        {
-          "ID": 242052,
-          "Title": "Crustum"
-        },
-        {
-          "ID": 265536,
-          "Title": "Eurovisionis Certamen Musicum 2017"
-        },
-        {
-          "ID": 269568,
-          "Title": "Realismus philosophicus"
-        },
-        {
-          "ID": 272711,
-          "Title": "Coffea arabica"
+          "ID": 7012,
+          "Title": "Categoria:Televisio"
         }
       ]
     },
@@ -242,54 +180,52 @@
       "Title": "Geography and places",
       "Categories": [
         {
+          "ID": 106904,
+          "Title": "Categoria:Domus principales"
+        },
+        {
+          "ID": 6429,
+          "Title": "Categoria:Flumina"
+        },
+        {
           "ID": 7178,
           "Title": "Categoria:Geographia"
+        },
+        {
+          "ID": 122274,
+          "Title": "Categoria:Geomorphologia"
+        },
+        {
+          "ID": 125383,
+          "Title": "Categoria:Imperia"
         },
         {
           "ID": 122226,
           "Title": "Categoria:Loci"
         },
         {
-          "ID": 122274,
-          "Title": "Categoria:Geomorphologia"
-        }
-      ],
-      "Articles": [
-        {
-          "ID": 346,
-          "Title": "Gens humana"
+          "ID": 185790,
+          "Title": "Categoria:Loci habitati"
         },
         {
-          "ID": 455,
-          "Title": "Lutetia"
+          "ID": 4577,
+          "Title": "Categoria:Nationes"
         },
         {
-          "ID": 1984,
-          "Title": "Venetiae"
+          "ID": 7484,
+          "Title": "Categoria:Res publica"
         },
         {
-          "ID": 2424,
-          "Title": "Australia"
+          "ID": 6017,
+          "Title": "Categoria:Urbes"
         },
         {
-          "ID": 10518,
-          "Title": "Birmania"
+          "ID": 196922,
+          "Title": "Categoria:Urbes per civitates digestae"
         },
         {
-          "ID": 12259,
-          "Title": "Camberra"
-        },
-        {
-          "ID": 41756,
-          "Title": "Terra Reginae"
-        },
-        {
-          "ID": 72073,
-          "Title": "Pyramis (aedificium)"
-        },
-        {
-          "ID": 254416,
-          "Title": "Homo sapiens"
+          "ID": 27297,
+          "Title": "Categoria:Via"
         }
       ]
     },
@@ -316,46 +252,20 @@
       "Title": "History and events",
       "Categories": [
         {
-          "ID": 6828,
-          "Title": "Categoria:Scientia humana"
+          "ID": 7375,
+          "Title": "Categoria:Bella"
+        },
+        {
+          "ID": 168071,
+          "Title": "Categoria:Gesta tromocratica"
         },
         {
           "ID": 7001,
           "Title": "Categoria:Historia"
         },
         {
-          "ID": 80915,
-          "Title": "Categoria:Scientiae sociales"
-        },
-        {
           "ID": 166173,
           "Title": "Categoria:Historia civitate digesta"
-        }
-      ],
-      "Articles": [
-        {
-          "ID": 4794,
-          "Title": "Impetus 11 Septembris"
-        },
-        {
-          "ID": 5779,
-          "Title": "Mensurae Romanae"
-        },
-        {
-          "ID": 9260,
-          "Title": "Bellum Troianum"
-        },
-        {
-          "ID": 177429,
-          "Title": "Terrae motus Tohoku"
-        },
-        {
-          "ID": 208161,
-          "Title": "Donaldus Trump"
-        },
-        {
-          "ID": 259150,
-          "Title": "Impetus Orlando Iunio 2016 factus"
         }
       ]
     },
@@ -372,18 +282,16 @@
           "Title": "Categoria:Mathematica"
         },
         {
+          "ID": 108123,
+          "Title": "Categoria:Notiones mathematicae"
+        },
+        {
           "ID": 18936,
           "Title": "Categoria:Res statisticae"
         },
         {
-          "ID": 108123,
-          "Title": "Categoria:Notiones mathematicae"
-        }
-      ],
-      "Articles": [
-        {
-          "ID": 23117,
-          "Title": "Longitudo"
+          "ID": 136031,
+          "Title": "Categoria:Unitates mensurae"
         }
       ]
     },
@@ -392,32 +300,20 @@
       "Title": "Nature and physical sciences",
       "Categories": [
         {
-          "ID": 6829,
-          "Title": "Categoria:Scientia"
+          "ID": 10048,
+          "Title": "Categoria:Anatomia"
         },
         {
-          "ID": 6836,
-          "Title": "Categoria:Physica"
-        },
-        {
-          "ID": 6961,
-          "Title": "Categoria:Chemica"
+          "ID": 8088,
+          "Title": "Categoria:Animalia"
         },
         {
           "ID": 25813,
           "Title": "Categoria:Chemia"
         },
         {
-          "ID": 27159,
-          "Title": "Categoria:Scientia naturalis"
-        },
-        {
-          "ID": 39418,
-          "Title": "Categoria:Zoologia"
-        },
-        {
-          "ID": 81417,
-          "Title": "Categoria:Natura"
+          "ID": 6961,
+          "Title": "Categoria:Chemica"
         },
         {
           "ID": 91990,
@@ -428,162 +324,52 @@
           "Title": "Categoria:Disciplinae scientificae"
         },
         {
+          "ID": 204475,
+          "Title": "Categoria:Fauna per continentes digesta"
+        },
+        {
+          "ID": 79764,
+          "Title": "Categoria:Fructus"
+        },
+        {
           "ID": 120169,
           "Title": "Categoria:Mali casus"
         },
         {
-          "ID": 171920,
-          "Title": "Categoria:Scientia declarativa"
+          "ID": 81417,
+          "Title": "Categoria:Natura"
         },
         {
-          "ID": 204475,
-          "Title": "Categoria:Fauna per continentes digesta"
-        }
-      ],
-      "Articles": [
-        {
-          "ID": 11256,
-          "Title": "Triticum (genus)"
+          "ID": 77913,
+          "Title": "Categoria:Oecologia"
         },
         {
-          "ID": 12176,
-          "Title": "Camelus"
+          "ID": 6836,
+          "Title": "Categoria:Physica"
         },
         {
-          "ID": 14189,
-          "Title": "Penis"
+          "ID": 73381,
+          "Title": "Categoria:Plantae utiles"
         },
         {
-          "ID": 14604,
-          "Title": "Alces"
+          "ID": 6829,
+          "Title": "Categoria:Scientia"
         },
         {
-          "ID": 19916,
-          "Title": "Malum Sinense"
+          "ID": 27159,
+          "Title": "Categoria:Scientia naturalis"
         },
         {
-          "ID": 24350,
-          "Title": "Testis (membrum)"
+          "ID": 7380,
+          "Title": "Categoria:Terra"
         },
         {
-          "ID": 25517,
-          "Title": "Masturbatio"
+          "ID": 80084,
+          "Title": "Categoria:Vita"
         },
         {
-          "ID": 25625,
-          "Title": "Scomber"
-        },
-        {
-          "ID": 25945,
-          "Title": "Ignis"
-        },
-        {
-          "ID": 27379,
-          "Title": "Musculus"
-        },
-        {
-          "ID": 27492,
-          "Title": "Urina"
-        },
-        {
-          "ID": 31498,
-          "Title": "Zea mays"
-        },
-        {
-          "ID": 31500,
-          "Title": "Oryza sativa"
-        },
-        {
-          "ID": 33253,
-          "Title": "Solanum lycopersicum"
-        },
-        {
-          "ID": 35927,
-          "Title": "Mangifera"
-        },
-        {
-          "ID": 36646,
-          "Title": "Fragaria"
-        },
-        {
-          "ID": 50146,
-          "Title": "Ananas comosus"
-        },
-        {
-          "ID": 51847,
-          "Title": "Cucumis melo"
-        },
-        {
-          "ID": 52624,
-          "Title": "Limon"
-        },
-        {
-          "ID": 54776,
-          "Title": "Lumia"
-        },
-        {
-          "ID": 79595,
-          "Title": "Oryza (victus)"
-        },
-        {
-          "ID": 91506,
-          "Title": "Oryza (genus)"
-        },
-        {
-          "ID": 102920,
-          "Title": "Oryza"
-        },
-        {
-          "ID": 103390,
-          "Title": "Systema reproductionis"
-        },
-        {
-          "ID": 120341,
-          "Title": "Myrtus"
-        },
-        {
-          "ID": 120342,
-          "Title": "Myrtus communis"
-        },
-        {
-          "ID": 169668,
-          "Title": "Calendarium Mayense"
-        },
-        {
-          "ID": 206829,
-          "Title": "Triticum aestivum"
-        },
-        {
-          "ID": 254972,
-          "Title": "Triticum (alimentum)"
-        },
-        {
-          "ID": 262357,
-          "Title": "Fragaria × ananassa"
-        },
-        {
-          "ID": 263583,
-          "Title": "Palea"
-        },
-        {
-          "ID": 265581,
-          "Title": "Hylidae"
-        },
-        {
-          "ID": 266149,
-          "Title": "Systema urogenitale"
-        },
-        {
-          "ID": 266162,
-          "Title": "Mangifera indica"
-        },
-        {
-          "ID": 268527,
-          "Title": "Systema musculosceletalis"
-        },
-        {
-          "ID": 273132,
-          "Title": "Cucurbita maxima"
+          "ID": 39418,
+          "Title": "Categoria:Zoologia"
         }
       ]
     },
@@ -592,12 +378,20 @@
       "Title": "People and self",
       "Categories": [
         {
-          "ID": 6695,
-          "Title": "Categoria:Homines"
+          "ID": 16948,
+          "Title": "Categoria:Actores"
         },
         {
-          "ID": 16018,
-          "Title": "Categoria:Mulieres"
+          "ID": 7242,
+          "Title": "Categoria:Architecti"
+        },
+        {
+          "ID": 7241,
+          "Title": "Categoria:Artifices"
+        },
+        {
+          "ID": 93409,
+          "Title": "Categoria:Aëronautae"
         },
         {
           "ID": 25348,
@@ -608,166 +402,84 @@
           "Title": "Categoria:Cognomina"
         },
         {
-          "ID": 80084,
-          "Title": "Categoria:Vita"
+          "ID": 13774,
+          "Title": "Categoria:Duces civitatum"
+        },
+        {
+          "ID": 4408,
+          "Title": "Categoria:Exploratores"
         },
         {
           "ID": 148315,
           "Title": "Categoria:Feminae"
         },
         {
-          "ID": 263865,
-          "Title": "Categoria:Personalitas"
-        }
-      ],
-      "Articles": [
-        {
-          "ID": 3284,
-          "Title": "Noam Chomsky"
+          "ID": 16015,
+          "Title": "Categoria:Histriones"
         },
         {
-          "ID": 3713,
-          "Title": "Christophorus Columbus"
+          "ID": 6695,
+          "Title": "Categoria:Homines"
         },
         {
-          "ID": 4201,
-          "Title": "Iohannes Keplerus"
+          "ID": 204412,
+          "Title": "Categoria:Homines per annos natales digesti"
         },
         {
-          "ID": 4293,
-          "Title": "Galilaeus Galilaei"
+          "ID": 204406,
+          "Title": "Categoria:Homines per munera digesti"
         },
         {
-          "ID": 4544,
-          "Title": "Renatus Cartesius"
+          "ID": 204413,
+          "Title": "Categoria:Homines per ultimos vitae annos digesti"
         },
         {
-          "ID": 4670,
-          "Title": "Adolfus Hitler"
+          "ID": 59909,
+          "Title": "Categoria:Homines vivi"
         },
         {
-          "ID": 4834,
-          "Title": "Ioannes Lennon"
+          "ID": 8027,
+          "Title": "Categoria:Inventores"
         },
         {
-          "ID": 5733,
-          "Title": "Thomas Aquinas"
+          "ID": 4550,
+          "Title": "Categoria:Mathematici"
         },
         {
-          "ID": 6996,
-          "Title": "Ricardus Wagner"
+          "ID": 7343,
+          "Title": "Categoria:Medici"
         },
         {
-          "ID": 8730,
-          "Title": "Carolus Fridericus Gauss"
+          "ID": 16018,
+          "Title": "Categoria:Mulieres"
         },
         {
-          "ID": 9457,
-          "Title": "Oliverius Cromwellus"
+          "ID": 5015,
+          "Title": "Categoria:Musici"
         },
         {
-          "ID": 10185,
-          "Title": "Sigismundus Freud"
+          "ID": 25501,
+          "Title": "Categoria:Personae ficticiae"
         },
         {
-          "ID": 24420,
-          "Title": "Gulielmus Blake"
+          "ID": 5430,
+          "Title": "Categoria:Philosophi"
         },
         {
-          "ID": 25323,
-          "Title": "Ayn Rand"
+          "ID": 195070,
+          "Title": "Categoria:Politici"
         },
         {
-          "ID": 28427,
-          "Title": "Alexander Fleming"
+          "ID": 225365,
+          "Title": "Categoria:Politologi"
         },
         {
-          "ID": 31247,
-          "Title": "Gulielmus Gates"
+          "ID": 61115,
+          "Title": "Categoria:Rerum novarum cupidi"
         },
         {
-          "ID": 32885,
-          "Title": "Adamus Smith"
-        },
-        {
-          "ID": 37265,
-          "Title": "Carolus Fridericus Abel"
-        },
-        {
-          "ID": 37363,
-          "Title": "Ricardus Dawkins"
-        },
-        {
-          "ID": 38184,
-          "Title": "Iosephus Smith"
-        },
-        {
-          "ID": 43085,
-          "Title": "Ludovicus Carroll"
-        },
-        {
-          "ID": 43783,
-          "Title": "Leonardus Pisanus"
-        },
-        {
-          "ID": 45396,
-          "Title": "Florentia Nightingale"
-        },
-        {
-          "ID": 48839,
-          "Title": "Henricus Houdini"
-        },
-        {
-          "ID": 66165,
-          "Title": "Georgius Harrison"
-        },
-        {
-          "ID": 66603,
-          "Title": "Alanus Mathison Turing"
-        },
-        {
-          "ID": 67374,
-          "Title": "Keplerus"
-        },
-        {
-          "ID": 68725,
-          "Title": "Carolus Sagan"
-        },
-        {
-          "ID": 80072,
-          "Title": "Irving Langmuir"
-        },
-        {
-          "ID": 102437,
-          "Title": "Carolus Babbage"
-        },
-        {
-          "ID": 127384,
-          "Title": "Andreas Behring Breivik"
-        },
-        {
-          "ID": 128982,
-          "Title": "Daniel Radcliffe"
-        },
-        {
-          "ID": 131980,
-          "Title": "Srinivasa Aiyangar Ramanujan"
-        },
-        {
-          "ID": 184907,
-          "Title": "The Big Bang Theory"
-        },
-        {
-          "ID": 185142,
-          "Title": "Sheldon Cooper (persona ficta)"
-        },
-        {
-          "ID": 203010,
-          "Title": "Chaim Soutine"
-        },
-        {
-          "ID": 222124,
-          "Title": "Elton John"
+          "ID": 6708,
+          "Title": "Categoria:Scriptores"
         }
       ]
     },
@@ -776,20 +488,36 @@
       "Title": "Philosophy and thinking",
       "Categories": [
         {
-          "ID": 5431,
-          "Title": "Categoria:Philosophia"
-        },
-        {
-          "ID": 29962,
-          "Title": "Categoria:Ideologia"
+          "ID": 137227,
+          "Title": "Categoria:Cogitatio"
         },
         {
           "ID": 62727,
           "Title": "Categoria:Ethica"
         },
         {
-          "ID": 137227,
-          "Title": "Categoria:Cogitatio"
+          "ID": 29962,
+          "Title": "Categoria:Ideologia"
+        },
+        {
+          "ID": 212038,
+          "Title": "Categoria:Metaphilosophia"
+        },
+        {
+          "ID": 6843,
+          "Title": "Categoria:Metaphysica"
+        },
+        {
+          "ID": 118500,
+          "Title": "Categoria:Notiones philosophicae"
+        },
+        {
+          "ID": 5431,
+          "Title": "Categoria:Philosophia"
+        },
+        {
+          "ID": 92460,
+          "Title": "Categoria:Realitas"
         },
         {
           "ID": 212034,
@@ -799,28 +527,6 @@
           "ID": 251532,
           "Title": "Categoria:Theoriae politicae"
         }
-      ],
-      "Articles": [
-        {
-          "ID": 42498,
-          "Title": "Pulchritudo"
-        },
-        {
-          "ID": 72948,
-          "Title": "Felicitas"
-        },
-        {
-          "ID": 136877,
-          "Title": "Gaslighting"
-        },
-        {
-          "ID": 194751,
-          "Title": "Fides"
-        },
-        {
-          "ID": 275051,
-          "Title": "Effectus Dunning–Kruger"
-        }
       ]
     },
     {
@@ -828,32 +534,28 @@
       "Title": "Religion and belief systems",
       "Categories": [
         {
-          "ID": 5980,
-          "Title": "Categoria:Religiones"
-        },
-        {
-          "ID": 27010,
-          "Title": "Categoria:Theologia"
+          "ID": 221319,
+          "Title": "Categoria:Anthropologia religionis"
         },
         {
           "ID": 171753,
           "Title": "Categoria:Fides"
         },
         {
-          "ID": 181146,
-          "Title": "Categoria:Religio"
-        },
-        {
           "ID": 197704,
           "Title": "Categoria:Nontheismus"
         },
         {
-          "ID": 221319,
-          "Title": "Categoria:Anthropologia religionis"
+          "ID": 181146,
+          "Title": "Categoria:Religio"
         },
         {
-          "ID": 227674,
-          "Title": "Categoria:Saecularismus"
+          "ID": 5980,
+          "Title": "Categoria:Religiones"
+        },
+        {
+          "ID": 27010,
+          "Title": "Categoria:Theologia"
         }
       ]
     },
@@ -862,378 +564,68 @@
       "Title": "Society and social sciences",
       "Categories": [
         {
-          "ID": 6828,
-          "Title": "Categoria:Scientia humana"
+          "ID": 181743,
+          "Title": "Categoria:Feminismus"
         },
         {
-          "ID": 7437,
-          "Title": "Categoria:Societas hominum"
+          "ID": 94686,
+          "Title": "Categoria:Geographia politica"
+        },
+        {
+          "ID": 77840,
+          "Title": "Categoria:Gubernatio"
+        },
+        {
+          "ID": 204844,
+          "Title": "Categoria:Humanitates"
         },
         {
           "ID": 8831,
           "Title": "Categoria:Iurisprudentia"
         },
         {
-          "ID": 31507,
-          "Title": "Categoria:Societates civitatum"
+          "ID": 7092,
+          "Title": "Categoria:Monetae"
+        },
+        {
+          "ID": 263865,
+          "Title": "Categoria:Personalitas"
+        },
+        {
+          "ID": 10244,
+          "Title": "Categoria:Psychologia"
+        },
+        {
+          "ID": 6828,
+          "Title": "Categoria:Scientia humana"
         },
         {
           "ID": 80915,
           "Title": "Categoria:Scientiae sociales"
         },
         {
-          "ID": 181743,
-          "Title": "Categoria:Feminismus"
+          "ID": 7437,
+          "Title": "Categoria:Societas hominum"
         },
         {
-          "ID": 204844,
-          "Title": "Categoria:Humanitates"
-        }
-      ],
-      "Articles": [
-        {
-          "ID": 1007,
-          "Title": "Universitas Upsaliensis"
-        },
-        {
-          "ID": 1013,
-          "Title": "Unio Europaea"
-        },
-        {
-          "ID": 2500,
-          "Title": "Universitas Holmiensis"
-        },
-        {
-          "ID": 2501,
-          "Title": "Universitas Gothoburgensis"
-        },
-        {
-          "ID": 2502,
-          "Title": "Universitas Lincopiensis"
-        },
-        {
-          "ID": 2504,
-          "Title": "Universitas Linnaeus"
-        },
-        {
-          "ID": 3316,
-          "Title": "Universitas Harvardiana"
-        },
-        {
-          "ID": 3655,
-          "Title": "Chilia"
-        },
-        {
-          "ID": 7438,
-          "Title": "Universitas Princetoniensis"
-        },
-        {
-          "ID": 7994,
-          "Title": "Universitas Stanfordiensis"
-        },
-        {
-          "ID": 10227,
-          "Title": "Universitas Oxoniensis"
-        },
-        {
-          "ID": 10502,
-          "Title": "Irania"
-        },
-        {
-          "ID": 11413,
-          "Title": "Universitas Birminghamiensis"
-        },
-        {
-          "ID": 13163,
-          "Title": "Universitas Publica Moscuensis"
-        },
-        {
-          "ID": 15416,
-          "Title": "Universitas Fridericia Guilelmia Rhenana"
-        },
-        {
-          "ID": 18221,
-          "Title": "Universitas Pennsylvaniensis"
-        },
-        {
-          "ID": 26112,
-          "Title": "Universitas Virginiensis"
-        },
-        {
-          "ID": 26944,
-          "Title": "Universitas Marylandensis"
-        },
-        {
-          "ID": 30525,
-          "Title": "Alma Mater Rudolphina Vindobonensis"
-        },
-        {
-          "ID": 33491,
-          "Title": "Universitas Nationalis Seulensis"
-        },
-        {
-          "ID": 35021,
-          "Title": "The New York Times"
-        },
-        {
-          "ID": 36696,
-          "Title": "Barbata"
-        },
-        {
-          "ID": 36916,
-          "Title": "Universitas Cantabrigiensis"
-        },
-        {
-          "ID": 37398,
-          "Title": "Universitas Columbiae"
-        },
-        {
-          "ID": 38542,
-          "Title": "Tempus aestivum"
-        },
-        {
-          "ID": 40728,
-          "Title": "Massachusettense Institutum Technologiae"
-        },
-        {
-          "ID": 42197,
-          "Title": "Universitas Parisiensis"
-        },
-        {
-          "ID": 43121,
-          "Title": "Universitas Publica Petropolitana"
-        },
-        {
-          "ID": 47182,
-          "Title": "Universitas Tartuensis"
-        },
-        {
-          "ID": 48047,
-          "Title": "Universitas Eberhardina Carolina"
-        },
-        {
-          "ID": 50606,
-          "Title": "Universitas Texana"
-        },
-        {
-          "ID": 50884,
-          "Title": "Universitas Missouriensis"
-        },
-        {
-          "ID": 50963,
-          "Title": "Universitas Londiniensis"
-        },
-        {
-          "ID": 50984,
-          "Title": "Universitas Regia Georgia Augusta"
-        },
-        {
-          "ID": 56473,
-          "Title": "Universitas Wratislaviensis"
-        },
-        {
-          "ID": 63452,
-          "Title": "Universitas Bristoliensis"
-        },
-        {
-          "ID": 67023,
-          "Title": "Alma Mater Lipsiensis"
-        },
-        {
-          "ID": 78048,
-          "Title": "Universitas Bernensis"
-        },
-        {
-          "ID": 78129,
-          "Title": "Universitas Mancuniensis"
-        },
-        {
-          "ID": 91443,
-          "Title": "Universitas Tokiensis"
-        },
-        {
-          "ID": 108759,
-          "Title": "Universitas studiorum Friburgensis Brisgaudiae"
-        },
-        {
-          "ID": 111050,
-          "Title": "Alma Mater Studiorum"
-        },
-        {
-          "ID": 127127,
-          "Title": "Universitas Nottinghamiensis"
-        },
-        {
-          "ID": 129858,
-          "Title": "Universitas Delliensis"
-        },
-        {
-          "ID": 137191,
-          "Title": "Universitas Aberdonensis"
-        },
-        {
-          "ID": 137497,
-          "Title": "Universitas Sancti Ludovici"
-        },
-        {
-          "ID": 138464,
-          "Title": "Universitas Hebraica Hierosolymitana"
-        },
-        {
-          "ID": 138465,
-          "Title": "Universitas Sidneiensis"
-        },
-        {
-          "ID": 138467,
-          "Title": "Universitas Nationalis Australiana"
-        },
-        {
-          "ID": 139815,
-          "Title": "Universitas Indianensis"
-        },
-        {
-          "ID": 139825,
-          "Title": "Universitas Delavariensis"
-        },
-        {
-          "ID": 139845,
-          "Title": "Universitas Chicaginiensis"
-        },
-        {
-          "ID": 139847,
-          "Title": "Universitas Herbipolensis"
-        },
-        {
-          "ID": 146054,
-          "Title": "Universitas Ledesiensis"
-        },
-        {
-          "ID": 146094,
-          "Title": "Universitas Alabamensis"
-        },
-        {
-          "ID": 146109,
-          "Title": "Universitas Minnesotensis"
-        },
-        {
-          "ID": 146222,
-          "Title": "Universitas Buffalonensis"
-        },
-        {
-          "ID": 147175,
-          "Title": "Universitas Patavina"
-        },
-        {
-          "ID": 147219,
-          "Title": "Universitas Coloniensis"
-        },
-        {
-          "ID": 154820,
-          "Title": "Universitas Teheranensis"
-        },
-        {
-          "ID": 156900,
-          "Title": "Universitas KwaZulu-Natal"
-        },
-        {
-          "ID": 158293,
-          "Title": "Universitas Bostoniensis"
-        },
-        {
-          "ID": 164919,
-          "Title": "Universitas Monasteriensis"
-        },
-        {
-          "ID": 169041,
-          "Title": "Studium Generale Siciliae"
-        },
-        {
-          "ID": 177368,
-          "Title": "Festum anni novi Sinici"
-        },
-        {
-          "ID": 182838,
-          "Title": "Universitas Wollongong"
-        },
-        {
-          "ID": 195665,
-          "Title": "Universitas Neapolitana"
-        },
-        {
-          "ID": 213162,
-          "Title": "Universitas Taurinensis"
-        },
-        {
-          "ID": 215846,
-          "Title": "BP"
-        },
-        {
-          "ID": 216237,
-          "Title": "Universitas Odessana"
-        },
-        {
-          "ID": 219248,
-          "Title": "Opera socialis"
-        },
-        {
-          "ID": 226388,
-          "Title": "Universitas Ricensis"
-        },
-        {
-          "ID": 250201,
-          "Title": "Universitas Warwicensis"
-        },
-        {
-          "ID": 250205,
-          "Title": "Universitas Calcuttensis"
-        },
-        {
-          "ID": 250800,
-          "Title": "Universitas publica"
-        },
-        {
-          "ID": 251534,
-          "Title": "Universitas Leopolitana"
-        },
-        {
-          "ID": 257399,
-          "Title": "Universitas Michiganensis"
-        },
-        {
-          "ID": 262515,
-          "Title": "Universitas Civica Ohiensis"
-        },
-        {
-          "ID": 265423,
-          "Title": "Alternative facts"
-        },
-        {
-          "ID": 266613,
-          "Title": "Impetus Vestmonasterii 22 Martii 2017 factus"
-        },
-        {
-          "ID": 267607,
-          "Title": "Universitas Urbis Novi Eboraci"
-        },
-        {
-          "ID": 271374,
-          "Title": "Universitas Californiae Meridionalis"
+          "ID": 47631,
+          "Title": "Categoria:Societates"
         },
         {
-          "ID": 271614,
-          "Title": "Universitas Vasingtoniensis"
+          "ID": 44422,
+          "Title": "Categoria:Societates aeronauticae"
         },
         {
-          "ID": 277150,
-          "Title": "Universitas Malayana"
+          "ID": 31507,
+          "Title": "Categoria:Societates civitatum"
         },
         {
-          "ID": 277375,
-          "Title": "Universitas Columbensis"
+          "ID": 31269,
+          "Title": "Categoria:Societates mercatoriae"
         },
         {
-          "ID": 277693,
-          "Title": "Programma circumiectale Nationum Unitarum"
+          "ID": 33068,
+          "Title": "Categoria:Vexilla nationum"
         }
       ]
     },
@@ -1242,74 +634,76 @@
       "Title": "Technology and applied sciences",
       "Categories": [
         {
+          "ID": 170429,
+          "Title": "Categoria:Administratio datorum"
+        },
+        {
           "ID": 6395,
           "Title": "Categoria:Arma nociva"
         },
         {
-          "ID": 7013,
-          "Title": "Categoria:Technologia"
-        },
-        {
-          "ID": 7025,
-          "Title": "Categoria:Informatica"
-        },
-        {
-          "ID": 7234,
-          "Title": "Categoria:Electronica"
-        },
-        {
-          "ID": 18797,
-          "Title": "Categoria:Interrete"
-        },
-        {
-          "ID": 92000,
-          "Title": "Categoria:Scientiae adhibitae"
+          "ID": 204845,
+          "Title": "Categoria:Computatio"
         },
         {
           "ID": 109014,
           "Title": "Categoria:Computatra"
         },
         {
+          "ID": 7234,
+          "Title": "Categoria:Electronica"
+        },
+        {
+          "ID": 103451,
+          "Title": "Categoria:Impressio"
+        },
+        {
+          "ID": 7025,
+          "Title": "Categoria:Informatica"
+        },
+        {
+          "ID": 7348,
+          "Title": "Categoria:Instrumenta"
+        },
+        {
+          "ID": 18797,
+          "Title": "Categoria:Interrete"
+        },
+        {
+          "ID": 98766,
+          "Title": "Categoria:Programmata computatralia"
+        },
+        {
+          "ID": 170494,
+          "Title": "Categoria:Programmatura computatralis"
+        },
+        {
           "ID": 170427,
           "Title": "Categoria:Receptacula datorum"
         },
         {
-          "ID": 170429,
-          "Title": "Categoria:Administratio datorum"
+          "ID": 92000,
+          "Title": "Categoria:Scientiae adhibitae"
+        },
+        {
+          "ID": 7013,
+          "Title": "Categoria:Technologia"
         },
         {
           "ID": 197474,
           "Title": "Categoria:Vectura"
-        },
-        {
-          "ID": 204845,
-          "Title": "Categoria:Computatio"
-        }
-      ],
-      "Articles": [
-        {
-          "ID": 10626,
-          "Title": "Pepsi"
-        },
-        {
-          "ID": 31630,
-          "Title": "Murus"
-        },
-        {
-          "ID": 114153,
-          "Title": "Gummi manducabile"
         }
       ]
     }
   ],
   "Filters": [
     {
-      "ID": 5154,
-      "Title": "Categoria:Discretiva"
-    },
-    {
       "ID": 44322,
       "Title": "Categoria:Categoriae celatae"
+    },
+    {
+      "ID": 5154,
+      "Title": "Categoria:Discretiva"
     }
   ]
 }

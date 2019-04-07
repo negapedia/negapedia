@@ -3,17 +3,7 @@
   "Topics": [
     {
       "ID": 2147483637,
-      "Title": "Culture and the arts",
-      "Articles": [
-        {
-          "ID": 5713,
-          "Title": "Kofi"
-        },
-        {
-          "ID": 5743,
-          "Title": "Koko"
-        }
-      ]
+      "Title": "Culture and the arts"
     },
     {
       "ID": 2147483638,
@@ -59,59 +49,11 @@
           "ID": 2856,
           "Title": "Category:Saienisi ʻo e monumanu"
         }
-      ],
-      "Articles": [
-        {
-          "ID": 3925,
-          "Title": "Mango (ʻakau)"
-        },
-        {
-          "ID": 4024,
-          "Title": "Fainā"
-        },
-        {
-          "ID": 4064,
-          "Title": "Lemani"
-        },
-        {
-          "ID": 4067,
-          "Title": "Moli"
-        },
-        {
-          "ID": 4290,
-          "Title": "Temata"
-        },
-        {
-          "ID": 4738,
-          "Title": "Kuusi"
-        },
-        {
-          "ID": 5328,
-          "Title": "Hina (ʻakau)"
-        },
-        {
-          "ID": 5712,
-          "Title": "Koane"
-        },
-        {
-          "ID": 5759,
-          "Title": "Situlōpeli"
-        },
-        {
-          "ID": 5999,
-          "Title": "Ngutulei"
-        }
       ]
     },
     {
       "ID": 2147483643,
-      "Title": "People and self",
-      "Articles": [
-        {
-          "ID": 6629,
-          "Title": "Siosefa Sāmita"
-        }
-      ]
+      "Title": "People and self"
     },
     {
       "ID": 2147483644,
@@ -129,13 +71,7 @@
     },
     {
       "ID": 2147483646,
-      "Title": "Society and social sciences",
-      "Articles": [
-        {
-          "ID": 7976,
-          "Title": "Sile"
-        }
-      ]
+      "Title": "Society and social sciences"
     },
     {
       "ID": 2147483647,

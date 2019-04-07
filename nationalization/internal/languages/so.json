@@ -6,74 +6,44 @@
       "Title": "Culture and the arts",
       "Categories": [
         {
+          "ID": 7333,
+          "Title": "Category:Buugta"
+        },
+        {
           "ID": 2519,
           "Title": "Category:Ciyaaraha"
-        },
-        {
-          "ID": 5457,
-          "Title": "Category:Fan"
-        },
-        {
-          "ID": 6866,
-          "Title": "Category:Midabada"
-        },
-        {
-          "ID": 7669,
-          "Title": "Category:Dhaqan"
         },
         {
           "ID": 12914,
           "Title": "Category:Cunto"
         },
         {
+          "ID": 7669,
+          "Title": "Category:Dhaqan"
+        },
+        {
+          "ID": 5457,
+          "Title": "Category:Fan"
+        },
+        {
           "ID": 17902,
           "Title": "Category:Midab"
-        }
-      ],
-      "Articles": [
-        {
-          "ID": 1587,
-          "Title": "Wikipedia"
         },
         {
-          "ID": 4214,
-          "Title": "Chocolate"
+          "ID": 6866,
+          "Title": "Category:Midabada"
         },
         {
-          "ID": 4621,
-          "Title": "Bun"
+          "ID": 2265,
+          "Title": "Category:Muusig"
         },
         {
-          "ID": 4651,
-          "Title": "Ukun"
+          "ID": 6448,
+          "Title": "Category:Suugaanta"
         },
         {
-          "ID": 4773,
-          "Title": "Rooti"
-        },
-        {
-          "ID": 4846,
-          "Title": "Doofaar"
-        },
-        {
-          "ID": 17748,
-          "Title": "Baasto"
-        },
-        {
-          "ID": 17753,
-          "Title": "Buskud"
-        },
-        {
-          "ID": 17758,
-          "Title": "Suugo"
-        },
-        {
-          "ID": 22294,
-          "Title": "Jalaato"
-        },
-        {
-          "ID": 24171,
-          "Title": "Yurub Heeska 2018"
+          "ID": 2264,
+          "Title": "Category:Waxbarasho"
         }
       ]
     },
@@ -82,34 +52,28 @@
       "Title": "Geography and places",
       "Categories": [
         {
+          "ID": 2146,
+          "Title": "Category:Dowladaha"
+        },
+        {
+          "ID": 20690,
+          "Title": "Category:Jid"
+        },
+        {
           "ID": 12447,
           "Title": "Category:Juqraafi"
-        }
-      ],
-      "Articles": [
-        {
-          "ID": 2770,
-          "Title": "Baariis"
         },
         {
-          "ID": 4719,
-          "Title": "Australia"
+          "ID": 18820,
+          "Title": "Category:Magaalooyinka"
         },
         {
-          "ID": 4792,
-          "Title": "Kanbera"
+          "ID": 3046,
+          "Title": "Category:Wadamada"
         },
         {
-          "ID": 5472,
-          "Title": "Burma"
-        },
-        {
-          "ID": 9490,
-          "Title": "Queensland"
-        },
-        {
-          "ID": 18582,
-          "Title": "Insaan"
+          "ID": 6915,
+          "Title": "Category:Webiyada"
         }
       ]
     },
@@ -128,18 +92,12 @@
       "Title": "History and events",
       "Categories": [
         {
-          "ID": 2327,
-          "Title": "Category:Taariikh"
+          "ID": 2728,
+          "Title": "Category:Dagaalada"
         },
         {
-          "ID": 2731,
-          "Title": "Category:Cilmiga bulshada"
-        }
-      ],
-      "Articles": [
-        {
-          "ID": 18752,
-          "Title": "Donald Trump"
+          "ID": 2327,
+          "Title": "Category:Taariikh"
         }
       ]
     },
@@ -148,12 +106,12 @@
       "Title": "Mathematics and logic",
       "Categories": [
         {
-          "ID": 2189,
-          "Title": "Category:Xisaab"
-        },
-        {
           "ID": 16129,
           "Title": "Category:Laamaha xisaabta"
+        },
+        {
+          "ID": 2189,
+          "Title": "Category:Xisaab"
         }
       ]
     },
@@ -162,94 +120,40 @@
       "Title": "Nature and physical sciences",
       "Categories": [
         {
-          "ID": 2093,
-          "Title": "Category:Saynis"
+          "ID": 16923,
+          "Title": "Category:Dabeecadda"
+        },
+        {
+          "ID": 12640,
+          "Title": "Category:Dhir"
         },
         {
           "ID": 2187,
           "Title": "Category:Fiisigis"
         },
         {
-          "ID": 2188,
-          "Title": "Category:Kimisteri"
-        },
-        {
           "ID": 14368,
           "Title": "Category:Fiisikis"
         },
         {
-          "ID": 16923,
-          "Title": "Category:Dabeecadda"
-        }
-      ],
-      "Articles": [
-        {
-          "ID": 3941,
-          "Title": "Geel"
+          "ID": 2188,
+          "Title": "Category:Kimisteri"
         },
         {
-          "ID": 4372,
-          "Title": "Muruq"
+          "ID": 12728,
+          "Title": "Category:Midho"
         },
         {
-          "ID": 4376,
-          "Title": "Habdhiska Taranka"
+          "ID": 16928,
+          "Title": "Category:Nolosha"
         },
         {
-          "ID": 4636,
-          "Title": "Galley"
+          "ID": 2093,
+          "Title": "Category:Saynis"
         },
         {
-          "ID": 4774,
-          "Title": "Liin dhanaan"
-        },
-        {
-          "ID": 4776,
-          "Title": "Yaanyo"
-        },
-        {
-          "ID": 4778,
-          "Title": "Cambe"
-        },
-        {
-          "ID": 4839,
-          "Title": "Bariis"
-        },
-        {
-          "ID": 5730,
-          "Title": "Gus"
-        },
-        {
-          "ID": 12408,
-          "Title": "Dab"
-        },
-        {
-          "ID": 12725,
-          "Title": "Liin"
-        },
-        {
-          "ID": 12727,
-          "Title": "Qamadi"
-        },
-        {
-          "ID": 15445,
-          "Title": "Siigeysi"
-        },
-        {
-          "ID": 17552,
-          "Title": "Cananis"
-        },
-        {
-          "ID": 18562,
-          "Title": "Xiniinyaha"
-        },
-        {
-          "ID": 22112,
-          "Title": "Kaadi"
-        },
-        {
-          "ID": 24752,
-          "Title": "Saxaax"
+          "ID": 4901,
+          "Title": "Category:Xayawaan"
         }
       ]
     },
@@ -258,30 +162,28 @@
       "Title": "People and self",
       "Categories": [
         {
+          "ID": 9710,
+          "Title": "Category:Filasoofiyaasha"
+        },
+        {
+          "ID": 3874,
+          "Title": "Category:Kacaanka"
+        },
+        {
+          "ID": 15979,
+          "Title": "Category:Madaxda"
+        },
+        {
+          "ID": 17754,
+          "Title": "Category:Nolol"
+        },
+        {
+          "ID": 6985,
+          "Title": "Category:Qoraaga"
+        },
+        {
           "ID": 2094,
           "Title": "Category:Shaqsiyadaad"
-        },
-        {
-          "ID": 16928,
-          "Title": "Category:Nolosha"
-        }
-      ],
-      "Articles": [
-        {
-          "ID": 3026,
-          "Title": "Adolf Hitler"
-        },
-        {
-          "ID": 3447,
-          "Title": "Bill Gates"
-        },
-        {
-          "ID": 5596,
-          "Title": "Kristoffer Kolombus"
-        },
-        {
-          "ID": 7535,
-          "Title": "Aleksander Fileming"
         }
       ]
     },
@@ -292,16 +194,6 @@
         {
           "ID": 6666,
           "Title": "Category:Filasoofiyada"
-        }
-      ],
-      "Articles": [
-        {
-          "ID": 17969,
-          "Title": "Farxad"
-        },
-        {
-          "ID": 18732,
-          "Title": "Qurux"
         }
       ]
     },
@@ -324,54 +216,32 @@
           "Title": "Category:Cilmiga bulshada"
         },
         {
+          "ID": 2370,
+          "Title": "Category:Cilminafsi"
+        },
+        {
+          "ID": 20836,
+          "Title": "Category:Diyaarad"
+        },
+        {
+          "ID": 22700,
+          "Title": "Category:Dowlad"
+        },
+        {
+          "ID": 20488,
+          "Title": "Category:Lacag"
+        },
+        {
+          "ID": 3608,
+          "Title": "Category:Lacagta"
+        },
+        {
           "ID": 18679,
           "Title": "Category:Sharci"
         },
         {
           "ID": 20234,
           "Title": "Category:Ururro caalami ah"
-        }
-      ],
-      "Articles": [
-        {
-          "ID": 3717,
-          "Title": "Jili"
-        },
-        {
-          "ID": 4736,
-          "Title": "Iiraan"
-        },
-        {
-          "ID": 5798,
-          "Title": "Barbados"
-        },
-        {
-          "ID": 7743,
-          "Title": "Jaamacadda Oxford"
-        },
-        {
-          "ID": 11490,
-          "Title": "Jaamacadda Cambridge"
-        },
-        {
-          "ID": 12808,
-          "Title": "Daylight saving time"
-        },
-        {
-          "ID": 17794,
-          "Title": "Barnamijka Deegaanka Qaramada Midoobay"
-        },
-        {
-          "ID": 19679,
-          "Title": "Midowga Yurub"
-        },
-        {
-          "ID": 22897,
-          "Title": "Pizza Hut"
-        },
-        {
-          "ID": 23897,
-          "Title": "Starbucks"
         }
       ]
     },
@@ -380,26 +250,24 @@
       "Title": "Technology and applied sciences",
       "Categories": [
         {
-          "ID": 2079,
-          "Title": "Category:Teknooloji"
+          "ID": 22383,
+          "Title": "Category:Dhisme"
         },
         {
-          "ID": 2395,
-          "Title": "Category:Internet"
+          "ID": 3088,
+          "Title": "Category:Elektaroonig"
         },
         {
           "ID": 2732,
           "Title": "Category:Gaadiidka"
         },
         {
-          "ID": 3088,
-          "Title": "Category:Elektaroonig"
-        }
-      ],
-      "Articles": [
+          "ID": 2395,
+          "Title": "Category:Internet"
+        },
         {
-          "ID": 18672,
-          "Title": "Derbi"
+          "ID": 2079,
+          "Title": "Category:Teknooloji"
         }
       ]
     }

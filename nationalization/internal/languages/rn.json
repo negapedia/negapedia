@@ -13,21 +13,7 @@
     },
     {
       "ID": 2147483638,
-      "Title": "Geography and places",
-      "Articles": [
-        {
-          "ID": 2721,
-          "Title": "Australiya"
-        },
-        {
-          "ID": 2865,
-          "Title": "Paris"
-        },
-        {
-          "ID": 4039,
-          "Title": "Burumaniya"
-        }
-      ]
+      "Title": "Geography and places"
     },
     {
       "ID": 2147483639,
@@ -55,16 +41,6 @@
           "ID": 2630,
           "Title": "Category:Ubumenyi"
         }
-      ],
-      "Articles": [
-        {
-          "ID": 2823,
-          "Title": "Umuceri"
-        },
-        {
-          "ID": 2839,
-          "Title": "Tomati"
-        }
       ]
     },
     {
@@ -81,17 +57,7 @@
     },
     {
       "ID": 2147483646,
-      "Title": "Society and social sciences",
-      "Articles": [
-        {
-          "ID": 2694,
-          "Title": "Chili"
-        },
-        {
-          "ID": 4403,
-          "Title": "Irani"
-        }
-      ]
+      "Title": "Society and social sciences"
     },
     {
       "ID": 2147483647,

@@ -10,18 +10,32 @@
           "Title": "Category:Artes"
         },
         {
-          "ID": 6103,
-          "Title": "Category:Sporte"
+          "ID": 6230,
+          "Title": "Category:Edukatione"
+        },
+        {
+          "ID": 7843,
+          "Title": "Category:Fiktione"
+        },
+        {
+          "ID": 7522,
+          "Title": "Category:Literature"
+        },
+        {
+          "ID": 6101,
+          "Title": "Category:Martial artes"
         },
         {
           "ID": 7938,
           "Title": "Category:Musikal grupes"
-        }
-      ],
-      "Articles": [
+        },
         {
-          "ID": 3449,
-          "Title": "Wikipedie"
+          "ID": 7806,
+          "Title": "Category:Musike"
+        },
+        {
+          "ID": 6103,
+          "Title": "Category:Sporte"
         }
       ]
     },
@@ -34,26 +48,16 @@
           "Title": "Category:Geografia"
         },
         {
+          "ID": 1790,
+          "Title": "Category:Landes"
+        },
+        {
           "ID": 6386,
           "Title": "Category:Plases"
-        }
-      ],
-      "Articles": [
-        {
-          "ID": 3836,
-          "Title": "Paris"
         },
         {
-          "ID": 3927,
-          "Title": "Myanmar"
-        },
-        {
-          "ID": 5429,
-          "Title": "Australia"
-        },
-        {
-          "ID": 5518,
-          "Title": "Homo sapiens"
+          "ID": 3499,
+          "Title": "Category:Urbes"
         }
       ]
     },
@@ -66,16 +70,8 @@
       "Title": "History and events",
       "Categories": [
         {
-          "ID": 6095,
-          "Title": "Category:Human sienties"
-        },
-        {
           "ID": 6232,
           "Title": "Category:Historie"
-        },
-        {
-          "ID": 6696,
-          "Title": "Category:Sosial sienties"
         }
       ]
     },
@@ -84,12 +80,12 @@
       "Title": "Mathematics and logic",
       "Categories": [
         {
-          "ID": 4803,
-          "Title": "Category:Matematike"
-        },
-        {
           "ID": 4850,
           "Title": "Category:Logike"
+        },
+        {
+          "ID": 4803,
+          "Title": "Category:Matematike"
         }
       ]
     },
@@ -98,72 +94,94 @@
       "Title": "Nature and physical sciences",
       "Categories": [
         {
-          "ID": 4627,
-          "Title": "Category:Natural sienties"
+          "ID": 7505,
+          "Title": "Category:Anatomia"
+        },
+        {
+          "ID": 7534,
+          "Title": "Category:Animales"
         },
         {
           "ID": 4628,
           "Title": "Category:Fisikal sienties"
         },
         {
-          "ID": 4630,
-          "Title": "Category:Kemie"
+          "ID": 4634,
+          "Title": "Category:Fisike"
         },
         {
           "ID": 4631,
           "Title": "Category:Kemial substanties"
         },
         {
-          "ID": 4634,
-          "Title": "Category:Fisike"
+          "ID": 4630,
+          "Title": "Category:Kemie"
         },
         {
-          "ID": 4802,
-          "Title": "Category:Sienties"
+          "ID": 4627,
+          "Title": "Category:Natural sienties"
         },
         {
           "ID": 6387,
           "Title": "Category:Nature"
         },
         {
+          "ID": 4802,
+          "Title": "Category:Sienties"
+        },
+        {
           "ID": 6923,
           "Title": "Category:Soologia"
-        }
-      ],
-      "Articles": [
+        },
         {
-          "ID": 5425,
-          "Title": "Penise"
+          "ID": 6385,
+          "Title": "Category:Tere"
         }
       ]
     },
     {
       "ID": 2147483643,
       "Title": "People and self",
-      "Articles": [
+      "Categories": [
         {
-          "ID": 3488,
-          "Title": "Ayn Rand"
+          "ID": 1657,
+          "Title": "Category:Aktores"
         },
         {
-          "ID": 4413,
-          "Title": "Galileo Galilei"
+          "ID": 7790,
+          "Title": "Category:Autores"
         },
         {
-          "ID": 4456,
-          "Title": "Johannes Kepler"
+          "ID": 4839,
+          "Title": "Category:Filosofes"
         },
         {
-          "ID": 5680,
-          "Title": "Florence Nightingale"
+          "ID": 1073,
+          "Title": "Category:Homes relat yare de morio"
         },
         {
-          "ID": 5762,
-          "Title": "Adolf Hitler"
+          "ID": 1074,
+          "Title": "Category:Homes relat yare de nasko"
         },
         {
-          "ID": 8091,
-          "Title": "Ted Cruz"
+          "ID": 5000,
+          "Title": "Category:Inventeres"
+        },
+        {
+          "ID": 4841,
+          "Title": "Category:Matematikistes"
+        },
+        {
+          "ID": 7805,
+          "Title": "Category:Musikistes"
+        },
+        {
+          "ID": 7526,
+          "Title": "Category:Politikistes"
+        },
+        {
+          "ID": 6333,
+          "Title": "Category:Skripteres"
         }
       ]
     },
@@ -202,24 +220,6 @@
         {
           "ID": 6696,
           "Title": "Category:Sosial sienties"
-        }
-      ],
-      "Articles": [
-        {
-          "ID": 3677,
-          "Title": "Barbados"
-        },
-        {
-          "ID": 3911,
-          "Title": "Iran"
-        },
-        {
-          "ID": 4000,
-          "Title": "Chile"
-        },
-        {
-          "ID": 5660,
-          "Title": "Europan Unione"
         }
       ]
     },

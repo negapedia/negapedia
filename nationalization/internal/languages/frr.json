@@ -6,62 +6,36 @@
       "Title": "Culture and the arts",
       "Categories": [
         {
-          "ID": 92,
-          "Title": "Kategorie:Kultuur"
+          "ID": 6785,
+          "Title": "Kategorie:Bleeden"
+        },
+        {
+          "ID": 15883,
+          "Title": "Kategorie:Iidj an drank"
         },
         {
           "ID": 4510,
           "Title": "Kategorie:Konst"
         },
         {
+          "ID": 92,
+          "Title": "Kategorie:Kultuur"
+        },
+        {
+          "ID": 94,
+          "Title": "Kategorie:Literatuur"
+        },
+        {
+          "ID": 104,
+          "Title": "Kategorie:Musiik"
+        },
+        {
           "ID": 8368,
           "Title": "Kategorie:Sport"
         },
         {
-          "ID": 15883,
-          "Title": "Kategorie:Iidj an drank"
-        }
-      ],
-      "Articles": [
-        {
-          "ID": 2465,
-          "Title": "Swin"
-        },
-        {
-          "ID": 3201,
-          "Title": "Wikipedia"
-        },
-        {
-          "ID": 7621,
-          "Title": "The World Factbook"
-        },
-        {
-          "ID": 13517,
-          "Title": "Kofe (plaanten)"
-        },
-        {
-          "ID": 13552,
-          "Title": "Kofe"
-        },
-        {
-          "ID": 15063,
-          "Title": "Bruad"
-        },
-        {
-          "ID": 15918,
-          "Title": "Swin (skööl)"
-        },
-        {
-          "ID": 15920,
-          "Title": "Wilswin"
-        },
-        {
-          "ID": 16084,
-          "Title": "Kakaobuum"
-        },
-        {
-          "ID": 26672,
-          "Title": "Realiteet"
+          "ID": 148,
+          "Title": "Kategorie:Unerrucht"
         }
       ]
     },
@@ -76,32 +50,18 @@
         {
           "ID": 102,
           "Title": "Kategorie:Geomorfologii"
-        }
-      ],
-      "Articles": [
-        {
-          "ID": 3573,
-          "Title": "Minsk"
         },
         {
-          "ID": 8679,
-          "Title": "Venedig"
+          "ID": 97,
+          "Title": "Kategorie:Lönje"
         },
         {
-          "ID": 9111,
-          "Title": "Austraalien"
+          "ID": 6642,
+          "Title": "Kategorie:Struumer"
         },
         {
-          "ID": 16803,
-          "Title": "Queensland"
-        },
-        {
-          "ID": 17027,
-          "Title": "Pariis"
-        },
-        {
-          "ID": 22065,
-          "Title": "Mjanmaar"
+          "ID": 130,
+          "Title": "Kategorie:Stääse"
         }
       ]
     },
@@ -123,16 +83,6 @@
           "ID": 83,
           "Title": "Kategorie:Histoori"
         }
-      ],
-      "Articles": [
-        {
-          "ID": 9775,
-          "Title": "US-Presidentenwool 2012"
-        },
-        {
-          "ID": 17385,
-          "Title": "Donald Trump"
-        }
       ]
     },
     {
@@ -142,12 +92,6 @@
         {
           "ID": 98,
           "Title": "Kategorie:Matematiik"
-        }
-      ],
-      "Articles": [
-        {
-          "ID": 13840,
-          "Title": "Lengde"
         }
       ]
     },
@@ -164,92 +108,38 @@
           "Title": "Kategorie:Kemii"
         },
         {
+          "ID": 116,
+          "Title": "Kategorie:Plaanten"
+        },
+        {
           "ID": 25260,
           "Title": "Kategorie:Wedenskap"
-        }
-      ],
-      "Articles": [
-        {
-          "ID": 4,
-          "Title": "Makreel"
-        },
-        {
-          "ID": 1360,
-          "Title": "Suspensjoon"
-        },
-        {
-          "ID": 6513,
-          "Title": "Datelpualmer"
-        },
-        {
-          "ID": 11481,
-          "Title": "Wiaten"
-        },
-        {
-          "ID": 11611,
-          "Title": "Ris"
-        },
-        {
-          "ID": 11614,
-          "Title": "Ris (slach)"
-        },
-        {
-          "ID": 11641,
-          "Title": "Meis (slach)"
-        },
-        {
-          "ID": 12182,
-          "Title": "Tomoot"
-        },
-        {
-          "ID": 12349,
-          "Title": "Eerdbeien"
-        },
-        {
-          "ID": 12351,
-          "Title": "Guard-eerdbei"
-        },
-        {
-          "ID": 14151,
-          "Title": "Sitroon"
-        },
-        {
-          "ID": 14185,
-          "Title": "Citrus aurantium"
-        },
-        {
-          "ID": 14759,
-          "Title": "Ial (brant)"
-        },
-        {
-          "ID": 15128,
-          "Title": "Sokermeloon"
-        },
-        {
-          "ID": 20944,
-          "Title": "Grat kaater"
         }
       ]
     },
     {
       "ID": 2147483643,
       "Title": "People and self",
-      "Articles": [
+      "Categories": [
         {
-          "ID": 13928,
-          "Title": "Adolf Hitler"
+          "ID": 22613,
+          "Title": "Kategorie:Filosoof"
         },
         {
-          "ID": 19379,
-          "Title": "Galileo Galilei"
+          "ID": 14955,
+          "Title": "Kategorie:Konstler"
         },
         {
-          "ID": 22180,
-          "Title": "Johannes Kepler"
+          "ID": 22645,
+          "Title": "Kategorie:Musiiker"
         },
         {
-          "ID": 22611,
-          "Title": "René Descartes"
+          "ID": 14952,
+          "Title": "Kategorie:Politiker"
+        },
+        {
+          "ID": 123,
+          "Title": "Kategorie:Schriwstere"
         }
       ]
     },
@@ -260,12 +150,6 @@
         {
           "ID": 13685,
           "Title": "Kategorie:Filosofii"
-        }
-      ],
-      "Articles": [
-        {
-          "ID": 26983,
-          "Title": "Smokhaid"
         }
       ]
     },
@@ -288,30 +172,20 @@
       "Title": "Society and social sciences",
       "Categories": [
         {
+          "ID": 5230,
+          "Title": "Kategorie:Jil"
+        },
+        {
+          "ID": 118,
+          "Title": "Kategorie:Psükologii"
+        },
+        {
           "ID": 121,
           "Title": "Kategorie:Rucht"
         },
         {
           "ID": 1541,
           "Title": "Kategorie:Seelschap"
-        }
-      ],
-      "Articles": [
-        {
-          "ID": 627,
-          "Title": "Europäisch Unjoon"
-        },
-        {
-          "ID": 1908,
-          "Title": "Chiile"
-        },
-        {
-          "ID": 4854,
-          "Title": "Barbados"
-        },
-        {
-          "ID": 12890,
-          "Title": "Iraan"
         }
       ]
     },
@@ -320,26 +194,16 @@
       "Title": "Technology and applied sciences",
       "Categories": [
         {
-          "ID": 146,
-          "Title": "Kategorie:Tächnik"
-        },
-        {
           "ID": 2246,
           "Title": "Kategorie:Ferkiar"
         },
         {
           "ID": 11573,
           "Title": "Kategorie:Internet"
-        }
-      ],
-      "Articles": [
-        {
-          "ID": 7831,
-          "Title": "TLD"
         },
         {
-          "ID": 17917,
-          "Title": "Swaisi"
+          "ID": 146,
+          "Title": "Kategorie:Tächnik"
         }
       ]
     }

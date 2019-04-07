@@ -3,33 +3,23 @@
   "Topics": [
     {
       "ID": 2147483637,
-      "Title": "Culture and the arts",
-      "Articles": [
-        {
-          "ID": 2187,
-          "Title": "Wikipedia"
-        }
-      ]
+      "Title": "Culture and the arts"
     },
     {
       "ID": 2147483638,
       "Title": "Geography and places",
-      "Articles": [
+      "Categories": [
         {
-          "ID": 2790,
-          "Title": "Paris"
+          "ID": 2219,
+          "Title": "Category:Afanaa"
         },
         {
-          "ID": 3428,
-          "Title": "Venezia"
+          "ID": 2964,
+          "Title": "Category:Kuro"
         },
         {
-          "ID": 3555,
-          "Title": "Australia"
-        },
-        {
-          "ID": 3557,
-          "Title": "Kanberra"
+          "ID": 2955,
+          "Title": "Category:Ɔman"
         }
       ]
     },
@@ -63,29 +53,7 @@
     },
     {
       "ID": 2147483646,
-      "Title": "Society and social sciences",
-      "Articles": [
-        {
-          "ID": 2740,
-          "Title": "Iran"
-        },
-        {
-          "ID": 3285,
-          "Title": "Kyili"
-        },
-        {
-          "ID": 3292,
-          "Title": "Università degli Studi di Milano"
-        },
-        {
-          "ID": 3670,
-          "Title": "University of Oxford"
-        },
-        {
-          "ID": 3673,
-          "Title": "University of Cambridge"
-        }
-      ]
+      "Title": "Society and social sciences"
     },
     {
       "ID": 2147483647,

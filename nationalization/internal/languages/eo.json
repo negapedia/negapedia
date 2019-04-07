@@ -6,382 +6,288 @@
       "Title": "Culture and the arts",
       "Categories": [
         {
-          "ID": 21501,
-          "Title": "Kategorio:Skribo"
-        },
-        {
-          "ID": 26391,
-          "Title": "Kategorio:Kulturo"
-        },
-        {
-          "ID": 26443,
-          "Title": "Kategorio:Sporto"
-        },
-        {
           "ID": 30172,
           "Title": "Kategorio:Arto"
         },
         {
-          "ID": 30669,
-          "Title": "Kategorio:Ŝatokupoj"
+          "ID": 278103,
+          "Title": "Kategorio:Biografiaj libroj"
         },
         {
-          "ID": 32224,
-          "Title": "Kategorio:Muzikaj grupoj"
+          "ID": 601700,
+          "Title": "Kategorio:Biografiaj verkoj"
         },
         {
-          "ID": 32991,
-          "Title": "Kategorio:Filmo"
-        },
-        {
-          "ID": 33822,
-          "Title": "Kategorio:Manĝaĵoj"
-        },
-        {
-          "ID": 38423,
-          "Title": "Kategorio:Koloroj"
-        },
-        {
-          "ID": 39653,
-          "Title": "Kategorio:Kuirarto"
-        },
-        {
-          "ID": 46294,
-          "Title": "Kategorio:Nutrado"
-        },
-        {
-          "ID": 55348,
-          "Title": "Kategorio:Libera tempo"
+          "ID": 21546,
+          "Title": "Kategorio:Biografio"
         },
         {
           "ID": 108583,
           "Title": "Kategorio:Distrado"
         },
         {
+          "ID": 85410,
+          "Title": "Kategorio:Edukado"
+        },
+        {
+          "ID": 134566,
+          "Title": "Kategorio:Enciklopedioj"
+        },
+        {
+          "ID": 179613,
+          "Title": "Kategorio:Festivaloj"
+        },
+        {
+          "ID": 85348,
+          "Title": "Kategorio:Fikciaj kreitaĵoj"
+        },
+        {
+          "ID": 227139,
+          "Title": "Kategorio:Fikciaj lokoj"
+        },
+        {
+          "ID": 63977,
+          "Title": "Kategorio:Fikcio"
+        },
+        {
+          "ID": 32991,
+          "Title": "Kategorio:Filmo"
+        },
+        {
+          "ID": 54531,
+          "Title": "Kategorio:Folkloro"
+        },
+        {
           "ID": 256515,
           "Title": "Kategorio:Gastronomio"
         },
         {
-          "ID": 282780,
-          "Title": "Kategorio:Spektakloj"
+          "ID": 87698,
+          "Title": "Kategorio:Gazetoj"
         },
         {
-          "ID": 458313,
-          "Title": "Kategorio:Sportoj"
+          "ID": 442364,
+          "Title": "Kategorio:Homa sekseco"
         },
         {
-          "ID": 554242,
-          "Title": "Kategorio:Manĝaĵoj kaj trinkaĵoj"
+          "ID": 188628,
+          "Title": "Kategorio:Homa seksumado"
+        },
+        {
+          "ID": 297668,
+          "Title": "Kategorio:Iluzio"
+        },
+        {
+          "ID": 257150,
+          "Title": "Kategorio:Instruado"
+        },
+        {
+          "ID": 383380,
+          "Title": "Kategorio:Interreta kulturo"
+        },
+        {
+          "ID": 578236,
+          "Title": "Kategorio:Kategorioj laŭ verkistoj"
+        },
+        {
+          "ID": 38423,
+          "Title": "Kategorio:Koloroj"
+        },
+        {
+          "ID": 241009,
+          "Title": "Kategorio:Komponaĵoj"
+        },
+        {
+          "ID": 284503,
+          "Title": "Kategorio:Konkursoj"
         },
         {
           "ID": 581055,
           "Title": "Kategorio:Korpekzercado"
         },
         {
+          "ID": 554240,
+          "Title": "Kategorio:Kuirartaj teknikoj"
+        },
+        {
+          "ID": 39653,
+          "Title": "Kategorio:Kuirarto"
+        },
+        {
           "ID": 592859,
           "Title": "Kategorio:Kuiraĵoj laŭ ĉefaj ingrediencoj"
-        }
-      ],
-      "Articles": [
-        {
-          "ID": 602,
-          "Title": "Biero"
-        },
-        {
-          "ID": 951,
-          "Title": "Enciklopedio"
-        },
-        {
-          "ID": 2398,
-          "Title": "Kafo"
-        },
-        {
-          "ID": 2456,
-          "Title": "Kuko"
-        },
-        {
-          "ID": 4387,
-          "Title": "Vikipedio"
-        },
-        {
-          "ID": 6747,
-          "Title": "Realisma pentrarto"
-        },
-        {
-          "ID": 7452,
-          "Title": "Palaco Buckingham"
-        },
-        {
-          "ID": 8554,
-          "Title": "Monda faktolibro de CIA"
-        },
-        {
-          "ID": 12719,
-          "Title": "Apro"
-        },
-        {
-          "ID": 16561,
-          "Title": "Pano"
-        },
-        {
-          "ID": 17913,
-          "Title": "Restaĵa homeculo"
-        },
-        {
-          "ID": 18632,
-          "Title": "Pico"
-        },
-        {
-          "ID": 20035,
-          "Title": "Franca kuirarto"
-        },
-        {
-          "ID": 20088,
-          "Title": "Ĉokolado"
-        },
-        {
-          "ID": 21847,
-          "Title": "Realo"
-        },
-        {
-          "ID": 22175,
-          "Title": "Ovo"
-        },
-        {
-          "ID": 23811,
-          "Title": "Kafarbo"
-        },
-        {
-          "ID": 24398,
-          "Title": "Ŝinko"
-        },
-        {
-          "ID": 24470,
-          "Title": "Porko"
-        },
-        {
-          "ID": 24596,
-          "Title": "Midzo"
-        },
-        {
-          "ID": 24598,
-          "Title": "Buŝa seksumado"
-        },
-        {
-          "ID": 32770,
-          "Title": "Realismo"
-        },
-        {
-          "ID": 42718,
-          "Title": "Monstro de Loch Ness"
-        },
-        {
-          "ID": 42870,
-          "Title": "Biskvito"
-        },
-        {
-          "ID": 43195,
-          "Title": "Biskoto"
-        },
-        {
-          "ID": 44620,
-          "Title": "Torto"
-        },
-        {
-          "ID": 44935,
-          "Title": "Sledo"
-        },
-        {
-          "ID": 47344,
-          "Title": "Muzikgrupo"
-        },
-        {
-          "ID": 47668,
-          "Title": "Saŭco"
-        },
-        {
-          "ID": 51448,
-          "Title": "Glaciaĵo"
-        },
-        {
-          "ID": 52331,
-          "Title": "Saskvaĉo"
-        },
-        {
-          "ID": 54056,
-          "Title": "Fraŭleco"
         },
         {
-          "ID": 54940,
-          "Title": "Fantomo"
+          "ID": 26391,
+          "Title": "Kategorio:Kulturo"
         },
         {
-          "ID": 58084,
-          "Title": "Hogwarts"
+          "ID": 466591,
+          "Title": "Kategorio:Kulturo laŭ landoj"
         },
         {
-          "ID": 108370,
-          "Title": "AC/DC"
+          "ID": 434920,
+          "Title": "Kategorio:Kulturoj"
         },
         {
-          "ID": 121879,
-          "Title": "Led Zeppelin"
+          "ID": 282512,
+          "Title": "Kategorio:Legendoj"
         },
         {
-          "ID": 122335,
-          "Title": "Viandhaketaĵo"
+          "ID": 55348,
+          "Title": "Kategorio:Libera tempo"
         },
         {
-          "ID": 127829,
-          "Title": "Pecorino"
+          "ID": 52362,
+          "Title": "Kategorio:Libroj"
         },
         {
-          "ID": 130079,
-          "Title": "Arakida butero"
+          "ID": 298347,
+          "Title": "Kategorio:Libroj laŭ aŭtoro"
         },
         {
-          "ID": 166177,
-          "Title": "Sgt. Pepper's Lonely Hearts Club Band"
+          "ID": 395326,
+          "Title": "Kategorio:Literaturaj verkoj"
         },
         {
-          "ID": 170250,
-          "Title": "Saloo"
+          "ID": 26444,
+          "Title": "Kategorio:Literaturo"
         },
         {
-          "ID": 201385,
-          "Title": "Band"
+          "ID": 314130,
+          "Title": "Kategorio:Luktoarto"
         },
         {
-          "ID": 210093,
-          "Title": "Tako"
+          "ID": 39773,
+          "Title": "Kategorio:Magio"
         },
         {
-          "ID": 215481,
-          "Title": "Porkaĵo"
+          "ID": 33822,
+          "Title": "Kategorio:Manĝaĵoj"
         },
         {
-          "ID": 222227,
-          "Title": "Theobroma cacao"
+          "ID": 554242,
+          "Title": "Kategorio:Manĝaĵoj kaj trinkaĵoj"
         },
         {
-          "ID": 233868,
-          "Title": "Pilsner"
+          "ID": 31809,
+          "Title": "Kategorio:Muzikaj formoj"
         },
         {
-          "ID": 237643,
-          "Title": "Cooties"
+          "ID": 32224,
+          "Title": "Kategorio:Muzikaj grupoj"
         },
         {
-          "ID": 237994,
-          "Title": "Green Day"
+          "ID": 46013,
+          "Title": "Kategorio:Muzikaj ĝenroj"
         },
         {
-          "ID": 267018,
-          "Title": "Mordred"
+          "ID": 31995,
+          "Title": "Kategorio:Muziko"
         },
         {
-          "ID": 281827,
-          "Title": "Fortuno-biskvito"
+          "ID": 477506,
+          "Title": "Kategorio:Muziko laŭ ĝenroj"
         },
         {
-          "ID": 292773,
-          "Title": "Farĉo"
+          "ID": 46294,
+          "Title": "Kategorio:Nutrado"
         },
         {
-          "ID": 295622,
-          "Title": "Kolbasobulko"
+          "ID": 166247,
+          "Title": "Kategorio:Pentraĵoj"
         },
         {
-          "ID": 309826,
-          "Title": "Acidpasto"
+          "ID": 284745,
+          "Title": "Kategorio:Populara kulturo"
         },
         {
-          "ID": 310178,
-          "Title": "Marmota tago"
+          "ID": 211183,
+          "Title": "Kategorio:Radiostacioj"
         },
         {
-          "ID": 331328,
-          "Title": "WWE Championship"
+          "ID": 83438,
+          "Title": "Kategorio:Referencaj laboroj"
         },
         {
-          "ID": 356086,
-          "Title": "Suo"
+          "ID": 447281,
+          "Title": "Kategorio:Scena arto"
         },
         {
-          "ID": 363938,
-          "Title": "Araba kofeo"
+          "ID": 82907,
+          "Title": "Kategorio:Scio"
         },
         {
-          "ID": 377353,
-          "Title": "Lardo"
+          "ID": 415923,
+          "Title": "Kategorio:Sekseco"
         },
         {
-          "ID": 380528,
-          "Title": "Fritita ovo"
+          "ID": 33257,
+          "Title": "Kategorio:Sekso"
         },
         {
-          "ID": 386600,
-          "Title": "Angry Birds"
+          "ID": 439664,
+          "Title": "Kategorio:Sekularismo"
         },
         {
-          "ID": 393403,
-          "Title": "Flanpano"
+          "ID": 21501,
+          "Title": "Kategorio:Skribo"
         },
         {
-          "ID": 427201,
-          "Title": "Eggah"
+          "ID": 336105,
+          "Title": "Kategorio:Socia sekso"
         },
         {
-          "ID": 446869,
-          "Title": "Tomatsaŭco"
+          "ID": 165985,
+          "Title": "Kategorio:Sorĉaferoj"
         },
         {
-          "ID": 480968,
-          "Title": "Regionismo"
+          "ID": 282780,
+          "Title": "Kategorio:Spektakloj"
         },
         {
-          "ID": 483022,
-          "Title": "Branpano"
+          "ID": 26443,
+          "Title": "Kategorio:Sporto"
         },
         {
-          "ID": 500231,
-          "Title": "Ĉasteco"
+          "ID": 458313,
+          "Title": "Kategorio:Sportoj"
         },
         {
-          "ID": 515433,
-          "Title": "Giuditta Pasta"
+          "ID": 30664,
+          "Title": "Kategorio:Tabulludoj"
         },
         {
-          "ID": 537102,
-          "Title": "M\u0026M's"
+          "ID": 51302,
+          "Title": "Kategorio:Televido"
         },
         {
-          "ID": 540637,
-          "Title": "Referencverko"
+          "ID": 197522,
+          "Title": "Kategorio:Verkoj laŭ artistoj"
         },
         {
-          "ID": 546066,
-          "Title": "Finna pano"
+          "ID": 293188,
+          "Title": "Kategorio:Verkoj laŭ aŭtoroj"
         },
         {
-          "ID": 555989,
-          "Title": "Realismo (arto)"
+          "ID": 578235,
+          "Title": "Kategorio:Verkoj laŭ verkistoj"
         },
         {
-          "ID": 562764,
-          "Title": "Babi pangang"
+          "ID": 81002,
+          "Title": "Kategorio:Videoludoj"
         },
         {
-          "ID": 585815,
-          "Title": "Eŭrovido-Kantokonkurso 2017"
+          "ID": 274608,
+          "Title": "Kategorio:Vrestlingo"
         },
         {
-          "ID": 585879,
-          "Title": "Eŭrovido-Kantokonkurso 2018"
+          "ID": 318496,
+          "Title": "Kategorio:Ĉiutaga vivo"
         },
         {
-          "ID": 626534,
-          "Title": "Dolĉamara ĉokolado"
+          "ID": 30669,
+          "Title": "Kategorio:Ŝatokupoj"
         }
       ]
     },
@@ -390,66 +296,84 @@
       "Title": "Geography and places",
       "Categories": [
         {
-          "ID": 30375,
-          "Title": "Kategorio:Geografio"
-        },
-        {
-          "ID": 83591,
-          "Title": "Kategorio:Urbaj studoj kaj planado"
-        },
-        {
-          "ID": 196982,
-          "Title": "Kategorio:Geomorfologio"
-        },
-        {
-          "ID": 284082,
-          "Title": "Kategorio:Monumentoj"
+          "ID": 576992,
+          "Title": "Kategorio:Akvofontoj"
         },
         {
           "ID": 392311,
           "Title": "Kategorio:Geografiaj lokoj"
         },
         {
+          "ID": 30375,
+          "Title": "Kategorio:Geografio"
+        },
+        {
+          "ID": 196982,
+          "Title": "Kategorio:Geomorfologio"
+        },
+        {
+          "ID": 39184,
+          "Title": "Kategorio:Kasteloj"
+        },
+        {
+          "ID": 33635,
+          "Title": "Kategorio:Landoj"
+        },
+        {
           "ID": 467986,
           "Title": "Kategorio:Listoj pri geografio"
-        }
-      ],
-      "Articles": [
-        {
-          "ID": 40,
-          "Title": "Aŭstralio"
         },
         {
-          "ID": 489,
-          "Title": "Birmo"
+          "ID": 442521,
+          "Title": "Kategorio:Loĝlokoj"
         },
         {
-          "ID": 1642,
-          "Title": "Homo"
+          "ID": 442524,
+          "Title": "Kategorio:Loĝlokoj laŭ landoj"
         },
         {
-          "ID": 3330,
-          "Title": "Parizo"
+          "ID": 284082,
+          "Title": "Kategorio:Monumentoj"
         },
         {
-          "ID": 7048,
-          "Title": "Venecio"
+          "ID": 80839,
+          "Title": "Kategorio:Palacoj"
         },
         {
-          "ID": 23614,
-          "Title": "Piramido"
+          "ID": 303843,
+          "Title": "Kategorio:Reĝaj rezidejoj"
         },
         {
-          "ID": 34368,
-          "Title": "Kanbero"
+          "ID": 32730,
+          "Title": "Kategorio:Riveroj"
         },
         {
-          "ID": 125646,
-          "Title": "Kvinslando"
+          "ID": 277821,
+          "Title": "Kategorio:Stratoj"
         },
         {
-          "ID": 256601,
-          "Title": "Carlsbad (Nov-Meksiko)"
+          "ID": 439845,
+          "Title": "Kategorio:Teritorioj"
+        },
+        {
+          "ID": 83591,
+          "Title": "Kategorio:Urbaj studoj kaj planado"
+        },
+        {
+          "ID": 30295,
+          "Title": "Kategorio:Urbo"
+        },
+        {
+          "ID": 284931,
+          "Title": "Kategorio:Urboj"
+        },
+        {
+          "ID": 355213,
+          "Title": "Kategorio:Ŝoseoj"
+        },
+        {
+          "ID": 173365,
+          "Title": "Kategorio:Ŝtato"
         }
       ]
     },
@@ -458,40 +382,44 @@
       "Title": "Health and fitness",
       "Categories": [
         {
-          "ID": 26394,
-          "Title": "Kategorio:Sanscienco"
-        },
-        {
-          "ID": 29606,
-          "Title": "Kategorio:Medicino"
-        },
-        {
-          "ID": 217307,
-          "Title": "Kategorio:Higieno"
-        },
-        {
-          "ID": 293155,
-          "Title": "Kategorio:Medicinaj fakoj"
-        },
-        {
-          "ID": 301967,
-          "Title": "Kategorio:Sano"
+          "ID": 439476,
+          "Title": "Kategorio:Flegado"
         },
         {
           "ID": 427362,
           "Title": "Kategorio:Genetikaj malsanoj"
         },
         {
-          "ID": 477174,
-          "Title": "Kategorio:Sanservo"
+          "ID": 217307,
+          "Title": "Kategorio:Higieno"
         },
         {
-          "ID": 580965,
-          "Title": "Kategorio:Heredaj malsanoj"
+          "ID": 51457,
+          "Title": "Kategorio:Homa anatomio"
+        },
+        {
+          "ID": 293155,
+          "Title": "Kategorio:Medicinaj fakoj"
+        },
+        {
+          "ID": 29606,
+          "Title": "Kategorio:Medicino"
+        },
+        {
+          "ID": 301967,
+          "Title": "Kategorio:Sano"
+        },
+        {
+          "ID": 26394,
+          "Title": "Kategorio:Sanscienco"
         },
         {
           "ID": 609344,
           "Title": "Kategorio:Sanservaj profesioj"
+        },
+        {
+          "ID": 477174,
+          "Title": "Kategorio:Sanservo"
         }
       ]
     },
@@ -500,78 +428,72 @@
       "Title": "History and events",
       "Categories": [
         {
-          "ID": 29769,
-          "Title": "Kategorio:Historio"
-        },
-        {
-          "ID": 30586,
-          "Title": "Kategorio:Homa scienco"
-        },
-        {
-          "ID": 141347,
-          "Title": "Kategorio:Historio laŭ landoj"
-        },
-        {
           "ID": 262097,
           "Title": "Kategorio:Balotoj laŭ jaroj"
         },
         {
-          "ID": 293001,
-          "Title": "Kategorio:Socia scienco"
+          "ID": 632226,
+          "Title": "Kategorio:Datrevenoj"
         },
         {
           "ID": 293879,
           "Title": "Kategorio:Eventoj"
         },
         {
-          "ID": 399612,
-          "Title": "Kategorio:Memortagoj"
+          "ID": 29769,
+          "Title": "Kategorio:Historio"
+        },
+        {
+          "ID": 329749,
+          "Title": "Kategorio:Historio de tekniko"
+        },
+        {
+          "ID": 141347,
+          "Title": "Kategorio:Historio laŭ landoj"
+        },
+        {
+          "ID": 470873,
+          "Title": "Kategorio:Historio laŭ lokoj"
         },
         {
           "ID": 447283,
           "Title": "Kategorio:Kulturaj eventoj"
         },
         {
-          "ID": 470873,
-          "Title": "Kategorio:Historio laŭ lokoj"
-        }
-      ],
-      "Articles": [
-        {
-          "ID": 4696,
-          "Title": "Atencoj de la 11-a de septembro 2001"
+          "ID": 399612,
+          "Title": "Kategorio:Memortagoj"
         },
         {
-          "ID": 46394,
-          "Title": "Troja milito"
+          "ID": 132739,
+          "Title": "Kategorio:Milito"
         },
         {
-          "ID": 51705,
-          "Title": "Romiaj mezurunuoj"
+          "ID": 40205,
+          "Title": "Kategorio:Militoj"
         },
         {
-          "ID": 320075,
-          "Title": "Ekokatastrofo en la Meksika Golfo (2010)"
+          "ID": 226703,
+          "Title": "Kategorio:Politika historio"
         },
         {
-          "ID": 355418,
-          "Title": "Tertremo de Sendajo en 2011"
+          "ID": 516510,
+          "Title": "Kategorio:Politikaj eventoj"
         },
         {
-          "ID": 364658,
-          "Title": "Preriindianoj"
+          "ID": 571050,
+          "Title": "Kategorio:Reprezalioj"
         },
         {
-          "ID": 388523,
-          "Title": "Usona prezidanta elekto de 2012"
+          "ID": 48211,
+          "Title": "Kategorio:Revolucioj"
         },
         {
-          "ID": 530024,
-          "Title": "Donald Trump"
+          "ID": 599671,
+          "Title": "Kategorio:Revolucioj laŭ landoj"
         },
         {
-          "ID": 568929,
-          "Title": "Pafmasakro en la noktoklubo Pulse (2016)"
+          "ID": 595159,
+          "Title": "Kategorio:Terorismaj incidentoj"
         }
       ]
     },
@@ -580,16 +502,28 @@
       "Title": "Mathematics and logic",
       "Categories": [
         {
-          "ID": 21344,
-          "Title": "Kategorio:Matematiko"
+          "ID": 82511,
+          "Title": "Kategorio:Aplika matematiko"
         },
         {
           "ID": 38095,
           "Title": "Kategorio:Logiko"
         },
         {
-          "ID": 82511,
-          "Title": "Kategorio:Aplika matematiko"
+          "ID": 439806,
+          "Title": "Kategorio:Matematikaj konceptoj"
+        },
+        {
+          "ID": 438995,
+          "Title": "Kategorio:Matematikaj studfakoj"
+        },
+        {
+          "ID": 21344,
+          "Title": "Kategorio:Matematiko"
+        },
+        {
+          "ID": 36565,
+          "Title": "Kategorio:Mezurunuoj"
         },
         {
           "ID": 83400,
@@ -602,20 +536,6 @@
         {
           "ID": 83552,
           "Title": "Kategorio:Teoria komputiko"
-        },
-        {
-          "ID": 438995,
-          "Title": "Kategorio:Matematikaj studfakoj"
-        },
-        {
-          "ID": 439806,
-          "Title": "Kategorio:Matematikaj konceptoj"
-        }
-      ],
-      "Articles": [
-        {
-          "ID": 19429,
-          "Title": "Longo"
         }
       ]
     },
@@ -624,298 +544,84 @@
       "Title": "Nature and physical sciences",
       "Categories": [
         {
-          "ID": 21203,
-          "Title": "Kategorio:Kemio"
+          "ID": 50347,
+          "Title": "Kategorio:Anatomio"
         },
         {
-          "ID": 26384,
-          "Title": "Kategorio:Naturscienco"
+          "ID": 273973,
+          "Title": "Kategorio:Bestoj"
         },
         {
-          "ID": 26385,
-          "Title": "Kategorio:Scienco"
-        },
-        {
-          "ID": 26423,
-          "Title": "Kategorio:Fiziko"
-        },
-        {
-          "ID": 40359,
-          "Title": "Kategorio:Katastrofoj"
-        },
-        {
-          "ID": 41603,
-          "Title": "Kategorio:Zoologio"
-        },
-        {
-          "ID": 49212,
-          "Title": "Kategorio:Kemiaj kombinaĵoj"
-        },
-        {
-          "ID": 82907,
-          "Title": "Kategorio:Scio"
-        },
-        {
-          "ID": 104811,
-          "Title": "Kategorio:Substancoj"
+          "ID": 26389,
+          "Title": "Kategorio:Ekologio"
         },
         {
           "ID": 127921,
           "Title": "Kategorio:Faŭno laŭ kontinentoj"
         },
         {
-          "ID": 170264,
-          "Title": "Kategorio:Naturo"
+          "ID": 26423,
+          "Title": "Kategorio:Fiziko"
+        },
+        {
+          "ID": 34269,
+          "Title": "Kategorio:Fruktoj"
+        },
+        {
+          "ID": 40359,
+          "Title": "Kategorio:Katastrofoj"
+        },
+        {
+          "ID": 49212,
+          "Title": "Kategorio:Kemiaj kombinaĵoj"
+        },
+        {
+          "ID": 21203,
+          "Title": "Kategorio:Kemio"
         },
         {
           "ID": 188544,
           "Title": "Kategorio:Mediologio"
         },
         {
+          "ID": 170264,
+          "Title": "Kategorio:Naturo"
+        },
+        {
+          "ID": 26384,
+          "Title": "Kategorio:Naturscienco"
+        },
+        {
+          "ID": 23532,
+          "Title": "Kategorio:Plantoj"
+        },
+        {
+          "ID": 302314,
+          "Title": "Kategorio:Proteinoj"
+        },
+        {
           "ID": 438859,
           "Title": "Kategorio:Sciencaj studfakoj"
-        }
-      ],
-      "Articles": [
-        {
-          "ID": 1237,
-          "Title": "Fajro"
         },
         {
-          "ID": 3713,
-          "Title": "Reprodukta sistemo"
+          "ID": 26385,
+          "Title": "Kategorio:Scienco"
         },
         {
-          "ID": 11792,
-          "Title": "Urino"
+          "ID": 104811,
+          "Title": "Kategorio:Substancoj"
         },
         {
-          "ID": 16564,
-          "Title": "Tritiko"
+          "ID": 197490,
+          "Title": "Kategorio:Tero"
         },
         {
-          "ID": 16566,
-          "Title": "Maizo"
+          "ID": 170263,
+          "Title": "Kategorio:Vivo"
         },
         {
-          "ID": 16608,
-          "Title": "Spiketo"
-        },
-        {
-          "ID": 16819,
-          "Title": "Kamelo"
-        },
-        {
-          "ID": 18622,
-          "Title": "Tomato"
-        },
-        {
-          "ID": 22095,
-          "Title": "Muskolo"
-        },
-        {
-          "ID": 22278,
-          "Title": "Frago"
-        },
-        {
-          "ID": 24714,
-          "Title": "Sinmasturbado"
-        },
-        {
-          "ID": 25628,
-          "Title": "Rizo"
-        },
-        {
-          "ID": 27292,
-          "Title": "Citrono"
-        },
-        {
-          "ID": 27354,
-          "Title": "Peniso"
-        },
-        {
-          "ID": 29744,
-          "Title": "Garolo"
-        },
-        {
-          "ID": 30505,
-          "Title": "Alko"
-        },
-        {
-          "ID": 31419,
-          "Title": "Naivulo"
-        },
-        {
-          "ID": 40652,
-          "Title": "Bova flano"
-        },
-        {
-          "ID": 47286,
-          "Title": "Oryza"
-        },
-        {
-          "ID": 51371,
-          "Title": "Flamengo"
-        },
-        {
-          "ID": 72248,
-          "Title": "Ananaso"
-        },
-        {
-          "ID": 79424,
-          "Title": "Mango (frukto)"
-        },
-        {
-          "ID": 79991,
-          "Title": "Mangarbo"
-        },
-        {
-          "ID": 81087,
-          "Title": "Testiko"
-        },
-        {
-          "ID": 126286,
-          "Title": "Florbrasiko"
-        },
-        {
-          "ID": 128605,
-          "Title": "Kantalupo"
-        },
-        {
-          "ID": 134731,
-          "Title": "Hidrologio"
-        },
-        {
-          "ID": 134775,
-          "Title": "Akva ciklo"
-        },
-        {
-          "ID": 179661,
-          "Title": "Mangifero"
-        },
-        {
-          "ID": 181810,
-          "Title": "Tentaklo"
-        },
-        {
-          "ID": 188586,
-          "Title": "Oranĝarbo"
-        },
-        {
-          "ID": 188658,
-          "Title": "Kalidredoj"
-        },
-        {
-          "ID": 188803,
-          "Title": "Oranĝo (frukto)"
-        },
-        {
-          "ID": 205533,
-          "Title": "Melono (frukto)"
-        },
-        {
-          "ID": 215257,
-          "Title": "Rostratuledoj"
-        },
-        {
-          "ID": 225203,
-          "Title": "Manĝoĉeno"
-        },
-        {
-          "ID": 228860,
-          "Title": "Atelo"
-        },
-        {
-          "ID": 255550,
-          "Title": "Majaa kalendaro"
-        },
-        {
-          "ID": 276267,
-          "Title": "Urina kaj reprodukta sistemo"
-        },
-        {
-          "ID": 278439,
-          "Title": "Garolo (genro)"
-        },
-        {
-          "ID": 279499,
-          "Title": "Motoneŭrono"
-        },
-        {
-          "ID": 281671,
-          "Title": "Kaspia paruo"
-        },
-        {
-          "ID": 311984,
-          "Title": "Limeo"
-        },
-        {
-          "ID": 326991,
-          "Title": "Incensa junipero"
-        },
-        {
-          "ID": 353846,
-          "Title": "Skombro"
-        },
-        {
-          "ID": 359194,
-          "Title": "Rufaj haroj"
-        },
-        {
-          "ID": 387395,
-          "Title": "Arbara fragujo"
-        },
-        {
-          "ID": 400859,
-          "Title": "Suspensio"
-        },
-        {
-          "ID": 419939,
-          "Title": "Ĥasi-pino"
-        },
-        {
-          "ID": 425972,
-          "Title": "Manĝoreto"
-        },
-        {
-          "ID": 432418,
-          "Title": "Hegemoniaj ventoj"
-        },
-        {
-          "ID": 481793,
-          "Title": "Citrus aurantium"
-        },
-        {
-          "ID": 482598,
-          "Title": "Physalis philadelphica"
-        },
-        {
-          "ID": 506240,
-          "Title": "Anakondo"
-        },
-        {
-          "ID": 516731,
-          "Title": "Ĝermado"
-        },
-        {
-          "ID": 560166,
-          "Title": "Gigantkukurbo"
-        },
-        {
-          "ID": 560709,
-          "Title": "Hiledoj"
-        },
-        {
-          "ID": 570619,
-          "Title": "Luparaneo"
-        },
-        {
-          "ID": 580451,
-          "Title": "Arborano"
-        },
-        {
-          "ID": 612243,
-          "Title": "Mirto (specio)"
+          "ID": 41603,
+          "Title": "Kategorio:Zoologio"
         }
       ]
     },
@@ -924,210 +630,164 @@
       "Title": "People and self",
       "Categories": [
         {
-          "ID": 21546,
-          "Title": "Kategorio:Biografio"
+          "ID": 30515,
+          "Title": "Kategorio:Aktoroj"
         },
         {
-          "ID": 66283,
-          "Title": "Kategorio:Virinoj"
+          "ID": 126295,
+          "Title": "Kategorio:Arkitektoj"
         },
         {
-          "ID": 131041,
-          "Title": "Kategorio:Familiaj nomoj"
-        },
-        {
-          "ID": 170263,
-          "Title": "Kategorio:Vivo"
-        },
-        {
-          "ID": 272264,
-          "Title": "Kategorio:Filmaj roluloj"
-        },
-        {
-          "ID": 278103,
-          "Title": "Kategorio:Biografiaj libroj"
-        },
-        {
-          "ID": 318496,
-          "Title": "Kategorio:Ĉiutaga vivo"
-        },
-        {
-          "ID": 332387,
-          "Title": "Kategorio:Virino"
-        },
-        {
-          "ID": 437221,
-          "Title": "Kategorio:Egoo"
-        },
-        {
-          "ID": 447268,
-          "Title": "Kategorio:Personoj"
-        },
-        {
-          "ID": 447269,
-          "Title": "Kategorio:Personeco"
-        },
-        {
-          "ID": 479601,
-          "Title": "Kategorio:Biografoj"
+          "ID": 43271,
+          "Title": "Kategorio:Artistoj"
         },
         {
           "ID": 597524,
           "Title": "Kategorio:Artistoj laŭ medioj"
         },
         {
-          "ID": 601700,
-          "Title": "Kategorio:Biografiaj verkoj"
-        }
-      ],
-      "Articles": [
-        {
-          "ID": 12,
-          "Title": "Tomaso de Akvino"
+          "ID": 291174,
+          "Title": "Kategorio:Aviadaj profesioj"
         },
         {
-          "ID": 167,
-          "Title": "Alan Turing"
+          "ID": 479601,
+          "Title": "Kategorio:Biografoj"
         },
         {
-          "ID": 1219,
-          "Title": "Fibonacci"
+          "ID": 437221,
+          "Title": "Kategorio:Egoo"
         },
         {
-          "ID": 1342,
-          "Title": "Galilejo"
+          "ID": 39005,
+          "Title": "Kategorio:Esploristoj"
         },
         {
-          "ID": 1925,
-          "Title": "Johnny Appleseed"
+          "ID": 131041,
+          "Title": "Kategorio:Familiaj nomoj"
         },
         {
-          "ID": 2105,
-          "Title": "Keplero"
+          "ID": 632917,
+          "Title": "Kategorio:Fikcioverkistoj"
         },
         {
-          "ID": 2107,
-          "Title": "Renato Kartezio"
+          "ID": 61414,
+          "Title": "Kategorio:Fikciuloj"
         },
         {
-          "ID": 4554,
-          "Title": "William Blake"
+          "ID": 272264,
+          "Title": "Kategorio:Filmaj roluloj"
         },
         {
-          "ID": 6269,
-          "Title": "Lewis Carroll"
+          "ID": 38495,
+          "Title": "Kategorio:Filozofoj"
         },
         {
-          "ID": 6896,
-          "Title": "Alexander Fleming"
+          "ID": 331834,
+          "Title": "Kategorio:Flegistoj"
         },
         {
-          "ID": 7738,
-          "Title": "Kristoforo Kolumbo"
+          "ID": 442352,
+          "Title": "Kategorio:Homoj laŭ konduto"
         },
         {
-          "ID": 9671,
-          "Title": "Bill Gates"
+          "ID": 258749,
+          "Title": "Kategorio:Homoj laŭ profesioj"
         },
         {
-          "ID": 11282,
-          "Title": "Oliver Cromwell"
+          "ID": 601719,
+          "Title": "Kategorio:Homoj laŭ roloj"
         },
         {
-          "ID": 12017,
-          "Title": "Adam Smith"
+          "ID": 57716,
+          "Title": "Kategorio:Inventistoj"
         },
         {
-          "ID": 15856,
-          "Title": "Srinivasa Aiyangar Ramanujan"
+          "ID": 54829,
+          "Title": "Kategorio:Kuracistoj"
         },
         {
-          "ID": 16445,
-          "Title": "John Lennon"
+          "ID": 33099,
+          "Title": "Kategorio:Matematikistoj"
         },
         {
-          "ID": 16451,
-          "Title": "George Harrison"
+          "ID": 269815,
+          "Title": "Kategorio:Montogrimpistoj laŭ landoj"
         },
         {
-          "ID": 17679,
-          "Title": "Adolf Hitler"
+          "ID": 60421,
+          "Title": "Kategorio:Mortintoj"
         },
         {
-          "ID": 19384,
-          "Title": "Daniel Radcliffe"
+          "ID": 465256,
+          "Title": "Kategorio:Mortintoj laŭ jaroj"
         },
         {
-          "ID": 20184,
-          "Title": "Richard Wagner"
+          "ID": 31762,
+          "Title": "Kategorio:Muzikistoj"
         },
         {
-          "ID": 21231,
-          "Title": "Theodor Schwann"
+          "ID": 447426,
+          "Title": "Kategorio:Naskiĝintoj laŭ jaroj"
         },
         {
-          "ID": 27405,
-          "Title": "Sigmund Freud"
+          "ID": 380443,
+          "Title": "Kategorio:Nuntempaj ŝtatestroj"
         },
         {
-          "ID": 28739,
-          "Title": "Carl Friedrich Gauss"
+          "ID": 447268,
+          "Title": "Kategorio:Personoj"
         },
         {
-          "ID": 29193,
-          "Title": "Noam Chomsky"
+          "ID": 95175,
+          "Title": "Kategorio:Pilotoj"
         },
         {
-          "ID": 39277,
-          "Title": "Harry Houdini"
+          "ID": 40732,
+          "Title": "Kategorio:Politikistoj"
         },
         {
-          "ID": 39930,
-          "Title": "Joseph Smith"
+          "ID": 442353,
+          "Title": "Kategorio:Politikuloj"
         },
         {
-          "ID": 54483,
-          "Title": "Florence Nightingale"
+          "ID": 318919,
+          "Title": "Kategorio:Politologoj"
         },
         {
-          "ID": 56677,
-          "Title": "Carl Sagan"
+          "ID": 248910,
+          "Title": "Kategorio:Prezidantoj"
         },
         {
-          "ID": 59543,
-          "Title": "Elton John"
+          "ID": 248911,
+          "Title": "Kategorio:Prezidantoj laŭ landoj"
         },
         {
-          "ID": 92249,
-          "Title": "Richard Dawkins"
+          "ID": 36388,
+          "Title": "Kategorio:Regnestroj"
         },
         {
-          "ID": 101322,
-          "Title": "Charles Babbage"
+          "ID": 317733,
+          "Title": "Kategorio:Revoluciuloj"
         },
         {
-          "ID": 124918,
-          "Title": "Ayn Rand"
+          "ID": 231035,
+          "Title": "Kategorio:Usonaj generaloj"
         },
         {
-          "ID": 367829,
-          "Title": "Anders Behring Breivik"
+          "ID": 29751,
+          "Title": "Kategorio:Verkistoj"
         },
         {
-          "ID": 398370,
-          "Title": "The Big Bang Theory"
+          "ID": 332387,
+          "Title": "Kategorio:Virino"
         },
         {
-          "ID": 520805,
-          "Title": "Ĥaim Sutin"
+          "ID": 66283,
+          "Title": "Kategorio:Virinoj"
         },
         {
-          "ID": 530455,
-          "Title": "Ted Cruz"
-        },
-        {
-          "ID": 542860,
-          "Title": "Bob Ross"
+          "ID": 257530,
+          "Title": "Kategorio:Vivantaj homoj"
         }
       ]
     },
@@ -1136,28 +796,40 @@
       "Title": "Philosophy and thinking",
       "Categories": [
         {
-          "ID": 26390,
-          "Title": "Kategorio:Filozofio"
-        },
-        {
-          "ID": 83364,
-          "Title": "Kategorio:Filozofiaj teorioj"
-        },
-        {
           "ID": 108539,
           "Title": "Kategorio:Branĉoj de filozofio"
-        },
-        {
-          "ID": 108544,
-          "Title": "Kategorio:Filozofiaj skoloj kaj tradicioj"
         },
         {
           "ID": 242019,
           "Title": "Kategorio:Etiko"
         },
         {
+          "ID": 83359,
+          "Title": "Kategorio:Filozofiaj konceptoj"
+        },
+        {
+          "ID": 108544,
+          "Title": "Kategorio:Filozofiaj skoloj kaj tradicioj"
+        },
+        {
+          "ID": 83364,
+          "Title": "Kategorio:Filozofiaj teorioj"
+        },
+        {
+          "ID": 26390,
+          "Title": "Kategorio:Filozofio"
+        },
+        {
           "ID": 295745,
           "Title": "Kategorio:Ideologioj"
+        },
+        {
+          "ID": 436598,
+          "Title": "Kategorio:Metafilozofio"
+        },
+        {
+          "ID": 83079,
+          "Title": "Kategorio:Metafiziko"
         },
         {
           "ID": 436599,
@@ -1166,44 +838,10 @@
         {
           "ID": 437197,
           "Title": "Kategorio:Politikaj teorioj"
-        }
-      ],
-      "Articles": [
-        {
-          "ID": 7554,
-          "Title": "Fido"
         },
         {
-          "ID": 30731,
-          "Title": "Fakto"
-        },
-        {
-          "ID": 55138,
-          "Title": "Ĝojo"
-        },
-        {
-          "ID": 59062,
-          "Title": "Feliĉo"
-        },
-        {
-          "ID": 137234,
-          "Title": "Belo"
-        },
-        {
-          "ID": 151449,
-          "Title": "HIT"
-        },
-        {
-          "ID": 256588,
-          "Title": "Kredo"
-        },
-        {
-          "ID": 589368,
-          "Title": "Gaslampumado"
-        },
-        {
-          "ID": 593421,
-          "Title": "Dunning-Kruger-efiko"
+          "ID": 437217,
+          "Title": "Kategorio:Realo"
         }
       ]
     },
@@ -1212,40 +850,36 @@
       "Title": "Religion and belief systems",
       "Categories": [
         {
-          "ID": 21176,
-          "Title": "Kategorio:Religio"
-        },
-        {
-          "ID": 34774,
-          "Title": "Kategorio:Teologio"
-        },
-        {
-          "ID": 434541,
-          "Title": "Kategorio:Religiaj kredoj, tradicioj kaj movadoj"
+          "ID": 438703,
+          "Title": "Kategorio:Antropologio de religio"
         },
         {
           "ID": 436593,
           "Title": "Kategorio:Kredo"
         },
         {
-          "ID": 438703,
-          "Title": "Kategorio:Antropologio de religio"
-        },
-        {
           "ID": 439663,
           "Title": "Kategorio:Kritiko al religio"
         },
         {
-          "ID": 439664,
-          "Title": "Kategorio:Sekularismo"
+          "ID": 483505,
+          "Title": "Kategorio:Neteismo"
         },
         {
           "ID": 439697,
           "Title": "Kategorio:Religiaj diskutoj"
         },
         {
-          "ID": 483505,
-          "Title": "Kategorio:Neteismo"
+          "ID": 434541,
+          "Title": "Kategorio:Religiaj kredoj, tradicioj kaj movadoj"
+        },
+        {
+          "ID": 21176,
+          "Title": "Kategorio:Religio"
+        },
+        {
+          "ID": 34774,
+          "Title": "Kategorio:Teologio"
         }
       ]
     },
@@ -1254,418 +888,116 @@
       "Title": "Society and social sciences",
       "Categories": [
         {
-          "ID": 30586,
-          "Title": "Kategorio:Homa scienco"
-        },
-        {
-          "ID": 37824,
-          "Title": "Kategorio:Juro"
+          "ID": 288029,
+          "Title": "Kategorio:Edukado laŭ landoj"
         },
         {
           "ID": 42286,
           "Title": "Kategorio:Feminismo"
         },
         {
-          "ID": 52286,
-          "Title": "Kategorio:Socio"
+          "ID": 307875,
+          "Title": "Kategorio:Financoj"
         },
         {
-          "ID": 108555,
-          "Title": "Kategorio:Rajtoj"
+          "ID": 53508,
+          "Title": "Kategorio:Firmaoj"
+        },
+        {
+          "ID": 211111,
+          "Title": "Kategorio:Flugkompanioj"
+        },
+        {
+          "ID": 318921,
+          "Title": "Kategorio:Geopolitiko"
+        },
+        {
+          "ID": 30586,
+          "Title": "Kategorio:Homa scienco"
         },
         {
           "ID": 215534,
           "Title": "Kategorio:Internaciaj organizaĵoj"
         },
         {
-          "ID": 293001,
-          "Title": "Kategorio:Socia scienco"
+          "ID": 497181,
+          "Title": "Kategorio:Interregistaraj organizaĵoj"
+        },
+        {
+          "ID": 37824,
+          "Title": "Kategorio:Juro"
+        },
+        {
+          "ID": 434528,
+          "Title": "Kategorio:Kolektivaj grupoj"
         },
         {
           "ID": 446007,
           "Title": "Kategorio:Leĝaro"
         },
         {
+          "ID": 94541,
+          "Title": "Kategorio:Merkatiko"
+        },
+        {
+          "ID": 52650,
+          "Title": "Kategorio:Moneroj"
+        },
+        {
+          "ID": 53046,
+          "Title": "Kategorio:Mono"
+        },
+        {
+          "ID": 36917,
+          "Title": "Kategorio:Monunuoj"
+        },
+        {
+          "ID": 245530,
+          "Title": "Kategorio:Naciaj flagoj"
+        },
+        {
+          "ID": 79542,
+          "Title": "Kategorio:Organizaĵoj"
+        },
+        {
+          "ID": 447269,
+          "Title": "Kategorio:Personeco"
+        },
+        {
+          "ID": 439583,
+          "Title": "Kategorio:Politikaj sistemoj"
+        },
+        {
+          "ID": 30585,
+          "Title": "Kategorio:Psikologio"
+        },
+        {
+          "ID": 202403,
+          "Title": "Kategorio:Punoj"
+        },
+        {
+          "ID": 108555,
+          "Title": "Kategorio:Rajtoj"
+        },
+        {
+          "ID": 439498,
+          "Title": "Kategorio:Registaraj institucioj"
+        },
+        {
+          "ID": 285486,
+          "Title": "Kategorio:Registaroj"
+        },
+        {
+          "ID": 293001,
+          "Title": "Kategorio:Socia scienco"
+        },
+        {
+          "ID": 52286,
+          "Title": "Kategorio:Socio"
+        },
+        {
           "ID": 490376,
           "Title": "Kategorio:Universitatoj kaj altlernejoj laŭ landoj"
-        },
-        {
-          "ID": 497181,
-          "Title": "Kategorio:Interregistaraj organizaĵoj"
-        }
-      ],
-      "Articles": [
-        {
-          "ID": 514,
-          "Title": "Barbado"
-        },
-        {
-          "ID": 679,
-          "Title": "Ĉilio"
-        },
-        {
-          "ID": 961,
-          "Title": "Eŭropa Unio"
-        },
-        {
-          "ID": 1791,
-          "Title": "Irano"
-        },
-        {
-          "ID": 2778,
-          "Title": "Masaĉuseca Instituto de Teknologio"
-        },
-        {
-          "ID": 4341,
-          "Title": "Universitato de Suda Kalifornio"
-        },
-        {
-          "ID": 6662,
-          "Title": "Universitato Rice"
-        },
-        {
-          "ID": 9809,
-          "Title": "Universitato de Kembriĝo"
-        },
-        {
-          "ID": 11154,
-          "Title": "University of East Anglia"
-        },
-        {
-          "ID": 13427,
-          "Title": "Universitato de Oksfordo"
-        },
-        {
-          "ID": 18856,
-          "Title": "Universitato de Nottingham"
-        },
-        {
-          "ID": 20858,
-          "Title": "Universitato de Teksaso en Aŭstino"
-        },
-        {
-          "ID": 22548,
-          "Title": "Universitato Stanford"
-        },
-        {
-          "ID": 26438,
-          "Title": "Universitato de Aligarh"
-        },
-        {
-          "ID": 30525,
-          "Title": "Universitato Kolumbio"
-        },
-        {
-          "ID": 34018,
-          "Title": "Fox News"
-        },
-        {
-          "ID": 34021,
-          "Title": "Universitato de Ĉikago"
-        },
-        {
-          "ID": 34054,
-          "Title": "Universitato Harvard"
-        },
-        {
-          "ID": 35899,
-          "Title": "Universitato de Upsalo"
-        },
-        {
-          "ID": 36794,
-          "Title": "Moskva Ŝtata Universitato"
-        },
-        {
-          "ID": 37035,
-          "Title": "BP (firmao)"
-        },
-        {
-          "ID": 37433,
-          "Title": "Sankt-Peterburga Ŝtata Universitato"
-        },
-        {
-          "ID": 47905,
-          "Title": "Universitato Princeton"
-        },
-        {
-          "ID": 51725,
-          "Title": "Universitato de Aberdeen"
-        },
-        {
-          "ID": 51728,
-          "Title": "Universitato de Glasgovo"
-        },
-        {
-          "ID": 51732,
-          "Title": "Universitato de Sheffield"
-        },
-        {
-          "ID": 51734,
-          "Title": "Universitato de Surrey"
-        },
-        {
-          "ID": 54529,
-          "Title": "Universitato de Novkastelo (Novsudkimrio)"
-        },
-        {
-          "ID": 80969,
-          "Title": "The New York Times"
-        },
-        {
-          "ID": 89772,
-          "Title": "Somera tempo"
-        },
-        {
-          "ID": 107735,
-          "Title": "Universitato de Kalgario"
-        },
-        {
-          "ID": 107767,
-          "Title": "Mikronacio"
-        },
-        {
-          "ID": 125458,
-          "Title": "Lviva Universitato"
-        },
-        {
-          "ID": 126707,
-          "Title": "Universitato de Padovo"
-        },
-        {
-          "ID": 137925,
-          "Title": "Trusto"
-        },
-        {
-          "ID": 202799,
-          "Title": "Universitato de Sussex"
-        },
-        {
-          "ID": 207161,
-          "Title": "Hebrea Universitato de Jerusalemo"
-        },
-        {
-          "ID": 208503,
-          "Title": "Universitato de Viktorio"
-        },
-        {
-          "ID": 208517,
-          "Title": "Universitato de Waterloo"
-        },
-        {
-          "ID": 208519,
-          "Title": "Universitato de Okcidenta Ontario"
-        },
-        {
-          "ID": 208642,
-          "Title": "Universitato de Saskaĉevano"
-        },
-        {
-          "ID": 208994,
-          "Title": "Universitato de Tenesio"
-        },
-        {
-          "ID": 225684,
-          "Title": "Mediprogramo de Unuiĝintaj Nacioj"
-        },
-        {
-          "ID": 229119,
-          "Title": "Universitato de Hull"
-        },
-        {
-          "ID": 229400,
-          "Title": "Universitato de Berno"
-        },
-        {
-          "ID": 239929,
-          "Title": "Universitato de Manitobo"
-        },
-        {
-          "ID": 242786,
-          "Title": "Universitato de Virginio"
-        },
-        {
-          "ID": 246543,
-          "Title": "Universitato de Minesoto"
-        },
-        {
-          "ID": 257385,
-          "Title": "Tria mondmilito"
-        },
-        {
-          "ID": 275010,
-          "Title": "Universitato St. Andrews"
-        },
-        {
-          "ID": 279268,
-          "Title": "Universitato de Maryland"
-        },
-        {
-          "ID": 281947,
-          "Title": "Ĉina novjara festo"
-        },
-        {
-          "ID": 286144,
-          "Title": "Universitato de Vaŝingtonio"
-        },
-        {
-          "ID": 291408,
-          "Title": "Teherana universitato"
-        },
-        {
-          "ID": 301214,
-          "Title": "Universitato de Viskonsino-Milvokio"
-        },
-        {
-          "ID": 312859,
-          "Title": "Universitato de Southampton"
-        },
-        {
-          "ID": 313154,
-          "Title": "Universitato de Lepsiko"
-        },
-        {
-          "ID": 313894,
-          "Title": "Pizza Hut"
-        },
-        {
-          "ID": 328813,
-          "Title": "Universitato de Pensilvanio"
-        },
-        {
-          "ID": 333337,
-          "Title": "American Airlines"
-        },
-        {
-          "ID": 337216,
-          "Title": "Bonna universitato"
-        },
-        {
-          "ID": 337480,
-          "Title": "Universitato de Kolonjo"
-        },
-        {
-          "ID": 342833,
-          "Title": "Universitato de Göttingen"
-        },
-        {
-          "ID": 350072,
-          "Title": "Flago de Aŭstralio"
-        },
-        {
-          "ID": 363928,
-          "Title": "Universitato de Vieno"
-        },
-        {
-          "ID": 371001,
-          "Title": "Universitato de Leicester"
-        },
-        {
-          "ID": 397252,
-          "Title": "Washington University in St. Louis"
-        },
-        {
-          "ID": 409790,
-          "Title": "Universitato de Miĉigano"
-        },
-        {
-          "ID": 424797,
-          "Title": "Universitato Tulane"
-        },
-        {
-          "ID": 438464,
-          "Title": "Universitato de Tubingeno"
-        },
-        {
-          "ID": 439229,
-          "Title": "Hokajda Universitato"
-        },
-        {
-          "ID": 449201,
-          "Title": "Universitato de Tartu"
-        },
-        {
-          "ID": 458316,
-          "Title": "Universitato de Montano"
-        },
-        {
-          "ID": 460241,
-          "Title": "Universitato de Otago"
-        },
-        {
-          "ID": 472398,
-          "Title": "Universitato de Torino"
-        },
-        {
-          "ID": 479095,
-          "Title": "Universitato de Bolonjo"
-        },
-        {
-          "ID": 488449,
-          "Title": "Universitato de Ferrara"
-        },
-        {
-          "ID": 489548,
-          "Title": "Universitato de Bostono"
-        },
-        {
-          "ID": 491266,
-          "Title": "Universitato Alberto Ludoviko de Frajburgo"
-        },
-        {
-          "ID": 493269,
-          "Title": "The Open University"
-        },
-        {
-          "ID": 496639,
-          "Title": "Universitato de Stokholmo"
-        },
-        {
-          "ID": 502465,
-          "Title": "Universitato de Napolo"
-        },
-        {
-          "ID": 520900,
-          "Title": "Universitato de Monastero"
-        },
-        {
-          "ID": 529344,
-          "Title": "Sociala laboro"
-        },
-        {
-          "ID": 531326,
-          "Title": "Publika universitato"
-        },
-        {
-          "ID": 546526,
-          "Title": "Universitato de Taŭsono"
-        },
-        {
-          "ID": 549790,
-          "Title": "Starbucks"
-        },
-        {
-          "ID": 552701,
-          "Title": "Universitato de Tokio"
-        },
-        {
-          "ID": 557474,
-          "Title": "Universitato de Oregono"
-        },
-        {
-          "ID": 582864,
-          "Title": "Universitato de Kvinslando"
-        },
-        {
-          "ID": 585823,
-          "Title": "Universitato de Cincinnati"
-        },
-        {
-          "ID": 612897,
-          "Title": "Universitato de Vroclavo"
-        },
-        {
-          "ID": 624104,
-          "Title": "Universitato de Denver"
         }
       ]
     },
@@ -1674,94 +1006,152 @@
       "Title": "Technology and applied sciences",
       "Categories": [
         {
-          "ID": 26442,
-          "Title": "Kategorio:Interreto"
-        },
-        {
-          "ID": 29749,
-          "Title": "Kategorio:Komputiko"
-        },
-        {
-          "ID": 32430,
-          "Title": "Kategorio:Teknologio"
-        },
-        {
-          "ID": 39318,
-          "Title": "Kategorio:Komputilo"
-        },
-        {
-          "ID": 51301,
-          "Title": "Kategorio:Transporto"
-        },
-        {
-          "ID": 82660,
-          "Title": "Kategorio:Datumbazoj"
-        },
-        {
-          "ID": 94531,
-          "Title": "Kategorio:Datuma regado"
-        },
-        {
-          "ID": 190216,
-          "Title": "Kategorio:Milita ekipaĵo"
-        },
-        {
-          "ID": 198388,
-          "Title": "Kategorio:Elektroniko"
-        },
-        {
-          "ID": 209361,
-          "Title": "Kategorio:Inĝenierarto"
-        },
-        {
-          "ID": 234142,
-          "Title": "Kategorio:Tekniko"
-        },
-        {
-          "ID": 310204,
-          "Title": "Kategorio:Fasonado"
+          "ID": 188798,
+          "Title": "Kategorio:Aparatoj"
         },
         {
           "ID": 327120,
           "Title": "Kategorio:Aplikata komputiko"
         },
         {
-          "ID": 329749,
-          "Title": "Kategorio:Historio de tekniko"
-        },
-        {
           "ID": 438857,
           "Title": "Kategorio:Aplikataj sciencoj"
         },
         {
+          "ID": 94531,
+          "Title": "Kategorio:Datuma regado"
+        },
+        {
+          "ID": 82660,
+          "Title": "Kategorio:Datumbazoj"
+        },
+        {
+          "ID": 198388,
+          "Title": "Kategorio:Elektroniko"
+        },
+        {
+          "ID": 624266,
+          "Title": "Kategorio:Energia teknologio"
+        },
+        {
+          "ID": 310204,
+          "Title": "Kategorio:Fasonado"
+        },
+        {
+          "ID": 601056,
+          "Title": "Kategorio:Hejmo-maŝinoj"
+        },
+        {
+          "ID": 30251,
+          "Title": "Kategorio:Iloj"
+        },
+        {
+          "ID": 448681,
+          "Title": "Kategorio:Informa teknologio"
+        },
+        {
+          "ID": 609048,
+          "Title": "Kategorio:Informo kaj komunikaj teknologioj"
+        },
+        {
+          "ID": 26442,
+          "Title": "Kategorio:Interreto"
+        },
+        {
+          "ID": 209361,
+          "Title": "Kategorio:Inĝenierarto"
+        },
+        {
+          "ID": 226562,
+          "Title": "Kategorio:Kalendaroj"
+        },
+        {
+          "ID": 29749,
+          "Title": "Kategorio:Komputiko"
+        },
+        {
+          "ID": 39318,
+          "Title": "Kategorio:Komputilo"
+        },
+        {
+          "ID": 298889,
+          "Title": "Kategorio:Konstruado"
+        },
+        {
+          "ID": 82555,
+          "Title": "Kategorio:Konstruaĵa inĝenierado"
+        },
+        {
+          "ID": 82580,
+          "Title": "Kategorio:Konstrufako"
+        },
+        {
+          "ID": 205245,
+          "Title": "Kategorio:Kuiriloj"
+        },
+        {
+          "ID": 83600,
+          "Title": "Kategorio:Lignoprilaboro"
+        },
+        {
+          "ID": 301378,
+          "Title": "Kategorio:Manlaboriloj"
+        },
+        {
+          "ID": 115649,
+          "Title": "Kategorio:Manĝujoj"
+        },
+        {
+          "ID": 51282,
+          "Title": "Kategorio:Maŝinoj"
+        },
+        {
+          "ID": 83066,
+          "Title": "Kategorio:Mekanika inĝenierado"
+        },
+        {
+          "ID": 190216,
+          "Title": "Kategorio:Milita ekipaĵo"
+        },
+        {
+          "ID": 584332,
+          "Title": "Kategorio:Normigo"
+        },
+        {
+          "ID": 72197,
+          "Title": "Kategorio:Normoj"
+        },
+        {
+          "ID": 330157,
+          "Title": "Kategorio:Presado"
+        },
+        {
+          "ID": 83407,
+          "Title": "Kategorio:Programado"
+        },
+        {
+          "ID": 83501,
+          "Title": "Kategorio:Programaro"
+        },
+        {
+          "ID": 234142,
+          "Title": "Kategorio:Tekniko"
+        },
+        {
+          "ID": 32430,
+          "Title": "Kategorio:Teknologio"
+        },
+        {
           "ID": 439465,
           "Title": "Kategorio:Teknologioj laŭ tipoj"
-        }
-      ],
-      "Articles": [
-        {
-          "ID": 2801,
-          "Title": "Muro"
         },
         {
-          "ID": 22204,
-          "Title": "Veldado"
+          "ID": 51301,
+          "Title": "Kategorio:Transporto"
         },
         {
-          "ID": 52645,
-          "Title": "Maĉgumo"
-        },
-        {
-          "ID": 59015,
-          "Title": "Domajno de plej alta nivelo"
-        },
-        {
-          "ID": 454199,
-          "Title": "Masonaĵo"
-        },
-        {
-          "ID": 552842,
-          "Title": ".xxx"
+          "ID": 117101,
+          "Title": "Kategorio:Videoludiloj"
         }
       ]
     }

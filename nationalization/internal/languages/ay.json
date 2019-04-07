@@ -6,46 +6,40 @@
       "Title": "Culture and the arts",
       "Categories": [
         {
-          "ID": 2401,
-          "Title": "Categoría:Yati"
-        },
-        {
-          "ID": 2678,
-          "Title": "Categoría:Sami"
-        },
-        {
-          "ID": 2805,
-          "Title": "Categoría:Sama"
+          "ID": 3295,
+          "Title": "Categoría:Jaylliphust'a"
         },
         {
           "ID": 3141,
           "Title": "Categoría:Manq'a"
         },
         {
-          "ID": 4071,
-          "Title": "Categoría:Yäpa"
-        },
-        {
           "ID": 4787,
           "Title": "Categoría:Qillqa"
-        }
-      ],
-      "Articles": [
-        {
-          "ID": 783,
-          "Title": "Wikipidiya"
         },
         {
-          "ID": 3051,
-          "Title": "Khuchi"
+          "ID": 3260,
+          "Title": "Categoría:Qillqatata"
         },
         {
-          "ID": 3086,
-          "Title": "K'awna"
+          "ID": 2805,
+          "Title": "Categoría:Sama"
         },
         {
-          "ID": 3351,
-          "Title": "T'ant'a"
+          "ID": 2678,
+          "Title": "Categoría:Sami"
+        },
+        {
+          "ID": 2401,
+          "Title": "Categoría:Yati"
+        },
+        {
+          "ID": 4855,
+          "Title": "Categoría:Yati (Jach'a marka)"
+        },
+        {
+          "ID": 4071,
+          "Title": "Categoría:Yäpa"
         }
       ]
     },
@@ -54,26 +48,20 @@
       "Title": "Geography and places",
       "Categories": [
         {
+          "ID": 4273,
+          "Title": "Categoría:Jach'a marka"
+        },
+        {
+          "ID": 4219,
+          "Title": "Categoría:Jawira"
+        },
+        {
+          "ID": 4296,
+          "Title": "Categoría:Marka"
+        },
+        {
           "ID": 2951,
           "Title": "Categoría:Uraqita"
-        }
-      ],
-      "Articles": [
-        {
-          "ID": 2594,
-          "Title": "Jaqi"
-        },
-        {
-          "ID": 4413,
-          "Title": "Venezia"
-        },
-        {
-          "ID": 8073,
-          "Title": "Paris"
-        },
-        {
-          "ID": 8865,
-          "Title": "Australla"
         }
       ]
     },
@@ -112,46 +100,32 @@
       "Title": "Nature and physical sciences",
       "Categories": [
         {
-          "ID": 2486,
-          "Title": "Categoría:Yatxatawi"
+          "ID": 4283,
+          "Title": "Categoría:Aka pacha"
+        },
+        {
+          "ID": 4270,
+          "Title": "Categoría:Ali"
+        },
+        {
+          "ID": 2720,
+          "Title": "Categoría:Anatumiya"
+        },
+        {
+          "ID": 4234,
+          "Title": "Categoría:Jakaña"
         },
         {
           "ID": 4639,
           "Title": "Categoría:Kimika"
-        }
-      ],
-      "Articles": [
-        {
-          "ID": 1546,
-          "Title": "Nina"
         },
         {
-          "ID": 2349,
-          "Title": "Allu"
+          "ID": 4217,
+          "Title": "Categoría:Uywa"
         },
         {
-          "ID": 2367,
-          "Title": "Achupalla"
-        },
-        {
-          "ID": 2464,
-          "Title": "Catuña"
-        },
-        {
-          "ID": 2774,
-          "Title": "Janchi kamana"
-        },
-        {
-          "ID": 2930,
-          "Title": "Chhuxu"
-        },
-        {
-          "ID": 3337,
-          "Title": "Tunqu"
-        },
-        {
-          "ID": 10085,
-          "Title": "Parina"
+          "ID": 2486,
+          "Title": "Categoría:Yatxatawi"
         }
       ]
     },
@@ -164,38 +138,16 @@
           "Title": "Categoría:Jaqinaka"
         },
         {
-          "ID": 4234,
-          "Title": "Categoría:Jakaña"
+          "ID": 4232,
+          "Title": "Categoría:Jiwäwi"
+        },
+        {
+          "ID": 10722,
+          "Title": "Categoría:Qillqiri"
         },
         {
           "ID": 10071,
           "Title": "Categoría:Warmi"
-        }
-      ],
-      "Articles": [
-        {
-          "ID": 4899,
-          "Title": "Cristoforo Colombo"
-        },
-        {
-          "ID": 4982,
-          "Title": "John Lennon"
-        },
-        {
-          "ID": 5067,
-          "Title": "George Harrison"
-        },
-        {
-          "ID": 6649,
-          "Title": "Galileo Galilei"
-        },
-        {
-          "ID": 10257,
-          "Title": "Richard Wagner"
-        },
-        {
-          "ID": 10575,
-          "Title": "Adam Smith"
         }
       ]
     },
@@ -221,17 +173,7 @@
     },
     {
       "ID": 2147483646,
-      "Title": "Society and social sciences",
-      "Articles": [
-        {
-          "ID": 3901,
-          "Title": "Chili"
-        },
-        {
-          "ID": 6756,
-          "Title": "Barbados"
-        }
-      ]
+      "Title": "Society and social sciences"
     },
     {
       "ID": 2147483647,
@@ -240,12 +182,6 @@
         {
           "ID": 2768,
           "Title": "Categoría:Lurañ yänaka"
-        }
-      ],
-      "Articles": [
-        {
-          "ID": 3187,
-          "Title": "Pirqa"
         }
       ]
     }

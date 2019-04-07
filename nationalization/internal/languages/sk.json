@@ -6,64 +6,168 @@
       "Title": "Culture and the arts",
       "Categories": [
         {
-          "ID": 4531,
-          "Title": "Kategória:Hudobné skupiny"
+          "ID": 38339,
+          "Title": "Kategória:Biografia"
         },
         {
-          "ID": 4949,
-          "Title": "Kategória:Šport"
+          "ID": 6016,
+          "Title": "Kategória:Bojové umenia"
         },
         {
-          "ID": 5117,
-          "Title": "Kategória:Umenie"
+          "ID": 66913,
+          "Title": "Kategória:Denníky"
         },
         {
-          "ID": 5118,
-          "Title": "Kategória:Zábava"
+          "ID": 256317,
+          "Title": "Kategória:Diela podľa autora"
         },
         {
-          "ID": 7615,
-          "Title": "Kategória:Kultúra"
+          "ID": 4960,
+          "Title": "Kategória:Doskové hry"
         },
         {
-          "ID": 13759,
-          "Title": "Kategória:Farby"
-        },
-        {
-          "ID": 23296,
-          "Title": "Kategória:Jedlá"
-        },
-        {
-          "ID": 30677,
-          "Title": "Kategória:Voľný čas"
-        },
-        {
-          "ID": 52360,
-          "Title": "Kategória:Hobby"
+          "ID": 4964,
+          "Title": "Kategória:Encyklopédie"
         },
         {
           "ID": 58155,
           "Title": "Kategória:Farba"
         },
         {
-          "ID": 61724,
-          "Title": "Kategória:Výživa"
+          "ID": 13759,
+          "Title": "Kategória:Farby"
         },
         {
-          "ID": 75159,
-          "Title": "Kategória:Potraviny"
+          "ID": 7679,
+          "Title": "Kategória:Festivaly"
+        },
+        {
+          "ID": 9060,
+          "Title": "Kategória:Fikcia"
+        },
+        {
+          "ID": 75127,
+          "Title": "Kategória:Fiktívne druhy"
+        },
+        {
+          "ID": 329159,
+          "Title": "Kategória:Fiktívne miesta"
         },
         {
           "ID": 118413,
           "Title": "Kategória:Filmy"
         },
         {
-          "ID": 198628,
-          "Title": "Kategória:Rekreácia"
+          "ID": 31213,
+          "Title": "Kategória:Folklór"
         },
         {
           "ID": 244346,
           "Title": "Kategória:Gastronómia"
+        },
+        {
+          "ID": 52360,
+          "Title": "Kategória:Hobby"
+        },
+        {
+          "ID": 4532,
+          "Title": "Kategória:Hudba"
+        },
+        {
+          "ID": 488610,
+          "Title": "Kategória:Hudba podľa žánru"
+        },
+        {
+          "ID": 161401,
+          "Title": "Kategória:Hudobné diela"
+        },
+        {
+          "ID": 19533,
+          "Title": "Kategória:Hudobné kompozície"
+        },
+        {
+          "ID": 4531,
+          "Title": "Kategória:Hudobné skupiny"
+        },
+        {
+          "ID": 19535,
+          "Title": "Kategória:Hudobné žánre"
+        },
+        {
+          "ID": 322741,
+          "Title": "Kategória:Internetová kultúra"
+        },
+        {
+          "ID": 23296,
+          "Title": "Kategória:Jedlá"
+        },
+        {
+          "ID": 166917,
+          "Title": "Kategória:Každodenný život"
+        },
+        {
+          "ID": 11018,
+          "Title": "Kategória:Knihy"
+        },
+        {
+          "ID": 63649,
+          "Title": "Kategória:Knihy podľa autora"
+        },
+        {
+          "ID": 7615,
+          "Title": "Kategória:Kultúra"
+        },
+        {
+          "ID": 22989,
+          "Title": "Kategória:Kultúra podľa štátu"
+        },
+        {
+          "ID": 328948,
+          "Title": "Kategória:Kúzelníctvo"
+        },
+        {
+          "ID": 86743,
+          "Title": "Kategória:Legendy"
+        },
+        {
+          "ID": 4691,
+          "Title": "Kategória:Literatúra"
+        },
+        {
+          "ID": 563505,
+          "Title": "Kategória:Literárne diela"
+        },
+        {
+          "ID": 385333,
+          "Title": "Kategória:Literárne diela podľa autora"
+        },
+        {
+          "ID": 121356,
+          "Title": "Kategória:Mágia"
+        },
+        {
+          "ID": 14412,
+          "Title": "Kategória:Obrazy"
+        },
+        {
+          "ID": 264957,
+          "Title": "Kategória:Osobný život"
+        },
+        {
+          "ID": 60545,
+          "Title": "Kategória:Periodiká"
+        },
+        {
+          "ID": 365437,
+          "Title": "Kategória:Populárna kultúra"
+        },
+        {
+          "ID": 75159,
+          "Title": "Kategória:Potraviny"
+        },
+        {
+          "ID": 12971,
+          "Title": "Kategória:Počítačové hry"
         },
         {
           "ID": 287022,
@@ -74,222 +178,92 @@
           "Title": "Kategória:Písanie"
         },
         {
-          "ID": 342978,
-          "Title": "Kategória:Šport podľa typu"
+          "ID": 198628,
+          "Title": "Kategória:Rekreácia"
+        },
+        {
+          "ID": 109259,
+          "Title": "Kategória:Rozhlasové stanice"
+        },
+        {
+          "ID": 39375,
+          "Title": "Kategória:Sex"
+        },
+        {
+          "ID": 163360,
+          "Title": "Kategória:Sexualita"
+        },
+        {
+          "ID": 107687,
+          "Title": "Kategória:Sexuálne praktiky"
+        },
+        {
+          "ID": 9089,
+          "Title": "Kategória:Súťaže"
         },
         {
           "ID": 343426,
           "Title": "Kategória:Telesné cvičenie"
-        }
-      ],
-      "Articles": [
-        {
-          "ID": 6165,
-          "Title": "Led Zeppelin"
         },
         {
-          "ID": 6962,
-          "Title": "Encyklopédia"
+          "ID": 4945,
+          "Title": "Kategória:Televízia"
         },
         {
-          "ID": 9571,
-          "Title": "Wikipédia"
+          "ID": 109663,
+          "Title": "Kategória:Týždenníky"
         },
         {
-          "ID": 9814,
-          "Title": "Pivo"
+          "ID": 5117,
+          "Title": "Kategória:Umenie"
         },
         {
-          "ID": 15046,
-          "Title": "Káva"
+          "ID": 326262,
+          "Title": "Kategória:Virtuálne komunity"
         },
         {
-          "ID": 19921,
-          "Title": "Rokfortská stredná škola čarodejnícka"
+          "ID": 30677,
+          "Title": "Kategória:Voľný čas"
         },
         {
-          "ID": 31883,
-          "Title": "Celibát"
+          "ID": 125628,
+          "Title": "Kategória:Vzdelávanie"
         },
         {
-          "ID": 46642,
-          "Title": "Kávovník"
+          "ID": 61724,
+          "Title": "Kategória:Výživa"
         },
         {
-          "ID": 48946,
-          "Title": "Chlieb"
+          "ID": 190581,
+          "Title": "Kategória:Wrestling"
         },
         {
-          "ID": 49385,
-          "Title": "Čokoláda"
+          "ID": 556620,
+          "Title": "Kategória:Znalosti"
         },
         {
-          "ID": 53477,
-          "Title": "Green Day"
+          "ID": 5118,
+          "Title": "Kategória:Zábava"
         },
         {
-          "ID": 64597,
-          "Title": "Pizza"
+          "ID": 232992,
+          "Title": "Kategória:Zápasenie"
         },
         {
-          "ID": 81286,
-          "Title": "Zmrzlina"
+          "ID": 44093,
+          "Title": "Kategória:Čarodejníctvo"
         },
         {
-          "ID": 87851,
-          "Title": "Buckinghamský palác"
+          "ID": 66911,
+          "Title": "Kategória:Časopisy"
         },
         {
-          "ID": 91743,
-          "Title": "Cudnosť"
+          "ID": 4949,
+          "Title": "Kategória:Šport"
         },
         {
-          "ID": 99910,
-          "Title": "Príručková publikácia"
-        },
-        {
-          "ID": 100438,
-          "Title": "Realizmus"
-        },
-        {
-          "ID": 101496,
-          "Title": "Skutočnosť (realita)"
-        },
-        {
-          "ID": 113543,
-          "Title": "AC/DC"
-        },
-        {
-          "ID": 122348,
-          "Title": "Biela čokoláda"
-        },
-        {
-          "ID": 136260,
-          "Title": "Duch (prízrak)"
-        },
-        {
-          "ID": 140325,
-          "Title": "Sviňa domáca"
-        },
-        {
-          "ID": 142474,
-          "Title": "Sus (rod)"
-        },
-        {
-          "ID": 142479,
-          "Title": "Diviak lesný"
-        },
-        {
-          "ID": 143438,
-          "Title": "Hudobná skupina"
-        },
-        {
-          "ID": 154526,
-          "Title": "Regionalizmus"
-        },
-        {
-          "ID": 166506,
-          "Title": "Cestovina"
-        },
-        {
-          "ID": 166978,
-          "Title": "Sgt. Pepper’s Lonely Hearts Club Band"
-        },
-        {
-          "ID": 168297,
-          "Title": "Kávovník arabský"
-        },
-        {
-          "ID": 177944,
-          "Title": "Orálny sex"
-        },
-        {
-          "ID": 187532,
-          "Title": "Realizmus vo svetovej literatúre"
-        },
-        {
-          "ID": 200241,
-          "Title": "Párok v rožku"
-        },
-        {
-          "ID": 200250,
-          "Title": "Hotdog"
-        },
-        {
-          "ID": 226168,
-          "Title": "Realista"
-        },
-        {
-          "ID": 249464,
-          "Title": "Bravčové mäso"
-        },
-        {
-          "ID": 250677,
-          "Title": "Omáčka"
-        },
-        {
-          "ID": 272092,
-          "Title": "Dinosaur Jr."
-        },
-        {
-          "ID": 283529,
-          "Title": "Lochnesská príšera"
-        },
-        {
-          "ID": 289146,
-          "Title": "Arašidové maslo"
-        },
-        {
-          "ID": 296603,
-          "Title": "Regionalizmus (regionálna integrácia)"
-        },
-        {
-          "ID": 297471,
-          "Title": "Miesta v Harrym Potterovi"
-        },
-        {
-          "ID": 348123,
-          "Title": "Pecorino"
-        },
-        {
-          "ID": 349339,
-          "Title": "Judas"
-        },
-        {
-          "ID": 359984,
-          "Title": "Šunka"
-        },
-        {
-          "ID": 374019,
-          "Title": "Bigfoot"
-        },
-        {
-          "ID": 376875,
-          "Title": "Kakaovník pravý"
-        },
-        {
-          "ID": 383545,
-          "Title": "Aqua (hudobná skupina)"
-        },
-        {
-          "ID": 508148,
-          "Title": "Slanina (pokrm)"
-        },
-        {
-          "ID": 523809,
-          "Title": "Kvások"
-        },
-        {
-          "ID": 566973,
-          "Title": "Vajce"
-        },
-        {
-          "ID": 579635,
-          "Title": "Eurovision Song Contest 2017"
-        },
-        {
-          "ID": 617430,
-          "Title": "Eurovision Song Contest 2018"
+          "ID": 342978,
+          "Title": "Kategória:Šport podľa typu"
         }
       ]
     },
@@ -298,58 +272,64 @@
       "Title": "Geography and places",
       "Categories": [
         {
+          "ID": 29709,
+          "Title": "Kategória:Cesty"
+        },
+        {
           "ID": 4405,
           "Title": "Kategória:Geografia"
-        },
-        {
-          "ID": 41808,
-          "Title": "Kategória:Geomorfológia"
-        },
-        {
-          "ID": 88385,
-          "Title": "Kategória:Pamätníky"
         },
         {
           "ID": 180653,
           "Title": "Kategória:Geografické zoznamy"
         },
         {
+          "ID": 41808,
+          "Title": "Kategória:Geomorfológia"
+        },
+        {
+          "ID": 465412,
+          "Title": "Kategória:Kráľovské sídla"
+        },
+        {
+          "ID": 5144,
+          "Title": "Kategória:Mestá"
+        },
+        {
+          "ID": 88500,
+          "Title": "Kategória:Paláce"
+        },
+        {
+          "ID": 88385,
+          "Title": "Kategória:Pamätníky"
+        },
+        {
+          "ID": 337821,
+          "Title": "Kategória:Pramene"
+        },
+        {
+          "ID": 3042,
+          "Title": "Kategória:Rieky"
+        },
+        {
+          "ID": 285531,
+          "Title": "Kategória:Sídla"
+        },
+        {
+          "ID": 285530,
+          "Title": "Kategória:Sídla podľa štátu"
+        },
+        {
+          "ID": 83309,
+          "Title": "Kategória:Ulice"
+        },
+        {
           "ID": 250583,
           "Title": "Kategória:Urbanizmus"
-        }
-      ],
-      "Articles": [
-        {
-          "ID": 2651,
-          "Title": "Paríž"
         },
         {
-          "ID": 2979,
-          "Title": "Mjanmarsko"
-        },
-        {
-          "ID": 3615,
-          "Title": "Austrália (štát)"
-        },
-        {
-          "ID": 14579,
-          "Title": "Pyramída"
-        },
-        {
-          "ID": 20180,
-          "Title": "Benátky"
-        },
-        {
-          "ID": 65817,
-          "Title": "Queensland"
-        },
-        {
-          "ID": 65891,
-          "Title": "Canberra"
-        },
-        {
-          "ID": 94534,
-          "Title": "Človek rozumný"
+          "ID": 4776,
+          "Title": "Kategória:Štáty"
         }
       ]
     },
@@ -358,12 +338,8 @@
       "Title": "Health and fitness",
       "Categories": [
         {
-          "ID": 7006,
-          "Title": "Kategória:Medicína"
-        },
-        {
-          "ID": 7135,
-          "Title": "Kategória:Zdravie"
+          "ID": 244959,
+          "Title": "Kategória:Anatómia človeka"
         },
         {
           "ID": 17551,
@@ -374,12 +350,20 @@
           "Title": "Kategória:Hygiena"
         },
         {
-          "ID": 186641,
-          "Title": "Kategória:Zdravotníctvo"
+          "ID": 7006,
+          "Title": "Kategória:Medicína"
         },
         {
           "ID": 218139,
           "Title": "Kategória:Medicínske odbory"
+        },
+        {
+          "ID": 7135,
+          "Title": "Kategória:Zdravie"
+        },
+        {
+          "ID": 186641,
+          "Title": "Kategória:Zdravotníctvo"
         }
       ]
     },
@@ -388,58 +372,52 @@
       "Title": "History and events",
       "Categories": [
         {
-          "ID": 4946,
-          "Title": "Kategória:História"
-        },
-        {
-          "ID": 7885,
-          "Title": "Kategória:Spoločenské vedy"
+          "ID": 474450,
+          "Title": "Kategória:Dejiny podľa miesta"
         },
         {
           "ID": 12621,
           "Title": "Kategória:Dejiny podľa štátu"
         },
         {
+          "ID": 380919,
+          "Title": "Kategória:Dejiny politiky"
+        },
+        {
+          "ID": 104146,
+          "Title": "Kategória:Dejiny techniky"
+        },
+        {
+          "ID": 4946,
+          "Title": "Kategória:História"
+        },
+        {
+          "ID": 377971,
+          "Title": "Kategória:Politická represia"
+        },
+        {
+          "ID": 490896,
+          "Title": "Kategória:Politické udalosti"
+        },
+        {
+          "ID": 12788,
+          "Title": "Kategória:Revolúcie"
+        },
+        {
+          "ID": 30669,
+          "Title": "Kategória:Teroristické útoky"
+        },
+        {
           "ID": 243586,
           "Title": "Kategória:Udalosti"
         },
         {
+          "ID": 31257,
+          "Title": "Kategória:Vojna"
+        },
+        {
           "ID": 323664,
           "Title": "Kategória:Voľby podľa rokov"
-        },
-        {
-          "ID": 443088,
-          "Title": "Kategória:Humanitné vedy"
-        },
-        {
-          "ID": 474450,
-          "Title": "Kategória:Dejiny podľa miesta"
-        }
-      ],
-      "Articles": [
-        {
-          "ID": 11604,
-          "Title": "Trójska vojna"
-        },
-        {
-          "ID": 30578,
-          "Title": "Útoky z 11. septembra 2001"
-        },
-        {
-          "ID": 42416,
-          "Title": "História periodickej tabuľky"
-        },
-        {
-          "ID": 123107,
-          "Title": "Popieranie holokaustu"
-        },
-        {
-          "ID": 250229,
-          "Title": "Donald Trump"
-        },
-        {
-          "ID": 346983,
-          "Title": "Zemetrasenie a cunami v Tóhoku"
         }
       ]
     },
@@ -447,14 +425,6 @@
       "ID": 2147483641,
       "Title": "Mathematics and logic",
       "Categories": [
-        {
-          "ID": 1288,
-          "Title": "Kategória:Matematika"
-        },
-        {
-          "ID": 5863,
-          "Title": "Kategória:Štatistika"
-        },
         {
           "ID": 14366,
           "Title": "Kategória:Aplikovaná matematika"
@@ -464,18 +434,24 @@
           "Title": "Kategória:Logika"
         },
         {
-          "ID": 56978,
-          "Title": "Kategória:Teoretická počítačová veda"
+          "ID": 1288,
+          "Title": "Kategória:Matematika"
+        },
+        {
+          "ID": 20522,
+          "Title": "Kategória:Meracie jednotky"
         },
         {
           "ID": 244898,
           "Title": "Kategória:Pravdepodobnosť a štatistika"
-        }
-      ],
-      "Articles": [
+        },
         {
-          "ID": 92381,
-          "Title": "Dĺžka"
+          "ID": 56978,
+          "Title": "Kategória:Teoretická počítačová veda"
+        },
+        {
+          "ID": 5863,
+          "Title": "Kategória:Štatistika"
         }
       ]
     },
@@ -484,28 +460,8 @@
       "Title": "Nature and physical sciences",
       "Categories": [
         {
-          "ID": 4931,
-          "Title": "Kategória:Veda"
-        },
-        {
-          "ID": 4932,
-          "Title": "Kategória:Fyzika"
-        },
-        {
-          "ID": 4939,
-          "Title": "Kategória:Prírodné vedy"
-        },
-        {
-          "ID": 5335,
-          "Title": "Kategória:Chémia"
-        },
-        {
-          "ID": 5411,
-          "Title": "Kategória:Zoológia"
-        },
-        {
-          "ID": 5586,
-          "Title": "Kategória:Príroda"
+          "ID": 7653,
+          "Title": "Kategória:Anatómia"
         },
         {
           "ID": 7543,
@@ -516,182 +472,64 @@
           "Title": "Kategória:Chemické zlúčeniny"
         },
         {
-          "ID": 77801,
-          "Title": "Kategória:Katastrofy"
+          "ID": 5335,
+          "Title": "Kategória:Chémia"
+        },
+        {
+          "ID": 12803,
+          "Title": "Kategória:Ekológia"
         },
         {
           "ID": 198647,
           "Title": "Kategória:Environmentalistika"
         },
         {
-          "ID": 556620,
-          "Title": "Kategória:Znalosti"
-        }
-      ],
-      "Articles": [
-        {
-          "ID": 10686,
-          "Title": "Kukurica siata"
+          "ID": 4932,
+          "Title": "Kategória:Fyzika"
         },
         {
-          "ID": 13041,
-          "Title": "Pohybová sústava"
+          "ID": 77801,
+          "Title": "Kategória:Katastrofy"
         },
         {
-          "ID": 20123,
-          "Title": "Rozmnožovacia sústava"
+          "ID": 7021,
+          "Title": "Kategória:Ovocie"
         },
         {
-          "ID": 29129,
-          "Title": "Pšenica"
+          "ID": 47516,
+          "Title": "Kategória:Proteíny"
         },
         {
-          "ID": 35900,
-          "Title": "Suspenzia (chémia)"
+          "ID": 5586,
+          "Title": "Kategória:Príroda"
         },
         {
-          "ID": 39706,
-          "Title": "Moč"
+          "ID": 4939,
+          "Title": "Kategória:Prírodné vedy"
         },
         {
-          "ID": 46990,
-          "Title": "Sval"
+          "ID": 10708,
+          "Title": "Kategória:Rastliny"
         },
         {
-          "ID": 47034,
-          "Title": "Semenník (anatómia)"
+          "ID": 4931,
+          "Title": "Kategória:Veda"
         },
         {
-          "ID": 47037,
-          "Title": "Pohlavný úd"
+          "ID": 46812,
+          "Title": "Kategória:Zem"
         },
         {
-          "ID": 52144,
-          "Title": "Masturbácia"
+          "ID": 5411,
+          "Title": "Kategória:Zoológia"
         },
         {
-          "ID": 87308,
-          "Title": "Oheň"
+          "ID": 76654,
+          "Title": "Kategória:Život"
         },
         {
-          "ID": 94798,
-          "Title": "Hydrológia"
-        },
-        {
-          "ID": 102222,
-          "Title": "Močopohlavná sústava"
-        },
-        {
-          "ID": 111624,
-          "Title": "Kolobeh vody"
-        },
-        {
-          "ID": 118480,
-          "Title": "Ryža (potravina)"
-        },
-        {
-          "ID": 118508,
-          "Title": "Ryža (rod)"
-        },
-        {
-          "ID": 118510,
-          "Title": "Ryža siata"
-        },
-        {
-          "ID": 127576,
-          "Title": "Pomaranč"
-        },
-        {
-          "ID": 154778,
-          "Title": "Kapusta obyčajná karfiolová"
-        },
-        {
-          "ID": 167390,
-          "Title": "Los mokraďový"
-        },
-        {
-          "ID": 202147,
-          "Title": "Ananás pestovaný"
-        },
-        {
-          "ID": 221229,
-          "Title": "Jahoda obyčajná"
-        },
-        {
-          "ID": 230797,
-          "Title": "Tekvica veľkoplodá"
-        },
-        {
-          "ID": 262482,
-          "Title": "Rajčiak jedlý"
-        },
-        {
-          "ID": 267509,
-          "Title": "Potravový reťazec"
-        },
-        {
-          "ID": 271228,
-          "Title": "Ťava"
-        },
-        {
-          "ID": 284730,
-          "Title": "Mangovník"
-        },
-        {
-          "ID": 285416,
-          "Title": "Jahoda (rod)"
-        },
-        {
-          "ID": 302596,
-          "Title": "Phoenicopterus"
-        },
-        {
-          "ID": 307333,
-          "Title": "Garrulus"
-        },
-        {
-          "ID": 317579,
-          "Title": "Myrta"
-        },
-        {
-          "ID": 362676,
-          "Title": "Anakonda tmavá"
-        },
-        {
-          "ID": 372854,
-          "Title": "Veľké mačky"
-        },
-        {
-          "ID": 456514,
-          "Title": "Klások"
-        },
-        {
-          "ID": 457538,
-          "Title": "Pleva (gluma)"
-        },
-        {
-          "ID": 482545,
-          "Title": "Melón"
-        },
-        {
-          "ID": 489290,
-          "Title": "Mango"
-        },
-        {
-          "ID": 608771,
-          "Title": "Uhorka žltá"
-        },
-        {
-          "ID": 617774,
-          "Title": "Potravinový reťazec"
-        },
-        {
-          "ID": 626623,
-          "Title": "Tomatillo"
-        },
-        {
-          "ID": 628037,
-          "Title": "Citrónovník pravý"
+          "ID": 30592,
+          "Title": "Kategória:Živočíchy"
         }
       ]
     },
@@ -700,194 +538,120 @@
       "Title": "People and self",
       "Categories": [
         {
-          "ID": 38339,
-          "Title": "Kategória:Biografia"
+          "ID": 7001,
+          "Title": "Kategória:Architekti"
         },
         {
-          "ID": 48499,
-          "Title": "Kategória:Ľudia"
-        },
-        {
-          "ID": 65792,
-          "Title": "Kategória:Priezviská"
-        },
-        {
-          "ID": 76654,
-          "Title": "Kategória:Život"
+          "ID": 23568,
+          "Title": "Kategória:Fiktívne postavy"
         },
         {
           "ID": 155686,
           "Title": "Kategória:Filmové postavy"
         },
         {
-          "ID": 166917,
-          "Title": "Kategória:Každodenný život"
+          "ID": 2871,
+          "Title": "Kategória:Filmoví herci"
         },
         {
-          "ID": 187871,
-          "Title": "Kategória:Osobnosť"
+          "ID": 2537,
+          "Title": "Kategória:Filozofi"
+        },
+        {
+          "ID": 282664,
+          "Title": "Kategória:Generáli USA"
+        },
+        {
+          "ID": 6830,
+          "Title": "Kategória:Herci"
+        },
+        {
+          "ID": 127218,
+          "Title": "Kategória:Horolezci podľa štátu"
+        },
+        {
+          "ID": 8370,
+          "Title": "Kategória:Hudobníci"
+        },
+        {
+          "ID": 117212,
+          "Title": "Kategória:Lekári"
+        },
+        {
+          "ID": 66910,
+          "Title": "Kategória:Letci"
+        },
+        {
+          "ID": 2043,
+          "Title": "Kategória:Matematici"
+        },
+        {
+          "ID": 5529,
+          "Title": "Kategória:Narodenia podľa roka"
+        },
+        {
+          "ID": 5807,
+          "Title": "Kategória:Objavitelia"
+        },
+        {
+          "ID": 17383,
+          "Title": "Kategória:Osobnosti podľa činnosti"
+        },
+        {
+          "ID": 5905,
+          "Title": "Kategória:Politici"
+        },
+        {
+          "ID": 85170,
+          "Title": "Kategória:Politológovia"
+        },
+        {
+          "ID": 129121,
+          "Title": "Kategória:Prezidenti"
+        },
+        {
+          "ID": 19232,
+          "Title": "Kategória:Prezidenti podľa štátu"
+        },
+        {
+          "ID": 65792,
+          "Title": "Kategória:Priezviská"
+        },
+        {
+          "ID": 46745,
+          "Title": "Kategória:Revolucionári"
+        },
+        {
+          "ID": 5429,
+          "Title": "Kategória:Spisovatelia"
+        },
+        {
+          "ID": 62093,
+          "Title": "Kategória:Umelci"
+        },
+        {
+          "ID": 7884,
+          "Title": "Kategória:Vynálezcovia"
+        },
+        {
+          "ID": 574487,
+          "Title": "Kategória:Zdravotné sestry"
+        },
+        {
+          "ID": 5542,
+          "Title": "Kategória:Úmrtia podľa roka"
+        },
+        {
+          "ID": 48499,
+          "Title": "Kategória:Ľudia"
         },
         {
           "ID": 242896,
           "Title": "Kategória:Žena"
         },
         {
-          "ID": 264957,
-          "Title": "Kategória:Osobný život"
-        }
-      ],
-      "Articles": [
-        {
-          "ID": 904,
-          "Title": "Alan Turing"
-        },
-        {
-          "ID": 919,
-          "Title": "Tomáš Akvinský"
-        },
-        {
-          "ID": 1426,
-          "Title": "René Descartes"
-        },
-        {
-          "ID": 1670,
-          "Title": "Sigmund Freud"
-        },
-        {
-          "ID": 1683,
-          "Title": "Galileo Galilei"
-        },
-        {
-          "ID": 1746,
-          "Title": "Adolf Hitler"
-        },
-        {
-          "ID": 1765,
-          "Title": "Noam Avram Chomsky"
-        },
-        {
-          "ID": 1891,
-          "Title": "Charles Babbage"
-        },
-        {
-          "ID": 2290,
-          "Title": "Leonardo Pisano Fibonacci"
-        },
-        {
-          "ID": 2345,
-          "Title": "Adam Smith"
-        },
-        {
-          "ID": 5801,
-          "Title": "Krištof Kolumbus"
-        },
-        {
-          "ID": 6146,
-          "Title": "Johannes Kepler"
-        },
-        {
-          "ID": 9451,
-          "Title": "Richard Wagner"
-        },
-        {
-          "ID": 10135,
-          "Title": "Bill Gates"
-        },
-        {
-          "ID": 15173,
-          "Title": "John Lennon"
-        },
-        {
-          "ID": 23617,
-          "Title": "Ayn Randová"
-        },
-        {
-          "ID": 40552,
-          "Title": "Carl Friedrich Gauß"
-        },
-        {
-          "ID": 40814,
-          "Title": "Carl Sagan"
-        },
-        {
-          "ID": 48529,
-          "Title": "Joseph Smith"
-        },
-        {
-          "ID": 48994,
-          "Title": "Florence Nightingalová"
-        },
-        {
-          "ID": 52546,
-          "Title": "William Blake"
-        },
-        {
-          "ID": 60795,
-          "Title": "Alexander Fleming"
-        },
-        {
-          "ID": 80274,
-          "Title": "Richard Dawkins"
-        },
-        {
-          "ID": 111486,
-          "Title": "Oliver Cromwell"
-        },
-        {
-          "ID": 131638,
-          "Title": "Elton John"
-        },
-        {
-          "ID": 163551,
-          "Title": "George Harrison"
-        },
-        {
-          "ID": 163675,
-          "Title": "Srínivása Ajjangár Rámánudžan"
-        },
-        {
-          "ID": 184604,
-          "Title": "Daniel Radcliffe"
-        },
-        {
-          "ID": 186939,
-          "Title": "Harry Houdini"
-        },
-        {
-          "ID": 239025,
-          "Title": "Teória veľkého tresku (seriál)"
-        },
-        {
-          "ID": 251796,
-          "Title": "Irving Langmuir"
-        },
-        {
-          "ID": 291067,
-          "Title": "Theodor Schwann"
-        },
-        {
-          "ID": 296119,
-          "Title": "Súmrak (Meyerová)"
-        },
-        {
-          "ID": 302747,
-          "Title": "Lewis Carroll"
-        },
-        {
-          "ID": 376166,
-          "Title": "Big Show"
-        },
-        {
-          "ID": 491065,
-          "Title": "Cory Monteith"
-        },
-        {
-          "ID": 530389,
-          "Title": "Sheldon Cooper"
-        },
-        {
-          "ID": 568223,
-          "Title": "Ted Cruz"
+          "ID": 316855,
+          "Title": "Kategória:Žijúci ľudia"
         }
       ]
     },
@@ -896,66 +660,52 @@
       "Title": "Philosophy and thinking",
       "Categories": [
         {
-          "ID": 1008,
-          "Title": "Kategória:Filozofia"
-        },
-        {
           "ID": 12669,
           "Title": "Kategória:Etika"
         },
         {
-          "ID": 15896,
-          "Title": "Kategória:Vetvy filozofie"
+          "ID": 1008,
+          "Title": "Kategória:Filozofia"
         },
         {
-          "ID": 61388,
-          "Title": "Kategória:Politické teórie"
-        },
-        {
-          "ID": 123261,
-          "Title": "Kategória:Filozofické školy"
-        },
-        {
-          "ID": 125485,
-          "Title": "Kategória:Myslenie"
+          "ID": 137548,
+          "Title": "Kategória:Filozofické pojmy"
         },
         {
           "ID": 217237,
           "Title": "Kategória:Filozofické teórie"
         },
         {
+          "ID": 123261,
+          "Title": "Kategória:Filozofické školy"
+        },
+        {
           "ID": 362558,
           "Title": "Kategória:Ideológie"
-        }
-      ],
-      "Articles": [
-        {
-          "ID": 93200,
-          "Title": "Fakt"
         },
         {
-          "ID": 95714,
-          "Title": "Krása"
+          "ID": 290616,
+          "Title": "Kategória:Metafilozofia"
         },
         {
-          "ID": 101723,
-          "Title": "Šťastie (pocit)"
+          "ID": 63118,
+          "Title": "Kategória:Metafyzika"
         },
         {
-          "ID": 103201,
-          "Title": "Viera (náboženstvo)"
+          "ID": 125485,
+          "Title": "Kategória:Myslenie"
         },
         {
-          "ID": 161910,
-          "Title": "Hit"
+          "ID": 61388,
+          "Title": "Kategória:Politické teórie"
         },
         {
-          "ID": 266334,
-          "Title": "Dôvera"
+          "ID": 326264,
+          "Title": "Kategória:Realita"
         },
         {
-          "ID": 386686,
-          "Title": "Dunningov-Krugerov efekt"
+          "ID": 15896,
+          "Title": "Kategória:Vetvy filozofie"
         }
       ]
     },
@@ -964,20 +714,20 @@
       "Title": "Religion and belief systems",
       "Categories": [
         {
-          "ID": 23113,
-          "Title": "Kategória:Náboženstvo"
-        },
-        {
-          "ID": 23241,
-          "Title": "Kategória:Teológia"
-        },
-        {
           "ID": 106818,
           "Title": "Kategória:Indické náboženstvá"
         },
         {
           "ID": 195637,
           "Title": "Kategória:Náboženské smery"
+        },
+        {
+          "ID": 23113,
+          "Title": "Kategória:Náboženstvo"
+        },
+        {
+          "ID": 23241,
+          "Title": "Kategória:Teológia"
         },
         {
           "ID": 331047,
@@ -990,218 +740,112 @@
       "Title": "Society and social sciences",
       "Categories": [
         {
-          "ID": 7885,
-          "Title": "Kategória:Spoločenské vedy"
+          "ID": 42246,
+          "Title": "Kategória:Feminizmus"
+        },
+        {
+          "ID": 12228,
+          "Title": "Kategória:Financie"
+        },
+        {
+          "ID": 130622,
+          "Title": "Kategória:Geopolitika"
+        },
+        {
+          "ID": 443088,
+          "Title": "Kategória:Humanitné vedy"
+        },
+        {
+          "ID": 61302,
+          "Title": "Kategória:Inštitúcie"
+        },
+        {
+          "ID": 7053,
+          "Title": "Kategória:Letecké spoločnosti"
+        },
+        {
+          "ID": 30287,
+          "Title": "Kategória:Marketing"
         },
         {
           "ID": 8123,
           "Title": "Kategória:Medzinárodné organizácie"
         },
         {
-          "ID": 10202,
-          "Title": "Kategória:Právo"
+          "ID": 52734,
+          "Title": "Kategória:Mena"
         },
         {
-          "ID": 42246,
-          "Title": "Kategória:Feminizmus"
+          "ID": 115362,
+          "Title": "Kategória:Mince"
         },
         {
-          "ID": 61384,
-          "Title": "Kategória:Spoločnosť"
+          "ID": 52733,
+          "Title": "Kategória:Oficiálne meny"
         },
         {
-          "ID": 136274,
-          "Title": "Kategória:Vysoké školy podľa štátu"
+          "ID": 8124,
+          "Title": "Kategória:Organizácie"
+        },
+        {
+          "ID": 187871,
+          "Title": "Kategória:Osobnosť"
+        },
+        {
+          "ID": 61172,
+          "Title": "Kategória:Peniaze"
+        },
+        {
+          "ID": 32970,
+          "Title": "Kategória:Podniky"
         },
         {
           "ID": 440124,
           "Title": "Kategória:Právne predpisy"
         },
         {
-          "ID": 443088,
-          "Title": "Kategória:Humanitné vedy"
-        }
-      ],
-      "Articles": [
-        {
-          "ID": 2661,
-          "Title": "Európska únia"
+          "ID": 10202,
+          "Title": "Kategória:Právo"
         },
         {
-          "ID": 3953,
-          "Title": "Barbados"
+          "ID": 4955,
+          "Title": "Kategória:Psychológia"
         },
         {
-          "ID": 3970,
-          "Title": "Čile"
+          "ID": 7885,
+          "Title": "Kategória:Spoločenské vedy"
         },
         {
-          "ID": 4002,
-          "Title": "Irán"
+          "ID": 61384,
+          "Title": "Kategória:Spoločnosť"
         },
         {
-          "ID": 89646,
-          "Title": "Hebrejská jeruzalemská univerzita"
+          "ID": 255189,
+          "Title": "Kategória:Tresty"
         },
         {
-          "ID": 91348,
-          "Title": "Bolonská univerzita"
+          "ID": 5228,
+          "Title": "Kategória:Vlajky štátov"
         },
         {
-          "ID": 94050,
-          "Title": "Harvard University"
+          "ID": 12575,
+          "Title": "Kategória:Vláda"
         },
         {
-          "ID": 98054,
-          "Title": "Padovská univerzita"
+          "ID": 524373,
+          "Title": "Kategória:Vládne inštitúcie"
         },
         {
-          "ID": 98895,
-          "Title": "University of Oxford"
+          "ID": 136274,
+          "Title": "Kategória:Vysoké školy podľa štátu"
         },
         {
-          "ID": 104003,
-          "Title": "Parížska univerzita"
+          "ID": 447393,
+          "Title": "Kategória:Vzdelávanie podľa štátu"
         },
         {
-          "ID": 123766,
-          "Title": "Tókjó daigaku"
-        },
-        {
-          "ID": 127310,
-          "Title": "Letný čas"
-        },
-        {
-          "ID": 152319,
-          "Title": "Vlajka Austrálie"
-        },
-        {
-          "ID": 164971,
-          "Title": "Viedenská univerzita"
-        },
-        {
-          "ID": 174013,
-          "Title": "The New York Times"
-        },
-        {
-          "ID": 174094,
-          "Title": "Massachusetts Institute of Technology"
-        },
-        {
-          "ID": 185479,
-          "Title": "Uniwersytet Wrocławski"
-        },
-        {
-          "ID": 195069,
-          "Title": "Moskovskij gosudarstvennyj universitet imeni M. V. Lomonosova"
-        },
-        {
-          "ID": 201752,
-          "Title": "University of Cambridge"
-        },
-        {
-          "ID": 205456,
-          "Title": "Prohibícia"
-        },
-        {
-          "ID": 220827,
-          "Title": "Čínsky nový rok"
-        },
-        {
-          "ID": 260731,
-          "Title": "Starbucks"
-        },
-        {
-          "ID": 261356,
-          "Title": "Program Spojených národov pre životné prostredie"
-        },
-        {
-          "ID": 264456,
-          "Title": "Princeton University"
-        },
-        {
-          "ID": 269843,
-          "Title": "Columbia University in the City of New York"
-        },
-        {
-          "ID": 285129,
-          "Title": "Stanford University"
-        },
-        {
-          "ID": 314449,
-          "Title": "Mikronárod"
-        },
-        {
-          "ID": 316696,
-          "Title": "American Airlines"
-        },
-        {
-          "ID": 318767,
-          "Title": "BP (ropný podnik)"
-        },
-        {
-          "ID": 322734,
-          "Title": "The University of Texas at Austin"
-        },
-        {
-          "ID": 436305,
-          "Title": "The Imperial College of Science, Technology and Medicine"
-        },
-        {
-          "ID": 455663,
-          "Title": "University of Chicago"
-        },
-        {
-          "ID": 464608,
-          "Title": "Uppsala universitet"
-        },
-        {
-          "ID": 481351,
-          "Title": "Eberhard Karls Universität Tübingen"
-        },
-        {
-          "ID": 484791,
-          "Title": "Sociálna práca"
-        },
-        {
-          "ID": 486706,
-          "Title": "University of St Andrews"
-        },
-        {
-          "ID": 506800,
-          "Title": "University of Reading"
-        },
-        {
-          "ID": 530431,
-          "Title": "Ľvovská univerzita"
-        },
-        {
-          "ID": 550418,
-          "Title": "University of Aberdeen"
-        },
-        {
-          "ID": 560324,
-          "Title": "Tretia svetová vojna"
-        },
-        {
-          "ID": 562256,
-          "Title": "Indiana University Bloomington"
-        },
-        {
-          "ID": 584232,
-          "Title": "University of Southern California"
-        },
-        {
-          "ID": 594429,
-          "Title": "Teroristický útok v Londýne 22. marca 2017"
-        },
-        {
-          "ID": 619544,
-          "Title": "Albert-Ludwigs-Universität Freiburg"
-        },
-        {
-          "ID": 627274,
-          "Title": "Ohio State University"
+          "ID": 297447,
+          "Title": "Kategória:Úrady"
         }
       ]
     },
@@ -1210,110 +854,156 @@
       "Title": "Technology and applied sciences",
       "Categories": [
         {
-          "ID": 4398,
-          "Title": "Kategória:Informatika"
-        },
-        {
-          "ID": 5491,
-          "Title": "Kategória:Doprava"
-        },
-        {
-          "ID": 6477,
-          "Title": "Kategória:Technika"
-        },
-        {
-          "ID": 7160,
-          "Title": "Kategória:Internet"
-        },
-        {
           "ID": 12273,
           "Title": "Kategória:Aplikované vedy"
-        },
-        {
-          "ID": 15132,
-          "Title": "Kategória:Vojenská technika"
-        },
-        {
-          "ID": 35132,
-          "Title": "Kategória:Elektronika"
-        },
-        {
-          "ID": 35624,
-          "Title": "Kategória:Dizajn"
         },
         {
           "ID": 44481,
           "Title": "Kategória:Databázy"
         },
         {
-          "ID": 81905,
-          "Title": "Kategória:Technológie"
+          "ID": 35624,
+          "Title": "Kategória:Dizajn"
         },
         {
-          "ID": 104146,
-          "Title": "Kategória:Dejiny techniky"
+          "ID": 89080,
+          "Title": "Kategória:Domáce elektrospotrebiče"
         },
         {
-          "ID": 108670,
-          "Title": "Kategória:Výpočtová technika"
+          "ID": 5491,
+          "Title": "Kategória:Doprava"
         },
         {
-          "ID": 158038,
-          "Title": "Kategória:Počítače"
+          "ID": 35132,
+          "Title": "Kategória:Elektronika"
+        },
+        {
+          "ID": 58520,
+          "Title": "Kategória:Herné konzoly"
+        },
+        {
+          "ID": 4398,
+          "Title": "Kategória:Informatika"
+        },
+        {
+          "ID": 361906,
+          "Title": "Kategória:Informačné technológie"
+        },
+        {
+          "ID": 7160,
+          "Title": "Kategória:Internet"
         },
         {
           "ID": 233377,
           "Title": "Kategória:Inžinierstvo"
         },
         {
+          "ID": 65412,
+          "Title": "Kategória:Konštrukcia"
+        },
+        {
+          "ID": 337038,
+          "Title": "Kategória:Kuchynské nástroje"
+        },
+        {
+          "ID": 582294,
+          "Title": "Kategória:Mobilné aplikácie"
+        },
+        {
+          "ID": 65411,
+          "Title": "Kategória:Nástroje"
+        },
+        {
+          "ID": 61143,
+          "Title": "Kategória:Obrábanie dreva"
+        },
+        {
+          "ID": 158038,
+          "Title": "Kategória:Počítače"
+        },
+        {
+          "ID": 19749,
+          "Title": "Kategória:Programovanie"
+        },
+        {
+          "ID": 334925,
+          "Title": "Kategória:Riad"
+        },
+        {
           "ID": 355401,
           "Title": "Kategória:Riadenie dát"
+        },
+        {
+          "ID": 448223,
+          "Title": "Kategória:Ručné náradie"
+        },
+        {
+          "ID": 11276,
+          "Title": "Kategória:Softvér"
+        },
+        {
+          "ID": 166915,
+          "Title": "Kategória:Spracovanie dreva"
+        },
+        {
+          "ID": 35428,
+          "Title": "Kategória:Stavebníctvo"
+        },
+        {
+          "ID": 61144,
+          "Title": "Kategória:Stroje"
+        },
+        {
+          "ID": 6478,
+          "Title": "Kategória:Strojárstvo"
+        },
+        {
+          "ID": 6477,
+          "Title": "Kategória:Technika"
+        },
+        {
+          "ID": 81905,
+          "Title": "Kategória:Technológie"
+        },
+        {
+          "ID": 629945,
+          "Title": "Kategória:Technológie podľa typu"
+        },
+        {
+          "ID": 8533,
+          "Title": "Kategória:Tlač"
+        },
+        {
+          "ID": 323254,
+          "Title": "Kategória:Tlačové techniky"
+        },
+        {
+          "ID": 15132,
+          "Title": "Kategória:Vojenská technika"
         },
         {
           "ID": 504920,
           "Title": "Kategória:Vojenské vybavenie"
         },
         {
-          "ID": 582294,
-          "Title": "Kategória:Mobilné aplikácie"
-        }
-      ],
-      "Articles": [
-        {
-          "ID": 88485,
-          "Title": "Zváranie"
+          "ID": 383897,
+          "Title": "Kategória:Vybavenie"
         },
         {
-          "ID": 101132,
-          "Title": "Stena"
-        },
-        {
-          "ID": 151922,
-          "Title": "Doména najvyššej úrovne"
-        },
-        {
-          "ID": 204335,
-          "Title": "Pepsi Cola"
-        },
-        {
-          "ID": 315631,
-          "Title": "Žuvačka"
-        },
-        {
-          "ID": 356666,
-          "Title": ".xxx"
+          "ID": 12462,
+          "Title": "Kategória:Štandardy"
         }
       ]
     }
   ],
   "Filters": [
     {
-      "ID": 202700,
-      "Title": "Kategória:Skryté kategórie"
-    },
-    {
       "ID": 306975,
       "Title": "Kategória:Rozlišovacie stránky"
+    },
+    {
+      "ID": 202700,
+      "Title": "Kategória:Skryté kategórie"
     }
   ]
 }

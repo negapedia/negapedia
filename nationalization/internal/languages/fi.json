@@ -6,60 +6,152 @@
       "Title": "Culture and the arts",
       "Categories": [
         {
-          "ID": 18692,
-          "Title": "Luokka:Urheilu"
+          "ID": 26739,
+          "Title": "Luokka:Aikakauslehdet"
+        },
+        {
+          "ID": 1294219,
+          "Title": "Luokka:Elektroniset pelit"
         },
         {
           "ID": 18761,
           "Title": "Luokka:Elokuvat"
         },
         {
-          "ID": 20666,
-          "Title": "Luokka:Taide"
+          "ID": 273018,
+          "Title": "Luokka:Elämäkerrat ja muistelmat"
         },
         {
-          "ID": 20667,
-          "Title": "Luokka:Kulttuuri"
+          "ID": 700898,
+          "Title": "Luokka:Esittävät taiteet"
         },
         {
-          "ID": 21082,
-          "Title": "Luokka:Värit"
+          "ID": 1385992,
+          "Title": "Luokka:Hakuteokset"
         },
         {
           "ID": 21513,
           "Title": "Luokka:Harrastukset"
         },
         {
-          "ID": 23298,
-          "Title": "Luokka:Ruoka"
+          "ID": 222961,
+          "Title": "Luokka:Internet-kulttuuri"
         },
         {
-          "ID": 24388,
-          "Title": "Luokka:Vapaa-aika"
+          "ID": 106169,
+          "Title": "Luokka:Jouluruoat"
         },
         {
-          "ID": 25173,
-          "Title": "Luokka:Liikunta"
+          "ID": 74541,
+          "Title": "Luokka:Kansanperinne"
         },
         {
-          "ID": 25308,
-          "Title": "Luokka:Ravinto-oppi"
+          "ID": 26702,
+          "Title": "Luokka:Kausijulkaisut"
         },
         {
-          "ID": 26791,
-          "Title": "Luokka:Yhtyeet"
+          "ID": 34360,
+          "Title": "Luokka:Kilpailut"
+        },
+        {
+          "ID": 18969,
+          "Title": "Luokka:Kirjallisuus"
+        },
+        {
+          "ID": 18807,
+          "Title": "Luokka:Kirjat"
+        },
+        {
+          "ID": 307633,
+          "Title": "Luokka:Kirjat kirjailijoittain"
         },
         {
           "ID": 26803,
           "Title": "Luokka:Kirjoitus"
         },
         {
-          "ID": 27898,
-          "Title": "Luokka:Viihde"
+          "ID": 24930,
+          "Title": "Luokka:Koulutus"
         },
         {
-          "ID": 37404,
-          "Title": "Luokka:Ruokalajit"
+          "ID": 20667,
+          "Title": "Luokka:Kulttuuri"
+        },
+        {
+          "ID": 187037,
+          "Title": "Luokka:Kulttuuri alueittain"
+        },
+        {
+          "ID": 32459,
+          "Title": "Luokka:Kulttuurit"
+        },
+        {
+          "ID": 247087,
+          "Title": "Luokka:Kuvitteelliset paikat"
+        },
+        {
+          "ID": 28042,
+          "Title": "Luokka:Käytös- ja tapatieto"
+        },
+        {
+          "ID": 30918,
+          "Title": "Luokka:Lautapelit"
+        },
+        {
+          "ID": 40565,
+          "Title": "Luokka:Lehdistö"
+        },
+        {
+          "ID": 25173,
+          "Title": "Luokka:Liikunta"
+        },
+        {
+          "ID": 40384,
+          "Title": "Luokka:Maalaukset"
+        },
+        {
+          "ID": 19506,
+          "Title": "Luokka:Musiikki"
+        },
+        {
+          "ID": 403129,
+          "Title": "Luokka:Musiikkiteokset"
+        },
+        {
+          "ID": 260703,
+          "Title": "Luokka:Musiikkityylit"
+        },
+        {
+          "ID": 46627,
+          "Title": "Luokka:Noituus"
+        },
+        {
+          "ID": 27067,
+          "Title": "Luokka:Opetus"
+        },
+        {
+          "ID": 26816,
+          "Title": "Luokka:Paini"
+        },
+        {
+          "ID": 31389,
+          "Title": "Luokka:Populaarikulttuuri"
+        },
+        {
+          "ID": 27697,
+          "Title": "Luokka:Radioasemat"
+        },
+        {
+          "ID": 25308,
+          "Title": "Luokka:Ravinto-oppi"
+        },
+        {
+          "ID": 210636,
+          "Title": "Luokka:Ruoanlaittotekniikat"
+        },
+        {
+          "ID": 23298,
+          "Title": "Luokka:Ruoka"
         },
         {
           "ID": 210619,
@@ -70,410 +162,100 @@
           "Title": "Luokka:Ruokakulttuuri"
         },
         {
-          "ID": 210636,
-          "Title": "Luokka:Ruoanlaittotekniikat"
+          "ID": 37404,
+          "Title": "Luokka:Ruokalajit"
+        },
+        {
+          "ID": 22926,
+          "Title": "Luokka:Sanomalehdet"
+        },
+        {
+          "ID": 279073,
+          "Title": "Luokka:Seksuaalinen toiminta"
+        },
+        {
+          "ID": 18158,
+          "Title": "Luokka:Seksuaalisuus"
+        },
+        {
+          "ID": 217315,
+          "Title": "Luokka:Sekularismi"
+        },
+        {
+          "ID": 160426,
+          "Title": "Luokka:Showpaini"
+        },
+        {
+          "ID": 32536,
+          "Title": "Luokka:Sukupuoli"
+        },
+        {
+          "ID": 20666,
+          "Title": "Luokka:Taide"
+        },
+        {
+          "ID": 65595,
+          "Title": "Luokka:Taidemusiikin muodot"
+        },
+        {
+          "ID": 188524,
+          "Title": "Luokka:Taikuus"
+        },
+        {
+          "ID": 1142252,
+          "Title": "Luokka:Taistelulajit"
+        },
+        {
+          "ID": 25249,
+          "Title": "Luokka:Televisio"
+        },
+        {
+          "ID": 1294393,
+          "Title": "Luokka:Teokset tekijöittäin"
+        },
+        {
+          "ID": 504870,
+          "Title": "Luokka:Tieto"
+        },
+        {
+          "ID": 307737,
+          "Title": "Luokka:Tietosanakirjat"
+        },
+        {
+          "ID": 18692,
+          "Title": "Luokka:Urheilu"
         },
         {
           "ID": 965253,
           "Title": "Luokka:Urheilulajit"
         },
         {
+          "ID": 24388,
+          "Title": "Luokka:Vapaa-aika"
+        },
+        {
+          "ID": 839380,
+          "Title": "Luokka:Videopelit"
+        },
+        {
+          "ID": 27898,
+          "Title": "Luokka:Viihde"
+        },
+        {
           "ID": 1277298,
           "Title": "Luokka:Virkistys"
-        }
-      ],
-      "Articles": [
-        {
-          "ID": 1259,
-          "Title": "Tietosanakirja"
-        },
-        {
-          "ID": 5552,
-          "Title": "Buckinghamin palatsi"
-        },
-        {
-          "ID": 5557,
-          "Title": "Villisika"
-        },
-        {
-          "ID": 7379,
-          "Title": "Tylypahka"
-        },
-        {
-          "ID": 8030,
-          "Title": "Kahvi"
-        },
-        {
-          "ID": 9304,
-          "Title": "Arabiankahvi"
-        },
-        {
-          "ID": 9347,
-          "Title": "Olut"
-        },
-        {
-          "ID": 12905,
-          "Title": "Leipä"
-        },
-        {
-          "ID": 14265,
-          "Title": "Suuseksi"
-        },
-        {
-          "ID": 15661,
-          "Title": "Pilsner"
-        },
-        {
-          "ID": 15941,
-          "Title": "Sika"
-        },
-        {
-          "ID": 17555,
-          "Title": "Led Zeppelin"
-        },
-        {
-          "ID": 24456,
-          "Title": "Kummitus"
-        },
-        {
-          "ID": 24553,
-          "Title": "Suklaa"
-        },
-        {
-          "ID": 25243,
-          "Title": "Yhtye"
-        },
-        {
-          "ID": 27529,
-          "Title": "Realismi (taide)"
-        },
-        {
-          "ID": 28133,
-          "Title": "Green Day"
-        },
-        {
-          "ID": 30001,
-          "Title": "Jäätelö"
-        },
-        {
-          "ID": 30522,
-          "Title": "Selibaatti"
-        },
-        {
-          "ID": 31395,
-          "Title": "Loch Nessin hirviö"
-        },
-        {
-          "ID": 32879,
-          "Title": "AC/DC"
-        },
-        {
-          "ID": 34047,
-          "Title": "Pasta"
-        },
-        {
-          "ID": 34049,
-          "Title": "Muna"
-        },
-        {
-          "ID": 53981,
-          "Title": "Mordred"
-        },
-        {
-          "ID": 63195,
-          "Title": "Sgt. Pepper’s Lonely Hearts Club Band"
-        },
-        {
-          "ID": 68404,
-          "Title": "Pekoni"
-        },
-        {
-          "ID": 69453,
-          "Title": "Korppu"
-        },
-        {
-          "ID": 100329,
-          "Title": "Kakku"
-        },
-        {
-          "ID": 105493,
-          "Title": "Kinkku"
-        },
-        {
-          "ID": 106975,
-          "Title": "Isojalka"
-        },
-        {
-          "ID": 114191,
-          "Title": "Kaakaopuu"
-        },
-        {
-          "ID": 136080,
-          "Title": "Keksi"
-        },
-        {
-          "ID": 154734,
-          "Title": "Jauheliha"
-        },
-        {
-          "ID": 158721,
-          "Title": "Nakkisämpylä"
-        },
-        {
-          "ID": 158845,
-          "Title": "Street dance"
-        },
-        {
-          "ID": 171587,
-          "Title": "Bière de Garde"
-        },
-        {
-          "ID": 200854,
-          "Title": "Reki"
-        },
-        {
-          "ID": 219571,
-          "Title": "Valkoinen suklaa"
-        },
-        {
-          "ID": 219812,
-          "Title": "Aqua"
-        },
-        {
-          "ID": 221768,
-          "Title": "Ash Ketchum"
-        },
-        {
-          "ID": 224592,
-          "Title": "Realismi"
-        },
-        {
-          "ID": 228082,
-          "Title": "Todellisuus"
-        },
-        {
-          "ID": 233833,
-          "Title": "Kastike"
-        },
-        {
-          "ID": 285937,
-          "Title": "Taco"
-        },
-        {
-          "ID": 309554,
-          "Title": "Sianliha"
-        },
-        {
-          "ID": 334363,
-          "Title": "Ranskalainen keittiö"
-        },
-        {
-          "ID": 335882,
-          "Title": "The World Factbook"
-        },
-        {
-          "ID": 337621,
-          "Title": "Taikinajuuri"
-        },
-        {
-          "ID": 354421,
-          "Title": "Dinosaur Jr."
-        },
-        {
-          "ID": 361939,
-          "Title": "Realismi (ontologia)"
-        },
-        {
-          "ID": 372158,
-          "Title": "Wikipedia"
-        },
-        {
-          "ID": 394426,
-          "Title": "Hakuteos"
-        },
-        {
-          "ID": 407764,
-          "Title": "Pecorino"
-        },
-        {
-          "ID": 411069,
-          "Title": "Suklaapatukka"
-        },
-        {
-          "ID": 427381,
-          "Title": "Rock Band"
-        },
-        {
-          "ID": 499137,
-          "Title": "WWE Championship"
-        },
-        {
-          "ID": 501393,
-          "Title": "Piirakka"
-        },
-        {
-          "ID": 530582,
-          "Title": "Harry Potter -sarjan taikaolennot"
-        },
-        {
-          "ID": 531767,
-          "Title": "M\u0026M’s"
-        },
-        {
-          "ID": 604097,
-          "Title": "Maapähkinävoi"
-        },
-        {
-          "ID": 612959,
-          "Title": "Keitetty muna"
-        },
-        {
-          "ID": 626309,
-          "Title": "Groundhog Day"
-        },
-        {
-          "ID": 637818,
-          "Title": "Salo (ruoka)"
-        },
-        {
-          "ID": 642586,
-          "Title": "Harry Potter -sarjan tapahtumapaikat"
-        },
-        {
-          "ID": 655559,
-          "Title": "Bejeweled"
-        },
-        {
-          "ID": 656813,
-          "Title": "Bejeweled 2"
-        },
-        {
-          "ID": 673561,
-          "Title": "Ginger ale"
-        },
-        {
-          "ID": 702127,
-          "Title": "Laivakorppu"
-        },
-        {
-          "ID": 705938,
-          "Title": "Pizza"
-        },
-        {
-          "ID": 776229,
-          "Title": "Realismi (kirjallisuus)"
-        },
-        {
-          "ID": 827787,
-          "Title": "Carbonara"
-        },
-        {
-          "ID": 841228,
-          "Title": "Kaakaojuoma"
-        },
-        {
-          "ID": 858727,
-          "Title": "Torttu"
-        },
-        {
-          "ID": 865987,
-          "Title": "Angry Birds (videopeli)"
-        },
-        {
-          "ID": 897557,
-          "Title": "Roti"
-        },
-        {
-          "ID": 922866,
-          "Title": "Angry Birds Seasons"
-        },
-        {
-          "ID": 922867,
-          "Title": "Angry Birds Rio"
-        },
-        {
-          "ID": 925262,
-          "Title": "Judas (Lady Gagan kappale)"
-        },
-        {
-          "ID": 930153,
-          "Title": "Sucker Punch (vuoden 2011 elokuva)"
-        },
-        {
-          "ID": 969188,
-          "Title": "Giuditta Pasta"
-        },
-        {
-          "ID": 970625,
-          "Title": "The Wanted"
-        },
-        {
-          "ID": 1006998,
-          "Title": "Siat (suku)"
-        },
-        {
-          "ID": 1016286,
-          "Title": "Kahvipensaat"
-        },
-        {
-          "ID": 1030805,
-          "Title": "Huutokaupan metsästäjät"
-        },
-        {
-          "ID": 1054143,
-          "Title": "Breakthrough"
-        },
-        {
-          "ID": 1055323,
-          "Title": "Jab Tak Hai Jaan"
-        },
-        {
-          "ID": 1113612,
-          "Title": "Enthiran"
-        },
-        {
-          "ID": 1150948,
-          "Title": "Flappy Bird"
-        },
-        {
-          "ID": 1218091,
-          "Title": "PK (elokuva)"
-        },
-        {
-          "ID": 1307966,
-          "Title": "Raakasuklaa"
-        },
-        {
-          "ID": 1311224,
-          "Title": "Alfabeto"
-        },
-        {
-          "ID": 1325262,
-          "Title": "Eurovision laulukilpailu 2017"
-        },
-        {
-          "ID": 1332321,
-          "Title": "Onnenkeksi"
-        },
-        {
-          "ID": 1364827,
-          "Title": "Ohutleipä"
-        },
-        {
-          "ID": 1370378,
-          "Title": "Eurovision laulukilpailu 2018"
         },
         {
-          "ID": 1377797,
-          "Title": "Rock Band (pelisarja)"
+          "ID": 401406,
+          "Title": "Luokka:Virtuaaliyhteisöt"
         },
         {
-          "ID": 1453971,
-          "Title": "Kana tikka masala"
+          "ID": 21082,
+          "Title": "Luokka:Värit"
         },
         {
-          "ID": 1482355,
-          "Title": "Luettelo Italian nimisuojatuista juustoista"
+          "ID": 26791,
+          "Title": "Luokka:Yhtyeet"
         }
       ]
     },
@@ -482,12 +264,24 @@
       "Title": "Geography and places",
       "Categories": [
         {
-          "ID": 20136,
-          "Title": "Luokka:Maantiede"
+          "ID": 1119827,
+          "Title": "Luokka:Asutut paikat"
         },
         {
           "ID": 68922,
           "Title": "Luokka:Geomorfologia"
+        },
+        {
+          "ID": 23380,
+          "Title": "Luokka:Joet"
+        },
+        {
+          "ID": 75263,
+          "Title": "Luokka:Kadut"
+        },
+        {
+          "ID": 20192,
+          "Title": "Luokka:Kaupungit"
         },
         {
           "ID": 78900,
@@ -498,46 +292,28 @@
           "Title": "Luokka:Luettelot maantieteestä"
         },
         {
-          "ID": 693751,
-          "Title": "Luokka:Aluepolitiikka"
+          "ID": 861213,
+          "Title": "Luokka:Lähteet"
+        },
+        {
+          "ID": 20136,
+          "Title": "Luokka:Maantiede"
         },
         {
           "ID": 953436,
           "Title": "Luokka:Muistomerkit"
-        }
-      ],
-      "Articles": [
-        {
-          "ID": 85,
-          "Title": "Australia"
         },
         {
-          "ID": 381,
-          "Title": "Ihminen"
+          "ID": 40729,
+          "Title": "Luokka:Palatsit"
         },
         {
-          "ID": 960,
-          "Title": "Pariisi"
+          "ID": 19812,
+          "Title": "Luokka:Tiet"
         },
         {
-          "ID": 11727,
-          "Title": "Myanmar"
-        },
-        {
-          "ID": 14340,
-          "Title": "Canberra"
-        },
-        {
-          "ID": 30040,
-          "Title": "Venetsia"
-        },
-        {
-          "ID": 33574,
-          "Title": "Pyramidi"
-        },
-        {
-          "ID": 44089,
-          "Title": "Queensland"
+          "ID": 28062,
+          "Title": "Luokka:Valtiot"
         }
       ]
     },
@@ -546,20 +322,32 @@
       "Title": "Health and fitness",
       "Categories": [
         {
+          "ID": 40378,
+          "Title": "Luokka:Hygienia"
+        },
+        {
+          "ID": 897923,
+          "Title": "Luokka:Ihmisen anatomia"
+        },
+        {
           "ID": 19814,
           "Title": "Luokka:Lääketiede"
+        },
+        {
+          "ID": 645775,
+          "Title": "Luokka:Lääketieteen erikoisalat"
+        },
+        {
+          "ID": 59309,
+          "Title": "Luokka:Perinnölliset sairaudet"
         },
         {
           "ID": 25163,
           "Title": "Luokka:Terveydenhoito"
         },
         {
-          "ID": 40378,
-          "Title": "Luokka:Hygienia"
-        },
-        {
-          "ID": 59309,
-          "Title": "Luokka:Perinnölliset sairaudet"
+          "ID": 223292,
+          "Title": "Luokka:Terveydenhuollon ammatit"
         },
         {
           "ID": 209689,
@@ -568,20 +356,6 @@
         {
           "ID": 209747,
           "Title": "Luokka:Terveystieteet"
-        },
-        {
-          "ID": 223292,
-          "Title": "Luokka:Terveydenhuollon ammatit"
-        },
-        {
-          "ID": 645775,
-          "Title": "Luokka:Lääketieteen erikoisalat"
-        }
-      ],
-      "Articles": [
-        {
-          "ID": 1280624,
-          "Title": "ASMR"
         }
       ]
     },
@@ -594,6 +368,10 @@
           "Title": "Luokka:Historia"
         },
         {
+          "ID": 1063598,
+          "Title": "Luokka:Historia maittain"
+        },
+        {
           "ID": 40730,
           "Title": "Luokka:Juhlapäivät"
         },
@@ -602,82 +380,44 @@
           "Title": "Luokka:Kulttuuritapahtumat"
         },
         {
+          "ID": 51615,
+          "Title": "Luokka:Poliittinen historia"
+        },
+        {
+          "ID": 18777,
+          "Title": "Luokka:Sodankäynti"
+        },
+        {
+          "ID": 18188,
+          "Title": "Luokka:Sodat"
+        },
+        {
           "ID": 72261,
           "Title": "Luokka:Tapahtumat"
         },
         {
-          "ID": 109269,
-          "Title": "Luokka:Humanistiset tieteet"
+          "ID": 234229,
+          "Title": "Luokka:Tekniikan historia"
+        },
+        {
+          "ID": 18200,
+          "Title": "Luokka:Terrori-iskut"
         },
         {
           "ID": 342986,
           "Title": "Luokka:Vaalit vuosittain"
         },
         {
-          "ID": 596189,
-          "Title": "Luokka:Yhteiskuntatieteet"
+          "ID": 29827,
+          "Title": "Luokka:Vallankumoukset"
         },
         {
-          "ID": 1063598,
-          "Title": "Luokka:Historia maittain"
-        }
-      ],
-      "Articles": [
-        {
-          "ID": 11182,
-          "Title": "Syyskuun 11. päivän terroriteot"
+          "ID": 163282,
+          "Title": "Luokka:Vuosipäivät"
         },
         {
-          "ID": 31577,
-          "Title": "Troijan sota"
-        },
-        {
-          "ID": 131869,
-          "Title": "Holokaustin kiistäminen"
-        },
-        {
-          "ID": 160315,
-          "Title": "Donald Trump"
-        },
-        {
-          "ID": 636268,
-          "Title": "Yhdysvaltain presidentinvaalit 2012"
-        },
-        {
-          "ID": 691261,
-          "Title": "Tasankointiaanit"
-        },
-        {
-          "ID": 793917,
-          "Title": "Roomalainen maili"
-        },
-        {
-          "ID": 815031,
-          "Title": "Meksikonlahden öljyonnettomuus 2010"
-        },
-        {
-          "ID": 869046,
-          "Title": "Patriootti (Amerikan vallankumous)"
-        },
-        {
-          "ID": 913776,
-          "Title": "Tōhokun maanjäristys ja tsunami"
-        },
-        {
-          "ID": 1031342,
-          "Title": "Auroran elokuvateatteriammuskelu"
-        },
-        {
-          "ID": 1291052,
-          "Title": "Palmerin ratsiat"
-        },
-        {
-          "ID": 1329675,
-          "Title": "Orlandon yökerhoammuskelu 2016"
-        },
-        {
-          "ID": 1361696,
-          "Title": "Venäjän sekaantuminen Yhdysvaltain vaaleihin 2016"
+          "ID": 747864,
+          "Title": "Luokka:Yhdysvaltain korkeimman oikeuden päätökset"
         }
       ]
     },
@@ -686,16 +426,12 @@
       "Title": "Mathematics and logic",
       "Categories": [
         {
-          "ID": 17872,
-          "Title": "Luokka:Matematiikka"
-        },
-        {
           "ID": 25317,
           "Title": "Luokka:Logiikka"
         },
         {
-          "ID": 27976,
-          "Title": "Luokka:Tilastotiede"
+          "ID": 17872,
+          "Title": "Luokka:Matematiikka"
         },
         {
           "ID": 168765,
@@ -704,12 +440,18 @@
         {
           "ID": 243863,
           "Title": "Luokka:Tietojenkäsittelyteoria"
-        }
-      ],
-      "Articles": [
+        },
         {
-          "ID": 8176,
-          "Title": "Pituus"
+          "ID": 27976,
+          "Title": "Luokka:Tilastotiede"
+        },
+        {
+          "ID": 372315,
+          "Title": "Luokka:Yksikköjärjestelmät"
+        },
+        {
+          "ID": 19947,
+          "Title": "Luokka:Yksiköt"
         }
       ]
     },
@@ -718,298 +460,72 @@
       "Title": "Nature and physical sciences",
       "Categories": [
         {
-          "ID": 17898,
-          "Title": "Luokka:Fysiikka"
+          "ID": 22497,
+          "Title": "Luokka:Anatomia"
         },
         {
-          "ID": 17972,
-          "Title": "Luokka:Kemia"
+          "ID": 26736,
+          "Title": "Luokka:Ekologia"
         },
         {
-          "ID": 19816,
-          "Title": "Luokka:Tiede"
-        },
-        {
-          "ID": 25089,
-          "Title": "Luokka:Luonnontieteet"
+          "ID": 21217,
+          "Title": "Luokka:Eläimet"
         },
         {
           "ID": 25324,
           "Title": "Luokka:Eläintiede"
         },
         {
-          "ID": 27547,
-          "Title": "Luokka:Yhdisteet"
+          "ID": 209692,
+          "Title": "Luokka:Elämä"
         },
         {
-          "ID": 28052,
-          "Title": "Luokka:Luonto"
+          "ID": 17898,
+          "Title": "Luokka:Fysiikka"
+        },
+        {
+          "ID": 27183,
+          "Title": "Luokka:Hedelmät"
+        },
+        {
+          "ID": 20744,
+          "Title": "Luokka:Kasvit"
+        },
+        {
+          "ID": 17972,
+          "Title": "Luokka:Kemia"
         },
         {
           "ID": 32368,
           "Title": "Luokka:Kemialliset aineet"
         },
         {
+          "ID": 25089,
+          "Title": "Luokka:Luonnontieteet"
+        },
+        {
+          "ID": 28052,
+          "Title": "Luokka:Luonto"
+        },
+        {
+          "ID": 29157,
+          "Title": "Luokka:Maa"
+        },
+        {
+          "ID": 56597,
+          "Title": "Luokka:Proteiinit"
+        },
+        {
+          "ID": 19816,
+          "Title": "Luokka:Tiede"
+        },
+        {
+          "ID": 27547,
+          "Title": "Luokka:Yhdisteet"
+        },
+        {
           "ID": 275176,
           "Title": "Luokka:Ympäristötiede"
-        },
-        {
-          "ID": 504870,
-          "Title": "Luokka:Tieto"
-        }
-      ],
-      "Articles": [
-        {
-          "ID": 4994,
-          "Title": "Itsetyydytys"
-        },
-        {
-          "ID": 5524,
-          "Title": "Hirvi"
-        },
-        {
-          "ID": 6331,
-          "Title": "Tuli"
-        },
-        {
-          "ID": 12904,
-          "Title": "Vehnä"
-        },
-        {
-          "ID": 14276,
-          "Title": "Sukupuolielin"
-        },
-        {
-          "ID": 17662,
-          "Title": "Siitin"
-        },
-        {
-          "ID": 17742,
-          "Title": "Lihas"
-        },
-        {
-          "ID": 21820,
-          "Title": "Riisi"
-        },
-        {
-          "ID": 23968,
-          "Title": "Appelsiinipuu"
-        },
-        {
-          "ID": 27178,
-          "Title": "Sitruuna"
-        },
-        {
-          "ID": 27624,
-          "Title": "Mansikat"
-        },
-        {
-          "ID": 28893,
-          "Title": "Virtsa"
-        },
-        {
-          "ID": 28912,
-          "Title": "Tomaatti"
-        },
-        {
-          "ID": 30042,
-          "Title": "Ananas"
-        },
-        {
-          "ID": 33677,
-          "Title": "Mango"
-        },
-        {
-          "ID": 37167,
-          "Title": "Maissi"
-        },
-        {
-          "ID": 40059,
-          "Title": "Limetti"
-        },
-        {
-          "ID": 43014,
-          "Title": "Puutarhamansikka"
-        },
-        {
-          "ID": 43826,
-          "Title": "Hydrologia"
-        },
-        {
-          "ID": 46498,
-          "Title": "Karviaiskoiso"
-        },
-        {
-          "ID": 49793,
-          "Title": "Veden kiertokulku"
-        },
-        {
-          "ID": 53484,
-          "Title": "Mayakalenteri"
-        },
-        {
-          "ID": 55328,
-          "Title": "Rewantiikeri"
-        },
-        {
-          "ID": 66416,
-          "Title": "Ahomansikka"
-        },
-        {
-          "ID": 67372,
-          "Title": "Lonkero"
-        },
-        {
-          "ID": 68792,
-          "Title": "Kamelit (suku)"
-        },
-        {
-          "ID": 74542,
-          "Title": "Kives"
-        },
-        {
-          "ID": 83060,
-          "Title": "Engelmanninkuusi"
-        },
-        {
-          "ID": 112473,
-          "Title": "Meloni"
-        },
-        {
-          "ID": 112725,
-          "Title": "Anakondat"
-        },
-        {
-          "ID": 122416,
-          "Title": "Kirsikkatomaatti"
-        },
-        {
-          "ID": 140526,
-          "Title": "Ravintoketju"
-        },
-        {
-          "ID": 148570,
-          "Title": "Suspensio"
-        },
-        {
-          "ID": 175622,
-          "Title": "Flamingot"
-        },
-        {
-          "ID": 177616,
-          "Title": "Lisääntymiselimistö"
-        },
-        {
-          "ID": 185723,
-          "Title": "Makrilli"
-        },
-        {
-          "ID": 198695,
-          "Title": "Myrtti"
-        },
-        {
-          "ID": 202762,
-          "Title": "Kukkakaali"
-        },
-        {
-          "ID": 260717,
-          "Title": "Ruumen"
-        },
-        {
-          "ID": 359149,
-          "Title": "Punahiuksisuus"
-        },
-        {
-          "ID": 392294,
-          "Title": "Vastaväri"
-        },
-        {
-          "ID": 413625,
-          "Title": "Hunajameloni"
-        },
-        {
-          "ID": 415148,
-          "Title": "Isot kissat"
-        },
-        {
-          "ID": 509272,
-          "Title": "Vehnät"
-        },
-        {
-          "ID": 549058,
-          "Title": "Närhet"
-        },
-        {
-          "ID": 585937,
-          "Title": "Juoksuhämähäkit"
-        },
-        {
-          "ID": 670592,
-          "Title": "Lehtisammakot"
-        },
-        {
-          "ID": 709731,
-          "Title": "Viheranakonda"
-        },
-        {
-          "ID": 737646,
-          "Title": "Tomatillo"
-        },
-        {
-          "ID": 770409,
-          "Title": "Ruskosuulat"
-        },
-        {
-          "ID": 791806,
-          "Title": "Kurpot"
-        },
-        {
-          "ID": 819060,
-          "Title": "Itäminen"
-        },
-        {
-          "ID": 836412,
-          "Title": "Tuki- ja liikuntaelin"
-        },
-        {
-          "ID": 841913,
-          "Title": "Taatelit"
-        },
-        {
-          "ID": 992530,
-          "Title": "Merijuolavehnä"
-        },
-        {
-          "ID": 1169400,
-          "Title": "Jättikurpitsa"
-        },
-        {
-          "ID": 1264430,
-          "Title": "Appelsiini (hedelmä)"
-        },
-        {
-          "ID": 1301793,
-          "Title": "Mangopuut"
-        },
-        {
-          "ID": 1334897,
-          "Title": "Lasivaskitsat"
-        },
-        {
-          "ID": 1349628,
-          "Title": "Mango (hedelmä)"
-        },
-        {
-          "ID": 1356019,
-          "Title": "Myrtit"
-        },
-        {
-          "ID": 1459962,
-          "Title": "Riisit"
-        },
-        {
-          "ID": 1483171,
-          "Title": "Ateles"
         }
       ]
     },
@@ -1018,218 +534,120 @@
       "Title": "People and self",
       "Categories": [
         {
-          "ID": 23256,
-          "Title": "Luokka:Henkilöt"
+          "ID": 18145,
+          "Title": "Luokka:Arkkitehdit"
         },
         {
           "ID": 201771,
           "Title": "Luokka:Elokuvahahmot"
         },
         {
-          "ID": 209692,
-          "Title": "Luokka:Elämä"
+          "ID": 872471,
+          "Title": "Luokka:Elävät henkilöt"
         },
         {
-          "ID": 232057,
-          "Title": "Luokka:Sukunimet"
+          "ID": 20823,
+          "Title": "Luokka:Filosofit"
         },
         {
-          "ID": 273018,
-          "Title": "Luokka:Elämäkerrat ja muistelmat"
+          "ID": 23256,
+          "Title": "Luokka:Henkilöt"
+        },
+        {
+          "ID": 1092331,
+          "Title": "Luokka:Henkilöt ammateittain"
+        },
+        {
+          "ID": 868345,
+          "Title": "Luokka:Henkilöt kuolinvuosittain"
+        },
+        {
+          "ID": 868333,
+          "Title": "Luokka:Henkilöt syntymävuosittain"
+        },
+        {
+          "ID": 240086,
+          "Title": "Luokka:Ilmailualan ammatit"
+        },
+        {
+          "ID": 23255,
+          "Title": "Luokka:Keksijät"
+        },
+        {
+          "ID": 18808,
+          "Title": "Luokka:Kirjailijat"
+        },
+        {
+          "ID": 1080488,
+          "Title": "Luokka:Kuolleet henkilöt"
+        },
+        {
+          "ID": 296499,
+          "Title": "Luokka:Kuvitteelliset henkilöt"
+        },
+        {
+          "ID": 18350,
+          "Title": "Luokka:Lentäjät"
+        },
+        {
+          "ID": 45890,
+          "Title": "Luokka:Lääkärit"
+        },
+        {
+          "ID": 20852,
+          "Title": "Luokka:Matemaatikot"
+        },
+        {
+          "ID": 25103,
+          "Title": "Luokka:Muusikot"
         },
         {
           "ID": 286985,
           "Title": "Luokka:Nainen"
         },
         {
-          "ID": 561231,
-          "Title": "Luokka:Persoonallisuuspsykologia"
-        }
-      ],
-      "Articles": [
-        {
-          "ID": 74,
-          "Title": "Adolf Hitler"
+          "ID": 19322,
+          "Title": "Luokka:Näyttelijät"
         },
         {
-          "ID": 107,
-          "Title": "Bill Gates"
+          "ID": 23264,
+          "Title": "Luokka:Poliitikot"
         },
         {
-          "ID": 135,
-          "Title": "Kristoffer Kolumbus"
+          "ID": 102578,
+          "Title": "Luokka:Politiikan tutkijat"
         },
         {
-          "ID": 1045,
-          "Title": "Srinivasa Ramanujan"
+          "ID": 69230,
+          "Title": "Luokka:Presidentit"
         },
         {
-          "ID": 5629,
-          "Title": "Tuomas Akvinolainen"
+          "ID": 186927,
+          "Title": "Luokka:Sairaanhoitajat"
         },
         {
-          "ID": 5654,
-          "Title": "René Descartes"
+          "ID": 232057,
+          "Title": "Luokka:Sukunimet"
         },
         {
-          "ID": 7561,
-          "Title": "Ayn Rand"
+          "ID": 23265,
+          "Title": "Luokka:Taiteilijat"
         },
         {
-          "ID": 8496,
-          "Title": "Galileo Galilei"
+          "ID": 33726,
+          "Title": "Luokka:Tutkimusmatkailijat"
         },
         {
-          "ID": 9468,
-          "Title": "Noam Chomsky"
+          "ID": 600183,
+          "Title": "Luokka:Valtionpäämiehet"
         },
         {
-          "ID": 9636,
-          "Title": "Stefan Lochner"
+          "ID": 124747,
+          "Title": "Luokka:Yhdysvaltalaiset kenraalit"
         },
         {
-          "ID": 11069,
-          "Title": "Sigmund Freud"
-        },
-        {
-          "ID": 11217,
-          "Title": "Adam Smith"
-        },
-        {
-          "ID": 14142,
-          "Title": "Alan Turing"
-        },
-        {
-          "ID": 16281,
-          "Title": "Johannes Kepler"
-        },
-        {
-          "ID": 16972,
-          "Title": "Harry Houdini"
-        },
-        {
-          "ID": 21803,
-          "Title": "Lewis Carroll"
-        },
-        {
-          "ID": 21839,
-          "Title": "John Lennon"
-        },
-        {
-          "ID": 24651,
-          "Title": "William Blake"
-        },
-        {
-          "ID": 26883,
-          "Title": "Florence Nightingale"
-        },
-        {
-          "ID": 34765,
-          "Title": "Joseph Smith"
-        },
-        {
-          "ID": 34783,
-          "Title": "Richard Wagner"
-        },
-        {
-          "ID": 35777,
-          "Title": "Carl Friedrich Gauss"
-        },
-        {
-          "ID": 35874,
-          "Title": "Richard Dawkins"
-        },
-        {
-          "ID": 36223,
-          "Title": "Charles Babbage"
-        },
-        {
-          "ID": 38570,
-          "Title": "George Harrison"
-        },
-        {
-          "ID": 40638,
-          "Title": "Carl Sagan"
-        },
-        {
-          "ID": 43170,
-          "Title": "Alexander Fleming"
-        },
-        {
-          "ID": 53548,
-          "Title": "Oliver Cromwell"
-        },
-        {
-          "ID": 59631,
-          "Title": "Daniel Radcliffe"
-        },
-        {
-          "ID": 60941,
-          "Title": "Elton John"
-        },
-        {
-          "ID": 63582,
-          "Title": "Fibonacci"
-        },
-        {
-          "ID": 127300,
-          "Title": "Karl Friedrich Abel"
-        },
-        {
-          "ID": 165483,
-          "Title": "Big Show"
-        },
-        {
-          "ID": 239973,
-          "Title": "Irving Langmuir"
-        },
-        {
-          "ID": 286094,
-          "Title": "Axel Anderberg"
-        },
-        {
-          "ID": 330334,
-          "Title": "Houkutus"
-        },
-        {
-          "ID": 433261,
-          "Title": "Janet Margolin"
-        },
-        {
-          "ID": 574769,
-          "Title": "Rillit huurussa"
-        },
-        {
-          "ID": 643158,
-          "Title": "Kepler"
-        },
-        {
-          "ID": 654115,
-          "Title": "Jacob Black"
-        },
-        {
-          "ID": 828525,
-          "Title": "Cory Monteith"
-        },
-        {
-          "ID": 948797,
-          "Title": "Anders Behring Breivik"
-        },
-        {
-          "ID": 1065798,
-          "Title": "Bob Ross"
-        },
-        {
-          "ID": 1125656,
-          "Title": "Johnny Appleseed"
-        },
-        {
-          "ID": 1271409,
-          "Title": "Ted Cruz"
-        },
-        {
-          "ID": 1310024,
-          "Title": "Chaïm Soutine"
+          "ID": 108122,
+          "Title": "Luokka:Yhteiskunnalliset vaikuttajat"
         }
       ]
     },
@@ -1238,12 +656,16 @@
       "Title": "Philosophy and thinking",
       "Categories": [
         {
-          "ID": 20448,
-          "Title": "Luokka:Filosofia"
+          "ID": 279575,
+          "Title": "Luokka:Ajattelu"
         },
         {
           "ID": 20822,
           "Title": "Luokka:Etiikka"
+        },
+        {
+          "ID": 20448,
+          "Title": "Luokka:Filosofia"
         },
         {
           "ID": 55866,
@@ -1254,54 +676,24 @@
           "Title": "Luokka:Filosofian osa-alueet"
         },
         {
-          "ID": 279575,
-          "Title": "Luokka:Ajattelu"
-        },
-        {
           "ID": 674872,
           "Title": "Luokka:Filosofiset teoriat"
         },
         {
+          "ID": 616569,
+          "Title": "Luokka:Metafilosofia"
+        },
+        {
+          "ID": 92860,
+          "Title": "Luokka:Metafysiikka"
+        },
+        {
           "ID": 674892,
           "Title": "Luokka:Politiikan tutkimuksen teoriat"
-        }
-      ],
-      "Articles": [
-        {
-          "ID": 65794,
-          "Title": "Ilo"
         },
         {
-          "ID": 79267,
-          "Title": "Usko"
-        },
-        {
-          "ID": 195505,
-          "Title": "Kauneus"
-        },
-        {
-          "ID": 199094,
-          "Title": "Onnellisuus"
-        },
-        {
-          "ID": 279083,
-          "Title": "Tosiasia"
-        },
-        {
-          "ID": 412824,
-          "Title": "Uskomus"
-        },
-        {
-          "ID": 469794,
-          "Title": "Luottamus"
-        },
-        {
-          "ID": 908182,
-          "Title": "Gaslighting"
-        },
-        {
-          "ID": 1274671,
-          "Title": "Ylivertaisuusvinouma"
+          "ID": 142896,
+          "Title": "Luokka:Todellisuuskäsitykset"
         }
       ]
     },
@@ -1309,6 +701,14 @@
       "ID": 2147483645,
       "Title": "Religion and belief systems",
       "Categories": [
+        {
+          "ID": 1452288,
+          "Title": "Luokka:Nonteismi"
+        },
+        {
+          "ID": 25992,
+          "Title": "Luokka:Teologia"
+        },
         {
           "ID": 18727,
           "Title": "Luokka:Uskonnot"
@@ -1318,12 +718,8 @@
           "Title": "Luokka:Uskonto"
         },
         {
-          "ID": 25992,
-          "Title": "Luokka:Teologia"
-        },
-        {
-          "ID": 217315,
-          "Title": "Luokka:Sekularismi"
+          "ID": 798629,
+          "Title": "Luokka:Uskontoantropologia"
         },
         {
           "ID": 219186,
@@ -1332,14 +728,6 @@
         {
           "ID": 563573,
           "Title": "Luokka:Uskontoon liittyvät kiistat"
-        },
-        {
-          "ID": 798629,
-          "Title": "Luokka:Uskontoantropologia"
-        },
-        {
-          "ID": 1452288,
-          "Title": "Luokka:Nonteismi"
         }
       ]
     },
@@ -1348,562 +736,100 @@
       "Title": "Society and social sciences",
       "Categories": [
         {
-          "ID": 18091,
-          "Title": "Luokka:Kansainväliset järjestöt"
+          "ID": 152461,
+          "Title": "Luokka:Feminismi"
         },
         {
-          "ID": 23764,
-          "Title": "Luokka:Yhteiskunta"
-        },
-        {
-          "ID": 26825,
-          "Title": "Luokka:Oikeustiede"
+          "ID": 188093,
+          "Title": "Luokka:Hallitukset"
         },
         {
           "ID": 109269,
           "Title": "Luokka:Humanistiset tieteet"
         },
         {
-          "ID": 152461,
-          "Title": "Luokka:Feminismi"
+          "ID": 27427,
+          "Title": "Luokka:Järjestöt"
+        },
+        {
+          "ID": 18091,
+          "Title": "Luokka:Kansainväliset järjestöt"
+        },
+        {
+          "ID": 227524,
+          "Title": "Luokka:Koulutus maittain"
+        },
+        {
+          "ID": 20922,
+          "Title": "Luokka:Lentoyhtiöt"
+        },
+        {
+          "ID": 30559,
+          "Title": "Luokka:Markkinointi"
+        },
+        {
+          "ID": 148961,
+          "Title": "Luokka:Murhat"
+        },
+        {
+          "ID": 26825,
+          "Title": "Luokka:Oikeustiede"
+        },
+        {
+          "ID": 62904,
+          "Title": "Luokka:Organisaatiot"
+        },
+        {
+          "ID": 561231,
+          "Title": "Luokka:Persoonallisuuspsykologia"
+        },
+        {
+          "ID": 613281,
+          "Title": "Luokka:Poliittiset järjestelmät"
+        },
+        {
+          "ID": 18703,
+          "Title": "Luokka:Psykologia"
+        },
+        {
+          "ID": 28038,
+          "Title": "Luokka:Raha"
+        },
+        {
+          "ID": 23780,
+          "Title": "Luokka:Rahayksiköt"
+        },
+        {
+          "ID": 34371,
+          "Title": "Luokka:Rahoitus"
+        },
+        {
+          "ID": 88430,
+          "Title": "Luokka:Rangaistusmenetelmät"
+        },
+        {
+          "ID": 29201,
+          "Title": "Luokka:Valtioiden liput"
+        },
+        {
+          "ID": 180499,
+          "Title": "Luokka:Valtion virastot"
+        },
+        {
+          "ID": 23764,
+          "Title": "Luokka:Yhteiskunta"
+        },
+        {
+          "ID": 596189,
+          "Title": "Luokka:Yhteiskuntatieteet"
         },
         {
           "ID": 227521,
           "Title": "Luokka:Yliopistot ja korkeakoulut maittain"
         },
         {
-          "ID": 596189,
-          "Title": "Luokka:Yhteiskuntatieteet"
-        }
-      ],
-      "Articles": [
-        {
-          "ID": 198,
-          "Title": "Euroopan unioni"
-        },
-        {
-          "ID": 400,
-          "Title": "Iran"
-        },
-        {
-          "ID": 500,
-          "Title": "Kesäaika"
-        },
-        {
-          "ID": 1068,
-          "Title": "Sosiaalityö"
-        },
-        {
-          "ID": 6711,
-          "Title": "Chile"
-        },
-        {
-          "ID": 12473,
-          "Title": "Kolmas maailmansota"
-        },
-        {
-          "ID": 15810,
-          "Title": "Barbados"
-        },
-        {
-          "ID": 27840,
-          "Title": "Australian lippu"
-        },
-        {
-          "ID": 29215,
-          "Title": "Kiinalainen uusivuosi"
-        },
-        {
-          "ID": 31596,
-          "Title": "Kieltolaki"
-        },
-        {
-          "ID": 48259,
-          "Title": "Oxfordin yliopisto"
-        },
-        {
-          "ID": 49252,
-          "Title": "Columbian yliopisto"
-        },
-        {
-          "ID": 49901,
-          "Title": "Pariisin yliopisto"
-        },
-        {
-          "ID": 59227,
-          "Title": "Chicagon yliopisto"
-        },
-        {
-          "ID": 61412,
-          "Title": "Princetonin yliopisto"
-        },
-        {
-          "ID": 68426,
-          "Title": "Mikrovaltio"
-        },
-        {
-          "ID": 70188,
-          "Title": "Sosiaalityöntekijä"
-        },
-        {
-          "ID": 71926,
-          "Title": "Wienin yliopisto"
-        },
-        {
-          "ID": 75748,
-          "Title": "Harvardin yliopisto"
-        },
-        {
-          "ID": 83304,
-          "Title": "Cambridgen yliopisto"
-        },
-        {
-          "ID": 84237,
-          "Title": "American Airlines"
-        },
-        {
-          "ID": 86704,
-          "Title": "BP (yritys)"
-        },
-        {
-          "ID": 89240,
-          "Title": "The New York Times"
-        },
-        {
-          "ID": 93779,
-          "Title": "Massachusetts Institute of Technology"
-        },
-        {
-          "ID": 103433,
-          "Title": "Pizza Hut"
-        },
-        {
-          "ID": 104808,
-          "Title": "Sheffieldin yliopisto"
-        },
-        {
-          "ID": 114088,
-          "Title": "Tukholman yliopisto"
-        },
-        {
-          "ID": 140903,
-          "Title": "Pennsylvanian yliopisto"
-        },
-        {
-          "ID": 141075,
-          "Title": "Michiganin yliopisto"
-        },
-        {
-          "ID": 153118,
-          "Title": "Göttingenin Georg-August-yliopisto"
-        },
-        {
-          "ID": 155635,
-          "Title": "Uppsalan yliopisto"
-        },
-        {
-          "ID": 155800,
-          "Title": "Göteborgin yliopisto"
-        },
-        {
-          "ID": 155827,
-          "Title": "Linköpingin yliopisto"
-        },
-        {
-          "ID": 155830,
-          "Title": "Uumajan yliopisto"
-        },
-        {
-          "ID": 160010,
-          "Title": "Virginian yliopisto"
-        },
-        {
-          "ID": 169480,
-          "Title": "Glasgow’n yliopisto"
-        },
-        {
-          "ID": 170126,
-          "Title": "Ricen yliopisto"
-        },
-        {
-          "ID": 172535,
-          "Title": "St Andrewsin yliopisto"
-        },
-        {
-          "ID": 177491,
-          "Title": "Tsinghua-yliopisto"
-        },
-        {
-          "ID": 177881,
-          "Title": "Moskovan valtionyliopisto"
-        },
-        {
-          "ID": 190654,
-          "Title": "Bolognan yliopisto"
-        },
-        {
-          "ID": 191804,
-          "Title": "Milanon yliopisto"
-        },
-        {
-          "ID": 194224,
-          "Title": "Kentin yliopisto"
-        },
-        {
-          "ID": 196882,
-          "Title": "Stanfordin yliopisto"
-        },
-        {
-          "ID": 200039,
-          "Title": "Birminghamin yliopisto"
-        },
-        {
-          "ID": 207495,
-          "Title": "Tarton yliopisto"
-        },
-        {
-          "ID": 213926,
-          "Title": "Aberdeenin yliopisto"
-        },
-        {
-          "ID": 230197,
-          "Title": "Starbucks"
-        },
-        {
-          "ID": 264913,
-          "Title": "Padovan yliopisto"
-        },
-        {
-          "ID": 283183,
-          "Title": "Lontoon yliopisto"
-        },
-        {
-          "ID": 292448,
-          "Title": "Leipzigin yliopisto"
-        },
-        {
-          "ID": 330006,
-          "Title": "Jerusalemin heprealainen yliopisto"
-        },
-        {
-          "ID": 333999,
-          "Title": "Manchesterin yliopisto"
-        },
-        {
-          "ID": 337780,
-          "Title": "Bernin yliopisto"
-        },
-        {
-          "ID": 340924,
-          "Title": "The Times of India"
-        },
-        {
-          "ID": 371542,
-          "Title": "Tokion yliopisto"
-        },
-        {
-          "ID": 375046,
-          "Title": "Yhdistyneiden kansakuntien ympäristöohjelma"
-        },
-        {
-          "ID": 376995,
-          "Title": "Liverpoolin yliopisto"
-        },
-        {
-          "ID": 389498,
-          "Title": "Bonnin yliopisto"
-        },
-        {
-          "ID": 417672,
-          "Title": "Bristolin yliopisto"
-        },
-        {
-          "ID": 442557,
-          "Title": "Bostonin yliopisto"
-        },
-        {
-          "ID": 516612,
-          "Title": "Australian kansallinen yliopisto"
-        },
-        {
-          "ID": 521851,
-          "Title": "Northumbrian yliopisto"
-        },
-        {
-          "ID": 529810,
-          "Title": "Tulanen yliopisto"
-        },
-        {
-          "ID": 553618,
-          "Title": "Pietarin valtionyliopisto"
-        },
-        {
-          "ID": 563541,
-          "Title": "Taco Bell"
-        },
-        {
-          "ID": 587542,
-          "Title": "Tübingenin yliopisto"
-        },
-        {
-          "ID": 600250,
-          "Title": "Illinoisin yliopisto, Chicago"
-        },
-        {
-          "ID": 602646,
-          "Title": "Guelphin yliopisto"
-        },
-        {
-          "ID": 606861,
-          "Title": "Toledon yliopisto"
-        },
-        {
-          "ID": 609113,
-          "Title": "Cincinnatin yliopisto"
-        },
-        {
-          "ID": 614918,
-          "Title": "Houstonin yliopisto"
-        },
-        {
-          "ID": 616235,
-          "Title": "Texasin yliopisto, Austin"
-        },
-        {
-          "ID": 650037,
-          "Title": "Kölnin yliopisto"
-        },
-        {
-          "ID": 661327,
-          "Title": "Wisconsinin yliopisto, Milwaukee"
-        },
-        {
-          "ID": 667396,
-          "Title": "Iowan yliopisto"
-        },
-        {
-          "ID": 692914,
-          "Title": "Nanjingin yliopisto"
-        },
-        {
-          "ID": 708363,
-          "Title": "Torinon yliopisto"
-        },
-        {
-          "ID": 715512,
-          "Title": "Trusti (oikeustiede)"
-        },
-        {
-          "ID": 720124,
-          "Title": "Open University"
-        },
-        {
-          "ID": 735362,
-          "Title": "Tōhokun yliopisto"
-        },
-        {
-          "ID": 753133,
-          "Title": "Albert-Ludwigs-Universität Freiburg"
-        },
-        {
-          "ID": 757879,
-          "Title": "Arizonan yliopisto"
-        },
-        {
-          "ID": 757929,
-          "Title": "Miamin yliopisto (Ohio)"
-        },
-        {
-          "ID": 757933,
-          "Title": "Saint Louisin yliopisto"
-        },
-        {
-          "ID": 758253,
-          "Title": "Valparaison yliopisto"
-        },
-        {
-          "ID": 761036,
-          "Title": "Fox News Channel"
-        },
-        {
-          "ID": 774699,
-          "Title": "Pac-12 Conference"
-        },
-        {
-          "ID": 822785,
-          "Title": "Ohion osavaltionyliopisto"
-        },
-        {
-          "ID": 833739,
-          "Title": "Etelä-Kalifornian yliopisto"
-        },
-        {
-          "ID": 867125,
-          "Title": "Imperial College London"
-        },
-        {
-          "ID": 869469,
-          "Title": "Sydneyn yliopisto"
-        },
-        {
-          "ID": 893751,
-          "Title": "Southamptonin yliopisto"
-        },
-        {
-          "ID": 922852,
-          "Title": "Delawaren yliopisto"
-        },
-        {
-          "ID": 937862,
-          "Title": "Ferraran yliopisto"
-        },
-        {
-          "ID": 938800,
-          "Title": "Trust"
-        },
-        {
-          "ID": 940338,
-          "Title": "Marylandin yliopisto (College Park)"
-        },
-        {
-          "ID": 941393,
-          "Title": "Indianan yliopisto"
-        },
-        {
-          "ID": 941575,
-          "Title": "Minnesotan yliopisto"
-        },
-        {
-          "ID": 972329,
-          "Title": "Warwickin yliopisto"
-        },
-        {
-          "ID": 977697,
-          "Title": "Indianan yliopisto Bloomingtonissa"
-        },
-        {
-          "ID": 1008586,
-          "Title": "Delhin yliopisto"
-        },
-        {
-          "ID": 1026916,
-          "Title": "Yhdysvaltain perustuslain neljäs lisäys"
-        },
-        {
-          "ID": 1035552,
-          "Title": "Würzburgin yliopisto"
-        },
-        {
-          "ID": 1037498,
-          "Title": "Oregonin yliopisto"
-        },
-        {
-          "ID": 1062485,
-          "Title": "Alabaman yliopisto"
-        },
-        {
-          "ID": 1063395,
-          "Title": "Tennesseen yliopisto"
-        },
-        {
-          "ID": 1065320,
-          "Title": "Missourin yliopisto"
-        },
-        {
-          "ID": 1139289,
-          "Title": "Akronin yliopisto"
-        },
-        {
-          "ID": 1152862,
-          "Title": "Mongolian asevoimat"
-        },
-        {
-          "ID": 1201386,
-          "Title": "Lvivin yliopisto"
-        },
-        {
-          "ID": 1208071,
-          "Title": "Panteion-yliopisto"
-        },
-        {
-          "ID": 1217271,
-          "Title": "Domino’s Pizza"
-        },
-        {
-          "ID": 1220222,
-          "Title": "Washingtonin yliopisto"
-        },
-        {
-          "ID": 1220343,
-          "Title": "Teheranin yliopisto"
-        },
-        {
-          "ID": 1220609,
-          "Title": "Soulin valtionyliopisto"
-        },
-        {
-          "ID": 1251167,
-          "Title": "Linné-yliopisto"
-        },
-        {
-          "ID": 1348987,
-          "Title": "University at Buffalo"
-        },
-        {
-          "ID": 1349073,
-          "Title": "Washington University in St. Louis"
-        },
-        {
-          "ID": 1362370,
-          "Title": "Bathin yliopisto"
-        },
-        {
-          "ID": 1374438,
-          "Title": "Montanan yliopisto"
-        },
-        {
-          "ID": 1375600,
-          "Title": "Lontoon terrori-isku 22. maaliskuuta 2017"
-        },
-        {
-          "ID": 1388684,
-          "Title": "Leicesterin yliopisto"
-        },
-        {
-          "ID": 1442802,
-          "Title": "Kalkutan yliopisto"
-        },
-        {
-          "ID": 1442803,
-          "Title": "Mumbain yliopisto"
-        },
-        {
-          "ID": 1459547,
-          "Title": "KwaZulu-Natalin yliopisto"
-        },
-        {
-          "ID": 1460205,
-          "Title": "Jawaharlal Nehrun yliopisto"
-        },
-        {
-          "ID": 1491363,
-          "Title": "Trusti"
-        },
-        {
-          "ID": 1491364,
-          "Title": "Trusti (taloustiede)"
-        },
-        {
-          "ID": 1491828,
-          "Title": "Queenslandin yliopisto"
-        },
-        {
-          "ID": 1494306,
-          "Title": "New Yorkin kaupunginyliopisto"
-        },
-        {
-          "ID": 1495244,
-          "Title": "American University"
+          "ID": 428190,
+          "Title": "Luokka:Yritykset"
         }
       ]
     },
@@ -1912,36 +838,72 @@
       "Title": "Technology and applied sciences",
       "Categories": [
         {
+          "ID": 94675,
+          "Title": "Luokka:Astiat"
+        },
+        {
           "ID": 18334,
           "Title": "Luokka:Elektroniikka"
         },
         {
-          "ID": 18559,
-          "Title": "Luokka:Tietotekniikka"
-        },
-        {
-          "ID": 21059,
-          "Title": "Luokka:Liikenne"
+          "ID": 144732,
+          "Title": "Luokka:Energiatekniikka"
         },
         {
           "ID": 21514,
           "Title": "Luokka:Internet"
         },
         {
-          "ID": 26714,
-          "Title": "Luokka:Tekniikka"
+          "ID": 25300,
+          "Title": "Luokka:Keittiövälineet"
         },
         {
-          "ID": 29399,
-          "Title": "Luokka:Tietokoneet"
+          "ID": 27899,
+          "Title": "Luokka:Kirjapainotaito"
+        },
+        {
+          "ID": 25299,
+          "Title": "Luokka:Kodinkoneet"
+        },
+        {
+          "ID": 27056,
+          "Title": "Luokka:Koneet"
+        },
+        {
+          "ID": 27896,
+          "Title": "Luokka:Konetekniikka"
+        },
+        {
+          "ID": 21059,
+          "Title": "Luokka:Liikenne"
         },
         {
           "ID": 32411,
           "Title": "Luokka:Muotoilu"
         },
         {
-          "ID": 37539,
-          "Title": "Luokka:Tietojenkäsittelytiede"
+          "ID": 20754,
+          "Title": "Luokka:Ohjelmistot"
+        },
+        {
+          "ID": 19068,
+          "Title": "Luokka:Ohjelmointi"
+        },
+        {
+          "ID": 29392,
+          "Title": "Luokka:Pelikonsolit"
+        },
+        {
+          "ID": 273620,
+          "Title": "Luokka:Puuntyöstö"
+        },
+        {
+          "ID": 22995,
+          "Title": "Luokka:Rakennustekniikka"
+        },
+        {
+          "ID": 24951,
+          "Title": "Luokka:Rakentaminen"
         },
         {
           "ID": 58091,
@@ -1952,70 +914,56 @@
           "Title": "Luokka:Sovellettu tiede"
         },
         {
-          "ID": 234229,
-          "Title": "Luokka:Tekniikan historia"
+          "ID": 20074,
+          "Title": "Luokka:Standardit"
+        },
+        {
+          "ID": 26714,
+          "Title": "Luokka:Tekniikka"
         },
         {
           "ID": 788172,
           "Title": "Luokka:Tiedonhallinta"
-        }
-      ],
-      "Articles": [
-        {
-          "ID": 6053,
-          "Title": "Verkkotunnus"
         },
         {
-          "ID": 19835,
-          "Title": "Hitsaus"
+          "ID": 37539,
+          "Title": "Luokka:Tietojenkäsittelytiede"
         },
         {
-          "ID": 29759,
-          "Title": "Purukumi"
+          "ID": 788175,
+          "Title": "Luokka:Tietokannat"
         },
         {
-          "ID": 37937,
-          "Title": "Mountain Dew"
+          "ID": 29399,
+          "Title": "Luokka:Tietokoneet"
         },
         {
-          "ID": 37967,
-          "Title": "Pepsi"
+          "ID": 18559,
+          "Title": "Luokka:Tietotekniikka"
         },
         {
-          "ID": 38194,
-          "Title": "Seinä"
+          "ID": 24950,
+          "Title": "Luokka:Työkalut"
         },
         {
-          "ID": 73724,
-          "Title": "Leipäkone"
+          "ID": 87843,
+          "Title": "Luokka:Välineet"
         },
         {
-          "ID": 151835,
-          "Title": "Sega 32X"
-        },
-        {
-          "ID": 302109,
-          "Title": "TIG-hitsaus"
-        },
-        {
-          "ID": 373884,
-          "Title": "PepsiCo"
-        },
-        {
-          "ID": 919743,
-          "Title": ".xxx"
+          "ID": 456063,
+          "Title": "Luokka:Yhdyskuntatekniikka"
         }
       ]
     }
   ],
   "Filters": [
     {
-      "ID": 21499,
-      "Title": "Luokka:Täsmennyssivut"
-    },
-    {
       "ID": 488927,
       "Title": "Luokka:Piilotetut luokat"
+    },
+    {
+      "ID": 21499,
+      "Title": "Luokka:Täsmennyssivut"
     }
   ]
 }

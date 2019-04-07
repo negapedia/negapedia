@@ -8,10 +8,10 @@
     {
       "ID": 2147483638,
       "Title": "Geography and places",
-      "Articles": [
+      "Categories": [
         {
-          "ID": 2875,
-          "Title": "Paris"
+          "ID": 2273,
+          "Title": "Category:Dinaha"
         }
       ]
     },
@@ -33,13 +33,7 @@
     },
     {
       "ID": 2147483643,
-      "Title": "People and self",
-      "Articles": [
-        {
-          "ID": 1502,
-          "Title": "Adolf Hitler"
-        }
-      ]
+      "Title": "People and self"
     },
     {
       "ID": 2147483644,
@@ -57,17 +51,7 @@
     },
     {
       "ID": 2147483646,
-      "Title": "Society and social sciences",
-      "Articles": [
-        {
-          "ID": 3318,
-          "Title": "Chile"
-        },
-        {
-          "ID": 4828,
-          "Title": "Pizza Hut"
-        }
-      ]
+      "Title": "Society and social sciences"
     },
     {
       "ID": 2147483647,

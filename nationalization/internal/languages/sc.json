@@ -6,78 +6,76 @@
       "Title": "Culture and the arts",
       "Categories": [
         {
-          "ID": 5904,
-          "Title": "Categoria:Artes"
-        },
-        {
-          "ID": 6057,
-          "Title": "Categoria:Coghina"
-        },
-        {
-          "ID": 6162,
-          "Title": "Categoria:Isport"
-        },
-        {
-          "ID": 6759,
-          "Title": "Categoria:Film"
-        },
-        {
-          "ID": 7378,
-          "Title": "Categoria:Cultura"
-        },
-        {
           "ID": 11890,
           "Title": "Categoria:Alimentos"
         },
         {
           "ID": 11891,
           "Title": "Categoria:Alimèntatzione"
-        }
-      ],
-      "Articles": [
-        {
-          "ID": 1029,
-          "Title": "Porcu"
         },
         {
-          "ID": 1167,
-          "Title": "Wikipedia"
+          "ID": 5904,
+          "Title": "Categoria:Artes"
         },
         {
-          "ID": 1673,
-          "Title": "Enciclopedia"
+          "ID": 2991,
+          "Title": "Categoria:Biografias"
         },
         {
-          "ID": 5272,
-          "Title": "Sirbone"
+          "ID": 6057,
+          "Title": "Categoria:Coghina"
         },
         {
-          "ID": 9452,
-          "Title": "Sgt.Pepper's Lonely Hearts Club Band"
+          "ID": 12432,
+          "Title": "Categoria:Compositziones musicales"
         },
         {
-          "ID": 10532,
-          "Title": "Pitza"
+          "ID": 8985,
+          "Title": "Categoria:Conventziones culturales"
         },
         {
-          "ID": 11699,
-          "Title": "Pane pùrile"
+          "ID": 7378,
+          "Title": "Categoria:Cultura"
         },
         {
-          "ID": 13905,
-          "Title": "Yūrei"
+          "ID": 7376,
+          "Title": "Categoria:Educatzione"
         },
         {
-          "ID": 13907,
-          "Title": "Pantasima"
+          "ID": 10349,
+          "Title": "Categoria:Enciclopedias"
         },
         {
-          "ID": 14015,
-          "Title": "Birra"
+          "ID": 6759,
+          "Title": "Categoria:Film"
         },
         {
-          "ID": 17514,
-          "Title": "Caffè"
+          "ID": 6162,
+          "Title": "Categoria:Isport"
+        },
+        {
+          "ID": 5975,
+          "Title": "Categoria:Literadura"
+        },
+        {
+          "ID": 2969,
+          "Title": "Categoria:Mùsica"
+        },
+        {
+          "ID": 12205,
+          "Title": "Categoria:Oberas literarias"
+        },
+        {
+          "ID": 7636,
+          "Title": "Categoria:Rivistas"
+        },
+        {
+          "ID": 8982,
+          "Title": "Categoria:Televisione"
+        },
+        {
+          "ID": 12021,
+          "Title": "Categoria:Videogiogos"
         }
       ]
     },
@@ -88,24 +86,18 @@
         {
           "ID": 2735,
           "Title": "Categoria:Geografia"
-        }
-      ],
-      "Articles": [
-        {
-          "ID": 2237,
-          "Title": "Parigi"
         },
         {
-          "ID": 5885,
-          "Title": "Venetzia"
+          "ID": 11626,
+          "Title": "Categoria:Natziones"
         },
         {
-          "ID": 9237,
-          "Title": "Myanmar"
+          "ID": 9028,
+          "Title": "Categoria:Rios"
         },
         {
-          "ID": 11925,
-          "Title": "Australia"
+          "ID": 4640,
+          "Title": "Categoria:Tzitades"
         }
       ]
     },
@@ -114,12 +106,12 @@
       "Title": "Health and fitness",
       "Categories": [
         {
-          "ID": 12469,
-          "Title": "Categoria:Saludu"
-        },
-        {
           "ID": 13259,
           "Title": "Categoria:Meighina"
+        },
+        {
+          "ID": 12469,
+          "Title": "Categoria:Saludu"
         }
       ]
     },
@@ -128,22 +120,8 @@
       "Title": "History and events",
       "Categories": [
         {
-          "ID": 2979,
-          "Title": "Categoria:Sièntzias sotziales"
-        },
-        {
           "ID": 6998,
           "Title": "Categoria:Istòria"
-        }
-      ],
-      "Articles": [
-        {
-          "ID": 16516,
-          "Title": "Bocidròxiu de Harambe"
-        },
-        {
-          "ID": 17503,
-          "Title": "Donald Trump"
         }
       ]
     },
@@ -152,12 +130,16 @@
       "Title": "Mathematics and logic",
       "Categories": [
         {
+          "ID": 9968,
+          "Title": "Categoria:Istatistica"
+        },
+        {
           "ID": 6492,
           "Title": "Categoria:Matemàtica"
         },
         {
-          "ID": 9968,
-          "Title": "Categoria:Istatistica"
+          "ID": 10948,
+          "Title": "Categoria:Unidades de medida"
         }
       ]
     },
@@ -166,54 +148,28 @@
       "Title": "Nature and physical sciences",
       "Categories": [
         {
-          "ID": 2978,
-          "Title": "Categoria:Sièntzias"
+          "ID": 10810,
+          "Title": "Categoria:Animales"
         },
         {
           "ID": 2980,
           "Title": "Categoria:Chìmica"
         },
         {
+          "ID": 7013,
+          "Title": "Categoria:Ecologia"
+        },
+        {
           "ID": 3093,
           "Title": "Categoria:Fìsica"
-        }
-      ],
-      "Articles": [
-        {
-          "ID": 4077,
-          "Title": "Masturbatzione"
         },
         {
-          "ID": 4210,
-          "Title": "Trigu"
+          "ID": 11279,
+          "Title": "Categoria:Piantas"
         },
         {
-          "ID": 5278,
-          "Title": "Murta"
-        },
-        {
-          "ID": 5561,
-          "Title": "Mangoni"
-        },
-        {
-          "ID": 6037,
-          "Title": "Limone"
-        },
-        {
-          "ID": 6334,
-          "Title": "Fràgula"
-        },
-        {
-          "ID": 6386,
-          "Title": "Melone"
-        },
-        {
-          "ID": 6388,
-          "Title": "Trigumoriscu"
-        },
-        {
-          "ID": 11137,
-          "Title": "Tamata"
+          "ID": 2978,
+          "Title": "Categoria:Sièntzias"
         }
       ]
     },
@@ -222,66 +178,44 @@
       "Title": "People and self",
       "Categories": [
         {
-          "ID": 2991,
-          "Title": "Categoria:Biografias"
+          "ID": 7073,
+          "Title": "Categoria:Architetos"
+        },
+        {
+          "ID": 6627,
+          "Title": "Categoria:Attores"
+        },
+        {
+          "ID": 7190,
+          "Title": "Categoria:Filosofos"
+        },
+        {
+          "ID": 6847,
+          "Title": "Categoria:Iscrittores"
+        },
+        {
+          "ID": 7967,
+          "Title": "Categoria:Matematicos"
+        },
+        {
+          "ID": 13260,
+          "Title": "Categoria:Meigos"
+        },
+        {
+          "ID": 7045,
+          "Title": "Categoria:Musicistas"
         },
         {
           "ID": 7358,
           "Title": "Categoria:Persones"
-        }
-      ],
-      "Articles": [
-        {
-          "ID": 2950,
-          "Title": "Tommaso d'Aquino"
         },
         {
-          "ID": 3657,
-          "Title": "Sigmund Freud"
+          "ID": 7363,
+          "Title": "Categoria:Persones pro attividade"
         },
         {
-          "ID": 7216,
-          "Title": "Noam Chomsky"
-        },
-        {
-          "ID": 7752,
-          "Title": "John Lennon"
-        },
-        {
-          "ID": 7924,
-          "Title": "Galileo Galilei"
-        },
-        {
-          "ID": 8232,
-          "Title": "George Harrison"
-        },
-        {
-          "ID": 8290,
-          "Title": "William Blake"
-        },
-        {
-          "ID": 8413,
-          "Title": "Richard Wagner"
-        },
-        {
-          "ID": 11056,
-          "Title": "Cristoforo Colombo"
-        },
-        {
-          "ID": 11477,
-          "Title": "Florence Nightingale"
-        },
-        {
-          "ID": 11942,
-          "Title": "Bill Gates"
-        },
-        {
-          "ID": 17721,
-          "Title": "Adolf Hitler"
-        },
-        {
-          "ID": 17989,
-          "Title": "Johannes Kepler"
+          "ID": 6929,
+          "Title": "Categoria:Polìtigos"
         }
       ]
     },
@@ -310,42 +244,20 @@
       "Title": "Society and social sciences",
       "Categories": [
         {
+          "ID": 12212,
+          "Title": "Categoria:Deretu"
+        },
+        {
+          "ID": 12473,
+          "Title": "Categoria:Impresa"
+        },
+        {
           "ID": 2979,
           "Title": "Categoria:Sièntzias sotziales"
         },
         {
           "ID": 7357,
           "Title": "Categoria:Sotziedade"
-        },
-        {
-          "ID": 12212,
-          "Title": "Categoria:Deretu"
-        }
-      ],
-      "Articles": [
-        {
-          "ID": 5177,
-          "Title": "Cile"
-        },
-        {
-          "ID": 5910,
-          "Title": "Universidade de Oxford"
-        },
-        {
-          "ID": 7009,
-          "Title": "Iran"
-        },
-        {
-          "ID": 7666,
-          "Title": "Universidade de Stanford"
-        },
-        {
-          "ID": 10310,
-          "Title": "Unione Europea"
-        },
-        {
-          "ID": 12298,
-          "Title": "Universidade de Umeå"
         }
       ]
     },
@@ -354,8 +266,16 @@
       "Title": "Technology and applied sciences",
       "Categories": [
         {
+          "ID": 13394,
+          "Title": "Categoria:Imprenta"
+        },
+        {
           "ID": 5577,
           "Title": "Categoria:Informàtica"
+        },
+        {
+          "ID": 17686,
+          "Title": "Categoria:Ingenieria"
         },
         {
           "ID": 8040,
@@ -364,10 +284,6 @@
         {
           "ID": 12238,
           "Title": "Categoria:Tecnologia"
-        },
-        {
-          "ID": 17686,
-          "Title": "Categoria:Ingenieria"
         }
       ]
     }

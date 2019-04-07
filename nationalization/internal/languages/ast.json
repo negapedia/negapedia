@@ -6,258 +6,164 @@
       "Title": "Culture and the arts",
       "Categories": [
         {
-          "ID": 104,
-          "Title": "Categoría:Deportes"
-        },
-        {
-          "ID": 816,
-          "Title": "Categoría:Cultura"
+          "ID": 8228,
+          "Title": "Categoría:Alimentación"
         },
         {
           "ID": 1367,
           "Title": "Categoría:Alimentos"
         },
         {
-          "ID": 1368,
-          "Title": "Categoría:Gastronomía"
+          "ID": 66741,
+          "Title": "Categoría:Arte"
         },
         {
-          "ID": 1656,
-          "Title": "Categoría:Películes"
+          "ID": 81732,
+          "Title": "Categoría:Artes escéniques"
         },
         {
-          "ID": 4590,
-          "Title": "Categoría:Fuelga"
+          "ID": 13882,
+          "Title": "Categoría:Artes marciales"
         },
         {
-          "ID": 4592,
-          "Title": "Categoría:Espectáculos"
-        },
-        {
-          "ID": 6768,
-          "Title": "Categoría:Grupos de música"
-        },
-        {
-          "ID": 8228,
-          "Title": "Categoría:Alimentación"
-        },
-        {
-          "ID": 12328,
-          "Title": "Categoría:Entretenimientu"
-        },
-        {
-          "ID": 15999,
-          "Title": "Categoría:Colores"
+          "ID": 169446,
+          "Title": "Categoría:Bruxería"
         },
         {
           "ID": 16740,
           "Title": "Categoría:Color"
         },
         {
+          "ID": 15999,
+          "Title": "Categoría:Colores"
+        },
+        {
+          "ID": 6809,
+          "Title": "Categoría:Composiciones musicales"
+        },
+        {
+          "ID": 35519,
+          "Title": "Categoría:Conocencia"
+        },
+        {
+          "ID": 816,
+          "Title": "Categoría:Cultura"
+        },
+        {
+          "ID": 17761,
+          "Title": "Categoría:Cultura por estáu"
+        },
+        {
+          "ID": 97291,
+          "Title": "Categoría:Deporte"
+        },
+        {
+          "ID": 104,
+          "Title": "Categoría:Deportes"
+        },
+        {
+          "ID": 1893,
+          "Title": "Categoría:Educación"
+        },
+        {
+          "ID": 8946,
+          "Title": "Categoría:Emisores de radio"
+        },
+        {
+          "ID": 5017,
+          "Title": "Categoría:Enciclopedies"
+        },
+        {
+          "ID": 12328,
+          "Title": "Categoría:Entretenimientu"
+        },
+        {
           "ID": 19695,
           "Title": "Categoría:Escritura"
+        },
+        {
+          "ID": 4592,
+          "Title": "Categoría:Espectáculos"
+        },
+        {
+          "ID": 7018,
+          "Title": "Categoría:Estilos de música"
+        },
+        {
+          "ID": 91127,
+          "Title": "Categoría:Ficción"
+        },
+        {
+          "ID": 4590,
+          "Title": "Categoría:Fuelga"
+        },
+        {
+          "ID": 1368,
+          "Title": "Categoría:Gastronomía"
+        },
+        {
+          "ID": 6768,
+          "Title": "Categoría:Grupos de música"
+        },
+        {
+          "ID": 169449,
+          "Title": "Categoría:Lleendes"
+        },
+        {
+          "ID": 9392,
+          "Title": "Categoría:Llibros"
+        },
+        {
+          "ID": 1828,
+          "Title": "Categoría:Lliteratura"
+        },
+        {
+          "ID": 169451,
+          "Title": "Categoría:Maxa"
+        },
+        {
+          "ID": 103,
+          "Title": "Categoría:Música"
         },
         {
           "ID": 28153,
           "Title": "Categoría:Nutrición"
         },
         {
-          "ID": 66741,
-          "Title": "Categoría:Arte"
+          "ID": 66976,
+          "Title": "Categoría:Obres lliteraries"
         },
         {
-          "ID": 97291,
-          "Title": "Categoría:Deporte"
-        }
-      ],
-      "Articles": [
-        {
-          "ID": 464,
-          "Title": "Gochu"
+          "ID": 1656,
+          "Title": "Categoría:Películes"
         },
         {
-          "ID": 465,
-          "Title": "Sus scrofa"
+          "ID": 7124,
+          "Title": "Categoría:Periódicos"
         },
         {
-          "ID": 1419,
-          "Title": "Café"
+          "ID": 170017,
+          "Title": "Categoría:Práutiques sexuales"
         },
         {
-          "ID": 5012,
-          "Title": "Wikipedia"
+          "ID": 11484,
+          "Title": "Categoría:Revistes"
         },
         {
-          "ID": 5560,
-          "Title": "Cerveza"
+          "ID": 21529,
+          "Title": "Categoría:Sexualidá"
         },
         {
-          "ID": 11336,
-          "Title": "Chicolate"
+          "ID": 6819,
+          "Title": "Categoría:Televisión"
         },
         {
-          "ID": 16867,
-          "Title": "Pan"
+          "ID": 14419,
+          "Title": "Categoría:Videoxuegos"
         },
         {
-          "ID": 17681,
-          "Title": "Pastia"
-        },
-        {
-          "ID": 17739,
-          "Title": "Pastel"
-        },
-        {
-          "ID": 18902,
-          "Title": "Güevu (alimentu)"
-        },
-        {
-          "ID": 18905,
-          "Title": "Güevu (bioloxía)"
-        },
-        {
-          "ID": 23997,
-          "Title": "Wikipedia n'asturianu"
-        },
-        {
-          "ID": 24010,
-          "Title": "Banda (música)"
-        },
-        {
-          "ID": 24335,
-          "Title": "Carbonara"
-        },
-        {
-          "ID": 24975,
-          "Title": "Cerveza Pilsener"
-        },
-        {
-          "ID": 36886,
-          "Title": "Sándwich Barros Luco"
-        },
-        {
-          "ID": 39667,
-          "Title": "Xibia naranxa"
-        },
-        {
-          "ID": 41230,
-          "Title": "Led Zeppelin"
-        },
-        {
-          "ID": 42221,
-          "Title": "AC/DC"
-        },
-        {
-          "ID": 48814,
-          "Title": "Theobroma cacao"
-        },
-        {
-          "ID": 54858,
-          "Title": "Colexu Hogwarts de Maxa y Bruxería"
-        },
-        {
-          "ID": 64672,
-          "Title": "Coffea arabica"
-        },
-        {
-          "ID": 73414,
-          "Title": "Enciclopedia"
-        },
-        {
-          "ID": 73555,
-          "Title": "Realidá"
-        },
-        {
-          "ID": 80108,
-          "Title": "Rellenu (gastronomía)"
-        },
-        {
-          "ID": 80165,
-          "Title": "Güevu fritu"
-        },
-        {
-          "ID": 80183,
-          "Title": "Tarta"
-        },
-        {
-          "ID": 87497,
-          "Title": "Xeláu"
-        },
-        {
-          "ID": 87505,
-          "Title": "Xamón"
-        },
-        {
-          "ID": 87509,
-          "Title": "Carne de gochu"
-        },
-        {
-          "ID": 87539,
-          "Title": "Arroz frito"
-        },
-        {
-          "ID": 87543,
-          "Title": "Pizza"
-        },
-        {
-          "ID": 87558,
-          "Title": "Chicolate caliente"
-        },
-        {
-          "ID": 92448,
-          "Title": "Sexu oral"
-        },
-        {
-          "ID": 92641,
-          "Title": "Trinéu"
-        },
-        {
-          "ID": 95445,
-          "Title": "Green Day"
-        },
-        {
-          "ID": 111408,
-          "Title": "Palaciu de Buckingham"
-        },
-        {
-          "ID": 112779,
-          "Title": "Pantasma"
-        },
-        {
-          "ID": 112781,
-          "Title": "Bisarma del llagu Ness"
-        },
-        {
-          "ID": 112902,
-          "Title": "Realismu artísticu"
-        },
-        {
-          "ID": 113282,
-          "Title": "Sus"
-        },
-        {
-          "ID": 129506,
-          "Title": "Ginger ale"
-        },
-        {
-          "ID": 138093,
-          "Title": "Panceta"
-        },
-        {
-          "ID": 138112,
-          "Title": "Perrín caliente"
-        },
-        {
-          "ID": 144015,
-          "Title": "Realismu lliterariu"
-        },
-        {
-          "ID": 144026,
-          "Title": "Felación"
-        },
-        {
-          "ID": 162201,
-          "Title": "Ash Ketchum"
+          "ID": 35203,
+          "Title": "Categoría:Xéneru"
         }
       ]
     },
@@ -266,54 +172,40 @@
       "Title": "Geography and places",
       "Categories": [
         {
+          "ID": 96271,
+          "Title": "Categoría:Cais"
+        },
+        {
+          "ID": 29019,
+          "Title": "Categoría:Carreteres"
+        },
+        {
+          "ID": 81664,
+          "Title": "Categoría:Llocalidaes por estáu"
+        },
+        {
+          "ID": 21316,
+          "Title": "Categoría:Monumentos"
+        },
+        {
+          "ID": 18556,
+          "Title": "Categoría:Palacios"
+        },
+        {
+          "ID": 58,
+          "Title": "Categoría:Países"
+        },
+        {
+          "ID": 4980,
+          "Title": "Categoría:Ríos"
+        },
+        {
           "ID": 56,
           "Title": "Categoría:Xeografía"
         },
         {
           "ID": 15154,
           "Title": "Categoría:Xeomorfoloxía"
-        },
-        {
-          "ID": 21316,
-          "Title": "Categoría:Monumentos"
-        }
-      ],
-      "Articles": [
-        {
-          "ID": 1441,
-          "Title": "Humanu"
-        },
-        {
-          "ID": 4619,
-          "Title": "Australia"
-        },
-        {
-          "ID": 4866,
-          "Title": "Myanmar"
-        },
-        {
-          "ID": 4940,
-          "Title": "París"
-        },
-        {
-          "ID": 9690,
-          "Title": "Venecia"
-        },
-        {
-          "ID": 40567,
-          "Title": "Canberra"
-        },
-        {
-          "ID": 87660,
-          "Title": "Pirámide (arquiteutura)"
-        },
-        {
-          "ID": 94746,
-          "Title": "Queensland"
-        },
-        {
-          "ID": 136584,
-          "Title": "Homo sapiens"
         }
       ]
     },
@@ -322,30 +214,28 @@
       "Title": "Health and fitness",
       "Categories": [
         {
+          "ID": 170368,
+          "Title": "Categoría:Anatomía humana"
+        },
+        {
           "ID": 839,
           "Title": "Categoría:Ciencies de la salú"
-        },
-        {
-          "ID": 6280,
-          "Title": "Categoría:Medicina"
-        },
-        {
-          "ID": 12524,
-          "Title": "Categoría:Especialidaes médiques"
         },
         {
           "ID": 19424,
           "Title": "Categoría:Enfermedaes xenétiques"
         },
         {
+          "ID": 12524,
+          "Title": "Categoría:Especialidaes médiques"
+        },
+        {
+          "ID": 6280,
+          "Title": "Categoría:Medicina"
+        },
+        {
           "ID": 28154,
           "Title": "Categoría:Salú"
-        }
-      ],
-      "Articles": [
-        {
-          "ID": 144289,
-          "Title": "ASMR"
         }
       ]
     },
@@ -354,42 +244,32 @@
       "Title": "History and events",
       "Categories": [
         {
-          "ID": 57,
-          "Title": "Categoría:Ciencies sociales"
+          "ID": 80912,
+          "Title": "Categoría:Celebraciones del día"
         },
         {
-          "ID": 61,
-          "Title": "Categoría:Ciencies humanes"
+          "ID": 82099,
+          "Title": "Categoría:Guerra"
+        },
+        {
+          "ID": 9565,
+          "Title": "Categoría:Guerres"
         },
         {
           "ID": 751,
           "Title": "Categoría:Historia"
         },
         {
-          "ID": 80912,
-          "Title": "Categoría:Celebraciones del día"
-        },
-        {
           "ID": 97683,
           "Title": "Categoría:Historia por estáu"
-        }
-      ],
-      "Articles": [
-        {
-          "ID": 74054,
-          "Title": "Donald Trump"
         },
         {
-          "ID": 92980,
-          "Title": "Guerra de Troya"
+          "ID": 28232,
+          "Title": "Categoría:Represión política"
         },
         {
-          "ID": 114389,
-          "Title": "Atentaos del 11 de setiembre de 2001"
-        },
-        {
-          "ID": 114397,
-          "Title": "Terremotu y tsunami de Xapón de 2011"
+          "ID": 21192,
+          "Title": "Categoría:Revoluciones"
         }
       ]
     },
@@ -398,18 +278,20 @@
       "Title": "Mathematics and logic",
       "Categories": [
         {
+          "ID": 7985,
+          "Title": "Categoría:Lóxica"
+        },
+        {
           "ID": 680,
           "Title": "Categoría:Matemátiques"
         },
         {
-          "ID": 7985,
-          "Title": "Categoría:Lóxica"
-        }
-      ],
-      "Articles": [
+          "ID": 11130,
+          "Title": "Categoría:Sistemes d'Unidaes"
+        },
         {
-          "ID": 114504,
-          "Title": "Llargor"
+          "ID": 1854,
+          "Title": "Categoría:Unidaes de midida"
         }
       ]
     },
@@ -418,214 +300,76 @@
       "Title": "Nature and physical sciences",
       "Categories": [
         {
-          "ID": 51,
-          "Title": "Categoría:Ciencies"
+          "ID": 12520,
+          "Title": "Categoría:Anatomía"
         },
         {
-          "ID": 671,
-          "Title": "Categoría:Física"
+          "ID": 377,
+          "Title": "Categoría:Animales"
         },
         {
-          "ID": 746,
-          "Title": "Categoría:Ciencies naturales"
-        },
-        {
-          "ID": 814,
-          "Title": "Categoría:Química"
-        },
-        {
-          "ID": 15582,
-          "Title": "Categoría:Zooloxía"
-        },
-        {
-          "ID": 17570,
-          "Title": "Categoría:Desastres"
-        },
-        {
-          "ID": 35519,
-          "Title": "Categoría:Conocencia"
+          "ID": 17338,
+          "Title": "Categoría:Animalia"
         },
         {
           "ID": 43454,
           "Title": "Categoría:Ciencia"
         },
         {
-          "ID": 66999,
-          "Title": "Categoría:Fauna por continente"
+          "ID": 51,
+          "Title": "Categoría:Ciencies"
         },
         {
-          "ID": 67006,
-          "Title": "Categoría:Natura"
+          "ID": 746,
+          "Title": "Categoría:Ciencies naturales"
         },
         {
           "ID": 81690,
           "Title": "Categoría:Compuestos químicos"
         },
         {
+          "ID": 17570,
+          "Title": "Categoría:Desastres"
+        },
+        {
+          "ID": 9889,
+          "Title": "Categoría:Ecoloxía"
+        },
+        {
+          "ID": 66999,
+          "Title": "Categoría:Fauna por continente"
+        },
+        {
+          "ID": 8227,
+          "Title": "Categoría:Frutes"
+        },
+        {
+          "ID": 671,
+          "Title": "Categoría:Física"
+        },
+        {
+          "ID": 67006,
+          "Title": "Categoría:Natura"
+        },
+        {
+          "ID": 18086,
+          "Title": "Categoría:Plantes"
+        },
+        {
+          "ID": 814,
+          "Title": "Categoría:Química"
+        },
+        {
           "ID": 81691,
           "Title": "Categoría:Sustancies químiques"
-        }
-      ],
-      "Articles": [
-        {
-          "ID": 6899,
-          "Title": "Zea mays"
         },
         {
-          "ID": 13973,
-          "Title": "Citrus limon"
+          "ID": 66810,
+          "Title": "Categoría:Vida"
         },
         {
-          "ID": 14828,
-          "Title": "Trigu"
-        },
-        {
-          "ID": 15073,
-          "Title": "Pene"
-        },
-        {
-          "ID": 16734,
-          "Title": "Fueu"
-        },
-        {
-          "ID": 17049,
-          "Title": "Naranxa (frutu)"
-        },
-        {
-          "ID": 17949,
-          "Title": "Arroz"
-        },
-        {
-          "ID": 17951,
-          "Title": "Oryza sativa"
-        },
-        {
-          "ID": 18084,
-          "Title": "Cucurbita maxima"
-        },
-        {
-          "ID": 18135,
-          "Title": "Tomate"
-        },
-        {
-          "ID": 18157,
-          "Title": "Biltu"
-        },
-        {
-          "ID": 28586,
-          "Title": "Hidroloxía"
-        },
-        {
-          "ID": 38445,
-          "Title": "Aparatu xenital"
-        },
-        {
-          "ID": 38454,
-          "Title": "Camelus"
-        },
-        {
-          "ID": 63697,
-          "Title": "Scomber scombrus (xarda)"
-        },
-        {
-          "ID": 63973,
-          "Title": "Ananas comosus"
-        },
-        {
-          "ID": 64300,
-          "Title": "Brassica oleracea var. botrytis"
-        },
-        {
-          "ID": 64764,
-          "Title": "Cucumis melo"
-        },
-        {
-          "ID": 65197,
-          "Title": "Fragaria vesca"
-        },
-        {
-          "ID": 65198,
-          "Title": "Fragaria × ananassa"
-        },
-        {
-          "ID": 65609,
-          "Title": "Mangifera indica"
-        },
-        {
-          "ID": 65828,
-          "Title": "Physalis peruviana"
-        },
-        {
-          "ID": 66438,
-          "Title": "Triticum aestivum"
-        },
-        {
-          "ID": 67710,
-          "Title": "Elymus farctus"
-        },
-        {
-          "ID": 67859,
-          "Title": "Juniperus thurifera"
-        },
-        {
-          "ID": 73520,
-          "Title": "Músculu"
-        },
-        {
-          "ID": 86955,
-          "Title": "Lycosidae"
-        },
-        {
-          "ID": 92452,
-          "Title": "Masturbación"
-        },
-        {
-          "ID": 94888,
-          "Title": "Testículu"
-        },
-        {
-          "ID": 95405,
-          "Title": "Orina"
-        },
-        {
-          "ID": 95968,
-          "Title": "Fragaria"
-        },
-        {
-          "ID": 112968,
-          "Title": "Sistema muscular"
-        },
-        {
-          "ID": 113088,
-          "Title": "Hylidae"
-        },
-        {
-          "ID": 113092,
-          "Title": "Phoenicopterus"
-        },
-        {
-          "ID": 113275,
-          "Title": "Alces alces"
-        },
-        {
-          "ID": 113909,
-          "Title": "Ciclu hidrolóxicu"
-        },
-        {
-          "ID": 137177,
-          "Title": "Cadena trófica"
-        },
-        {
-          "ID": 138304,
-          "Title": "Triticum"
-        },
-        {
-          "ID": 138388,
-          "Title": "Grandes felinos"
-        },
-        {
-          "ID": 152040,
-          "Title": "Aparatu llocomotor"
+          "ID": 15582,
+          "Title": "Categoría:Zooloxía"
         }
       ]
     },
@@ -634,150 +378,100 @@
       "Title": "People and self",
       "Categories": [
         {
+          "ID": 7236,
+          "Title": "Categoría:Actores y actrices"
+        },
+        {
+          "ID": 66982,
+          "Title": "Categoría:Actores y actrices de cine"
+        },
+        {
+          "ID": 85364,
+          "Title": "Categoría:Alpinistes por estáu"
+        },
+        {
+          "ID": 13928,
+          "Title": "Categoría:Arquiteutos y arquiteutes"
+        },
+        {
+          "ID": 67004,
+          "Title": "Categoría:Artistes"
+        },
+        {
+          "ID": 18803,
+          "Title": "Categoría:Aviadores"
+        },
+        {
           "ID": 1232,
           "Title": "Categoría:Biografíes"
         },
         {
-          "ID": 66810,
-          "Title": "Categoría:Vida"
+          "ID": 66743,
+          "Title": "Categoría:Biografíes por actividá"
+        },
+        {
+          "ID": 4530,
+          "Title": "Categoría:Escritores"
+        },
+        {
+          "ID": 4845,
+          "Title": "Categoría:Esploradores"
+        },
+        {
+          "ID": 1235,
+          "Title": "Categoría:Filósofos y filósofes"
+        },
+        {
+          "ID": 42336,
+          "Title": "Categoría:Finaos por añu"
+        },
+        {
+          "ID": 9606,
+          "Title": "Categoría:Inventores"
+        },
+        {
+          "ID": 7887,
+          "Title": "Categoría:Matemáticos y matemátiques"
         },
         {
           "ID": 153557,
           "Title": "Categoría:Muyeres"
-        }
-      ],
-      "Articles": [
-        {
-          "ID": 2160,
-          "Title": "Bill Gates"
         },
         {
-          "ID": 5506,
-          "Title": "Adolf Hitler"
+          "ID": 9637,
+          "Title": "Categoría:Médicos y médiques"
         },
         {
-          "ID": 6516,
-          "Title": "Noam Chomsky"
+          "ID": 5195,
+          "Title": "Categoría:Músicos y músiques"
         },
         {
-          "ID": 7758,
-          "Title": "Alan Turing"
+          "ID": 38552,
+          "Title": "Categoría:Nacíos por añu"
         },
         {
-          "ID": 8213,
-          "Title": "Cristóbalo Colón"
+          "ID": 10207,
+          "Title": "Categoría:Personaxes de ficción"
         },
         {
-          "ID": 9621,
-          "Title": "Sigmund Freud"
+          "ID": 42353,
+          "Title": "Categoría:Persones vives"
         },
         {
-          "ID": 9623,
-          "Title": "Galileo Galilei"
+          "ID": 3837,
+          "Title": "Categoría:Políticos y polítiques"
         },
         {
-          "ID": 10702,
-          "Title": "Adam Smith"
+          "ID": 3836,
+          "Title": "Categoría:Presidentes"
         },
         {
-          "ID": 10776,
-          "Title": "Tomás d'Aquino"
+          "ID": 97159,
+          "Title": "Categoría:Presidentes por estáu"
         },
         {
-          "ID": 12435,
-          "Title": "Johannes Kepler"
-        },
-        {
-          "ID": 15155,
-          "Title": "Carl Friedrich Gauss"
-        },
-        {
-          "ID": 23112,
-          "Title": "Harry Houdini"
-        },
-        {
-          "ID": 27008,
-          "Title": "Joseph Smith (fíu)"
-        },
-        {
-          "ID": 27343,
-          "Title": "Lewis Carroll"
-        },
-        {
-          "ID": 27551,
-          "Title": "René Descartes"
-        },
-        {
-          "ID": 31154,
-          "Title": "John Lennon"
-        },
-        {
-          "ID": 38919,
-          "Title": "Richard Wagner"
-        },
-        {
-          "ID": 42268,
-          "Title": "Elton John"
-        },
-        {
-          "ID": 73689,
-          "Title": "William Blake"
-        },
-        {
-          "ID": 74530,
-          "Title": "Oliver Cromwell"
-        },
-        {
-          "ID": 74535,
-          "Title": "Florence Nightingale"
-        },
-        {
-          "ID": 74550,
-          "Title": "Charles Babbage"
-        },
-        {
-          "ID": 74614,
-          "Title": "Alexander Fleming"
-        },
-        {
-          "ID": 74655,
-          "Title": "Carl Sagan"
-        },
-        {
-          "ID": 79734,
-          "Title": "George Harrison"
-        },
-        {
-          "ID": 91483,
-          "Title": "Dorothy Vaughan"
-        },
-        {
-          "ID": 93681,
-          "Title": "Leonardo de Pisa"
-        },
-        {
-          "ID": 94848,
-          "Title": "The Big Bang Theory"
-        },
-        {
-          "ID": 111091,
-          "Title": "Richard Dawkins"
-        },
-        {
-          "ID": 138245,
-          "Title": "Srinivasa Aiyangar Ramanujan"
-        },
-        {
-          "ID": 143108,
-          "Title": "Cory Monteith"
-        },
-        {
-          "ID": 145299,
-          "Title": "Norah McClintock"
-        },
-        {
-          "ID": 167416,
-          "Title": "Daniel Radcliffe"
+          "ID": 34758,
+          "Title": "Categoría:Revolucionarios"
         }
       ]
     },
@@ -785,6 +479,14 @@
       "ID": 2147483644,
       "Title": "Philosophy and thinking",
       "Categories": [
+        {
+          "ID": 89887,
+          "Title": "Categoría:Disciplines filosófiques"
+        },
+        {
+          "ID": 35450,
+          "Title": "Categoría:Doctrines filosófiques"
+        },
         {
           "ID": 815,
           "Title": "Categoría:Filosofía"
@@ -794,50 +496,24 @@
           "Title": "Categoría:Ideoloxía"
         },
         {
-          "ID": 20876,
-          "Title": "Categoría:Ética"
-        },
-        {
-          "ID": 35450,
-          "Title": "Categoría:Doctrines filosófiques"
-        },
-        {
-          "ID": 35451,
-          "Title": "Categoría:Teoríes filosófiques"
+          "ID": 89886,
+          "Title": "Categoría:Metafísica"
         },
         {
           "ID": 35520,
           "Title": "Categoría:Pensamientu"
         },
         {
+          "ID": 35451,
+          "Title": "Categoría:Teoríes filosófiques"
+        },
+        {
           "ID": 66795,
           "Title": "Categoría:Teoríes polítiques"
         },
         {
-          "ID": 89887,
-          "Title": "Categoría:Disciplines filosófiques"
-        }
-      ],
-      "Articles": [
-        {
-          "ID": 46935,
-          "Title": "Guapura"
-        },
-        {
-          "ID": 92488,
-          "Title": "Felicidá"
-        },
-        {
-          "ID": 92518,
-          "Title": "Enfotu"
-        },
-        {
-          "ID": 102872,
-          "Title": "Creyencia"
-        },
-        {
-          "ID": 114188,
-          "Title": "Fe"
+          "ID": 20876,
+          "Title": "Categoría:Ética"
         }
       ]
     },
@@ -846,24 +522,24 @@
       "Title": "Religion and belief systems",
       "Categories": [
         {
-          "ID": 827,
-          "Title": "Categoría:Relixón"
-        },
-        {
-          "ID": 12607,
-          "Title": "Categoría:Denomaciones relixoses"
-        },
-        {
-          "ID": 14168,
-          "Title": "Categoría:Teoloxía"
+          "ID": 169450,
+          "Title": "Categoría:Creyencies"
         },
         {
           "ID": 35448,
           "Title": "Categoría:Crítica a la relixón"
         },
         {
-          "ID": 169450,
-          "Title": "Categoría:Creyencies"
+          "ID": 12607,
+          "Title": "Categoría:Denomaciones relixoses"
+        },
+        {
+          "ID": 827,
+          "Title": "Categoría:Relixón"
+        },
+        {
+          "ID": 14168,
+          "Title": "Categoría:Teoloxía"
         }
       ]
     },
@@ -872,226 +548,76 @@
       "Title": "Society and social sciences",
       "Categories": [
         {
-          "ID": 57,
-          "Title": "Categoría:Ciencies sociales"
+          "ID": 38562,
+          "Title": "Categoría:Banderes nacionales"
         },
         {
           "ID": 61,
           "Title": "Categoría:Ciencies humanes"
         },
         {
+          "ID": 57,
+          "Title": "Categoría:Ciencies sociales"
+        },
+        {
+          "ID": 9968,
+          "Title": "Categoría:Compañíes aérees"
+        },
+        {
           "ID": 1802,
           "Title": "Categoría:Derechu"
         },
         {
-          "ID": 1901,
-          "Title": "Categoría:Sociedá"
+          "ID": 66805,
+          "Title": "Categoría:Dineru"
+        },
+        {
+          "ID": 7765,
+          "Title": "Categoría:Empreses"
         },
         {
           "ID": 10209,
           "Title": "Categoría:Feminismu"
         },
         {
-          "ID": 17835,
-          "Title": "Categoría:Organizaciones internacionales"
+          "ID": 66790,
+          "Title": "Categoría:Finances"
+        },
+        {
+          "ID": 16004,
+          "Title": "Categoría:Gobiernu"
         },
         {
           "ID": 29095,
           "Title": "Categoría:Lleis"
-        }
-      ],
-      "Articles": [
-        {
-          "ID": 4769,
-          "Title": "Xunión Europea"
         },
         {
-          "ID": 4840,
-          "Title": "Irán"
+          "ID": 5524,
+          "Title": "Categoría:Monedes"
         },
         {
-          "ID": 7551,
-          "Title": "Chile"
+          "ID": 4998,
+          "Title": "Categoría:Organizaciones"
         },
         {
-          "ID": 8088,
-          "Title": "Horariu de branu"
+          "ID": 17835,
+          "Title": "Categoría:Organizaciones internacionales"
         },
         {
-          "ID": 14063,
-          "Title": "Universidá de Harvard"
+          "ID": 25620,
+          "Title": "Categoría:Sicoloxía"
         },
         {
-          "ID": 18325,
-          "Title": "Barbados"
+          "ID": 17774,
+          "Title": "Categoría:Sistemes políticos"
         },
         {
-          "ID": 22513,
-          "Title": "Universidá de Boloña"
+          "ID": 1901,
+          "Title": "Categoría:Sociedá"
         },
         {
-          "ID": 24510,
-          "Title": "Imperial College London"
-        },
-        {
-          "ID": 27263,
-          "Title": "Universidá de Boston"
-        },
-        {
-          "ID": 78687,
-          "Title": "The New York Times"
-        },
-        {
-          "ID": 85541,
-          "Title": "Economía d'Irán"
-        },
-        {
-          "ID": 94551,
-          "Title": "Universidá de Chicago"
-        },
-        {
-          "ID": 94553,
-          "Title": "Institutu Teunolóxicu de Massachusetts"
-        },
-        {
-          "ID": 94554,
-          "Title": "Universidá Stanford"
-        },
-        {
-          "ID": 94555,
-          "Title": "Universidá de Virginia"
-        },
-        {
-          "ID": 94803,
-          "Title": "Universidá d'Oxford"
-        },
-        {
-          "ID": 94850,
-          "Title": "Universidá de París"
-        },
-        {
-          "ID": 94872,
-          "Title": "Universidá de Princeton"
-        },
-        {
-          "ID": 95294,
-          "Title": "Universidá de Londres"
-        },
-        {
-          "ID": 95717,
-          "Title": "Universidá de Columbia"
-        },
-        {
-          "ID": 98380,
-          "Title": "Pizza Hut"
-        },
-        {
-          "ID": 98381,
-          "Title": "Starbucks"
-        },
-        {
-          "ID": 98431,
-          "Title": "BP"
-        },
-        {
-          "ID": 99577,
-          "Title": "Universidá de Cambridge"
-        },
-        {
-          "ID": 103182,
-          "Title": "Universidá de Washington"
-        },
-        {
-          "ID": 110856,
-          "Title": "Añu Nuevu chinu"
-        },
-        {
-          "ID": 111116,
-          "Title": "Universidá de Tokiu"
-        },
-        {
-          "ID": 114601,
-          "Title": "Universidá de Míchigan"
-        },
-        {
-          "ID": 114608,
-          "Title": "Universidá de Pensilvania"
-        },
-        {
-          "ID": 114610,
-          "Title": "Universidá de Calcuta"
-        },
-        {
-          "ID": 114616,
-          "Title": "Universidá de Nankín"
-        },
-        {
-          "ID": 114618,
-          "Title": "Universidá Tsinghua"
-        },
-        {
-          "ID": 114621,
-          "Title": "Universidá de Viena"
-        },
-        {
-          "ID": 114629,
-          "Title": "Universidá de Gotinga"
-        },
-        {
-          "ID": 114633,
-          "Title": "Universidá Estatal de Moscú"
-        },
-        {
-          "ID": 114634,
-          "Title": "Universidá Estatal de San Petersburgo"
-        },
-        {
-          "ID": 114636,
-          "Title": "Universidá Nacional Australiana"
-        },
-        {
-          "ID": 114730,
-          "Title": "Fideicomisu"
-        },
-        {
-          "ID": 114875,
-          "Title": "Trabayu social"
-        },
-        {
-          "ID": 117813,
-          "Title": "Universidá de Leipzig"
-        },
-        {
-          "ID": 127318,
-          "Title": "Universidá del Sur de California"
-        },
-        {
-          "ID": 128324,
-          "Title": "Universidá de Misuri"
-        },
-        {
-          "ID": 128995,
-          "Title": "Universidá de Birmingham"
-        },
-        {
-          "ID": 138276,
-          "Title": "The Times of India"
-        },
-        {
-          "ID": 139822,
-          "Title": "Universidá de Lancaster"
-        },
-        {
-          "ID": 150563,
-          "Title": "Universidá Nacional de Seúl"
-        },
-        {
-          "ID": 153391,
-          "Title": "American Airlines"
-        },
-        {
-          "ID": 163668,
-          "Title": "Universidá Linneo"
+          "ID": 24255,
+          "Title": "Categoría:Xeopolítica"
         }
       ]
     },
@@ -1100,16 +626,32 @@
       "Title": "Technology and applied sciences",
       "Categories": [
         {
+          "ID": 89197,
+          "Title": "Categoría:Bases de datos"
+        },
+        {
+          "ID": 138537,
+          "Title": "Categoría:Carpintería"
+        },
+        {
           "ID": 828,
           "Title": "Categoría:Ciencies aplicaes"
         },
         {
-          "ID": 829,
-          "Title": "Categoría:Teunoloxía"
+          "ID": 16441,
+          "Title": "Categoría:Construcción"
         },
         {
-          "ID": 1894,
-          "Title": "Categoría:Inxeniería"
+          "ID": 13437,
+          "Title": "Categoría:Ferramientes"
+        },
+        {
+          "ID": 138455,
+          "Title": "Categoría:Ferramientes manuales"
+        },
+        {
+          "ID": 19740,
+          "Title": "Categoría:Impresión"
         },
         {
           "ID": 1898,
@@ -1120,46 +662,32 @@
           "Title": "Categoría:Internet"
         },
         {
+          "ID": 1894,
+          "Title": "Categoría:Inxeniería"
+        },
+        {
+          "ID": 9342,
+          "Title": "Categoría:Inxeniería mecánica"
+        },
+        {
+          "ID": 137695,
+          "Title": "Categoría:Programación"
+        },
+        {
+          "ID": 2164,
+          "Title": "Categoría:Software"
+        },
+        {
+          "ID": 829,
+          "Title": "Categoría:Teunoloxía"
+        },
+        {
           "ID": 8307,
           "Title": "Categoría:Tresporte"
         },
         {
-          "ID": 89197,
-          "Title": "Categoría:Bases de datos"
-        }
-      ],
-      "Articles": [
-        {
-          "ID": 4570,
-          "Title": "Dominiu Internet"
-        },
-        {
-          "ID": 16999,
-          "Title": "Pepsi"
-        },
-        {
-          "ID": 98228,
-          "Title": "Sega 32X"
-        },
-        {
-          "ID": 98429,
-          "Title": "PepsiCo"
-        },
-        {
-          "ID": 115006,
-          "Title": "Albañilería"
-        },
-        {
-          "ID": 115013,
-          "Title": "Paré"
-        },
-        {
-          "ID": 115077,
-          "Title": "Soldadura"
-        },
-        {
-          "ID": 129508,
-          "Title": "Goma de mascar"
+          "ID": 47741,
+          "Title": "Categoría:Videoconsoles"
         }
       ]
     }

@@ -6,38 +6,48 @@
       "Title": "Culture and the arts",
       "Categories": [
         {
-          "ID": 1239,
-          "Title": "Kategorija:Kultura"
-        },
-        {
           "ID": 1241,
           "Title": "Kategorija:Arti"
         },
         {
-          "ID": 1257,
-          "Title": "Kategorija:Kċina"
+          "ID": 17443,
+          "Title": "Kategorija:Arti marzjali"
         },
         {
           "ID": 1258,
           "Title": "Kategorija:Divertiment"
         },
         {
+          "ID": 1239,
+          "Title": "Kategorija:Kultura"
+        },
+        {
+          "ID": 1257,
+          "Title": "Kategorija:Kċina"
+        },
+        {
+          "ID": 1249,
+          "Title": "Kategorija:Letteratura"
+        },
+        {
+          "ID": 8487,
+          "Title": "Kategorija:Logħob elettroniku"
+        },
+        {
+          "ID": 8474,
+          "Title": "Kategorija:Logħob tal-mejda"
+        },
+        {
+          "ID": 1242,
+          "Title": "Kategorija:Mużika"
+        },
+        {
           "ID": 1261,
           "Title": "Kategorija:Sport"
-        }
-      ],
-      "Articles": [
-        {
-          "ID": 984,
-          "Title": "Wikipedija"
         },
         {
-          "ID": 1434,
-          "Title": "Enċiklopedija"
-        },
-        {
-          "ID": 24059,
-          "Title": "Ħanżir"
+          "ID": 3098,
+          "Title": "Kategorija:Televiżjoni"
         }
       ]
     },
@@ -46,26 +56,12 @@
       "Title": "Geography and places",
       "Categories": [
         {
+          "ID": 1408,
+          "Title": "Kategorija:Pajjiżi"
+        },
+        {
           "ID": 1186,
           "Title": "Kategorija:Ġeografija"
-        }
-      ],
-      "Articles": [
-        {
-          "ID": 2517,
-          "Title": "Awstralja"
-        },
-        {
-          "ID": 3741,
-          "Title": "Bniedem"
-        },
-        {
-          "ID": 17679,
-          "Title": "Burma"
-        },
-        {
-          "ID": 23230,
-          "Title": "Pariġi"
         }
       ]
     },
@@ -84,30 +80,16 @@
       "Title": "History and events",
       "Categories": [
         {
-          "ID": 1181,
-          "Title": "Kategorija:Xjenza soċjali"
+          "ID": 8269,
+          "Title": "Kategorija:Avvenimenti"
+        },
+        {
+          "ID": 2100,
+          "Title": "Kategorija:Gwerer"
         },
         {
           "ID": 1187,
           "Title": "Kategorija:Storja"
-        },
-        {
-          "ID": 3096,
-          "Title": "Kategorija:Xjenzi soċjali"
-        },
-        {
-          "ID": 8269,
-          "Title": "Kategorija:Avvenimenti"
-        }
-      ],
-      "Articles": [
-        {
-          "ID": 16439,
-          "Title": "Attakki tal-11 ta' Settembru"
-        },
-        {
-          "ID": 23279,
-          "Title": "Donald Trump"
         }
       ]
     },
@@ -130,8 +112,8 @@
       "Title": "Nature and physical sciences",
       "Categories": [
         {
-          "ID": 1168,
-          "Title": "Kategorija:Xjenza"
+          "ID": 1174,
+          "Title": "Kategorija:Ekoloġija"
         },
         {
           "ID": 1176,
@@ -140,42 +122,48 @@
         {
           "ID": 1182,
           "Title": "Kategorija:Kimika"
-        }
-      ],
-      "Articles": [
+        },
         {
-          "ID": 20850,
-          "Title": "Lumija"
+          "ID": 1168,
+          "Title": "Kategorija:Xjenza"
         }
       ]
     },
     {
       "ID": 2147483643,
       "Title": "People and self",
-      "Articles": [
+      "Categories": [
         {
-          "ID": 2936,
-          "Title": "Adolf Hitler"
+          "ID": 7081,
+          "Title": "Kategorija:Arkitetti"
         },
         {
-          "ID": 2938,
-          "Title": "Galileo Galilei"
+          "ID": 16451,
+          "Title": "Kategorija:Filosfi"
         },
         {
-          "ID": 3513,
-          "Title": "Kristofru Kolombu"
+          "ID": 17206,
+          "Title": "Kategorija:Imwiet skont is-sena"
         },
         {
-          "ID": 3747,
-          "Title": "Alan Turing"
+          "ID": 1317,
+          "Title": "Kategorija:Kittieba"
         },
         {
-          "ID": 3853,
-          "Title": "Bill Gates"
+          "ID": 6748,
+          "Title": "Kategorija:Matematiċi"
         },
         {
-          "ID": 16728,
-          "Title": "René Descartes"
+          "ID": 6255,
+          "Title": "Kategorija:Mużiċisti"
+        },
+        {
+          "ID": 8080,
+          "Title": "Kategorija:Nies ħajjin"
+        },
+        {
+          "ID": 16494,
+          "Title": "Kategorija:Politiċi"
         }
       ]
     },
@@ -187,12 +175,6 @@
           "ID": 1192,
           "Title": "Kategorija:Filosofija"
         }
-      ],
-      "Articles": [
-        {
-          "ID": 4632,
-          "Title": "Fatt"
-        }
       ]
     },
     {
@@ -200,12 +182,12 @@
       "Title": "Religion and belief systems",
       "Categories": [
         {
-          "ID": 1287,
-          "Title": "Kategorija:Teoloġija"
-        },
-        {
           "ID": 1288,
           "Title": "Kategorija:Reliġjon"
+        },
+        {
+          "ID": 1287,
+          "Title": "Kategorija:Teoloġija"
         }
       ]
     },
@@ -214,6 +196,14 @@
       "Title": "Society and social sciences",
       "Categories": [
         {
+          "ID": 3124,
+          "Title": "Kategorija:Finanza"
+        },
+        {
+          "ID": 1193,
+          "Title": "Kategorija:Psikoloġija"
+        },
+        {
           "ID": 1181,
           "Title": "Kategorija:Xjenza soċjali"
         },
@@ -221,34 +211,12 @@
           "ID": 3096,
           "Title": "Kategorija:Xjenzi soċjali"
         }
-      ],
-      "Articles": [
-        {
-          "ID": 1119,
-          "Title": "Unjoni Ewropea"
-        },
-        {
-          "ID": 13013,
-          "Title": "Ċili"
-        },
-        {
-          "ID": 17674,
-          "Title": "Barbados"
-        },
-        {
-          "ID": 20701,
-          "Title": "Iran"
-        }
       ]
     },
     {
       "ID": 2147483647,
       "Title": "Technology and applied sciences",
       "Categories": [
-        {
-          "ID": 1180,
-          "Title": "Kategorija:Xjenza Applikati"
-        },
         {
           "ID": 1202,
           "Title": "Kategorija:Elettronika"
@@ -264,6 +232,10 @@
         {
           "ID": 1210,
           "Title": "Kategorija:Trasport"
+        },
+        {
+          "ID": 1180,
+          "Title": "Kategorija:Xjenza Applikati"
         }
       ]
     }

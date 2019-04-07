@@ -10,398 +10,252 @@
           "Title": "Kategoria:Aisia"
         },
         {
-          "ID": 5809,
-          "Title": "Kategoria:Ikuskizunak"
-        },
-        {
-          "ID": 5963,
-          "Title": "Kategoria:Elikagaiak"
-        },
-        {
-          "ID": 5964,
-          "Title": "Kategoria:Elikadura"
-        },
-        {
-          "ID": 6165,
-          "Title": "Kategoria:Gastronomia"
-        },
-        {
-          "ID": 6558,
-          "Title": "Kategoria:Musika taldeak"
-        },
-        {
-          "ID": 7633,
-          "Title": "Kategoria:Kultura"
-        },
-        {
-          "ID": 9161,
-          "Title": "Kategoria:Koloreak"
-        },
-        {
-          "ID": 12081,
-          "Title": "Kategoria:Filmak"
-        },
-        {
-          "ID": 21556,
-          "Title": "Kategoria:Kirolak"
-        },
-        {
-          "ID": 22534,
-          "Title": "Kategoria:Idazketa"
-        },
-        {
-          "ID": 24686,
-          "Title": "Kategoria:Arteak"
-        },
-        {
-          "ID": 131573,
-          "Title": "Kategoria:Zaletasunak"
-        },
-        {
-          "ID": 158938,
-          "Title": "Kategoria:Jolasa"
-        },
-        {
-          "ID": 228414,
-          "Title": "Kategoria:Sukaldeko teknikak"
-        },
-        {
-          "ID": 229789,
-          "Title": "Kategoria:Kirolak motaren arabera"
-        },
-        {
-          "ID": 297829,
-          "Title": "Kategoria:Janariak eta edariak"
+          "ID": 5940,
+          "Title": "Kategoria:Aldizkariak"
         },
         {
           "ID": 297983,
           "Title": "Kategoria:Ariketa fisikoa"
         },
         {
+          "ID": 24697,
+          "Title": "Kategoria:Arte eszenikoak"
+        },
+        {
+          "ID": 24686,
+          "Title": "Kategoria:Arteak"
+        },
+        {
+          "ID": 19739,
+          "Title": "Kategoria:Bideojokoak"
+        },
+        {
+          "ID": 594473,
+          "Title": "Kategoria:Biografia"
+        },
+        {
+          "ID": 158883,
+          "Title": "Kategoria:Bizitza pertsonala"
+        },
+        {
+          "ID": 239967,
+          "Title": "Kategoria:Borroka arteak"
+        },
+        {
+          "ID": 580468,
+          "Title": "Kategoria:Eguberri gastronomia"
+        },
+        {
+          "ID": 8407,
+          "Title": "Kategoria:Egunkariak"
+        },
+        {
+          "ID": 5964,
+          "Title": "Kategoria:Elikadura"
+        },
+        {
+          "ID": 5963,
+          "Title": "Kategoria:Elikagaiak"
+        },
+        {
+          "ID": 21542,
+          "Title": "Kategoria:Entziklopediak"
+        },
+        {
+          "ID": 147083,
+          "Title": "Kategoria:Erreferentzia bildumak"
+        },
+        {
+          "ID": 100334,
+          "Title": "Kategoria:Ezagutza"
+        },
+        {
+          "ID": 6696,
+          "Title": "Kategoria:Fikzioa"
+        },
+        {
+          "ID": 293445,
+          "Title": "Kategoria:Fikziozko lekuak"
+        },
+        {
+          "ID": 12081,
+          "Title": "Kategoria:Filmak"
+        },
+        {
+          "ID": 237383,
+          "Title": "Kategoria:Folklorea"
+        },
+        {
+          "ID": 6165,
+          "Title": "Kategoria:Gastronomia"
+        },
+        {
+          "ID": 229456,
+          "Title": "Kategoria:Generoa"
+        },
+        {
+          "ID": 161960,
+          "Title": "Kategoria:Giza sexualitatea"
+        },
+        {
+          "ID": 140797,
+          "Title": "Kategoria:Herri kultura"
+        },
+        {
+          "ID": 6169,
+          "Title": "Kategoria:Hezkuntza"
+        },
+        {
+          "ID": 22534,
+          "Title": "Kategoria:Idazketa"
+        },
+        {
+          "ID": 5809,
+          "Title": "Kategoria:Ikuskizunak"
+        },
+        {
+          "ID": 125275,
+          "Title": "Kategoria:Ilusionismoa"
+        },
+        {
+          "ID": 583048,
+          "Title": "Kategoria:Interneteko kultura"
+        },
+        {
+          "ID": 9506,
+          "Title": "Kategoria:Irrati kateak"
+        },
+        {
+          "ID": 7444,
+          "Title": "Kategoria:Jaialdiak"
+        },
+        {
+          "ID": 297829,
+          "Title": "Kategoria:Janariak eta edariak"
+        },
+        {
+          "ID": 158938,
+          "Title": "Kategoria:Jolasa"
+        },
+        {
+          "ID": 21556,
+          "Title": "Kategoria:Kirolak"
+        },
+        {
+          "ID": 229789,
+          "Title": "Kategoria:Kirolak motaren arabera"
+        },
+        {
+          "ID": 9161,
+          "Title": "Kategoria:Koloreak"
+        },
+        {
+          "ID": 421190,
+          "Title": "Kategoria:Kondairak"
+        },
+        {
+          "ID": 7633,
+          "Title": "Kategoria:Kultura"
+        },
+        {
+          "ID": 48477,
+          "Title": "Kategoria:Kultura herrialdearen arabera"
+        },
+        {
+          "ID": 98160,
+          "Title": "Kategoria:Kulturak"
+        },
+        {
+          "ID": 713430,
+          "Title": "Kategoria:Laizismoa"
+        },
+        {
+          "ID": 7543,
+          "Title": "Kategoria:Liburuak"
+        },
+        {
+          "ID": 4319,
+          "Title": "Kategoria:Literatura"
+        },
+        {
+          "ID": 297481,
+          "Title": "Kategoria:Literatura lanak"
+        },
+        {
+          "ID": 297480,
+          "Title": "Kategoria:Literatura lanak egilearen arabera"
+        },
+        {
+          "ID": 224147,
+          "Title": "Kategoria:Magia"
+        },
+        {
+          "ID": 5803,
+          "Title": "Kategoria:Margolanak"
+        },
+        {
+          "ID": 5804,
+          "Title": "Kategoria:Musika"
+        },
+        {
+          "ID": 66765,
+          "Title": "Kategoria:Musika formak"
+        },
+        {
+          "ID": 738890,
+          "Title": "Kategoria:Musika generoaren arabera"
+        },
+        {
+          "ID": 165953,
+          "Title": "Kategoria:Musika konposizioak"
+        },
+        {
+          "ID": 8440,
+          "Title": "Kategoria:Musika motak"
+        },
+        {
+          "ID": 6558,
+          "Title": "Kategoria:Musika taldeak"
+        },
+        {
+          "ID": 668480,
+          "Title": "Kategoria:Obrak artistaren arabera"
+        },
+        {
           "ID": 674888,
           "Title": "Kategoria:Platerak osagaien arabera"
-        }
-      ],
-      "Articles": [
-        {
-          "ID": 4654,
-          "Title": "Wikipedia"
-        },
-        {
-          "ID": 5965,
-          "Title": "Garagardo"
-        },
-        {
-          "ID": 6126,
-          "Title": "Txokolate"
-        },
-        {
-          "ID": 21541,
-          "Title": "Entziklopedia"
-        },
-        {
-          "ID": 32577,
-          "Title": "Hogwarts"
-        },
-        {
-          "ID": 33220,
-          "Title": "Green Day"
-        },
-        {
-          "ID": 33456,
-          "Title": "Ogi"
-        },
-        {
-          "ID": 42240,
-          "Title": "Txerri"
-        },
-        {
-          "ID": 50931,
-          "Title": "Sgt. Pepper's Lonely Hearts Club Band"
-        },
-        {
-          "ID": 52202,
-          "Title": "Led Zeppelin"
-        },
-        {
-          "ID": 53471,
-          "Title": "Kafe"
-        },
-        {
-          "ID": 71127,
-          "Title": "Lera"
-        },
-        {
-          "ID": 74213,
-          "Title": "Ogi zapal"
-        },
-        {
-          "ID": 79367,
-          "Title": "Basurde"
-        },
-        {
-          "ID": 88863,
-          "Title": "Bizkotxo"
-        },
-        {
-          "ID": 91438,
-          "Title": "Pizza"
-        },
-        {
-          "ID": 92604,
-          "Title": "AC/DC"
-        },
-        {
-          "ID": 93031,
-          "Title": "Ness aintzirako munstroa"
-        },
-        {
-          "ID": 93257,
-          "Title": "Buckingham jauregia"
-        },
-        {
-          "ID": 99931,
-          "Title": "Arrautza (janaria)"
-        },
-        {
-          "ID": 103086,
-          "Title": "Kakao arbola"
-        },
-        {
-          "ID": 104544,
-          "Title": "Mordred"
-        },
-        {
-          "ID": 104719,
-          "Title": "Felazio"
-        },
-        {
-          "ID": 112270,
-          "Title": "Galesezko Wikipedia"
-        },
-        {
-          "ID": 112425,
-          "Title": "Asturierazko Wikipedia"
-        },
-        {
-          "ID": 112810,
-          "Title": "Miranderazko Wikipedia"
-        },
-        {
-          "ID": 116210,
-          "Title": "Gaileta"
-        },
-        {
-          "ID": 116277,
-          "Title": "Urdaiazpiko"
-        },
-        {
-          "ID": 118273,
-          "Title": "Errealismo"
-        },
-        {
-          "ID": 118274,
-          "Title": "Errealismo (margolaritza)"
-        },
-        {
-          "ID": 128501,
-          "Title": "Erreferentzia-lan"
-        },
-        {
-          "ID": 128811,
-          "Title": "Errealitate"
-        },
-        {
-          "ID": 131518,
-          "Title": "Kafe-landare"
-        },
-        {
-          "ID": 142905,
-          "Title": "Eztei-tarta"
-        },
-        {
-          "ID": 152337,
-          "Title": "Mamu"
-        },
-        {
-          "ID": 156095,
-          "Title": "Arrautza"
-        },
-        {
-          "ID": 157093,
-          "Title": "Aho sexu"
-        },
-        {
-          "ID": 162540,
-          "Title": "Kastitate"
-        },
-        {
-          "ID": 202467,
-          "Title": "Pilsner"
-        },
-        {
-          "ID": 202641,
-          "Title": "Ikasteko teknikak"
-        },
-        {
-          "ID": 227013,
-          "Title": "Izozki"
-        },
-        {
-          "ID": 240346,
-          "Title": "Judas (abestia)"
-        },
-        {
-          "ID": 283571,
-          "Title": "Errealismo (literatura)"
-        },
-        {
-          "ID": 295115,
-          "Title": "Pecorino"
-        },
-        {
-          "ID": 295436,
-          "Title": "Hot dog"
-        },
-        {
-          "ID": 297825,
-          "Title": "Tarta"
-        },
-        {
-          "ID": 339730,
-          "Title": "Pasta (orea)"
-        },
-        {
-          "ID": 341201,
-          "Title": "Gozopil"
-        },
-        {
-          "ID": 344969,
-          "Title": "Saltsa"
-        },
-        {
-          "ID": 379691,
-          "Title": "Urdai"
-        },
-        {
-          "ID": 386798,
-          "Title": "The World Factbook"
-        },
-        {
-          "ID": 434016,
-          "Title": "Txerriki"
-        },
-        {
-          "ID": 436537,
-          "Title": "Oin Handi"
-        },
-        {
-          "ID": 505776,
-          "Title": "Sus (generoa)"
-        },
-        {
-          "ID": 533435,
-          "Title": "Taco"
-        },
-        {
-          "ID": 571496,
-          "Title": "Zortearen gaileta"
-        },
-        {
-          "ID": 583718,
-          "Title": "M\u0026M's"
-        },
-        {
-          "ID": 597409,
-          "Title": "Marmotaren eguna"
-        },
-        {
-          "ID": 612295,
-          "Title": "Frantziako gastronomia"
-        },
-        {
-          "ID": 631872,
-          "Title": "Kakaodun esnea"
-        },
-        {
-          "ID": 631987,
-          "Title": "Txokolate zuri"
-        },
-        {
-          "ID": 645517,
-          "Title": "Arrautza egosi"
-        },
-        {
-          "ID": 645525,
-          "Title": "Arrautza frijitu"
-        },
-        {
-          "ID": 646107,
-          "Title": "Arroz frijitu"
-        },
-        {
-          "ID": 646324,
-          "Title": "Moldeko ogi"
-        },
-        {
-          "ID": 647304,
-          "Title": "Ogi integral"
-        },
-        {
-          "ID": 647306,
-          "Title": "Soda ogi"
-        },
-        {
-          "ID": 651670,
-          "Title": "Ailis"
-        },
-        {
-          "ID": 674609,
-          "Title": "Ginger ale"
-        },
-        {
-          "ID": 674762,
-          "Title": "Kakahuete-gurin"
-        },
-        {
-          "ID": 674885,
-          "Title": "Haragi xehetu"
-        },
-        {
-          "ID": 711878,
-          "Title": "2017ko Eurovision Abesti Lehiaketa"
         },
         {
-          "ID": 723517,
-          "Title": "Zelibatu"
+          "ID": 138835,
+          "Title": "Kategoria:Sexu ekintzak"
         },
         {
-          "ID": 727320,
-          "Title": "2018ko Eurovision Abesti Lehiaketa"
+          "ID": 724732,
+          "Title": "Kategoria:Sexua"
         },
         {
-          "ID": 733053,
-          "Title": "Bitter"
+          "ID": 17685,
+          "Title": "Kategoria:Sexualitatea"
         },
         {
-          "ID": 742131,
-          "Title": "Oilasko tikka masala"
+          "ID": 142770,
+          "Title": "Kategoria:Sorginkeria"
         },
         {
-          "ID": 742135,
-          "Title": "Tomate saltsa"
+          "ID": 228414,
+          "Title": "Kategoria:Sukaldeko teknikak"
         },
         {
-          "ID": 743404,
-          "Title": "Sucker Punch"
+          "ID": 139361,
+          "Title": "Kategoria:Taula-jokoak"
         },
         {
-          "ID": 748466,
-          "Title": "Txokolate beltz"
+          "ID": 6159,
+          "Title": "Kategoria:Telebista"
         },
         {
-          "ID": 755591,
-          "Title": "Pasta-entsalada"
+          "ID": 131573,
+          "Title": "Kategoria:Zaletasunak"
         }
       ]
     },
@@ -410,66 +264,68 @@
       "Title": "Geography and places",
       "Categories": [
         {
+          "ID": 48417,
+          "Title": "Kategoria:Errepideak"
+        },
+        {
+          "ID": 45462,
+          "Title": "Kategoria:Estatua"
+        },
+        {
           "ID": 3436,
           "Title": "Kategoria:Geografia"
-        },
-        {
-          "ID": 5802,
-          "Title": "Kategoria:Monumentuak"
-        },
-        {
-          "ID": 7863,
-          "Title": "Kategoria:Hirigintza"
         },
         {
           "ID": 60134,
           "Title": "Kategoria:Geomorfologia"
         },
         {
+          "ID": 741115,
+          "Title": "Kategoria:Giza kokaguneak"
+        },
+        {
+          "ID": 21583,
+          "Title": "Kategoria:Herrialdeak"
+        },
+        {
+          "ID": 741111,
+          "Title": "Kategoria:Hiria"
+        },
+        {
+          "ID": 105417,
+          "Title": "Kategoria:Hiriak"
+        },
+        {
+          "ID": 7863,
+          "Title": "Kategoria:Hirigintza"
+        },
+        {
+          "ID": 5956,
+          "Title": "Kategoria:Ibaiak"
+        },
+        {
+          "ID": 384371,
+          "Title": "Kategoria:Iturburuak"
+        },
+        {
+          "ID": 43488,
+          "Title": "Kategoria:Jauregiak"
+        },
+        {
+          "ID": 76003,
+          "Title": "Kategoria:Kaleak"
+        },
+        {
+          "ID": 723064,
+          "Title": "Kategoria:Lurraldeak"
+        },
+        {
+          "ID": 5802,
+          "Title": "Kategoria:Monumentuak"
+        },
+        {
           "ID": 239641,
           "Title": "Kategoria:Tokiak"
-        }
-      ],
-      "Articles": [
-        {
-          "ID": 4688,
-          "Title": "Paris"
-        },
-        {
-          "ID": 5488,
-          "Title": "Australia"
-        },
-        {
-          "ID": 9224,
-          "Title": "Canberra"
-        },
-        {
-          "ID": 9739,
-          "Title": "Gizaki"
-        },
-        {
-          "ID": 9893,
-          "Title": "Myanmar"
-        },
-        {
-          "ID": 12076,
-          "Title": "Venezia"
-        },
-        {
-          "ID": 64358,
-          "Title": "Queensland"
-        },
-        {
-          "ID": 482857,
-          "Title": "Piramide (arkitektura)"
-        },
-        {
-          "ID": 698228,
-          "Title": "Carlsbad (Mexiko Berria)"
-        },
-        {
-          "ID": 843730,
-          "Title": "Aberfoyle (Stirling)"
         }
       ]
     },
@@ -478,44 +334,48 @@
       "Title": "Health and fitness",
       "Categories": [
         {
-          "ID": 5788,
-          "Title": "Kategoria:Medikuntza"
-        },
-        {
-          "ID": 5789,
-          "Title": "Kategoria:Osasun zientziak"
-        },
-        {
-          "ID": 6285,
-          "Title": "Kategoria:Osasuna"
-        },
-        {
-          "ID": 33283,
-          "Title": "Kategoria:Higienea"
-        },
-        {
-          "ID": 83268,
-          "Title": "Kategoria:Gaixotasun hereditarioak"
+          "ID": 48527,
+          "Title": "Kategoria:Erizaintza"
         },
         {
           "ID": 83336,
           "Title": "Kategoria:Gaixotasun genetikoak"
         },
         {
+          "ID": 36268,
+          "Title": "Kategoria:Giza anatomia"
+        },
+        {
+          "ID": 33283,
+          "Title": "Kategoria:Higienea"
+        },
+        {
+          "ID": 5788,
+          "Title": "Kategoria:Medikuntza"
+        },
+        {
           "ID": 131334,
           "Title": "Kategoria:Medikuntza-espezialitateak"
         },
         {
-          "ID": 141429,
-          "Title": "Kategoria:Zainketa pertsonala"
+          "ID": 5789,
+          "Title": "Kategoria:Osasun zientziak"
         },
         {
           "ID": 344267,
           "Title": "Kategoria:Osasun-zainketa"
         },
         {
+          "ID": 6285,
+          "Title": "Kategoria:Osasuna"
+        },
+        {
           "ID": 583095,
           "Title": "Kategoria:Osasunaren lanbideak"
+        },
+        {
+          "ID": 141429,
+          "Title": "Kategoria:Zainketa pertsonala"
         }
       ]
     },
@@ -524,8 +384,24 @@
       "Title": "History and events",
       "Categories": [
         {
-          "ID": 5730,
-          "Title": "Kategoria:Gizarte zientziak"
+          "ID": 109756,
+          "Title": "Kategoria:Eraso terroristak"
+        },
+        {
+          "ID": 238948,
+          "Title": "Kategoria:Gerra"
+        },
+        {
+          "ID": 35687,
+          "Title": "Kategoria:Gerrak"
+        },
+        {
+          "ID": 96497,
+          "Title": "Kategoria:Gertaerak"
+        },
+        {
+          "ID": 380502,
+          "Title": "Kategoria:Gertakari politikoak"
         },
         {
           "ID": 5732,
@@ -536,50 +412,24 @@
           "Title": "Kategoria:Historia herrialdearen arabera"
         },
         {
-          "ID": 96497,
-          "Title": "Kategoria:Gertaerak"
-        },
-        {
-          "ID": 157480,
-          "Title": "Kategoria:Kultura ekitaldiak"
-        },
-        {
-          "ID": 655111,
-          "Title": "Kategoria:Humanitateak"
+          "ID": 240408,
+          "Title": "Kategoria:Historia politikoa"
         },
         {
           "ID": 675884,
           "Title": "Kategoria:Historia tokiaren arabera"
-        }
-      ],
-      "Articles": [
-        {
-          "ID": 24077,
-          "Title": "2001eko irailaren 11ko atentatuak"
         },
         {
-          "ID": 54560,
-          "Title": "Troiako Gerra"
+          "ID": 366548,
+          "Title": "Kategoria:Indarkeria politikoa"
         },
         {
-          "ID": 146045,
-          "Title": "Mexikoko golkoaren marea beltza"
+          "ID": 6715,
+          "Title": "Kategoria:Iraultzak"
         },
         {
-          "ID": 162607,
-          "Title": "2011ko Sendaiko lurrikara eta tsunamia"
-        },
-        {
-          "ID": 365173,
-          "Title": "2012ko Ameriketako Estatu Batuetako hauteskundeak"
-        },
-        {
-          "ID": 647329,
-          "Title": "Donald Trump"
-        },
-        {
-          "ID": 657648,
-          "Title": "2016ko Orlandoko Pulse diskotekako sarraskia"
+          "ID": 157480,
+          "Title": "Kategoria:Kultura ekitaldiak"
         }
       ]
     },
@@ -588,38 +438,36 @@
       "Title": "Mathematics and logic",
       "Categories": [
         {
-          "ID": 5742,
-          "Title": "Kategoria:Matematika"
-        },
-        {
           "ID": 7335,
           "Title": "Kategoria:Estatistika"
-        },
-        {
-          "ID": 54194,
-          "Title": "Kategoria:Logika"
         },
         {
           "ID": 99470,
           "Title": "Kategoria:Informatika teorikoa"
         },
         {
+          "ID": 54194,
+          "Title": "Kategoria:Logika"
+        },
+        {
+          "ID": 5742,
+          "Title": "Kategoria:Matematika"
+        },
+        {
           "ID": 128637,
           "Title": "Kategoria:Matematika aplikatua"
+        },
+        {
+          "ID": 341501,
+          "Title": "Kategoria:Matematika kontzeptuak"
         },
         {
           "ID": 162031,
           "Title": "Kategoria:Matematikaren arloak"
         },
         {
-          "ID": 341501,
-          "Title": "Kategoria:Matematika kontzeptuak"
-        }
-      ],
-      "Articles": [
-        {
-          "ID": 332306,
-          "Title": "Luzera"
+          "ID": 7438,
+          "Title": "Kategoria:Neurri unitateak"
         }
       ]
     },
@@ -628,20 +476,48 @@
       "Title": "Nature and physical sciences",
       "Categories": [
         {
-          "ID": 3460,
-          "Title": "Kategoria:Kimika"
+          "ID": 4332,
+          "Title": "Kategoria:Anatomia"
         },
         {
-          "ID": 3844,
-          "Title": "Kategoria:Zientziak"
+          "ID": 6556,
+          "Title": "Kategoria:Animaliak"
+        },
+        {
+          "ID": 64255,
+          "Title": "Kategoria:Bizia"
+        },
+        {
+          "ID": 4333,
+          "Title": "Kategoria:Ekologia"
+        },
+        {
+          "ID": 241855,
+          "Title": "Kategoria:Fauna kontinentearen arabera"
         },
         {
           "ID": 3928,
           "Title": "Kategoria:Fisika"
         },
         {
-          "ID": 4336,
-          "Title": "Kategoria:Zoologia"
+          "ID": 6685,
+          "Title": "Kategoria:Fruituak"
+        },
+        {
+          "ID": 387452,
+          "Title": "Kategoria:Hondamenak eta istripuak"
+        },
+        {
+          "ID": 3460,
+          "Title": "Kategoria:Kimika"
+        },
+        {
+          "ID": 32349,
+          "Title": "Kategoria:Konposatu kimikoak"
+        },
+        {
+          "ID": 9779,
+          "Title": "Kategoria:Lurra"
         },
         {
           "ID": 5913,
@@ -652,266 +528,24 @@
           "Title": "Kategoria:Natura zientziak"
         },
         {
-          "ID": 32349,
-          "Title": "Kategoria:Konposatu kimikoak"
+          "ID": 67614,
+          "Title": "Kategoria:Proteinak"
         },
         {
           "ID": 76014,
           "Title": "Kategoria:Substantzia kimikoak"
         },
         {
-          "ID": 100334,
-          "Title": "Kategoria:Ezagutza"
-        },
-        {
           "ID": 162025,
           "Title": "Kategoria:Zientzia"
         },
         {
-          "ID": 241855,
-          "Title": "Kategoria:Fauna kontinentearen arabera"
+          "ID": 3844,
+          "Title": "Kategoria:Zientziak"
         },
         {
-          "ID": 387452,
-          "Title": "Kategoria:Hondamenak eta istripuak"
-        }
-      ],
-      "Articles": [
-        {
-          "ID": 5719,
-          "Title": "Su"
-        },
-        {
-          "ID": 6378,
-          "Title": "Tomate"
-        },
-        {
-          "ID": 9414,
-          "Title": "Arroz"
-        },
-        {
-          "ID": 9820,
-          "Title": "Arto"
-        },
-        {
-          "ID": 9826,
-          "Title": "Camelus"
-        },
-        {
-          "ID": 22348,
-          "Title": "Lokomozio-aparatu"
-        },
-        {
-          "ID": 23967,
-          "Title": "Muskulu"
-        },
-        {
-          "ID": 36266,
-          "Title": "Zakil"
-        },
-        {
-          "ID": 42348,
-          "Title": "Hidrologia"
-        },
-        {
-          "ID": 45596,
-          "Title": "Anakonda"
-        },
-        {
-          "ID": 55402,
-          "Title": "Masturbazio"
-        },
-        {
-          "ID": 61574,
-          "Title": "Muskulu-sistema"
-        },
-        {
-          "ID": 62046,
-          "Title": "Ateles"
-        },
-        {
-          "ID": 65452,
-          "Title": "Gari"
-        },
-        {
-          "ID": 65672,
-          "Title": "Limoiondo"
-        },
-        {
-          "ID": 65729,
-          "Title": "Laranjondo"
-        },
-        {
-          "ID": 65736,
-          "Title": "Laranja"
-        },
-        {
-          "ID": 70169,
-          "Title": "Mangifera indica"
-        },
-        {
-          "ID": 72439,
-          "Title": "Barrabil"
-        },
-        {
-          "ID": 80448,
-          "Title": "Azalore"
-        },
-        {
-          "ID": 101453,
-          "Title": "Gernu"
-        },
-        {
-          "ID": 102074,
-          "Title": "Marrubi"
-        },
-        {
-          "ID": 110286,
-          "Title": "Esekidura (kimika)"
-        },
-        {
-          "ID": 128841,
-          "Title": "Anana"
-        },
-        {
-          "ID": 129860,
-          "Title": "Ugaltze-aparatu"
-        },
-        {
-          "ID": 130743,
-          "Title": "Meloi"
-        },
-        {
-          "ID": 130937,
-          "Title": "Kate trofiko"
-        },
-        {
-          "ID": 131379,
-          "Title": "Uraren zikloa"
-        },
-        {
-          "ID": 134453,
-          "Title": "Altze"
-        },
-        {
-          "ID": 156186,
-          "Title": "Flamenko (hegaztia)"
-        },
-        {
-          "ID": 158526,
-          "Title": "Txitxarro"
-        },
-        {
-          "ID": 158936,
-          "Title": "Berdel"
-        },
-        {
-          "ID": 222099,
-          "Title": "Oryza sativa"
-        },
-        {
-          "ID": 222114,
-          "Title": "Oryza"
-        },
-        {
-          "ID": 329082,
-          "Title": "Intsentsu-sabina"
-        },
-        {
-          "ID": 348933,
-          "Title": "Anakonda arrunt"
-        },
-        {
-          "ID": 356111,
-          "Title": "Haackgreerius miopus"
-        },
-        {
-          "ID": 375905,
-          "Title": "Bazka sare"
-        },
-        {
-          "ID": 395800,
-          "Title": "Pantherinae"
-        },
-        {
-          "ID": 412112,
-          "Title": "Pseudacris crucifer"
-        },
-        {
-          "ID": 420560,
-          "Title": "Itsas aski"
-        },
-        {
-          "ID": 426032,
-          "Title": "Glaphyromorphus"
-        },
-        {
-          "ID": 428698,
-          "Title": "Ophisaurus"
-        },
-        {
-          "ID": 449664,
-          "Title": "Hylidae"
-        },
-        {
-          "ID": 464657,
-          "Title": "Lima (fruitua)"
-        },
-        {
-          "ID": 529308,
-          "Title": "Diplocrepis puniceus"
-        },
-        {
-          "ID": 561354,
-          "Title": "Rastrelliger kanagurta"
-        },
-        {
-          "ID": 564751,
-          "Title": "Mirto (zuhaitza)"
-        },
-        {
-          "ID": 571959,
-          "Title": "Ernetze"
-        },
-        {
-          "ID": 592655,
-          "Title": "Lycosidae"
-        },
-        {
-          "ID": 594380,
-          "Title": "Baratze-marrubi"
-        },
-        {
-          "ID": 594384,
-          "Title": "Marrubi arrunt"
-        },
-        {
-          "ID": 594393,
-          "Title": "Gari arrunt"
-        },
-        {
-          "ID": 648143,
-          "Title": "Garrulus"
-        },
-        {
-          "ID": 648314,
-          "Title": "Tentakulu"
-        },
-        {
-          "ID": 653954,
-          "Title": "Mangifera"
-        },
-        {
-          "ID": 717174,
-          "Title": "Sexu-organo"
-        },
-        {
-          "ID": 737468,
-          "Title": "Mango"
-        },
-        {
-          "ID": 755031,
-          "Title": "Giza zakila"
+          "ID": 4336,
+          "Title": "Kategoria:Zoologia"
         }
       ]
     },
@@ -920,198 +554,136 @@
       "Title": "People and self",
       "Categories": [
         {
+          "ID": 103918,
+          "Title": "Kategoria:Abizenak"
+        },
+        {
+          "ID": 7581,
+          "Title": "Kategoria:Aktoreak"
+        },
+        {
+          "ID": 103484,
+          "Title": "Kategoria:Alpinistak herrialdearen arabera"
+        },
+        {
+          "ID": 290455,
+          "Title": "Kategoria:Ameriketako Estatu Batuetako jeneralak"
+        },
+        {
+          "ID": 6557,
+          "Title": "Kategoria:Arkitektoak"
+        },
+        {
+          "ID": 40290,
+          "Title": "Kategoria:Artistak"
+        },
+        {
+          "ID": 5872,
+          "Title": "Kategoria:Asmatzaileak"
+        },
+        {
           "ID": 9611,
           "Title": "Kategoria:Biografiak"
         },
         {
-          "ID": 64255,
-          "Title": "Kategoria:Bizia"
+          "ID": 241947,
+          "Title": "Kategoria:Biografiak jokabidearen arabera"
+        },
+        {
+          "ID": 32918,
+          "Title": "Kategoria:Biografiak lanbidearen arabera"
+        },
+        {
+          "ID": 670188,
+          "Title": "Kategoria:Biografoak"
         },
         {
           "ID": 102211,
           "Title": "Kategoria:Emakumea"
         },
         {
-          "ID": 103918,
-          "Title": "Kategoria:Abizenak"
+          "ID": 53887,
+          "Title": "Kategoria:Erizainak"
+        },
+        {
+          "ID": 5946,
+          "Title": "Kategoria:Esploratzaileak"
+        },
+        {
+          "ID": 678588,
+          "Title": "Kategoria:Estatuburuak"
+        },
+        {
+          "ID": 32389,
+          "Title": "Kategoria:Fikziozko pertsonaiak"
+        },
+        {
+          "ID": 3932,
+          "Title": "Kategoria:Filosofoak"
+        },
+        {
+          "ID": 368848,
+          "Title": "Kategoria:Gizabanako biziak"
+        },
+        {
+          "ID": 10101,
+          "Title": "Kategoria:Hegazkinlariak"
+        },
+        {
+          "ID": 160519,
+          "Title": "Kategoria:Heriotzak urtearen arabera"
+        },
+        {
+          "ID": 290576,
+          "Title": "Kategoria:Hildako gizabanakoak"
+        },
+        {
+          "ID": 3427,
+          "Title": "Kategoria:Idazleak"
+        },
+        {
+          "ID": 18830,
+          "Title": "Kategoria:Iraultzaileak"
+        },
+        {
+          "ID": 160520,
+          "Title": "Kategoria:Jaiotzak urtearen arabera"
+        },
+        {
+          "ID": 290732,
+          "Title": "Kategoria:Lehendakariak"
+        },
+        {
+          "ID": 3931,
+          "Title": "Kategoria:Matematikariak"
+        },
+        {
+          "ID": 6668,
+          "Title": "Kategoria:Medikuak"
+        },
+        {
+          "ID": 35880,
+          "Title": "Kategoria:Musikariak"
         },
         {
           "ID": 105600,
           "Title": "Kategoria:Nia"
         },
         {
-          "ID": 158883,
-          "Title": "Kategoria:Bizitza pertsonala"
+          "ID": 4528,
+          "Title": "Kategoria:Politikariak"
+        },
+        {
+          "ID": 203818,
+          "Title": "Kategoria:Politologoak"
+        },
+        {
+          "ID": 105878,
+          "Title": "Kategoria:Presidenteak herrialdearen arabera"
         },
         {
           "ID": 294258,
           "Title": "Kategoria:Zinemako pertsonaiak"
-        },
-        {
-          "ID": 594473,
-          "Title": "Kategoria:Biografia"
-        },
-        {
-          "ID": 668692,
-          "Title": "Kategoria:Izaera"
-        },
-        {
-          "ID": 670188,
-          "Title": "Kategoria:Biografoak"
-        }
-      ],
-      "Articles": [
-        {
-          "ID": 25,
-          "Title": "Galileo Galilei"
-        },
-        {
-          "ID": 34,
-          "Title": "Johannes Kepler"
-        },
-        {
-          "ID": 3881,
-          "Title": "René Descartes"
-        },
-        {
-          "ID": 5529,
-          "Title": "Adolf Hitler"
-        },
-        {
-          "ID": 5677,
-          "Title": "Richard Wagner"
-        },
-        {
-          "ID": 5713,
-          "Title": "Sigmund Freud"
-        },
-        {
-          "ID": 5895,
-          "Title": "Bill Gates"
-        },
-        {
-          "ID": 5944,
-          "Title": "Kristobal Kolon"
-        },
-        {
-          "ID": 6402,
-          "Title": "Adam Smith"
-        },
-        {
-          "ID": 7266,
-          "Title": "Tomas Akinokoa"
-        },
-        {
-          "ID": 7875,
-          "Title": "Carl Sagan"
-        },
-        {
-          "ID": 11674,
-          "Title": "John Lennon"
-        },
-        {
-          "ID": 22305,
-          "Title": "Alexander Fleming"
-        },
-        {
-          "ID": 22430,
-          "Title": "Noam Chomsky"
-        },
-        {
-          "ID": 24076,
-          "Title": "Alan Turing"
-        },
-        {
-          "ID": 36042,
-          "Title": "Carl Friedrich Gauss"
-        },
-        {
-          "ID": 40212,
-          "Title": "William Blake"
-        },
-        {
-          "ID": 42729,
-          "Title": "Oliver Cromwell"
-        },
-        {
-          "ID": 50598,
-          "Title": "Florence Nightingale"
-        },
-        {
-          "ID": 52281,
-          "Title": "George Harrison"
-        },
-        {
-          "ID": 54719,
-          "Title": "Richard Dawkins"
-        },
-        {
-          "ID": 65200,
-          "Title": "Leonardo Pisano"
-        },
-        {
-          "ID": 65826,
-          "Title": "Harry Houdini"
-        },
-        {
-          "ID": 66520,
-          "Title": "Charles Babbage"
-        },
-        {
-          "ID": 73525,
-          "Title": "Johnny Appleseed"
-        },
-        {
-          "ID": 75572,
-          "Title": "Lewis Carroll"
-        },
-        {
-          "ID": 111990,
-          "Title": "The Big Bang Theory"
-        },
-        {
-          "ID": 225752,
-          "Title": "Anders Behring Breivik"
-        },
-        {
-          "ID": 227583,
-          "Title": "Daniel Radcliffe"
-        },
-        {
-          "ID": 231058,
-          "Title": "Theodor Schwann"
-        },
-        {
-          "ID": 274717,
-          "Title": "Irving Langmuir"
-        },
-        {
-          "ID": 277246,
-          "Title": "Chaïm Soutine"
-        },
-        {
-          "ID": 278114,
-          "Title": "Joseph Smith"
-        },
-        {
-          "ID": 278419,
-          "Title": "Elton John"
-        },
-        {
-          "ID": 372608,
-          "Title": "Srinivasa Aiyangar Ramanujan"
-        },
-        {
-          "ID": 674576,
-          "Title": "Stefan Lochner"
-        },
-        {
-          "ID": 716419,
-          "Title": "Dorothy Vaughan"
-        },
-        {
-          "ID": 736632,
-          "Title": "Sheldon Cooper"
         }
       ]
     },
@@ -1120,62 +692,52 @@
       "Title": "Philosophy and thinking",
       "Categories": [
         {
-          "ID": 3934,
-          "Title": "Kategoria:Filosofia"
-        },
-        {
-          "ID": 6415,
-          "Title": "Kategoria:Ideologiak"
-        },
-        {
-          "ID": 7532,
-          "Title": "Kategoria:Etika"
-        },
-        {
-          "ID": 100090,
-          "Title": "Kategoria:Filosofiaren adarrak"
-        },
-        {
-          "ID": 105589,
-          "Title": "Kategoria:Teoria filosofikoak"
-        },
-        {
-          "ID": 105594,
-          "Title": "Kategoria:Pentsaera"
+          "ID": 599141,
+          "Title": "Kategoria:Errealitatea"
         },
         {
           "ID": 105625,
           "Title": "Kategoria:Eskola filosofikoak"
         },
         {
+          "ID": 7532,
+          "Title": "Kategoria:Etika"
+        },
+        {
+          "ID": 3934,
+          "Title": "Kategoria:Filosofia"
+        },
+        {
+          "ID": 100090,
+          "Title": "Kategoria:Filosofiaren adarrak"
+        },
+        {
+          "ID": 6415,
+          "Title": "Kategoria:Ideologiak"
+        },
+        {
+          "ID": 105613,
+          "Title": "Kategoria:Kontzeptu filosofikoak"
+        },
+        {
+          "ID": 598972,
+          "Title": "Kategoria:Metafilosofia"
+        },
+        {
+          "ID": 36263,
+          "Title": "Kategoria:Metafisika"
+        },
+        {
+          "ID": 105594,
+          "Title": "Kategoria:Pentsaera"
+        },
+        {
+          "ID": 105589,
+          "Title": "Kategoria:Teoria filosofikoak"
+        },
+        {
           "ID": 679022,
           "Title": "Kategoria:Teoria politikoak"
-        }
-      ],
-      "Articles": [
-        {
-          "ID": 76265,
-          "Title": "Edertasun"
-        },
-        {
-          "ID": 77191,
-          "Title": "Fede"
-        },
-        {
-          "ID": 158834,
-          "Title": "Zorion"
-        },
-        {
-          "ID": 335831,
-          "Title": "Konfiantza"
-        },
-        {
-          "ID": 375856,
-          "Title": "Sinesmen"
-        },
-        {
-          "ID": 573986,
-          "Title": "Faktu"
         }
       ]
     },
@@ -1184,32 +746,28 @@
       "Title": "Religion and belief systems",
       "Categories": [
         {
-          "ID": 6398,
-          "Title": "Kategoria:Teologia"
-        },
-        {
-          "ID": 140798,
-          "Title": "Kategoria:Sinesmenak"
+          "ID": 384052,
+          "Title": "Kategoria:Erlijio-fede, tradizio eta mugimenduak"
         },
         {
           "ID": 384049,
           "Title": "Kategoria:Erlijioa"
         },
         {
-          "ID": 384052,
-          "Title": "Kategoria:Erlijio-fede, tradizio eta mugimenduak"
+          "ID": 583987,
+          "Title": "Kategoria:Erlijioaren antropologia"
         },
         {
           "ID": 579104,
           "Title": "Kategoria:Jainko eza"
         },
         {
-          "ID": 583987,
-          "Title": "Kategoria:Erlijioaren antropologia"
+          "ID": 140798,
+          "Title": "Kategoria:Sinesmenak"
         },
         {
-          "ID": 713430,
-          "Title": "Kategoria:Laizismoa"
+          "ID": 6398,
+          "Title": "Kategoria:Teologia"
         }
       ]
     },
@@ -1218,238 +776,108 @@
       "Title": "Society and social sciences",
       "Categories": [
         {
-          "ID": 5730,
-          "Title": "Kategoria:Gizarte zientziak"
+          "ID": 87124,
+          "Title": "Kategoria:Airelineak"
         },
         {
-          "ID": 5736,
-          "Title": "Kategoria:Zuzenbidea"
+          "ID": 24493,
+          "Title": "Kategoria:Bandera nazionalak"
         },
         {
-          "ID": 6005,
-          "Title": "Kategoria:Gizartea"
+          "ID": 147249,
+          "Title": "Kategoria:Dirua"
         },
         {
-          "ID": 6922,
-          "Title": "Kategoria:Nazioarteko erakundeak"
+          "ID": 6184,
+          "Title": "Kategoria:Diruak"
         },
         {
-          "ID": 9540,
-          "Title": "Kategoria:Legeak"
+          "ID": 14167,
+          "Title": "Kategoria:Enpresak"
         },
         {
-          "ID": 35422,
-          "Title": "Kategoria:Feminismoa"
+          "ID": 5815,
+          "Title": "Kategoria:Erakundeak"
         },
         {
           "ID": 98830,
           "Title": "Kategoria:Eskubideak"
         },
         {
+          "ID": 35422,
+          "Title": "Kategoria:Feminismoa"
+        },
+        {
+          "ID": 42551,
+          "Title": "Kategoria:Finantzak"
+        },
+        {
+          "ID": 100164,
+          "Title": "Kategoria:Geopolitika"
+        },
+        {
+          "ID": 5730,
+          "Title": "Kategoria:Gizarte zientziak"
+        },
+        {
+          "ID": 6005,
+          "Title": "Kategoria:Gizartea"
+        },
+        {
+          "ID": 675418,
+          "Title": "Kategoria:Gobernu-instituzioak"
+        },
+        {
+          "ID": 100118,
+          "Title": "Kategoria:Gobernua"
+        },
+        {
+          "ID": 127260,
+          "Title": "Kategoria:Hezkuntza herrialdearen arabera"
+        },
+        {
           "ID": 655111,
           "Title": "Kategoria:Humanitateak"
-        }
-      ],
-      "Articles": [
-        {
-          "ID": 3484,
-          "Title": "Europar Batasuna"
         },
         {
-          "ID": 5371,
-          "Title": "Iran"
+          "ID": 668692,
+          "Title": "Kategoria:Izaera"
         },
         {
-          "ID": 5458,
-          "Title": "Barbados"
+          "ID": 9540,
+          "Title": "Kategoria:Legeak"
         },
         {
-          "ID": 5485,
-          "Title": "Txile"
+          "ID": 140304,
+          "Title": "Kategoria:Marketina"
         },
         {
-          "ID": 9523,
-          "Title": "Lege lehor"
+          "ID": 6922,
+          "Title": "Kategoria:Nazioarteko erakundeak"
         },
         {
-          "ID": 32425,
-          "Title": "Australiako bandera"
+          "ID": 18053,
+          "Title": "Kategoria:Psikologia"
         },
         {
-          "ID": 44026,
-          "Title": "The New York Times"
+          "ID": 45460,
+          "Title": "Kategoria:Sistema politikoak"
         },
         {
-          "ID": 44513,
-          "Title": "Cambridgeko Unibertsitatea"
+          "ID": 676432,
+          "Title": "Kategoria:Talde korporatiboak"
         },
         {
-          "ID": 44516,
-          "Title": "Oxfordeko Unibertsitatea"
+          "ID": 527898,
+          "Title": "Kategoria:Txanponak"
         },
         {
-          "ID": 44527,
-          "Title": "Boloniako Unibertsitatea"
+          "ID": 41359,
+          "Title": "Kategoria:Zigorrak"
         },
         {
-          "ID": 44530,
-          "Title": "Parisko Unibertsitatea"
-        },
-        {
-          "ID": 53611,
-          "Title": "Harvard Unibertsitatea"
-        },
-        {
-          "ID": 67460,
-          "Title": "Massachusetts Institute of Technology"
-        },
-        {
-          "ID": 74896,
-          "Title": "Princetongo Unibertsitatea"
-        },
-        {
-          "ID": 85580,
-          "Title": "Stanford Unibertsitatea"
-        },
-        {
-          "ID": 86552,
-          "Title": "Münsterreko Unibertsitatea"
-        },
-        {
-          "ID": 88458,
-          "Title": "Pennsylvaniako Unibertsitatea"
-        },
-        {
-          "ID": 89292,
-          "Title": "American Airlines"
-        },
-        {
-          "ID": 89957,
-          "Title": "Columbia Unibertsitatea"
-        },
-        {
-          "ID": 90734,
-          "Title": "Gizarte-langintza"
-        },
-        {
-          "ID": 92622,
-          "Title": "Chicagoko Unibertsitatea"
-        },
-        {
-          "ID": 106845,
-          "Title": "Moskuko Estatu Unibertsitatea"
-        },
-        {
-          "ID": 108046,
-          "Title": "Vienako Unibertsitatea"
-        },
-        {
-          "ID": 130936,
-          "Title": "Udako ordutegi"
-        },
-        {
-          "ID": 138590,
-          "Title": "BP"
-        },
-        {
-          "ID": 148252,
-          "Title": "Bernako Unibertsitatea"
-        },
-        {
-          "ID": 202715,
-          "Title": "St Andrews Unibertsitatea"
-        },
-        {
-          "ID": 225296,
-          "Title": "Glasgowko Unibertsitatea"
-        },
-        {
-          "ID": 293006,
-          "Title": "New York Hiriko Unibertsitatea"
-        },
-        {
-          "ID": 296587,
-          "Title": "Pacific-12 Conference"
-        },
-        {
-          "ID": 338904,
-          "Title": "Nazio Batuen Ingurumen Programa"
-        },
-        {
-          "ID": 339758,
-          "Title": "Jerusalemgo Unibertsitate Hebrearra"
-        },
-        {
-          "ID": 341684,
-          "Title": "Leipzigeko Unibertsitatea"
-        },
-        {
-          "ID": 377996,
-          "Title": "Starbucks"
-        },
-        {
-          "ID": 385176,
-          "Title": "Tübingengo Unibertsitatea"
-        },
-        {
-          "ID": 435128,
-          "Title": "Trust"
-        },
-        {
-          "ID": 457723,
-          "Title": "Txinatar urteberri-egun"
-        },
-        {
-          "ID": 503397,
-          "Title": "Warwickeko Unibertsitatea"
-        },
-        {
-          "ID": 508820,
-          "Title": "Tsinghua Unibertsitatea"
-        },
-        {
-          "ID": 557405,
-          "Title": "The Times of India"
-        },
-        {
-          "ID": 595261,
-          "Title": "Tokioko Unibertsitatea"
-        },
-        {
-          "ID": 655146,
-          "Title": "Uppsalako Unibertsitatea"
-        },
-        {
-          "ID": 661887,
-          "Title": "Mikronazio"
-        },
-        {
-          "ID": 719065,
-          "Title": "2017ko Westminsterreko atentatua"
-        },
-        {
-          "ID": 721793,
-          "Title": "Hirugarren Mundu Gerra"
-        },
-        {
-          "ID": 725180,
-          "Title": "Paduako Unibertsitatea"
-        },
-        {
-          "ID": 729839,
-          "Title": "Pizza Hut"
-        },
-        {
-          "ID": 733074,
-          "Title": "Queen's unibertsitatea"
-        },
-        {
-          "ID": 835518,
-          "Title": "Virginiako Unibertsitatea"
-        },
-        {
-          "ID": 846827,
-          "Title": "Londresko Unibertsitatea"
+          "ID": 5736,
+          "Title": "Kategoria:Zuzenbidea"
         }
       ]
     },
@@ -1458,102 +886,140 @@
       "Title": "Technology and applied sciences",
       "Categories": [
         {
-          "ID": 5743,
-          "Title": "Kategoria:Zientzia aplikatuak"
+          "ID": 733816,
+          "Title": "Kategoria:Baxera"
         },
         {
-          "ID": 5784,
-          "Title": "Kategoria:Informatika"
-        },
-        {
-          "ID": 5790,
-          "Title": "Kategoria:Teknologia"
-        },
-        {
-          "ID": 6226,
-          "Title": "Kategoria:Ingeniaritza"
-        },
-        {
-          "ID": 6328,
-          "Title": "Kategoria:Elektronika"
-        },
-        {
-          "ID": 6369,
-          "Title": "Kategoria:Internet"
-        },
-        {
-          "ID": 7867,
-          "Title": "Kategoria:Diseinua"
+          "ID": 845246,
+          "Title": "Kategoria:Brikolaje"
         },
         {
           "ID": 22801,
           "Title": "Kategoria:Datu-baseak"
         },
         {
+          "ID": 225029,
+          "Title": "Kategoria:Datuen kudeaketa"
+        },
+        {
+          "ID": 7867,
+          "Title": "Kategoria:Diseinua"
+        },
+        {
+          "ID": 145822,
+          "Title": "Kategoria:Ebakitzeko tresnak"
+        },
+        {
+          "ID": 229749,
+          "Title": "Kategoria:Ekipamendua"
+        },
+        {
+          "ID": 6328,
+          "Title": "Kategoria:Elektronika"
+        },
+        {
+          "ID": 599273,
+          "Title": "Kategoria:Energia teknologia"
+        },
+        {
+          "ID": 8121,
+          "Title": "Kategoria:Eraikuntza"
+        },
+        {
+          "ID": 99959,
+          "Title": "Kategoria:Eraikuntzaren ingeniaritza"
+        },
+        {
+          "ID": 100112,
+          "Title": "Kategoria:Esku-tresnak"
+        },
+        {
+          "ID": 158248,
+          "Title": "Kategoria:Estandarrak"
+        },
+        {
+          "ID": 74832,
+          "Title": "Kategoria:Etxetresna elektrikoak"
+        },
+        {
           "ID": 121455,
           "Title": "Kategoria:Garraioa"
         },
         {
-          "ID": 225029,
-          "Title": "Kategoria:Datuen kudeaketa"
+          "ID": 41171,
+          "Title": "Kategoria:Herri-lan ingeniaritza"
+        },
+        {
+          "ID": 5784,
+          "Title": "Kategoria:Informatika"
+        },
+        {
+          "ID": 6226,
+          "Title": "Kategoria:Ingeniaritza"
+        },
+        {
+          "ID": 9669,
+          "Title": "Kategoria:Ingeniaritza mekanikoa"
+        },
+        {
+          "ID": 295019,
+          "Title": "Kategoria:Inprimatzea"
+        },
+        {
+          "ID": 6369,
+          "Title": "Kategoria:Internet"
+        },
+        {
+          "ID": 19743,
+          "Title": "Kategoria:Kontsolak"
+        },
+        {
+          "ID": 100324,
+          "Title": "Kategoria:Makinak"
+        },
+        {
+          "ID": 731978,
+          "Title": "Kategoria:Mugikor aplikazioak"
         },
         {
           "ID": 342824,
           "Title": "Kategoria:Ordenagailuak"
         },
         {
-          "ID": 342827,
-          "Title": "Kategoria:Teknologiak motaren arabera"
+          "ID": 12796,
+          "Title": "Kategoria:Programazioa"
         },
         {
-          "ID": 422023,
-          "Title": "Kategoria:Tresneria militarra"
+          "ID": 7442,
+          "Title": "Kategoria:Softwarea"
+        },
+        {
+          "ID": 5790,
+          "Title": "Kategoria:Teknologia"
         },
         {
           "ID": 678980,
           "Title": "Kategoria:Teknologia militarra"
         },
         {
-          "ID": 731978,
-          "Title": "Kategoria:Mugikor aplikazioak"
-        }
-      ],
-      "Articles": [
-        {
-          "ID": 19983,
-          "Title": "Goi mailako domeinu"
+          "ID": 342827,
+          "Title": "Kategoria:Teknologiak motaren arabera"
         },
         {
-          "ID": 33414,
-          "Title": ".xxx"
+          "ID": 22568,
+          "Title": "Kategoria:Tresnak"
         },
         {
-          "ID": 95800,
-          "Title": "Soldadura"
+          "ID": 422023,
+          "Title": "Kategoria:Tresneria militarra"
         },
         {
-          "ID": 114963,
-          "Title": "Gomagoxo"
+          "ID": 5743,
+          "Title": "Kategoria:Zientzia aplikatuak"
         },
         {
-          "ID": 131322,
-          "Title": "TIG soldadura"
-        },
-        {
-          "ID": 161990,
-          "Title": "Pepsi"
-        },
-        {
-          "ID": 203281,
-          "Title": "Horma"
-        },
-        {
-          "ID": 339127,
-          "Title": "Igeltserotza"
-        },
-        {
-          "ID": 657600,
-          "Title": "Bideragarritasun-azterketa"
+          "ID": 24689,
+          "Title": "Kategoria:Zurgintza"
         }
       ]
     }

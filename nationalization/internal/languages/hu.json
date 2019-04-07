@@ -6,36 +6,192 @@
       "Title": "Culture and the arts",
       "Categories": [
         {
-          "ID": 4672,
-          "Title": "Kategória:Filmek"
+          "ID": 326344,
+          "Title": "Kategória:Birkózás"
         },
         {
-          "ID": 9429,
-          "Title": "Kategória:Sport"
+          "ID": 1578133,
+          "Title": "Kategória:Boszorkányság"
         },
         {
           "ID": 13453,
           "Title": "Kategória:Együttesek"
         },
         {
-          "ID": 21471,
-          "Title": "Kategória:Művészet"
+          "ID": 74241,
+          "Title": "Kategória:Előadó-művészet"
+        },
+        {
+          "ID": 88387,
+          "Title": "Kategória:Festmények"
+        },
+        {
+          "ID": 284931,
+          "Title": "Kategória:Fesztiválok"
+        },
+        {
+          "ID": 646509,
+          "Title": "Kategória:Fiktív helyek"
+        },
+        {
+          "ID": 4672,
+          "Title": "Kategória:Filmek"
         },
         {
           "ID": 21947,
           "Title": "Kategória:Gasztronómia"
         },
         {
-          "ID": 32089,
-          "Title": "Kategória:Szabadidő"
+          "ID": 77728,
+          "Title": "Kategória:Harcművészetek"
+        },
+        {
+          "ID": 69363,
+          "Title": "Kategória:Irodalmi művek"
+        },
+        {
+          "ID": 14298,
+          "Title": "Kategória:Irodalom"
+        },
+        {
+          "ID": 1470305,
+          "Title": "Kategória:Karácsonyi ételek"
+        },
+        {
+          "ID": 54778,
+          "Title": "Kategória:Kitalált népek"
+        },
+        {
+          "ID": 49901,
+          "Title": "Kategória:Komolyzenei műfajok"
+        },
+        {
+          "ID": 1470091,
+          "Title": "Kategória:Konyhaművészet"
+        },
+        {
+          "ID": 626466,
+          "Title": "Kategória:Konyhatechnikai eljárások"
         },
         {
           "ID": 32098,
           "Title": "Kategória:Kultúra"
         },
         {
+          "ID": 102582,
+          "Title": "Kategória:Kultúra nemzetiség szerint"
+        },
+        {
+          "ID": 3949,
+          "Title": "Kategória:Könyvek"
+        },
+        {
+          "ID": 350386,
+          "Title": "Kategória:Legendák"
+        },
+        {
+          "ID": 6665,
+          "Title": "Kategória:Lexikonok"
+        },
+        {
+          "ID": 388848,
+          "Title": "Kategória:Mindennapi élet"
+        },
+        {
+          "ID": 21471,
+          "Title": "Kategória:Művészet"
+        },
+        {
+          "ID": 447742,
+          "Title": "Kategória:Nemi tevékenység"
+        },
+        {
+          "ID": 14878,
+          "Title": "Kategória:Oktatás"
+        },
+        {
+          "ID": 456701,
+          "Title": "Kategória:Pankráció"
+        },
+        {
+          "ID": 1506079,
+          "Title": "Kategória:Rádióadók"
+        },
+        {
+          "ID": 9429,
+          "Title": "Kategória:Sport"
+        },
+        {
+          "ID": 80004,
+          "Title": "Kategória:Sportágak"
+        },
+        {
+          "ID": 32089,
+          "Title": "Kategória:Szabadidő"
+        },
+        {
+          "ID": 62655,
+          "Title": "Kategória:Szexualitás"
+        },
+        {
+          "ID": 19825,
+          "Title": "Kategória:Számítógépes és videojátékok"
+        },
+        {
+          "ID": 55146,
+          "Title": "Kategória:Színek"
+        },
+        {
+          "ID": 33251,
+          "Title": "Kategória:Televízió"
+        },
+        {
+          "ID": 165663,
+          "Title": "Kategória:Táblajátékok"
+        },
+        {
+          "ID": 624436,
+          "Title": "Kategória:Táplálkozás"
+        },
+        {
+          "ID": 1097573,
+          "Title": "Kategória:Társadalmi nem"
+        },
+        {
+          "ID": 387785,
+          "Title": "Kategória:Varázslat"
+        },
+        {
+          "ID": 79999,
+          "Title": "Kategória:Versenyek"
+        },
+        {
+          "ID": 718621,
+          "Title": "Kategória:Videojátékok"
+        },
+        {
+          "ID": 8417,
+          "Title": "Kategória:Zene"
+        },
+        {
+          "ID": 1555907,
+          "Title": "Kategória:Zenei formák"
+        },
+        {
+          "ID": 19724,
+          "Title": "Kategória:Zenei stílusok"
+        },
+        {
+          "ID": 36769,
+          "Title": "Kategória:Zeneművek"
+        },
+        {
           "ID": 34857,
           "Title": "Kategória:Élelmiszerek"
+        },
+        {
+          "ID": 1125371,
+          "Title": "Kategória:Életrajzok"
         },
         {
           "ID": 34858,
@@ -44,276 +200,6 @@
         {
           "ID": 38183,
           "Title": "Kategória:Írás"
-        },
-        {
-          "ID": 55146,
-          "Title": "Kategória:Színek"
-        },
-        {
-          "ID": 80004,
-          "Title": "Kategória:Sportágak"
-        },
-        {
-          "ID": 624436,
-          "Title": "Kategória:Táplálkozás"
-        },
-        {
-          "ID": 626466,
-          "Title": "Kategória:Konyhatechnikai eljárások"
-        },
-        {
-          "ID": 1470091,
-          "Title": "Kategória:Konyhaművészet"
-        }
-      ],
-      "Articles": [
-        {
-          "ID": 70,
-          "Title": "Wikipédia"
-        },
-        {
-          "ID": 299,
-          "Title": "Enciklopédia"
-        },
-        {
-          "ID": 4819,
-          "Title": "AC/DC"
-        },
-        {
-          "ID": 20408,
-          "Title": "Sgt. Pepper’s Lonely Hearts Club Band"
-        },
-        {
-          "ID": 21204,
-          "Title": "Loch Ness-i szörny"
-        },
-        {
-          "ID": 23228,
-          "Title": "Led Zeppelin"
-        },
-        {
-          "ID": 29385,
-          "Title": "Kovász"
-        },
-        {
-          "ID": 37490,
-          "Title": "Green Day"
-        },
-        {
-          "ID": 44016,
-          "Title": "Szalonna (egyértelműsítő lap)"
-        },
-        {
-          "ID": 48715,
-          "Title": "Valóság"
-        },
-        {
-          "ID": 50428,
-          "Title": "Kávé"
-        },
-        {
-          "ID": 50786,
-          "Title": "Pizza"
-        },
-        {
-          "ID": 51509,
-          "Title": "Kísértet"
-        },
-        {
-          "ID": 71512,
-          "Title": "Francia konyhaművészet"
-        },
-        {
-          "ID": 75380,
-          "Title": "Sör"
-        },
-        {
-          "ID": 80123,
-          "Title": "Realizmus (művészet)"
-        },
-        {
-          "ID": 88651,
-          "Title": "Cölibátus"
-        },
-        {
-          "ID": 99434,
-          "Title": "Sonka"
-        },
-        {
-          "ID": 109545,
-          "Title": "Roxfort"
-        },
-        {
-          "ID": 110872,
-          "Title": "Kakaó (növényfaj)"
-        },
-        {
-          "ID": 125484,
-          "Title": "Kenyér"
-        },
-        {
-          "ID": 128029,
-          "Title": "Orális szex"
-        },
-        {
-          "ID": 150986,
-          "Title": "Aqua (együttes)"
-        },
-        {
-          "ID": 158288,
-          "Title": "Banda"
-        },
-        {
-          "ID": 162297,
-          "Title": "Csokoládé"
-        },
-        {
-          "ID": 190690,
-          "Title": "Vaddisznó"
-        },
-        {
-          "ID": 204900,
-          "Title": "Tojás (gasztronómia és kultúra)"
-        },
-        {
-          "ID": 211803,
-          "Title": "Tojás (biológia)"
-        },
-        {
-          "ID": 233761,
-          "Title": "Nagylábú"
-        },
-        {
-          "ID": 234885,
-          "Title": "Realizmus (egyértelműsítő lap)"
-        },
-        {
-          "ID": 252523,
-          "Title": "Házisertés"
-        },
-        {
-          "ID": 252808,
-          "Title": "Sus"
-        },
-        {
-          "ID": 291085,
-          "Title": "Kétszersült"
-        },
-        {
-          "ID": 294623,
-          "Title": "Mágikus lények a Harry Potter-univerzumban"
-        },
-        {
-          "ID": 298507,
-          "Title": "Arab kávé"
-        },
-        {
-          "ID": 348411,
-          "Title": "Fehér csokoládé"
-        },
-        {
-          "ID": 385514,
-          "Title": "Helyszínek a Harry Potter-univerzumban"
-        },
-        {
-          "ID": 387838,
-          "Title": "Tükörtojás"
-        },
-        {
-          "ID": 420985,
-          "Title": "Buckingham-palota"
-        },
-        {
-          "ID": 498830,
-          "Title": "Fagylalt"
-        },
-        {
-          "ID": 506089,
-          "Title": "Szalonna (étel)"
-        },
-        {
-          "ID": 525096,
-          "Title": "Keksz"
-        },
-        {
-          "ID": 565247,
-          "Title": "Hot dog"
-        },
-        {
-          "ID": 605056,
-          "Title": "Nápolyi ostya"
-        },
-        {
-          "ID": 616883,
-          "Title": "Száznapos tojás"
-        },
-        {
-          "ID": 754785,
-          "Title": "Hawaii pizza"
-        },
-        {
-          "ID": 786648,
-          "Title": "Judas (dal)"
-        },
-        {
-          "ID": 832000,
-          "Title": "Mordred"
-        },
-        {
-          "ID": 1020600,
-          "Title": "The World Factbook"
-        },
-        {
-          "ID": 1033712,
-          "Title": "Kávé (növénynemzetség)"
-        },
-        {
-          "ID": 1069947,
-          "Title": "Álomháború"
-        },
-        {
-          "ID": 1127028,
-          "Title": "Taco"
-        },
-        {
-          "ID": 1171712,
-          "Title": "Ash Ketchum"
-        },
-        {
-          "ID": 1171938,
-          "Title": "Raktár-háborúk"
-        },
-        {
-          "ID": 1305806,
-          "Title": "Nurungdzsi"
-        },
-        {
-          "ID": 1362028,
-          "Title": "Coyota"
-        },
-        {
-          "ID": 1370659,
-          "Title": "2017-es Eurovíziós Dalfesztivál"
-        },
-        {
-          "ID": 1377183,
-          "Title": "Júrei"
-        },
-        {
-          "ID": 1439047,
-          "Title": "2018-as Eurovíziós Dalfesztivál"
-        },
-        {
-          "ID": 1500782,
-          "Title": "Étcsokoládé"
-        },
-        {
-          "ID": 1514900,
-          "Title": "Pasta"
-        },
-        {
-          "ID": 1531540,
-          "Title": "Dinosaur Jr."
         }
       ]
     },
@@ -322,62 +208,68 @@
       "Title": "Geography and places",
       "Categories": [
         {
+          "ID": 463886,
+          "Title": "Kategória:Emlékművek"
+        },
+        {
+          "ID": 12622,
+          "Title": "Kategória:Folyók"
+        },
+        {
+          "ID": 491930,
+          "Title": "Kategória:Források"
+        },
+        {
           "ID": 27709,
           "Title": "Kategória:Földrajz"
-        },
-        {
-          "ID": 100889,
-          "Title": "Kategória:Geomorfológia"
-        },
-        {
-          "ID": 125624,
-          "Title": "Kategória:Településtudomány"
         },
         {
           "ID": 164305,
           "Title": "Kategória:Földrajzi listák"
         },
         {
-          "ID": 463886,
-          "Title": "Kategória:Emlékművek"
+          "ID": 100889,
+          "Title": "Kategória:Geomorfológia"
         },
         {
           "ID": 1352036,
           "Title": "Kategória:Helyszínek"
-        }
-      ],
-      "Articles": [
-        {
-          "ID": 373,
-          "Title": "Ausztrália (ország)"
         },
         {
-          "ID": 11833,
-          "Title": "Velence (Olaszország)"
+          "ID": 246361,
+          "Title": "Kategória:Kastélyok, paloták"
         },
         {
-          "ID": 23164,
-          "Title": "Mianmar"
+          "ID": 387602,
+          "Title": "Kategória:Közutak"
         },
         {
-          "ID": 28476,
-          "Title": "Párizs"
+          "ID": 42385,
+          "Title": "Kategória:Országok"
         },
         {
-          "ID": 54266,
-          "Title": "Ember"
+          "ID": 32129,
+          "Title": "Kategória:Települések"
         },
         {
-          "ID": 73189,
-          "Title": "Piramis"
+          "ID": 635733,
+          "Title": "Kategória:Települések országok szerint"
         },
         {
-          "ID": 216577,
-          "Title": "Canberra"
+          "ID": 125624,
+          "Title": "Kategória:Településtudomány"
         },
         {
-          "ID": 469269,
-          "Title": "Queensland"
+          "ID": 311685,
+          "Title": "Kategória:Utcák és terek"
+        },
+        {
+          "ID": 310653,
+          "Title": "Kategória:Városok"
+        },
+        {
+          "ID": 1142267,
+          "Title": "Kategória:Állam"
         }
       ]
     },
@@ -386,20 +278,24 @@
       "Title": "Health and fitness",
       "Categories": [
         {
-          "ID": 12746,
-          "Title": "Kategória:Orvostudomány"
+          "ID": 85788,
+          "Title": "Kategória:Egészségügy"
         },
         {
           "ID": 38805,
           "Title": "Kategória:Genetikai betegségek"
         },
         {
-          "ID": 85788,
-          "Title": "Kategória:Egészségügy"
-        },
-        {
           "ID": 272277,
           "Title": "Kategória:Higiénia"
+        },
+        {
+          "ID": 12746,
+          "Title": "Kategória:Orvostudomány"
+        },
+        {
+          "ID": 524866,
+          "Title": "Kategória:Ápolás"
         }
       ]
     },
@@ -408,20 +304,36 @@
       "Title": "History and events",
       "Categories": [
         {
-          "ID": 4220,
-          "Title": "Kategória:Történelem"
-        },
-        {
-          "ID": 14564,
-          "Title": "Kategória:Társadalomtudományok"
-        },
-        {
           "ID": 80226,
           "Title": "Kategória:Események"
         },
         {
+          "ID": 1144622,
+          "Title": "Kategória:Forradalmak"
+        },
+        {
+          "ID": 7310,
+          "Title": "Kategória:Háborúk"
+        },
+        {
           "ID": 88702,
           "Title": "Kategória:Kulturális események"
+        },
+        {
+          "ID": 114716,
+          "Title": "Kategória:Politikai események"
+        },
+        {
+          "ID": 195226,
+          "Title": "Kategória:Technikatörténet"
+        },
+        {
+          "ID": 1471196,
+          "Title": "Kategória:Terrorcselekmények"
+        },
+        {
+          "ID": 4220,
+          "Title": "Kategória:Történelem"
         },
         {
           "ID": 1273576,
@@ -431,48 +343,6 @@
           "ID": 1512096,
           "Title": "Kategória:Választások évek szerint"
         }
-      ],
-      "Articles": [
-        {
-          "ID": 7917,
-          "Title": "2001. szeptember 11-ei terrortámadások"
-        },
-        {
-          "ID": 80950,
-          "Title": "Trójai háború"
-        },
-        {
-          "ID": 169952,
-          "Title": "Holokauszttagadás"
-        },
-        {
-          "ID": 460721,
-          "Title": "A közlekedés története"
-        },
-        {
-          "ID": 557781,
-          "Title": "Síksági indiánok"
-        },
-        {
-          "ID": 673867,
-          "Title": "Donald Trump"
-        },
-        {
-          "ID": 777898,
-          "Title": "2011-es tóhokui földrengés és cunami"
-        },
-        {
-          "ID": 807070,
-          "Title": "2012-es amerikai elnökválasztás"
-        },
-        {
-          "ID": 947532,
-          "Title": "2012-es aurorai lövöldözés"
-        },
-        {
-          "ID": 1395076,
-          "Title": "2016-os orlandói terrortámadás"
-        }
       ]
     },
     {
@@ -480,12 +350,20 @@
       "Title": "Mathematics and logic",
       "Categories": [
         {
-          "ID": 4219,
-          "Title": "Kategória:Matematika"
+          "ID": 114486,
+          "Title": "Kategória:Alkalmazott matematika"
         },
         {
           "ID": 7591,
           "Title": "Kategória:Logika"
+        },
+        {
+          "ID": 4219,
+          "Title": "Kategória:Matematika"
+        },
+        {
+          "ID": 8569,
+          "Title": "Kategória:Mértékegységek"
         },
         {
           "ID": 71617,
@@ -494,16 +372,6 @@
         {
           "ID": 71619,
           "Title": "Kategória:Valószínűségszámítás"
-        },
-        {
-          "ID": 114486,
-          "Title": "Kategória:Alkalmazott matematika"
-        }
-      ],
-      "Articles": [
-        {
-          "ID": 74667,
-          "Title": "Hosszúság"
         }
       ]
     },
@@ -512,24 +380,48 @@
       "Title": "Nature and physical sciences",
       "Categories": [
         {
+          "ID": 38727,
+          "Title": "Kategória:Anatómia"
+        },
+        {
+          "ID": 174040,
+          "Title": "Kategória:Fehérjék"
+        },
+        {
           "ID": 4211,
           "Title": "Kategória:Fizika"
+        },
+        {
+          "ID": 1140637,
+          "Title": "Kategória:Föld"
+        },
+        {
+          "ID": 63516,
+          "Title": "Kategória:Gyümölcsök"
+        },
+        {
+          "ID": 89178,
+          "Title": "Kategória:Katasztrófák"
         },
         {
           "ID": 4217,
           "Title": "Kategória:Kémia"
         },
         {
-          "ID": 4218,
-          "Title": "Kategória:Tudomány"
+          "ID": 8515,
+          "Title": "Kategória:Növények"
+        },
+        {
+          "ID": 32122,
+          "Title": "Kategória:Természet"
         },
         {
           "ID": 8489,
           "Title": "Kategória:Természettudományok"
         },
         {
-          "ID": 32122,
-          "Title": "Kategória:Természet"
+          "ID": 4218,
+          "Title": "Kategória:Tudomány"
         },
         {
           "ID": 46058,
@@ -540,222 +432,12 @@
           "Title": "Kategória:Zoológia"
         },
         {
-          "ID": 89178,
-          "Title": "Kategória:Katasztrófák"
-        }
-      ],
-      "Articles": [
-        {
-          "ID": 21654,
-          "Title": "Farkaspókfélék"
+          "ID": 8562,
+          "Title": "Kategória:Állatok"
         },
         {
-          "ID": 24677,
-          "Title": "Hidrológia"
-        },
-        {
-          "ID": 27610,
-          "Title": "Kiegészítő színpárok"
-        },
-        {
-          "ID": 29684,
-          "Title": "Eper (növénynemzetség)"
-        },
-        {
-          "ID": 30002,
-          "Title": "Citrom"
-        },
-        {
-          "ID": 30056,
-          "Title": "Erdei szamóca"
-        },
-        {
-          "ID": 30101,
-          "Title": "Narancs"
-        },
-        {
-          "ID": 30103,
-          "Title": "Paradicsom (növényfaj)"
-        },
-        {
-          "ID": 31328,
-          "Title": "Rizs"
-        },
-        {
-          "ID": 31329,
-          "Title": "Búza"
-        },
-        {
-          "ID": 31337,
-          "Title": "Kukorica (növényfaj)"
-        },
-        {
-          "ID": 32148,
-          "Title": "Sárgadinnye"
-        },
-        {
-          "ID": 32342,
-          "Title": "Karfiol"
-        },
-        {
-          "ID": 51532,
-          "Title": "Maja naptár"
-        },
-        {
-          "ID": 51773,
-          "Title": "Teve"
-        },
-        {
-          "ID": 90302,
-          "Title": "Párducformák"
-        },
-        {
-          "ID": 96420,
-          "Title": "Izom"
-        },
-        {
-          "ID": 104348,
-          "Title": "Előcsíráztatás"
-        },
-        {
-          "ID": 113401,
-          "Title": "Mozgásrendszer"
-        },
-        {
-          "ID": 115584,
-          "Title": "Jávorszarvas"
-        },
-        {
-          "ID": 122312,
-          "Title": "Guvatszalonkafélék"
-        },
-        {
-          "ID": 122438,
-          "Title": "Vízkörforgás"
-        },
-        {
-          "ID": 173520,
-          "Title": "Levelibéka-félék"
-        },
-        {
-          "ID": 177609,
-          "Title": "Perui földicseresznye"
-        },
-        {
-          "ID": 177678,
-          "Title": "Mexikói földicseresznye"
-        },
-        {
-          "ID": 196856,
-          "Title": "Zöld anakonda"
-        },
-        {
-          "ID": 213315,
-          "Title": "Kínai liliomfa"
-        },
-        {
-          "ID": 266925,
-          "Title": "Szuszpenzió"
-        },
-        {
-          "ID": 269630,
-          "Title": "Sula"
-        },
-        {
-          "ID": 272273,
-          "Title": "Tűz"
-        },
-        {
-          "ID": 277385,
-          "Title": "Önkielégítés"
-        },
-        {
-          "ID": 292658,
-          "Title": "Mirtusz"
-        },
-        {
-          "ID": 292704,
-          "Title": "Közönséges mirtusz"
-        },
-        {
-          "ID": 311855,
-          "Title": "Vizelet"
-        },
-        {
-          "ID": 421169,
-          "Title": "Közönséges búza"
-        },
-        {
-          "ID": 458704,
-          "Title": "Közönséges makréla"
-        },
-        {
-          "ID": 477884,
-          "Title": "Tápláléklánc"
-        },
-        {
-          "ID": 510889,
-          "Title": "Fehér tigris"
-        },
-        {
-          "ID": 518243,
-          "Title": "Datolyapálma"
-        },
-        {
-          "ID": 534909,
-          "Title": "Hímvessző"
-        },
-        {
-          "ID": 567676,
-          "Title": "Here (anatómia)"
-        },
-        {
-          "ID": 587346,
-          "Title": "Mangó"
-        },
-        {
-          "ID": 587992,
-          "Title": "Ateles"
-        },
-        {
-          "ID": 690358,
-          "Title": "Trachurus"
-        },
-        {
-          "ID": 690419,
-          "Title": "Glaphyromorphus"
-        },
-        {
-          "ID": 733121,
-          "Title": "Termesztett ananász"
-        },
-        {
-          "ID": 1019040,
-          "Title": "Ragacsos rizs"
-        },
-        {
-          "ID": 1026250,
-          "Title": "Eunectes"
-        },
-        {
-          "ID": 1040904,
-          "Title": "Eper (növényfaj)"
-        },
-        {
-          "ID": 1414771,
-          "Title": "Scomber"
-        },
-        {
-          "ID": 1437964,
-          "Title": "Mangifera"
-        },
-        {
-          "ID": 1460505,
-          "Title": "Köpeny (anatómia)"
-        },
-        {
-          "ID": 1588744,
-          "Title": "Óriástök"
+          "ID": 105950,
+          "Title": "Kategória:Ökológia"
         }
       ]
     },
@@ -764,206 +446,104 @@
       "Title": "People and self",
       "Categories": [
         {
-          "ID": 7905,
-          "Title": "Kategória:Személyek"
+          "ID": 61217,
+          "Title": "Kategória:Feltalálók"
         },
         {
           "ID": 130288,
           "Title": "Kategória:Filmszereplők"
         },
         {
-          "ID": 202421,
-          "Title": "Kategória:Személyiségpszichológia"
+          "ID": 4113,
+          "Title": "Kategória:Filozófusok"
+        },
+        {
+          "ID": 731753,
+          "Title": "Kategória:Halálozások évek szerint"
+        },
+        {
+          "ID": 6845,
+          "Title": "Kategória:Kitalált személyek, lények"
+        },
+        {
+          "ID": 6467,
+          "Title": "Kategória:Költők, írók"
+        },
+        {
+          "ID": 4004,
+          "Title": "Kategória:Matematikusok"
+        },
+        {
+          "ID": 14880,
+          "Title": "Kategória:Művészek"
         },
         {
           "ID": 212436,
           "Title": "Kategória:Nő"
         },
         {
+          "ID": 10121,
+          "Title": "Kategória:Orvosok"
+        },
+        {
+          "ID": 80537,
+          "Title": "Kategória:Pilóták"
+        },
+        {
+          "ID": 6432,
+          "Title": "Kategória:Politikusok"
+        },
+        {
+          "ID": 98951,
+          "Title": "Kategória:Politológusok"
+        },
+        {
+          "ID": 7905,
+          "Title": "Kategória:Személyek"
+        },
+        {
+          "ID": 102116,
+          "Title": "Kategória:Személyek foglalkozás szerint"
+        },
+        {
+          "ID": 16727,
+          "Title": "Kategória:Színészek"
+        },
+        {
+          "ID": 755948,
+          "Title": "Kategória:Születések évek szerint"
+        },
+        {
+          "ID": 78339,
+          "Title": "Kategória:Utazók, felfedezők"
+        },
+        {
           "ID": 336437,
           "Title": "Kategória:Vezetéknevek"
         },
         {
-          "ID": 388848,
-          "Title": "Kategória:Mindennapi élet"
-        }
-      ],
-      "Articles": [
-        {
-          "ID": 1153,
-          "Title": "Charles Babbage"
+          "ID": 33256,
+          "Title": "Kategória:Zenészek"
         },
         {
-          "ID": 1158,
-          "Title": "Alan Turing"
+          "ID": 504159,
+          "Title": "Kategória:Államfők"
         },
         {
-          "ID": 3159,
-          "Title": "Bill Gates"
+          "ID": 318755,
+          "Title": "Kategória:Ápolónők"
         },
         {
-          "ID": 5036,
-          "Title": "Adam Smith"
+          "ID": 1269404,
+          "Title": "Kategória:Élő személyek"
         },
         {
-          "ID": 5153,
-          "Title": "Galileo Galilei"
+          "ID": 22162,
+          "Title": "Kategória:Építészek"
         },
         {
-          "ID": 9018,
-          "Title": "Johannes Kepler"
-        },
-        {
-          "ID": 10097,
-          "Title": "Alexander Fleming"
-        },
-        {
-          "ID": 17547,
-          "Title": "John Lennon"
-        },
-        {
-          "ID": 17648,
-          "Title": "George Harrison"
-        },
-        {
-          "ID": 18990,
-          "Title": "Adolf Hitler"
-        },
-        {
-          "ID": 20736,
-          "Title": "Richard Dawkins"
-        },
-        {
-          "ID": 33835,
-          "Title": "Aquinói Szent Tamás"
-        },
-        {
-          "ID": 33939,
-          "Title": "Carl Sagan"
-        },
-        {
-          "ID": 37939,
-          "Title": "Sigmund Freud"
-        },
-        {
-          "ID": 49746,
-          "Title": "René Descartes"
-        },
-        {
-          "ID": 51452,
-          "Title": "Kolumbusz Kristóf"
-        },
-        {
-          "ID": 57684,
-          "Title": "Ayn Rand"
-        },
-        {
-          "ID": 65103,
-          "Title": "Kepler (egyértelműsítő lap)"
-        },
-        {
-          "ID": 76225,
-          "Title": "Richard Wagner (zeneszerző)"
-        },
-        {
-          "ID": 76472,
-          "Title": "Carl Friedrich Gauss"
-        },
-        {
-          "ID": 85320,
-          "Title": "William Blake"
-        },
-        {
-          "ID": 98569,
-          "Title": "Noam Chomsky"
-        },
-        {
-          "ID": 116452,
-          "Title": "Lewis Carroll"
-        },
-        {
-          "ID": 130024,
-          "Title": "Oliver Cromwell"
-        },
-        {
-          "ID": 167385,
-          "Title": "Joseph Smith (mormon)"
-        },
-        {
-          "ID": 194449,
-          "Title": "Daniel Radcliffe"
-        },
-        {
-          "ID": 200723,
-          "Title": "Srínivásza Rámánudzsan"
-        },
-        {
-          "ID": 267263,
-          "Title": "Fibonacci"
-        },
-        {
-          "ID": 276843,
-          "Title": "Elton John"
-        },
-        {
-          "ID": 318753,
-          "Title": "Florence Nightingale"
-        },
-        {
-          "ID": 319434,
-          "Title": "Stephan Lochner"
-        },
-        {
-          "ID": 391409,
-          "Title": "Harry Houdini"
-        },
-        {
-          "ID": 416646,
-          "Title": "Alkonyat (regény)"
-        },
-        {
-          "ID": 425512,
-          "Title": "Agymenők"
-        },
-        {
-          "ID": 621253,
-          "Title": "Sheldon Cooper"
-        },
-        {
-          "ID": 650236,
-          "Title": "Jacob Black"
-        },
-        {
-          "ID": 692617,
-          "Title": "Chaim Soutine"
-        },
-        {
-          "ID": 921755,
-          "Title": "Anders Behring Breivik"
-        },
-        {
-          "ID": 1152363,
-          "Title": "Ted Cruz"
-        },
-        {
-          "ID": 1251556,
-          "Title": "Carl Friedrich Abel"
-        },
-        {
-          "ID": 1276123,
-          "Title": "Big Show"
-        },
-        {
-          "ID": 1361764,
-          "Title": "Bob Ross"
-        },
-        {
-          "ID": 1455597,
-          "Title": "Norah McClintock"
-        },
-        {
-          "ID": 1528085,
-          "Title": "Janet Margolin"
+          "ID": 195731,
+          "Title": "Kategória:Írók"
         }
       ]
     },
@@ -972,50 +552,24 @@
       "Title": "Philosophy and thinking",
       "Categories": [
         {
-          "ID": 7583,
-          "Title": "Kategória:Filozófia"
-        },
-        {
           "ID": 226606,
           "Title": "Kategória:Etika"
         },
         {
+          "ID": 7583,
+          "Title": "Kategória:Filozófia"
+        },
+        {
+          "ID": 304020,
+          "Title": "Kategória:Filozófiai fogalmak"
+        },
+        {
           "ID": 248400,
           "Title": "Kategória:Ideológiák"
-        }
-      ],
-      "Articles": [
-        {
-          "ID": 176,
-          "Title": "Hit (filozófia)"
         },
         {
-          "ID": 11154,
-          "Title": "Tény"
-        },
-        {
-          "ID": 30003,
-          "Title": "Hit (vallás)"
-        },
-        {
-          "ID": 193926,
-          "Title": "Dunning–Kruger-hatás"
-        },
-        {
-          "ID": 680524,
-          "Title": "Hit (egyértelműsítő lap)"
-        },
-        {
-          "ID": 778002,
-          "Title": "Boldogság"
-        },
-        {
-          "ID": 1042143,
-          "Title": "Szépség"
-        },
-        {
-          "ID": 1538609,
-          "Title": "Wobegon-hatás"
+          "ID": 231738,
+          "Title": "Kategória:Metafizika"
         }
       ]
     },
@@ -1024,12 +578,12 @@
       "Title": "Religion and belief systems",
       "Categories": [
         {
-          "ID": 6677,
-          "Title": "Kategória:Vallás"
-        },
-        {
           "ID": 73849,
           "Title": "Kategória:Teológia"
+        },
+        {
+          "ID": 6677,
+          "Title": "Kategória:Vallás"
         },
         {
           "ID": 364523,
@@ -1042,242 +596,84 @@
       "Title": "Society and social sciences",
       "Categories": [
         {
-          "ID": 14564,
-          "Title": "Kategória:Társadalomtudományok"
-        },
-        {
-          "ID": 16400,
-          "Title": "Kategória:Nemzetközi szervezetek"
-        },
-        {
-          "ID": 19776,
-          "Title": "Kategória:Jog"
-        },
-        {
-          "ID": 32096,
-          "Title": "Kategória:Társadalom"
-        },
-        {
           "ID": 364543,
           "Title": "Kategória:Bölcsészettudományok"
+        },
+        {
+          "ID": 21127,
+          "Title": "Kategória:Cégek"
+        },
+        {
+          "ID": 839280,
+          "Title": "Kategória:Felsőoktatási intézmények országok szerint"
         },
         {
           "ID": 730789,
           "Title": "Kategória:Feminizmus"
         },
         {
-          "ID": 839280,
-          "Title": "Kategória:Felsőoktatási intézmények országok szerint"
-        }
-      ],
-      "Articles": [
-        {
-          "ID": 2107,
-          "Title": "Európai Unió"
+          "ID": 19776,
+          "Title": "Kategória:Jog"
         },
         {
-          "ID": 4654,
-          "Title": "Columbia Egyetem"
+          "ID": 67667,
+          "Title": "Kategória:Légitársaságok"
         },
         {
-          "ID": 6647,
-          "Title": "Cambridge-i Egyetem"
+          "ID": 47931,
+          "Title": "Kategória:Marketing"
         },
         {
-          "ID": 8252,
-          "Title": "Oxfordi Egyetem"
+          "ID": 14821,
+          "Title": "Kategória:Nemzeti zászlók"
         },
         {
-          "ID": 12904,
-          "Title": "Stanford Egyetem"
+          "ID": 16400,
+          "Title": "Kategória:Nemzetközi szervezetek"
         },
         {
-          "ID": 16147,
-          "Title": "Nyári időszámítás"
+          "ID": 635743,
+          "Title": "Kategória:Oktatásügy országok szerint"
         },
         {
-          "ID": 19388,
-          "Title": "Taco Bell"
+          "ID": 813757,
+          "Title": "Kategória:Politikai rendszerek"
         },
         {
-          "ID": 21243,
-          "Title": "Pizza Hut"
+          "ID": 7592,
+          "Title": "Kategória:Pszichológia"
         },
         {
-          "ID": 21807,
-          "Title": "Chile"
+          "ID": 204832,
+          "Title": "Kategória:Pénz"
         },
         {
-          "ID": 24271,
-          "Title": "Irán"
+          "ID": 37972,
+          "Title": "Kategória:Pénznemek"
         },
         {
-          "ID": 32992,
-          "Title": "Harvard Egyetem"
+          "ID": 291593,
+          "Title": "Kategória:Pénzérmék"
         },
         {
-          "ID": 32994,
-          "Title": "Barbados"
+          "ID": 19424,
+          "Title": "Kategória:Pénzügy"
         },
         {
-          "ID": 35808,
-          "Title": "Princetoni Egyetem"
+          "ID": 202421,
+          "Title": "Kategória:Személyiségpszichológia"
         },
         {
-          "ID": 40014,
-          "Title": "Chicagói Egyetem"
+          "ID": 32128,
+          "Title": "Kategória:Szervezetek"
         },
         {
-          "ID": 40015,
-          "Title": "Massachusetts Institute of Technology"
+          "ID": 32096,
+          "Title": "Kategória:Társadalom"
         },
         {
-          "ID": 53627,
-          "Title": "Az ENSZ Környezetvédelmi Programja"
-        },
-        {
-          "ID": 71962,
-          "Title": "Holdújév"
-        },
-        {
-          "ID": 75623,
-          "Title": "St. Andrews-i Egyetem"
-        },
-        {
-          "ID": 85114,
-          "Title": "Ausztrália zászlaja"
-        },
-        {
-          "ID": 122205,
-          "Title": "Mongólia hadereje"
-        },
-        {
-          "ID": 126161,
-          "Title": "Wam"
-        },
-        {
-          "ID": 203238,
-          "Title": "The New York Times"
-        },
-        {
-          "ID": 245848,
-          "Title": "Harmadik világháború"
-        },
-        {
-          "ID": 311468,
-          "Title": "American Airlines"
-        },
-        {
-          "ID": 343394,
-          "Title": "Mikronemzet"
-        },
-        {
-          "ID": 434330,
-          "Title": "Szesztilalom"
-        },
-        {
-          "ID": 450327,
-          "Title": "BP"
-        },
-        {
-          "ID": 512151,
-          "Title": "Moszkvai Állami Egyetem"
-        },
-        {
-          "ID": 516147,
-          "Title": "Bécsi Egyetem"
-        },
-        {
-          "ID": 588789,
-          "Title": "Csinghua Egyetem"
-        },
-        {
-          "ID": 656901,
-          "Title": "Szociális munka"
-        },
-        {
-          "ID": 752424,
-          "Title": "Lancasteri Egyetem"
-        },
-        {
-          "ID": 762608,
-          "Title": "Starbucks"
-        },
-        {
-          "ID": 771789,
-          "Title": "University of Minnesota"
-        },
-        {
-          "ID": 780985,
-          "Title": "Göteborgi Egyetem"
-        },
-        {
-          "ID": 788262,
-          "Title": "Bolognai Egyetem"
-        },
-        {
-          "ID": 886315,
-          "Title": "Manchesteri Egyetem"
-        },
-        {
-          "ID": 1017187,
-          "Title": "Tübingeni Egyetem"
-        },
-        {
-          "ID": 1095989,
-          "Title": "Tokió Egyetem"
-        },
-        {
-          "ID": 1097674,
-          "Title": "Umeåi Egyetem"
-        },
-        {
-          "ID": 1130048,
-          "Title": "Tartui Egyetem"
-        },
-        {
-          "ID": 1241336,
-          "Title": "Ivan Franko Nemzeti Egyetem Lviv"
-        },
-        {
-          "ID": 1416765,
-          "Title": "Washingtoni Egyetem"
-        },
-        {
-          "ID": 1442575,
-          "Title": "Tulane Egyetem"
-        },
-        {
-          "ID": 1445349,
-          "Title": "Trust (egyértelműsítő lap)"
-        },
-        {
-          "ID": 1452174,
-          "Title": "2017-es londoni terrortámadás (Westminster)"
-        },
-        {
-          "ID": 1532133,
-          "Title": "Padovai Egyetem"
-        },
-        {
-          "ID": 1543324,
-          "Title": "Indianai Egyetem"
-        },
-        {
-          "ID": 1574096,
-          "Title": "Torinói Egyetem"
-        },
-        {
-          "ID": 1581298,
-          "Title": "Bonni Egyetem"
-        },
-        {
-          "ID": 1595117,
-          "Title": "Ferrarai Egyetem"
-        },
-        {
-          "ID": 1606626,
-          "Title": "Genovai Egyetem"
+          "ID": 14564,
+          "Title": "Kategória:Társadalomtudományok"
         }
       ]
     },
@@ -1286,110 +682,100 @@
       "Title": "Technology and applied sciences",
       "Categories": [
         {
-          "ID": 4111,
-          "Title": "Kategória:Informatika"
-        },
-        {
-          "ID": 4112,
-          "Title": "Kategória:Számítástechnika"
-        },
-        {
-          "ID": 10105,
-          "Title": "Kategória:Elektronika"
-        },
-        {
-          "ID": 14862,
-          "Title": "Kategória:Közlekedés"
-        },
-        {
-          "ID": 20276,
-          "Title": "Kategória:Internet"
-        },
-        {
-          "ID": 32101,
-          "Title": "Kategória:Technika"
+          "ID": 285864,
+          "Title": "Kategória:Adatbázis-kezelés"
         },
         {
           "ID": 34475,
           "Title": "Kategória:Alkalmazott tudományok"
         },
         {
-          "ID": 61752,
-          "Title": "Kategória:Haditechnika"
-        },
-        {
-          "ID": 69070,
-          "Title": "Kategória:Számítógéptudomány"
-        },
-        {
-          "ID": 89795,
-          "Title": "Kategória:Számítógép-tudomány"
+          "ID": 10105,
+          "Title": "Kategória:Elektronika"
         },
         {
           "ID": 106596,
           "Title": "Kategória:Formatervezés"
         },
         {
-          "ID": 195226,
-          "Title": "Kategória:Technikatörténet"
+          "ID": 462989,
+          "Title": "Kategória:Gasztronómiai eszközök"
         },
         {
-          "ID": 224068,
-          "Title": "Kategória:Számítógépek"
+          "ID": 392128,
+          "Title": "Kategória:Gépészet"
+        },
+        {
+          "ID": 61752,
+          "Title": "Kategória:Haditechnika"
+        },
+        {
+          "ID": 4111,
+          "Title": "Kategória:Informatika"
+        },
+        {
+          "ID": 20276,
+          "Title": "Kategória:Internet"
+        },
+        {
+          "ID": 122896,
+          "Title": "Kategória:Játékkonzolok"
+        },
+        {
+          "ID": 14862,
+          "Title": "Kategória:Közlekedés"
         },
         {
           "ID": 231132,
           "Title": "Kategória:Mérnöki tudományok"
         },
         {
-          "ID": 285864,
-          "Title": "Kategória:Adatbázis-kezelés"
+          "ID": 417257,
+          "Title": "Kategória:Nyomtatás"
+        },
+        {
+          "ID": 34965,
+          "Title": "Kategória:Szabványok"
+        },
+        {
+          "ID": 408962,
+          "Title": "Kategória:Szerszámok"
+        },
+        {
+          "ID": 85626,
+          "Title": "Kategória:Szoftverek"
+        },
+        {
+          "ID": 4112,
+          "Title": "Kategória:Számítástechnika"
+        },
+        {
+          "ID": 88358,
+          "Title": "Kategória:Számítógép-programozás"
+        },
+        {
+          "ID": 89795,
+          "Title": "Kategória:Számítógép-tudomány"
+        },
+        {
+          "ID": 224068,
+          "Title": "Kategória:Számítógépek"
+        },
+        {
+          "ID": 69070,
+          "Title": "Kategória:Számítógéptudomány"
+        },
+        {
+          "ID": 32101,
+          "Title": "Kategória:Technika"
         },
         {
           "ID": 422390,
           "Title": "Kategória:Technológia"
-        }
-      ],
-      "Articles": [
-        {
-          "ID": 2217,
-          "Title": "Legfelső szintű tartomány"
         },
         {
-          "ID": 45404,
-          "Title": "PepsiCo"
-        },
-        {
-          "ID": 213955,
-          "Title": ".xxx"
-        },
-        {
-          "ID": 273047,
-          "Title": "Hegesztés (fémek)"
-        },
-        {
-          "ID": 595728,
-          "Title": "Fal"
-        },
-        {
-          "ID": 630295,
-          "Title": "JR E233 sorozat"
-        },
-        {
-          "ID": 930725,
-          "Title": "Megvalósíthatósági tanulmány"
-        },
-        {
-          "ID": 960517,
-          "Title": "Rágógumi"
-        },
-        {
-          "ID": 1029670,
-          "Title": "Pepsi"
-        },
-        {
-          "ID": 1412031,
-          "Title": "Mountain Dew"
+          "ID": 468494,
+          "Title": "Kategória:Építőipar"
         }
       ]
     }

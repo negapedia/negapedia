@@ -6,18 +6,28 @@
       "Title": "Culture and the arts",
       "Categories": [
         {
+          "ID": 2000,
+          "Title": "Kategoria:Arte marsiál"
+        },
+        {
           "ID": 1586,
           "Title": "Kategoria:Desportu"
         },
         {
+          "ID": 2001,
+          "Title": "Kategoria:Folklore"
+        },
+        {
           "ID": 1588,
           "Title": "Kategoria:Kultura"
-        }
-      ],
-      "Articles": [
+        },
         {
-          "ID": 2280,
-          "Title": "Wikipédia"
+          "ID": 1582,
+          "Title": "Kategoria:Literatura"
+        },
+        {
+          "ID": 1585,
+          "Title": "Kategoria:Múzika"
         }
       ]
     },
@@ -29,24 +39,6 @@
           "ID": 1577,
           "Title": "Kategoria:Jeografia"
         }
-      ],
-      "Articles": [
-        {
-          "ID": 1461,
-          "Title": "Austrália"
-        },
-        {
-          "ID": 1625,
-          "Title": "Birmánia"
-        },
-        {
-          "ID": 1653,
-          "Title": "Kamberra"
-        },
-        {
-          "ID": 1664,
-          "Title": "París"
-        }
       ]
     },
     {
@@ -55,13 +47,7 @@
     },
     {
       "ID": 2147483640,
-      "Title": "History and events",
-      "Articles": [
-        {
-          "ID": 5876,
-          "Title": "Donald Trump"
-        }
-      ]
+      "Title": "History and events"
     },
     {
       "ID": 2147483641,
@@ -78,12 +64,12 @@
       "Title": "Nature and physical sciences",
       "Categories": [
         {
-          "ID": 1576,
-          "Title": "Kategoria:Zoolojia"
-        },
-        {
           "ID": 1590,
           "Title": "Kategoria:Siénsia"
+        },
+        {
+          "ID": 1576,
+          "Title": "Kategoria:Zoolojia"
         }
       ]
     },
@@ -107,25 +93,7 @@
     },
     {
       "ID": 2147483646,
-      "Title": "Society and social sciences",
-      "Articles": [
-        {
-          "ID": 1548,
-          "Title": "Xile"
-        },
-        {
-          "ID": 1733,
-          "Title": "Uniaun Europeia"
-        },
-        {
-          "ID": 2889,
-          "Title": "Barbadus"
-        },
-        {
-          "ID": 4317,
-          "Title": "Iraun"
-        }
-      ]
+      "Title": "Society and social sciences"
     },
     {
       "ID": 2147483647,

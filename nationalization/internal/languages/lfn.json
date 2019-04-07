@@ -18,66 +18,36 @@
           "Title": "Categoria:Comeda"
         },
         {
-          "ID": 223,
-          "Title": "Categoria:Cultur"
-        },
-        {
           "ID": 2187,
           "Title": "Categoria:Cosini"
         },
         {
+          "ID": 223,
+          "Title": "Categoria:Cultur"
+        },
+        {
+          "ID": 343,
+          "Title": "Categoria:Leteratur"
+        },
+        {
+          "ID": 4313,
+          "Title": "Categoria:Libros"
+        },
+        {
+          "ID": 426,
+          "Title": "Categoria:Musica"
+        },
+        {
+          "ID": 3788,
+          "Title": "Categoria:Seso"
+        },
+        {
           "ID": 3727,
           "Title": "Categoria:Sporte"
-        }
-      ],
-      "Articles": [
-        {
-          "ID": 665,
-          "Title": "Vicipedia"
         },
         {
-          "ID": 909,
-          "Title": "Pan"
-        },
-        {
-          "ID": 1012,
-          "Title": "Realia"
-        },
-        {
-          "ID": 1328,
-          "Title": "Lardo"
-        },
-        {
-          "ID": 2026,
-          "Title": "Bir"
-        },
-        {
-          "ID": 2059,
-          "Title": "Cafe"
-        },
-        {
-          "ID": 2394,
-          "Title": "Ovo"
-        },
-        {
-          "ID": 2430,
-          "Title": "Porco"
-        },
-        {
-          "ID": 3218,
-          "Title": "Xocolada"
-        },
-        {
-          "ID": 3474,
-          "Title": "Carne moleda"
-        },
-        {
-          "ID": 5183,
-          "Title": "Piza"
-        },
-        {
-          "ID": 5248,
-          "Title": "Fantasma"
+          "ID": 519,
+          "Title": "Categoria:Televisa"
         }
       ]
     },
@@ -88,28 +58,18 @@
         {
           "ID": 326,
           "Title": "Categoria:Jeografia"
-        }
-      ],
-      "Articles": [
-        {
-          "ID": 643,
-          "Title": "Umana"
         },
         {
-          "ID": 919,
-          "Title": "Paris"
+          "ID": 436,
+          "Title": "Categoria:Paises"
         },
         {
-          "ID": 1187,
-          "Title": "Miama"
+          "ID": 3669,
+          "Title": "Categoria:Rios"
         },
         {
-          "ID": 1985,
-          "Title": "Australia"
-        },
-        {
-          "ID": 3632,
-          "Title": "Venezia"
+          "ID": 509,
+          "Title": "Categoria:Sites"
         }
       ]
     },
@@ -118,12 +78,12 @@
       "Title": "Health and fitness",
       "Categories": [
         {
-          "ID": 407,
-          "Title": "Categoria:Medica"
-        },
-        {
           "ID": 4992,
           "Title": "Categoria:Autocura"
+        },
+        {
+          "ID": 407,
+          "Title": "Categoria:Medica"
         }
       ]
     },
@@ -132,22 +92,12 @@
       "Title": "History and events",
       "Categories": [
         {
+          "ID": 5356,
+          "Title": "Categoria:Atacas teroriste"
+        },
+        {
           "ID": 291,
           "Title": "Categoria:Istoria"
-        },
-        {
-          "ID": 2168,
-          "Title": "Categoria:Siensas umana"
-        }
-      ],
-      "Articles": [
-        {
-          "ID": 1615,
-          "Title": "Gera de Troia"
-        },
-        {
-          "ID": 3949,
-          "Title": "Donald Trump"
         }
       ]
     },
@@ -162,6 +112,10 @@
         {
           "ID": 404,
           "Title": "Categoria:Matematica"
+        },
+        {
+          "ID": 526,
+          "Title": "Categoria:Unias de mesura"
         }
       ]
     },
@@ -170,12 +124,28 @@
       "Title": "Nature and physical sciences",
       "Categories": [
         {
+          "ID": 152,
+          "Title": "Categoria:Anatomia"
+        },
+        {
+          "ID": 154,
+          "Title": "Categoria:Animal"
+        },
+        {
           "ID": 207,
           "Title": "Categoria:Cimica"
         },
         {
+          "ID": 235,
+          "Title": "Categoria:Ecolojia"
+        },
+        {
           "ID": 269,
           "Title": "Categoria:Fisica"
+        },
+        {
+          "ID": 450,
+          "Title": "Categoria:Planta"
         },
         {
           "ID": 499,
@@ -184,28 +154,6 @@
         {
           "ID": 2171,
           "Title": "Categoria:Siensas natural"
-        }
-      ],
-      "Articles": [
-        {
-          "ID": 615,
-          "Title": "Trigo"
-        },
-        {
-          "ID": 704,
-          "Title": "Ris"
-        },
-        {
-          "ID": 1572,
-          "Title": "Flamingo"
-        },
-        {
-          "ID": 2368,
-          "Title": "Mais"
-        },
-        {
-          "ID": 2885,
-          "Title": "Camel"
         }
       ]
     },
@@ -216,52 +164,30 @@
         {
           "ID": 188,
           "Title": "Categoria:Biografia"
-        }
-      ],
-      "Articles": [
-        {
-          "ID": 748,
-          "Title": "San Tomas de Aquino"
         },
         {
-          "ID": 811,
-          "Title": "Sigmund Freud"
+          "ID": 268,
+          "Title": "Categoria:Filosofistes"
         },
         {
-          "ID": 1036,
-          "Title": "René Descartes"
+          "ID": 406,
+          "Title": "Categoria:Matematicistes"
         },
         {
-          "ID": 1294,
-          "Title": "Joseph Smith Jr."
+          "ID": 5333,
+          "Title": "Categoria:Musicistes"
         },
         {
-          "ID": 1602,
-          "Title": "Galileo Galilei"
+          "ID": 4018,
+          "Title": "Categoria:Persones par ocupa"
         },
         {
-          "ID": 1764,
-          "Title": "Charles Lutwidge Dodgson"
+          "ID": 2225,
+          "Title": "Categoria:Politicistes"
         },
         {
-          "ID": 1824,
-          "Title": "Cristoforo Colombo"
-        },
-        {
-          "ID": 1847,
-          "Title": "Adam Smith"
-        },
-        {
-          "ID": 1852,
-          "Title": "Adolf Hitler"
-        },
-        {
-          "ID": 2022,
-          "Title": "Bill Gates"
-        },
-        {
-          "ID": 4296,
-          "Title": "Richard Wagner"
+          "ID": 488,
+          "Title": "Categoria:Scrivores"
         }
       ]
     },
@@ -272,12 +198,6 @@
         {
           "ID": 267,
           "Title": "Categoria:Filosofia"
-        }
-      ],
-      "Articles": [
-        {
-          "ID": 3181,
-          "Title": "Felisia"
         }
       ]
     },
@@ -300,42 +220,24 @@
       "Title": "Society and social sciences",
       "Categories": [
         {
+          "ID": 142,
+          "Title": "Categoria:Airocompanias"
+        },
+        {
           "ID": 341,
           "Title": "Categoria:Lege"
         },
         {
-          "ID": 511,
-          "Title": "Categoria:Sosia"
+          "ID": 471,
+          "Title": "Categoria:Psicolojia"
         },
         {
           "ID": 2168,
           "Title": "Categoria:Siensas umana"
-        }
-      ],
-      "Articles": [
-        {
-          "ID": 634,
-          "Title": "Txile"
         },
         {
-          "ID": 650,
-          "Title": "Universia de Oxford"
-        },
-        {
-          "ID": 1468,
-          "Title": "Iran"
-        },
-        {
-          "ID": 2007,
-          "Title": "Barbados"
-        },
-        {
-          "ID": 2500,
-          "Title": "Uni European"
-        },
-        {
-          "ID": 2674,
-          "Title": "Universia Harvard"
+          "ID": 511,
+          "Title": "Categoria:Sosia"
         }
       ]
     },
@@ -343,6 +245,10 @@
       "ID": 2147483647,
       "Title": "Technology and applied sciences",
       "Categories": [
+        {
+          "ID": 2182,
+          "Title": "Categoria:Eletronica"
+        },
         {
           "ID": 284,
           "Title": "Categoria:Injenia"
@@ -354,10 +260,6 @@
         {
           "ID": 522,
           "Title": "Categoria:Transporta"
-        },
-        {
-          "ID": 2182,
-          "Title": "Categoria:Eletronica"
         }
       ]
     }

@@ -4,24 +4,20 @@
     {
       "ID": 2147483637,
       "Title": "Culture and the arts",
-      "Articles": [
+      "Categories": [
         {
-          "ID": 4281,
-          "Title": "Wikipedia"
-        },
-        {
-          "ID": 4286,
-          "Title": "Encyclopedia"
+          "ID": 3393,
+          "Title": "Category:Kuimba"
         }
       ]
     },
     {
       "ID": 2147483638,
       "Title": "Geography and places",
-      "Articles": [
+      "Categories": [
         {
-          "ID": 3668,
-          "Title": "Paris"
+          "ID": 3836,
+          "Title": "Category:Mtsinje"
         }
       ]
     },
@@ -39,19 +35,21 @@
     },
     {
       "ID": 2147483642,
-      "Title": "Nature and physical sciences"
+      "Title": "Nature and physical sciences",
+      "Categories": [
+        {
+          "ID": 2325,
+          "Title": "Category:Zomera"
+        }
+      ]
     },
     {
       "ID": 2147483643,
       "Title": "People and self",
-      "Articles": [
+      "Categories": [
         {
-          "ID": 3943,
-          "Title": "Adolf Hitler"
-        },
-        {
-          "ID": 4431,
-          "Title": "Christopher Columbus"
+          "ID": 4140,
+          "Title": "Category:Anthu amoyo"
         }
       ]
     },
@@ -66,18 +64,10 @@
     {
       "ID": 2147483646,
       "Title": "Society and social sciences",
-      "Articles": [
+      "Categories": [
         {
-          "ID": 3823,
-          "Title": "Chile"
-        },
-        {
-          "ID": 4074,
-          "Title": "Pizza Hut"
-        },
-        {
-          "ID": 4424,
-          "Title": "European Union"
+          "ID": 2660,
+          "Title": "Category:Boma"
         }
       ]
     },

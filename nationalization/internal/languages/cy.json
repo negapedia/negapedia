@@ -6,266 +6,236 @@
       "Title": "Culture and the arts",
       "Categories": [
         {
-          "ID": 6297,
-          "Title": "Categori:Chwaraeon"
-        },
-        {
-          "ID": 8737,
-          "Title": "Categori:Bwyd"
-        },
-        {
-          "ID": 10136,
-          "Title": "Categori:Ffilmiau"
-        },
-        {
-          "ID": 11416,
-          "Title": "Categori:Difyrweithiau"
-        },
-        {
-          "ID": 12181,
-          "Title": "Categori:Bwyd a diod"
+          "ID": 9799,
+          "Title": "Categori:Addysg"
         },
         {
           "ID": 12182,
           "Title": "Categori:Adloniant"
         },
         {
-          "ID": 12183,
-          "Title": "Categori:Diwylliant"
-        },
-        {
-          "ID": 13412,
-          "Title": "Categori:Hamdden"
-        },
-        {
-          "ID": 14196,
-          "Title": "Categori:Lliwiau"
+          "ID": 81768,
+          "Title": "Categori:Arferion diwylliannol"
         },
         {
           "ID": 14579,
           "Title": "Categori:Bandiau"
         },
         {
-          "ID": 21978,
-          "Title": "Categori:Ysgrifennu"
+          "ID": 8737,
+          "Title": "Categori:Bwyd"
         },
         {
-          "ID": 45617,
-          "Title": "Categori:Ymarfer corff"
+          "ID": 12181,
+          "Title": "Categori:Bwyd a diod"
+        },
+        {
+          "ID": 232961,
+          "Title": "Categori:Bwyd a diod Nadoligaidd"
+        },
+        {
+          "ID": 13632,
+          "Title": "Categori:Bywyd personol"
+        },
+        {
+          "ID": 11698,
+          "Title": "Categori:Cerddoriaeth"
+        },
+        {
+          "ID": 6297,
+          "Title": "Categori:Chwaraeon"
         },
         {
           "ID": 70568,
           "Title": "Categori:Chwaraeon yn ôl math"
         },
         {
-          "ID": 82886,
-          "Title": "Categori:Technegau coginio"
+          "ID": 28729,
+          "Title": "Categori:Cofiannau"
         },
         {
-          "ID": 124502,
-          "Title": "Categori:Seigiau yn ôl prif gynhwysyn"
+          "ID": 230107,
+          "Title": "Categori:Coginiaeth"
+        },
+        {
+          "ID": 89097,
+          "Title": "Categori:Crefftau ymladd"
+        },
+        {
+          "ID": 24024,
+          "Title": "Categori:Cyfansoddiadau cerddorol"
+        },
+        {
+          "ID": 13440,
+          "Title": "Categori:Cyfeiriaduron"
+        },
+        {
+          "ID": 234771,
+          "Title": "Categori:Cyfeirlyfrau"
+        },
+        {
+          "ID": 70026,
+          "Title": "Categori:Cyfnodolion"
+        },
+        {
+          "ID": 20435,
+          "Title": "Categori:Cylchgronau"
+        },
+        {
+          "ID": 33608,
+          "Title": "Categori:Cystadlaethau"
+        },
+        {
+          "ID": 18390,
+          "Title": "Categori:Dewiniaeth"
+        },
+        {
+          "ID": 11416,
+          "Title": "Categori:Difyrweithiau"
+        },
+        {
+          "ID": 23443,
+          "Title": "Categori:Diwylliannau"
+        },
+        {
+          "ID": 12183,
+          "Title": "Categori:Diwylliant"
+        },
+        {
+          "ID": 23442,
+          "Title": "Categori:Diwylliant poblogaidd"
+        },
+        {
+          "ID": 32982,
+          "Title": "Categori:Diwylliant rhyngrwyd"
+        },
+        {
+          "ID": 24066,
+          "Title": "Categori:Diwylliant yn ôl gwlad"
+        },
+        {
+          "ID": 10136,
+          "Title": "Categori:Ffilmiau"
+        },
+        {
+          "ID": 17644,
+          "Title": "Categori:Ffuglen"
+        },
+        {
+          "ID": 228402,
+          "Title": "Categori:Ffynhonnell gwybodaeth"
+        },
+        {
+          "ID": 23273,
+          "Title": "Categori:Ffynonellau"
+        },
+        {
+          "ID": 18419,
+          "Title": "Categori:Gemau bwrdd"
+        },
+        {
+          "ID": 114184,
+          "Title": "Categori:Gemau fideo"
+        },
+        {
+          "ID": 26563,
+          "Title": "Categori:Gorsafoedd radio"
+        },
+        {
+          "ID": 55460,
+          "Title": "Categori:Gweithiau yn ôl artist"
+        },
+        {
+          "ID": 87152,
+          "Title": "Categori:Gweithiau yn ôl awdur"
+        },
+        {
+          "ID": 15960,
+          "Title": "Categori:Gwyddoniaduron"
+        },
+        {
+          "ID": 13412,
+          "Title": "Categori:Hamdden"
+        },
+        {
+          "ID": 12083,
+          "Title": "Categori:Llenyddiaeth"
+        },
+        {
+          "ID": 14196,
+          "Title": "Categori:Lliwiau"
+        },
+        {
+          "ID": 14571,
+          "Title": "Categori:Llyfrau"
+        },
+        {
+          "ID": 87151,
+          "Title": "Categori:Llyfrau yn ôl awdur"
+        },
+        {
+          "ID": 16701,
+          "Title": "Categori:Llên gwerin"
         },
         {
           "ID": 160332,
           "Title": "Categori:Maetheg"
         },
         {
+          "ID": 23223,
+          "Title": "Categori:Mathau o gerddoriaeth"
+        },
+        {
+          "ID": 233499,
+          "Title": "Categori:Paentiadau"
+        },
+        {
+          "ID": 13272,
+          "Title": "Categori:Papurau newydd"
+        },
+        {
+          "ID": 33099,
+          "Title": "Categori:Rhith gymunedau"
+        },
+        {
+          "ID": 17196,
+          "Title": "Categori:Rhyw"
+        },
+        {
+          "ID": 31103,
+          "Title": "Categori:Rhywedd"
+        },
+        {
+          "ID": 124502,
+          "Title": "Categori:Seigiau yn ôl prif gynhwysyn"
+        },
+        {
+          "ID": 82886,
+          "Title": "Categori:Technegau coginio"
+        },
+        {
+          "ID": 11967,
+          "Title": "Categori:Teledu"
+        },
+        {
           "ID": 228744,
           "Title": "Categori:Y celfyddydau"
         },
         {
-          "ID": 230107,
-          "Title": "Categori:Coginiaeth"
-        }
-      ],
-      "Articles": [
-        {
-          "ID": 129,
-          "Title": "Wikipedia"
+          "ID": 228705,
+          "Title": "Categori:Y celfyddydau perfformio"
         },
         {
-          "ID": 2232,
-          "Title": "Siocled"
+          "ID": 45617,
+          "Title": "Categori:Ymarfer corff"
         },
         {
-          "ID": 3113,
-          "Title": "Bara"
+          "ID": 34083,
+          "Title": "Categori:Ymgodymu"
         },
         {
-          "ID": 3115,
-          "Title": "Cwrw"
-        },
-        {
-          "ID": 3387,
-          "Title": "Mochyn (dof)"
-        },
-        {
-          "ID": 6560,
-          "Title": "Teisen"
-        },
-        {
-          "ID": 7242,
-          "Title": "Palas Buckingham"
-        },
-        {
-          "ID": 7885,
-          "Title": "Coffi"
-        },
-        {
-          "ID": 13402,
-          "Title": "Menyn cnau mwnci"
-        },
-        {
-          "ID": 15146,
-          "Title": "Gwyddoniadur"
-        },
-        {
-          "ID": 33490,
-          "Title": "Led Zeppelin"
-        },
-        {
-          "ID": 37065,
-          "Title": "Baedd gwyllt"
-        },
-        {
-          "ID": 39568,
-          "Title": "Sgt. Pepper's Lonely Hearts Club Band"
-        },
-        {
-          "ID": 40326,
-          "Title": "Medrawd"
-        },
-        {
-          "ID": 45484,
-          "Title": "Mochyn"
-        },
-        {
-          "ID": 45830,
-          "Title": "Pasta"
-        },
-        {
-          "ID": 47844,
-          "Title": "Green Day"
-        },
-        {
-          "ID": 48273,
-          "Title": "Bisged"
-        },
-        {
-          "ID": 50995,
-          "Title": "AC/DC"
-        },
-        {
-          "ID": 53247,
-          "Title": "Hufen iâ"
-        },
-        {
-          "ID": 55027,
-          "Title": "Troedfawr"
-        },
-        {
-          "ID": 65193,
-          "Title": "Ysbryd"
-        },
-        {
-          "ID": 67046,
-          "Title": "Wicipedia Cymraeg"
-        },
-        {
-          "ID": 68460,
-          "Title": "Realaeth"
-        },
-        {
-          "ID": 74595,
-          "Title": "Calsugno"
-        },
-        {
-          "ID": 74803,
-          "Title": "Rhyw geneuol"
-        },
-        {
-          "ID": 79973,
-          "Title": "Torte"
-        },
-        {
-          "ID": 80103,
-          "Title": "Pitsa"
-        },
-        {
-          "ID": 82705,
-          "Title": "Ŵy (bwyd)"
-        },
-        {
-          "ID": 82709,
-          "Title": "Teisen sbwnj"
-        },
-        {
-          "ID": 82865,
-          "Title": "Bacwn"
-        },
-        {
-          "ID": 87456,
-          "Title": "Saws"
-        },
-        {
-          "ID": 96719,
-          "Title": "Hogwarts"
-        },
-        {
-          "ID": 104571,
-          "Title": "Realiti"
-        },
-        {
-          "ID": 104576,
-          "Title": "Realaeth (celf)"
-        },
-        {
-          "ID": 136910,
-          "Title": "Taco"
-        },
-        {
-          "ID": 151382,
-          "Title": "Pei"
-        },
-        {
-          "ID": 160340,
-          "Title": "Tarten"
-        },
-        {
-          "ID": 167576,
-          "Title": "Enllyn"
-        },
-        {
-          "ID": 208887,
-          "Title": "Realaeth (athroniaeth)"
-        },
-        {
-          "ID": 210611,
-          "Title": "Aqua"
-        },
-        {
-          "ID": 210747,
-          "Title": "Dinosaur Jr"
-        },
-        {
-          "ID": 211728,
-          "Title": "Cystadleuaeth Cân Eurovision 2017"
-        },
-        {
-          "ID": 232742,
-          "Title": "Car llusg"
-        },
-        {
-          "ID": 232797,
-          "Title": "Ci poeth"
-        },
-        {
-          "ID": 233150,
-          "Title": "Briwgig"
-        },
-        {
-          "ID": 233303,
-          "Title": "Bara fflat"
+          "ID": 21978,
+          "Title": "Categori:Ysgrifennu"
         }
       ]
     },
@@ -274,62 +244,56 @@
       "Title": "Geography and places",
       "Categories": [
         {
+          "ID": 8340,
+          "Title": "Categori:Afonydd"
+        },
+        {
+          "ID": 25801,
+          "Title": "Categori:Aneddiadau"
+        },
+        {
+          "ID": 26383,
+          "Title": "Categori:Aneddiadau yn ôl gwlad"
+        },
+        {
+          "ID": 94755,
+          "Title": "Categori:Cofebion"
+        },
+        {
           "ID": 8339,
           "Title": "Categori:Daearyddiaeth"
         },
         {
-          "ID": 14249,
-          "Title": "Categori:Rhestrau daearyddiaeth"
+          "ID": 11058,
+          "Title": "Categori:Dinasoedd"
+        },
+        {
+          "ID": 18595,
+          "Title": "Categori:Ffyrdd"
+        },
+        {
+          "ID": 13007,
+          "Title": "Categori:Gwledydd"
         },
         {
           "ID": 69720,
           "Title": "Categori:Lleoedd"
         },
         {
-          "ID": 94755,
-          "Title": "Categori:Cofebion"
-        }
-      ],
-      "Articles": [
-        {
-          "ID": 3467,
-          "Title": "Paris"
+          "ID": 76812,
+          "Title": "Categori:Palasau"
         },
         {
-          "ID": 3918,
-          "Title": "Awstralia"
+          "ID": 14249,
+          "Title": "Categori:Rhestrau daearyddiaeth"
         },
         {
-          "ID": 8611,
-          "Title": "Myanmar"
+          "ID": 59753,
+          "Title": "Categori:Strydoedd"
         },
         {
-          "ID": 14647,
-          "Title": "Fenis"
-        },
-        {
-          "ID": 25063,
-          "Title": "Queensland"
-        },
-        {
-          "ID": 25093,
-          "Title": "Bod dynol"
-        },
-        {
-          "ID": 25340,
-          "Title": "Canberra"
-        },
-        {
-          "ID": 28194,
-          "Title": "Pyramid"
-        },
-        {
-          "ID": 46478,
-          "Title": "Homo sapiens"
-        },
-        {
-          "ID": 100738,
-          "Title": "Aberfoyle, Stirling"
+          "ID": 4210,
+          "Title": "Categori:Trefi"
         }
       ]
     },
@@ -338,36 +302,44 @@
       "Title": "Health and fitness",
       "Categories": [
         {
-          "ID": 13343,
-          "Title": "Categori:Meddygaeth"
-        },
-        {
-          "ID": 13344,
-          "Title": "Categori:Iechyd"
-        },
-        {
-          "ID": 29418,
-          "Title": "Categori:Arbenigeddau meddygol"
-        },
-        {
-          "ID": 34940,
-          "Title": "Categori:Gwyddorau iechyd"
-        },
-        {
-          "ID": 64676,
-          "Title": "Categori:Gofal iechyd"
+          "ID": 51933,
+          "Title": "Categori:Anatomeg ddynol"
         },
         {
           "ID": 65407,
           "Title": "Categori:Anhwylderau genetig"
         },
         {
-          "ID": 66774,
-          "Title": "Categori:Hylendid"
+          "ID": 29418,
+          "Title": "Categori:Arbenigeddau meddygol"
         },
         {
           "ID": 86153,
           "Title": "Categori:Galwedigaethau gofal iechyd"
+        },
+        {
+          "ID": 64676,
+          "Title": "Categori:Gofal iechyd"
+        },
+        {
+          "ID": 34940,
+          "Title": "Categori:Gwyddorau iechyd"
+        },
+        {
+          "ID": 66774,
+          "Title": "Categori:Hylendid"
+        },
+        {
+          "ID": 13344,
+          "Title": "Categori:Iechyd"
+        },
+        {
+          "ID": 13343,
+          "Title": "Categori:Meddygaeth"
+        },
+        {
+          "ID": 86177,
+          "Title": "Categori:Nyrsio"
         }
       ]
     },
@@ -376,50 +348,32 @@
       "Title": "History and events",
       "Categories": [
         {
-          "ID": 10897,
-          "Title": "Categori:Gwyddorau cymdeithas"
+          "ID": 30519,
+          "Title": "Categori:Chwyldroadau"
+        },
+        {
+          "ID": 26481,
+          "Title": "Categori:Digwyddiadau"
         },
         {
           "ID": 12087,
           "Title": "Categori:Hanes"
         },
         {
-          "ID": 16043,
-          "Title": "Categori:Dyniaethau"
+          "ID": 19488,
+          "Title": "Categori:Hanes gwleidyddol"
         },
         {
           "ID": 20253,
           "Title": "Categori:Hanes yn ôl gwlad"
         },
         {
-          "ID": 26481,
-          "Title": "Categori:Digwyddiadau"
-        }
-      ],
-      "Articles": [
-        {
-          "ID": 7709,
-          "Title": "Ymosodiadau 11 Medi 2001"
+          "ID": 13105,
+          "Title": "Categori:Rhyfel"
         },
         {
-          "ID": 48599,
-          "Title": "Rhyfel Caerdroea"
-        },
-        {
-          "ID": 73961,
-          "Title": "Arllwysiad olew Deepwater Horizon"
-        },
-        {
-          "ID": 81089,
-          "Title": "Daeargryn a tsunami Sendai 2011"
-        },
-        {
-          "ID": 82659,
-          "Title": "Donald Trump"
-        },
-        {
-          "ID": 96110,
-          "Title": "Etholiad arlywyddol yr Unol Daleithiau, 2012"
+          "ID": 12850,
+          "Title": "Categori:Rhyfeloedd"
         }
       ]
     },
@@ -427,18 +381,6 @@
       "ID": 2147483641,
       "Title": "Mathematics and logic",
       "Categories": [
-        {
-          "ID": 10181,
-          "Title": "Categori:Mathemateg"
-        },
-        {
-          "ID": 19235,
-          "Title": "Categori:Rhesymeg"
-        },
-        {
-          "ID": 30712,
-          "Title": "Categori:Ystadegaeth"
-        },
         {
           "ID": 31812,
           "Title": "Categori:Cyfrifiadureg ddamcaniaethol"
@@ -448,14 +390,24 @@
           "Title": "Categori:Cysyniadau mathemategol"
         },
         {
+          "ID": 10181,
+          "Title": "Categori:Mathemateg"
+        },
+        {
           "ID": 228936,
           "Title": "Categori:Meysydd mathemateg"
-        }
-      ],
-      "Articles": [
+        },
         {
-          "ID": 4317,
-          "Title": "Hyd"
+          "ID": 19235,
+          "Title": "Categori:Rhesymeg"
+        },
+        {
+          "ID": 22012,
+          "Title": "Categori:Unedau mesur"
+        },
+        {
+          "ID": 30712,
+          "Title": "Categori:Ystadegaeth"
         }
       ]
     },
@@ -464,20 +416,48 @@
       "Title": "Nature and physical sciences",
       "Categories": [
         {
+          "ID": 4281,
+          "Title": "Categori:Anatomeg"
+        },
+        {
+          "ID": 8586,
+          "Title": "Categori:Anifeiliaid"
+        },
+        {
+          "ID": 25458,
+          "Title": "Categori:Bywyd"
+        },
+        {
           "ID": 10094,
           "Title": "Categori:Cemeg"
         },
         {
-          "ID": 10095,
-          "Title": "Categori:Gwyddoniaeth"
+          "ID": 65752,
+          "Title": "Categori:Cyfansoddion cemegol"
+        },
+        {
+          "ID": 11998,
+          "Title": "Categori:Ecoleg"
+        },
+        {
+          "ID": 131446,
+          "Title": "Categori:Ffawna yn ôl cyfandir"
         },
         {
           "ID": 10747,
           "Title": "Categori:Ffiseg"
         },
         {
-          "ID": 12533,
-          "Title": "Categori:Natur"
+          "ID": 4182,
+          "Title": "Categori:Ffrwythau"
+        },
+        {
+          "ID": 10095,
+          "Title": "Categori:Gwyddoniaeth"
+        },
+        {
+          "ID": 13920,
+          "Title": "Categori:Gwyddoniaeth naturiol"
         },
         {
           "ID": 12640,
@@ -488,16 +468,20 @@
           "Title": "Categori:Gwyddorau naturiol"
         },
         {
-          "ID": 13016,
-          "Title": "Categori:Trychinebau"
+          "ID": 12533,
+          "Title": "Categori:Natur"
         },
         {
-          "ID": 13920,
-          "Title": "Categori:Gwyddoniaeth naturiol"
+          "ID": 8587,
+          "Title": "Categori:Planhigion"
         },
         {
-          "ID": 65752,
-          "Title": "Categori:Cyfansoddion cemegol"
+          "ID": 138207,
+          "Title": "Categori:Planhigion amaethyddol a garddwrol"
+        },
+        {
+          "ID": 83763,
+          "Title": "Categori:Protinau"
         },
         {
           "ID": 90838,
@@ -508,122 +492,12 @@
           "Title": "Categori:Söoleg"
         },
         {
-          "ID": 131446,
-          "Title": "Categori:Ffawna yn ôl cyfandir"
+          "ID": 13016,
+          "Title": "Categori:Trychinebau"
         },
         {
-          "ID": 228402,
-          "Title": "Categori:Ffynhonnell gwybodaeth"
-        }
-      ],
-      "Articles": [
-        {
-          "ID": 2541,
-          "Title": "Cadwyn fwyd"
-        },
-        {
-          "ID": 2753,
-          "Title": "Oren (ffrwyth)"
-        },
-        {
-          "ID": 4197,
-          "Title": "Tomato"
-        },
-        {
-          "ID": 4208,
-          "Title": "Gwenith"
-        },
-        {
-          "ID": 4256,
-          "Title": "Tân"
-        },
-        {
-          "ID": 5184,
-          "Title": "Reis"
-        },
-        {
-          "ID": 8411,
-          "Title": "Camel"
-        },
-        {
-          "ID": 9789,
-          "Title": "Myrtwydd"
-        },
-        {
-          "ID": 12459,
-          "Title": "Caill"
-        },
-        {
-          "ID": 14074,
-          "Title": "Hunan leddfu"
-        },
-        {
-          "ID": 17466,
-          "Title": "Pidyn"
-        },
-        {
-          "ID": 23992,
-          "Title": "Cyhyr"
-        },
-        {
-          "ID": 27028,
-          "Title": "Hydroleg"
-        },
-        {
-          "ID": 45623,
-          "Title": "Lemon"
-        },
-        {
-          "ID": 45952,
-          "Title": "Indrawn"
-        },
-        {
-          "ID": 51910,
-          "Title": "System gyhyrol"
-        },
-        {
-          "ID": 52416,
-          "Title": "System atgenhedlu"
-        },
-        {
-          "ID": 52464,
-          "Title": "Organau rhyw"
-        },
-        {
-          "ID": 52588,
-          "Title": "System gyhyrysgerbydol"
-        },
-        {
-          "ID": 97685,
-          "Title": "Troeth"
-        },
-        {
-          "ID": 148600,
-          "Title": "Macrell"
-        },
-        {
-          "ID": 153708,
-          "Title": "Melon"
-        },
-        {
-          "ID": 154386,
-          "Title": "Sbriwsen Engelmann"
-        },
-        {
-          "ID": 155026,
-          "Title": "Gwsberen Periw"
-        },
-        {
-          "ID": 188398,
-          "Title": "Titw tywyll Irán"
-        },
-        {
-          "ID": 227785,
-          "Title": "Y Sgrechod"
-        },
-        {
-          "ID": 228998,
-          "Title": "Pîn-afal"
+          "ID": 24848,
+          "Title": "Categori:Y Ddaear"
         }
       ]
     },
@@ -632,186 +506,136 @@
       "Title": "People and self",
       "Categories": [
         {
-          "ID": 12095,
-          "Title": "Categori:Pobl"
+          "ID": 9176,
+          "Title": "Categori:Actorion"
         },
         {
-          "ID": 13632,
-          "Title": "Categori:Bywyd personol"
+          "ID": 26873,
+          "Title": "Categori:Actorion ffilm"
         },
         {
-          "ID": 25458,
-          "Title": "Categori:Bywyd"
+          "ID": 6096,
+          "Title": "Categori:Arlunwyr"
         },
         {
-          "ID": 26602,
-          "Title": "Categori:Merched"
+          "ID": 233396,
+          "Title": "Categori:Arlunwyr yn ôl cyfrwng"
+        },
+        {
+          "ID": 10679,
+          "Title": "Categori:Arlywyddion"
+        },
+        {
+          "ID": 25813,
+          "Title": "Categori:Arlywyddion yn ôl gwlad"
+        },
+        {
+          "ID": 12084,
+          "Title": "Categori:Athronwyr"
+        },
+        {
+          "ID": 72244,
+          "Title": "Categori:Awyrenwyr"
+        },
+        {
+          "ID": 10086,
+          "Title": "Categori:Cerddorion"
+        },
+        {
+          "ID": 14694,
+          "Title": "Categori:Chwyldroadwyr"
         },
         {
           "ID": 26935,
           "Title": "Categori:Cyfenwau"
         },
         {
-          "ID": 28729,
-          "Title": "Categori:Cofiannau"
+          "ID": 22443,
+          "Title": "Categori:Cymeriadau ffuglen"
         },
         {
-          "ID": 29422,
-          "Title": "Categori:Personoliaeth"
+          "ID": 23142,
+          "Title": "Categori:Dyfeiswyr"
+        },
+        {
+          "ID": 30078,
+          "Title": "Categori:Fforwyr"
+        },
+        {
+          "ID": 14423,
+          "Title": "Categori:Genedigaethau yn ôl blwyddyn"
+        },
+        {
+          "ID": 14070,
+          "Title": "Categori:Gwleidyddion"
+        },
+        {
+          "ID": 76798,
+          "Title": "Categori:Gwyddonwyr gwleidyddol"
         },
         {
           "ID": 29423,
           "Title": "Categori:Hunan"
         },
         {
-          "ID": 233396,
-          "Title": "Categori:Arlunwyr yn ôl cyfrwng"
-        }
-      ],
-      "Articles": [
-        {
-          "ID": 3435,
-          "Title": "Christopher Columbus"
+          "ID": 15085,
+          "Title": "Categori:Llenorion"
         },
         {
-          "ID": 5808,
-          "Title": "George Harrison"
+          "ID": 49789,
+          "Title": "Categori:Llenorion ffuglen"
         },
         {
-          "ID": 6138,
-          "Title": "René Descartes"
+          "ID": 14309,
+          "Title": "Categori:Marwolaethau yn ôl blwyddyn"
         },
         {
-          "ID": 6275,
-          "Title": "Adolf Hitler"
+          "ID": 12101,
+          "Title": "Categori:Mathemategwyr"
         },
         {
-          "ID": 6520,
-          "Title": "Florence Nightingale"
+          "ID": 22051,
+          "Title": "Categori:Meddygon"
         },
         {
-          "ID": 7237,
-          "Title": "Bill Gates"
+          "ID": 26602,
+          "Title": "Categori:Merched"
         },
         {
-          "ID": 7745,
-          "Title": "Oliver Cromwell"
+          "ID": 83606,
+          "Title": "Categori:Mynyddwyr yn ôl cenedligrwydd"
         },
         {
-          "ID": 8379,
-          "Title": "Alexander Fleming"
+          "ID": 86176,
+          "Title": "Categori:Nyrsys"
         },
         {
-          "ID": 9895,
-          "Title": "Richard Wagner"
+          "ID": 13066,
+          "Title": "Categori:Pennau gwladwriaethau"
         },
         {
-          "ID": 15366,
-          "Title": "Alan Turing"
+          "ID": 12063,
+          "Title": "Categori:Penseiri"
         },
         {
-          "ID": 18163,
-          "Title": "Galileo Galilei"
+          "ID": 12095,
+          "Title": "Categori:Pobl"
         },
         {
-          "ID": 18317,
-          "Title": "Noam Chomsky"
+          "ID": 35188,
+          "Title": "Categori:Pobl farw"
         },
         {
-          "ID": 20022,
-          "Title": "John Lennon"
+          "ID": 24874,
+          "Title": "Categori:Pobl wleidyddol"
         },
         {
-          "ID": 20433,
-          "Title": "Sigmund Freud"
+          "ID": 22543,
+          "Title": "Categori:Pobl yn ôl galwedigaeth"
         },
         {
-          "ID": 24678,
-          "Title": "Johannes Kepler"
-        },
-        {
-          "ID": 37026,
-          "Title": "Y Lindysyn Llwglyd Iawn"
-        },
-        {
-          "ID": 38966,
-          "Title": "Lewis Carroll"
-        },
-        {
-          "ID": 41584,
-          "Title": "Adam Smith"
-        },
-        {
-          "ID": 43571,
-          "Title": "Daniel Radcliffe"
-        },
-        {
-          "ID": 44142,
-          "Title": "Elton John"
-        },
-        {
-          "ID": 44820,
-          "Title": "Fibonacci"
-        },
-        {
-          "ID": 45049,
-          "Title": "Carl Friedrich Gauss"
-        },
-        {
-          "ID": 45050,
-          "Title": "Richard Dawkins"
-        },
-        {
-          "ID": 45188,
-          "Title": "Thomas Aquinas"
-        },
-        {
-          "ID": 62214,
-          "Title": "Joseph Smith"
-        },
-        {
-          "ID": 84396,
-          "Title": "Ayn Rand"
-        },
-        {
-          "ID": 86691,
-          "Title": "Carl Sagan"
-        },
-        {
-          "ID": 94144,
-          "Title": "The Big Bang Theory"
-        },
-        {
-          "ID": 95660,
-          "Title": "Teisen Battenberg"
-        },
-        {
-          "ID": 113910,
-          "Title": "Anders Behring Breivik"
-        },
-        {
-          "ID": 114509,
-          "Title": "Harry Houdini"
-        },
-        {
-          "ID": 116583,
-          "Title": "Cory Monteith"
-        },
-        {
-          "ID": 149917,
-          "Title": "William Blake"
-        },
-        {
-          "ID": 166907,
-          "Title": "Charles Babbage"
-        },
-        {
-          "ID": 221336,
-          "Title": "Theodor Schwann"
-        },
-        {
-          "ID": 224952,
-          "Title": "Dorothy Vaughan"
+          "ID": 84373,
+          "Title": "Categori:Pobl yn ôl ymddygiad"
         }
       ]
     },
@@ -824,42 +648,28 @@
           "Title": "Categori:Athroniaeth"
         },
         {
-          "ID": 12363,
-          "Title": "Categori:Theorïau gwleidyddol"
-        },
-        {
-          "ID": 14828,
-          "Title": "Categori:Moeseg"
+          "ID": 169814,
+          "Title": "Categori:Damcaniaethau athronyddol"
         },
         {
           "ID": 30567,
           "Title": "Categori:Meddwl"
         },
         {
-          "ID": 169814,
-          "Title": "Categori:Damcaniaethau athronyddol"
-        }
-      ],
-      "Articles": [
-        {
-          "ID": 67915,
-          "Title": "Ffydd"
+          "ID": 31903,
+          "Title": "Categori:Metaffiseg"
         },
         {
-          "ID": 76394,
-          "Title": "Prydferthwch"
+          "ID": 14828,
+          "Title": "Categori:Moeseg"
         },
         {
-          "ID": 84325,
-          "Title": "Credo"
+          "ID": 33105,
+          "Title": "Categori:Realiti"
         },
         {
-          "ID": 216665,
-          "Title": "Hapusrwydd"
-        },
-        {
-          "ID": 235094,
-          "Title": "Effaith Dunning–Kruger"
+          "ID": 12363,
+          "Title": "Categori:Theorïau gwleidyddol"
         }
       ]
     },
@@ -868,28 +678,28 @@
       "Title": "Religion and belief systems",
       "Categories": [
         {
-          "ID": 13512,
-          "Title": "Categori:Cred"
-        },
-        {
-          "ID": 15335,
-          "Title": "Categori:Diwinyddiaeth"
-        },
-        {
-          "ID": 31852,
-          "Title": "Categori:Crefydd"
-        },
-        {
-          "ID": 31856,
-          "Title": "Categori:Credoau, traddodiadau a mudiadau crefyddol"
-        },
-        {
           "ID": 31860,
           "Title": "Categori:Annuwiaeth"
         },
         {
           "ID": 31869,
           "Title": "Categori:Anthropoleg grefyddol"
+        },
+        {
+          "ID": 13512,
+          "Title": "Categori:Cred"
+        },
+        {
+          "ID": 31856,
+          "Title": "Categori:Credoau, traddodiadau a mudiadau crefyddol"
+        },
+        {
+          "ID": 31852,
+          "Title": "Categori:Crefydd"
+        },
+        {
+          "ID": 15335,
+          "Title": "Categori:Diwinyddiaeth"
         }
       ]
     },
@@ -898,218 +708,112 @@
       "Title": "Society and social sciences",
       "Categories": [
         {
-          "ID": 10897,
-          "Title": "Categori:Gwyddorau cymdeithas"
+          "ID": 32525,
+          "Title": "Categori:Addysg yn ôl gwlad"
+        },
+        {
+          "ID": 12892,
+          "Title": "Categori:Arian"
+        },
+        {
+          "ID": 148585,
+          "Title": "Categori:Arian cyfred"
+        },
+        {
+          "ID": 13651,
+          "Title": "Categori:Arianneg"
+        },
+        {
+          "ID": 44458,
+          "Title": "Categori:Asiantaethau llywodraethol"
+        },
+        {
+          "ID": 15772,
+          "Title": "Categori:Baneri cenedlaethol"
+        },
+        {
+          "ID": 143871,
+          "Title": "Categori:Cosbau"
+        },
+        {
+          "ID": 13286,
+          "Title": "Categori:Cwmnïau"
+        },
+        {
+          "ID": 34972,
+          "Title": "Categori:Cwmnïau hedfan"
         },
         {
           "ID": 12103,
           "Title": "Categori:Cyfraith"
         },
         {
+          "ID": 45295,
+          "Title": "Categori:Cyfraith statudol"
+        },
+        {
           "ID": 12178,
           "Title": "Categori:Cymdeithas"
         },
         {
-          "ID": 13991,
-          "Title": "Categori:Sefydliadau rhyngwladol"
+          "ID": 23465,
+          "Title": "Categori:Daearwleidyddiaeth"
         },
         {
           "ID": 16043,
           "Title": "Categori:Dyniaethau"
         },
         {
-          "ID": 32746,
-          "Title": "Categori:Hawliau"
+          "ID": 86483,
+          "Title": "Categori:Ffeministiaeth"
+        },
+        {
+          "ID": 10897,
+          "Title": "Categori:Gwyddorau cymdeithas"
         },
         {
           "ID": 34945,
           "Title": "Categori:Gwyddorau dynol"
         },
         {
-          "ID": 45295,
-          "Title": "Categori:Cyfraith statudol"
+          "ID": 32746,
+          "Title": "Categori:Hawliau"
         },
         {
-          "ID": 86483,
-          "Title": "Categori:Ffeministiaeth"
+          "ID": 13234,
+          "Title": "Categori:Llywodraeth"
+        },
+        {
+          "ID": 21592,
+          "Title": "Categori:Marchnata"
+        },
+        {
+          "ID": 29422,
+          "Title": "Categori:Personoliaeth"
+        },
+        {
+          "ID": 22078,
+          "Title": "Categori:Sefydliadau"
+        },
+        {
+          "ID": 22237,
+          "Title": "Categori:Sefydliadau llywodraethol"
         },
         {
           "ID": 148583,
           "Title": "Categori:Sefydliadau rhynglywodraethol"
-        }
-      ],
-      "Articles": [
-        {
-          "ID": 2220,
-          "Title": "Yr Undeb Ewropeaidd"
         },
         {
-          "ID": 3924,
-          "Title": "Iran"
+          "ID": 13991,
+          "Title": "Categori:Sefydliadau rhyngwladol"
         },
         {
-          "ID": 4047,
-          "Title": "Tsile"
+          "ID": 13041,
+          "Title": "Categori:Seicoleg"
         },
         {
-          "ID": 4224,
-          "Title": "Prifysgol Caergrawnt"
-        },
-        {
-          "ID": 9379,
-          "Title": "Prifysgol Rhydychen"
-        },
-        {
-          "ID": 10435,
-          "Title": "The New York Times"
-        },
-        {
-          "ID": 12256,
-          "Title": "Prifysgol Bryste"
-        },
-        {
-          "ID": 12692,
-          "Title": "Prifysgol Fienna"
-        },
-        {
-          "ID": 14459,
-          "Title": "Barbados"
-        },
-        {
-          "ID": 16044,
-          "Title": "Baner Awstralia"
-        },
-        {
-          "ID": 22278,
-          "Title": "Prifysgol Harvard"
-        },
-        {
-          "ID": 47212,
-          "Title": "Prifysgol Llundain"
-        },
-        {
-          "ID": 51298,
-          "Title": "Prifysgol Sheffield"
-        },
-        {
-          "ID": 52478,
-          "Title": "Prifysgol Columbia"
-        },
-        {
-          "ID": 63697,
-          "Title": "Prifysgol Manceinion"
-        },
-        {
-          "ID": 64951,
-          "Title": "Prifysgol Sussex"
-        },
-        {
-          "ID": 65031,
-          "Title": "Prifysgol Albert Ludwigs, Freiburg"
-        },
-        {
-          "ID": 69137,
-          "Title": "Prifysgol Plymouth"
-        },
-        {
-          "ID": 69142,
-          "Title": "Prifysgol Caerwysg"
-        },
-        {
-          "ID": 71089,
-          "Title": "Prifysgol Ulster"
-        },
-        {
-          "ID": 72652,
-          "Title": "Prifysgol gyhoeddus"
-        },
-        {
-          "ID": 76130,
-          "Title": "Prifysgol Warwick"
-        },
-        {
-          "ID": 82425,
-          "Title": "Prifysgol Princeton"
-        },
-        {
-          "ID": 88527,
-          "Title": "Fox News Channel"
-        },
-        {
-          "ID": 98720,
-          "Title": "The Times of India"
-        },
-        {
-          "ID": 114300,
-          "Title": "Prifysgol Cincinnati"
-        },
-        {
-          "ID": 127941,
-          "Title": "Gwaith cymdeithasol"
-        },
-        {
-          "ID": 132472,
-          "Title": "Prifysgol Hebraeg Jeriwsalem"
-        },
-        {
-          "ID": 146708,
-          "Title": "Prifysgol Glasgow"
-        },
-        {
-          "ID": 158745,
-          "Title": "Prifysgol Leeds"
-        },
-        {
-          "ID": 158805,
-          "Title": "Prifysgol Birmingham"
-        },
-        {
-          "ID": 158809,
-          "Title": "Coleg Imperial Llundain"
-        },
-        {
-          "ID": 160889,
-          "Title": "Y Brifysgol Agored"
-        },
-        {
-          "ID": 208957,
-          "Title": "Prifysgol Paris"
-        },
-        {
-          "ID": 208976,
-          "Title": "Prifysgol Bologna"
-        },
-        {
-          "ID": 209829,
-          "Title": "Prifysgol Stanford"
-        },
-        {
-          "ID": 213921,
-          "Title": "Prifysgol Chicago"
-        },
-        {
-          "ID": 214698,
-          "Title": "Pizza Hut"
-        },
-        {
-          "ID": 214716,
-          "Title": "Prifysgol Torino"
-        },
-        {
-          "ID": 214995,
-          "Title": "Prifysgol Southampton"
-        },
-        {
-          "ID": 217492,
-          "Title": "Prifysgol Washington"
-        },
-        {
-          "ID": 226259,
-          "Title": "Prifysgol Caerlŷr"
-        },
-        {
-          "ID": 228985,
-          "Title": "Trust"
+          "ID": 29165,
+          "Title": "Categori:Systemau gwleidyddol"
         }
       ]
     },
@@ -1118,98 +822,136 @@
       "Title": "Technology and applied sciences",
       "Categories": [
         {
-          "ID": 12185,
-          "Title": "Categori:Technoleg"
+          "ID": 88802,
+          "Title": "Categori:Adeiladu"
         },
         {
-          "ID": 13021,
-          "Title": "Categori:Gwyddoniaeth gymhwysol"
-        },
-        {
-          "ID": 13042,
-          "Title": "Categori:Cyfrifiadureg"
-        },
-        {
-          "ID": 14065,
-          "Title": "Categori:Peirianneg"
+          "ID": 48424,
+          "Title": "Categori:Argraffu"
         },
         {
           "ID": 14599,
           "Title": "Categori:Cludiant"
         },
         {
-          "ID": 15558,
-          "Title": "Categori:Rhyngrwyd"
+          "ID": 114196,
+          "Title": "Categori:Consolau gemau"
         },
         {
-          "ID": 16027,
-          "Title": "Categori:Rheolaeth data"
-        },
-        {
-          "ID": 29070,
-          "Title": "Categori:Dylunio"
+          "ID": 13042,
+          "Title": "Categori:Cyfrifiadureg"
         },
         {
           "ID": 33098,
           "Title": "Categori:Cyfrifiaduro"
         },
         {
+          "ID": 220588,
+          "Title": "Categori:Cyfrifiaduron"
+        },
+        {
+          "ID": 235813,
+          "Title": "Categori:Dyfeisiadau'r cartref"
+        },
+        {
+          "ID": 29070,
+          "Title": "Categori:Dylunio"
+        },
+        {
+          "ID": 235625,
+          "Title": "Categori:Electroneg"
+        },
+        {
+          "ID": 118340,
+          "Title": "Categori:Gwaith pren"
+        },
+        {
+          "ID": 13021,
+          "Title": "Categori:Gwyddoniaeth gymhwysol"
+        },
+        {
+          "ID": 13443,
+          "Title": "Categori:Meddalwedd"
+        },
+        {
+          "ID": 52320,
+          "Title": "Categori:Offer"
+        },
+        {
           "ID": 76050,
           "Title": "Categori:Offer milwrol"
         },
         {
-          "ID": 81705,
-          "Title": "Categori:Technoleg filwrol"
+          "ID": 52321,
+          "Title": "Categori:Peiriannau"
+        },
+        {
+          "ID": 14065,
+          "Title": "Categori:Peirianneg"
+        },
+        {
+          "ID": 52318,
+          "Title": "Categori:Peirianneg fecanyddol"
+        },
+        {
+          "ID": 13048,
+          "Title": "Categori:Peirianneg sifil"
         },
         {
           "ID": 220579,
           "Title": "Categori:Rhaglenni ar ddyfeisiau symudol"
         },
         {
-          "ID": 220588,
-          "Title": "Categori:Cyfrifiaduron"
+          "ID": 220597,
+          "Title": "Categori:Rhaglennu cyfrifiadurol"
+        },
+        {
+          "ID": 16027,
+          "Title": "Categori:Rheolaeth data"
         },
         {
           "ID": 233517,
           "Title": "Categori:Rheoli data"
         },
         {
+          "ID": 15558,
+          "Title": "Categori:Rhyngrwyd"
+        },
+        {
+          "ID": 33092,
+          "Title": "Categori:Safonau"
+        },
+        {
+          "ID": 12185,
+          "Title": "Categori:Technoleg"
+        },
+        {
+          "ID": 81705,
+          "Title": "Categori:Technoleg filwrol"
+        },
+        {
+          "ID": 33088,
+          "Title": "Categori:Technoleg gwybodaeth"
+        },
+        {
           "ID": 235359,
           "Title": "Categori:Technoleg yn ôl math"
         },
         {
-          "ID": 235625,
-          "Title": "Categori:Electroneg"
-        }
-      ],
-      "Articles": [
-        {
-          "ID": 6468,
-          "Title": "Pepsi"
-        },
-        {
-          "ID": 16925,
-          "Title": "Mur"
-        },
-        {
-          "ID": 21182,
-          "Title": "Ôl-ddodiad rhyngrwyd"
-        },
-        {
-          "ID": 33407,
-          "Title": "Asio"
+          "ID": 124722,
+          "Title": "Categori:Technoleg ynni"
         }
       ]
     }
   ],
   "Filters": [
     {
-      "ID": 9259,
-      "Title": "Categori:Gwahaniaethu"
-    },
-    {
       "ID": 55572,
       "Title": "Categori:Categorïau cuddiedig"
+    },
+    {
+      "ID": 9259,
+      "Title": "Categori:Gwahaniaethu"
     }
   ]
 }

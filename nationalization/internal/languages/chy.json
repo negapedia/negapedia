@@ -12,62 +12,28 @@
         {
           "ID": 3010,
           "Title": "Category:Máhtáme naa tsémâhpév-oom"
-        }
-      ],
-      "Articles": [
-        {
-          "ID": 2544,
-          "Title": "Vekepete'a"
         },
         {
-          "ID": 2955,
-          "Title": "Mo'ôhtávêhohpe"
-        },
-        {
-          "ID": 2966,
-          "Title": "Kóhkonêhëö'o"
-        },
-        {
-          "ID": 4385,
-          "Title": "Éškôseeséhotame"
-        },
-        {
-          "ID": 4428,
-          "Title": "Mo'óhkonavekóhkonôheo'o"
-        },
-        {
-          "ID": 4500,
-          "Title": "Oó'xôseonéame"
-        },
-        {
-          "ID": 4515,
-          "Title": "Vé'keahonoo'o"
-        },
-        {
-          "ID": 4516,
-          "Title": "Vóhka'éhemenékohkonôheo'o"
-        },
-        {
-          "ID": 4560,
-          "Title": "Héesevo'tamahpe"
-        },
-        {
-          "ID": 4562,
-          "Title": "Vé'keekóhkonôhëö'o"
-        },
-        {
-          "ID": 4601,
-          "Title": "Tsétóno"
+          "ID": 3035,
+          "Title": "Category:Némenestôtse"
         }
       ]
     },
     {
       "ID": 2147483638,
       "Title": "Geography and places",
-      "Articles": [
+      "Categories": [
         {
-          "ID": 5019,
-          "Title": "Paris"
+          "ID": 5008,
+          "Title": "Category:Manȧhého'e"
+        },
+        {
+          "ID": 2828,
+          "Title": "Category:Mâhoestôtse"
+        },
+        {
+          "ID": 2941,
+          "Title": "Category:Ó'he'e"
         }
       ]
     },
@@ -86,34 +52,14 @@
     {
       "ID": 2147483642,
       "Title": "Nature and physical sciences",
-      "Articles": [
+      "Categories": [
         {
-          "ID": 2391,
-          "Title": "Mâhpémo'éhe"
+          "ID": 2557,
+          "Title": "Category:Hovahne"
         },
         {
-          "ID": 2963,
-          "Title": "Ová'kemâhaemenôtse"
-        },
-        {
-          "ID": 2968,
-          "Title": "Mo'ôhtáemâhoo'o"
-        },
-        {
-          "ID": 3031,
-          "Title": "Vé'ôhkêheóvemá'xeme"
-        },
-        {
-          "ID": 4227,
-          "Title": "Mâhöhko"
-        },
-        {
-          "ID": 4457,
-          "Title": "Pa'e'pa'onáhe"
-        },
-        {
-          "ID": 4622,
-          "Title": "Ho'ësta"
+          "ID": 3032,
+          "Title": "Category:Mene"
         }
       ]
     },
@@ -137,13 +83,7 @@
     },
     {
       "ID": 2147483646,
-      "Title": "Society and social sciences",
-      "Articles": [
-        {
-          "ID": 2595,
-          "Title": "Chile"
-        }
-      ]
+      "Title": "Society and social sciences"
     },
     {
       "ID": 2147483647,

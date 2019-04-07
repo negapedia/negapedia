@@ -3,35 +3,19 @@
   "Topics": [
     {
       "ID": 2147483637,
-      "Title": "Culture and the arts",
-      "Articles": [
-        {
-          "ID": 2295,
-          "Title": "Wikipedia"
-        },
-        {
-          "ID": 2296,
-          "Title": "Obiara tumi kyerɛw bi no"
-        },
-        {
-          "ID": 5651,
-          "Title": "AC/DC"
-        }
-      ]
+      "Title": "Culture and the arts"
     },
     {
       "ID": 2147483638,
       "Title": "Geography and places",
       "Categories": [
         {
+          "ID": 1717,
+          "Title": "Nkyekyem:Afanaa"
+        },
+        {
           "ID": 3342,
           "Title": "Nkyekyem:Gyeografi"
-        }
-      ],
-      "Articles": [
-        {
-          "ID": 5361,
-          "Title": "Paris"
         }
       ]
     },
@@ -46,12 +30,6 @@
         {
           "ID": 2700,
           "Title": "Nkyekyem:Historian"
-        }
-      ],
-      "Articles": [
-        {
-          "ID": 5284,
-          "Title": "Donald Trump"
         }
       ]
     },
@@ -83,17 +61,7 @@
     },
     {
       "ID": 2147483646,
-      "Title": "Society and social sciences",
-      "Articles": [
-        {
-          "ID": 3083,
-          "Title": "Chile"
-        },
-        {
-          "ID": 5036,
-          "Title": "Iran"
-        }
-      ]
+      "Title": "Society and social sciences"
     },
     {
       "ID": 2147483647,

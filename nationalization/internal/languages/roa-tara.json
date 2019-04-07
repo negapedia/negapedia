@@ -6,26 +6,28 @@
       "Title": "Culture and the arts",
       "Categories": [
         {
+          "ID": 11828,
+          "Title": "Categoria:Arte"
+        },
+        {
           "ID": 9978,
           "Title": "Categoria:Culture"
+        },
+        {
+          "ID": 13498,
+          "Title": "Categoria:Educazione"
+        },
+        {
+          "ID": 9977,
+          "Title": "Categoria:Letterature"
         },
         {
           "ID": 11725,
           "Title": "Categoria:Sport"
         },
         {
-          "ID": 11828,
-          "Title": "Categoria:Arte"
-        }
-      ],
-      "Articles": [
-        {
-          "ID": 1912,
-          "Title": "Uicchipèdie"
-        },
-        {
-          "ID": 1968,
-          "Title": "'Ngeclopedije"
+          "ID": 1922,
+          "Title": "Categoria:Televisione"
         }
       ]
     },
@@ -34,26 +36,16 @@
       "Title": "Geography and places",
       "Categories": [
         {
+          "ID": 17576,
+          "Title": "Categoria:Sceomorfologgije"
+        },
+        {
           "ID": 9598,
           "Title": "Categoria:Sciugrafije"
         },
         {
-          "ID": 17576,
-          "Title": "Categoria:Sceomorfologgije"
-        }
-      ],
-      "Articles": [
-        {
-          "ID": 9725,
-          "Title": "Parigge"
-        },
-        {
-          "ID": 9879,
-          "Title": "Venezia"
-        },
-        {
-          "ID": 16812,
-          "Title": "Australie"
+          "ID": 17297,
+          "Title": "Categoria:Statère"
         }
       ]
     },
@@ -68,16 +60,6 @@
         {
           "ID": 10033,
           "Title": "Categoria:Storie"
-        },
-        {
-          "ID": 11665,
-          "Title": "Categoria:Scienze sciuggiále"
-        }
-      ],
-      "Articles": [
-        {
-          "ID": 19740,
-          "Title": "Donald Trump"
         }
       ]
     },
@@ -89,12 +71,6 @@
           "ID": 11248,
           "Title": "Categoria:Matemateche"
         }
-      ],
-      "Articles": [
-        {
-          "ID": 15471,
-          "Title": "Lunghezze"
-        }
       ]
     },
     {
@@ -102,8 +78,8 @@
       "Title": "Nature and physical sciences",
       "Categories": [
         {
-          "ID": 1716,
-          "Title": "Categoria:Sciènze"
+          "ID": 16123,
+          "Title": "Categoria:Anemale"
         },
         {
           "ID": 11798,
@@ -112,12 +88,10 @@
         {
           "ID": 13485,
           "Title": "Categoria:Scienze naturále"
-        }
-      ],
-      "Articles": [
+        },
         {
-          "ID": 16496,
-          "Title": "Fuèche"
+          "ID": 1716,
+          "Title": "Categoria:Sciènze"
         }
       ]
     },
@@ -128,12 +102,10 @@
         {
           "ID": 1939,
           "Title": "Categoria:Biografije"
-        }
-      ],
-      "Articles": [
+        },
         {
-          "ID": 15960,
-          "Title": "Cristoforo Colombo"
+          "ID": 1944,
+          "Title": "Categoria:Polìteche"
         }
       ]
     },
@@ -162,30 +134,24 @@
       "Title": "Society and social sciences",
       "Categories": [
         {
-          "ID": 10034,
-          "Title": "Categoria:Sciuggetáte"
+          "ID": 10019,
+          "Title": "Categoria:Finanza"
+        },
+        {
+          "ID": 16984,
+          "Title": "Categoria:Organizzazione 'ndernazionale"
+        },
+        {
+          "ID": 13501,
+          "Title": "Categoria:Psicologgije"
         },
         {
           "ID": 11665,
           "Title": "Categoria:Scienze sciuggiále"
         },
         {
-          "ID": 16984,
-          "Title": "Categoria:Organizzazione 'ndernazionale"
-        }
-      ],
-      "Articles": [
-        {
-          "ID": 13710,
-          "Title": "Cile"
-        },
-        {
-          "ID": 16742,
-          "Title": "Aunìone europèe"
-        },
-        {
-          "ID": 16974,
-          "Title": "Iran"
+          "ID": 10034,
+          "Title": "Categoria:Sciuggetáte"
         }
       ]
     },

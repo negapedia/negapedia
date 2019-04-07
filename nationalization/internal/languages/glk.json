@@ -6,40 +6,26 @@
       "Title": "Culture and the arts",
       "Categories": [
         {
-          "ID": 16496,
-          "Title": "جرگه:خۊراکئن"
+          "ID": 16830,
+          "Title": "جرگه:تي‌وي"
         },
         {
           "ID": 16557,
           "Title": "جرگه:خؤردنئن ؤ واخؤردنئن"
-        }
-      ],
-      "Articles": [
-        {
-          "ID": 11435,
-          "Title": "خوک"
         },
         {
-          "ID": 14084,
-          "Title": "ويکيپديا"
-        },
-        {
-          "ID": 16755,
-          "Title": "لئد زئپلين"
+          "ID": 16496,
+          "Title": "جرگه:خۊراکئن"
         }
       ]
     },
     {
       "ID": 2147483638,
       "Title": "Geography and places",
-      "Articles": [
+      "Categories": [
         {
-          "ID": 2473,
-          "Title": "آدم"
-        },
-        {
-          "ID": 15921,
-          "Title": "پاريس"
+          "ID": 15479,
+          "Title": "جرگه:کشورؤن"
         }
       ]
     },
@@ -62,10 +48,10 @@
     {
       "ID": 2147483643,
       "Title": "People and self",
-      "Articles": [
+      "Categories": [
         {
-          "ID": 15036,
-          "Title": "نؤام چامسکي"
+          "ID": 16270,
+          "Title": "جرگه:نويشتنکسؤن"
         }
       ]
     },
@@ -85,21 +71,17 @@
           "ID": 16807,
           "Title": "جرگه:فمنيسم"
         }
-      ],
-      "Articles": [
-        {
-          "ID": 4138,
-          "Title": "ايران"
-        },
-        {
-          "ID": 16217,
-          "Title": "شيلي"
-        }
       ]
     },
     {
       "ID": 2147483647,
-      "Title": "Technology and applied sciences"
+      "Title": "Technology and applied sciences",
+      "Categories": [
+        {
+          "ID": 16595,
+          "Title": "جرگه:أبزارؤن"
+        }
+      ]
     }
   ]
 }

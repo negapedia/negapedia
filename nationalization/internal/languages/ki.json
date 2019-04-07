@@ -9,29 +9,15 @@
           "ID": 2390,
           "Title": "Category:Sport"
         }
-      ],
-      "Articles": [
-        {
-          "ID": 3220,
-          "Title": "Wikipedia"
-        },
-        {
-          "ID": 3358,
-          "Title": "Cocoa"
-        }
       ]
     },
     {
       "ID": 2147483638,
       "Title": "Geography and places",
-      "Articles": [
+      "Categories": [
         {
-          "ID": 3161,
-          "Title": "Burma"
-        },
-        {
-          "ID": 3329,
-          "Title": "Australia"
+          "ID": 3909,
+          "Title": "Category:Cĩtĩ"
         }
       ]
     },
@@ -47,13 +33,7 @@
     },
     {
       "ID": 2147483640,
-      "Title": "History and events",
-      "Categories": [
-        {
-          "ID": 3633,
-          "Title": "Category:Thayathi cia social"
-        }
-      ]
+      "Title": "History and events"
     },
     {
       "ID": 2147483641,
@@ -64,28 +44,22 @@
       "Title": "Nature and physical sciences",
       "Categories": [
         {
-          "ID": 3631,
-          "Title": "Category:Thayathi cia ndũire"
-        },
-        {
           "ID": 3632,
           "Title": "Category:Kemu"
         },
         {
           "ID": 3634,
           "Title": "Category:Thayathi"
+        },
+        {
+          "ID": 3631,
+          "Title": "Category:Thayathi cia ndũire"
         }
       ]
     },
     {
       "ID": 2147483643,
-      "Title": "People and self",
-      "Articles": [
-        {
-          "ID": 3110,
-          "Title": "Bill Gates"
-        }
-      ]
+      "Title": "People and self"
     },
     {
       "ID": 2147483644,
@@ -102,16 +76,6 @@
         {
           "ID": 3633,
           "Title": "Category:Thayathi cia social"
-        }
-      ],
-      "Articles": [
-        {
-          "ID": 3603,
-          "Title": "Chile"
-        },
-        {
-          "ID": 4469,
-          "Title": "Iran"
         }
       ]
     },

@@ -6,132 +6,98 @@
       "Title": "Culture and the arts",
       "Categories": [
         {
-          "ID": 292,
-          "Title": "Flocc:Sidaþing"
+          "ID": 7817,
+          "Title": "Flocc:Bēc"
         },
         {
-          "ID": 6139,
-          "Title": "Flocc:Ǣt"
+          "ID": 14383,
+          "Title": "Flocc:Bōccræft"
+        },
+        {
+          "ID": 6323,
+          "Title": "Flocc:Circolwyrde gamen"
+        },
+        {
+          "ID": 12283,
+          "Title": "Flocc:Feohtan"
+        },
+        {
+          "ID": 5769,
+          "Title": "Flocc:Feorrsīen"
         },
         {
           "ID": 10892,
           "Title": "Flocc:Gamen"
         },
         {
+          "ID": 18984,
+          "Title": "Flocc:Gewrit"
+        },
+        {
+          "ID": 8145,
+          "Title": "Flocc:Glīƿdrēam"
+        },
+        {
+          "ID": 15695,
+          "Title": "Flocc:Leornung"
+        },
+        {
           "ID": 15234,
           "Title": "Flocc:Plegan"
         },
         {
-          "ID": 18984,
-          "Title": "Flocc:Gewrit"
-        }
-      ],
-      "Articles": [
-        {
-          "ID": 5810,
-          "Title": "Bēor"
+          "ID": 292,
+          "Title": "Flocc:Sidaþing"
         },
         {
-          "ID": 6134,
-          "Title": "Wulfpersocbroþ"
+          "ID": 7918,
+          "Title": "Flocc:Spærcletelle gamen"
         },
         {
-          "ID": 6278,
-          "Title": "Francforta"
-        },
-        {
-          "ID": 7975,
-          "Title": "Wīsdōmbōc"
-        },
-        {
-          "ID": 7985,
-          "Title": "Neopolis brādhlāf"
-        },
-        {
-          "ID": 8009,
-          "Title": "Hlāf"
-        },
-        {
-          "ID": 8223,
-          "Title": "Caffig"
-        },
-        {
-          "ID": 11030,
-          "Title": "Īsrēam"
-        },
-        {
-          "ID": 11086,
-          "Title": "Swīn"
-        },
-        {
-          "ID": 12977,
-          "Title": "Æg"
-        },
-        {
-          "ID": 14176,
-          "Title": "Wikipǣdia"
-        },
-        {
-          "ID": 14663,
-          "Title": "Ceace"
-        },
-        {
-          "ID": 16298,
-          "Title": "Ceocōlāte"
+          "ID": 6139,
+          "Title": "Flocc:Ǣt"
         }
       ]
     },
     {
       "ID": 2147483638,
       "Title": "Geography and places",
-      "Articles": [
+      "Categories": [
         {
-          "ID": 5376,
-          "Title": "Cwēneland"
+          "ID": 6154,
+          "Title": "Flocc:Byrig"
         },
         {
-          "ID": 5415,
-          "Title": "Paris"
+          "ID": 648,
+          "Title": "Flocc:Land"
         },
         {
-          "ID": 7153,
-          "Title": "Australia"
-        },
-        {
-          "ID": 10558,
-          "Title": "Canberra"
-        },
-        {
-          "ID": 14550,
-          "Title": "Burma"
-        },
-        {
-          "ID": 15784,
-          "Title": "Venetia"
+          "ID": 5544,
+          "Title": "Flocc:Ēa"
         }
       ]
     },
     {
       "ID": 2147483639,
-      "Title": "Health and fitness"
+      "Title": "Health and fitness",
+      "Categories": [
+        {
+          "ID": 5790,
+          "Title": "Flocc:Mennisc bodiglār"
+        }
+      ]
     },
     {
       "ID": 2147483640,
       "Title": "History and events",
       "Categories": [
         {
-          "ID": 3560,
-          "Title": "Flocc:Stǣr"
-        }
-      ],
-      "Articles": [
-        {
-          "ID": 15822,
-          "Title": "11. Hāligmōnþes 2001. torngemōt"
+          "ID": 8090,
+          "Title": "Flocc:Gūþ"
         },
         {
-          "ID": 17980,
-          "Title": "Dufenal Trump"
+          "ID": 3560,
+          "Title": "Flocc:Stǣr"
         }
       ]
     },
@@ -148,42 +114,30 @@
     {
       "ID": 2147483642,
       "Title": "Nature and physical sciences",
-      "Articles": [
+      "Categories": [
         {
-          "ID": 360,
-          "Title": "Strēawberge"
+          "ID": 5794,
+          "Title": "Flocc:Bodiglār"
         },
         {
-          "ID": 2134,
-          "Title": "Fȳr"
+          "ID": 4179,
+          "Title": "Flocc:Dēor"
         },
         {
-          "ID": 6102,
-          "Title": "Wulfpersoc"
+          "ID": 5816,
+          "Title": "Flocc:Eorþ"
         },
         {
-          "ID": 7994,
-          "Title": "Hwǣte"
+          "ID": 5795,
+          "Title": "Flocc:Līf"
         },
         {
-          "ID": 11429,
-          "Title": "Mængo"
+          "ID": 15261,
+          "Title": "Flocc:Ofet"
         },
         {
-          "ID": 11880,
-          "Title": "Bleohcrāwe"
-        },
-        {
-          "ID": 11932,
-          "Title": "Pīnæppel"
-        },
-        {
-          "ID": 14253,
-          "Title": "Pintel"
-        },
-        {
-          "ID": 19099,
-          "Title": "Eolh"
+          "ID": 3144,
+          "Title": "Flocc:Plantan"
         }
       ]
     },
@@ -196,38 +150,20 @@
           "Title": "Flocc:Lēode"
         },
         {
-          "ID": 5795,
-          "Title": "Flocc:Līf"
+          "ID": 7929,
+          "Title": "Flocc:Unƿǣre lēode"
+        },
+        {
+          "ID": 17032,
+          "Title": "Flocc:Wrīteras"
+        },
+        {
+          "ID": 11728,
+          "Title": "Flocc:Ūtwitan"
         },
         {
           "ID": 7765,
           "Title": "Flocc:Ƿīf"
-        }
-      ],
-      "Articles": [
-        {
-          "ID": 1918,
-          "Title": "Adolf Hitler"
-        },
-        {
-          "ID": 1955,
-          "Title": "Christopher Columbus"
-        },
-        {
-          "ID": 3796,
-          "Title": "Bill Gates"
-        },
-        {
-          "ID": 17073,
-          "Title": "Elton John"
-        },
-        {
-          "ID": 17075,
-          "Title": "Noam Chomsky"
-        },
-        {
-          "ID": 17340,
-          "Title": "Ayn Rand"
         }
       ]
     },
@@ -252,40 +188,10 @@
         {
           "ID": 11098,
           "Title": "Flocc:Ferscipe"
-        }
-      ],
-      "Articles": [
-        {
-          "ID": 1837,
-          "Title": "Europisce Gesamnung"
         },
         {
-          "ID": 3632,
-          "Title": "Fox News"
-        },
-        {
-          "ID": 7120,
-          "Title": "Persealand"
-        },
-        {
-          "ID": 10744,
-          "Title": "Cile"
-        },
-        {
-          "ID": 12830,
-          "Title": "Barbados"
-        },
-        {
-          "ID": 13069,
-          "Title": "Eormengyld Oxnafordes"
-        },
-        {
-          "ID": 15705,
-          "Title": "Eormengyld Tybingenes"
-        },
-        {
-          "ID": 18242,
-          "Title": "Fēorþa Gebētung þære Grundgesetnesse þāra Geānedra Rīca American"
+          "ID": 18355,
+          "Title": "Flocc:Wīte"
         }
       ]
     },
@@ -294,18 +200,12 @@
       "Title": "Technology and applied sciences",
       "Categories": [
         {
-          "ID": 3591,
-          "Title": "Flocc:Searucræft"
-        },
-        {
           "ID": 12318,
           "Title": "Flocc:Fōr"
-        }
-      ],
-      "Articles": [
+        },
         {
-          "ID": 17538,
-          "Title": "Webbnamena tægl"
+          "ID": 3591,
+          "Title": "Flocc:Searucræft"
         }
       ]
     }
