@@ -12,136 +12,136 @@ import (
 	"strings"
 	"time"
 
-	"github.com/ebonetti/wikipage"
+	"github.com/RoaringBitmap/roaring"
+	"github.com/ebonetti/absorbingmarkovchain"
 
 	"github.com/ebonetti/overpedia/nationalization"
 	"github.com/pkg/errors"
 )
 
-const (
-	categoryNamespace = 14
-	articleNamespace  = 0
-)
+const cacheFilename = ".query2PageCache.json"
+
+var _query2PageCache = map[string]mayMissingPage{}
 
 func main() {
-	for _, baseLang := range nationalization.List() {
-		baseI18n := mynationalization(baseLang)
-		for ti, t := range baseI18n.Topics {
-			baseI18n.Topics[ti].Categories = nil
-			for _, baseCategory := range t.Categories {
-				for lang, category := range langlinks(baseLang, baseCategory, categoryNamespace) {
-					i18n := mynationalization(lang)
-					i18n.Topics[ti].Categories = add(i18n.Topics[ti].Categories, category)
-				}
-			}
-			baseI18n.Topics[ti].Articles = nil
-			for _, baseArticle := range t.Articles {
-				for lang, article := range langlinks(baseLang, baseArticle, articleNamespace) {
-					i18n := mynationalization(lang)
-					i18n.Topics[ti].Articles = add(i18n.Topics[ti].Articles, article)
-				}
-			}
-		}
-		filters := baseI18n.Filters
-		baseI18n.Filters = nil
-		for _, baseFilter := range filters {
-			for lang, filter := range langlinks(baseLang, baseFilter, categoryNamespace) {
-				i18n := mynationalization(lang)
-				i18n.Filters = add(i18n.Filters, filter)
-			}
-		}
-	}
+	readJSON(cacheFilename, &_query2PageCache)
+	defer writeJSON(cacheFilename, _query2PageCache)
 
-	for lang, i18n := range lang2NationalizationCache {
-		json, err := json.MarshalIndent(i18n, "", "  ")
-		if err != nil {
-			panic(err.Error())
-		}
+	assignments := nationalizations2assignments()
+	resync(assignments)
+	lang2nationalization := assignments2nationalizations(assignments)
 
-		err = ioutil.WriteFile(lang+".json", json, os.ModePerm)
-		if err != nil {
+	for lang, i18n := range lang2nationalization {
+		if err := writeJSON(lang+".json", i18n); err != nil {
 			panic(err.Error())
 		}
 	}
 }
 
-func langlinks(lang string, from nationalization.Page, namespace int) (lang2Page map[string]nationalization.Page) {
-	lang2Page = map[string]nationalization.Page{}
+func resync(assignments map[i18lPage]i18lPage) {
+	nodes := []i18lPage{}
+	for p := range assignments {
+		nodes = dfs(nodes, p, -1, assignments)
+	}
+	t := translator(nodes)
 
-	const langLinksBase = "https://%v.wikipedia.org/w/api.php?action=query&prop=langlinks&lllimit=500&redirects&format=json&formatversion=2&titles=%v"
-	page := get(queryFrom(langLinksBase, lang, []interface{}{from.Title}))
-	switch {
-	case page.Missing:
-		fmt.Printf("Discarded missing %v in %v\n", from.Title, lang)
-		return
-	case page.Namespace != namespace:
-		fmt.Printf("Discarded page %v from %v namespace - expected %v - in %v \n", from.Title, page.Namespace, namespace, lang)
-		return
-	case page.ID != from.ID:
-		fmt.Printf("Changed ID of %v in %v\n", from.Title, lang)
+	g := mapGraph{}
+	nodesIDs, absorbingNodesIDs := roaring.New(), roaring.New()
+	for _, from := range nodes {
+		fromID := t.ToID(from)
+		nodesIDs.Add(fromID)
+		for _, to := range dfs([]i18lPage{}, from, 1, assignments) {
+			toID := t.ToID(to)
+			g.Add(fromID, toID)
+			if to.Lang != dummyLang {
+				g.Add(toID, fromID)
+			} else {
+				absorbingNodesIDs.Add(toID)
+			}
+		}
 	}
 
-	lang2Page[lang] = nationalization.Page{ID: page.ID, Title: page.Title}
+	edges := func(from uint32) []uint32 { return g[from] }
+	ID2distance := g.Distances(absorbingNodesIDs)
+	weighter := func(from, to uint32) (weight float64, err error) {
+		d := ID2distance[to] + 1 - ID2distance[from] //d is non negative; weight=1 iff d=0
+		return 1 / float64(1+10*d), nil
+	}
+	assigner, err := absorbingmarkovchain.New(".", nodesIDs, absorbingNodesIDs, edges, weighter).AbsorptionAssignments(context.Background())
+	if err != nil {
+		panic(err)
+	}
+
+	for transient, absorbing := range assigner {
+		assignments[t.ToPage(transient)] = t.ToPage(absorbing)
+	}
+}
+
+func dfs(visited []i18lPage, p i18lPage, depth int, assignments map[i18lPage]i18lPage) []i18lPage {
+	if exist, _ := i18lPageExist(visited, p); exist {
+		return visited
+	}
+
+	if p.Lang == dummyLang {
+		visited, _ = i18lPageAdd(visited, p)
+		return visited
+	}
+
+	const categoryNamespace = 14
+	page := langLinks(p, categoryNamespace)
+	if page.Missing {
+		return visited
+	}
+
+	p = i18lPage{p.Lang, nationalization.Page{ID: page.ID, Title: page.Title}}
+	visited, existed := i18lPageAdd(visited, p)
+	if existed || depth == 0 {
+		return visited
+	}
 
 	for _, langLink := range page.LangLinks {
-		p := get(queryFrom(langLinksBase, langLink.Lang, []interface{}{langLink.Title}))
-		if p.Missing || p.Namespace != namespace {
-			continue
-		}
-		lang2Page[langLink.Lang] = nationalization.Page{ID: p.ID, Title: p.Title}
+		visited = dfs(visited, i18lPage{langLink.Lang, nationalization.Page{Title: langLink.Title}}, depth-1, assignments)
 	}
 
-	return
+	if p, ok := assignments[p]; ok {
+		visited = dfs(visited, p, depth-1, assignments)
+	}
+
+	return visited
 }
 
-var lang2NationalizationCache = map[string]*nationalization.Nationalization{}
+const langLinksBase = "https://%v.wikipedia.org/w/api.php?action=query&prop=langlinks&lllimit=500&redirects&format=json&formatversion=2&titles=%v"
 
-func mynationalization(lang string) (result *nationalization.Nationalization) {
-	result, ok := lang2NationalizationCache[lang]
+func langLinks(p i18lPage, namespace int) (page mayMissingPage) {
+	query := queryFrom(langLinksBase, p.Lang, []interface{}{p.Title})
+	page, ok := _query2PageCache[query]
 	if ok {
 		return
 	}
 
-	n, err := nationalization.New(lang)
-	result = &n
-	lang2NationalizationCache[lang] = result
-
-	if err == nil {
-		for _, t := range n.Topics {
-			sortByID(t.Categories)
-			sortByID(t.Articles)
-		}
-		sortByID(n.Filters)
-	} else {
-		n, _ = nationalization.New("en")
-		n.Language = lang
-		for i := range n.Topics {
-			n.Topics[i].Categories = nil
-			n.Topics[i].Articles = nil
-		}
-		n.Filters = nil
+	pd, err := pagesDataFrom(query)
+	for t := time.Second; err != nil && t < time.Minute; t *= 2 { //exponential backoff
+		time.Sleep(t)
+		pd, err = pagesDataFrom(query)
 	}
 
-	//Check if topic ID is already taken
-	rh := wikipage.New(lang)
-	for _, t := range n.Topics {
-		p, err := rh.From(context.Background(), t.ID)
-		_, ok := wikipage.NotFound(err)
-		switch {
-		case err == nil:
-			panic(fmt.Errorf("In %v already exist a page with ID %v: %v", lang, t.ID, p))
-		case !ok:
-			panic(err)
-			//default: //ok -> page do not exist
-			//Do nothing
-		}
+	page.Title = p.Title
+	page.Missing = true
+	URL := fmt.Sprintf("https://%v.wikipedia.org/wiki/%v", p.Lang, strings.Replace(p.Title, " ", "_", -1))
+	switch {
+	case err != nil:
+		fmt.Printf("Discarded page %v : %v\n", URL, err)
+	case len(pd.Query.Pages) == 0:
+		fmt.Printf("Discarded page %v : query %v returns an empty page list\n", URL, query)
+	case pd.Query.Pages[0].Missing:
+		fmt.Printf("Discarded page %v : not found\n", URL)
+	case pd.Query.Pages[0].Namespace != namespace:
+		fmt.Printf("Discarded page %v : expected namespace %v, found %v\n", URL, namespace, pd.Query.Pages[0].Namespace)
+	default:
+		page = pd.Query.Pages[0]
 	}
-
+	_query2PageCache[query] = page
 	return
-}
-
-func sortByID(pages []nationalization.Page) {
-	sort.Slice(pages, func(i, j int) bool { return pages[i].ID < pages[j].ID })
 }
 
 func queryFrom(base string, lang string, infos []interface{}) (query string) {
@@ -150,34 +150,6 @@ func queryFrom(base string, lang string, infos []interface{}) (query string) {
 		infoString[i] = fmt.Sprint(info)
 	}
 	return fmt.Sprintf(base, lang, url.QueryEscape(strings.Join(infoString, "|")))
-}
-
-var _query2PageCache = map[string]mayMissingPage{}
-
-func get(query string) (page mayMissingPage) {
-	page, ok := _query2PageCache[query]
-	if ok {
-		return
-	}
-
-	for t := time.Second; t < time.Minute; t *= 2 { //exponential backoff
-		pd, err := pagesDataFrom(query)
-		switch {
-		case err != nil:
-			page.Missing = true
-		case len(pd.Query.Pages) == 0:
-			page.Missing = true
-			return
-		default:
-			page = pd.Query.Pages[0]
-			_query2PageCache[query] = page
-			return
-		}
-		fmt.Println(err)
-		time.Sleep(t)
-	}
-
-	return
 }
 
 type pagesData struct {
@@ -235,9 +207,78 @@ func pagesDataFrom(query string) (pd pagesData, err error) {
 	return
 }
 
-func add(a []nationalization.Page, x nationalization.Page) []nationalization.Page {
-	position := sort.Search(len(a), func(i int) bool { return a[i].ID >= x.ID })
-	if exist := position < len(a) && a[position].ID == x.ID; exist {
+const dummyLang = "..."
+
+var dummyI18lFilter = i18lPage{dummyLang, nationalization.Page{^uint32(0), "Filter"}}
+
+func nationalizations2assignments() map[i18lPage]i18lPage {
+	nationalizations := []nationalization.Nationalization{}
+
+	if files, err := ioutil.ReadDir("./"); err == nil {
+		for _, f := range files {
+			n := nationalization.Nationalization{}
+			err := readJSON(f.Name(), &n)
+			switch {
+			case err != nil:
+				fmt.Println(err)
+			case len(n.Topics) == 0:
+				//Do nothing
+			default:
+				nationalizations = append(nationalizations, n)
+			}
+		}
+	}
+
+	if len(nationalizations) == 0 {
+		panic("No valid nationalizations found!")
+	}
+
+	assignments := map[i18lPage]i18lPage{}
+	for _, n := range nationalizations {
+		for _, t := range n.Topics {
+			i18lTopic := i18lPage{dummyLang, t.Page}
+			for _, c := range t.Categories {
+				pp := dfs([]i18lPage{}, i18lPage{n.Language, c}, 0, nil) //sanitize input
+				if len(pp) == 0 {
+					continue
+				}
+				assignments[pp[0]] = i18lTopic
+			}
+		}
+		for _, filter := range n.Filters {
+			pp := dfs([]i18lPage{}, i18lPage{n.Language, filter}, 0, nil) //sanitize input
+			if len(pp) == 0 {
+				continue
+			}
+			assignments[pp[0]] = dummyI18lFilter
+		}
+	}
+	return assignments
+}
+
+func assignments2nationalizations(assignments map[i18lPage]i18lPage) (lang2Nationalization map[string]nationalization.Nationalization) {
+	lang2Nationalization = map[string]nationalization.Nationalization{}
+	for from, to := range assignments {
+		n, ok := lang2Nationalization[from.Lang]
+		if !ok {
+			n = newNationalization(from.Lang)
+		}
+
+		if to == dummyI18lFilter {
+			n.Filters = pageAdd(n.Filters, from.Page)
+		} else {
+			position := sort.Search(len(n.Topics), func(i int) bool { return n.Topics[i].ID >= to.ID })
+			n.Topics[position].Categories = pageAdd(n.Topics[position].Categories, from.Page)
+		}
+
+		lang2Nationalization[from.Lang] = n
+	}
+	return
+}
+
+func pageAdd(a []nationalization.Page, x nationalization.Page) []nationalization.Page {
+	position := sort.Search(len(a), func(i int) bool { return a[i].Title >= x.Title })
+	if exist := position < len(a) && a[position].Title == x.Title; exist {
 		return a
 	}
 
@@ -246,4 +287,33 @@ func add(a []nationalization.Page, x nationalization.Page) []nationalization.Pag
 	a[position] = x
 
 	return a
+}
+
+func newNationalization(lang string) nationalization.Nationalization {
+	n, _ := nationalization.New("en")
+	n.Language = lang
+	for i := range n.Topics {
+		n.Topics[i].Categories = nil
+		n.Topics[i].Articles = nil
+	}
+	n.Filters = nil
+	return n
+}
+
+func writeJSON(filename string, v interface{}) error {
+	JSONData, err := json.MarshalIndent(v, "", "  ")
+	if err != nil {
+		return err
+	}
+
+	return ioutil.WriteFile(filename, JSONData, os.ModePerm)
+}
+
+func readJSON(filename string, v interface{}) error {
+	JSONData, err := ioutil.ReadFile(filename)
+	if err != nil {
+		return err
+	}
+
+	return json.Unmarshal(JSONData, v)
 }
