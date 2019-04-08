@@ -12,8 +12,8 @@ import (
 	"github.com/remeh/sizedwaitgroup"
 
 	"github.com/ebonetti/ctxutils"
-	"github.com/ebonetti/overpedia/nationalization"
 	"github.com/ebonetti/wikiassignment"
+	"github.com/ebonetti/wikiassignment/nationalization"
 	"github.com/ebonetti/wikibots"
 	"github.com/ebonetti/wikibrief"
 	"github.com/ebonetti/wikidump"

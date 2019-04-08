@@ -20,7 +20,7 @@ import (
 
 	"github.com/ebonetti/overpedia/internal/exporter"
 	"github.com/ebonetti/overpedia/internal/preprocessor"
-	"github.com/ebonetti/overpedia/nationalization"
+	"github.com/ebonetti/wikiassignment/nationalization"
 	"github.com/jmoiron/sqlx"
 	"github.com/pkg/errors"
 )

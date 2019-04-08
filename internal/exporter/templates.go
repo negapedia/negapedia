@@ -12,7 +12,7 @@ import (
 
 	"github.com/pkg/errors"
 
-	"github.com/ebonetti/overpedia/nationalization"
+	"github.com/ebonetti/wikiassignment/nationalization"
 )
 
 var templates *template.Template

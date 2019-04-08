@@ -4,7 +4,7 @@ import (
 	"strings"
 	"unicode"
 
-	"github.com/ebonetti/overpedia/nationalization"
+	"github.com/ebonetti/wikiassignment/nationalization"
 )
 
 var Topic topicData

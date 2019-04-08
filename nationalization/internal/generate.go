@@ -1,3 +1,0 @@
-//go:generate go-bindata -pkg $GOPACKAGE -prefix "languages/" languages/...
-
-package internal
