@@ -73,6 +73,7 @@ set -- postgres\n\
 $(cat docker-entrypoint.sh)\n\
 }; postgres-entrypoint > /dev/null 2>&1 &\n\
 \n\
+mkdir -p /data/csv;\n\
 chown -R \$(stat -c '%u:%g' /data) /data;\n\
 exec \"\$@\"" > docker-entrypoint.sh; \
 go get $PROJECT/...;
