@@ -3,11 +3,11 @@
 <head id="{{.Type}}" data-topic="{{.Topic}}">
 <meta charset="UTF-8"/>
 <meta name="viewport" content="width=device-width, initial-scale=1.0, minimum-scale=1.0"/>
-<meta property="og:image" content="http://{{.Lang}}.negapedia.org/images/logo.png"/>
+<meta property="og:image" content="http://www.negapedia.org/images/logo.png"/>
 
 <title>{{if eq .Type "topic"}}Category: {{end}}{{.Title}} - Negapedia</title>
 
-<link rel="stylesheet prefetch" type="text/css" href="../css/core.css">
+<link rel="stylesheet prefetch" type="text/css" href="http://www.negapedia.org/css/core.css">
 <link rel="canonical" href="{{.CanonicalURL}}">
 
 <script type="text/javascript" src="https://www.gstatic.com/charts/loader.js"></script>
@@ -40,7 +40,7 @@
 </div>
 
 <div id="resolver">
-<script type="text/javascript" src="../js/resolver_{{.Lang}}.js"></script>
+<script type="text/javascript" src="http://www.negapedia.org/js/resolver.js"></script>
 </div>
 
 </body></html>
