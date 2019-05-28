@@ -43,7 +43,7 @@ func (d topicData) UniversalFullFrom(ID uint32) string {
 	return topic
 }
 
-var urlsRules = strings.NewReplacer(" ", "_", "/", "∕" /*<-- http://www.fileformat.info/info/unicode/char/2215/index.htm*/)
+var urlsRules = strings.NewReplacer(" ", "_", "/", "∕", "?", "？")
 
 func pageUrl(p Page) string {
 	switch {
