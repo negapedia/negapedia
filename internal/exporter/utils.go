@@ -43,7 +43,7 @@ func (d topicData) UniversalFullFrom(ID uint32) string {
 	return topic
 }
 
-var urlsRules = strings.NewReplacer(" ", "_", "/", "∕", "?", "？")
+var urlsRules = strings.NewReplacer(" ", "_", "/", "∕", "?", "？", "#", "＃")
 
 func pageUrl(p Page) string {
 	switch {
