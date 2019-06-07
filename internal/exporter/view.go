@@ -43,7 +43,7 @@ func (v View) Transform(i interface{}) (info vFile, err error) {
 
 	reldir, file := path.Split(pagePath)
 	file = url.PathEscape(strings.TrimSuffix(file, ".html"))
-	i.(interface{ SetCanonicalLink(string) }).SetCanonicalLink("http://" + path.Join(v.model.Lang()+".negapedia.org", "articles", reldir, file))
+	i.(interface{ SetCanonicalLink(string) }).SetCanonicalLink(path.Join(v.model.Lang()+".negapedia.org", "articles", reldir, file))
 
 	err = templates.ExecuteTemplate(&b, templateName, i)
 	info = newVFile(filepath.Join("html", "articles", pagePath), b.Bytes())
