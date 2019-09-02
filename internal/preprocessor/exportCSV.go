@@ -11,13 +11,12 @@ import (
 	"strings"
 	"time"
 
-	"github.com/RoaringBitmap/roaring"
-	"github.com/ebonetti/wikibrief"
 	"github.com/gocarina/gocsv"
+	"github.com/negapedia/wikibrief"
 	"github.com/pkg/errors"
 )
 
-func (p preprocessor) exportCSV(ctx context.Context, articles <-chan article, botBlacklist map[uint32]string) (err error) {
+func (p preprocessor) exportCSV(ctx context.Context, articles <-chan wikibrief.EvolvingPage) (err error) {
 	csvArticleRevisionChan := make(chan interface{}, 10000)
 
 	//pages: topics and articles
@@ -43,39 +42,43 @@ func (p preprocessor) exportCSV(ctx context.Context, articles <-chan article, bo
 			}
 		}
 
-		pageIds := roaring.NewBitmap()
 		for a := range articles {
-			//dumps may contains spurious duplicate of the same page and empty pages, that must be removed
-			if pageIds.Contains(a.ID) || len(a.Revisions) == 0 {
-				continue
-			}
-			pageIds.Add(a.ID)
-
 			users2weight := make(map[uint32]float64, len(a.Revisions))
-			revisions := transform(a, botBlacklist)
-			for serialRevisionID, r := range revisions {
-				//Export to csv
-				if !p.FilterBots || !r.IsBot {
-					csvArticleRevisionChan <- &revisions[uint32(serialRevisionID)]
+			serialRevisionID := uint32(0)
+			oldWeight := float64(0)
+			for r := range a.Revisions {
+				serialRevisionID++
+
+				//User data
+				var userID *uint32
+				if uID := r.UserID; uID != wikibrief.AnonimousUserID {
+					userID = &uID
 				}
 
+				//Revision metric data
+				weight := float64(len(r.Text))
+				diff := weight - oldWeight
+				oldWeight = weight
+
+				//Export to csv
+				csvArticleRevisionChan <- &csvRevision{a.PageID, serialRevisionID, userID, r.IsBot, weight, diff, r.IsRevert, false, r.Timestamp.Format(time.RFC3339Nano)}
+
 				//Convert data for socialjumps
-				if r.IsBot || r.UserID == nil {
+				if r.IsBot || r.UserID == wikibrief.AnonimousUserID {
 					continue //do not use for social jumps calculations
 				}
 
-				userID := *r.UserID
-				userWeight := users2weight[userID]
+				userWeight := users2weight[r.UserID]
 				switch {
-				case r.IsRevert > 0 || r.IsReverted:
-					users2weight[userID] = math.Max(userWeight, 1.0)
-				case r.Diff <= 100.0: //&& isPositive
-					users2weight[userID] = math.Max(userWeight, 10.0)
+				case r.IsRevert > 0:
+					users2weight[r.UserID] = math.Max(userWeight, 1.0)
+				case diff <= 100.0: //&& isPositive
+					users2weight[r.UserID] = math.Max(userWeight, 10.0)
 				case userWeight <= 10:
 					userWeight = 0 //Resetting weight for different scheme.
 					fallthrough
 				default:
-					users2weight[userID] = math.Min(userWeight+r.Diff/10, 100)
+					users2weight[r.UserID] = math.Min(userWeight+diff/10, 100)
 				}
 			}
 
@@ -83,9 +86,9 @@ func (p preprocessor) exportCSV(ctx context.Context, articles <-chan article, bo
 			articleMultiEdgeChan := articleMultiEdgeChan
 			for i := 0; i < 2; i++ {
 				select {
-				case csvPageChan <- &csvPage{a.ID, a.Title, a.Abstract, a.TopicID}:
+				case csvPageChan <- &csvPage{a.PageID, a.Title, a.Abstract, a.TopicID}:
 					csvPageChan = nil
-				case articleMultiEdgeChan <- multiEdge{a.ID, users2weight}:
+				case articleMultiEdgeChan <- multiEdge{a.PageID, users2weight}:
 					articleMultiEdgeChan = nil
 				case <-ctx.Done():
 					return
@@ -125,47 +128,6 @@ func (p preprocessor) exportCSV(ctx context.Context, articles <-chan article, bo
 	}
 
 	<-doneArticleRevisionWriting
-
-	return
-}
-
-func transform(article article, botBlacklist map[uint32]string) (revisions []csvRevision) {
-	revisions = make([]csvRevision, len(article.Revisions))
-
-	oldWeight := float64(0)
-	SHA12ID := make(map[string]uint32, len(article.Revisions))
-	for ID, r := range article.Revisions {
-		ID := uint32(ID)
-
-		//User data
-		var userID *uint32
-		if uID := r.UserID; uID != wikibrief.AnonimousUserID {
-			userID = &uID
-		}
-		_, isBot := botBlacklist[r.UserID]
-
-		//Revision metric data
-		diff := r.Weight - oldWeight
-		oldWeight = r.Weight
-
-		//revert count data
-		IsRevert := uint32(0)
-		oldID, isRevert := SHA12ID[r.SHA1]
-		switch {
-		case isRevert:
-			IsRevert = ID - (oldID + 1)
-			fallthrough
-		case len(r.SHA1) == 31:
-			SHA12ID[r.SHA1] = ID
-		}
-
-		revisions[ID] = csvRevision{article.ID, ID, userID, isBot, r.Weight, diff, IsRevert, true, r.Timestamp.Format(time.RFC3339Nano)}
-	}
-
-	//Add reverted data
-	for ID := len(revisions) - 1; ID >= 0; ID -= 1 + int(revisions[ID].IsRevert) {
-		revisions[ID].IsReverted = false
-	}
 
 	return
 }

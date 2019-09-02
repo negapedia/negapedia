@@ -15,7 +15,7 @@ This image take in input the nationalization and store the result of the operati
 2. `source`: source of data (`net`,`csv` or `db`), default `net`.
 3. `indices`: indices to use in graphs (`default` or `alternate`), default `default`.
 4. `keep`: keep every savepoint - `csv` and `db` - after the execution (`true` or `false`), default `false`.
-5. `nobots`: filter every edit done by a Bot before `csv` exporting (`true` or `false`), default `false`.
+5. `notfidf`: do not calculate TFID, if avaible use precalculated measures (`true` or `false`), default `false`.
 6. `test`: Run as test on a fraction of the articles before `csv` exporting (`true` or `false`), default `false`.
 
 ### Examples

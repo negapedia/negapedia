@@ -4,7 +4,7 @@ import (
 	"strings"
 	"unicode"
 
-	"github.com/ebonetti/wikiassignment/nationalization"
+	"github.com/negapedia/wikiassignment/nationalization"
 )
 
 var Topic topicData

@@ -18,16 +18,16 @@ import (
 	"syscall"
 	"time"
 
-	"github.com/ebonetti/overpedia/internal/exporter"
-	"github.com/ebonetti/overpedia/internal/preprocessor"
-	"github.com/ebonetti/wikiassignment/nationalization"
 	"github.com/jmoiron/sqlx"
+	"github.com/negapedia/negapedia/internal/exporter"
+	"github.com/negapedia/negapedia/internal/preprocessor"
+	"github.com/negapedia/wikiassignment/nationalization"
 	"github.com/pkg/errors"
 )
 
 var lang, dataSource, dbopts, indices string
 var keepSavepoints bool
-var filterBots, test bool
+var noTFIDF, test bool
 
 func init() {
 	flag.StringVar(&lang, "lang", "it", "Wikipedia nationalization to parse.")
@@ -35,7 +35,7 @@ func init() {
 	flag.StringVar(&dbopts, "db", "user=postgres dbname=postgres sslmode=disable", "Options for connecting to the db.")
 	flag.StringVar(&indices, "indices", "default", "Indices to use in graphs (default,alternate).")
 	flag.BoolVar(&keepSavepoints, "keep", false, "Keep every savepoint - csv and db - after the execution (true or false).")
-	flag.BoolVar(&filterBots, "nobots", false, "Filter every edit done by a Bot before CSV exporting.")
+	flag.BoolVar(&noTFIDF, "notfidf", false, "do not calculate TFID, if avaible use precalculated measures.")
 	flag.BoolVar(&test, "test", false, "Run as test on a fraction of the articles before CSV exporting.")
 }
 
@@ -43,7 +43,7 @@ func main() {
 	stackTraceOn(syscall.SIGUSR1) //enable logging to a file the current stack trace upon receiving the signal SIGUSR1
 	flag.Parse()
 	log.Println("Called with the command: ", strings.Join(os.Args, " "))
-	log.Printf("Interpreted as: refresh -lang = %s -source = %s -db = '%s' -indices = %s -keep = %t -nobots = %t -test = %t\n", lang, dataSource, dbopts, indices, keepSavepoints, filterBots, test)
+	log.Printf("Interpreted as: refresh -lang = %s -source = %s -db = '%s' -indices = %s -keep = %t -notfidf = %t -test = %t\n", lang, dataSource, dbopts, indices, keepSavepoints, noTFIDF, test)
 
 	start := time.Now()
 	defer func() {
@@ -52,7 +52,7 @@ func main() {
 
 	var tarball *tar.Writer
 	{
-		f, err := os.Create("overpedia.tar.gz")
+		f, err := os.Create("negapedia.tar.gz")
 		if err != nil {
 			log.Panic(err)
 		}
@@ -88,7 +88,7 @@ func main() {
 	switch dataSource {
 	case "net":
 		log.Print("Started data preprocessing and CSV export")
-		err = preprocessor.Run(context.Background(), csvDir, lang, filterBots, test)
+		err = preprocessor.Run(context.Background(), csvDir, lang, noTFIDF, test)
 		if err != nil {
 			break
 		}

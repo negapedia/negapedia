@@ -12,7 +12,7 @@ import (
 
 	"github.com/pkg/errors"
 
-	"github.com/ebonetti/wikiassignment/nationalization"
+	"github.com/negapedia/wikiassignment/nationalization"
 )
 
 var templates *template.Template
