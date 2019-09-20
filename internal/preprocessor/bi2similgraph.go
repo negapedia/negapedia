@@ -8,6 +8,7 @@ import (
 	"io"
 	"os/exec"
 	"runtime"
+	"sort"
 	"sync"
 
 	"github.com/pkg/errors"
@@ -175,25 +176,20 @@ func (p preprocessor) sortEdges(ctx context.Context, edges <-chan similgraph.Edg
 
 //topN is topN filter (based on a min-heap of WeighedEdge with limited capacity).
 func topN(top []similgraph.Edge, it func() (similgraph.Edge, bool)) (n int) {
-	for i := range top {
-		e, ok := it()
-		if !ok {
-			return i
+	h := weighedEdgeHeap(top[:0])
+	for e, ok := it(); ok; e, ok = it() {
+		switch {
+		case len(h) < cap(h): //There is space
+			heap.Push(&h, e)
+		default: //len(h) == cap(h) : first is the youngest
+			h[0] = e
+			heap.Fix(&h, 0)
 		}
-		top[i] = e
 	}
 
-	if e, ok := it(); ok {
-		h := weighedEdgeHeap(top)
-		heap.Init(&h)
-		for ; ok; e, ok = it() {
-			if e.Weight > top[0].Weight {
-				top[0] = e
-				heap.Fix(&h, 0)
-			}
-		}
-	}
-	return len(top)
+	sort.Sort(sort.Reverse(h))
+
+	return len(h)
 }
 
 // An weighedEdgeHeap is a min-heap of WeighedEdge.

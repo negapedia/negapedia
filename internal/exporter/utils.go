@@ -43,36 +43,6 @@ func (d topicData) UniversalFullFrom(ID uint32) string {
 	return topic
 }
 
-var urlsRules = strings.NewReplacer(" ", "_", "/", "∕", "?", "？", "#", "＃")
-
-func pageUrl(p Page) string {
-	switch {
-	case p.Type == _homepage:
-		return "../index.html"
-	case p.Type == _topic:
-		return "../categories/" + urlsRules.Replace(Topic.UniversalFullFrom(p.ID)) + ".html"
-	case len(p.Title) > 245: //truncate to 245 chars or less
-		title := p.Title
-		for index := range title { //range over runes - each may span over multiple characters
-			if index < 246 {
-				p.Title = title[:index]
-			} else {
-				break
-			}
-		}
-		fallthrough
-	default:
-		return "../articles/" + urlsRules.Replace(p.Title) + ".html"
-	}
-}
-
-func pageList(pages ...Page) []Page {
-	for i, p := range pages {
-		pages[i].Abstract = smartTruncate(p.Abstract, 256)
-	}
-	return pages
-}
-
 func smartTruncate(s string, limit int) string {
 	if len(s) < limit {
 		limit = len(s)

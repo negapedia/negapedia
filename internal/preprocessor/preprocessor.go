@@ -4,6 +4,7 @@ import (
 	"context"
 	"io/ioutil"
 	"os"
+	"sync"
 
 	"github.com/negapedia/wikibrief"
 
@@ -14,7 +15,9 @@ import (
 	"github.com/negapedia/wikiassignment/nationalization"
 )
 
-func Run(ctx context.Context, CSVDir, lang string, noTFIDF bool, test bool) (err error) {
+type Process func(ctx context.Context, fail func(error) error, articles <-chan wikibrief.EvolvingPage)
+
+func Run(ctx context.Context, CSVDir, lang string, test bool, processors ...Process) (err error) {
 	ctx, fail := ctxutils.WithFail(ctx)
 	defer func() {
 		if fe := fail(err); fe != nil {
@@ -46,11 +49,19 @@ func Run(ctx context.Context, CSVDir, lang string, noTFIDF bool, test bool) (err
 		return
 	}
 
-	p := preprocessor{nationalization, CSVDir, tmpDir, fail}
+	processors = append([]Process{preprocessor{nationalization, CSVDir, tmpDir, fail}.exportCSV}, processors...)
 
-	articles := wikibrief.New(ctx, fail, tmpDir, lang, test)
+	articlesChs := wikibrief.FanOut(ctx, wikibrief.New(ctx, fail, tmpDir, lang, test), len(processors))
 
-	err = p.exportCSV(ctx, articles)
+	var wg sync.WaitGroup
+	for i, p := range processors {
+		wg.Add(1)
+		go func(i int, p Process) {
+			defer wg.Done()
+			p(ctx, fail, articlesChs[i])
+		}(i, p)
+	}
+	wg.Wait()
 
 	return
 }

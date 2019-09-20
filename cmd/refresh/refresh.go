@@ -11,30 +11,36 @@ import (
 	"io"
 	"io/ioutil"
 	"log"
+	"net/url"
 	"os"
 	"os/signal"
+	"path"
 	"runtime"
 	"strings"
 	"syscall"
 	"time"
 
+	"github.com/ebonetti/ctxutils"
+
 	"github.com/jmoiron/sqlx"
 	"github.com/negapedia/negapedia/internal/exporter"
 	"github.com/negapedia/negapedia/internal/preprocessor"
 	"github.com/negapedia/wikiassignment/nationalization"
+	"github.com/negapedia/wikibrief"
+	"github.com/negapedia/wikitfidf"
 	"github.com/pkg/errors"
 )
 
-var lang, dataSource, dbopts, indices string
+var lang, dataSource, baseURL, dbopts string
 var keepSavepoints bool
 var noTFIDF, test bool
 
 func init() {
 	flag.StringVar(&lang, "lang", "it", "Wikipedia nationalization to parse.")
-	flag.StringVar(&dataSource, "source", "net", "Source of data (net,csv,db).")
+	flag.StringVar(&dataSource, "source", "net", "Source of data (net,csv).")
+	flag.StringVar(&baseURL, "URL", "http://%s.negapedia.org", "Output base URL, '%s' is the optional placeholder for subdomain.")
 	flag.StringVar(&dbopts, "db", "user=postgres dbname=postgres sslmode=disable", "Options for connecting to the db.")
-	flag.StringVar(&indices, "indices", "default", "Indices to use in graphs (default,alternate).")
-	flag.BoolVar(&keepSavepoints, "keep", false, "Keep every savepoint - csv and db - after the execution (true or false).")
+	flag.BoolVar(&keepSavepoints, "keep", false, "Keep every savepoint after the execution (true or false).")
 	flag.BoolVar(&noTFIDF, "notfidf", false, "do not calculate TFID, if avaible use precalculated measures.")
 	flag.BoolVar(&test, "test", false, "Run as test on a fraction of the articles before CSV exporting.")
 }
@@ -43,16 +49,75 @@ func main() {
 	stackTraceOn(syscall.SIGUSR1) //enable logging to a file the current stack trace upon receiving the signal SIGUSR1
 	flag.Parse()
 	log.Println("Called with the command: ", strings.Join(os.Args, " "))
-	log.Printf("Interpreted as: refresh -lang = %s -source = %s -db = '%s' -indices = %s -keep = %t -notfidf = %t -test = %t\n", lang, dataSource, dbopts, indices, keepSavepoints, noTFIDF, test)
+	log.Printf("Interpreted as: refresh -lang = %s -URL = %s -source = %s -db = '%s' -keep = %t -notfidf = %t -test = %t\n", lang, baseURL, dataSource, dbopts, keepSavepoints, noTFIDF, test)
 
 	start := time.Now()
 	defer func() {
 		log.Println("Time elapsed since start: ", time.Since(start))
 	}()
 
+	ctx, fail := ctxutils.WithFail(context.Background())
+
+	_, err := nationalization.New(lang)
+	if err != nil {
+		log.Fatalf("%+v", fail(err))
+	}
+
+	const csvDir = "csv"
+	err = os.MkdirAll(csvDir, 777)
+	if err != nil {
+		log.Fatalf("%+v", fail(err))
+	}
+
+	if dataSource == "net" {
+		log.Print("Started data preprocessing and CSV export")
+		preprocess(ctx, fail, csvDir, lang, test)
+		if ctx.Err() != nil {
+			log.Fatalf("%+v", fail(nil))
+		}
+	}
+
+	if dataSource != "csv" {
+		log.Fatalf("%+v", fail(errors.New("error: datasource "+dataSource+" not supported")))
+	}
+
+	log.Print("Started CSV importing into DB")
+	db, err := getDB()
+	if err != nil {
+		log.Fatalf("%+v", fail(err))
+	}
+
+	wwwURL, langURL, err := getURLs()
+	if err != nil {
+		log.Fatalf("%+v", fail(err))
+	}
+
+	m, dbDestructor, err := exporter.From(ctx, db, lang, csvDir, wwwURL, langURL, TFIDFExporter(ctx, fail, tfidf)...)
+	if err != nil {
+		log.Fatalf("%+v", fail(err))
+	}
+
+	if ctx.Err() != nil {
+		log.Fatalf("%+v", fail(nil))
+	}
+
+	if !keepSavepoints {
+		defer func() {
+			os.RemoveAll(csvDir)
+			tfidf.Delete()
+			dbDestructor()
+		}()
+	}
+
+	if tfidf.Lang != "" { //TFIDF data is optional
+		log.Print("Started tarball dump")
+	} else {
+		log.Print("Started tarball dump (without TFIDF data)")
+	}
+
 	var tarball *tar.Writer
 	{
-		f, err := os.Create("negapedia.tar.gz")
+		f, err := os.Create("overpedia.tar.gz")
 		if err != nil {
 			log.Panic(err)
 		}
@@ -61,91 +126,46 @@ func main() {
 		b := bufio.NewWriter(f)
 		defer b.Flush()
 
-		g := gzip.NewWriter(b)
+		g, _ := gzip.NewWriterLevel(b, gzip.BestCompression)
 		defer g.Close()
 
 		tarball = tar.NewWriter(g)
 		defer tarball.Close()
 	}
 
-	_, err := nationalization.New(lang)
-	if err != nil {
-		log.Panicf("%+v", err)
-	}
-
-	db, err := getDB()
-	if err != nil {
-		log.Fatalf("%+v", err)
-	}
-
-	const csvDir = "csv"
-	err = os.MkdirAll(csvDir, 777)
-	if err != nil {
-		log.Panicf("%+v", err)
-	}
-
-	m, dbDestructor, err := exporter.OpenModel(db, lang)
-	switch dataSource {
-	case "net":
-		log.Print("Started data preprocessing and CSV export")
-		err = preprocessor.Run(context.Background(), csvDir, lang, noTFIDF, test)
-		if err != nil {
-			break
-		}
-		fallthrough
-	case "csv":
-		log.Print("Started CSV importing into DB")
-		m, dbDestructor, err = exporter.NewModel(context.Background(), db, indices, lang, csvDir)
-	case "db":
-		//Do nothing, already opened
-	default:
-		err = errors.New("error: datasource " + dataSource + " not supported")
-	}
-	if err != nil {
-		log.Fatalf("%+v", err)
-	}
-
-	if !keepSavepoints {
-		defer func() {
-			os.RemoveAll(csvDir)
-			dbDestructor()
-		}()
-	}
-
 	log.Print("Started tarball dump")
 	var b bytes.Buffer
-	err = exporter.Walk(context.Background(), m, func(path string, info os.FileInfo, e error) (err error) {
-		if e != nil {
-			return e
-		}
 
-		if info.IsDir() {
-			return
-		}
-
+	for vfile := range m.Everything(ctx, fail) {
 		b.Reset()
-		b.Write(info.(interface {
-			Data() []byte
-		}).Data())
-		compressor := gzip.NewWriter(&b)
+		b.Write([]byte(vfile.Data))
+		compressor, _ := gzip.NewWriterLevel(&b, gzip.BestCompression)
 		if _, err = io.CopyN(compressor, &b, int64(b.Len())); err != nil {
-			return
+			fail(err)
+			break
 		}
 		if err = compressor.Close(); err != nil {
-			return
+			fail(err)
+			break
 		}
 
-		header, err := tar.FileInfoHeader(newVFile(path+".gz", b.Bytes()), "")
+		header, err := tar.FileInfoHeader(newVFile(path.Join("html", vfile.Path+".gz"), b.Bytes()), "")
 		if err != nil {
-			return
+			fail(err)
+			break
 		}
 		if err = tarball.WriteHeader(header); err != nil {
-			return
+			fail(err)
+			break
 		}
 		_, err = tarball.Write(b.Bytes())
-		return
-	})
-	if err != nil {
+		if err != nil {
+			fail(err)
+			break
+		}
+	}
+
+	if err = fail(nil); err != nil {
 		log.Fatalf("%+v", err)
 	}
 	log.Print("Tarball dump exported successfully")
@@ -165,6 +185,55 @@ func getDB() (db *sqlx.DB, err error) {
 		time.Sleep(t)
 	}
 	return
+}
+
+func getURLs() (wwwURL, langURL url.URL, err error) {
+	switch strings.Count(baseURL, "%s") {
+	case 0:
+		baseURL += "%.0s"
+	case 1:
+		//Nothing to do
+	default:
+		err = errors.New("Invalid URL: too many %s formatting placeholders in " + baseURL)
+		return
+	}
+
+	wwwURLp, err := url.Parse(fmt.Sprintf(baseURL, "www"))
+	if err != nil {
+		err = errors.WithStack(err)
+		return
+	}
+
+	langURLp, err := url.Parse(fmt.Sprintf(baseURL, lang))
+	if err != nil {
+		err = errors.WithStack(err)
+		return
+	}
+
+	return *wwwURLp, *langURLp, nil
+}
+
+var tfidf wikitfidf.Exporter
+
+func init() {
+	//Default initialization from pre-calculated data if existent
+	tfidf, _ = wikitfidf.From(lang, "TFIDF")
+}
+
+func preprocess(ctx context.Context, fail func(error) error, CSVDir, lang string, test bool) {
+	process := []preprocessor.Process{}
+	if !noTFIDF && wikitfidf.CheckAvailableLanguage(lang) == nil {
+		process = append(process, func(ctx context.Context, fail func(error) error, articles <-chan wikibrief.EvolvingPage) {
+			var tfidfErr error
+			tfidf, tfidfErr = wikitfidf.New(ctx, lang, articles, ".", wikitfidf.ReasonableLimits(), test)
+			if tfidfErr != nil {
+				fail(tfidfErr)
+			}
+		})
+	}
+	if err := preprocessor.Run(ctx, CSVDir, lang, test, process...); err != nil {
+		fail(err)
+	}
 }
 
 func stackTraceOn(sig ...os.Signal) {

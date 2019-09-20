@@ -6,13 +6,20 @@ RUN set -eux; \
 		g++ \
 		gcc \
 		libc6-dev \
-		python \
 		make \
 		p7zip-full \
 		curl \
 		ca-certificates \
 		git \
-		pkg-config; \
+		pkg-config \
+        default-jdk \
+        python \
+        python3-dev \
+		python3-pip \
+        python3-setuptools; \
+    pip3 install --no-cache-dir \
+        nltk \
+        cython; \
 	apt-get clean; \
 	rm -rf /var/lib/apt/lists/*;
 
@@ -60,7 +67,7 @@ RUN set -eux; \
 	go version;
 
 #install and compile overpedia
-ENV PROJECT github.com/ebonetti/overpedia
+ENV PROJECT github.com/negapedia/negapedia
 ADD . $GOPATH/src/$PROJECT
 RUN set -eux; \
 cd /; \

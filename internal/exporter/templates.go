@@ -11,66 +11,43 @@ import (
 	"time"
 
 	"github.com/pkg/errors"
-
-	"github.com/negapedia/wikiassignment/nationalization"
 )
 
-var templates *template.Template
-
-func init() {
-	var err error
+func templates(baseURL url.URL) (templates *template.Template, err error) {
 	if templates, err = templatesFromAssets("templates"); err != nil {
-		panic(err)
-	}
-	if err = addHomepages(templates, "negapedia.org"); err != nil {
-		panic(err)
-	}
-}
-
-const (
-	gchartImport         = "<script type=\"text/javascript\" src=\"https://www.gstatic.com/charts/loader.js\"></script>"
-	baseHomepageTemplate = gchartImport + "\n{{template \"homepage.html\" .}}"
-	pattern              = "(?s:" + gchartImport + ".*?</script>)"
-)
-
-func addHomepages(t *template.Template, baseDomain string) (err error) {
-	r := regexp.MustCompile(pattern)
-
-	var webpage []byte
-
-	defaultHomepageTemplate := baseHomepageTemplate
-	//Default to English homepage template if exist
-	webpage, err = stubbornGet("http://en." + baseDomain)
-	switch {
-	case err != nil:
 		return
-	case !r.Match(webpage):
-		return errors.New("English negapedia homepage doesn't seem to contain graph data")
-	default:
-		defaultHomepageTemplate = r.ReplaceAllString(string(webpage), baseHomepageTemplate)
 	}
-
-	for _, lang := range nationalization.List() {
-		homepageTemplate := ""
-		webpage, err = stubbornGet("http://" + lang + "." + baseDomain)
-		switch {
-		case err != nil:
-			return
-		case !r.Match(webpage):
-			homepageTemplate = defaultHomepageTemplate
-		default:
-			homepageTemplate = r.ReplaceAllString(string(webpage), baseHomepageTemplate)
-		}
-
-		if _, err = t.New(nameHomepage(lang)).Parse(homepageTemplate); err != nil {
-			return
-		}
+	if err = addHomepage(templates, baseURL); err != nil {
+		templates = nil
 	}
 	return
 }
 
-func nameHomepage(lang string) string {
-	return lang + "homepage.html"
+const (
+	gchartImport         = "<script type=\"text/javascript\" src=\"https://www.gstatic.com/charts/loader.js\"></script>"
+	baseHomepageTemplate = gchartImport + "\n{{template \"homepagedata.html\" .}}"
+	pattern              = "(?s:" + gchartImport + ".*?</script>)"
+)
+
+func addHomepage(t *template.Template, baseURL url.URL) (err error) {
+	r := regexp.MustCompile(pattern)
+
+	homepageTemplate := ""
+	webpage, err := stubbornGet(baseURL.String())
+	switch {
+	case err != nil:
+		homepageTemplate = baseHomepageTemplate
+	case !r.Match(webpage):
+		err = errors.New("Invalid homepage: old data not found in homepage")
+	default:
+		homepageTemplate = r.ReplaceAllString(string(webpage), baseHomepageTemplate)
+	}
+
+	if _, err = t.New("homepage.html").Parse(homepageTemplate); err != nil {
+		return
+	}
+
+	return
 }
 
 func stubbornGet(query string) (body []byte, err error) {

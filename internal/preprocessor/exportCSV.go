@@ -16,7 +16,7 @@ import (
 	"github.com/pkg/errors"
 )
 
-func (p preprocessor) exportCSV(ctx context.Context, articles <-chan wikibrief.EvolvingPage) (err error) {
+func (p preprocessor) exportCSV(ctx context.Context, fail func(error) error, articles <-chan wikibrief.EvolvingPage) {
 	csvArticleRevisionChan := make(chan interface{}, 10000)
 
 	//pages: topics and articles
@@ -105,7 +105,8 @@ func (p preprocessor) exportCSV(ctx context.Context, articles <-chan wikibrief.E
 		}
 	}()
 
-	if err = chan2csv(csvPageChan, filepath.Join(p.CSVDir, "pages.csv")); err != nil {
+	if err := chan2csv(csvPageChan, filepath.Join(p.CSVDir, "pages.csv")); err != nil {
+		fail(err)
 		return
 	}
 
@@ -123,7 +124,8 @@ func (p preprocessor) exportCSV(ctx context.Context, articles <-chan wikibrief.E
 		}
 	}()
 
-	if err = chan2csv(csvSocialJumpsChan, filepath.Join(p.CSVDir, "socialjumps.csv")); err != nil {
+	if err := chan2csv(csvSocialJumpsChan, filepath.Join(p.CSVDir, "socialjumps.csv")); err != nil {
+		fail(err)
 		return
 	}
 

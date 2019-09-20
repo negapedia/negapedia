@@ -1,7 +1,7 @@
 spec:
-  - name: vfile
+  - name: extdata
     local: true
     import: github.com/ebonetti/itermerge
     typeMap:
       Type:
-        expr: vFile
+        expr: ExtData

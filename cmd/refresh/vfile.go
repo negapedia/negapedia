@@ -44,8 +44,8 @@ func (e vEntity) Name() string {
 	return e.name
 }
 
-func (e1 vEntity) Less(e2 interface{ Name() string }) bool {
-	return enUSCollate.CompareString(e1.Name(), e2.Name()) == -1
+func (e vEntity) Less(e2 interface{ Name() string }) bool {
+	return enUSCollate.CompareString(e.Name(), e2.Name()) == -1
 }
 
 func (vEntity) Mode() os.FileMode {
