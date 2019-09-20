@@ -75,9 +75,7 @@ func main() {
 		if ctx.Err() != nil {
 			log.Fatalf("%+v", fail(nil))
 		}
-	}
-
-	if dataSource != "csv" {
+	} else if dataSource != "csv" {
 		log.Fatalf("%+v", fail(errors.New("error: datasource "+dataSource+" not supported")))
 	}
 
