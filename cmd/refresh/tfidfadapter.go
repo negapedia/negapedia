@@ -88,7 +88,7 @@ func TFIDFExporter(ctx context.Context, fail func(error) error, tfidf wikitfidf.
 		}
 		out := make(chan exporter.ExtData, 1)
 		outs = append(outs, out)
-		out <- exporter.ExtData{0, map[string]interface{}{"Word2Occur": globalBadWords}}
+		out <- exporter.ExtData{0, map[string]interface{}{"BWord2Occur": globalBadWords}}
 		close(out)
 	}
 
