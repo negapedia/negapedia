@@ -23,7 +23,7 @@ func TFIDFExporter(ctx context.Context, fail func(error) error, tfidf wikitfidf.
 		}
 		out := make(chan exporter.ExtData, 1)
 		outs = append(outs, out)
-		out <- exporter.ExtData{0, map[string]interface{}{"Word2Occur": globalWords}}
+		out <- exporter.ExtData{0, map[string]interface{}{"Word2Occur": globalWords.Words2Occur}}
 		close(out)
 	}
 
@@ -69,7 +69,7 @@ func TFIDFExporter(ctx context.Context, fail func(error) error, tfidf wikitfidf.
 					select {
 					case <-ctx.Done():
 						return
-					case out <- exporter.ExtData{p.ID, map[string]interface{}{"Word2Occur": p.Word2Occur, "Word2TFIDF": p.Word2TFIDF}}:
+					case out <- exporter.ExtData{p.ID, map[string]interface{}{"Word2TFIDF": p.Word2TFIDF}}:
 						//Go on
 					}
 				}
@@ -77,21 +77,7 @@ func TFIDFExporter(ctx context.Context, fail func(error) error, tfidf wikitfidf.
 		}()
 	}
 
-	//BadWords Occurrences and TF-IDF
-
-	{
-		globalBadWords, err := tfidf.GlobalBadwords(ctx, fail)
-		if err != nil {
-			fail(errors.Wrap(err, "Error while Retrieving GlobalBadWords"))
-			outs = nil
-			return
-		}
-		out := make(chan exporter.ExtData, 1)
-		outs = append(outs, out)
-		out <- exporter.ExtData{0, map[string]interface{}{"BWord2Occur": globalBadWords}}
-		close(out)
-	}
-
+	//BadWords Occurrences
 	{
 		in := tfidf.PageBadwords(ctx, fail)
 		out := make(chan exporter.ExtData, 1)
