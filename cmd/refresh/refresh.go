@@ -114,7 +114,7 @@ func main() {
 
 	var tarball *tar.Writer
 	{
-		f, err := os.Create("overpedia.tar.gz")
+		f, err := os.Create("negapedia.tar.gz")
 		if err != nil {
 			log.Panic(err)
 		}

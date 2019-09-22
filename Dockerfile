@@ -1,6 +1,5 @@
 FROM postgres:latest
 
-# gcc for cgo and petsc, python for petsc, 7z for overpedia
 RUN set -eux; \
 	apt-get update && apt-get install -y --no-install-recommends \
 		g++ \
@@ -66,7 +65,7 @@ RUN set -eux; \
 	mkdir -p "$GOPATH/src" "$GOPATH/bin" && chmod -R 777 "$GOPATH"; \
 	go version;
 
-#install and compile overpedia
+#install and compile the project
 ENV PROJECT github.com/negapedia/negapedia
 ADD . $GOPATH/src/$PROJECT
 RUN set -eux; \

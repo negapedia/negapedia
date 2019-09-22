@@ -1,5 +1,5 @@
-## Overpedia refresh mini-manual
-Overpedia refresh generator and development environment: this package and docker image is responsible of generating [negapedia](http://en.negapedia.org/), a website on social data extracted from [wikipedia](https://en.wikipedia.org).
+## Refresh mini-manual
+Negapedia refresh generator and development environment: this package and docker image is responsible of generating [negapedia](http://en.negapedia.org/), a website on social data extracted from [wikipedia](https://en.wikipedia.org).
 
 ### Requirements
 You will need a machine with internet connection, 16GB of RAM, 300GB of storage and [docker storage base directory properly setted](https://forums.docker.com/t/how-do-i-change-the-docker-image-installation-directory/1169).
