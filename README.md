@@ -13,10 +13,10 @@ This image take in input the nationalization and store the result of the operati
 ### Refresh options
 1. `lang`: [wikipedia nationalization to parse](https://github.com/negapedia/wikiassignment/tree/master/nationalization/internal/languages), default `it`.
 2. `URL`:  Output base URL, `%s` is the optional placeholder for subdomain, default `http://%s.negapedia.org`.
-3. `source`: source of data (`net` or `csv`), default `net`.
+3. `source`: source of data (`net` or `savepoint`), default `net`.
 4. `keep`: keep every savepoint after the execution (`true` or `false`), default `false`.
 5. `notfidf`: do not calculate TFID, if avaible use precalculated measures (`true` or `false`), default `false`.
-6. `test`: Run as test on a fraction of the articles before `csv` exporting (`true` or `false`), default `false`.
+6. `test`: Run as test on a fraction of the articles before `savepoint` (`true` or `false`), default `false`.
 
 ### Examples
 1. `docker run negapedia/negapedia refresh -lang en`: basic usage, run the image on the english nationalization and store the result in the in-containter `/data` folder.

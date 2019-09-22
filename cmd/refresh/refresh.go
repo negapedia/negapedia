@@ -37,12 +37,12 @@ var noTFIDF, test bool
 
 func init() {
 	flag.StringVar(&lang, "lang", "it", "Wikipedia nationalization to parse.")
-	flag.StringVar(&dataSource, "source", "net", "Source of data (net,csv).")
+	flag.StringVar(&dataSource, "source", "net", "Source of data (net,savepoint).")
 	flag.StringVar(&baseURL, "URL", "http://%s.negapedia.org", "Output base URL, '%s' is the optional placeholder for subdomain.")
 	flag.StringVar(&dbopts, "db", "user=postgres dbname=postgres sslmode=disable", "Options for connecting to the db.")
 	flag.BoolVar(&keepSavepoints, "keep", false, "Keep every savepoint after the execution (true or false).")
 	flag.BoolVar(&noTFIDF, "notfidf", false, "do not calculate TFID, if avaible use precalculated measures.")
-	flag.BoolVar(&test, "test", false, "Run as test on a fraction of the articles before CSV exporting.")
+	flag.BoolVar(&test, "test", false, "Run as test on a fraction of the articles before savepoint.")
 }
 
 func main() {
@@ -70,16 +70,21 @@ func main() {
 	}
 
 	if dataSource == "net" {
-		log.Print("Started data preprocessing and CSV export")
+		log.Print("Started data preprocessing")
 		preprocess(ctx, fail, csvDir, lang, test)
 		if ctx.Err() != nil {
 			log.Fatalf("%+v", fail(nil))
 		}
-	} else if dataSource != "csv" {
+	} else if dataSource != "savepoint" {
 		log.Fatalf("%+v", fail(errors.New("error: datasource "+dataSource+" not supported")))
 	}
 
-	log.Print("Started CSV importing into DB")
+	if tfidf.Lang == "" { //TFIDF data is optional
+		log.Print("No TFIDF data found")
+	}
+
+	log.Print("Started savepoint data import")
+
 	db, err := getDB()
 	if err != nil {
 		log.Fatalf("%+v", fail(err))
@@ -125,11 +130,8 @@ func main() {
 		defer tarball.Close()
 	}
 
-	if tfidf.Lang != "" { //TFIDF data is optional
-		log.Print("Started tarball dump")
-	} else {
-		log.Print("Started tarball dump (without TFIDF data)")
-	}
+	log.Print("Started tarball dump")
+
 	var b bytes.Buffer
 
 	for vfile := range m.Everything(ctx, fail) {
