@@ -107,12 +107,6 @@ func main() {
 		}()
 	}
 
-	if tfidf.Lang != "" { //TFIDF data is optional
-		log.Print("Started tarball dump")
-	} else {
-		log.Print("Started tarball dump (without TFIDF data)")
-	}
-
 	var tarball *tar.Writer
 	{
 		f, err := os.Create("overpedia.tar.gz")
@@ -131,7 +125,11 @@ func main() {
 		defer tarball.Close()
 	}
 
-	log.Print("Started tarball dump")
+	if tfidf.Lang != "" { //TFIDF data is optional
+		log.Print("Started tarball dump")
+	} else {
+		log.Print("Started tarball dump (without TFIDF data)")
+	}
 	var b bytes.Buffer
 
 	for vfile := range m.Everything(ctx, fail) {
