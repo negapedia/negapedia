@@ -8,6 +8,7 @@
 // db/types.sql
 // templates/data.html
 // templates/homepagedata.html
+// templates/map.html
 // templates/page.html
 // templates/pagelist.html
 // templates/topten.html
@@ -158,7 +159,7 @@ func bindataDbBasesql() (*asset, error) {
 		size: 3872,
 		md5checksum: "",
 		mode: os.FileMode(420),
-		modTime: time.Unix(1569160805, 0),
+		modTime: time.Unix(1569247872, 0),
 	}
 
 	a := &asset{bytes: bytes, info: info}
@@ -234,7 +235,7 @@ func bindataDbIndicessql() (*asset, error) {
 		size: 5106,
 		md5checksum: "",
 		mode: os.FileMode(420),
-		modTime: time.Unix(1569160805, 0),
+		modTime: time.Unix(1569247872, 0),
 	}
 
 	a := &asset{bytes: bytes, info: info}
@@ -266,8 +267,8 @@ var _bindataDbQuerypagessql = []byte(
 	"\xd7\xcd\xba\x1c\x0c\xc0\x73\x1e\x1e\x1d\xab\x77\x30\x7e\x85\x1c\xc7\xea\x7f\x29\xa0\x84\x05\xb9\x8c\xe1\x47\xe0" +
 	"\x2f\x61\xe1\xc5\x24\xf4\x16\x7d\x27\x87\x06\xfe\xb7\xbd\xb4\x3e\x0b\x53\xe9\xc8\x6b\x7d\xde\x08\xc1\x2a\x65\x97" +
 	"\xba\x27\xe9\x40\x1c\xd0\xdf\xcd\x20\x9c\xfb\x4b\x6f\xe1\xc7\xf7\x90\xb4\x5c\x71\xa2\x96\xd8\x0a\xbf\x8d\xfc\xe5" +
-	"\x15\x34\x10\xdc\x55\x02\xc1\x12\xe2\xf0\x96\x58\x1a\x3a\x99\xf5\x61\xe7\x9e\x77\x4d\x4a\xab\x6d\x7e\xe3\x7e\xbe" +
-	"\x5a\x7f\x03\x00\x00\xff\xff\xce\x34\x35\x14\x28\x08\x00\x00")
+	"\x15\x34\x10\xdc\x55\x02\xc1\x12\xe2\xf0\x96\x58\x1a\x3a\x99\xf5\x61\xe7\x9e\x77\x4d\x8a\x67\x5f\xad\xbf\x01\x00" +
+	"\x00\xff\xff\x0b\xa8\x77\x41\x19\x08\x00\x00")
 
 func bindataDbQuerypagessqlBytes() ([]byte, error) {
 	return bindataRead(
@@ -286,10 +287,10 @@ func bindataDbQuerypagessql() (*asset, error) {
 
 	info := bindataFileInfo{
 		name: "db/query-pages.sql",
-		size: 2088,
+		size: 2073,
 		md5checksum: "",
 		mode: os.FileMode(420),
-		modTime: time.Unix(1569160805, 0),
+		modTime: time.Unix(1569247872, 0),
 	}
 
 	a := &asset{bytes: bytes, info: info}
@@ -338,7 +339,7 @@ func bindataDbQuerytoptenbyyearsql() (*asset, error) {
 		size: 1212,
 		md5checksum: "",
 		mode: os.FileMode(420),
-		modTime: time.Unix(1569160805, 0),
+		modTime: time.Unix(1569247872, 0),
 	}
 
 	a := &asset{bytes: bytes, info: info}
@@ -374,7 +375,7 @@ func bindataDbTestsql() (*asset, error) {
 		size: 192,
 		md5checksum: "",
 		mode: os.FileMode(420),
-		modTime: time.Unix(1569160805, 0),
+		modTime: time.Unix(1569247872, 0),
 	}
 
 	a := &asset{bytes: bytes, info: info}
@@ -424,7 +425,7 @@ func bindataDbTypessql() (*asset, error) {
 		size: 1526,
 		md5checksum: "",
 		mode: os.FileMode(420),
-		modTime: time.Unix(1569160805, 0),
+		modTime: time.Unix(1569247872, 0),
 	}
 
 	a := &asset{bytes: bytes, info: info}
@@ -433,15 +434,15 @@ func bindataDbTypessql() (*asset, error) {
 }
 
 var _bindataTemplatesDatahtml = []byte(
-	"\x1f\x8b\x08\x00\x00\x00\x00\x00\x00\xff\x5c\x8e\x41\x4b\xc3\x40\x10\x85\xef\xfb\x2b\x1e\xa5\x07\x85\x25\x3f\xc0" +
-	"\x90\x43\xc0\x2a\x22\x2d\xd2\x8a\x1e\x42\x0e\x8b\x99\x86\x25\xc9\x34\x24\xb1\xa6\x0c\xf3\xdf\x65\xb3\xa2\xc5\xdb" +
-	"\x9b\x79\x33\xdf\x7b\x67\x37\x60\xb7\x79\xcc\xf7\xf9\xee\xf9\x80\x0c\x85\xc8\xe0\xb8\x26\x24\x7b\xc7\x8d\xe7\x7a" +
-	"\x54\x35\x00\x82\xb1\xac\x54\xad\x48\xf2\x42\xc3\x07\xf1\xe4\x5b\x8a\xf3\x3d\xf1\x48\xff\x97\x4f\x5c\xd1\x1c\x65" +
-	"\xde\x9d\xb8\x8e\xf2\xd0\x3b\x8e\xea\xcd\xb5\x9f\xa4\x5a\x5a\x11\xe2\x4a\xd5\x94\xa9\x31\x22\x88\x05\xd6\x47\x4f" +
-	"\x6d\x65\xb1\xf6\x7c\x3c\xe1\x2e\x43\xb2\x99\x27\x1a\xd8\xb5\x0f\xc1\x18\xa1\x6a\x42\x7b\x91\x9f\x53\xa8\x22\x03" +
-	"\xd3\x17\xb6\xae\xbf\x29\xfe\x40\x0d\x5d\x2c\xd6\xe7\x90\x16\x38\x11\xa8\x5a\xac\xc2\x6b\x43\x17\xa8\xae\xec\xc2" +
-	"\x89\x37\xb1\x12\x88\x03\xb2\xbc\x4d\xcd\xef\x60\x96\xc4\xce\xf3\xbb\x6f\x3c\x32\x88\x24\x5b\xcf\xaf\xbe\xa3\x71" +
-	"\x72\x5d\xaf\x6a\xd1\xb9\xf9\xca\x74\xf3\x95\x99\x7e\x07\x00\x00\xff\xff\x65\x62\xcf\xb5\x6d\x01\x00\x00")
+	"\x1f\x8b\x08\x00\x00\x00\x00\x00\x00\xff\xa4\x8e\x4f\x6b\xc2\x40\x10\xc5\xef\xfb\x29\x06\xcf\xb2\x87\x5e\x83\x87" +
+	"\x88\xa6\x48\xa9\x2d\x2a\xf5\x50\x3c\x0c\xc9\x10\x17\x77\xc7\xb0\x59\xdb\xc0\x30\xdf\xbd\x24\xa1\x34\x78\x28\x94" +
+	"\xde\xde\x1f\xde\x8f\xf7\x81\x11\xb6\xeb\xc7\x7c\x97\x6f\x9f\xf6\xb0\x80\x77\x91\x88\x5c\x13\xd8\x1d\xf2\xc5\x71" +
+	"\xdd\xaa\x1a\x00\xe8\x8b\x21\x52\x9d\x8b\xd8\x57\x8a\x25\x71\x72\x9e\x46\xbf\x22\x6e\xe9\x3e\xdc\x70\x45\xdd\x28" +
+	"\xf3\x70\xe5\x7a\x94\xfb\x06\x79\x54\x6f\xe8\x6f\xa4\x7a\x9a\x8b\x10\x57\xaa\xe6\x94\x19\x23\xf2\xe9\xd2\x19\xec" +
+	"\xba\x4b\x14\x19\x7d\xe1\xc8\x57\xad\x3d\x5e\x63\xf5\xf0\x52\x96\xb7\xa8\xda\x7f\xfe\xf1\xb0\x00\x91\x44\xa1\xf1" +
+	"\x98\x08\x66\x01\x1b\x7b\x4e\xc1\xcf\xc0\xaa\x66\xdf\xe4\xdf\xa8\x87\x62\xb3\x2a\x26\xd4\xc1\xff\x87\xba\xbc\x3f" +
+	"\xbb\xfc\xe3\x5b\xd3\x8f\x82\xe3\xa3\xbb\xb8\x61\x60\x9f\x1d\x1f\x5c\xa0\x36\x61\x68\x54\xe7\x10\xb0\x9b\x94\xd8" +
+	"\x4d\xca\xec\x2b\x00\x00\xff\xff\x6a\x85\xa7\x59\xd3\x01\x00\x00")
 
 func bindataTemplatesDatahtmlBytes() ([]byte, error) {
 	return bindataRead(
@@ -460,10 +461,10 @@ func bindataTemplatesDatahtml() (*asset, error) {
 
 	info := bindataFileInfo{
 		name: "templates/data.html",
-		size: 365,
+		size: 467,
 		md5checksum: "",
 		mode: os.FileMode(436),
-		modTime: time.Unix(1568907181, 0),
+		modTime: time.Unix(1569247484, 0),
 	}
 
 	a := &asset{bytes: bytes, info: info}
@@ -500,6 +501,40 @@ func bindataTemplatesHomepagedatahtml() (*asset, error) {
 		md5checksum: "",
 		mode: os.FileMode(436),
 		modTime: time.Unix(1559233540, 0),
+	}
+
+	a := &asset{bytes: bytes, info: info}
+
+	return a, nil
+}
+
+var _bindataTemplatesMaphtml = []byte(
+	"\x1f\x8b\x08\x00\x00\x00\x00\x00\x00\xff\xca\x4b\x2d\x57\xf0\x4d\x2c\xd0\x88\xae\xae\x56\x28\x4a\xcc\x4b\x4f\x55" +
+	"\x50\xc9\x4e\xad\xd4\x51\x50\x29\x4b\xcc\x29\x4d\x55\xb0\xb2\x55\xd0\x53\xa8\xad\x05\xc9\x82\xc4\x15\x6a\x6b\x75" +
+	"\x14\x40\x6c\x88\x6c\x6d\x6d\xac\x4e\x75\xb5\x42\x6a\x5e\x0a\x88\xa9\x09\x08\x00\x00\xff\xff\xc0\x42\x2e\x5c\x4c" +
+	"\x00\x00\x00")
+
+func bindataTemplatesMaphtmlBytes() ([]byte, error) {
+	return bindataRead(
+		_bindataTemplatesMaphtml,
+		"templates/map.html",
+	)
+}
+
+
+
+func bindataTemplatesMaphtml() (*asset, error) {
+	bytes, err := bindataTemplatesMaphtmlBytes()
+	if err != nil {
+		return nil, err
+	}
+
+	info := bindataFileInfo{
+		name: "templates/map.html",
+		size: 76,
+		md5checksum: "",
+		mode: os.FileMode(420),
+		modTime: time.Unix(1569246946, 0),
 	}
 
 	a := &asset{bytes: bytes, info: info}
@@ -712,6 +747,7 @@ var _bindata = map[string]func() (*asset, error){
 	"db/types.sql":                bindataDbTypessql,
 	"templates/data.html":         bindataTemplatesDatahtml,
 	"templates/homepagedata.html": bindataTemplatesHomepagedatahtml,
+	"templates/map.html":          bindataTemplatesMaphtml,
 	"templates/page.html":         bindataTemplatesPagehtml,
 	"templates/pagelist.html":     bindataTemplatesPagelisthtml,
 	"templates/topten.html":       bindataTemplatesToptenhtml,
@@ -780,6 +816,7 @@ var _bintree = &bintree{Func: nil, Children: map[string]*bintree{
 	"templates": {Func: nil, Children: map[string]*bintree{
 		"data.html": {Func: bindataTemplatesDatahtml, Children: map[string]*bintree{}},
 		"homepagedata.html": {Func: bindataTemplatesHomepagedatahtml, Children: map[string]*bintree{}},
+		"map.html": {Func: bindataTemplatesMaphtml, Children: map[string]*bintree{}},
 		"page.html": {Func: bindataTemplatesPagehtml, Children: map[string]*bintree{}},
 		"pagelist.html": {Func: bindataTemplatesPagelisthtml, Children: map[string]*bintree{}},
 		"topten.html": {Func: bindataTemplatesToptenhtml, Children: map[string]*bintree{}},

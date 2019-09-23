@@ -29,7 +29,7 @@ func externalDataAdapter(ctx context.Context, fail func(error) error, extDataCha
 
 	nexts := []func() (data ExtData, ok bool){}
 	for _, ch := range extDataChannels {
-		oldData := ExtData{}
+		ch, oldData := ch, ExtData{}
 		nexts = append(nexts, func() (data ExtData, ok bool) {
 			select {
 			case <-ctx.Done():
@@ -54,7 +54,14 @@ func externalDataAdapter(ctx context.Context, fail func(error) error, extDataCha
 
 	merger := extdataIterMergeFrom(nexts...)
 
+	oldID := uint32(0)
 	return func(i *Info) {
+		if oldID > i.Page.ID {
+			fail(errors.Errorf("Load should be called on info ordered in increasing order by ID, but %v > %v", oldID, i.Page.ID))
+			return
+		}
+		oldID = i.Page.ID
+
 		for edata, ok := merger.Peek(); ok && edata.ID <= i.Page.ID; edata, ok = merger.Peek() {
 			merger.Next()
 			if edata.ID < i.Page.ID {

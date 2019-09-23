@@ -23,7 +23,7 @@ func TFIDFExporter(ctx context.Context, fail func(error) error, tfidf wikitfidf.
 		}
 		out := make(chan exporter.ExtData, 1)
 		outs = append(outs, out)
-		out <- exporter.ExtData{0, map[string]interface{}{"Word2Occur": globalWords.Words2Occur}}
+		out <- exporter.ExtData{0, map[string]interface{}{"Word2Occur": globalWords.Words2Occur}} //If you add fields, remember to export them in data.html template
 		close(out)
 	}
 
@@ -44,7 +44,7 @@ func TFIDFExporter(ctx context.Context, fail func(error) error, tfidf wikitfidf.
 					select {
 					case <-ctx.Done():
 						return
-					case out <- exporter.ExtData{p.TopicID, map[string]interface{}{"Word2Occur": p.Words}}:
+					case out <- exporter.ExtData{p.TopicID, map[string]interface{}{"Word2Occur": p.Words}}: //If you add fields, remember to export them in data.html template
 						//Go on
 					}
 				}
@@ -69,7 +69,7 @@ func TFIDFExporter(ctx context.Context, fail func(error) error, tfidf wikitfidf.
 					select {
 					case <-ctx.Done():
 						return
-					case out <- exporter.ExtData{p.ID, map[string]interface{}{"Word2TFIDF": p.Word2TFIDF}}:
+					case out <- exporter.ExtData{p.ID, map[string]interface{}{"Word2TFIDF": p.Word2TFIDF}}: //If you add fields, remember to export them in data.html template
 						//Go on
 					}
 				}
@@ -95,7 +95,7 @@ func TFIDFExporter(ctx context.Context, fail func(error) error, tfidf wikitfidf.
 					select {
 					case <-ctx.Done():
 						return
-					case out <- exporter.ExtData{p.PageID, map[string]interface{}{"BWord2Occur": p.BadW}}:
+					case out <- exporter.ExtData{p.PageID, map[string]interface{}{"BWord2Occur": p.BadW}}: //If you add fields, remember to export them in data.html template
 						//Go on
 					}
 				}

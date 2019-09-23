@@ -2,8 +2,8 @@ var NEGARANKS = [{{range .Rankings}}
     [{{.Rank}},{{.Percentile}},{{.DensePercentile}},{{.Index}},{{.Among}},{{.Span}},{{.Value}}],{{end}}
 ];
 
-{{ range $field, $info := .ExternalFields }}
-var {{ $field }} = new Map([{{ range $key, $value := $info }}["{{ $key }}", {{ $value }}],{{ end }}]);
-{{ end }}
+{{with .ExternalFields.Word2Occur}}var Word2Occur = {{template "map.html" .}};{{end}}
+{{with .ExternalFields.Word2TFIDF}}var Word2TFIDF = {{template "map.html" .}};{{end}}
+{{with .ExternalFields.BWord2Occur}}var BWord2Occur = {{template "map.html" .}};{{end}}
 
 var minWiki = {{.MinTimestamp}}, maxWiki = {{.MaxTimestamp}};
