@@ -6,9 +6,11 @@ You will need a machine with internet connection, 16GB of RAM, 300GB of storage 
 
 ### Description of operations flow
 This image take in input the nationalization and store the result of the operations in `/data` (in-container folder). All the operation of data fetching are totally automatized and the result is [negapedia website](http://negapedia.org) in the form of a gzipped tarball of gzipped webpages. The operations flow is composed of thee phases:
-1. preprocessing of data and exporting to csv - CPU intensive, it requires a good internet connection and 16GB of RAM.
-2. construction of in-container database - IO intensive, requires 300GB of storage, best if SSD.
-3. exporting and compressing the static website from quering the database.
+1. preprocessing of data: CPU intensive, it requires a good internet connection and 16GB of RAM;
+2. exporting to csv, CPU intensive.
+3. (optional) calculating [TFIDF](https://github.com/negapedia/wikitfidf), CPU and IO intensive.
+4. construction of in-container database - IO intensive, requires 300GB of storage, best if SSD.
+5. exporting and compressing the static website from quering the database and TFIDF data.
 
 ### Refresh options
 1. `lang`: [wikipedia nationalization to parse](https://github.com/negapedia/wikiassignment/tree/master/nationalization/internal/languages), default `it`.
