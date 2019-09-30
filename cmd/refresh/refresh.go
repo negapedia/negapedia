@@ -33,23 +33,23 @@ import (
 
 var lang, dataSource, baseURL, dbopts string
 var keepSavepoints bool
-var noTFIDF, test bool
+var calculateTFIDF, test bool
 
 func init() {
 	flag.StringVar(&lang, "lang", "it", "Wikipedia nationalization to parse.")
 	flag.StringVar(&dataSource, "source", "net", "Source of data (net,savepoint).")
-	flag.StringVar(&baseURL, "URL", "http://%s.negapedia.org", "Output base URL, '%s' is the optional placeholder for subdomain.")
+	flag.StringVar(&baseURL, "url", "http://%s.negapedia.org", "Output base URL, '%s' is the optional placeholder for subdomain.")
 	flag.StringVar(&dbopts, "db", "user=postgres dbname=postgres sslmode=disable", "Options for connecting to the db.")
 	flag.BoolVar(&keepSavepoints, "keep", false, "Keep every savepoint after the execution (true or false).")
-	flag.BoolVar(&noTFIDF, "notfidf", false, "do not calculate TFID, if avaible use precalculated measures.")
-	flag.BoolVar(&test, "test", false, "Run as test on a fraction of the articles before savepoint.")
+	flag.BoolVar(&calculateTFIDF, "tfidf", false, "Calculate TFIDF, if false, try available precalculated measures (true or false).")
+	flag.BoolVar(&test, "test", false, "Run as test on a fraction of the articles before savepoint (true or false).")
 }
 
 func main() {
 	stackTraceOn(syscall.SIGUSR1) //enable logging to a file the current stack trace upon receiving the signal SIGUSR1
 	flag.Parse()
 	log.Println("Called with the command: ", strings.Join(os.Args, " "))
-	log.Printf("Interpreted as: refresh -lang = %s -URL = %s -source = %s -db = '%s' -keep = %t -notfidf = %t -test = %t\n", lang, baseURL, dataSource, dbopts, keepSavepoints, noTFIDF, test)
+	log.Printf("Interpreted as: refresh -lang = %s -url = %s -source = %s -db = '%s' -keep = %t -tfidf = %t -test = %t\n", lang, baseURL, dataSource, dbopts, keepSavepoints, calculateTFIDF, test)
 
 	start := time.Now()
 	defer func() {
@@ -220,7 +220,7 @@ func init() {
 
 func preprocess(ctx context.Context, fail func(error) error, CSVDir, lang string, test bool) {
 	process := []preprocessor.Process{}
-	if !noTFIDF && wikitfidf.CheckAvailableLanguage(lang) == nil {
+	if calculateTFIDF && wikitfidf.CheckAvailableLanguage(lang) == nil {
 		process = append(process, func(ctx context.Context, fail func(error) error, articles <-chan wikibrief.EvolvingPage) {
 			var tfidfErr error
 			tfidf, tfidfErr = wikitfidf.New(ctx, lang, articles, ".", wikitfidf.ReasonableLimits(), test)
