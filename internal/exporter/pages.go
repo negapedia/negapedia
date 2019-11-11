@@ -134,12 +134,6 @@ func (i Info) FilePath() string {
 	}
 }
 
-func (i Info) CanonicalURL() string {
-	URL := i.langURL
-	URL.Path = path.Join(URL.Path, strings.TrimSuffix(i.FilePath(), ".html"))
-	return URL.String()
-}
-
 type ranking struct {
 	Rank                        int
 	percentile, densePercentile float64

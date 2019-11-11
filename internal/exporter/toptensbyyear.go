@@ -111,12 +111,6 @@ func (i TopTenInfo) FilePath() string {
 	return path.Join("toptens", year, i.Index, topic+".html")
 }
 
-func (i TopTenInfo) CanonicalURL() string {
-	URL := i.langURL
-	URL.Path = path.Join(URL.Path, strings.TrimSuffix(i.FilePath(), ".html"))
-	return URL.String()
-}
-
 func (i TopTenInfo) Span() string {
 	span := fmt.Sprint(i.Year)
 	if i.Year == 0 {
