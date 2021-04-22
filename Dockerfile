@@ -23,7 +23,7 @@ RUN set -eux; \
 	rm -rf /var/lib/apt/lists/*;
 
 #install latest petsc
-ENV PETSC_DOWNLOAD_URL http://ftp.mcs.anl.gov/pub/petsc/petsc-lite.tar.gz
+ENV PETSC_DOWNLOAD_URL https://ftp.mcs.anl.gov/pub/petsc/petsc-lite-3.9.tar.gz
 ENV PETSC_ARCH arch-linux2-c-opt
 ENV PETSC_DIR /usr/local/petsc
 ENV PETSC_LIB $PETSC_DIR/$PETSC_ARCH/lib/
