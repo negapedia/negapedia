@@ -82,8 +82,8 @@ $(cat docker-entrypoint.sh)\n\
 mkdir -p /data/csv;\n\
 chown -R \$(stat -c '%u:%g' /data) /data;\n\
 exec \"\$@\"" > docker-entrypoint.sh; \
-go get $PROJECT/... \
-go get github.com/negapedia/wikitfidf/...;
+go get $PROJECT/...;
+RUN go get github.com/negapedia/wikitfidf...;
 
 WORKDIR /data
 ENTRYPOINT ["docker-entrypoint.sh"]
