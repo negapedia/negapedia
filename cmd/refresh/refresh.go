@@ -13,6 +13,7 @@ import (
 	"log"
 	"net/url"
 	"os"
+	"os/exec"
 	"os/signal"
 	"path"
 	"runtime"
@@ -57,6 +58,24 @@ func main() {
 	}()
 
 	ctx, fail := ctxutils.WithFail(context.Background())
+	
+	commandArgs := []string{"13", "main"} // for creating  the cluster 
+        cmd := exec.CommandContext(ctx, "pg_createcluster", commandArgs...)
+        var cmdStderr bytes.Buffer
+        cmd.Stderr = &cmdStderr
+        fmt.Println(cmd.String())
+        if err = cmd.Run(); err != nil {
+                fmt.Println(cmdStderr.String())
+        }
+        
+        commandArgs2 := []string{"start"} // for creating  the cluster 
+        cmd2 := exec.CommandContext(ctx, "/etc/init.d/postgresql", commandArgs2...)
+        var cmdStderr2 bytes.Buffer
+        cmd2.Stderr = &cmdStderr2
+        fmt.Println(cmd2.String())
+        if err = cmd2.Run(); err != nil {
+                fmt.Println(cmdStderr2.String())
+        }
 
 	_, err := nationalization.New(lang)
 	if err != nil {
