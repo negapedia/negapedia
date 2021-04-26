@@ -83,7 +83,7 @@ mkdir -p /data/csv;\n\
 chown -R \$(stat -c '%u:%g' /data) /data;\n\
 exec \"\$@\"" > docker-entrypoint.sh; \
 go get $PROJECT/...;
-RUN git clone https://github.com/negapedia/wikitfidf.git /go/src/github.com/negapedia/wikitfidf;
+RUN go get github.com/negapedia/wikitfidf/...;
 
 WORKDIR /data
 ENTRYPOINT ["docker-entrypoint.sh"]
