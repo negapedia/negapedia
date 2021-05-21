@@ -1,4 +1,4 @@
-FROM postgres:latest
+FROM postgres:9
 
 RUN set -eux; \
 	apt-get update && apt-get install -y --no-install-recommends \
@@ -81,7 +81,24 @@ $(cat docker-entrypoint.sh)\n\
 \n\
 mkdir -p /data/csv;\n\
 chown -R \$(stat -c '%u:%g' /data) /data;\n\
-exec \"\$@\"" > docker-entrypoint.sh; \
+\n\
+echo "CREATING CLUSTER";\n\
+pg_createcluster 9.6 main; \n\
+echo "STARTING PSQL";\n\
+/etc/init.d/postgresql start;\n\
+echo "SETTING UP FILES";\n\
+echo "local   all             postgres                                trust" >> /etc/postgresql/9.6/main/pg_hba.conf\n\
+#echo "listen_addresses='*'" >> /etc/postgresql/9.6/main/postgresql.conf\n\
+# /usr/lib/postgresql/9.6/bin/postgres -D /var/lib/postgresql/9.6/main -c  config_file=/etc/postgresql/9.6/main/postgresql.conf\n\
+echo "RESTARTING THE SERVER";\n\
+/etc/init.d/postgresql restart;\n\
+apt-get update && apt-get install sudo;\n\
+echo "CHANGING PWD POSTGRES";\n\
+sudo -u postgres psql -c \"ALTER USER postgres PASSWORD 'postgres';\"\n\
+#/usr/lib/postgresql/9.6/bin/pg_ctl -D /var/lib/postgresql/9.6/main -l logfile start\n\
+\n\
+exec \"\$@\"\n\n \"" > docker-entrypoint.sh; \
+
 go get $PROJECT/...;
 RUN git clone https://github.com/negapedia/wikitfidf.git /go/src/github.com/negapedia/wikitfidf;
 
