@@ -39,7 +39,7 @@ RUN set -eux; \
 #        Optimization: if compiled somewhere, may not work elsewhere.
 #        COPTFLAGS='-O3 -march=native -mtune=native' \
         --download-mpich --download-f2cblaslapack; \
-    #make all test; \
+    make all test; \
     rm -rf /tmp/* /var/tmp/*;
 
 #install latest golang
