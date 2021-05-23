@@ -39,7 +39,7 @@ RUN set -eux; \
 #        Optimization: if compiled somewhere, may not work elsewhere.
 #        COPTFLAGS='-O3 -march=native -mtune=native' \
         --download-mpich --download-f2cblaslapack; \
-    make all test; \
+    #make all test; \
     rm -rf /tmp/* /var/tmp/*;
 
 #install latest golang
@@ -82,18 +82,18 @@ $(cat docker-entrypoint.sh)\n\
 mkdir -p /data/csv;\n\
 chown -R \$(stat -c '%u:%g' /data) /data;\n\
 \n\
-echo "CREATING CLUSTER";\n\
+echo CREATING CLUSTER;\n\
 pg_createcluster 9.6 main; \n\
-echo "STARTING PSQL";\n\
+echo STARTING PSQL;\n\
 /etc/init.d/postgresql start;\n\
-echo "SETTING UP FILES";\n\
+echo SETTING UP FILES;\n\
 echo "local   all             postgres                                trust" >> /etc/postgresql/9.6/main/pg_hba.conf\n\
 #echo "listen_addresses='*'" >> /etc/postgresql/9.6/main/postgresql.conf\n\
 # /usr/lib/postgresql/9.6/bin/postgres -D /var/lib/postgresql/9.6/main -c  config_file=/etc/postgresql/9.6/main/postgresql.conf\n\
-echo "RESTARTING THE SERVER";\n\
+echo RESTARTING THE SERVER;\n\
 /etc/init.d/postgresql restart;\n\
 apt-get update && apt-get install sudo;\n\
-echo "CHANGING PWD POSTGRES";\n\
+echo CHANGING PWD POSTGRES\n\
 sudo -u postgres psql -c \"ALTER USER postgres PASSWORD 'postgres';\"\n\
 #/usr/lib/postgresql/9.6/bin/pg_ctl -D /var/lib/postgresql/9.6/main -l logfile start\n\
 \n\
