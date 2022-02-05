@@ -1,8 +1,8 @@
 FROM ubuntu:latest
 
 RUN set -eux; \
-	apt-get update && apt-get install -y --no-install-recommends \
-        postgresql \
+	apt-get update && DEBIAN_FRONTEND=noninteractive apt-get install -y --no-install-recommends \
+        postgresql-12 \
 		g++ \
 		gcc \
 		libc6-dev \
@@ -17,7 +17,11 @@ RUN set -eux; \
         python3-dev \
 		python3-pip \
         python3-setuptools \
-        python3-wheel; \
+        python3-wheel \
+        sudo; \
+    sed -i '/en_US.UTF-8/s/^# //g' /etc/locale.gen ;\
+    locale-gen ;\
+    apt-get -y install locales ;\
     pip3 install --no-cache-dir -U \
         nltk \
         cython \
@@ -42,6 +46,8 @@ RUN set -eux; \
 	apt-get clean; \
 	rm -rf /var/lib/apt/lists/*;
 
+#complete locale definitions
+ENV LANG=en_US.UTF-8 \ LANGUAGE=en_US \ LC_ALL=en_US.UTF-8
 #install latest petsc
 ENV PETSC_DOWNLOAD_URL https://ftp.mcs.anl.gov/pub/petsc/petsc-lite-3.9.tar.gz
 ENV PETSC_ARCH arch-linux2-c-opt
@@ -59,7 +65,8 @@ RUN set -eux; \
 #        Optimization: if compiled somewhere, may not work elsewhere.
 #        COPTFLAGS='-O3 -march=native -mtune=native' \
         --download-mpich --download-f2cblaslapack; \
-    make all test; \
+#    make all test; @@debug omitted \
+    make all; \
     rm -rf /tmp/* /var/tmp/*;
 
 #install latest golang
@@ -92,36 +99,19 @@ RUN set -eux; \
 cd /; \
 echo "#!/usr/bin/env bash\n\
 set -e;\n\
-\n\
-#Fork exec the postgres docker-entrypoint with postgres as command \n\
-postgres-entrypoint() {\n\
-set -- postgres\n\
-$(cat docker-entrypoint.sh)\n\
-}; postgres-entrypoint > /dev/null 2>&1 &\n\
-\n\
-mkdir -p /data/csv;\n\
-chown -R \$(stat -c '%u:%g' /data) /data;\n\
-\n\
-echo CREATING CLUSTER;\n\
-pg_createcluster 9.6 main; \n\
-echo STARTING PSQL;\n\
+echo \"STARTING PSQL\";\n\
 /etc/init.d/postgresql start;\n\
-echo SETTING UP FILES;\n\
-echo "local   all             postgres                                trust" >> /etc/postgresql/9.6/main/pg_hba.conf\n\
-#echo "listen_addresses='*'" >> /etc/postgresql/9.6/main/postgresql.conf\n\
-# /usr/lib/postgresql/9.6/bin/postgres -D /var/lib/postgresql/9.6/main -c  config_file=/etc/postgresql/9.6/main/postgresql.conf\n\
-echo RESTARTING THE SERVER;\n\
+echo \"SETTING UP FILES\";\n\
+echo \"local   all             postgres                                trust\" >> /etc/postgresql/12/main/pg_hba.conf\n\
+echo \"RESTARTING THE SERVER\";\n\
 /etc/init.d/postgresql restart;\n\
-apt-get update && apt-get install sudo;\n\
-echo CHANGING PWD POSTGRES\n\
+echo \"CHANGING PWD POSTGRES\";\n\
 sudo -u postgres psql -c \"ALTER USER postgres PASSWORD 'postgres';\"\n\
-#/usr/lib/postgresql/9.6/bin/pg_ctl -D /var/lib/postgresql/9.6/main -l logfile start\n\
-\n\
-exec \"\$@\"\n\n \"" > docker-entrypoint.sh; \
-
+exec \"\$@\"\n" > /usr/local/bin/docker-entrypoint.sh; \
+chmod a+x /usr/local/bin/docker-entrypoint.sh; \
 go get $PROJECT/...;
 RUN git clone https://github.com/negapedia/wikitfidf.git /go/src/github.com/negapedia/wikitfidf;
 
 WORKDIR /data
-ENTRYPOINT ["docker-entrypoint.sh"]
+ENTRYPOINT ["/usr/local/bin/docker-entrypoint.sh"]
 CMD ["refresh"]
