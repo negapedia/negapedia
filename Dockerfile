@@ -1,7 +1,9 @@
 FROM ubuntu:latest
 
+ARG DEBIAN_FRONTEND=noninteractive
+
 RUN set -eux; \
-	apt-get update && DEBIAN_FRONTEND=noninteractive apt-get install -y --no-install-recommends \
+	apt-get update && apt-get install -y --no-install-recommends \
         postgresql-12 \
 		g++ \
 		gcc \
@@ -62,12 +64,11 @@ RUN set -eux; \
     mv petsc* petsc; \
     cd $PETSC_DIR; \
     ./configure --with-cc=gcc --with-cxx=0 --with-fc=0 --with-debugging=0 \
-#        Optimization: if compiled somewhere, may not work elsewhere.
-#        COPTFLAGS='-O3 -march=native -mtune=native' \
         --download-mpich --download-f2cblaslapack; \
-#    make all test; @@debug omitted \
-    make all; \
+    make all test; \
     rm -rf /tmp/* /var/tmp/*;
+#        PETSC configure Optimization: if compiled somewhere, may not work elsewhere.
+#        COPTFLAGS='-O3 -march=native -mtune=native' \
 
 #install latest golang
 ENV GO_DIR /usr/local/go
