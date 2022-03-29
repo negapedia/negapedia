@@ -24,7 +24,8 @@ RUN set -eux; \
     sed -i '/en_US.UTF-8/s/^# //g' /etc/locale.gen ;\
     locale-gen ;\
     apt-get -y install locales ;\
-    pip3 install --no-cache-dir -U \
+    pip3 install --no-cache-dir -Iv click==8.0.4 ;\
+    pip3 install --no-cache-dir \
         nltk \
         cython \
         spacy[ja,th]; \
