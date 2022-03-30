@@ -111,7 +111,7 @@ echo \"CHANGING PWD POSTGRES\";\n\
 sudo -u postgres psql -c \"ALTER USER postgres PASSWORD 'postgres';\"\n\
 exec \"\$@\"\n" > /usr/local/bin/docker-entrypoint.sh; \
 chmod a+x /usr/local/bin/docker-entrypoint.sh; \
-go get $PROJECT/...;
+go install $PROJECT/...@latest;
 RUN git clone https://github.com/negapedia/wikitfidf.git /go/src/github.com/negapedia/wikitfidf;
 
 WORKDIR /data
