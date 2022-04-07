@@ -20,6 +20,7 @@ RUN set -eux; \
 		python3-pip \
         python3-setuptools \
         python3-wheel \
+        rsync \
         sudo; \
     sed -i '/en_US.UTF-8/s/^# //g' /etc/locale.gen ;\
     locale-gen ;\
