@@ -29,6 +29,7 @@ RUN set -eux; \
     pip3 install --no-cache-dir \
         nltk \
         cython \
+        torch --extra-index-url https://download.pytorch.org/whl/cpu \
         spacy[ja,th]; \
     python3 -m spacy download ca_core_news_sm; \
     python3 -m spacy download da_core_news_sm; \
