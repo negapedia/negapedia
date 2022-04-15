@@ -79,7 +79,7 @@ ENV GOPATH /go
 ENV PATH $GOPATH/bin:$GO_DIR/bin:$PATH
 RUN set -eux; \
 	cd $GO_DIR/..; \
-    V=10; \
+    V=18; \
     while curl --output /dev/null --silent --head --fail "https://dl.google.com/go/go1.$V.linux-amd64.tar.gz"; do \
         GO_DOWNLOAD_URL="https://dl.google.com/go/go1.$V.linux-amd64.tar.gz"; \
         V=$((V+1)); \
