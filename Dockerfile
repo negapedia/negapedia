@@ -15,7 +15,7 @@ RUN set -eux; \
 		git \
 		pkg-config \
         default-jdk \
-        python \
+        python3 \
         python3-dev \
 		python3-pip \
         python3-setuptools \
@@ -41,6 +41,7 @@ RUN set -eux; \
     python3 -m spacy download it_core_news_sm; \
     python3 -m spacy download ja_core_news_sm; \
     python3 -m spacy download lt_core_news_sm; \
+    python3 -m spacy download mk_core_news_sm; \
     python3 -m spacy download nl_core_news_sm; \
     python3 -m spacy download pl_core_news_sm; \
     python3 -m spacy download pt_core_news_sm; \
