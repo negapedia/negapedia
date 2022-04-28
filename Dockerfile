@@ -15,7 +15,7 @@ RUN set -eux; \
 		git \
 		pkg-config \
         default-jdk \
-        python3 \
+        python \
         python3-dev \
 		python3-pip \
         python3-setuptools \
@@ -29,7 +29,6 @@ RUN set -eux; \
     pip3 install --no-cache-dir \
         nltk \
         cython \
-        torch --extra-index-url https://download.pytorch.org/whl/cpu \
         spacy[ja,th]; \
     python3 -m spacy download ca_core_news_sm; \
     python3 -m spacy download da_core_news_sm; \
